@@ -2,6 +2,11 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/39390aa4-0087-4ed3-9993-492ec240f71b/deploy-status)](https://app.netlify.com/sites/maas-margaret-hamilton/deploys)
 
+<div align="center">
+  <p>
+    <img src="docs/fiap.png" alt="Fiap" width="100%" />
+  </p>
+</div>
 
 **Third Party Microservices** é o repositório responsável por centralizar as **lambda functions** de integrações de APIs do projeto **MAS** da **FIAP**.
 
@@ -17,8 +22,8 @@
 
 #### <a id="executar-funcoes-lambda-localmente">Local: Executar funções (lambda) de serviços</a>
 Para executar as funções lambda localmente é necessário seguir os seguintes passos:
-> * Execute o comando `npm install netlify-cli -g` para instalar o pacote `Netlify CLI`.
-> * No terminal execute o comando `netlify dev` para inicializar o servidor Lambda.
+> * Execute o comando npm install para instalar os pacotes do projeto.
+> * No terminal execute o comando npm run local para inicializar o servidor Lambda.
 > * No navegador abra o URL `http://localhost:8888/.netlify/functions/places?query=01416000`
 
 ## <a id="addresses-function">Serviço 1: Addresses</a>
@@ -55,7 +60,7 @@ O serviço *addresses* realiza a busca de endereços por **texto livre**, permit
 ```
 
 #### <a id="busca-endereco-estruturado">Busca endereço completo</a>
-> The following path `/.netlify/functions/places?query=79,rua%20araujo,apto%2041,sp` will return:
+> O path de URL `/.netlify/functions/places?query=79,rua%20araujo,apto%2041,sp` retornará:
 ```json
 {
     "city": "São Paulo",
