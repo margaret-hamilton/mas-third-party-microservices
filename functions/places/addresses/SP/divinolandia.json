@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Divinolândia",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13780-000"
+    },
+    {
+        "city": "Divinolândia",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Francisca Rameires Grespan",
+        "zipcode": "13780-990"
+    },
+    {
+        "city": "Divinolândia",
+        "state": "SP",
+        "district": null,
+        "street": "Praça Ziconeca",
+        "zipcode": "13780-991"
+    },
+    {
+        "city": "Divinolândia",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Dom Bosco 53",
+        "zipcode": "13780-970"
+    }
+]

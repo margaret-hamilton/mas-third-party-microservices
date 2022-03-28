@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Chapada Gaúcha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 600",
+        "zipcode": "39314-970"
+    },
+    {
+        "city": "Chapada Gaúcha",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39314-000"
+    },
+    {
+        "city": "Chapada Gaúcha",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "38689-000"
+    },
+    {
+        "city": "Chapada Gaúcha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 600  AC Chapada Gaúcha",
+        "zipcode": "38689-970"
+    }
+]

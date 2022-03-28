@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Paranatinga",
+        "state": "MT",
+        "district": "Salto da Alegria",
+        "street": "Rua Principal",
+        "zipcode": "78871-970"
+    },
+    {
+        "city": "Paranatinga",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Marechal Rondon 500",
+        "zipcode": "78870-970"
+    },
+    {
+        "city": "Paranatinga",
+        "state": "MT",
+        "district": "",
+        "street": "",
+        "zipcode": "78870-000"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Olímpia",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua São João 971",
+        "zipcode": "15400-970"
+    },
+    {
+        "city": "Olímpia",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Miguel Irano 118",
+        "zipcode": "15400-971"
+    },
+    {
+        "city": "Olímpia",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua David de Oliveira 1450",
+        "zipcode": "15400-972"
+    },
+    {
+        "city": "Olímpia",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "15400-000"
+    }
+]

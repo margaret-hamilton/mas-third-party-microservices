@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nazaré Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel João Rodrigues dos Santos 21",
+        "zipcode": "12960-970"
+    },
+    {
+        "city": "Nazaré Paulista",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "12960-000"
+    },
+    {
+        "city": "Nazaré Paulista",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Municipal João Fabiano Barbosa",
+        "zipcode": "12969-990"
+    }
+]

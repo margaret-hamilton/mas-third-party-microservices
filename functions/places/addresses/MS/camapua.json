@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Camapuã",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Campo Grande 375",
+        "zipcode": "79420-970"
+    },
+    {
+        "city": "Camapuã",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79420-000"
+    },
+    {
+        "city": "Camapuã",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "79420-990"
+    }
+]

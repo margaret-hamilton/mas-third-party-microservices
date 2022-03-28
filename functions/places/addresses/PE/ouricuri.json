@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Ouricuri",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Adolfo Soares 53",
+        "zipcode": "56200-970"
+    },
+    {
+        "city": "Ouricuri",
+        "state": "PE",
+        "district": "Dsitrito de Barra de São Pedro",
+        "street": "Avenida Central s/n",
+        "zipcode": "56200-971"
+    },
+    {
+        "city": "Ouricuri",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56200-000"
+    },
+    {
+        "city": "Ouricuri",
+        "state": "PE",
+        "district": "Povoado de Santa Rita",
+        "street": "Rua Altemar Dutra s/n",
+        "zipcode": "56200-972"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Russas",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Dom Lino 656",
+        "zipcode": "62900-970"
+    },
+    {
+        "city": "Russas",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62900-000"
+    },
+    {
+        "city": "Russas",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "62908-990"
+    },
+    {
+        "city": "Russas",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62908-991"
+    },
+    {
+        "city": "Russas",
+        "state": "CE",
+        "district": null,
+        "street": "BR 116",
+        "zipcode": "62900-993"
+    },
+    {
+        "city": "Russas",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62900-992"
+    }
+]

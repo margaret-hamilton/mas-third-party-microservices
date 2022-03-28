@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Pedro Leopoldo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Juventino Dias 127",
+        "zipcode": "33600-971"
+    },
+    {
+        "city": "Pedro Leopoldo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Senador Melo Viana 435",
+        "zipcode": "33600-972"
+    },
+    {
+        "city": "Pedro Leopoldo",
+        "state": "MG",
+        "district": null,
+        "street": "Rua do Cruzeiro 440",
+        "zipcode": "33600-994"
+    },
+    {
+        "city": "Pedro Leopoldo",
+        "state": "MG",
+        "district": null,
+        "street": "Rua Elias Marques 50",
+        "zipcode": "33600-997"
+    },
+    {
+        "city": "Pedro Leopoldo",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "33600-000"
+    },
+    {
+        "city": "Pedro Leopoldo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Otoni Alves 242",
+        "zipcode": "33600-970"
+    },
+    {
+        "city": "Pedro Leopoldo",
+        "state": "MG",
+        "district": null,
+        "street": "Rua São Vicente s/n",
+        "zipcode": "33600-992"
+    }
+]

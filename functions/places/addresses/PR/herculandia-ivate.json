@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Herculândia (Ivaté)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87527-000"
+    },
+    {
+        "city": "Herculândia (Ivaté)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida São João",
+        "zipcode": "87527-970"
+    },
+    {
+        "city": "Herculândia (Ivaté)",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida São João",
+        "zipcode": "87527-990"
+    }
+]

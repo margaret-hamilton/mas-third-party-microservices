@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Ipanguaçu",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Avenida Luiz Gonzaga 865",
+        "zipcode": "59508-970"
+    },
+    {
+        "city": "Ipanguaçu",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59508-000"
+    },
+    {
+        "city": "Ipanguaçu",
+        "state": "RN",
+        "district": "Povoado Pataxó",
+        "street": "Rua Principal s/n",
+        "zipcode": "59508-971"
+    },
+    {
+        "city": "Ipanguaçu",
+        "state": "RN",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "59508-990"
+    },
+    {
+        "city": "Ipanguaçu",
+        "state": "RN",
+        "district": null,
+        "street": "Sítio Arapuá",
+        "zipcode": "59508-992"
+    }
+]

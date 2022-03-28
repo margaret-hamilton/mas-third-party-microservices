@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Padre Paraíso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Araçuaí 186",
+        "zipcode": "39818-970"
+    },
+    {
+        "city": "Padre Paraíso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Araçuaí s/n",
+        "zipcode": "39818-971"
+    },
+    {
+        "city": "Padre Paraíso",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39818-000"
+    }
+]

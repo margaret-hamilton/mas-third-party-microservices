@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Monte Azul",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Professor Odon Oliva 164",
+        "zipcode": "39500-970"
+    },
+    {
+        "city": "Monte Azul",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39500-000"
+    }
+]

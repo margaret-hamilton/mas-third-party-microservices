@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Planaltina",
+        "state": "DF",
+        "district": "Vale Do Amanhecer",
+        "street": "Vila Vale Do Amanhecer",
+        "zipcode": "73370-000"
+    },
+    {
+        "city": "Planaltina",
+        "state": "DF",
+        "district": "Condominio Mestre Darmas",
+        "street": "Condomínio Mestre Darmas",
+        "zipcode": "73380-000"
+    },
+    {
+        "city": "Planaltina",
+        "state": "DF",
+        "district": "Setor Tradicional",
+        "street": "Alameda Areas Especiais Norte",
+        "zipcode": "73330-250"
+    },
+    {
+        "city": "Planaltina",
+        "state": "DF",
+        "district": "Portal Do Amanhecer",
+        "street": "Condomínio Portal Do Amanhecer Ii",
+        "zipcode": "73375-200"
+    }
+]

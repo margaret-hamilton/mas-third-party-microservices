@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Descalvado",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Bonifácio 675",
+        "zipcode": "13690-970"
+    },
+    {
+        "city": "Descalvado",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13690-000"
+    },
+    {
+        "city": "Descalvado",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Padre Jeremias José Nogueira",
+        "zipcode": "13690-990"
+    }
+]

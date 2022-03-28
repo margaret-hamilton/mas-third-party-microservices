@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Fama",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Alfenas 37",
+        "zipcode": "37138-971"
+    },
+    {
+        "city": "Fama",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37138-000"
+    },
+    {
+        "city": "Fama",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37144-000"
+    },
+    {
+        "city": "Fama",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Alfenas",
+        "zipcode": "37144-971"
+    }
+]

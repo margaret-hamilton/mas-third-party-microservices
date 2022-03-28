@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Congonhinhas",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Marconi",
+        "zipcode": "86325-970"
+    },
+    {
+        "city": "Congonhinhas",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Manoel Ribas 414",
+        "zipcode": "86320-970"
+    },
+    {
+        "city": "Congonhinhas",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86320-000"
+    },
+    {
+        "city": "Congonhinhas",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Maria Vaz",
+        "zipcode": "86324-970"
+    },
+    {
+        "city": "Congonhinhas",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "86325-990"
+    },
+    {
+        "city": "Congonhinhas",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Maria Vaz",
+        "zipcode": "86324-990"
+    }
+]

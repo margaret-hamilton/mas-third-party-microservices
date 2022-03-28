@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Patis",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Sebastião Rocha 272",
+        "zipcode": "39425-972"
+    },
+    {
+        "city": "Patis",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39425-000"
+    },
+    {
+        "city": "Patis",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39378-000"
+    },
+    {
+        "city": "Patis",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Sebastião Rocha 272",
+        "zipcode": "39378-972"
+    }
+]

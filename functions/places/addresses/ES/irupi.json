@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Irupi",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Vereador Jeremias de Castro e Souza 33",
+        "zipcode": "29398-970"
+    },
+    {
+        "city": "Irupi",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29398-000"
+    },
+    {
+        "city": "Irupi",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "29399-990"
+    },
+    {
+        "city": "Irupi",
+        "state": "ES",
+        "district": null,
+        "street": "Rua João Lourenço da Silva",
+        "zipcode": "29398-993"
+    }
+]

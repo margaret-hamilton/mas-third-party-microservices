@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Aramari",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48130-000"
+    },
+    {
+        "city": "Aramari",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Juvino Cunha",
+        "zipcode": "48130-990"
+    },
+    {
+        "city": "Aramari",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Arthur Portela 28",
+        "zipcode": "48130-970"
+    },
+    {
+        "city": "Aramari",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Nossa Senhora da Conceição 43",
+        "zipcode": "48130-971"
+    }
+]

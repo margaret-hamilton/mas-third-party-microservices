@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Rio Bananal",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29920-000"
+    },
+    {
+        "city": "Rio Bananal",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Atílio Pezin 35 Lojas 07 e 08",
+        "zipcode": "29920-970"
+    },
+    {
+        "city": "Rio Bananal",
+        "state": "ES",
+        "district": null,
+        "street": "Avenida Fernando Gonçalves",
+        "zipcode": "29925-990"
+    }
+]

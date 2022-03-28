@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Penedo",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Avenida Floriano Peixoto s/n",
+        "zipcode": "57200-970"
+    },
+    {
+        "city": "Penedo",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57200-000"
+    },
+    {
+        "city": "Penedo",
+        "state": "AL",
+        "district": null,
+        "street": "Povoado Ponta Morfina",
+        "zipcode": "57200-992"
+    },
+    {
+        "city": "Penedo",
+        "state": "AL",
+        "district": null,
+        "street": "Povoado Marituba do Peixe",
+        "zipcode": "57200-991"
+    },
+    {
+        "city": "Penedo",
+        "state": "AL",
+        "district": null,
+        "street": "Povoado Tabuleiro dos Negros",
+        "zipcode": "57200-990"
+    }
+]

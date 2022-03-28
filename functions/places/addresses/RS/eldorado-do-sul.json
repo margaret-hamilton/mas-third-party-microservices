@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Eldorado do Sul",
+        "state": "RS",
+        "district": "Bom Retiro",
+        "street": "",
+        "zipcode": "92995-000"
+    },
+    {
+        "city": "Eldorado do Sul",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "92990-000"
+    },
+    {
+        "city": "Eldorado do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Emancipação 129",
+        "zipcode": "92990-970"
+    },
+    {
+        "city": "Eldorado do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Ângelo Colovim",
+        "zipcode": "92990-971"
+    }
+]

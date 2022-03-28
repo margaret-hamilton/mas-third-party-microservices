@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Rio Bonito do Iguaçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas",
+        "zipcode": "85340-970"
+    },
+    {
+        "city": "Rio Bonito do Iguaçu",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85340-000"
+    },
+    {
+        "city": "Rio Bonito do Iguaçu",
+        "state": "PR",
+        "district": "Campo do Bugre",
+        "street": "Avenida Principal",
+        "zipcode": "85340-973"
+    },
+    {
+        "city": "Rio Bonito do Iguaçu",
+        "state": "PR",
+        "district": "Assentamento Ireno Alves",
+        "street": "Avenida Principal s/n",
+        "zipcode": "85340-971"
+    }
+]

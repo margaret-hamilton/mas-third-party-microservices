@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Orleans",
+        "state": "SC",
+        "district": "Barracão",
+        "street": "Estrada Geral",
+        "zipcode": "88870-972"
+    },
+    {
+        "city": "Orleans",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88870-000"
+    },
+    {
+        "city": "Orleans",
+        "state": "SC",
+        "district": "Rio Pinheiros",
+        "street": "Estrada Rio Pinheiros Baixo",
+        "zipcode": "88870-973"
+    },
+    {
+        "city": "Orleans",
+        "state": "SC",
+        "district": "Brusque do Sul",
+        "street": "Estrada Chapadão de Brusque",
+        "zipcode": "88870-971"
+    },
+    {
+        "city": "Orleans",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro 305 Sala 03",
+        "zipcode": "88870-970"
+    }
+]

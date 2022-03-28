@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Quatiguá",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Doutor João Pessoa 435",
+        "zipcode": "86450-970"
+    },
+    {
+        "city": "Quatiguá",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86450-000"
+    }
+]

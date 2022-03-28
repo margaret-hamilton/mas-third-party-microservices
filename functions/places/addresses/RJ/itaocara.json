@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itaocara",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Sebastião da Penha Rangel 123",
+        "zipcode": "28570-970"
+    },
+    {
+        "city": "Itaocara",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28570-000"
+    },
+    {
+        "city": "Itaocara",
+        "state": "RJ",
+        "district": "Coronel Teixeira",
+        "street": "Rua José Nacif 98",
+        "zipcode": "28570-971"
+    },
+    {
+        "city": "Itaocara",
+        "state": "RJ",
+        "district": "Engenho Central",
+        "street": "Rua Engenho Central",
+        "zipcode": "28570-972"
+    }
+]

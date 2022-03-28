@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Uruana de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Vicente Alves 408",
+        "zipcode": "38630-972"
+    },
+    {
+        "city": "Uruana de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Arinos s/n",
+        "zipcode": "38630-971"
+    },
+    {
+        "city": "Uruana de Minas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38630-000"
+    },
+    {
+        "city": "Uruana de Minas",
+        "state": "MG",
+        "district": "Cercado",
+        "street": "Rua José Severino Botelho s/n",
+        "zipcode": "38630-973"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itapema",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Nereu Ramos 700",
+        "zipcode": "88220-970"
+    },
+    {
+        "city": "Itapema",
+        "state": "SC",
+        "district": "Meia Praia",
+        "street": "Avenida Nereu Ramos 4062 Loja 2",
+        "zipcode": "88220-971"
+    },
+    {
+        "city": "Itapema",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Nereu Ramos 700",
+        "zipcode": "88220-972"
+    },
+    {
+        "city": "Itapema",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88220-000"
+    }
+]

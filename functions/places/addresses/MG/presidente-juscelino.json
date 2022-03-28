@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Presidente Juscelino",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Domingos 42",
+        "zipcode": "35797-972"
+    },
+    {
+        "city": "Presidente Juscelino",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35797-000"
+    },
+    {
+        "city": "Presidente Juscelino",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39245-000"
+    },
+    {
+        "city": "Presidente Juscelino",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Achiles Diniz Couto 20",
+        "zipcode": "39245-971"
+    },
+    {
+        "city": "Presidente Juscelino",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Achiles Diniz Couto 20",
+        "zipcode": "35797-971"
+    },
+    {
+        "city": "Presidente Juscelino",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Domingos 42",
+        "zipcode": "39245-972"
+    }
+]

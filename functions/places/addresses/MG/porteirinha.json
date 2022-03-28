@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Porteirinha",
+        "state": "MG",
+        "district": "Mulungu de Minas",
+        "street": "Praça da Matriz s/n",
+        "zipcode": "39520-972"
+    },
+    {
+        "city": "Porteirinha",
+        "state": "MG",
+        "district": "Serra Branca de Minas",
+        "street": "Rua Principal s/n",
+        "zipcode": "39520-973"
+    },
+    {
+        "city": "Porteirinha",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39520-000"
+    },
+    {
+        "city": "Porteirinha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Pedro Caires 265",
+        "zipcode": "39520-970"
+    }
+]

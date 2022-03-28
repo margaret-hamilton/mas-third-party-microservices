@@ -1,0 +1,86 @@
+[
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Rubens Rangel 2600",
+        "zipcode": "29345-970"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": "Barra do Itapemirim",
+        "street": "Rua João Rodrigues Soares 154",
+        "zipcode": "29349-971"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": "Barra do Itapemirim",
+        "street": "Avenida Simão Soares 499",
+        "zipcode": "29349-970"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Manoel José da Silva",
+        "zipcode": "29345-995"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29345-000"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Antônio Martins",
+        "zipcode": "29345-994"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Salvador Ielano",
+        "zipcode": "29345-990"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Projetada",
+        "zipcode": "29345-997"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": "Praia Lagoa Funda",
+        "street": "Avenida Rubens Rangel s/n",
+        "zipcode": "29345-972"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Projetada",
+        "zipcode": "29345-993"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": "Praia Lagoa Dantas",
+        "street": "Rua Antônio Martins s/n",
+        "zipcode": "29345-983"
+    },
+    {
+        "city": "Marataízes",
+        "state": "ES",
+        "district": "Praia dos Cações",
+        "street": "Rua Manoel José da Silva s/n",
+        "zipcode": "29345-984"
+    }
+]

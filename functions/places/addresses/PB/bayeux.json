@@ -1,0 +1,2984 @@
+[
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santa Maria do Rosário",
+        "zipcode": "58309-632"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Antônio Ferreira Confessor",
+        "zipcode": "58309-882"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Antônio Felipe dos Santos",
+        "zipcode": "58306-013"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua José Fernandes de Lima",
+        "zipcode": "58309-820"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua José Rodrigues de Pontes (Loteamento Planalto II)",
+        "zipcode": "58309-781"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Irmã Mariana (Loteamento Planalto II)",
+        "zipcode": "58309-777"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Aurora",
+        "zipcode": "58307-300"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Fernanda Maria Dias de Melo (Loteamento Panorâmico)",
+        "zipcode": "58309-841"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "58309-856"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Maria de Lourdes Duarte (Loteamento Planalto II)",
+        "zipcode": "58309-772"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Primeiro de Maio (Loteamento Panorâmico)",
+        "zipcode": "58309-849"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Santa Júlia (Loteamento Planalto II)",
+        "zipcode": "58309-775"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Raimunda Maria da Conceição",
+        "zipcode": "58306-011"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Rita Vera Oliveira",
+        "zipcode": "58309-706"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Geraldo Magela (Loteamento Panorâmico)",
+        "zipcode": "58309-844"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Presidente Kennedy",
+        "zipcode": "58306-310"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Firmino Caetano",
+        "zipcode": "58306-030"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Baralho",
+        "street": "Vila Iaiá Leite",
+        "zipcode": "58305-010"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Avenida Tiradentes",
+        "zipcode": "58308-490"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Doutor Bezerra de Menezes",
+        "zipcode": "58308-510"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Circular Imaculada da Conceição",
+        "zipcode": "58309-035"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Castro Alves",
+        "zipcode": "58309-330"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Ana Nery",
+        "zipcode": "58307-560"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Celina Miranda",
+        "zipcode": "58307-170"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua João Costa Filho",
+        "zipcode": "58306-270"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua da Linha",
+        "zipcode": "58306-141"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Santa Rosa",
+        "zipcode": "58306-330"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Sete de Novembro",
+        "zipcode": "58307-420"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Severino Ramalho",
+        "zipcode": "58306-290"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Maria Feitosa",
+        "zipcode": "58308-460"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Nova Vida",
+        "zipcode": "58309-864"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Vicente Pereira da Silva",
+        "zipcode": "58308-540"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Travessa Maria Feitosa",
+        "zipcode": "58308-590"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Rosinaldo Santana",
+        "zipcode": "58308-650"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Largo São Vicente",
+        "zipcode": "58309-010"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "1ª Travessa São Vicente",
+        "zipcode": "58309-050"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Coronel Lira",
+        "zipcode": "58309-060"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Travessa Estrela",
+        "zipcode": "58309-110"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "2ª Travessa Coronel Lira",
+        "zipcode": "58309-120"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Travessa Nova",
+        "zipcode": "58309-190"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Maria José Santana",
+        "zipcode": "58308-530"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua São Vicente",
+        "zipcode": "58309-040"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Barão do Bom Retiro",
+        "zipcode": "58307-600"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Carolina Machado",
+        "zipcode": "58307-330"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Coronel João Gadelha Melo",
+        "zipcode": "58307-620"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Daura Saraiva",
+        "zipcode": "58308-130"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Doutor Sá Leitão",
+        "zipcode": "58307-580"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Estácio de Sá",
+        "zipcode": "58307-370"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "58307-520"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Flávio Maroja Filho",
+        "zipcode": "58306-090"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Francisca Almeida",
+        "zipcode": "58305-350"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Francisco Pontes",
+        "zipcode": "58306-020"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Gago Coutinho",
+        "zipcode": "58307-440"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua General Mourão Filho",
+        "zipcode": "58308-410"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "58308-100"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua João da Mata",
+        "zipcode": "58305-370"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Travessa José Dias de Vasconcelos",
+        "zipcode": "58307-380"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Avenida José Lira",
+        "zipcode": "58306-050"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Liberdade",
+        "zipcode": "58306-001"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua da Linha",
+        "zipcode": "58306-140"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Lourival Martins",
+        "zipcode": "58308-190"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Major Ciraulo",
+        "zipcode": "58308-020"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Marechal Costa e Silva",
+        "zipcode": "58305-470"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Mem de Sá",
+        "zipcode": "58307-390"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa Nossa Senhora de Lourdes",
+        "zipcode": "58308-155"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Presidente João Pessoa",
+        "zipcode": "58307-340"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa Rio do Meio",
+        "zipcode": "58308-140"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Santa Luzia",
+        "zipcode": "58307-320"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Santa Tereza",
+        "zipcode": "58306-070"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa São Francisco",
+        "zipcode": "58308-010"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Baralho",
+        "street": "Vila São Paulo",
+        "zipcode": "58305-050"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida São Sebastião",
+        "zipcode": "58306-170"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Senhor do Bonfim",
+        "zipcode": "58306-230"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Severino Alves",
+        "zipcode": "58306-320"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Severino Correia",
+        "zipcode": "58308-470"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Sizenando Oliveira",
+        "zipcode": "58306-250"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Tenente José Heleno",
+        "zipcode": "58305-450"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Teodoro da Silva",
+        "zipcode": "58307-700"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Treze de Maio",
+        "zipcode": "58306-110"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Vinte e Um de Abril",
+        "zipcode": "58306-150"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Zacarias Pereira de Miranda",
+        "zipcode": "58308-110"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Diógenes Chianca",
+        "zipcode": "58305-430"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Francisco Marques da Fonseca",
+        "zipcode": "58308-000"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua José Evandro de Vasconcelos",
+        "zipcode": "58306-200"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Monte Alegre",
+        "zipcode": "58308-050"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Doutor Pedro Ulisses",
+        "zipcode": "58306-210"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Santo Antônio",
+        "zipcode": "58309-830"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Nove de Novembro",
+        "zipcode": "58309-832"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Vinte e Cinco de Dezembro",
+        "zipcode": "58309-834"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Adauto Carvalho",
+        "zipcode": "58305-330"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Capitão João Paredes",
+        "zipcode": "58305-190"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Celina Miranda",
+        "zipcode": "58307-175"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Travessa Dalva Ferraz",
+        "zipcode": "58305-280"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Edgar Seager",
+        "zipcode": "58308-380"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Gustavo Maciel Monteiro",
+        "zipcode": "58307-240"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Avenida Idalina Leite",
+        "zipcode": "58305-150"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua João de Sousa Vasconcelos",
+        "zipcode": "58308-400"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Travessa João Ferraz",
+        "zipcode": "58305-180"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Avenida Liberdade",
+        "zipcode": "58305-006"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Manoel Santos Leal",
+        "zipcode": "58305-250"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Manoel Vitalino de Melo",
+        "zipcode": "58307-220"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Marechal Dutra",
+        "zipcode": "58305-160"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Maria Guedes",
+        "zipcode": "58305-240"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Monsenhor Almeida",
+        "zipcode": "58305-260"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Napoleão Laureano",
+        "zipcode": "58307-190"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Oscar Maciel Monteiro",
+        "zipcode": "58308-370"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "58305-220"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Avenida Santa Rita",
+        "zipcode": "58305-090"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua São Domingos",
+        "zipcode": "58307-260"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Avenida São João",
+        "zipcode": "58305-110"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Avenida São José",
+        "zipcode": "58305-210"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Baralho",
+        "street": "Vila São José",
+        "zipcode": "58305-070"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Marcelino Barbosa",
+        "zipcode": "58307-230"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Valdeci Torres",
+        "zipcode": "58308-390"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Manoel Bernardino da Silva",
+        "zipcode": "58309-850"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Celestino Barbosa",
+        "zipcode": "58309-852"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Governador Antônio Mariz",
+        "zipcode": "58309-854"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Orlando Lira de Carvalho",
+        "zipcode": "58309-870"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua São João Batista",
+        "zipcode": "58309-874"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua José Paulino Filho",
+        "zipcode": "58309-876"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua João Batista",
+        "zipcode": "58309-634"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Zulmira de Lima Nascimento",
+        "zipcode": "58309-640"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Seis de Junho",
+        "zipcode": "58306-005"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Vila Tonel",
+        "zipcode": "58306-300"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Maria Nazaré",
+        "zipcode": "58305-290"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Anailde Beris",
+        "zipcode": "58309-644"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Chico Mendes",
+        "zipcode": "58309-646"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua dos Motoristas",
+        "zipcode": "58309-654"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua São Lucas",
+        "zipcode": "58309-656"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Professor Antônio Gomes",
+        "zipcode": "58309-660"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua São Francisco",
+        "zipcode": "58309-662"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Boa Vista",
+        "zipcode": "58309-672"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "58309-676"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santo Expedito",
+        "zipcode": "58309-686"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Tancredo Neves",
+        "zipcode": "58309-694"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Manoel Francisco",
+        "zipcode": "58309-696"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Severina Alexandre da Silva",
+        "zipcode": "58309-698"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua São Vicente",
+        "zipcode": "58309-710"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Prefeito Lourival Caetano",
+        "zipcode": "58309-712"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua São Judas Tadeu",
+        "zipcode": "58309-716"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Margarida Maria Alves",
+        "zipcode": "58309-718"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santa Luzia",
+        "zipcode": "58309-722"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua João Teófilo da Silva",
+        "zipcode": "58308-338"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Herbert de Souza",
+        "zipcode": "58309-800"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Maria das Neves",
+        "zipcode": "58309-802"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Quatro de Agosto",
+        "zipcode": "58309-806"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Gilvan Norberto da Silva",
+        "zipcode": "58309-810"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua América do Sul",
+        "zipcode": "58309-814"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Dezesseis de Agosto",
+        "zipcode": "58309-816"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua da Vitória",
+        "zipcode": "58309-828"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "58309-836"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua São Pedro",
+        "zipcode": "58309-822"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Helena Borges",
+        "zipcode": "58309-804"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Santa Maria Euplásia",
+        "zipcode": "58309-812"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Brigadeiro Andrade Neves",
+        "zipcode": "58308-337"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Abdon Milanez",
+        "zipcode": "58307-130"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Antônio Ferreira",
+        "zipcode": "58307-070"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Antônio Leandro Medeiros",
+        "zipcode": "58308-300"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Manguinhos",
+        "street": "Rodovia BR",
+        "zipcode": "58309-600"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Cinco de Agosto",
+        "zipcode": "58307-050"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Engenheiro de Carvalho",
+        "zipcode": "58307-150"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Flávio Maroja",
+        "zipcode": "58306-390"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Francisco Marques da Fonseca",
+        "zipcode": "58307-002"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua João Dionízio Alves",
+        "zipcode": "58306-430"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua João Marsicano Marcílio",
+        "zipcode": "58308-340"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua José Rodrigues de Moura",
+        "zipcode": "58306-370"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua José Ulisses Teixeira",
+        "zipcode": "58307-010"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Juscelino Kubitschek",
+        "zipcode": "58308-320"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Travessa da Lagoa",
+        "zipcode": "58309-475"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Manoel Mesquita",
+        "zipcode": "58307-040"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Marcionila Maria da Conceição",
+        "zipcode": "58307-140"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Neide Alves da Silva",
+        "zipcode": "58306-450"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "58309-490"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Professor João Severo",
+        "zipcode": "58307-080"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa Quinze de Novembro",
+        "zipcode": "58308-315"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Francisco Souza Machado",
+        "zipcode": "58308-360"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "58309-510"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "58308-332"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "58308-331"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Maria do Carmo dos Santos",
+        "zipcode": "58309-866"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Airton Luna",
+        "zipcode": "58309-604"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santa Maria de Deus",
+        "zipcode": "58309-606"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua das Palmeiras",
+        "zipcode": "58309-608"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santos Dumont",
+        "zipcode": "58309-616"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua São Mateus",
+        "zipcode": "58309-624"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua João Lindolfo da Silva",
+        "zipcode": "58309-628"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua do Jardim",
+        "zipcode": "58309-642"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Barcelona",
+        "zipcode": "58309-678"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Governador Pedro Gondim",
+        "zipcode": "58309-684"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Venésio José do Nascimento",
+        "zipcode": "58309-714"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Severina Pedro da Silva (Lotemento Planalto II)",
+        "zipcode": "58309-774"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua São Luiz (Loteamento Planalto II)",
+        "zipcode": "58309-778"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Marechal Castelo Branco (Loteamento Planalto I)",
+        "zipcode": "58309-750"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Isabel de Lima (Loteamento Planalto I)",
+        "zipcode": "58309-764"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua da Esperança (Loteamento Planalto I)",
+        "zipcode": "58309-762"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Manoel Nunes dos Santos",
+        "zipcode": "58308-285"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Severina Isabel de Andrade",
+        "zipcode": "58308-324"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Severino Alves Bezerra",
+        "zipcode": "58308-288"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Francisco Gonçalo Filho",
+        "zipcode": "58308-282"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua dos Vigilantes",
+        "zipcode": "58309-808"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Joaquim Nabuco",
+        "zipcode": "58309-370"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua José Bonifácio",
+        "zipcode": "58309-430"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "58308-901"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Aristéia Francisca",
+        "zipcode": "58307-030"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Baralho",
+        "street": "Vila Teimosa",
+        "zipcode": "58305-030"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Augusto dos Anjos (Loteamento Panorâmico)",
+        "zipcode": "58309-840"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Sinésio Barbosa S. Neto",
+        "zipcode": "58305-080"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Pedro Marinho Gomes (Loteamento Planalto II)",
+        "zipcode": "58309-782"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Alzinira Luciana de Oliveira (Loteamento Panorâmico)",
+        "zipcode": "58309-846"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Antônio Félix",
+        "zipcode": "58308-325"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Manoel Paulino Gomes",
+        "zipcode": "58309-860"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "1ª Travessa Coronel Lira",
+        "zipcode": "58309-470"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "2ª Travessa Flávio Maroja Filho",
+        "zipcode": "58306-120"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua José Dias de Vasconcelos",
+        "zipcode": "58307-250"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua José Joaquim de Melo",
+        "zipcode": "58308-420"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa Major Ciraulo",
+        "zipcode": "58308-025"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Nildo José Elias da Silva",
+        "zipcode": "58308-440"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Nossa Senhora das Graças",
+        "zipcode": "58307-360"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Nossa Senhora de Lourdes",
+        "zipcode": "58308-150"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Olívio Damião Bezerra",
+        "zipcode": "58307-400"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Travessa Plácido de Oliveira Lima",
+        "zipcode": "58309-530"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "58308-310"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Raimundo Félix",
+        "zipcode": "58308-350"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Avenida Ricardo Loureiro Cavalcante",
+        "zipcode": "58308-290"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa São Marcos",
+        "zipcode": "58308-255"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua São Marcos",
+        "zipcode": "58308-250"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Tabelião Severino Araújo",
+        "zipcode": "58308-240"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Trica Antônio",
+        "zipcode": "58307-500"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Sonho Verde",
+        "zipcode": "58309-680"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Valdete Ribeiro",
+        "zipcode": "58308-284"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Vista Panorâmica",
+        "zipcode": "58309-801"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Margarida Bezerra Ramos",
+        "zipcode": "58309-842"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Coronel Simplício",
+        "zipcode": "58309-826"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Inácio Joaquim Diniz",
+        "zipcode": "58309-838"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Nossa Senhora da Guia",
+        "zipcode": "58309-668"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Ireneu Alexandre da Silva",
+        "zipcode": "58309-843"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Manoel Tenório",
+        "zipcode": "58308-280"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Santa Verônica",
+        "zipcode": "58308-080"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "58308-330"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua São Vicente de Paula",
+        "zipcode": "58309-612"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Francisco de Assis",
+        "zipcode": "58309-636"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Vasco da Gama",
+        "zipcode": "58309-658"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santa Madalena",
+        "zipcode": "58309-692"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Tarciso Bernardo",
+        "zipcode": "58309-702"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Frei Damião",
+        "zipcode": "58309-720"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Vereador João Luiz da Silva (Loteamento Planalto II)",
+        "zipcode": "58309-788"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Francisco Pedro de Andrade (Loteamento Planalto I)",
+        "zipcode": "58309-760"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Bela Vista (Loteamento Planalto I)",
+        "zipcode": "58309-758"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Escritor Monteiro Lobato (Loteamento Planalto I)",
+        "zipcode": "58309-752"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Manoel de Góis",
+        "zipcode": "58305-320"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Travessa José Heleno",
+        "zipcode": "58306-017"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Joaquim Tertuliano Cardoso",
+        "zipcode": "58308-286"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Nair dos Santos Dias",
+        "zipcode": "58308-283"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Joaquim Rodrigues de Souza",
+        "zipcode": "58309-818"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Liberdade",
+        "zipcode": "58306-970"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Liberdade",
+        "zipcode": "58306-972"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Francisco Marques da Fonseca",
+        "zipcode": "58309-000"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua João Ferreira da Silva",
+        "zipcode": "58309-043"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "58309-090"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Machado de Assis",
+        "zipcode": "58309-230"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Tomé de Souza",
+        "zipcode": "58309-250"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "9ª Travessa São Vicente",
+        "zipcode": "58309-390"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Madre Tereza de Calcutá",
+        "zipcode": "58309-150"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "2ª Travessa Almirante Tamandaré",
+        "zipcode": "58309-145"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Ademir Moreira Araújo",
+        "zipcode": "58306-220"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Alexandrino de Santana",
+        "zipcode": "58305-270"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Guanabara (Loteamento Planalto I)",
+        "zipcode": "58309-766"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Damiana Paredes",
+        "zipcode": "58305-170"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Travessa Dom Adauto",
+        "zipcode": "58305-085"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Ester Luiza",
+        "zipcode": "58307-160"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "1ª Travessa Flávio Maroja Filho",
+        "zipcode": "58306-100"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Francisco Jorge",
+        "zipcode": "58306-180"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Geraldo Macário S. Oliveira",
+        "zipcode": "58306-260"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua João Gomes da Silva",
+        "zipcode": "58307-120"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua José Ricardo de Melo",
+        "zipcode": "58307-290"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Baralho",
+        "street": "Avenida Liberdade",
+        "zipcode": "58305-003"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Travessa Marcelino Barbosa",
+        "zipcode": "58307-235"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "58307-060"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Tenente Severino Pereira",
+        "zipcode": "58305-020"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Severino Leão de Albuquerque",
+        "zipcode": "58306-410"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Vereador Dorgival Dantas",
+        "zipcode": "58309-858"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Ednaldo Tavares Marinho",
+        "zipcode": "58309-872"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua da Paz",
+        "zipcode": "58309-602"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Manoel Alexandre",
+        "zipcode": "58309-622"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Amâncio Nuto de Lacerda",
+        "zipcode": "58307-660"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Padre Lourenço",
+        "zipcode": "58306-340"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "58307-310"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua São Geremias",
+        "zipcode": "58309-674"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Maria Alípio Santana",
+        "zipcode": "58309-630"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santa Luzia (Área IV)",
+        "zipcode": "58309-638"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Nossa Senhora da Conceição",
+        "zipcode": "58309-648"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Maria Auxiliadora Araújo Silva",
+        "zipcode": "58309-650"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua São Severino",
+        "zipcode": "58309-664"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "58309-666"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Nossa Senhora da Paz",
+        "zipcode": "58309-670"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Bom Jesus",
+        "zipcode": "58309-690"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Neuza Barbosa da Costa",
+        "zipcode": "58308-336"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Travessa Edgar Seager",
+        "zipcode": "58308-610"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Imaculada Conceição",
+        "zipcode": "58309-100"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Doutor Gilvan Muribeca",
+        "zipcode": "58309-410"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "58309-170"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "6ª Travessa São Vicente",
+        "zipcode": "58309-270"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "58308-900"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Avenida Antônio Venâncio",
+        "zipcode": "58305-130"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Arnaud Oliveira Lima",
+        "zipcode": "58305-040"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Balbino Mendonça",
+        "zipcode": "58305-310"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Vila Capitão João Paredes",
+        "zipcode": "58305-195"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Coronel Lira",
+        "zipcode": "58307-100"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Elvira Marsicano",
+        "zipcode": "58305-060"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa Francisco Marques da Fonseca",
+        "zipcode": "58308-005"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Francisco Marques da Fonseca",
+        "zipcode": "58307-000"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Francisco Marques da Fonseca",
+        "zipcode": "58307-001"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Governador José Américo",
+        "zipcode": "58307-270"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Ivânia Menezes",
+        "zipcode": "58306-350"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Jaime Caetano Alves de Lima",
+        "zipcode": "58308-430"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua João XXIII",
+        "zipcode": "58306-010"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Joaquim Fernandes",
+        "zipcode": "58306-160"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua José Alves Pontes",
+        "zipcode": "58306-280"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "58307-350"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Justiniano Monteiro",
+        "zipcode": "58308-450"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Avenida Liberdade",
+        "zipcode": "58306-000"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Luiz Nelson",
+        "zipcode": "58307-540"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua José Neves Filho",
+        "zipcode": "58309-626"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Vila Cabo Lima",
+        "zipcode": "58305-230"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Capitão Manoel César de Alencar",
+        "zipcode": "58308-070"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Manoel Mesquita",
+        "zipcode": "58307-045"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Travessa Manoel Veloso Borges",
+        "zipcode": "58305-200"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Manoel Veloso Borges",
+        "zipcode": "58305-410"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Travessa Marechal Rondon",
+        "zipcode": "58308-335"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Maria Lúcia Gomes dos Santos",
+        "zipcode": "58306-240"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Napoleão Laureano",
+        "zipcode": "58307-195"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Oito de Agosto",
+        "zipcode": "58307-640"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Pastor Antônio Petronilo dos Santos",
+        "zipcode": "58308-230"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Petrônio Figueiredo",
+        "zipcode": "58307-210"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Avenida Vereador Genival Guedes",
+        "zipcode": "58309-700"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua Renildo Francisco Velho",
+        "zipcode": "58305-140"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Sacadura Cabral",
+        "zipcode": "58307-480"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Santa Lúcia",
+        "zipcode": "58308-040"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Tabelião Antônio Veloso Dourado Azevedo",
+        "zipcode": "58308-170"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa Zacarias Pereira de Miranda",
+        "zipcode": "58308-115"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Antônio Jerônimo",
+        "zipcode": "58308-270"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua José Virgínio da Silva",
+        "zipcode": "58308-220"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua Vanderley Lucena Santana",
+        "zipcode": "58308-210"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Doutora Eliza Bezerra",
+        "zipcode": "58307-460"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Hermes Lopes Macieira (Loteamento Panorâmico)",
+        "zipcode": "58309-853"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Vereador João Jacinto Alves (Loteamento Panorâmico)",
+        "zipcode": "58309-851"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua José Pereira Andrade",
+        "zipcode": "58306-080"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Norberto Paiva",
+        "zipcode": "58309-862"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Natividade",
+        "zipcode": "58309-878"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Manoel Calixto de Lima",
+        "zipcode": "58309-880"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Benjamin Maranhão",
+        "zipcode": "58309-618"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Irmã Sarah",
+        "zipcode": "58309-708"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua José Manoel dos Santos (Loteamento Panorâmico)",
+        "zipcode": "58309-845"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Jesus de Nazaré (Loteamento Planalto I)",
+        "zipcode": "58309-754"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "2ª Travessa São Vicente",
+        "zipcode": "58309-055"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Doutor João Soares",
+        "zipcode": "58309-200"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Tambay",
+        "street": "Rua Padre Feijó",
+        "zipcode": "58307-680"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Bom Jesus",
+        "zipcode": "58306-060"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua José Neto",
+        "zipcode": "58309-620"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Escritor Olavo Bilac",
+        "zipcode": "58309-682"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Francisco Camilo",
+        "zipcode": "58309-704"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Rita Vieira de Oliveira",
+        "zipcode": "58309-724"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Epitácio Pessoa",
+        "zipcode": "58307-025"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Sargento Antônio Genoíno da Silva (Loteamento Planalto II)",
+        "zipcode": "58309-770"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Sargento Otacílio Eustáquio (Loteamento Planalto II)",
+        "zipcode": "58309-780"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Avenida Presidente Epitácio Pessoa",
+        "zipcode": "58308-260"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Estrela",
+        "zipcode": "58306-190"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Edvaldo Pereira de Vasconcelos",
+        "zipcode": "58308-480"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Quatro",
+        "zipcode": "58308-520"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Severina Barros",
+        "zipcode": "58308-570"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Santa Maria",
+        "zipcode": "58308-630"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Antônio Coelho de Sousa",
+        "zipcode": "58309-030"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua José Veríssimo Gomes",
+        "zipcode": "58309-041"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Cleonice Florêncio Honorato",
+        "zipcode": "58309-042"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua José Ricardo Alves de Souza",
+        "zipcode": "58309-044"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Ferroviário José Rosendo da Silva (Loteamento Planalto II)",
+        "zipcode": "58309-773"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Travessa Valquíria L. Santana",
+        "zipcode": "58308-180"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Santo Onofre (Loteamento Panorâmico)",
+        "zipcode": "58309-855"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Travessa Vinte e Oito de Outubro",
+        "zipcode": "58305-100"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Antônio Luiz Francisco",
+        "zipcode": "58309-045"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "58309-070"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Estrela",
+        "zipcode": "58306-195"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "3ª Travessa São Vicente",
+        "zipcode": "58309-020"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Almirante Tamandaré",
+        "zipcode": "58309-140"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Plácido Oliveira Lima",
+        "zipcode": "58309-180"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua José de Alencar",
+        "zipcode": "58309-290"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "7ª Travessa São Vicente",
+        "zipcode": "58309-310"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "8ª Travessa São Vicente",
+        "zipcode": "58309-350"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "1ª Travessa Almirante Tamandaré",
+        "zipcode": "58309-450"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Travessa Pedro Ulisses",
+        "zipcode": "58309-130"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "5ª Travessa São Vicente",
+        "zipcode": "58309-210"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Largo do Mercado",
+        "zipcode": "58309-080"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua João Tavares da Silva",
+        "zipcode": "58308-550"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Baralho",
+        "street": "Rua Domingos Alves de Pontes",
+        "zipcode": "58305-004"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Baralho",
+        "street": "Rua Maria do Socorro Ciraulo de Oliveira",
+        "zipcode": "58305-005"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Santa Clara",
+        "zipcode": "58309-614"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua José Pereira da Costa (Loteamento Planalto II)",
+        "zipcode": "58309-779"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Antônio Joaquim (Loteamento Planalto I)",
+        "zipcode": "58309-756"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua da Carioca",
+        "zipcode": "58306-130"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua José Clementino (Loteamento Planalto II)",
+        "zipcode": "58309-786"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Francisco Braz do Nascimento (Loteamento Panorâmico)",
+        "zipcode": "58309-848"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Senador Ruy Carneiro (Loteamento Planalto II)",
+        "zipcode": "58309-784"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Maria Antonia da Conceição",
+        "zipcode": "58306-015"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Antônio Grigório Neto",
+        "zipcode": "58308-287"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Erilene Carvalho Morais de Sales",
+        "zipcode": "58308-323"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Alice Cavalcante de Souza",
+        "zipcode": "58309-824"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Novo Milênio",
+        "zipcode": "58309-829"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Epitácio Pessoa",
+        "zipcode": "58307-020"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Cícero Gadelha",
+        "zipcode": "58308-500"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Imaculada",
+        "street": "Rua Secundino Toscano de Brito",
+        "zipcode": "58309-160"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Vila Damiana Paredes",
+        "zipcode": "58305-175"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Sesi",
+        "street": "Rua Flávio Ribeiro Coutinho",
+        "zipcode": "58305-390"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Alto da Boa Vista",
+        "street": "Rua Francisco Marques da Fonseca",
+        "zipcode": "58308-001"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Travessa Idalina Leite",
+        "zipcode": "58305-155"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Manoel Paulino Santos",
+        "zipcode": "58309-868"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "58309-610"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Mário Andreazza",
+        "street": "Rua Compositor Luiz Gonzaga",
+        "zipcode": "58309-688"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "São Bento",
+        "street": "Rua José Ferreira da Silva",
+        "zipcode": "58305-115"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Maria Dolores Lira da Silva (Loteamento Panorâmico)",
+        "zipcode": "58309-847"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Área Rural de Bayuex",
+        "street": "Área Rural",
+        "zipcode": "58309-899"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim Aeroporto",
+        "street": "Vila Militar da Aeronaútica",
+        "zipcode": "58308-334"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Antônio Correia da Cunha",
+        "zipcode": "58306-395"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Jardim São Severino",
+        "street": "Rua Demóstenes Evangelista dos Santos",
+        "zipcode": "58306-372"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Brasiliano Trajano de Melo (Loteamento Planalto II)",
+        "zipcode": "58309-783"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Comercial Norte",
+        "street": "Rua Maria Ribeiro Campos (Loteamento Planalto II)",
+        "zipcode": "58309-776"
+    },
+    {
+        "city": "Bayeux",
+        "state": "PB",
+        "district": "Rio do Meio",
+        "street": "Rua José Vital do Nascimento",
+        "zipcode": "58308-218"
+    }
+]

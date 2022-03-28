@@ -1,0 +1,5812 @@
+[
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Indaiá",
+        "zipcode": "89086-300"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": null,
+        "street": null,
+        "zipcode": "89130-000"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Itu",
+        "zipcode": "89084-470"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Palotina",
+        "zipcode": "89085-495"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Beco ID 56",
+        "zipcode": "89087-400"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Rondônia",
+        "zipcode": "89086-735"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 19 de Abril",
+        "zipcode": "89084-352"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Wally Block",
+        "zipcode": "89086-365"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Beco Raul Knop",
+        "zipcode": "89081-315"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Avenida Manoel Simão",
+        "zipcode": "89082-085"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Amadeu Felipe da Luz",
+        "zipcode": "89080-033"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Frederico Struve",
+        "zipcode": "89080-045"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Castelo Branco",
+        "zipcode": "89080-051"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Henrique Hardt Sênior",
+        "zipcode": "89080-075"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Beco ID 15",
+        "zipcode": "89080-284"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Denver",
+        "zipcode": "89080-305"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Caiena",
+        "zipcode": "89080-368"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Anna Bauer",
+        "zipcode": "89080-630"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Fortaleza",
+        "zipcode": "89080-187"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "89080-030"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Rio Branco",
+        "zipcode": "89080-242"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Theodoro Malkowski",
+        "zipcode": "89080-577"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-223"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Tubarão",
+        "zipcode": "89082-244"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Lauro Müller",
+        "zipcode": "89080-039"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Santiago",
+        "zipcode": "89080-344"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-299"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Concórdia",
+        "zipcode": "89082-358"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Artur Zarling",
+        "zipcode": "89081-520"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua João Pessoa",
+        "zipcode": "89080-314"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Salvador",
+        "zipcode": "89080-275"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Turim",
+        "zipcode": "89080-236"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-057"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Avenida Carlos Schroeder",
+        "zipcode": "89082-033"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Angelo Moretto",
+        "zipcode": "89086-585"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Avenida Brasil",
+        "zipcode": "89082-630"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Carlos Blaese",
+        "zipcode": "89080-036"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Guanabara",
+        "zipcode": "89080-042"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Florianópolis",
+        "zipcode": "89080-175"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Bariloche",
+        "zipcode": "89080-320"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Buenos Aires",
+        "zipcode": "89080-326"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Jackson",
+        "zipcode": "89080-356"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Diamante",
+        "zipcode": "89080-485"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Amsterdam",
+        "zipcode": "89080-266"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Arnoldo Fritz",
+        "zipcode": "89080-750"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Campo Grande",
+        "zipcode": "89080-172"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Liberdade",
+        "zipcode": "89086-315"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Juliete Waldrich",
+        "zipcode": "89086-580"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Pernambuco",
+        "zipcode": "89086-853"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua João José Jacques",
+        "zipcode": "89087-159"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Leandro Uller",
+        "zipcode": "89087-192"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Santa Fé",
+        "zipcode": "89086-854"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-750"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-790"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Bogotá",
+        "zipcode": "89080-263"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Arthur Haertel",
+        "zipcode": "89086-066"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua João Panini",
+        "zipcode": "89087-195"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Felipe Wessling",
+        "zipcode": "89087-230"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Avenida Prefeito Alfredo H Hardt",
+        "zipcode": "89087-340"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-410"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Bagé",
+        "zipcode": "89085-410"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Carolina do Sul",
+        "zipcode": "89086-750"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Espírito Santo",
+        "zipcode": "89087-080"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Bruno Blunk",
+        "zipcode": "89087-355"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Bom Retiro",
+        "zipcode": "89086-295"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Augusto Hasse",
+        "zipcode": "89084-504"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Nassau",
+        "zipcode": "89080-332"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Juscelino Kubitschek",
+        "zipcode": "89080-054"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Beco ID 24",
+        "zipcode": "89080-169"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco São Cristóvão",
+        "zipcode": "89083-125"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco São Pedro",
+        "zipcode": "89083-213"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Arapongas",
+        "street": "Beco ID 52",
+        "zipcode": "89083-735"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-420"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-490"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-570"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Antonio Pedro Alves",
+        "zipcode": "89086-600"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Arapongas",
+        "street": "Rua Augusto Hasse",
+        "zipcode": "89083-710"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Laranjeiras do Sul",
+        "zipcode": "89085-485"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Prefeito Erich Kleine",
+        "zipcode": "89086-057"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-440"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-490"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua João da Silva",
+        "zipcode": "89087-581"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua João Maria de Araújo",
+        "zipcode": "89086-048"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-578"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Idalete da Silva dos Santos",
+        "zipcode": "89087-620"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 11 de Junho",
+        "zipcode": "89084-103"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua João Paul",
+        "zipcode": "89087-638"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Teodoro Bernardino de Andrade",
+        "zipcode": "89087-495"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 17 de Março",
+        "zipcode": "89084-146"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 25 de Abril",
+        "zipcode": "89084-309"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Uruguaiana",
+        "zipcode": "89085-124"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua Santa Luzia",
+        "zipcode": "89083-350"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Tocantins",
+        "zipcode": "89086-781"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-755"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rodovia BR",
+        "zipcode": "89083-285"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Porto Belo",
+        "zipcode": "89082-232"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Palmeira das Missões",
+        "zipcode": "89085-310"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Reinhold Schroeder",
+        "zipcode": "89086-340"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-520"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Heinrich F Buchler",
+        "zipcode": "89087-021"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Augusto Simão Hiebert",
+        "zipcode": "89087-567"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Anselmo Vanelli",
+        "zipcode": "89087-350"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Expedicionário Annibale Bogo",
+        "zipcode": "89087-635"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Três Corações",
+        "zipcode": "89084-565"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Ceará",
+        "zipcode": "89086-766"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Alceste Francisco de Andrade",
+        "zipcode": "89087-626"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Francisco Metzner",
+        "zipcode": "89087-523"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-100"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Vereador Apolinário Kienen",
+        "zipcode": "89087-641"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Erich Jung",
+        "zipcode": "89084-460"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Bruno Wachholz",
+        "zipcode": "89084-500"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco São Judas Tadeu",
+        "zipcode": "89083-006"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 7 de Setembro",
+        "zipcode": "89084-003"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 8 de Maio",
+        "zipcode": "89084-021"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 12 de Outubro",
+        "zipcode": "89084-036"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 6 de Abril",
+        "zipcode": "89084-279"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-060"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Bagé",
+        "zipcode": "89085-270"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-480"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Nossa Senhora das Graças",
+        "zipcode": "89083-015"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Bárbara",
+        "zipcode": "89083-027"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Lázaro",
+        "zipcode": "89083-048"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Bonifácio",
+        "zipcode": "89083-140"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Rodeio",
+        "zipcode": "89082-293"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Trombudo Central",
+        "zipcode": "89082-308"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-635"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-180"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Cuiabá",
+        "zipcode": "89080-190"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Formosa",
+        "zipcode": "89080-323"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Assunção",
+        "zipcode": "89080-359"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Esmeralda",
+        "zipcode": "89080-435"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Água Marinha",
+        "zipcode": "89080-556"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Carlos Fritz",
+        "zipcode": "89080-770"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Pioneiros",
+        "zipcode": "89080-012"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Desembargador Alves Pedrosa",
+        "zipcode": "89080-081"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Paranavaí",
+        "zipcode": "89085-635"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Hilda Elias",
+        "zipcode": "89086-250"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua ID A34",
+        "zipcode": "89086-285"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Otto Stange",
+        "zipcode": "89086-730"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 1º de Maio",
+        "zipcode": "89084-009"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Wally Heimberg",
+        "zipcode": "89086-010"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 24 de Maio",
+        "zipcode": "89084-367"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Sete Lagoas",
+        "zipcode": "89084-636"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "89080-001"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Rio Grande do Norte",
+        "zipcode": "89080-009"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Ribeirão das Pedras",
+        "zipcode": "89080-377"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Rubi",
+        "zipcode": "89080-490"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Opala",
+        "zipcode": "89080-564"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Turquesa",
+        "zipcode": "89080-580"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Renato Zoschke",
+        "zipcode": "89081-222"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Vereador Alvin Rauh Junior",
+        "zipcode": "89082-065"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Travessa Santos",
+        "zipcode": "89082-106"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Panamá",
+        "zipcode": "89082-124"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Varsóvia",
+        "zipcode": "89080-233"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Travessa Monteiro Lobato",
+        "zipcode": "89081-216"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Travessa Manuel Bandeira",
+        "zipcode": "89081-219"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Rubi",
+        "zipcode": "89080-860"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Travessa Kretzer",
+        "zipcode": "89082-100"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Arapongas",
+        "street": "Rua Santa Luzia",
+        "zipcode": "89083-505"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-430"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Paulinho Araujo",
+        "zipcode": "89081-128"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-660"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Expedicionário Hercílio Gonçalves",
+        "zipcode": "89082-012"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua João Antonio da Silva",
+        "zipcode": "89081-070"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Leopoldo Prust",
+        "zipcode": "89080-566"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-295"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Gustav Arthur Koehler",
+        "zipcode": "89082-003"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-670"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "89081-525"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Chapadão do Lageado",
+        "zipcode": "89082-317"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Áustria",
+        "zipcode": "89082-021"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Bom Jesus",
+        "zipcode": "89082-420"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Minas Gerais",
+        "zipcode": "89080-239"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Miracema do Norte",
+        "zipcode": "89080-196"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-060"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89080-066"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Prefeito Frederico Hardt",
+        "zipcode": "89080-018"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 7 de Janeiro",
+        "zipcode": "89084-082"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 30 de Outubro",
+        "zipcode": "89084-382"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Bertoldo Trapp",
+        "zipcode": "89086-030"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Beco Açu",
+        "zipcode": "89081-285"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Horst F Fischer",
+        "zipcode": "89086-366"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Nicolau Mandel",
+        "zipcode": "89086-484"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua João Prim",
+        "zipcode": "89086-577"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Ricardo Kramer",
+        "zipcode": "89086-590"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "89086-720"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89086-787"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Iolando Petersen",
+        "zipcode": "89087-332"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Rudimar Nardelli",
+        "zipcode": "89087-334"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Ribeirão das Pedras",
+        "zipcode": "89087-360"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Rudolfo Krambeck",
+        "zipcode": "89087-575"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Ricardo Geisler",
+        "zipcode": "89086-745"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua São Borja",
+        "zipcode": "89085-128"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua São José",
+        "zipcode": "89086-090"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Rudolfo Sprengel",
+        "zipcode": "89086-335"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Santa Catarina",
+        "zipcode": "89086-705"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Sálvio Cunha",
+        "zipcode": "89087-018"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Roma",
+        "zipcode": "89080-230"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Rosemeri Wolff",
+        "zipcode": "89080-571"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Rudolf Fritz",
+        "zipcode": "89080-771"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Rudolf Plaster",
+        "zipcode": "89081-305"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua José Floriano",
+        "zipcode": "89081-125"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89081-420"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santo Expedito",
+        "zipcode": "89083-189"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Rio Grande do Norte",
+        "zipcode": "89086-717"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Angelina Borsio",
+        "zipcode": "89087-347"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Rubia Simão",
+        "zipcode": "89087-623"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Guarani",
+        "zipcode": "89084-640"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Paulina",
+        "zipcode": "89083-180"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Safira",
+        "zipcode": "89080-480"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-650"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua das Nações",
+        "zipcode": "89082-220"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Curt Hering",
+        "zipcode": "89082-000"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Frei Galvão",
+        "zipcode": "89083-183"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Daniel Comboni",
+        "zipcode": "89083-186"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua São Leopoldo",
+        "zipcode": "89085-075"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua ID A2",
+        "zipcode": "89085-112"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Juiz de Fora",
+        "zipcode": "89084-632"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua São Carlos",
+        "zipcode": "89082-425"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Paraíso",
+        "zipcode": "89082-496"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Rio do Campo",
+        "zipcode": "89082-555"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Rio do Oeste",
+        "zipcode": "89082-625"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santo Onofre",
+        "zipcode": "89083-018"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São José de Anchieta",
+        "zipcode": "89083-021"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Bruno",
+        "zipcode": "89083-024"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Mônica",
+        "zipcode": "89083-030"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Bernardo",
+        "zipcode": "89083-033"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santo Tomás de Aquino",
+        "zipcode": "89083-036"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Tereza",
+        "zipcode": "89083-045"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Justino",
+        "zipcode": "89083-051"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Nicolau",
+        "zipcode": "89083-054"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Clemente",
+        "zipcode": "89083-057"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua SantAna",
+        "zipcode": "89083-110"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Maria",
+        "zipcode": "89083-115"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Walter Kannenberg",
+        "zipcode": "89087-336"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Vereador Edgar Buchner",
+        "zipcode": "89087-345"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua Santa Luzia",
+        "zipcode": "89083-290"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua Santa Luzia",
+        "zipcode": "89083-368"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua Santa Luzia",
+        "zipcode": "89083-430"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Arapongas",
+        "street": "Rua Santa Luzia",
+        "zipcode": "89083-500"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 21 de Abril",
+        "zipcode": "89084-303"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 24 de Abril",
+        "zipcode": "89084-306"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 21 de Setembro",
+        "zipcode": "89084-340"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 10 de Dezembro",
+        "zipcode": "89084-343"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 24 de Outubro",
+        "zipcode": "89084-346"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 22 de Abril",
+        "zipcode": "89084-358"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 11 de Novembro",
+        "zipcode": "89084-370"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Vila Nova",
+        "zipcode": "89086-310"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Tifa Gutz",
+        "zipcode": "89086-385"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Helena",
+        "zipcode": "89083-222"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Tifa Pausch",
+        "zipcode": "89086-525"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Tecla Maria Alfarth",
+        "zipcode": "89086-615"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Trento",
+        "zipcode": "89086-699"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Texas",
+        "zipcode": "89086-847"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Seara",
+        "zipcode": "89087-242"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Vereador Evaldir Simão",
+        "zipcode": "89087-286"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua São João Del Rei",
+        "zipcode": "89084-668"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Vereador Paulo Cardozo",
+        "zipcode": "89086-255"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Sergipe",
+        "zipcode": "89086-790"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Vitória",
+        "zipcode": "89080-181"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua São Paulo",
+        "zipcode": "89080-308"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Topázio",
+        "zipcode": "89080-583"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Walter Krieck",
+        "zipcode": "89082-042"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Venezuela",
+        "zipcode": "89082-127"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Suíça",
+        "zipcode": "89082-206"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Viena",
+        "zipcode": "89080-248"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Teresina",
+        "zipcode": "89080-269"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Udo Ebert",
+        "zipcode": "89081-113"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Werner Raiter",
+        "zipcode": "89081-281"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Uruguai",
+        "zipcode": "89082-163"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua São Francisco",
+        "zipcode": "89080-069"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São João",
+        "zipcode": "89083-225"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 30 de Abril",
+        "zipcode": "89084-373"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Vereador Dorval Busarello",
+        "zipcode": "89087-292"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua Santa Luzia",
+        "zipcode": "89083-295"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 7 de Abril",
+        "zipcode": "89084-361"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Roque",
+        "zipcode": "89083-039"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santo Antônio",
+        "zipcode": "89083-192"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Francisco de Paula",
+        "zipcode": "89083-210"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Marta",
+        "zipcode": "89083-216"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 31 de Março",
+        "zipcode": "89084-300"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 9 de Abril",
+        "zipcode": "89084-349"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 18 de Abril",
+        "zipcode": "89084-364"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Timbó",
+        "zipcode": "89082-305"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Vidal Ramos",
+        "zipcode": "89082-265"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Urupema",
+        "zipcode": "89082-700"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Vicente",
+        "zipcode": "89083-009"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Beco 2 de Julho",
+        "zipcode": "89084-210"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Apucarana",
+        "zipcode": "89085-510"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Beco Maria Valcanaia",
+        "zipcode": "89081-415"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Avenida João Hennings Filho",
+        "zipcode": "89082-009"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Avenida Maria Simão",
+        "zipcode": "89082-115"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Beco Santa Cecília",
+        "zipcode": "89083-280"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Beco Porto Velho",
+        "zipcode": "89080-163"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 21 de Novembro",
+        "zipcode": "89084-012"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 13 de Maio",
+        "zipcode": "89084-015"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 25 de Maio",
+        "zipcode": "89084-027"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 25 de Janeiro",
+        "zipcode": "89084-070"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 24 de Janeiro",
+        "zipcode": "89084-073"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 1º de Janeiro",
+        "zipcode": "89084-076"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 25 de Julho",
+        "zipcode": "89084-143"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 15 de Novembro",
+        "zipcode": "89084-270"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 1º de Outubro",
+        "zipcode": "89084-291"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 12 de Agosto",
+        "zipcode": "89084-376"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 25 de Agosto",
+        "zipcode": "89084-379"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua São Vicente",
+        "zipcode": "89084-410"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Uberaba",
+        "zipcode": "89084-770"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Torres",
+        "zipcode": "89085-108"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Três Corações",
+        "zipcode": "89084-600"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Viçosa",
+        "zipcode": "89084-604"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Três Marias",
+        "zipcode": "89084-672"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Uberaba",
+        "zipcode": "89084-740"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Três Passos",
+        "zipcode": "89085-140"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Soledade",
+        "zipcode": "89085-425"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Toledo",
+        "zipcode": "89085-605"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Vigando Correa",
+        "zipcode": "89086-125"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Uberlândia",
+        "zipcode": "89084-628"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Victor Konder",
+        "zipcode": "89086-051"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Uberaba",
+        "zipcode": "89084-800"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Travessa Silva",
+        "zipcode": "89082-112"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Wilson Martin Raiter",
+        "zipcode": "89081-282"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-765"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 6 de Janeiro",
+        "zipcode": "89084-079"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Beco Jaú",
+        "zipcode": "89084-516"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Canela",
+        "zipcode": "89085-440"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Anitápolis",
+        "zipcode": "89082-550"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Witmarsun",
+        "zipcode": "89082-775"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua La Paz",
+        "zipcode": "89080-260"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Novo Hamburgo",
+        "zipcode": "89085-360"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Lagoa Vermelha",
+        "zipcode": "89085-430"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Beco ID 58",
+        "zipcode": "89086-275"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 4 de Outubro",
+        "zipcode": "89084-033"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 15 de Junho",
+        "zipcode": "89084-140"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 8 de Março",
+        "zipcode": "89084-288"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 27 de Julho",
+        "zipcode": "89084-380"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 5 de Novembro",
+        "zipcode": "89084-388"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 6 de Maio",
+        "zipcode": "89084-391"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 7 de Setembro",
+        "zipcode": "89084-394"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-475"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Timóteo Felix Martins",
+        "zipcode": "89086-095"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Simeão",
+        "zipcode": "89083-204"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Patrício",
+        "zipcode": "89083-042"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco São Geremias",
+        "zipcode": "89083-003"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Beco Olavo Bilac",
+        "zipcode": "89081-210"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Beco Atlanta",
+        "zipcode": "89080-257"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Belém",
+        "zipcode": "89080-293"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "89080-311"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Ametista",
+        "zipcode": "89080-559"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Alfredo Manoel Cruz",
+        "zipcode": "89080-765"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Medianeira",
+        "zipcode": "89085-540"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Gunter Nagel",
+        "zipcode": "89086-420"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 15 de Outubro",
+        "zipcode": "89084-030"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 14 de Agosto",
+        "zipcode": "89084-088"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 24 de Junho",
+        "zipcode": "89084-091"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 11 de Agosto",
+        "zipcode": "89084-094"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 2 de Novembro",
+        "zipcode": "89084-100"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-760"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Contagem",
+        "zipcode": "89084-616"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rodovia BR",
+        "zipcode": "89083-270"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Travessa Sandri",
+        "zipcode": "89082-103"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Travessa Simão",
+        "zipcode": "89082-109"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua A (Lot Petronilha Fronza)",
+        "zipcode": "89082-370"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Beco Suécia",
+        "zipcode": "89082-203"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-610"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 4 de Junho",
+        "zipcode": "89084-032"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Alwina Alfarth",
+        "zipcode": "89086-620"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Bahia",
+        "zipcode": "89086-690"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Avenida Pioneiros",
+        "zipcode": "89086-708"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 17 de Maio",
+        "zipcode": "89084-031"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Bertolina May Kechele",
+        "zipcode": "89084-810"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Albany",
+        "zipcode": "89085-104"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Bagé",
+        "zipcode": "89085-350"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Biguaçu",
+        "zipcode": "89082-241"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Alemanha",
+        "zipcode": "89082-118"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Beco N 1",
+        "zipcode": "89082-133"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Beco Pouso Redondo",
+        "zipcode": "89082-620"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco São Sebastião",
+        "zipcode": "89083-130"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco Sagrada Família",
+        "zipcode": "89083-195"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco Santa Rita",
+        "zipcode": "89083-201"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Beco Itapema",
+        "zipcode": "89082-229"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Morretes",
+        "zipcode": "89085-515"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Beco Knoch",
+        "zipcode": "89087-183"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Paranaguá",
+        "zipcode": "89085-520"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Rio Negro",
+        "zipcode": "89085-620"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Beco Araquari",
+        "zipcode": "89082-560"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Avenida Manoel Simão",
+        "zipcode": "89082-970"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco São Gabriel",
+        "zipcode": "89083-207"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Alegrete",
+        "zipcode": "89085-132"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Assai",
+        "zipcode": "89085-535"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua A (Lot Cacilie Vogel)",
+        "zipcode": "89085-600"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 5 de Maio",
+        "zipcode": "89084-024"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 31 de Dezembro",
+        "zipcode": "89084-097"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 8 de Novembro",
+        "zipcode": "89084-112"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 28 de Outubro",
+        "zipcode": "89084-294"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Bertolina May Kechele",
+        "zipcode": "89085-050"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Augusto Blaese",
+        "zipcode": "89086-119"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Agostinho Macoppi",
+        "zipcode": "89086-131"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Xaxim",
+        "zipcode": "89082-354"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Travessa Taió",
+        "zipcode": "89082-299"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Arapongas",
+        "street": "Rua Augusto Maass",
+        "zipcode": "89083-720"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Augusto Hasse",
+        "zipcode": "89084-508"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Amapá",
+        "zipcode": "89087-298"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Achil Von Gilsa",
+        "zipcode": "89086-116"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Bárbara Bugmann",
+        "zipcode": "89080-072"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Berlim",
+        "zipcode": "89080-199"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Córdoba",
+        "zipcode": "89080-278"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Curitiba",
+        "zipcode": "89080-290"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Georgetown",
+        "zipcode": "89080-371"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Cristal",
+        "zipcode": "89080-553"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Goiânia",
+        "zipcode": "89080-178"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Boa Vista",
+        "zipcode": "89080-281"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Coral",
+        "zipcode": "89080-565"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua União da Vitória",
+        "zipcode": "89085-545"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Granito",
+        "zipcode": "89080-420"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Chile",
+        "zipcode": "89082-157"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Alexandre Osvald Tarnowski",
+        "zipcode": "89081-122"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Flórida",
+        "zipcode": "89086-760"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Acre",
+        "zipcode": "89086-763"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Alagoas",
+        "zipcode": "89086-793"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Alabama",
+        "zipcode": "89086-832"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Espírito Santo",
+        "zipcode": "89087-090"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Alfredo Kroeger",
+        "zipcode": "89087-156"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Firmo Cipriano da Silva",
+        "zipcode": "89087-168"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Frederico Nagel",
+        "zipcode": "89087-177"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua General Osório",
+        "zipcode": "89087-245"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Beco Verônica da Silva",
+        "zipcode": "89087-569"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Gregório Faustino dos Santos",
+        "zipcode": "89087-572"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Anita Garibaldi",
+        "zipcode": "89086-015"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Arthur Landmann",
+        "zipcode": "89086-033"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Baden Powel",
+        "zipcode": "89086-042"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua F (Lot Moser I)",
+        "zipcode": "89087-239"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Adela Cipriano",
+        "zipcode": "89087-653"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Firmo José da Silva",
+        "zipcode": "89087-560"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Amazonas",
+        "zipcode": "89086-740"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Francisco Bernardino de Andrade",
+        "zipcode": "89087-593"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Amapá",
+        "zipcode": "89087-003"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua Alvin Wartha",
+        "zipcode": "89083-440"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Deputado Aldo Pereira de Andrade",
+        "zipcode": "89084-465"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Barbacena",
+        "zipcode": "89084-608"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Arapongas",
+        "street": "Rua Augusto Maass",
+        "zipcode": "89083-730"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua Fortunato Packer",
+        "zipcode": "89083-360"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Corupá",
+        "zipcode": "89082-540"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Colômbia",
+        "zipcode": "89082-136"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Angola",
+        "zipcode": "89082-200"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Aurora",
+        "zipcode": "89082-226"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua das Nações",
+        "zipcode": "89082-209"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Artur Zarling",
+        "zipcode": "89081-530"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Ascurra",
+        "zipcode": "89082-302"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Grécia",
+        "zipcode": "89082-060"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Beco José Simão",
+        "zipcode": "89087-405"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Colorado",
+        "zipcode": "89085-148"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Cruz Alta",
+        "zipcode": "89085-455"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Flores da Cunha",
+        "zipcode": "89085-465"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua João Marcelino de Menezes",
+        "zipcode": "89080-760"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua dos Atiradores",
+        "zipcode": "89080-021"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Fritz Muller",
+        "zipcode": "89080-160"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Ijuí",
+        "zipcode": "89085-355"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Irati",
+        "zipcode": "89085-525"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua João Rosa",
+        "zipcode": "89086-100"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Gustavo Lauth",
+        "zipcode": "89086-110"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Hartwig Reguse",
+        "zipcode": "89086-490"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Justino do Nascimento",
+        "zipcode": "89086-540"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Maranhão",
+        "zipcode": "89086-769"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Indiana",
+        "zipcode": "89086-835"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua João Batista Deretti",
+        "zipcode": "89087-009"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Gustavo Zoschke",
+        "zipcode": "89087-162"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua José Wolff",
+        "zipcode": "89087-171"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Ignácio Korc",
+        "zipcode": "89087-174"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Luiz Michel",
+        "zipcode": "89087-201"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Márcia Brambili",
+        "zipcode": "89087-257"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Kurt Ladevig",
+        "zipcode": "89087-584"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Manoel Januário Antunes",
+        "zipcode": "89086-069"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Ida Zoschke",
+        "zipcode": "89087-590"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua França",
+        "zipcode": "89082-018"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Índia",
+        "zipcode": "89082-154"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Maceió",
+        "zipcode": "89080-302"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-670"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Maravilha",
+        "zipcode": "89082-235"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Izabel Wolff",
+        "zipcode": "89087-251"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Luiz Moser",
+        "zipcode": "89086-039"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Curt Stroisch",
+        "zipcode": "89086-054"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Gustavo Gollnick",
+        "zipcode": "89086-122"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua José Victório de Andrade",
+        "zipcode": "89087-165"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Conquista",
+        "zipcode": "89084-660"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua ID 23",
+        "zipcode": "89084-750"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Estanislao Januário",
+        "zipcode": "89081-540"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-600"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-610"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Policial Militar José Ricardo Hersing",
+        "zipcode": "89080-675"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Nelson Von Gilsa",
+        "zipcode": "89080-680"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Gilson Laudelino Januário",
+        "zipcode": "89081-535"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Chico Xavier",
+        "zipcode": "89081-110"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Espanha",
+        "zipcode": "89082-024"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Itajaí",
+        "zipcode": "89082-415"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Ônix",
+        "zipcode": "89080-562"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua ID 24",
+        "zipcode": "89084-760"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Guaíba",
+        "zipcode": "89085-120"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Guaratuba",
+        "zipcode": "89085-152"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Ipiranga",
+        "zipcode": "89085-156"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Curt Von Gilsa",
+        "zipcode": "89086-134"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-305"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Ewald Carl Henkels",
+        "zipcode": "89086-325"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Charles Voigt",
+        "zipcode": "89086-355"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Jaguari",
+        "zipcode": "89085-136"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Imaruí",
+        "zipcode": "89082-314"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Lages",
+        "zipcode": "89082-320"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Ilhota",
+        "zipcode": "89082-490"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Ponta Grossa",
+        "zipcode": "89085-530"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Otto Stange",
+        "zipcode": "89086-045"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Otto Gramkow",
+        "zipcode": "89086-210"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Progresso",
+        "zipcode": "89086-500"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Pará",
+        "zipcode": "89086-772"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Nova York",
+        "zipcode": "89086-850"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-186"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Minas Gerais",
+        "zipcode": "89087-295"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Osvaldo Wolff",
+        "zipcode": "89087-596"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Nicolau Heckmann",
+        "zipcode": "89087-632"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Paraíba",
+        "zipcode": "89086-775"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Piauí",
+        "zipcode": "89086-820"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Minas Gerais",
+        "zipcode": "89087-000"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Otto Kurt",
+        "zipcode": "89086-265"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Nevada",
+        "zipcode": "89086-844"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Mário Moser",
+        "zipcode": "89087-236"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Prefeito Victor Petters",
+        "zipcode": "89082-070"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Avenida Brasil",
+        "zipcode": "89082-296"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Moscou",
+        "zipcode": "89080-251"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Pérola",
+        "zipcode": "89080-495"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-131"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Peru",
+        "zipcode": "89082-139"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Navegantes",
+        "zipcode": "89082-238"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Porto Alegre",
+        "zipcode": "89080-193"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Avenida Brasil",
+        "zipcode": "89082-172"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Palmas",
+        "zipcode": "89080-410"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Ribeirão das Pedras",
+        "zipcode": "89080-440"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Norbert Passig",
+        "zipcode": "89080-775"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Gustavo Barroso",
+        "zipcode": "89081-310"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Manoel Nicoláo Simão",
+        "zipcode": "89081-075"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-134"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-270"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Orrefors",
+        "zipcode": "89081-280"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Minas Gerais",
+        "zipcode": "89080-317"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Montevidéu",
+        "zipcode": "89080-353"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-296"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Munique",
+        "zipcode": "89080-202"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Manaus",
+        "zipcode": "89080-184"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89080-063"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Avenida Brasil",
+        "zipcode": "89082-169"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Avenida Brasil",
+        "zipcode": "89082-410"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Resplendor",
+        "zipcode": "89084-664"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Ouro Preto",
+        "zipcode": "89084-612"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Montes Claros",
+        "zipcode": "89084-652"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-770"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Itália",
+        "zipcode": "89082-030"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Kuniberto Milbratz",
+        "zipcode": "89082-036"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Paraguai",
+        "zipcode": "89082-160"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Piratuba",
+        "zipcode": "89082-253"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "89083-135"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Pomerode",
+        "zipcode": "89082-350"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Nova Veneza",
+        "zipcode": "89082-565"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rodovia BR",
+        "zipcode": "89084-405"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco ID 53",
+        "zipcode": "89085-168"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rodovia BR",
+        "zipcode": "89084-560"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-116"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Beco Flamengo",
+        "zipcode": "89081-290"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Avenida Arnoldo Ebert",
+        "zipcode": "89081-300"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Anna Bauer",
+        "zipcode": "89080-745"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Renato Ferreira de Mello",
+        "zipcode": "89086-036"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Presidente João Goulart",
+        "zipcode": "89087-280"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rodovia BR",
+        "zipcode": "89083-120"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "89081-615"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Prefeito Doutor Nilo de Freitas",
+        "zipcode": "89082-015"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Portugal",
+        "zipcode": "89082-027"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua José Chiarelli",
+        "zipcode": "89081-545"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-374"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rodovia BR",
+        "zipcode": "89082-212"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-100"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Gramado",
+        "zipcode": "89085-435"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Caxias do Sul",
+        "zipcode": "89085-450"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Erechim",
+        "zipcode": "89085-460"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Reinhold Schroeder",
+        "zipcode": "89086-345"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Reinhold Schroeder",
+        "zipcode": "89086-370"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Reinhold Schroeder",
+        "zipcode": "89086-375"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Johann Schwarz",
+        "zipcode": "89086-380"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Fridolino Sebastião Schmoeller",
+        "zipcode": "89084-445"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Beco Diamantina",
+        "zipcode": "89084-624"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Germano Schroeder",
+        "zipcode": "89086-063"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Ervino Schroder",
+        "zipcode": "89086-505"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Beco Goiáz",
+        "zipcode": "89086-711"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Lourival Schutz",
+        "zipcode": "89087-033"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Castro",
+        "zipcode": "89085-610"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Lídia Schroeder",
+        "zipcode": "89087-445"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rodovia BR",
+        "zipcode": "89084-400"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco ID 51",
+        "zipcode": "89085-500"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Alfredo Schroeder",
+        "zipcode": "89087-024"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Avenida Brasil",
+        "zipcode": "89082-535"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Quito",
+        "zipcode": "89080-329"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rodovia BR",
+        "zipcode": "89082-080"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Recife",
+        "zipcode": "89080-287"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Beco ID 27",
+        "zipcode": "89082-530"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rodovia BR",
+        "zipcode": "89083-000"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Beco ID 33",
+        "zipcode": "89083-450"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Beco ID 16",
+        "zipcode": "89084-085"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Beco ID 17",
+        "zipcode": "89084-520"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Bertholdo Schroeder",
+        "zipcode": "89086-270"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Beco ID 57",
+        "zipcode": "89086-320"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Artur Schlup",
+        "zipcode": "89087-629"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Erica Schulz",
+        "zipcode": "89087-248"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Werner Schlei",
+        "zipcode": "89080-755"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Beco Chipre",
+        "zipcode": "89082-075"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Beco Doutor Pedrinho",
+        "zipcode": "89082-262"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Garibaldi",
+        "zipcode": "89085-365"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Lontras",
+        "zipcode": "89082-378"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Presidente Nereu",
+        "zipcode": "89082-615"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Havana",
+        "zipcode": "89080-335"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Brasília",
+        "zipcode": "89080-350"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Caracas",
+        "zipcode": "89080-362"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Cairo",
+        "zipcode": "89080-365"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Herbert Prust",
+        "zipcode": "89080-574"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Antonio Bauer",
+        "zipcode": "89080-785"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Hélio Block",
+        "zipcode": "89086-350"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Hermann Gutz",
+        "zipcode": "89086-495"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Hermann Krause",
+        "zipcode": "89086-530"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Apiúna",
+        "zipcode": "89082-780"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Doutor Leoberto Leal",
+        "zipcode": "89080-166"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Lima",
+        "zipcode": "89080-272"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Max Raiter",
+        "zipcode": "89081-320"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Califórnia",
+        "zipcode": "89086-778"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Arfeu dos Santos",
+        "zipcode": "89087-015"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Arthur Keunecke",
+        "zipcode": "89087-030"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Edith Wolff",
+        "zipcode": "89087-480"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua ID A30",
+        "zipcode": "89084-870"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Antonina",
+        "zipcode": "89085-164"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Capanema",
+        "zipcode": "89085-625"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Doutor Clodorico Moreira",
+        "zipcode": "89086-113"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Arthur Bachmann",
+        "zipcode": "89086-545"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Arizona",
+        "zipcode": "89086-826"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Carolina do Norte",
+        "zipcode": "89086-838"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Arnoldo Moser",
+        "zipcode": "89087-254"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Buritis",
+        "zipcode": "89084-656"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Campo Largo",
+        "zipcode": "89085-630"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Cabo Verde",
+        "zipcode": "89084-648"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Campinas",
+        "zipcode": "89084-512"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Doutor Heinz Wamser",
+        "zipcode": "89084-455"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Caçador",
+        "zipcode": "89082-770"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Luiz Joaquim de Oliveira",
+        "zipcode": "89081-335"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Equador",
+        "zipcode": "89082-121"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Içara",
+        "zipcode": "89082-250"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Lisboa",
+        "zipcode": "89080-415"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Ari Barroso",
+        "zipcode": "89081-325"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Carlos Rüdiger",
+        "zipcode": "89081-330"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Canadá",
+        "zipcode": "89082-142"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Argentina",
+        "zipcode": "89082-151"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Engenheiro Emílio Odebrecht",
+        "zipcode": "89082-006"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Henrique Romer",
+        "zipcode": "89081-116"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Castro Alves",
+        "zipcode": "89081-213"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Arthur Hoeschl",
+        "zipcode": "89081-275"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Botuverá",
+        "zipcode": "89082-311"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua ID A20",
+        "zipcode": "89081-790"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Luanda",
+        "zipcode": "89080-254"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua ID A31",
+        "zipcode": "89084-880"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Anton Klein",
+        "zipcode": "89086-330"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Canaã",
+        "zipcode": "89084-860"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Edmund Timm",
+        "zipcode": "89084-890"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Ella Gollnick",
+        "zipcode": "89086-128"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Bom Jardim da Serra",
+        "zipcode": "89086-290"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Arno Kretz",
+        "zipcode": "89086-515"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-555"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Eloy Corrêa Gomes",
+        "zipcode": "89086-595"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Emílio Reguse",
+        "zipcode": "89086-605"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Arnold Alfarth",
+        "zipcode": "89086-610"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Luiz Alves",
+        "zipcode": "89082-485"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rodovia BR",
+        "zipcode": "89084-320"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Polaquia",
+        "street": "Rua Antônio Dickmann",
+        "zipcode": "89087-760"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Pedro Osório",
+        "zipcode": "89085-415"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Lajeado",
+        "zipcode": "89085-470"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Londrina",
+        "zipcode": "89085-505"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Milton Kurth",
+        "zipcode": "89086-360"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Lorenz",
+        "zipcode": "89086-480"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Lorenz",
+        "zipcode": "89086-485"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Mathias Theiss",
+        "zipcode": "89086-575"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Henrique Loos",
+        "zipcode": "89086-625"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Paraná",
+        "zipcode": "89086-696"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Mato Grosso",
+        "zipcode": "89086-702"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Maria Conceição Saut",
+        "zipcode": "89087-006"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Mato Grosso do Sul",
+        "zipcode": "89087-070"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Luigi Panini",
+        "zipcode": "89087-189"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Laurentino Negherborn",
+        "zipcode": "89087-233"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Henrique Kienen",
+        "zipcode": "89087-485"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Mato Grosso do Sul",
+        "zipcode": "89087-589"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Lorenz",
+        "zipcode": "89086-430"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Havaí",
+        "zipcode": "89086-829"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Henrique Negherbon",
+        "zipcode": "89087-644"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Minas Gerais",
+        "zipcode": "89086-823"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Luiz Furtado",
+        "zipcode": "89087-198"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 19 de Novembro",
+        "zipcode": "89084-385"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua México",
+        "zipcode": "89082-145"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-785"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Mariana",
+        "zipcode": "89084-620"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Beco Adolfo Michel",
+        "zipcode": "89087-566"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Beco Emma Voigt",
+        "zipcode": "89087-659"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Polaquia",
+        "street": "Rua Adolfo Molinari",
+        "zipcode": "89087-690"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Hilário Buzzarelo",
+        "zipcode": "89087-027"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Henrique Zoschke",
+        "zipcode": "89087-587"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua C (Lot Cam Das Areias)",
+        "zipcode": "89087-647"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Área Rural de Indaial",
+        "street": "Área Rural",
+        "zipcode": "89089-899"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Guilherme Zoschke",
+        "zipcode": "89087-650"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Edmundo Jansen",
+        "zipcode": "89087-563"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Lorenz",
+        "zipcode": "89086-425"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Polaquia",
+        "street": "Rua Alwin Knoch",
+        "zipcode": "89087-700"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua Melvin Jones",
+        "zipcode": "89084-109"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Paramaribo",
+        "zipcode": "89080-374"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Pedro Ebert",
+        "zipcode": "89081-119"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89080-890"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Foz do Jordão",
+        "zipcode": "89085-172"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua Maria Tanchella",
+        "zipcode": "89083-355"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua Melvin Jones",
+        "zipcode": "89084-000"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua Melvin Jones",
+        "zipcode": "89084-180"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 5 de Outubro",
+        "zipcode": "89084-276"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Araucária",
+        "zipcode": "89085-176"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Maringá",
+        "zipcode": "89085-615"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-535"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-550"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Herald Hermann Georg Eskelsen",
+        "zipcode": "89086-565"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Massaranduba",
+        "zipcode": "89082-480"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Amélia",
+        "zipcode": "89083-012"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Jacy Gonçalves da Luz",
+        "zipcode": "89087-012"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-395"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-450"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-520"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Vereador Prospério Mathiuz",
+        "zipcode": "89087-283"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-280"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Adolfo Molinari",
+        "zipcode": "89087-110"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Beco Paula Cipriano",
+        "zipcode": "89087-656"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Beco Santa Cecília",
+        "zipcode": "89083-275"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Joinville",
+        "zipcode": "89082-247"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Arapongas",
+        "street": "Rua Augusto Maass",
+        "zipcode": "89083-715"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Avenida Brasil",
+        "zipcode": "89082-290"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Giuseppe Moretti",
+        "zipcode": "89080-568"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Alasca",
+        "zipcode": "89080-245"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 12 de Maio",
+        "zipcode": "89084-018"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-545"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Japão",
+        "zipcode": "89082-166"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Bagé",
+        "zipcode": "89085-070"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Ibirama",
+        "zipcode": "89082-362"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Camboriú",
+        "zipcode": "89082-366"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89080-880"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-740"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Cascavel",
+        "zipcode": "89085-180"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Montana",
+        "zipcode": "89086-841"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Manoel Simão 55",
+        "zipcode": "89130-970"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Bahia",
+        "zipcode": "89080-015"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas",
+        "zipcode": "89080-024"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Doutor Oswaldo Cruz",
+        "zipcode": "89080-078"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 12 de Junho",
+        "zipcode": "89084-115"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 16 de Julho",
+        "zipcode": "89084-149"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Uberaba",
+        "zipcode": "89084-780"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Vereador Getúlio de Pin",
+        "zipcode": "89087-289"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Luiza Henkels",
+        "zipcode": "89086-510"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "89086-723"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rua Bagé",
+        "zipcode": "89085-065"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Ângelo Dias",
+        "zipcode": "89087-662"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Frederico Reguse",
+        "zipcode": "89086-105"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rua Boa Esperança",
+        "zipcode": "89084-790"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Guaramirim",
+        "zipcode": "89082-830"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-660"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Brusque",
+        "zipcode": "89082-450"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Aracaju",
+        "zipcode": "89080-338"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Bom Sucesso",
+        "zipcode": "89084-644"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Gaspar",
+        "zipcode": "89082-495"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Rua Bolívia",
+        "zipcode": "89082-148"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Jaraguá do Sul",
+        "zipcode": "89082-259"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-005"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rua Rio do Sul",
+        "zipcode": "89082-256"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "89080-006"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "89086-714"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-080"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-085"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-260"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-020"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua Santa Lurdes",
+        "zipcode": "89083-198"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "89081-605"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Beco Vereador Idalício Pereira",
+        "zipcode": "89086-060"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Atenas",
+        "zipcode": "89080-283"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Wilhelm Fritz",
+        "zipcode": "89080-780"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-550"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89080-003"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Comendador Henrique Wanke",
+        "zipcode": "89080-048"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Santos Dumont",
+        "zipcode": "89080-027"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Nações",
+        "street": "Beco N 2",
+        "zipcode": "89082-130"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Arapongas",
+        "street": "Rua Augusto Maass",
+        "zipcode": "89083-725"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Beco 14 de Outubro",
+        "zipcode": "89084-006"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Beco 10 de Novembro",
+        "zipcode": "89084-106"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Beco 14 de Abril",
+        "zipcode": "89084-282"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rodovia BR",
+        "zipcode": "89084-397"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Augusto Hasse",
+        "zipcode": "89084-440"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Benedito",
+        "street": "Rua Artur Manoel Januario Antunes",
+        "zipcode": "89084-450"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Natal",
+        "zipcode": "89080-123"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Arthur Sardagna",
+        "zipcode": "89080-635"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Olympia",
+        "zipcode": "89080-132"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Niterói",
+        "zipcode": "89080-129"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-126"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89081-410"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-144"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Bremen",
+        "zipcode": "89080-347"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Jade",
+        "zipcode": "89080-500"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Sol",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "89086-000"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89086-693"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Victor Harbs",
+        "zipcode": "89087-330"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89087-153"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua José Domingos de Oliveira",
+        "zipcode": "89087-180"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 21 de Março",
+        "zipcode": "89084-285"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estradinha",
+        "street": "Rua São Domingos",
+        "zipcode": "89083-370"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Rio Morto",
+        "street": "Rodovia BR",
+        "zipcode": "89082-665"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Tapajós",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89080-120"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-630"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estrada das Areias",
+        "street": "Rua Ribeirão das Pedras",
+        "zipcode": "89087-390"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Estados",
+        "street": "Rua Espírito Santo",
+        "zipcode": "89086-784"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Mulde",
+        "street": "Rodovia BR",
+        "zipcode": "89084-680"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano",
+        "street": "Rua Doutor Blumenau",
+        "zipcode": "89086-560"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Ribeirão das Pedras",
+        "zipcode": "89080-870"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Beco Nova Petrópolis",
+        "zipcode": "89085-445"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Encano do Norte",
+        "street": "Rodovia BR",
+        "zipcode": "89085-160"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "João Paulo II",
+        "street": "Rua São Luiz",
+        "zipcode": "89083-219"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-680"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "89081-780"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Ribeirão das Pedras",
+        "street": "Rua Servanda Sardagna",
+        "zipcode": "89080-637"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 15 de Abril",
+        "zipcode": "89084-355"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Warnow",
+        "street": "Rua Servanda Sardagna",
+        "zipcode": "89080-741"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 15 de Março",
+        "zipcode": "89084-273"
+    },
+    {
+        "city": "Indaial",
+        "state": "SC",
+        "district": "Carijós",
+        "street": "Rua 19 de Março",
+        "zipcode": "89084-297"
+    }
+]

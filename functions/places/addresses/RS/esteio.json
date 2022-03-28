@@ -1,0 +1,4601 @@
+[
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Parobé",
+        "zipcode": "93260-200"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rodovia BR",
+        "zipcode": "93270-000"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Alagoas",
+        "zipcode": "93280-410"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Quaraí",
+        "zipcode": "93285-480"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Bandeirantes",
+        "zipcode": "93285-310"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Dona Isabel",
+        "zipcode": "93285-320"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Lions Clube",
+        "zipcode": "93285-360"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pelotas",
+        "zipcode": "93265-100"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Império",
+        "zipcode": "93285-300"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua da Olaria",
+        "zipcode": "93270-720"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Irmã Dulce",
+        "zipcode": "93270-750"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Cruz Alta",
+        "zipcode": "93280-280"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Ana Nery",
+        "zipcode": "93280-370"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Prata",
+        "zipcode": "93280-010"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Osório",
+        "zipcode": "93260-290"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Travessa Bom Retiro",
+        "zipcode": "93260-300"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Itapuã",
+        "zipcode": "93265-430"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Vereador Edgar Piccioni",
+        "zipcode": "93260-370"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Vinte de Setembro",
+        "zipcode": "93260-410"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Pastor Osmar N Gomes",
+        "zipcode": "93260-422"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-454"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua B (Vl Navegantes)",
+        "zipcode": "93265-304"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Fortaleza",
+        "zipcode": "93265-460"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Carmem Miranda",
+        "zipcode": "93270-670"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Recife",
+        "zipcode": "93265-360"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua João Caruso",
+        "zipcode": "93295-270"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Maurício Sperb",
+        "zipcode": "93295-710"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua dos Sete Povos",
+        "zipcode": "93290-220"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Albino Storck",
+        "zipcode": "93290-150"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Padre Urbano Thiesen",
+        "zipcode": "93290-170"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Garcia Lorca",
+        "zipcode": "93290-190"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida das Américas",
+        "zipcode": "93290-230"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Jacob Alcalay",
+        "zipcode": "93290-250"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Célia Silva Tavares",
+        "zipcode": "93295-464"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Governador Ernesto Dornelles",
+        "zipcode": "93290-240"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Alameda da Ecologia",
+        "zipcode": "93270-740"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua D",
+        "zipcode": "93285-083"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Carlos Drummond de Andrade",
+        "zipcode": "93285-140"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Eloy Chaves",
+        "zipcode": "93285-160"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua João Manoel Baladao",
+        "zipcode": "93285-220"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Negrinho do Pastoreio",
+        "zipcode": "93270-700"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Primavera",
+        "zipcode": "93285-260"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Nelson de O. Mello",
+        "zipcode": "93290-280"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Travessa Boa Vista",
+        "zipcode": "93260-600"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Travessa Uruguai",
+        "zipcode": "93265-340"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Travessa Maurício Rosemblat",
+        "zipcode": "93285-195"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Travessa Achylles Quaiato",
+        "zipcode": "93285-210"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Travessa Gonçalves Dias",
+        "zipcode": "93260-580"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Travessa Santa Catarina",
+        "zipcode": "93265-320"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Santa Maria",
+        "zipcode": "93270-630"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua João Correa da Costa",
+        "zipcode": "93285-170"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua República Argentina",
+        "zipcode": "93285-270"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua da Imprensa",
+        "zipcode": "93270-620"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Altamira",
+        "zipcode": "93265-070"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua São Caetano",
+        "zipcode": "93265-110"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Dom Pedro",
+        "zipcode": "93265-141"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua B (Vl Nova)",
+        "zipcode": "93265-283"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua D (Vl Nova)",
+        "zipcode": "93265-286"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua C (Vl Guterres)",
+        "zipcode": "93265-292"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Aristides Stumph",
+        "zipcode": "93265-310"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93265-542"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Cabriuva",
+        "zipcode": "93265-380"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua da Legalidade",
+        "zipcode": "93265-390"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Érico Veríssimo",
+        "zipcode": "93265-322"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ernesto Weick",
+        "zipcode": "93260-100"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Comandante Cramer",
+        "zipcode": "93260-110"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Eurico Lara",
+        "zipcode": "93260-160"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Nova Trento",
+        "zipcode": "93260-210"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua das Nações",
+        "zipcode": "93260-240"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Montenegro",
+        "zipcode": "93260-500"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Milton Campos",
+        "zipcode": "93260-510"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Nicolau Copérnico",
+        "zipcode": "93260-520"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Riachuelo",
+        "zipcode": "93260-550"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Avenida Osmundo Reupert",
+        "zipcode": "93260-555"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "93260-560"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua do Exército",
+        "zipcode": "93260-340"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93265-169"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "93270-420"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Cruzeiro do Sul",
+        "zipcode": "93295-340"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Juscelino Kubitschek",
+        "zipcode": "93295-410"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Geraldo José de Almeida",
+        "zipcode": "93295-430"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Dalva de Oliveira",
+        "zipcode": "93295-440"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Seis",
+        "zipcode": "93285-770"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Caçapava do Sul",
+        "zipcode": "93295-422"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Arroio Sapucaia",
+        "zipcode": "93270-265"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Cacequi",
+        "zipcode": "93270-500"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Alfredo Petry",
+        "zipcode": "93270-580"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Guimarães Rosa",
+        "zipcode": "93280-210"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Inácio Montanha",
+        "zipcode": "93285-010"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Francelino Viana",
+        "zipcode": "93285-700"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua dos Pioneiros",
+        "zipcode": "93290-130"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Arlindo Baierle",
+        "zipcode": "93270-540"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Amapá",
+        "zipcode": "93280-420"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Lidovino Fanton",
+        "zipcode": "93290-120"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Rio Branco",
+        "zipcode": "93280-440"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua São Luiz",
+        "zipcode": "93280-460"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Tapajós",
+        "zipcode": "93285-020"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua São Francisco",
+        "zipcode": "93285-040"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Vereador Ernesto Menezes",
+        "zipcode": "93285-090"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Reinaldo Eugênio Graff",
+        "zipcode": "93285-100"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Octávio Silveira Borges",
+        "zipcode": "93285-110"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Secundino Ayres",
+        "zipcode": "93290-140"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua São Jorge",
+        "zipcode": "93295-360"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Osvaldo Jesus Vieira",
+        "zipcode": "93295-380"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Walt Disney",
+        "zipcode": "93265-050"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Santo Antônio",
+        "zipcode": "93265-170"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Travessa Francisco Prato",
+        "zipcode": "93265-200"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Travessa Azevedo",
+        "zipcode": "93265-210"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Travessa Capitão Thomaz de Carvalho Osório",
+        "zipcode": "93265-270"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Wilson Gomes",
+        "zipcode": "93270-360"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Travessa Sapucaia",
+        "zipcode": "93280-470"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Travessa Natal",
+        "zipcode": "93295-290"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa das Azaléias",
+        "zipcode": "93295-350"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "93270-310"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Dezenove de Novembro",
+        "zipcode": "93270-330"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Lobo da Costa",
+        "zipcode": "93270-440"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua João Batista da Silva",
+        "zipcode": "93270-550"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Maracanã",
+        "zipcode": "93270-570"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Papa Paulo VI",
+        "zipcode": "93270-520"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Irmã Joana Nadari",
+        "zipcode": "93280-465"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pedro Lerbach",
+        "zipcode": "93265-030"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua dos Ferroviários",
+        "zipcode": "93265-150"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua José Guimarães",
+        "zipcode": "93265-220"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Residencial Village",
+        "zipcode": "93265-230"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Bom Jesus",
+        "zipcode": "93265-240"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Liberato Salzano",
+        "zipcode": "93270-210"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Tiradentes",
+        "zipcode": "93270-220"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua dos Lírios",
+        "zipcode": "93265-724"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Gravataí",
+        "zipcode": "93260-010"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Fernando Ferrari",
+        "zipcode": "93260-030"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Garibaldi",
+        "zipcode": "93260-060"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Avenida Quinze de Novembro",
+        "zipcode": "93270-160"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Charrua",
+        "zipcode": "93280-240"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Laurindo Marchesan",
+        "zipcode": "93295-640"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Rui José Guimarães",
+        "zipcode": "93295-660"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Manoel dos Santos",
+        "zipcode": "93295-680"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua José Guimarães",
+        "zipcode": "93295-700"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Vinte e Nove de Dezembro",
+        "zipcode": "93295-725"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Samambaia",
+        "zipcode": "93295-780"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Bartolomeu de Gusmão",
+        "zipcode": "93270-400"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Pablo Neruda",
+        "zipcode": "93270-490"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Dez",
+        "zipcode": "93285-660"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Sete",
+        "zipcode": "93285-780"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Cristo Rei",
+        "zipcode": "93290-040"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Carlos Chagas",
+        "zipcode": "93295-180"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Borges de Medeiros",
+        "zipcode": "93295-240"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Arthur Dossena",
+        "zipcode": "93295-690"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Aurélio Porto",
+        "zipcode": "93270-090"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Assis Brasil",
+        "zipcode": "93270-140"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua da Paz",
+        "zipcode": "93280-170"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Luis Escobar Jardim",
+        "zipcode": "93285-479"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Ezequiel Rezende",
+        "zipcode": "93285-530"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Eusébio de Queiroz",
+        "zipcode": "93280-200"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua das Missões",
+        "zipcode": "93280-330"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Bahia",
+        "zipcode": "93280-400"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Doze",
+        "zipcode": "93285-680"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Florinaldo Silveira de Matos",
+        "zipcode": "93285-690"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Leopoldo Brentano",
+        "zipcode": "93290-050"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Oséias Vieira da Cunha",
+        "zipcode": "93285-474"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Tri",
+        "zipcode": "93285-500"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Taquari",
+        "zipcode": "93285-550"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Percival Lisboa",
+        "zipcode": "93285-610"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Olavo Fontoura",
+        "zipcode": "93285-615"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua São Camilo",
+        "zipcode": "93290-070"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Mineto",
+        "zipcode": "93280-250"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Paraná",
+        "zipcode": "93280-320"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Raul Pilla",
+        "zipcode": "93280-340"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Viterbo José Machado",
+        "zipcode": "93295-210"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Travessa dos Operários",
+        "zipcode": "93270-110"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Travessa Oriente",
+        "zipcode": "93280-360"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa Palmeira",
+        "zipcode": "93295-760"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Zeferino Brasil",
+        "zipcode": "93270-410"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Luiz Ernesto Capra",
+        "zipcode": "93270-450"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Passo Fundo",
+        "zipcode": "93280-290"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Travessa Alvina Francisca",
+        "zipcode": "93295-200"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Hélio Arnoldo Sperb",
+        "zipcode": "93295-208"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua da Saudade",
+        "zipcode": "93295-800"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Felipe dos Santos",
+        "zipcode": "93270-480"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa da Saudade",
+        "zipcode": "93295-810"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua José Pedro Silveira (Vl Pedreira)",
+        "zipcode": "93260-730"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Beco Cinco (Vl Pedreira)",
+        "zipcode": "93260-740"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Beco D (Vl Esperança)",
+        "zipcode": "93265-510"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Ezequiel Nunes Filho",
+        "zipcode": "93265-540"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Martinho Lutero",
+        "zipcode": "93270-030"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Pedro Carneiro Pereira",
+        "zipcode": "93270-060"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Ceará",
+        "zipcode": "93285-460"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Gilda de Abreu",
+        "zipcode": "93290-430"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Gildo de Freitas",
+        "zipcode": "93290-440"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Estério Frainer",
+        "zipcode": "93290-510"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Maria Quitéria",
+        "zipcode": "93295-100"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Marcílio Dias",
+        "zipcode": "93295-130"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Cláudio Zonta",
+        "zipcode": "93295-133"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "93295-150"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Ipiranga",
+        "zipcode": "93295-160"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Elvis Presley",
+        "zipcode": "93295-370"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Linos Moeller",
+        "zipcode": "93295-466"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua João Goulart",
+        "zipcode": "93295-470"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Doze de Novembro",
+        "zipcode": "93295-490"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Ludovico Costella",
+        "zipcode": "93295-545"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Paulo Freire",
+        "zipcode": "93295-546"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Rondônia",
+        "zipcode": "93295-590"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Vitor Mateus Teixeira",
+        "zipcode": "93295-635"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua João Francisco Alves",
+        "zipcode": "93295-670"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Guarani",
+        "zipcode": "93285-470"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Elis Regina",
+        "zipcode": "93295-550"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Sílvio Disconzi",
+        "zipcode": "93295-610"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Alberto Braun",
+        "zipcode": "93290-500"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Aguinaldo Figueiredo",
+        "zipcode": "93295-420"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Ayrton Senna da Silva",
+        "zipcode": "93295-565"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Estrada do Boqueirão",
+        "zipcode": "93295-300"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Machado de Assis",
+        "zipcode": "93280-130"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Irmã Tereza Verzeri",
+        "zipcode": "93280-463"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Iara",
+        "zipcode": "93280-100"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Ary Leite",
+        "zipcode": "93285-462"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Di Cavalcanti",
+        "zipcode": "93290-380"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Lupicínio Rodrigues",
+        "zipcode": "93290-420"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Oito de Julho",
+        "zipcode": "93280-070"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Venâncio Aires",
+        "zipcode": "93280-080"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Minuano",
+        "zipcode": "93280-140"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Max Kollert",
+        "zipcode": "93285-620"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Ney Brito",
+        "zipcode": "93290-370"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Rui Ramos",
+        "zipcode": "93295-050"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Sérgio Bitencourt",
+        "zipcode": "93295-070"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Procópio Ferreira",
+        "zipcode": "93295-080"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Paulo Pontes",
+        "zipcode": "93295-110"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Tenente Francisco Pascoal Severo",
+        "zipcode": "93295-113"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Sérgio Cardoso",
+        "zipcode": "93295-330"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Orestes Pianta",
+        "zipcode": "93295-472"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Primeiro de Junho",
+        "zipcode": "93295-500"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Oito de Março",
+        "zipcode": "93295-520"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Primeiro de Março",
+        "zipcode": "93295-510"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa D (Vl Pedreira)",
+        "zipcode": "93260-712"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Travessa Roberto Splitt",
+        "zipcode": "93280-110"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa G (Vl Pedreira)",
+        "zipcode": "93260-724"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Henrique Pongetti",
+        "zipcode": "93295-030"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Vinícius de Moraes",
+        "zipcode": "93295-600"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Elísio Silva",
+        "zipcode": "93295-630"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua da Pedreira (Vl Pedreira)",
+        "zipcode": "93260-714"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Vila Lobos",
+        "zipcode": "93260-400"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Santana",
+        "zipcode": "93285-000"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Judith Meneguetti",
+        "zipcode": "93295-020"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Heron Domingues",
+        "zipcode": "93295-140"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Floriano Maya DÁvila",
+        "zipcode": "93295-190"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Itaipu",
+        "zipcode": "93295-260"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Jocei da Silva Carvalho",
+        "zipcode": "93285-600"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Luiz Francisco Guizone",
+        "zipcode": "93290-330"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Jardel Filho",
+        "zipcode": "93290-470"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua das Dálias",
+        "zipcode": "93290-480"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Maria Helena Costa Tavares",
+        "zipcode": "93290-260"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida João Paulo I",
+        "zipcode": "93290-340"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Santo Inácio de Loiola",
+        "zipcode": "93290-350"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Allan Kardec",
+        "zipcode": "93290-490"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Bruno Sperb",
+        "zipcode": "93295-584"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Avenida Frederico Dahne",
+        "zipcode": "93270-080"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Campos Sales",
+        "zipcode": "93270-390"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Clarice Lispector",
+        "zipcode": "93270-510"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Ascendino Alves da Silva",
+        "zipcode": "93270-660"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Parque Exposições Assis Brasil",
+        "zipcode": "93270-710"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coração de Maria",
+        "zipcode": "93280-020"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Alegrete",
+        "zipcode": "93280-060"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Guararapes",
+        "zipcode": "93280-230"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Acre",
+        "zipcode": "93280-430"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua José Grimberg",
+        "zipcode": "93285-290"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Hermenegildo Cauduro",
+        "zipcode": "93285-370"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Lourenço Rabaioli",
+        "zipcode": "93285-476"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua José Antônio Daudt",
+        "zipcode": "93285-490"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Três (Vl Esperança)",
+        "zipcode": "93285-520"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Dois",
+        "zipcode": "93285-670"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Onze",
+        "zipcode": "93285-740"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Rotary Club",
+        "zipcode": "93285-760"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Doutor Miguel V. Ferreira",
+        "zipcode": "93290-200"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Dona Maria Zagonel",
+        "zipcode": "93285-468"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Roquete Pinto",
+        "zipcode": "93285-030"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Olga Benario Prestes",
+        "zipcode": "93285-200"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Padre Cândido Santine",
+        "zipcode": "93290-020"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-003"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Primo Caetano Favero",
+        "zipcode": "93290-100"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Santo Thomas de Aquino",
+        "zipcode": "93290-360"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Osmar Fortes Barcellos",
+        "zipcode": "93290-450"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Orlando Silva",
+        "zipcode": "93290-320"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Veiga Marques",
+        "zipcode": "93290-390"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Zaldi José Velho (Lot Pq Seminário)",
+        "zipcode": "93280-126"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Travessa Santo Ângelo",
+        "zipcode": "93285-060"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa Humberto Fração (Res Hípica)",
+        "zipcode": "93295-782"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Maurício Sirotski Sobrinho",
+        "zipcode": "93270-270"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Palestina",
+        "zipcode": "93270-470"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Placinácio Aguirre Escobar",
+        "zipcode": "93270-560"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Plínio Salgado",
+        "zipcode": "93290-060"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Henrique de Paula Silveira",
+        "zipcode": "93290-160"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Aldo Locatelli",
+        "zipcode": "93290-410"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Treze de Maio",
+        "zipcode": "93270-040"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Pinto Bandeira",
+        "zipcode": "93270-130"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Dona Olga Jancowski",
+        "zipcode": "93270-170"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "93270-190"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua das Estremosas",
+        "zipcode": "93290-460"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Coelho Netto",
+        "zipcode": "93295-120"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Enoir Doglas Favero",
+        "zipcode": "93295-204"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Esmeralda",
+        "zipcode": "93295-592"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Topázio",
+        "zipcode": "93295-593"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Aristides Rodrigues Ferreira",
+        "zipcode": "93270-370"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua A (Vl Esperança)",
+        "zipcode": "93285-402"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Tarso Dutra",
+        "zipcode": "93290-180"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Padre Landell de Moura",
+        "zipcode": "93290-270"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Bolivar Farrapo Leiria",
+        "zipcode": "93295-090"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Adelar Doberstein",
+        "zipcode": "93295-117"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Alvarenga Peixoto",
+        "zipcode": "93295-230"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Acesso A (R Bruno Sperb)",
+        "zipcode": "93295-582"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Ametista",
+        "zipcode": "93295-596"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Jesuítas",
+        "zipcode": "93285-380"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua João Pauluzzi",
+        "zipcode": "93285-560"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Honorato Marcelino da Silva",
+        "zipcode": "93290-090"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Luiz Carlos M. Nunes",
+        "zipcode": "93290-110"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Avenida Cezar Antonio Bettanin",
+        "zipcode": "93270-245"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Doutor Mário Totta",
+        "zipcode": "93280-350"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Arthur da Costa e Silva",
+        "zipcode": "93285-340"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Camões",
+        "zipcode": "93285-400"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua B (Vl Esperança)",
+        "zipcode": "93285-404"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Três Caravelas",
+        "zipcode": "93285-450"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Padre Balduino Rambo",
+        "zipcode": "93290-030"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Vasco da Gama",
+        "zipcode": "93285-350"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Sérgio Heinz",
+        "zipcode": "93295-115"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua São Leopoldo",
+        "zipcode": "93295-170"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Rio Negro",
+        "zipcode": "93295-220"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Verci F. Marques",
+        "zipcode": "93295-320"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa C (Vl Pedreira)",
+        "zipcode": "93260-708"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa F (Vl Pedreira)",
+        "zipcode": "93260-726"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Travessa Bom Fim",
+        "zipcode": "93295-196"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua C (Vl Esperança)",
+        "zipcode": "93285-406"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Pedro dos Santos",
+        "zipcode": "93285-472"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Brasília",
+        "zipcode": "93270-290"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Theobaldo Schuller",
+        "zipcode": "93270-590"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Dom Pedrito",
+        "zipcode": "93280-270"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Thomas Antônio Gonzaga",
+        "zipcode": "93290-400"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Liberdade",
+        "zipcode": "93265-080"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Dom Pedro",
+        "zipcode": "93265-140"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Rio Grande",
+        "zipcode": "93265-000"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Santo Antônio",
+        "zipcode": "93265-160"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua A (Vl Nova)",
+        "zipcode": "93265-282"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Alvício Nienow",
+        "zipcode": "93265-290"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Coronel Theodomiro Porto da Fonseca",
+        "zipcode": "93265-330"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Hortência",
+        "zipcode": "93265-682"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Pelotas",
+        "zipcode": "93265-688"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua da Alegria",
+        "zipcode": "93265-732"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Araucária (Vl Ezequiel)",
+        "zipcode": "93265-370"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Suriname",
+        "zipcode": "93265-450"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Beco C (Vl Esperança)",
+        "zipcode": "93265-500"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua David Canabarro",
+        "zipcode": "93265-530"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Avenida Independência",
+        "zipcode": "93270-010"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Manoel Machado",
+        "zipcode": "93260-540"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua José de Alencar",
+        "zipcode": "93285-070"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Dezesseis de Dezembro",
+        "zipcode": "93295-480"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Ingo Leopoldo Ebert",
+        "zipcode": "93295-560"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Santa Fé",
+        "zipcode": "93295-650"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Ernesto Reinaldi (Res Hípica)",
+        "zipcode": "93295-788"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Doutor Lauro Dondonis",
+        "zipcode": "93295-390"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Avenida Porto Alegre",
+        "zipcode": "93295-000"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Alexandrita",
+        "zipcode": "93295-598"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Estrada Passo do Nazario",
+        "zipcode": "93295-530"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Arroio Esteio",
+        "zipcode": "93270-230"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Avenida Celina Chaves Kroeff",
+        "zipcode": "93270-530"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Avelino Antônio Zonta",
+        "zipcode": "93270-600"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Avenida Rio Branco",
+        "zipcode": "93270-610"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Marquês de Queluz",
+        "zipcode": "93270-690"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Lansul",
+        "zipcode": "93270-730"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua La Salle",
+        "zipcode": "93280-040"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Avenida João Neves da Fontoura",
+        "zipcode": "93280-190"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Ivoti",
+        "zipcode": "93280-490"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Dezoito de Novembro",
+        "zipcode": "93285-180"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Hugo Guilherme Klein",
+        "zipcode": "93285-190"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Coronel Serafim Pereira",
+        "zipcode": "93285-330"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Cinco",
+        "zipcode": "93285-650"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Oito",
+        "zipcode": "93285-730"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Pernambuco",
+        "zipcode": "93280-380"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua São Paulo",
+        "zipcode": "93280-450"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Parlamento",
+        "zipcode": "93285-420"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Nações Arabes",
+        "zipcode": "93295-400"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Serafim Leite",
+        "zipcode": "93290-290"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Moacir Pereira Tavares",
+        "zipcode": "93295-468"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa Treze de Maio",
+        "zipcode": "93270-050"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Travessa Ijuí",
+        "zipcode": "93270-100"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Travessa Domingos dos Santos",
+        "zipcode": "93280-062"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Travessa Mário Cutruneo",
+        "zipcode": "93285-230"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa Eldorado",
+        "zipcode": "93295-720"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa Quarenta (Res Hípica)",
+        "zipcode": "93295-785"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Manoel Ferreira Cardoso",
+        "zipcode": "93270-320"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Paulo Cândido dos Santos",
+        "zipcode": "93270-460"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "93285-390"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Nove",
+        "zipcode": "93285-720"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Oscarito",
+        "zipcode": "93295-450"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Ágata",
+        "zipcode": "93295-594"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Avenida Érico Veríssimo",
+        "zipcode": "93265-300"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua A (Vl Navegantes)",
+        "zipcode": "93265-305"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Guido Possamai",
+        "zipcode": "93265-420"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Ipê",
+        "zipcode": "93265-686"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Avenida Brasil",
+        "zipcode": "93265-720"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua da Esperança",
+        "zipcode": "93265-726"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Osvaldo Kroeff",
+        "zipcode": "93270-180"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Pedro Álvares Cabral",
+        "zipcode": "93270-200"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Bento Gonçalves",
+        "zipcode": "93265-350"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Amazonas",
+        "zipcode": "93265-684"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua da Constituição",
+        "zipcode": "93260-230"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Capitão Armindo Bier",
+        "zipcode": "93260-270"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "93260-141"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "93260-590"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua José Martins",
+        "zipcode": "93260-380"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-490"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco José Antônio Soares (Vl Esperança)",
+        "zipcode": "93285-511"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Silva Jardim",
+        "zipcode": "93270-380"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Buenos Aires",
+        "zipcode": "93280-050"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua João Simões Netto",
+        "zipcode": "93280-220"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Acesso C (R Bruno Sperb)",
+        "zipcode": "93295-581"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Avenida Standard",
+        "zipcode": "93270-760"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Juan Pio Germano (Lot Pq Seminário)",
+        "zipcode": "93280-118"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Ieda Nunes Pizzá de Azevedo",
+        "zipcode": "93280-469"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua B",
+        "zipcode": "93285-081"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Galvão de Oliveira Loureiro",
+        "zipcode": "93285-130"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Rita de Castro Carvalho (Lot Pq Seminário)",
+        "zipcode": "93280-128"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "93285-280"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua São Borja",
+        "zipcode": "93285-410"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93285-471"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Romualdo Marchis",
+        "zipcode": "93290-300"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Novo Hamburgo",
+        "zipcode": "93280-300"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "93280-390"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Santo Ângelo",
+        "zipcode": "93285-050"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Padre Cícero",
+        "zipcode": "93285-430"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "93285-440"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Travessa São Sepé",
+        "zipcode": "93260-170"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa I (Vl Pedreira)",
+        "zipcode": "93260-736"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Lages",
+        "zipcode": "93265-020"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Travessa Germano Von Hohendorf",
+        "zipcode": "93265-190"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Travessa Erwino Shuller",
+        "zipcode": "93265-260"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa E (Vl Pedreira)",
+        "zipcode": "93260-718"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa dos Colonizadores",
+        "zipcode": "93270-430"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Travessa Primeiro de Maio",
+        "zipcode": "93285-250"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Walter S. Nunes",
+        "zipcode": "93290-210"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Gilberto Tadeu Morais",
+        "zipcode": "93270-260"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Sepé Tiaraju",
+        "zipcode": "93270-340"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua José Casemiro Castilhos",
+        "zipcode": "93285-630"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua da Passarela (Vl Pedreira)",
+        "zipcode": "93260-732"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Beco Três (Vl Pedreira)",
+        "zipcode": "93260-720"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93265-226"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Mário Quintana (Vl Guterres)",
+        "zipcode": "93265-296"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua C (Vl Navegantes)",
+        "zipcode": "93265-302"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua G (Vl Navegantes)",
+        "zipcode": "93265-308"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Praça do Expedicionário",
+        "zipcode": "93265-410"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua das Flores",
+        "zipcode": "93265-734"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Bento Gonçalves",
+        "zipcode": "93265-970"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua C (Vl Nova)",
+        "zipcode": "93265-284"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Três",
+        "zipcode": "93270-240"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Beco Dionísio da Costa",
+        "zipcode": "93265-480"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-077"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Santos Dumont",
+        "zipcode": "93260-130"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Soledade",
+        "zipcode": "93260-150"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "93260-450"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Daltro Filho",
+        "zipcode": "93260-470"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua São Sebastião do Caí",
+        "zipcode": "93260-040"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Francisco Alves",
+        "zipcode": "93260-570"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93280-282"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Jocelino Alencar de Oliveira",
+        "zipcode": "93295-105"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Dona Morena",
+        "zipcode": "93295-302"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Elba Estella Moretti Nunes",
+        "zipcode": "93295-548"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Turmalina",
+        "zipcode": "93295-597"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Diego Geiger (Res Hípica)",
+        "zipcode": "93295-784"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Maricá",
+        "zipcode": "93265-680"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Jorge de Souza Moraes",
+        "zipcode": "93295-460"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93265-154"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93265-157"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93265-158"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93280-298"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Acesso B (R Bruno Sperb)",
+        "zipcode": "93295-583"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Acesso Particular",
+        "zipcode": "93295-770"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Acesso Sérgio Cardoso",
+        "zipcode": "93295-820"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93280-095"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93280-285"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93280-378"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua José Loureiro da Silva",
+        "zipcode": "93280-480"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Avenida Padre Antônio Vieira",
+        "zipcode": "93285-120"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Avenida Érico Veríssimo",
+        "zipcode": "93285-510"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93280-302"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93280-013"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-022"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93280-066"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-135"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-154"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93285-255"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Padre Reus",
+        "zipcode": "93280-160"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Pará",
+        "zipcode": "93280-310"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-475"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Travessa Guaiba",
+        "zipcode": "93265-120"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93285-323"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Osvaldo Juca Pimentel Loureiro",
+        "zipcode": "93295-304"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Osório Duque Estrada",
+        "zipcode": "93295-310"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Vilmo João Santiago",
+        "zipcode": "93295-544"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa Sessenta (Res Hípica)",
+        "zipcode": "93295-787"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa Jorge de Souza Moraes",
+        "zipcode": "93295-452"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa Cinquenta (Res Hípica)",
+        "zipcode": "93295-786"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa das Violetas",
+        "zipcode": "93295-830"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Travessa Ouro Verde",
+        "zipcode": "93295-750"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-082"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93280-412"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Professora Natália Gomes Lopes (Res Hípica)",
+        "zipcode": "93295-783"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-971"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General José Machado Lopes",
+        "zipcode": "93265-040"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93265-162"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93265-165"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93265-166"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93260-073"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93265-159"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Avenida Pery Fagundes",
+        "zipcode": "93270-070"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Avenida Luiz Pasteur",
+        "zipcode": "93270-120"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Germano Arduíno Toniolo (Lot Pq Seminário)",
+        "zipcode": "93280-116"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-014"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93280-063"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-086"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Vinte e Oito de Fevereiro",
+        "zipcode": "93280-120"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Padre Irineu Ferreira (Lot Pq Seminário)",
+        "zipcode": "93280-124"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Município Getúlio Vargas",
+        "zipcode": "93260-310"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa A (Vl Pedreira)",
+        "zipcode": "93260-704"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa J (Vl Pedreira)",
+        "zipcode": "93260-734"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Walter Perachi de Barcelos",
+        "zipcode": "93270-280"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Iolanda",
+        "zipcode": "93260-070"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa H (Vl Pedreira)",
+        "zipcode": "93260-738"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Travessa Viamão",
+        "zipcode": "93265-250"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Travessa Mem de Sá",
+        "zipcode": "93280-090"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "93270-350"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Beco Dois (Vl Pedreira)",
+        "zipcode": "93260-716"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Beco Oito (Vl Pedreira)",
+        "zipcode": "93260-744"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua John Kennedy",
+        "zipcode": "93265-060"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Portugal",
+        "zipcode": "93265-090"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa B (Vl Pedreira)",
+        "zipcode": "93260-706"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Rio Grande",
+        "zipcode": "93265-001"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Beco Um (da Pelotas)",
+        "zipcode": "93265-101"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua B (Vl Guterres)",
+        "zipcode": "93265-294"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Beira Rio (Vl Navegantes)",
+        "zipcode": "93265-298"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua D (Vl Navegantes)",
+        "zipcode": "93265-306"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Jacarandá",
+        "zipcode": "93265-440"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Beco E (Vl Esperança)",
+        "zipcode": "93265-520"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Cristi",
+        "street": "Rua Rio Grande",
+        "zipcode": "93265-900"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Travessa Professora Neusa Borges Nunes",
+        "zipcode": "93270-082"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Beco Nove (Vl Pedreira)",
+        "zipcode": "93260-722"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Projetada (Lot Bom Jesus)",
+        "zipcode": "93265-690"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-075"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "93260-140"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Dom Feliciano",
+        "zipcode": "93260-180"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Lageado",
+        "zipcode": "93260-190"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Frederico Ozanan",
+        "zipcode": "93260-320"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Júlio de Castilhos",
+        "zipcode": "93260-330"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Armando Riella",
+        "zipcode": "93260-350"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Avenida Luiz Pasteur",
+        "zipcode": "93260-360"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Melvin Jones",
+        "zipcode": "93260-390"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Ararangua",
+        "zipcode": "93260-420"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua São Salvador",
+        "zipcode": "93260-430"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Ulisses Pimentel",
+        "zipcode": "93260-440"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Joana DArc",
+        "zipcode": "93260-610"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Vinte de Dezembro",
+        "zipcode": "93260-620"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua São Sebastião (Vl Pedreira)",
+        "zipcode": "93260-700"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-048"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Rio Pardo",
+        "zipcode": "93260-480"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Estância Velha",
+        "zipcode": "93280-500"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida Luiz Pasteur",
+        "zipcode": "93290-010"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Ana Terra",
+        "zipcode": "93280-150"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Luiz Gonzaga Mathias de Oliveira",
+        "zipcode": "93285-466"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Beco Padre Felipe",
+        "zipcode": "93285-640"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua José Antônio Soares",
+        "zipcode": "93285-710"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Hortêncio Guilhermino",
+        "zipcode": "93285-478"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Padre Roberval Morando Laperriérre (Lot Pq Seminário)",
+        "zipcode": "93280-122"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Roque Gonzales",
+        "zipcode": "93290-000"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua São Gabriel",
+        "zipcode": "93260-260"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Avenida Castro Alves",
+        "zipcode": "93260-460"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93260-078"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93265-032"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93265-036"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93265-043"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93265-047"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Acesso Elvis Presley",
+        "zipcode": "93295-730"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Avenida Lindolfo Collor",
+        "zipcode": "93295-740"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Avenida Alberto Pasqualini",
+        "zipcode": "93280-180"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Caxias",
+        "zipcode": "93260-050"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua São Domingos",
+        "zipcode": "93260-530"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Beco Sete (Vl Pedreira)",
+        "zipcode": "93260-728"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua São Jerônimo",
+        "zipcode": "93265-180"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Beco Quatro",
+        "zipcode": "93285-750"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Monsenhor Geraldo Penteado Queiroz",
+        "zipcode": "93295-202"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua da Divisa",
+        "zipcode": "93295-781"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Ário José Soares",
+        "zipcode": "93295-206"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Quatro (Lot Z Industrial Nezi)",
+        "zipcode": "93270-285"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua Francisco Ricardo Motta",
+        "zipcode": "93295-462"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua das Orquídeas",
+        "zipcode": "93265-728"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Taquara",
+        "zipcode": "93285-084"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Farroupilha",
+        "zipcode": "93260-280"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Cláudio Coutinho",
+        "zipcode": "93295-540"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93260-076"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Paul Harris",
+        "zipcode": "93295-040"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Padre Sebastião Pacheco",
+        "zipcode": "93295-280"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Travessa Sete Campos",
+        "zipcode": "93295-192"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Irmão Alexandre Dominguez Leal Caballero (Lot Pq Seminário)",
+        "zipcode": "93280-127"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua Maurício Cardoso",
+        "zipcode": "93260-020"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-064"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Santo Amaro",
+        "zipcode": "93260-080"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "93260-250"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Sao Sebastiao",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-000"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-001"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-004"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-006"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Praça Coracao De Maria",
+        "zipcode": "93280-030"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Claret",
+        "zipcode": "93280-970"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-084"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Brasil",
+        "zipcode": "93260-220"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Tamandaré",
+        "street": "Rua Vera Cruz",
+        "zipcode": "93260-630"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Beco do Passeio (Vl Pedreira)",
+        "zipcode": "93260-702"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Fernando Ferrari",
+        "zipcode": "93260-970"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua José Bonifácio",
+        "zipcode": "93265-280"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Rua das Hortências",
+        "zipcode": "93265-730"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Portos",
+        "street": "Rua Otelo Rosa",
+        "zipcode": "93270-150"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Rosemari Colombo",
+        "zipcode": "93270-250"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93280-075"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Engenheiro Hener de Souza Nunes",
+        "zipcode": "93260-120"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Rua A (Primavera)",
+        "zipcode": "93295-580"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Vila Esperanca",
+        "street": "Beco B",
+        "zipcode": "93265-490"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Vila Esperanca",
+        "street": "Rua Florialdo Marcos",
+        "zipcode": "93285-540"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Praça A Biblia",
+        "zipcode": "93265-130"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "93270-020"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Três Marias",
+        "street": "Rua Daniel C. J. Peçanha",
+        "zipcode": "93295-620"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Avenida João Frainer",
+        "zipcode": "93290-080"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Avenida Luiz Pasteur",
+        "zipcode": "93295-010"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Irmã Gema Brum",
+        "zipcode": "93280-467"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Olímpica",
+        "street": "Rua Lufredina Araújo Gaya",
+        "zipcode": "93285-150"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Avenida Padre Claret",
+        "zipcode": "93280-203"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Milton Wilson Lain",
+        "zipcode": "93285-464"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Vicente Celestino",
+        "zipcode": "93295-060"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Agostinho Camilo de Borba",
+        "zipcode": "93270-650"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Planalto",
+        "street": "Rua Cláudio Manoel da Costa",
+        "zipcode": "93295-250"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Santo Inácio",
+        "street": "Rua Cláudio Mascarelo",
+        "zipcode": "93290-310"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Beco Quatro (Vl Pedreira)",
+        "zipcode": "93260-742"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "São Sebastião",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93265-316"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-002"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93260-005"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Amador",
+        "street": "Rua Padre Claret",
+        "zipcode": "93280-261"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93265-010"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Liberdade",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-001"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Rua Mauricio Sirotski Sobrinho",
+        "zipcode": "93270-300"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Vila Olimpica",
+        "street": "Rua A",
+        "zipcode": "93285-080"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Parque Primavera",
+        "street": "Acesso Sao Jorge",
+        "zipcode": "93295-790"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Praça Irmao Egydio Justo",
+        "zipcode": "93260-090"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Vila Olimpica",
+        "street": "Travessa B (Vl Olimpica)",
+        "zipcode": "93285-570"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Jardim Das Figueiras",
+        "street": "Rua B (Jd Das Figueiras)",
+        "zipcode": "93295-570"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Vila Sao Jose",
+        "street": "Rua Tri",
+        "zipcode": "93285-590"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Vila Olimpica",
+        "street": "Rua C",
+        "zipcode": "93285-082"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Travessa Anchieta",
+        "zipcode": "93270-025"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Praça Da Conceicao",
+        "zipcode": "93270-680"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Novo Esteio",
+        "street": "Praça Santa Luzia",
+        "zipcode": "93270-640"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Vila Olimpica",
+        "street": "Travessa Mauricio Rosemblat",
+        "zipcode": "93285-240"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Claret",
+        "zipcode": "93280-260"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Padre Felipe",
+        "zipcode": "93265-011"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "93280-000"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Gilberto Christ",
+        "zipcode": "93265-400"
+    },
+    {
+        "city": "Esteio",
+        "state": "RS",
+        "district": "Vila Olimpica",
+        "street": "Rua F (Vl Olimpica)",
+        "zipcode": "93285-580"
+    }
+]

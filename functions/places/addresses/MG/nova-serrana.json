@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Nova Serrana",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Antônio Martins 140",
+        "zipcode": "35519-970"
+    },
+    {
+        "city": "Nova Serrana",
+        "state": "MG",
+        "district": "Park Dona Gumercinda",
+        "street": "Rua Benjamin Martins do Espírito Santo 1811",
+        "zipcode": "35519-977"
+    },
+    {
+        "city": "Nova Serrana",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35519-000"
+    },
+    {
+        "city": "Nova Serrana",
+        "state": "MG",
+        "district": "Park Dona Gumercinda",
+        "street": "Rua Benjamin Martins do Espírito Santo",
+        "zipcode": "35519-971"
+    },
+    {
+        "city": "Nova Serrana",
+        "state": "MG",
+        "district": "Ripas",
+        "street": "Rua Principal s/n",
+        "zipcode": "35519-974"
+    }
+]

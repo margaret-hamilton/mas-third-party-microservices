@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ouro Preto do Oeste",
+        "state": "RO",
+        "district": "Centro",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "76920-970"
+    },
+    {
+        "city": "Ouro Preto do Oeste",
+        "state": "RO",
+        "district": null,
+        "street": "Prefeitura do Distrito de Rondominas",
+        "zipcode": "76920-990"
+    },
+    {
+        "city": "Ouro Preto do Oeste",
+        "state": "RO",
+        "district": "",
+        "street": "",
+        "zipcode": "76920-000"
+    }
+]

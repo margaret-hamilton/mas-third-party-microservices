@@ -1,0 +1,23 @@
+[
+    {
+        "city": "São Francisco Xavier (São José dos Campos)",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Cônego Manzi",
+        "zipcode": "12249-970"
+    },
+    {
+        "city": "São Francisco Xavier (São José dos Campos)",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "12249-000"
+    },
+    {
+        "city": "São Francisco Xavier (São José dos Campos)",
+        "state": "SP",
+        "district": null,
+        "street": "Praça Cônego Manzi",
+        "zipcode": "12249-990"
+    }
+]

@@ -1,0 +1,4118 @@
+[
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Praça Manoel Antonio de Souza",
+        "zipcode": "56903-425"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Santa Clara",
+        "zipcode": "56909-164"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Willani Kehrie",
+        "zipcode": "56912-585"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Francina Ferraz de Souza",
+        "zipcode": "56909-266"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Luiz Gomes de Sá",
+        "zipcode": "56912-215"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Fortunato Leão Neto",
+        "zipcode": "56903-236"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Pedro Ferraz",
+        "zipcode": "56906-305"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua João Luiz de Souza",
+        "zipcode": "56906-265"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Santa Catarina de Sena",
+        "zipcode": "56909-188"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Hermenegildo Antonio dos Santos",
+        "zipcode": "56906-538"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Praça Adriana Carla de Souza (Várzea)",
+        "zipcode": "56912-555"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Praça Sebastião Ignácio de Oliveira Neto",
+        "zipcode": "56903-232"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Sebastião Ferreira da Silva (Ipsep)",
+        "zipcode": "56903-467"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Vereador José Carlos Pereira de Souza",
+        "zipcode": "56903-238"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua José Clarival de Souza",
+        "zipcode": "56909-128"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Vigia Belarmino Luiz da Silva",
+        "zipcode": "56906-512"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Maestro Edesio Alves de Oliveira",
+        "zipcode": "56912-223"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua José Antônio do Nascimento (José Panta)",
+        "zipcode": "56912-167"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Lindaura Gomes Gregório",
+        "zipcode": "56915-035"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Antônio Pereira Mourato",
+        "zipcode": "56912-158"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Antônio Cordeiro de Siqueira",
+        "zipcode": "56903-318"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Canto do Poeta José Marcelino Alves",
+        "zipcode": "56903-345"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Rua Manoel Roberto dos Santos",
+        "zipcode": "56906-036"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Mariana Freire de Menezes",
+        "zipcode": "56915-045"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Alto Tensão",
+        "zipcode": "56906-325"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua João Alves Ferreira",
+        "zipcode": "56915-015"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Odilon Bernardino de Souza",
+        "zipcode": "56903-266"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Seis",
+        "zipcode": "56909-310"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Baixa Renda",
+        "zipcode": "56906-155"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Avenida João Inácio de Medeiros",
+        "zipcode": "56912-558"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Luís Cosmo de Magalhães",
+        "zipcode": "56909-430"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Cinco",
+        "zipcode": "56906-250"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Professora Maria José Pereira",
+        "zipcode": "56912-142"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Maria José Pereira Kerle",
+        "zipcode": "56912-285"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Avenida Beira Rio",
+        "zipcode": "56906-390"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Travessa Ceará",
+        "zipcode": "56912-545"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Antônio Gomes da Silva",
+        "zipcode": "56909-180"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Dezesseis",
+        "zipcode": "56909-210"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Aristides José de Melo",
+        "zipcode": "56909-200"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Dezoito",
+        "zipcode": "56909-190"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Major Adolfo Côrte",
+        "zipcode": "56909-440"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Joaquim Silveira de Lima",
+        "zipcode": "56909-420"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua O",
+        "zipcode": "56909-600"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua José Vicente Dias",
+        "zipcode": "56909-230"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Maria Domingos de Jesus",
+        "zipcode": "56909-220"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Salvador",
+        "zipcode": "56912-180"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Três",
+        "zipcode": "56906-322"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Onofre Magalhães",
+        "zipcode": "56909-050"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Collier",
+        "zipcode": "56906-380"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "1ª Travessa do Sol",
+        "zipcode": "56906-071"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Maria das Dores Pereira Gama",
+        "zipcode": "56912-264"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Agostinho Nunes de Magalhães",
+        "zipcode": "56903-510"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Ana Nunes de Souza",
+        "zipcode": "56903-595"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Travessa Ana Nunes de Souza",
+        "zipcode": "56903-596"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Antônio Alves da Silveira",
+        "zipcode": "56903-240"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Antônio Tomé de Souza",
+        "zipcode": "56903-220"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Castro Alves",
+        "zipcode": "56903-140"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Travessa Castro Alves",
+        "zipcode": "56903-141"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Coronel Cornélio Soares",
+        "zipcode": "56903-440"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Vila Ferroviária",
+        "zipcode": "56903-170"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Francisco Gomes",
+        "zipcode": "56903-560"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua João Florentino do Nascimento",
+        "zipcode": "56903-230"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Henrique de Melo",
+        "zipcode": "56903-520"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Irineu Alves Magalhães",
+        "zipcode": "56912-140"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Avenida Isidoro Conrado",
+        "zipcode": "56903-090"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Irnério Inácio de Oliveira",
+        "zipcode": "56903-450"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Travessa Joaquim Alves de Magalhães",
+        "zipcode": "56912-151"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua José Inácio de Souza",
+        "zipcode": "56903-030"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua L",
+        "zipcode": "56909-570"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Lindinalva Nunes de Souza",
+        "zipcode": "56903-100"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Luiz Alves de Melo Lima",
+        "zipcode": "56912-120"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Manoel Andrelino Nogueira",
+        "zipcode": "56903-210"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Santa Elena",
+        "zipcode": "56909-186"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Isidoro Alves Pereira Lins",
+        "zipcode": "56907-150"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Rosa Maria dos Nascimento",
+        "zipcode": "56907-210"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Avenida Miguel Nunes de Souza",
+        "zipcode": "56903-120"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Neco Maranhão",
+        "zipcode": "56903-050"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Santos Dumont (Ipsep)",
+        "zipcode": "56903-475"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Noel Manoel Vicente",
+        "zipcode": "56903-248"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Monsenhor Afonso Pequeno",
+        "zipcode": "56903-505"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Nossa Senhora da Penha",
+        "zipcode": "56906-295"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Santa Luzia",
+        "zipcode": "56909-152"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Joana Nunes de Souza",
+        "zipcode": "56912-182"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Nova Bomba",
+        "zipcode": "56903-080"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Oscar Nogueira",
+        "zipcode": "56903-460"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Quatro",
+        "zipcode": "56906-280"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua São Braz",
+        "zipcode": "56903-020"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Tabelião Antônio Alves de Souza",
+        "zipcode": "56906-310"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Vereador Silvino Cordeiro de Siqueira",
+        "zipcode": "56912-110"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Vila Nova",
+        "zipcode": "56906-290"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Joaquim Cardoso Lorena",
+        "zipcode": "56903-540"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Benício de Souza Ramos",
+        "zipcode": "56903-250"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Tabelião Bernardino Carvalho de Magalhães",
+        "zipcode": "56903-570"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua A",
+        "zipcode": "56909-716"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Avenida Antônio Timóteo de Lima",
+        "zipcode": "56906-210"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Apolinário de Souza Moreno",
+        "zipcode": "56909-690"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Boa Vista",
+        "zipcode": "56912-090"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Capitão Arlindo Rocha",
+        "zipcode": "56906-263"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Cirilo Xavier",
+        "zipcode": "56903-370"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Manoel Pereira da Silva",
+        "zipcode": "56903-490"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Deósio Pereira Lins",
+        "zipcode": "56903-280"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Deputado Afrânio Ribeiro de Godoy",
+        "zipcode": "56903-390"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua João Batista do Nascimento",
+        "zipcode": "56909-070"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Inocêncio Gomes de Andrade",
+        "zipcode": "56912-440"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Jacinto Alves de Carvalho",
+        "zipcode": "56903-360"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Fiscal Leopoldo",
+        "zipcode": "56903-290"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Joaquim Alves da Silveira",
+        "zipcode": "56909-720"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Joaquim Godoy",
+        "zipcode": "56912-450"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua José Alves da Silveira Lima",
+        "zipcode": "56903-300"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua José Carlos de Oliveira",
+        "zipcode": "56906-160"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua José Nogueira dos Santos",
+        "zipcode": "56912-590"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Major João Rufino Alves",
+        "zipcode": "56915-010"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Manoel Pereira Lins",
+        "zipcode": "56903-340"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Maria Alves de Souza Licor",
+        "zipcode": "56906-180"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Mário Lira",
+        "zipcode": "56903-310"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Monsenhor João Kerhle",
+        "zipcode": "56912-070"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Monsenhor Pinto de Campos",
+        "zipcode": "56903-350"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Oito",
+        "zipcode": "56906-220"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Piranhas",
+        "zipcode": "56906-200"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Santa Bárbara",
+        "zipcode": "56912-080"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Travessa Sete",
+        "zipcode": "56906-261"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Travessa Juazeiro",
+        "zipcode": "56906-031"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Antônio da Cruz Sampaio",
+        "zipcode": "56903-262"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Sete",
+        "zipcode": "56906-230"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Severino Pereira Lins",
+        "zipcode": "56903-270"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Tabelião Tiburtino Nogueira",
+        "zipcode": "56903-380"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Treze de Maio",
+        "zipcode": "56903-430"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Andrelino Serafim de Lima",
+        "zipcode": "56909-105"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Enock de Souza Melo",
+        "zipcode": "56903-274"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Vinte e Cinco",
+        "zipcode": "56909-130"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Virgolino Ferreira da Silva",
+        "zipcode": "56909-110"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Vinte e Seis",
+        "zipcode": "56909-090"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Vinte e Um",
+        "zipcode": "56909-100"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua B",
+        "zipcode": "56909-715"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Vinte e Dois",
+        "zipcode": "56909-140"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Avenida Afonso Magalhães",
+        "zipcode": "56912-380"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Antônio Terto",
+        "zipcode": "56912-390"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua da Aurora",
+        "zipcode": "56906-120"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Praça Barão do Pajeú",
+        "zipcode": "56903-420"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Bela Vista",
+        "zipcode": "56906-100"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Boa Vista",
+        "zipcode": "56906-130"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Avenida Vicente Inácio de Oliveira",
+        "zipcode": "56906-000"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "2ª Travessa do Cruzeiro",
+        "zipcode": "56906-022"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "1ª Travessa do Cruzeiro",
+        "zipcode": "56906-021"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Dez",
+        "zipcode": "56906-150"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Doutor Sérgio Magalhães",
+        "zipcode": "56903-410"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua da Glória",
+        "zipcode": "56906-080"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua João Alves de Magalhães",
+        "zipcode": "56912-320"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua João B. de Melo",
+        "zipcode": "56912-240"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Tabelião João de Souza Melo",
+        "zipcode": "56912-540"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua João Kehrle",
+        "zipcode": "56912-060"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Joaquim Conrado de Lorena e Sá",
+        "zipcode": "56903-655"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua José Joaquim de Lima (Deca Melo)",
+        "zipcode": "56912-290"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Avenida José Pedro Jurubeba",
+        "zipcode": "56912-280"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Livino Gomes",
+        "zipcode": "56906-141"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Avenida Manoel Macário",
+        "zipcode": "56912-360"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Manoel Pereira Lins",
+        "zipcode": "56912-370"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Manoel Rodrigues de Carvalho",
+        "zipcode": "56912-300"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Maria Francisca da Silva",
+        "zipcode": "56912-570"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Avenida Osvaldo de Godoy Lima",
+        "zipcode": "56912-260"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Rufino Nicolau",
+        "zipcode": "56912-350"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Benjamim de Melo Lima (Ouro Melo)",
+        "zipcode": "56903-010"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa do Sol",
+        "zipcode": "56906-103"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Vânia Maria F. Silva",
+        "zipcode": "56912-330"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Travessa da Central",
+        "zipcode": "56906-073"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Francisca Romão de Farias",
+        "zipcode": "56903-180"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Rua José Pereira de Souza",
+        "zipcode": "56906-060"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Maria do Carmo Pereira de Souza",
+        "zipcode": "56903-047"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Praça Dogival Pereira da Silva",
+        "zipcode": "56909-165"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Projetada Enock de Souza Melo",
+        "zipcode": "56903-277"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua José Paulo Terto",
+        "zipcode": "56903-242"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Augusto José Duarte",
+        "zipcode": "56903-234"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Luiz de Souza Melo",
+        "zipcode": "56909-148"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Eliseu Nunes da Silva",
+        "zipcode": "56903-055"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua João Alves de Barros",
+        "zipcode": "56912-227"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Vila Bela",
+        "zipcode": "56912-233"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua José Olindo dos Santos",
+        "zipcode": "56903-165"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Santa Inês (Ipsep)",
+        "zipcode": "56903-473"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua José Conserva",
+        "zipcode": "56912-565"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua João Rodrigues de Lima",
+        "zipcode": "56903-272"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Joaquim Timoteo de Lima",
+        "zipcode": "56906-185"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Rua Quatorze de Julho",
+        "zipcode": "56909-680"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua João David",
+        "zipcode": "56906-110"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Afonso Gomes Novaes",
+        "zipcode": "56915-060"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Antônio de Souza Melo",
+        "zipcode": "56912-310"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Aurora Nogueira Burgo",
+        "zipcode": "56915-080"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Bernardino Coelho Magalhães",
+        "zipcode": "56903-660"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua do Campo",
+        "zipcode": "56915-110"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Rua Conselheiro Oliveira Neto",
+        "zipcode": "56906-500"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Deputado Afrânio Ribeiro de Godoy",
+        "zipcode": "56912-430"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Luis Cordeiro de Siqueira",
+        "zipcode": "56909-320"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Emídio Nunes da Silva",
+        "zipcode": "56906-515"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua das Flores",
+        "zipcode": "56909-620"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Francisco Godoy",
+        "zipcode": "56903-650"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Francisco Porfiro",
+        "zipcode": "56915-050"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Gilberto de Carvalho Godoy",
+        "zipcode": "56912-530"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Doutor Ivan Souto de Oliveira",
+        "zipcode": "56906-525"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Joaquim Nabuco",
+        "zipcode": "56909-010"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua José Pereira de Souza",
+        "zipcode": "56912-220"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Luiz Bezerra Leite",
+        "zipcode": "56909-350"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua das Maravilhas",
+        "zipcode": "56909-040"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Avenida Padre Cícero",
+        "zipcode": "56909-460"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua das Perolas",
+        "zipcode": "56915-100"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Rua Professor Josué de Castro",
+        "zipcode": "56909-650"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Quirino Cordeiro Magalhães",
+        "zipcode": "56912-190"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Raimundo Epaminondas Torres",
+        "zipcode": "56915-090"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Avenida Padre Cícero .",
+        "zipcode": "56906-440"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua São Francisco",
+        "zipcode": "56906-465"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua João Romão de Oliveira",
+        "zipcode": "56909-380"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua São Tomé",
+        "zipcode": "56909-370"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Severino Gomes de Lima",
+        "zipcode": "56912-340"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Travessa Tomé de Souza Ramos",
+        "zipcode": "56912-251"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Vila do Ipsep",
+        "zipcode": "56912-480"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Vinte e Um de Abril",
+        "zipcode": "56906-450"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Dez",
+        "zipcode": "56909-300"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Adelina Gomes Ferraz",
+        "zipcode": "56915-070"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Antônio Alves de Souza",
+        "zipcode": "56906-470"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Tabelião Bernardino Carvalho de Magalhães",
+        "zipcode": "56912-400"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Manoel Antônio dos Santos",
+        "zipcode": "56912-225"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Antônio Luiz de Sá",
+        "zipcode": "56909-085"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Geraldo Severino de Andrada",
+        "zipcode": "56909-093"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Cosme José da Mata",
+        "zipcode": "56909-125"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Francisca Gomes de Souza",
+        "zipcode": "56909-118"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Manoel Batista Gaia",
+        "zipcode": "56906-205"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Rita Eliodoro de Melo",
+        "zipcode": "56909-103"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Enock de Souza Melo",
+        "zipcode": "56912-188"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Padre Luiz Kehrle",
+        "zipcode": "56912-184"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Avenida Afonso Magalhães",
+        "zipcode": "56912-903"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Avenida Afonso Magalhães",
+        "zipcode": "56912-901"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua José Rodrigues de Barros",
+        "zipcode": "56903-312"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Avenida Afonso Magalhães",
+        "zipcode": "56912-902"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua C",
+        "zipcode": "56912-040"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Erenita Júlia Magalhães",
+        "zipcode": "56909-500"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Inácio José Felipe",
+        "zipcode": "56909-520"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua H",
+        "zipcode": "56909-540"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Homem Bom de Souza Magalhães",
+        "zipcode": "56906-400"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua I",
+        "zipcode": "56909-550"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Lourival Alves de Melo Lima (Vavá Melo)",
+        "zipcode": "56909-450"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua M",
+        "zipcode": "56909-580"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Avenida Manoel Alves de Carvalho Barros",
+        "zipcode": "56912-100"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Manoel Inácio de Medeiros",
+        "zipcode": "56906-430"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Manoel Raimundo Romão de Farias",
+        "zipcode": "56903-150"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Maria da Glória Nogueira",
+        "zipcode": "56906-530"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Rua Vigia Belarmino Luiz da Silveira",
+        "zipcode": "56906-040"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua N",
+        "zipcode": "56909-590"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Onze",
+        "zipcode": "56909-290"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Travessa Professor Josué de Castro",
+        "zipcode": "56909-651"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Augusto Alipio de Sá",
+        "zipcode": "56906-536"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua São Paulo",
+        "zipcode": "56909-400"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua José Amancio de Magalhães",
+        "zipcode": "56909-610"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Sete",
+        "zipcode": "56909-280"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Travessa Treze de Maio",
+        "zipcode": "56909-671"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Um",
+        "zipcode": "56909-270"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Vereador Carlos Nogueira de Godoy",
+        "zipcode": "56909-030"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Luiz Olavo de Andrade",
+        "zipcode": "56912-170"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Adolfo Bezerra Sampaio",
+        "zipcode": "56903-640"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua José Joaquim dos Santos",
+        "zipcode": "56912-560"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Travessa Nova Cruzeiro",
+        "zipcode": "56906-495"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua do Matadouro",
+        "zipcode": "56906-460"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Geraldo Joaquim dos Santos",
+        "zipcode": "56912-235"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua José Alves Conserva",
+        "zipcode": "56912-156"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Manoel Romão de Farias",
+        "zipcode": "56909-372"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Francisco de Souza Melo",
+        "zipcode": "56912-172"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Noel Manoel Vicente",
+        "zipcode": "56912-174"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua João Rodrigues de Lima",
+        "zipcode": "56912-186"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Antônio da Cruz Sampaio",
+        "zipcode": "56912-178"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Pautilla Menezes Lins",
+        "zipcode": "56912-196"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Maria das Neves de Souza Nogueira",
+        "zipcode": "56912-192"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Travessa Luiz Brás da Silva",
+        "zipcode": "56906-034"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Manoel Cavalcante Nogueira",
+        "zipcode": "56909-515"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Projetada (Quadra",
+        "zipcode": "56909-525"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Maria Luiza Kenhle Mourato",
+        "zipcode": "56912-194"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Anorina Alves de Lima",
+        "zipcode": "56909-098"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Avenida Luiz Gonzaga Magalhães",
+        "zipcode": "56909-475"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Maria Lauri de Melo Souza",
+        "zipcode": "56912-575"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua João Pedro da Silva",
+        "zipcode": "56909-470"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Avenida Antônio Romão de Farias",
+        "zipcode": "56906-170"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Joaquim Mariano de Souza",
+        "zipcode": "56909-492"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Luiz Ildefonso de Souza",
+        "zipcode": "56909-495"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Antônio Pires de Menezes",
+        "zipcode": "56909-484"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Leonilda Barbosa",
+        "zipcode": "56909-496"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Maria Raimunda da Conceição",
+        "zipcode": "56909-486"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Maria Francisca de Medeiros",
+        "zipcode": "56909-480"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Manoel Tomé de Souza",
+        "zipcode": "56903-620"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Onze",
+        "zipcode": "56906-371"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Padre Cícero",
+        "zipcode": "56906-050"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa São Francisco",
+        "zipcode": "56906-480"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Seis",
+        "zipcode": "56906-321"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Seis",
+        "zipcode": "56906-240"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua do Sertão",
+        "zipcode": "56906-090"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Andrelino José de Lima (Cohab)",
+        "zipcode": "56909-145"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Honorina Alves de Lima",
+        "zipcode": "56909-175"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Antônio Medeiro",
+        "zipcode": "56906-195"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Beira Rio",
+        "zipcode": "56906-394"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua São Joaquim",
+        "zipcode": "56909-154"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Travessa João de Souza Santos",
+        "zipcode": "56909-225"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Manoel Pereira de Melo Primo",
+        "zipcode": "56909-172"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua S",
+        "zipcode": "56906-385"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Maria Vanete Almeida (COHAB)",
+        "zipcode": "56909-235"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Professor Jesus Leandro Rocha (Lot Poço da Cruz I)",
+        "zipcode": "56907-120"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Coronel Cornélio Soares",
+        "zipcode": "56903-970"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Enock Ignacio de Oliveira",
+        "zipcode": "56903-911"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Enock Ignacio de Oliveira",
+        "zipcode": "56903-912"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Agostinho Nunes de Magalhães",
+        "zipcode": "56903-901"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Joca Magalhães",
+        "zipcode": "56903-904"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Santa Mônica",
+        "zipcode": "56909-176"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Manoel de Melo Primo",
+        "zipcode": "56909-142"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Professora Maria Lucilia da Silva (Lot Poço da Cruz II)",
+        "zipcode": "56907-190"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Ulisses Conrado de Lorena e Sá",
+        "zipcode": "56909-236"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua José Pereira de França Sobrinho",
+        "zipcode": "56907-220"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Manoel Antônio de Souza",
+        "zipcode": "56909-901"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua São Domingos Sávio",
+        "zipcode": "56909-192"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "56909-178"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Luiz Arruda Florentino",
+        "zipcode": "56909-238"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua João Batista de Magalhães",
+        "zipcode": "56907-100"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Professor Ivo Policarpo Campos (Lot Poço da Cruz I)",
+        "zipcode": "56907-110"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua João Antunes Lima (Lot Poço da Cruz I)",
+        "zipcode": "56907-060"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua José Marcolino Alves",
+        "zipcode": "56909-112"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Irnério Inácio",
+        "zipcode": "56903-902"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Agostinho Nunes de Magalhães",
+        "zipcode": "56903-900"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Antônio Alves de Oliveira",
+        "zipcode": "56912-160"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Antônio Amâncio",
+        "zipcode": "56906-520"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Travessa Antônio Inácio de Medeiros",
+        "zipcode": "56912-321"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua B",
+        "zipcode": "56912-030"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Travessa Beco do Pomar",
+        "zipcode": "56906-455"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua José Vicente Ferreira",
+        "zipcode": "56909-245"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Domingos Sávio Nogueira dos Santos",
+        "zipcode": "56907-180"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua José Barbosa da Penha (Lot Poço da Cruz II)",
+        "zipcode": "56907-170"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua São Bartolomeu",
+        "zipcode": "56909-382"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Travessa João de Souza Santos",
+        "zipcode": "56909-087"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Napoleão Roberto Godoy Carvalho",
+        "zipcode": "56909-212"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Gilvan Severino dos Santos",
+        "zipcode": "56907-090"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Elizeu de Souza Guerra",
+        "zipcode": "56909-162"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Travessa Antônio Nogueira dos Santos",
+        "zipcode": "56907-200"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Avenida José Jaime de Oliveira",
+        "zipcode": "56907-160"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Travessa Casé Romão",
+        "zipcode": "56903-412"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Adalgisa Andreza da Silva",
+        "zipcode": "56909-260"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Enock de Carvalho",
+        "zipcode": "56912-250"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Enock Ignacio de Oliveira",
+        "zipcode": "56912-460"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "56912-470"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Francisco Olavo de Andrada",
+        "zipcode": "56912-130"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Horácio Gomes de Andrade",
+        "zipcode": "56903-330"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Inocêncio Gomes de Andrade",
+        "zipcode": "56903-580"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Irmã Superiora Maria Luiza Rocha",
+        "zipcode": "56903-470"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Joaquim de Souza Melo",
+        "zipcode": "56909-390"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Rua do Juazeiro",
+        "zipcode": "56906-030"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Manoel Burgo de Santana",
+        "zipcode": "56915-040"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Manoel Pereira Maranhão",
+        "zipcode": "56903-630"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Travessa Maria de Lourdes Rufino de Souza Moraes",
+        "zipcode": "56903-600"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Teodoro Maria Nogueira",
+        "zipcode": "56906-270"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Romildo Dantas Queiroz",
+        "zipcode": "56903-060"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Travessa Sebastião Inácio",
+        "zipcode": "56903-411"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Manoel de Lima Magalhães",
+        "zipcode": "56906-072"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Tabelião Tiburtino Nogueira",
+        "zipcode": "56912-420"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Três",
+        "zipcode": "56909-250"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Andrelino José de Lima",
+        "zipcode": "56906-410"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Rua Treze de Maio",
+        "zipcode": "56909-670"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Doutor Carlos Chagas",
+        "zipcode": "56909-630"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Alvaro Batista Gaia",
+        "zipcode": "56906-393"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua José Miguel de Souza",
+        "zipcode": "56912-200"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua João Luiz de Melo",
+        "zipcode": "56909-205"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua São Joaquim Neves",
+        "zipcode": "56909-168"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Padre Luiz Kenhrle",
+        "zipcode": "56903-279"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Manoel Martiniano dos Santos",
+        "zipcode": "56912-165"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua José Alves da Silveira (Lot Quitandinha)",
+        "zipcode": "56903-276"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Doutor Sérgio Magalhães",
+        "zipcode": "56903-914"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Projetada Francisco de Souza Melo",
+        "zipcode": "56912-395"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Doutor Sérgio Magalhães",
+        "zipcode": "56903-913"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Professora Maria Luisa Duarte de Sá (Lot Poço da Cruz II)",
+        "zipcode": "56907-050"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Antônio Leobino Souza",
+        "zipcode": "56909-512"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua João Arlindo Filho",
+        "zipcode": "56907-280"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Cícero Salvador de Melo",
+        "zipcode": "56907-270"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Luiz Gonzaga da Silva",
+        "zipcode": "56907-260"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Álvaro Xavier Sampaio",
+        "zipcode": "56907-250"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "2ª Travessa Bela Vista",
+        "zipcode": "56906-102"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Boa Vista",
+        "zipcode": "56906-131"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Capitão Arlindo Rocha",
+        "zipcode": "56906-260"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua do Cruzeiro",
+        "zipcode": "56906-020"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Manoel Nunes Nogueira",
+        "zipcode": "56915-025"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Doutor Sérgio Magalhães",
+        "zipcode": "56903-910"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Professora Virginia Sabino de Oliveira Lima",
+        "zipcode": "56909-138"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Jose Alves de Barros",
+        "zipcode": "56907-020"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Elizabete Ferraz Maranhão",
+        "zipcode": "56909-234"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua João Campos de Souza",
+        "zipcode": "56907-010"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Isivaldo Conrado de Lorena e Sá",
+        "zipcode": "56907-040"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Dionízio Ferreira Magalhães",
+        "zipcode": "56903-320"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa da Granja",
+        "zipcode": "56906-420"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua João Batista do Nascimento .",
+        "zipcode": "56906-330"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Avenida João Gomes de Lucena",
+        "zipcode": "56912-000"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Avenida José Olavo de Andrada",
+        "zipcode": "56903-511"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Livino Gomes",
+        "zipcode": "56906-140"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Praça Manoel Pereira Lins",
+        "zipcode": "56903-590"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Miguel Mariano",
+        "zipcode": "56906-392"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Onze",
+        "zipcode": "56906-370"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Augustinho Pereira de Lima",
+        "zipcode": "56909-700"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Quatro",
+        "zipcode": "56906-391"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua do Retiro",
+        "zipcode": "56906-300"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Rio Branco",
+        "zipcode": "56906-350"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Vinte e Nove",
+        "zipcode": "56909-120"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Vinte e Sete",
+        "zipcode": "56909-080"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua do Sol",
+        "zipcode": "56906-070"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Maria do Carmo Pereira de Souza",
+        "zipcode": "56903-375"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua José Antunes Nogueira",
+        "zipcode": "56906-190"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Nove",
+        "zipcode": "56906-225"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Travessa José Olavo de Andrade",
+        "zipcode": "56903-512"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Travessa José Alves da Silveira Lima",
+        "zipcode": "56903-291"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Deputado Afrânio Ribeiro de Godoy",
+        "zipcode": "56903-903"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Inácio José de Medeiros",
+        "zipcode": "56912-265"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua A",
+        "zipcode": "56912-020"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Afonso Kerhle",
+        "zipcode": "56912-580"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Benedito Alves Terto",
+        "zipcode": "56903-316"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Avenida José de Melo Lima",
+        "zipcode": "56903-315"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Antônio Mariano",
+        "zipcode": "56906-285"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Projetada Ana Nunes de Souza",
+        "zipcode": "56903-273"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Vereador Paulino José do Nascimento",
+        "zipcode": "56909-485"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Lucila Cavalcante de Lima (Lot Poço da Cruz I)",
+        "zipcode": "56907-140"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Avenida Maria Elizabeth Arruda de Medeiro",
+        "zipcode": "56903-267"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Elpídio Romão",
+        "zipcode": "56906-115"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Mário Alves de Melo Lima",
+        "zipcode": "56909-215"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua João Romão Filho",
+        "zipcode": "56906-345"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Antônio Inácio de Medeiros",
+        "zipcode": "56903-070"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Arcelina Pereira de Souza",
+        "zipcode": "56912-490"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Capitão Antônio Inácio de Medeiros",
+        "zipcode": "56906-340"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Avenida Custódio Conrrado de Lorena e Sá",
+        "zipcode": "56912-550"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua D",
+        "zipcode": "56912-050"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Enock Ignacio de Oliveira",
+        "zipcode": "56903-400"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Ex",
+        "zipcode": "56906-320"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Joaquim Alves de Magalhães",
+        "zipcode": "56912-150"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Joca Magalhães",
+        "zipcode": "56903-480"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua José Dantas do Nascimento",
+        "zipcode": "56912-230"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Antônio Candido da Silva",
+        "zipcode": "56903-278"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Pedro Alves de Oliveira",
+        "zipcode": "56903-311"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Travessa Mario Alves de Melo Lima",
+        "zipcode": "56909-216"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Praça Manoel Pereira Lins",
+        "zipcode": "56903-917"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Projetada Antonio da Cruz Sampaio",
+        "zipcode": "56903-268"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Vereador Expedito Eliodorio da Silva",
+        "zipcode": "56912-275"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua José Pereira de Carvalho",
+        "zipcode": "56903-110"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Josefa Firmino dos Santos",
+        "zipcode": "56903-200"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Praça Luíz de Godoy Lima",
+        "zipcode": "56912-520"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Maria Gomes de Souza",
+        "zipcode": "56915-020"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Manoel Joaquim Policarpo",
+        "zipcode": "56903-441"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Treze",
+        "zipcode": "56909-240"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Waldemar Inácio de Oliveira",
+        "zipcode": "56906-011"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Vinte",
+        "zipcode": "56909-160"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Vinte e Três",
+        "zipcode": "56909-150"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua da Vitória",
+        "zipcode": "56903-130"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Travessa Treze de Maio",
+        "zipcode": "56903-431"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Rua Antônio Nunes de Souza",
+        "zipcode": "56909-640"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Praça Miguel Olindo dos Santos",
+        "zipcode": "56903-160"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Doutor Ivan Souto de Oliveira",
+        "zipcode": "56912-163"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Antônio Alves de Souza",
+        "zipcode": "56906-471"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Benedito Duarte (Lot Poço da Cruz I)",
+        "zipcode": "56907-080"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Newton Carlos Ferraz",
+        "zipcode": "56907-030"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Dez de Novembro",
+        "zipcode": "56922-990"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Isabel Alves de Oliveira (Vl Habitacional João Santos Filho)",
+        "zipcode": "56909-490"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Luiz Gonzaga do Nascimento",
+        "zipcode": "56903-550"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Caxixola",
+        "zipcode": "56915-120"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": null,
+        "street": "Rua do Comércio",
+        "zipcode": "56922-991"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Praça Professora Antonia Brandão de Siqueira (Lot Várzea)",
+        "zipcode": "56912-155"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Maria Santina do Nascimento",
+        "zipcode": "56909-505"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Ulisses conrado de Lorena e Sá",
+        "zipcode": "56903-314"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Major Antônio Rufino",
+        "zipcode": "56915-140"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Avenida Deputado Argemiro Pereira de Menezes (Lot Poço da Cruz I)",
+        "zipcode": "56907-070"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Luiz Ferreira de Magalhães",
+        "zipcode": "56909-478"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Dom Helder Camara",
+        "zipcode": "56903-237"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Travessa Major João Rufino Alves",
+        "zipcode": "56915-011"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Licácia Simonia de Souza",
+        "zipcode": "56912-500"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Joana Nunes de Souza",
+        "zipcode": "56903-264"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": null,
+        "street": "Praça João Regalo",
+        "zipcode": "56916-990"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua Francisco Rufino Alves",
+        "zipcode": "56915-030"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua G",
+        "zipcode": "56909-530"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua J",
+        "zipcode": "56909-560"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Avenida João Gomes de Lucena",
+        "zipcode": "56903-000"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Rua do Mar",
+        "zipcode": "56915-130"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Avenida Olimpio de Menezes Leal",
+        "zipcode": "56915-000"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Amália Menezes do Nascimento",
+        "zipcode": "56906-535"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Praça Doutor Sérgio Magalhães",
+        "zipcode": "56903-415"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Maria de Lourdes Rufiino de Souza Moraes",
+        "zipcode": "56903-031"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Maria Aliete de Melo Lima e Sá",
+        "zipcode": "56909-132"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Padre Tiago",
+        "zipcode": "56903-261"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua da Praia",
+        "zipcode": "56906-215"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua da Esperança",
+        "zipcode": "56906-275"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Padre Jesus Garcia",
+        "zipcode": "56903-245"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Santa Izabel",
+        "zipcode": "56909-182"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Tenente David Jurubeba (Conj Hab Um e dois PM)",
+        "zipcode": "56909-232"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Abel Gomes Brandão",
+        "zipcode": "56925-990"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Miguel Gomes da Silva",
+        "zipcode": "56903-244"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Santa Ana",
+        "zipcode": "56909-184"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Professora Maria José Pereira",
+        "zipcode": "56903-269"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua Padre Luiz Kerle",
+        "zipcode": "56912-324"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Luiz Aureliano de Carvalho (Lot Poço da Cruz I)",
+        "zipcode": "56907-130"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Travessa José Claúdio Mourato",
+        "zipcode": "56912-152"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Avenida Antônio Inácio de Medeiros (Ipsep)",
+        "zipcode": "56903-235"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Avenida Sargento João Eliodoro da Silva",
+        "zipcode": "56909-340"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Sargento Joaquim Severino de Lima",
+        "zipcode": "56909-135"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Sargento João Eliodório da Silva",
+        "zipcode": "56909-155"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Sargento João Eliodorio da Silva",
+        "zipcode": "56909-360"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua José Marculino Alves (Poeta Zé Marcolino)",
+        "zipcode": "56909-095"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Antônio Conrado Filho",
+        "zipcode": "56907-240"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Antônia Pereira da Silva",
+        "zipcode": "56912-286"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Avenida Gregório Ferraz Nogueira",
+        "zipcode": "56909-535"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Hélio Antônio Andrada Oliveira",
+        "zipcode": "56907-290"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua José Pereira de Albuquerque",
+        "zipcode": "56903-243"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Maria Emilia de Carvalho",
+        "zipcode": "56903-241"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Doutor Ademar Xavier",
+        "zipcode": "56912-510"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Travessa Professor Aderbal Mendonça",
+        "zipcode": "56903-653"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Avenida Afonso Magalhães",
+        "zipcode": "56903-040"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Praça Agamenon Magalhães",
+        "zipcode": "56903-530"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa da Aurora",
+        "zipcode": "56906-121"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Bela Vista",
+        "zipcode": "56906-101"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Carlos Godoy",
+        "zipcode": "56906-510"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Alexandre Barbosa Nogueira",
+        "zipcode": "56903-492"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Oscar Barbosa Nogueira",
+        "zipcode": "56903-491"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Sebastião Benedito de Lima",
+        "zipcode": "56909-170"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Luiz de Barros",
+        "zipcode": "56903-442"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Avenida Doutor Ademar Xavier",
+        "zipcode": "56912-010"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bomba",
+        "street": "Rua Eduardo Nunes",
+        "zipcode": "56909-410"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Avenida João Gomes de Lucena",
+        "zipcode": "56909-000"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Conselheiro João Nunes de Souza",
+        "zipcode": "56912-410"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Praça Enock Principe de Lima",
+        "zipcode": "56912-185"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Manoel Barbosa de Oliveira (VI Hab João Santos Filho)",
+        "zipcode": "56909-502"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Manoel Pereira de Aguiar (Lot João Kehrle Etapa ll)",
+        "zipcode": "56912-198"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua José Damião de Carvalho",
+        "zipcode": "56903-610"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua José Jared de Carvalho (Jarinho)",
+        "zipcode": "56912-210"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Pautilha Pereira de Menezes Lins",
+        "zipcode": "56912-270"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Manoel Antônio de Souza",
+        "zipcode": "56909-020"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Saul Jurubeba Leite",
+        "zipcode": "56906-537"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Travessa Rio Branco",
+        "zipcode": "56906-351"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua São Severino",
+        "zipcode": "56909-060"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Travessa Trinta e Um de Março",
+        "zipcode": "56909-661"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Rua Trinta e Um de Março",
+        "zipcode": "56909-660"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Avenida Waldemar Inácio de Oliveira",
+        "zipcode": "56906-010"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Padre Romão Ferraz",
+        "zipcode": "56903-500"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Pedro Pereira Valões",
+        "zipcode": "56912-278"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Conselheiro Antônio de Melo Lima",
+        "zipcode": "56903-260"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Raimundo Airton Rodrigues Santos",
+        "zipcode": "56909-510"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua João Alves de Carvalho Barros",
+        "zipcode": "56903-265"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua José Dias da Silva",
+        "zipcode": "56906-255"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Joel Nunes da Silva",
+        "zipcode": "56912-268"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua José do Carmo Lima",
+        "zipcode": "56912-284"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Avenida Luiza Ferraz de Lima",
+        "zipcode": "56909-195"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Monsenhor José Kerhle (Ipsep)",
+        "zipcode": "56903-465"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Rua Augusto Alves de Almeida",
+        "zipcode": "56906-032"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cachoeira",
+        "street": "Rua Iracema Deuspete Ferraz",
+        "zipcode": "56905-040"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Eneias Inacio de Oliveira (Cohab)",
+        "zipcode": "56909-242"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua João Pereira Gama Júnior",
+        "zipcode": "56912-282"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cachoeira",
+        "street": "Rua Mariano Nogueira Peixoto",
+        "zipcode": "56905-010"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cachoeira",
+        "street": "Rua Doutor Sebastião Pereira de Aguiar",
+        "zipcode": "56905-030"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Avenida Luciano Alves de Souza Melo",
+        "zipcode": "56907-320"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Projetada João Rodrigues de Lima",
+        "zipcode": "56903-275"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Afonso Alves Pereira",
+        "zipcode": "56903-455"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Várzea",
+        "street": "Rua João Aires Barros",
+        "zipcode": "56912-335"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Rufino Alves",
+        "street": "Praça Francisco Epaminondas Torres",
+        "zipcode": "56915-125"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Jacinta Nunes de Souza",
+        "zipcode": "56909-472"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Vila Bela",
+        "street": "Rua Maria de Lourdes Alves Melo",
+        "zipcode": "56907-310"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Maria Bezerra de Souza",
+        "zipcode": "56903-271"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Rua Valdeci Lopes Barros (Lot Bela Vista)",
+        "zipcode": "56906-498"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Casé Romão",
+        "zipcode": "56903-413"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Paulo Sabino da Silva",
+        "zipcode": "56906-405"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Aldemar Nunes da Silva",
+        "zipcode": "56909-089"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua José Saturnino de Magalhães",
+        "zipcode": "56909-305"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Cabo Joaquim Pereira de Souza",
+        "zipcode": "56909-115"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Francisco Souza de Melo",
+        "zipcode": "56903-246"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Bom Jesus",
+        "street": "Rua Alto da Serra",
+        "zipcode": "56906-335"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Sebastião Ferreira da Silva",
+        "zipcode": "56903-313"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Maria da Penha de Godoy Rodrigues",
+        "zipcode": "56909-255"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Rua Francisca Romão de Farias",
+        "zipcode": "56903-175"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua José Albérico de Souza Alves (Lot Irmãos Ferraz)",
+        "zipcode": "56909-185"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cagep",
+        "street": "Praça José Henrique de Souza",
+        "zipcode": "56909-645"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Modesto de Sa Ferraz",
+        "zipcode": "56909-268"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Penha",
+        "street": "Travessa Francisco Gomes",
+        "zipcode": "56903-559"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Borborema",
+        "street": "Avenida Vicente Inacio De Oliveira",
+        "zipcode": "56906-490"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua João Porfírio de Sá",
+        "zipcode": "56912-535"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Manoel Andrada Magalhaes",
+        "zipcode": "56909-264"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Nossa Senhora da Conceição",
+        "street": "Rua Projetada Noel Manoel Vicente",
+        "zipcode": "56903-263"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Severino Marques da Costa (Lot Vl João Santos Filho)",
+        "zipcode": "56909-508"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Travessa Joaquina Aires de Lima Campos",
+        "zipcode": "56912-175"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Área Rural de Serra Talhada",
+        "street": "Área Rural",
+        "zipcode": "56915-899"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cachoeira",
+        "street": "Rua Professora Maria Luiza Duarte de Sá",
+        "zipcode": "56905-020"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Sao Cristovao",
+        "street": "Avenida Triunfo",
+        "zipcode": "56909-710"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Tancredo Neves",
+        "street": "Rua Fabio Eliodorio da Silva Sobrinho",
+        "zipcode": "56909-262"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Antônio Alves de Barros",
+        "zipcode": "56912-262"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Sebastião",
+        "street": "Rua Anniely Marília Carvalho de Andrada (Lot Bela Vista)",
+        "zipcode": "56906-496"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "AABB",
+        "street": "Rua Elizeu Alves de Magalhães",
+        "zipcode": "56912-355"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Cachoeira",
+        "street": "Rua José de Sá Maranhão",
+        "zipcode": "56905-050"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "Rodoviaria",
+        "street": "Rua Magalhaes Adolfo Sampaio",
+        "zipcode": "56903-190"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "José Tomé de Souza Ramos",
+        "street": "Rua Professor Eduardo Lopes de Pádua",
+        "zipcode": "56909-494"
+    },
+    {
+        "city": "Serra Talhada",
+        "state": "PE",
+        "district": "São Cristóvão",
+        "street": "Travessa Numeriano Luiz de Sá",
+        "zipcode": "56903-185"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Queimadas",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Terezinha Salles s/n",
+        "zipcode": "48860-970"
+    },
+    {
+        "city": "Queimadas",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48860-000"
+    },
+    {
+        "city": "Queimadas",
+        "state": "BA",
+        "district": "Espanta Gado",
+        "street": "Praça Pedro Barreto s/n",
+        "zipcode": "48860-973"
+    },
+    {
+        "city": "Queimadas",
+        "state": "BA",
+        "district": "Lagoinha",
+        "street": "Praça do Comércio s/n",
+        "zipcode": "48860-972"
+    },
+    {
+        "city": "Queimadas",
+        "state": "BA",
+        "district": "Coronel João Borges",
+        "street": "Praça Clotildes de Andrade Borges 268",
+        "zipcode": "48860-971"
+    }
+]

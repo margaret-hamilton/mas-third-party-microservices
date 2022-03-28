@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ibicaraí",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco 106",
+        "zipcode": "45745-970"
+    },
+    {
+        "city": "Ibicaraí",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45745-000"
+    },
+    {
+        "city": "Ibicaraí",
+        "state": "BA",
+        "district": null,
+        "street": "Quadra L",
+        "zipcode": "45745-990"
+    }
+]

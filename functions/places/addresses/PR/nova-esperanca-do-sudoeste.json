@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Nova Esperança do Sudoeste",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Iguaçu s/n",
+        "zipcode": "85635-970"
+    },
+    {
+        "city": "Nova Esperança do Sudoeste",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Iguaçu 686 Sala 02",
+        "zipcode": "85635-972"
+    },
+    {
+        "city": "Nova Esperança do Sudoeste",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Iguaçu",
+        "zipcode": "85635-990"
+    },
+    {
+        "city": "Nova Esperança do Sudoeste",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85635-000"
+    }
+]

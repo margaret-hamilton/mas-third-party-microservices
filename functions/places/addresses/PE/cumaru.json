@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Cumaru",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua João de Moura Borba s/n",
+        "zipcode": "55655-970"
+    },
+    {
+        "city": "Cumaru",
+        "state": "PE",
+        "district": null,
+        "street": "Rua João Paulo Barbosa",
+        "zipcode": "55658-990"
+    },
+    {
+        "city": "Cumaru",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55655-000"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Itaipé",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Artur Bernardes 52",
+        "zipcode": "39815-970"
+    },
+    {
+        "city": "Itaipé",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39815-000"
+    }
+]

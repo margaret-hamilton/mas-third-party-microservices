@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bom Sucesso do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Romano Gemi",
+        "zipcode": "85515-971"
+    },
+    {
+        "city": "Bom Sucesso do Sul",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85515-000"
+    },
+    {
+        "city": "Bom Sucesso do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Cândido Melo",
+        "zipcode": "85515-970"
+    },
+    {
+        "city": "Bom Sucesso do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Cândido Melo",
+        "zipcode": "85515-990"
+    }
+]

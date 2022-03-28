@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Presidente Getúlio",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Travessa Luiz Rigo 95",
+        "zipcode": "89150-970"
+    },
+    {
+        "city": "Presidente Getúlio",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89150-000"
+    },
+    {
+        "city": "Presidente Getúlio",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral Serra dos Indios s/n",
+        "zipcode": "89150-991"
+    },
+    {
+        "city": "Presidente Getúlio",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral Caminho Papanduva s/n",
+        "zipcode": "89150-992"
+    },
+    {
+        "city": "Presidente Getúlio",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral São José s/n",
+        "zipcode": "89150-993"
+    }
+]

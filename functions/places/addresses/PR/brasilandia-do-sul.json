@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Brasilândia do Sul",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87595-000"
+    },
+    {
+        "city": "Brasilândia do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Adão Arcangelo dal Bem",
+        "zipcode": "87595-990"
+    },
+    {
+        "city": "Brasilândia do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Adão Arcângelo Dal Bem",
+        "zipcode": "87595-971"
+    }
+]

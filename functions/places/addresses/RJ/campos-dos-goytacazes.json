@@ -1,0 +1,933 @@
+[
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Imperial",
+        "street": "Rua Antonio Da Silva Neto",
+        "zipcode": "28022-840"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Joquei Club",
+        "street": "Travessa Sao Tarciso",
+        "zipcode": "28020-730"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Santa Rosa",
+        "street": "Estrada Taquarucu",
+        "zipcode": "28085-515"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Calabouco",
+        "street": "Rua Senador Jose Carlos Perreira Pinto",
+        "zipcode": "28080-790"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Custodopolis",
+        "street": "Rua David De Souza",
+        "zipcode": "28085-190"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Rua Dr Raul Abbott Escobar",
+        "zipcode": "28013-313"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "28010-160"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "28010-165"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Saldanha Marinho",
+        "zipcode": "28010-270"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Gil De Gois",
+        "zipcode": "28010-540"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Turf Club",
+        "street": "Rua Cardoso Moreira",
+        "zipcode": "28013-093"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Avenida Alberto Lamego",
+        "zipcode": "28013-600"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "28024-150"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Aurino Tavares",
+        "zipcode": "28027-435"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Conselheiro Jose Fernandes",
+        "zipcode": "28030-000"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barao De Miracema",
+        "zipcode": "28030-360"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Turf Club",
+        "street": "Avenida Senador Tarcisio Miranda",
+        "zipcode": "28022-040"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Turf Club",
+        "street": "Rua Godofredo Pinto",
+        "zipcode": "28015-290"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Sete De Setembro",
+        "zipcode": "28013-330"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Flamboyant",
+        "street": "Rua Luiz Gonzaga Tinoco",
+        "zipcode": "28021-331"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Horto Municipal",
+        "street": "Rua Jose Francisco Sanguedo",
+        "zipcode": "28010-235"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dr Lacerda Sobrinho",
+        "zipcode": "28010-075"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Bosque Das Acacias",
+        "street": "Rua William Bouckal",
+        "zipcode": "28016-500"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Turf Club",
+        "street": "Rua Dos Goitacazes",
+        "zipcode": "28027-230"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Aurora",
+        "street": "Avenida Nossa Senhora Do Carmo",
+        "zipcode": "28025-485"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Vila Visconde De Itaborai",
+        "zipcode": "28026-147"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Visconde Do Rio Branco",
+        "zipcode": "28010-360"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Horto Municipal",
+        "street": "Rua Jose Joaquim Cruz",
+        "zipcode": "28016-850"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Vila Da Rainha",
+        "street": "Avenida Olimpio Honorio De Almeida",
+        "zipcode": "28016-370"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Barros Barreto",
+        "zipcode": "28027-525"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Aurora",
+        "street": "Travessa Amaro Pecanha",
+        "zipcode": "28027-420"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Tenente",
+        "zipcode": "28013-460"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Aurora",
+        "street": "Rua Maestro Lourenco Soares",
+        "zipcode": "28026-610"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Bosque Das Acacias",
+        "street": "Rua Oswaldo Lacourt Mylaert",
+        "zipcode": "28016-400"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Imperial",
+        "street": "Rua Rossine Qintanilia Chagas",
+        "zipcode": "28022-320"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Turf Club",
+        "street": "Rua Dos Goitacazes",
+        "zipcode": "28026-600"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Horto Municipal",
+        "street": "Rua Dr Dario Marinho      Z",
+        "zipcode": "28016-820"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Aurora",
+        "street": "Rua Maestro Lourenco Soares",
+        "zipcode": "28027-430"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Rua Dr Raul Abbott Escobar",
+        "zipcode": "28015-310"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Rua Apolo",
+        "zipcode": "28030-575"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Maciel",
+        "street": "Rua Adao Pereira Nunes",
+        "zipcode": "28013-471"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Rua Rua Deputado Nelson Martins",
+        "zipcode": "28013-640"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Visconde Do Rio Branco",
+        "zipcode": "28027-445"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Avenida Visconde Do Rio Branco",
+        "zipcode": "28025-495"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Dr Beda",
+        "zipcode": "28026-590"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Svv Itaborai",
+        "zipcode": "28027-446"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Tarcisio Miranda",
+        "street": "Avenida Nossa Senhora Do Carmo",
+        "zipcode": "28024-166"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Turf Club",
+        "street": "Avenida Senador Tarciso Miranda",
+        "zipcode": "28020-800"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Avenida Sao Joao Da Barra",
+        "zipcode": "28015-470"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Dr Beda",
+        "zipcode": "28025-810"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Tenente Coronel Cardoso",
+        "zipcode": "28010-800"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Bosque Das Acacias",
+        "street": "Rua Dr Rui Amado Henriques",
+        "zipcode": "28016-450"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Joquei Club",
+        "street": "Rua Cardoso Moreira",
+        "zipcode": "28024-490"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Rua Deputado Nelson Martins",
+        "zipcode": "28015-350"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Visconde De Itaborai",
+        "zipcode": "28010-570"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Bosque Das Acacias",
+        "street": "Rua G",
+        "zipcode": "28016-830"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Osvaldo Cardoso De Melo",
+        "zipcode": "28030-110"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Avenida Princesa Isabel",
+        "zipcode": "28027-090"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Penha",
+        "street": "Rua Otacilio Gomes",
+        "zipcode": "28021-750"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Rua Deputado Nelson Martins",
+        "zipcode": "28013-690"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Rua Conselheiro Thomas Coelho",
+        "zipcode": "28035-215"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Conselheiro Jose Fernandes",
+        "zipcode": "28035-230"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Baltazar Carneiro",
+        "zipcode": "28035-271"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barao De Miracema",
+        "zipcode": "28035-300"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Alberto Torres",
+        "zipcode": "28035-580"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Avenida Alberto Torres",
+        "zipcode": "28051-285"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Avenida Alberto Torres",
+        "zipcode": "28053-585"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Gregorio Marcolino Rosa",
+        "zipcode": "28055-410"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Pedro Roque",
+        "zipcode": "28055-460"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "28057-293"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Guarus",
+        "street": "Avenida Carlos Alberto Chebabe",
+        "zipcode": "28073-505"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Guarus",
+        "street": "Avenida Cristovan Lysandro De Albernaz",
+        "zipcode": "28073-250"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Vera Cruz",
+        "street": "Avenida Carlos Alberto Chebabe",
+        "zipcode": "28060-000"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Rua Conseleiro Thomas Coelho",
+        "zipcode": "28051-200"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barao De Lagoa Dourada",
+        "zipcode": "28035-210"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Adelson Souza Lopes",
+        "zipcode": "28090-650"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Guarus",
+        "street": "Avenida Carlos Alberto Chebabe",
+        "zipcode": "28070-270"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Avenida Sao Fidelis",
+        "zipcode": "28051-600"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Dr Jonas Lopes Carvalho",
+        "zipcode": "28055-430"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Sao Mateus",
+        "street": "Rua Olivio Guimaraes",
+        "zipcode": "28073-310"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Rua Cora De Alvarenga",
+        "zipcode": "28053-225"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Corrientes",
+        "street": "Avenida Sao Fidelis",
+        "zipcode": "28053-590"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Bandeirante",
+        "street": "Rua Davi De Souza",
+        "zipcode": "28085-601"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Visconde De Ururai",
+        "street": "Rua Grevi Bastos",
+        "zipcode": "28041-250"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Vereador Augusto Longo Briz",
+        "zipcode": "28053-036"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Calabouco",
+        "street": "Rua Projetada A",
+        "zipcode": "28080-781"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Visconde De Ururai",
+        "street": "Rua Morro Do Coco",
+        "zipcode": "28070-236"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Ceasa",
+        "street": "Rua Nova Olinda",
+        "zipcode": "28090-700"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Guarus",
+        "street": "Rua Miracema",
+        "zipcode": "28070-055"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Dezessete",
+        "zipcode": "28055-085"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Fundao",
+        "street": "Rua Nazario Pereira Gomes",
+        "zipcode": "28060-200"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Guarus",
+        "street": "Avenida Cristovan Lysandro De Albernaz",
+        "zipcode": "28070-575"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Jonas Lopes Carvalho",
+        "zipcode": "28055-570"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Jardim Carioca",
+        "street": "Avenida Prof. Carmem Carneiro",
+        "zipcode": "28080-423"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Aldeia",
+        "street": "Vila Lobo Areia",
+        "zipcode": "28070-641"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Guarus",
+        "street": "Avenida Carlos Alberto Chebabe",
+        "zipcode": "28073-500"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Santa Clara",
+        "street": "Estrada Taquarucu",
+        "zipcode": "28083-700"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Jose Americo Mota Pessanha",
+        "zipcode": "28055-035"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Corrientes",
+        "street": "Rua Joaquim Suma",
+        "zipcode": "28053-110"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Oswaldo Cardoso De Mello",
+        "zipcode": "28035-625"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Brasilia",
+        "street": "Avenida Sao Fedelis",
+        "zipcode": "28055-510"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Rua Cora De Alvarenga",
+        "zipcode": "28051-270"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Custodopolis",
+        "street": "Rua Hipolito Sardinha",
+        "zipcode": "28083-370"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Arlindo Gregorio Barbeitas",
+        "zipcode": "28080-325"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Carlos Lacerda",
+        "zipcode": "28010-240"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Avenida Alberto Lamego",
+        "zipcode": "28015-620"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Avenida Alberto Lamego",
+        "zipcode": "28016-810"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Penha",
+        "street": "Rua Rossine Quintanilha Chagas",
+        "zipcode": "28021-000"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Turf Club",
+        "street": "Rua Rua Cardoso Moreira",
+        "zipcode": "28024-410"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Presidente Vargas",
+        "street": "Rua Hipolito Sardinha",
+        "zipcode": "28085-005"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Saldanha Marinho",
+        "zipcode": "28013-020"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Carlos Lacerda",
+        "zipcode": "28027-180"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Baltazar Carneiro",
+        "zipcode": "28035-270"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Imperial",
+        "street": "Praça Amaro Dos Santos Silva",
+        "zipcode": "28022-715"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Visconde De Ururai",
+        "street": "Rua Morro Do Coco",
+        "zipcode": "28060-410"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Tenente",
+        "zipcode": "28035-043"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Vereador Augusto Longo Braz",
+        "zipcode": "28055-480"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Esplanada",
+        "street": "Rua Daniel Paula Cedeco",
+        "zipcode": "28053-175"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Santa Maria",
+        "street": "Rua Policarpo Ribeiro",
+        "zipcode": "28073-510"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Horto Municipal",
+        "street": "Rua Edmundo Vaz De Araujo",
+        "zipcode": "28016-020"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Santa Maria",
+        "street": "Avenida Dr Luiz Gonzaga Tinoco",
+        "zipcode": "28021-330"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque California",
+        "street": "Rua Rua  Cacdas  Viana 1",
+        "zipcode": "28013-610"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barao De Lagoa Dourada",
+        "zipcode": "28030-010"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Visconde Do Rio Branco",
+        "zipcode": "28027-440"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Calabouco",
+        "street": "Avenida Senador Jose Carlos Pereira Pinto",
+        "zipcode": "28083-100"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Jardim Ceasa",
+        "street": "Rua Poeta Pedro Dias Carvalho",
+        "zipcode": "28072-180"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Turf Club",
+        "street": "Rua Dr Antonio Manoel",
+        "zipcode": "28024-100"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Salo Brand",
+        "street": "Rua Dr Lacerda Sobrinho",
+        "zipcode": "28010-070"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Rua Visconde De Itaborai",
+        "zipcode": "28027-140"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Avenida Visconde  Do  Rio  Branco",
+        "zipcode": "28035-610"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Sete De Setembro                 O",
+        "zipcode": "28010-560"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Avenida Dr Bento Faria Da Paz",
+        "zipcode": "28051-275"
+    },
+    {
+        "city": "Campos Dos Goytacazes",
+        "state": "RJ",
+        "district": "Parque Leopoldina",
+        "street": "Rua Dr Bento Faria Da Paz",
+        "zipcode": "28055-222"
+    }
+]

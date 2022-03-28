@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ipeúna",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Um 62",
+        "zipcode": "13537-970"
+    },
+    {
+        "city": "Ipeúna",
+        "state": "SP",
+        "district": null,
+        "street": "Rodovia SP 191 Rio Claro/Ipeúna",
+        "zipcode": "13537-990"
+    },
+    {
+        "city": "Ipeúna",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13537-000"
+    }
+]

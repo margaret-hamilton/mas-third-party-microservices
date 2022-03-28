@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Estrela",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Flores 365  AC Estrela",
+        "zipcode": "95880-970"
+    },
+    {
+        "city": "Estrela",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95880-000"
+    },
+    {
+        "city": "Estrela",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada Geral Novo Paraíso",
+        "zipcode": "95880-991"
+    }
+]

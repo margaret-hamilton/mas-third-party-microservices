@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Paulistas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Bias Fortes 48",
+        "zipcode": "39765-970"
+    },
+    {
+        "city": "Paulistas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39765-000"
+    }
+]

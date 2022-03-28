@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Cornélio Procópio",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Mato Grosso",
+        "zipcode": "86300-970"
+    },
+    {
+        "city": "Cornélio Procópio",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Paraná",
+        "zipcode": "86305-990"
+    },
+    {
+        "city": "Cornélio Procópio",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86300-000"
+    },
+    {
+        "city": "Cornélio Procópio",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida São Paulo 940",
+        "zipcode": "86300-971"
+    },
+    {
+        "city": "Cornélio Procópio",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "86305-970"
+    },
+    {
+        "city": "Cornélio Procópio",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Praça Brasil",
+        "zipcode": "86300-981"
+    }
+]

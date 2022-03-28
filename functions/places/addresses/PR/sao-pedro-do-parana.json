@@ -1,0 +1,23 @@
+[
+    {
+        "city": "São Pedro do Paraná",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná 354",
+        "zipcode": "87955-970"
+    },
+    {
+        "city": "São Pedro do Paraná",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87955-000"
+    },
+    {
+        "city": "São Pedro do Paraná",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "87957-990"
+    }
+]

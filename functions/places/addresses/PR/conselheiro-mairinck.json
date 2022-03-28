@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Conselheiro Mairinck",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua XV de Novembro",
+        "zipcode": "86480-970"
+    },
+    {
+        "city": "Conselheiro Mairinck",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86480-000"
+    }
+]

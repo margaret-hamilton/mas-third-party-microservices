@@ -1,0 +1,4797 @@
+[
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Praça Rafael Antônio Ponciano Soares",
+        "zipcode": "27115-253"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Manoel Rodrigues",
+        "zipcode": "27135-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Rua Florentina Edwirges de Almeida",
+        "zipcode": "27115-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua Ipês",
+        "zipcode": "27120-325"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Travessa Aliquerne Sebastião Viviani",
+        "zipcode": "27145-155"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Pedro Marques Taveira",
+        "zipcode": "27143-195"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Manoel Severino de Paula",
+        "zipcode": "27150-015"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Bela Vista",
+        "zipcode": "27113-015"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua dos Coqueiros",
+        "zipcode": "27120-345"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua dos Eucaliptos",
+        "zipcode": "27120-347"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boca do Mato",
+        "street": "Travessa B",
+        "zipcode": "27143-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Nilópolis",
+        "zipcode": "27113-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Manoel Duque de Freitas",
+        "zipcode": "27140-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua José Tavares Filho",
+        "zipcode": "27140-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua João Inácio",
+        "zipcode": "27150-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Rua Jerônimo Moreira Barbosa",
+        "zipcode": "27145-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua José Ferreira Filho",
+        "zipcode": "27150-375"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Manoel José Zeferino",
+        "zipcode": "27150-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Manoel Ramos",
+        "zipcode": "27115-570"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boca do Mato",
+        "street": "Rua Clito Nazaré Viana",
+        "zipcode": "27143-005"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Adácio Cândido de Matos",
+        "zipcode": "27110-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Travessa Ângelo Nogueira Rodrigues",
+        "zipcode": "27115-540"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Metalúrgica",
+        "street": "Rua Araruana",
+        "zipcode": "27110-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Ari Teixeira",
+        "zipcode": "27110-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Barão do Rio Bonito",
+        "zipcode": "27113-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Metalúrgica",
+        "street": "Rua Bolivar Ribeiro",
+        "zipcode": "27110-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Carlos Júlio Pheson",
+        "zipcode": "27130-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua Carteiro Aureliano Santiago",
+        "zipcode": "27113-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Casemiro de Abreu",
+        "zipcode": "27150-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Doutor Ernane da Silva Pereira",
+        "zipcode": "27110-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Félix Moreira Leite",
+        "zipcode": "27110-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Galeria Santos Dumont",
+        "zipcode": "27123-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Itaocara",
+        "zipcode": "27130-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Ivete Siqueira da Costa",
+        "zipcode": "27110-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Vila Jandira",
+        "zipcode": "27120-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua João Batista",
+        "zipcode": "27110-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Joaquim Sampaio",
+        "zipcode": "27110-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua José Arlindo",
+        "zipcode": "27113-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Marcílio Porto",
+        "zipcode": "27110-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Rua Maria de Freitas Barbosa",
+        "zipcode": "27143-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Caminho Morro do Gama",
+        "zipcode": "27150-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua N",
+        "zipcode": "27115-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua O",
+        "zipcode": "27115-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua P",
+        "zipcode": "27115-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Rotary",
+        "zipcode": "27120-520"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rua São Geraldo",
+        "zipcode": "27110-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Sete",
+        "zipcode": "27143-510"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Metalúrgica",
+        "street": "Rua Tereza Jesus de Vasconcelos",
+        "zipcode": "27110-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Praça Tupã",
+        "zipcode": "27135-550"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Vila Zappa",
+        "zipcode": "27140-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua G",
+        "zipcode": "27143-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Carlos Araújo",
+        "zipcode": "27110-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Angélica",
+        "zipcode": "27110-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua Doutor Mesquita",
+        "zipcode": "27113-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Nossa Senhora Aparecida",
+        "zipcode": "27110-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Rua Alberto Alves Barbosa",
+        "zipcode": "27115-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Beco Alberto Labeca",
+        "zipcode": "27113-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Avenida Aldoendo Alves Pimenta",
+        "zipcode": "27115-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Alexandre Jorge",
+        "zipcode": "27110-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Altivo Cândido Fereira",
+        "zipcode": "27113-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Anchises Lima Sardinha",
+        "zipcode": "27115-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Antônio José Figueiras",
+        "zipcode": "27115-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque São José",
+        "street": "Rua B",
+        "zipcode": "27113-500"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Belmar Pereira Gomes",
+        "zipcode": "27115-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Benjamim Ielpo",
+        "zipcode": "27113-383"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua C",
+        "zipcode": "27113-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Praça Carlos Heleno",
+        "zipcode": "27115-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Célia Dieguez Alvarez",
+        "zipcode": "27115-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Coronel Claudino Dias",
+        "zipcode": "27113-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Capitão Domingos Antônio Carvalho",
+        "zipcode": "27115-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Doutor José Maria Coelho",
+        "zipcode": "27113-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Doutor Luiz Teixeira Neto",
+        "zipcode": "27113-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Doutor Romeu Serra de Carvalho",
+        "zipcode": "27113-550"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Eduardo Silvino Porto",
+        "zipcode": "27113-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Ernesto Francisco",
+        "zipcode": "27123-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Fiscal José Figueira",
+        "zipcode": "27115-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Franca Júnior",
+        "zipcode": "27113-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Humberto José Mexias",
+        "zipcode": "27150-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Marcelo Henrique da Silva",
+        "zipcode": "27115-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua João Bastos",
+        "zipcode": "27113-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua João Batista Fonseca",
+        "zipcode": "27115-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa João Herculano Patrício",
+        "zipcode": "27110-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua João Isac",
+        "zipcode": "27113-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Jocob Joras",
+        "zipcode": "27115-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua José da Silva Massa",
+        "zipcode": "27113-560"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua José Pereira Gomes",
+        "zipcode": "27113-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Travessa Leandro de Freitas",
+        "zipcode": "27113-570"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Metalúrgica",
+        "street": "Travessa Luís Correia Piassa",
+        "zipcode": "27110-500"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Manuel Duarte",
+        "zipcode": "27113-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Preta",
+        "street": "Rua Maria Luiza Rodrigues",
+        "zipcode": "27110-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Vila Mazza",
+        "zipcode": "27123-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Oliveira Reis",
+        "zipcode": "27113-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Parati",
+        "zipcode": "27130-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Travessa Paulo VI",
+        "zipcode": "27113-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Estrada Professora Alice Aiex",
+        "zipcode": "27115-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Rafael Antunes",
+        "zipcode": "27135-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Waldomiro Raimundo",
+        "zipcode": "27115-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Wilson Nóbrega",
+        "zipcode": "27115-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Metalúrgica",
+        "street": "Rua Álvaro Leite Vinheiros",
+        "zipcode": "27110-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Geraldo Dinelli",
+        "zipcode": "27115-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Professora Julieta Capatto",
+        "zipcode": "27145-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Archimedes Rodrigues de Freitas",
+        "zipcode": "27113-075"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Albino Gomes Pereira",
+        "zipcode": "27120-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Altamiro Maciel",
+        "zipcode": "27120-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Rua Antônio de Almeida",
+        "zipcode": "27115-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Aracy Campos",
+        "zipcode": "27120-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Almirante",
+        "street": "Rua B",
+        "zipcode": "27113-620"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São Luís",
+        "street": "Rua Benjamim Soares de Souza",
+        "zipcode": "27120-540"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque São José",
+        "street": "Rua C",
+        "zipcode": "27113-510"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Almirante",
+        "street": "Rua C",
+        "zipcode": "27113-630"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São Luís",
+        "street": "Rua Carlos Almeida de Souza",
+        "zipcode": "27120-550"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Carlos de Souza Rodrigues",
+        "zipcode": "27120-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Carmine Martuscello",
+        "zipcode": "27123-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Novaes",
+        "zipcode": "27120-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Suíça",
+        "street": "Travessa Edson José Abudd",
+        "zipcode": "27120-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Frederico Correa Porto",
+        "zipcode": "27120-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Governador Portela",
+        "zipcode": "27123-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Firmino Guimarães",
+        "zipcode": "27110-475"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Américo Garcia da Silva",
+        "zipcode": "27115-085"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua Ernani Baronto Santiago",
+        "zipcode": "27113-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Hildebrando Teotônio",
+        "zipcode": "27120-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Onofrio Roque",
+        "zipcode": "27115-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chácara Farani",
+        "street": "Vila Jandira",
+        "zipcode": "27120-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Rua Jayme Guimarães Arruda",
+        "zipcode": "27115-520"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua João Pessoa",
+        "zipcode": "27120-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São Luís",
+        "street": "Rua José Rabelo Filho",
+        "zipcode": "27120-570"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Luís Daniel Baronto",
+        "zipcode": "27120-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Travessa Monsieur Fadul",
+        "zipcode": "27113-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Vila Magid",
+        "zipcode": "27113-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Rua Manuel Inácio da Cruz",
+        "zipcode": "27115-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Manoel Miguel Richa",
+        "zipcode": "27113-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Rua Maria José Rodrigues Monteiro",
+        "zipcode": "27115-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Mariana Coelho",
+        "zipcode": "27120-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Nilo Peçanha",
+        "zipcode": "27123-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Paineiras",
+        "zipcode": "27120-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Pedro Cunha",
+        "zipcode": "27123-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Pedro Lara",
+        "zipcode": "27123-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Suíça",
+        "street": "Rua Prefeito Roberto Bichara",
+        "zipcode": "27120-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Professor Wilson Nóbrega",
+        "zipcode": "27115-500"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Ramiro Jaime da Fonseca",
+        "zipcode": "27120-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Vila Rohema",
+        "zipcode": "27120-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Sapucaia",
+        "zipcode": "27120-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Silvino Marques de Oliveira",
+        "zipcode": "27120-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Estrada Sítio Nossa Senhora da Porta",
+        "zipcode": "27115-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Avenida Vereador Chequer Elías",
+        "zipcode": "27120-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Waldyr de Oliveira Lima",
+        "zipcode": "27120-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque São José",
+        "street": "Rua A",
+        "zipcode": "27113-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São Luís",
+        "street": "Rua José Palmeiras",
+        "zipcode": "27120-560"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua José Maria Ferreira",
+        "zipcode": "27115-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Waldir Brandão",
+        "zipcode": "27120-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Ana Neri",
+        "zipcode": "27123-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Antônio Abbud",
+        "zipcode": "27123-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Antônio Carlos de Oliveira Melo",
+        "zipcode": "27135-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Beira Rio",
+        "zipcode": "27120-125"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Assumpção",
+        "zipcode": "27123-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Ladeira Carlos de Carvalho",
+        "zipcode": "27135-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Carmine Montuori",
+        "zipcode": "27123-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Ladeira Clodoveu Campos Guedes",
+        "zipcode": "27135-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Coronel Carlos de Araújo",
+        "zipcode": "27123-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Coronel Nóbrega",
+        "zipcode": "27130-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Doutor Clodoveu",
+        "zipcode": "27135-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Doutor Cunha Lima",
+        "zipcode": "27130-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Elisa Nóbrega",
+        "zipcode": "27130-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Elizabeth Borges",
+        "zipcode": "27135-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Ernesto Benevides",
+        "zipcode": "27135-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque São Joaquim",
+        "street": "Rua Estevão Conrado de Almeida",
+        "zipcode": "27130-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Rua Euterpe",
+        "zipcode": "27130-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Praça Fausto Bastos",
+        "zipcode": "27130-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Francisco Cornélio Vila Verde",
+        "zipcode": "27120-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua das Flores",
+        "zipcode": "27120-355"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua dos Girassóis",
+        "zipcode": "27120-357"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Gentil Diniz",
+        "zipcode": "27130-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Gomes",
+        "zipcode": "27123-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque São Joaquim",
+        "street": "Rua Isaac Marcondes Neto",
+        "zipcode": "27130-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua João Bráulio",
+        "zipcode": "27130-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua José do Nascimento Dias",
+        "zipcode": "27130-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua José Mastrângelo",
+        "zipcode": "27120-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Júlio Guimarães",
+        "zipcode": "27130-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Travessa Juvêncio José",
+        "zipcode": "27130-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Manoel Alves",
+        "zipcode": "27130-520"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Manoel Diogo",
+        "zipcode": "27123-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Servidão Messias de Oliveira",
+        "zipcode": "27130-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São Luís",
+        "street": "Rua Miretta Baronto e Souza",
+        "zipcode": "27120-590"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Nelson Gonçalves",
+        "zipcode": "27123-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Padre Alfredo",
+        "zipcode": "27123-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Paulo da Silveira",
+        "zipcode": "27123-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Paulo de Frontin",
+        "zipcode": "27123-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Professor Mário Abiat",
+        "zipcode": "27130-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Rua Professor Moreira Lópes",
+        "zipcode": "27130-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Rua Professor Pedro Toledo",
+        "zipcode": "27130-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Rio Bonito",
+        "zipcode": "27130-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Rômulo Streva",
+        "zipcode": "27130-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Senador Raul Fernandes",
+        "zipcode": "27123-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Soares Ferreira",
+        "zipcode": "27123-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Vila Josépha",
+        "zipcode": "27123-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Santos",
+        "zipcode": "27123-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Ladeira São Sebastião Camerano",
+        "zipcode": "27123-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Assis Ribeiro",
+        "zipcode": "27123-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Gabriel Vilela Sobrinho",
+        "zipcode": "27123-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Alexandre Macedo de Carvalho",
+        "zipcode": "27135-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Alfredo Costa",
+        "zipcode": "27135-540"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Travessa Ana Maria da Conceição",
+        "zipcode": "27140-510"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Beco Antônio Ferreira Filho",
+        "zipcode": "27135-570"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Armando Rodrigues Ferreira",
+        "zipcode": "27140-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Avelino Francisco da Cunha",
+        "zipcode": "27135-530"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Cabo Frio",
+        "zipcode": "27130-580"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Francisco Ferreira DAvila",
+        "zipcode": "27140-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Colina do Sol",
+        "zipcode": "27130-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Dolores Teles Soares",
+        "zipcode": "27130-285"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Durval Borges",
+        "zipcode": "27140-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Francisco Franco",
+        "zipcode": "27135-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caixa DÁgua Velha",
+        "street": "Rua Francisco Franco",
+        "zipcode": "27135-630"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Gonçalves",
+        "zipcode": "27135-600"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira Velha",
+        "street": "Servidão Gumercindo Ramos Nogueira",
+        "zipcode": "27130-600"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Heitor Vale",
+        "zipcode": "27135-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Hernandes da Silva Leite",
+        "zipcode": "27130-590"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Joaquim Dutra",
+        "zipcode": "27140-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Vermelha",
+        "street": "Rua José Alves Barbosa",
+        "zipcode": "27143-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua José Nogueira de Oliveira",
+        "zipcode": "27140-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Travessa José Pinto Mesquita",
+        "zipcode": "27140-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Lourdes Terra Passos",
+        "zipcode": "27135-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Major Eduardo Nogueira de Oliveira",
+        "zipcode": "27140-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Major Ferraz",
+        "zipcode": "27135-480"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Major Francisco Fernandes",
+        "zipcode": "27135-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Manuel de Moraes Pena",
+        "zipcode": "27135-520"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Vila Maria",
+        "zipcode": "27135-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Mendes",
+        "zipcode": "27135-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Nicolau Galucci",
+        "zipcode": "27130-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Oldemar Nóbrega",
+        "zipcode": "27140-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Vermelha",
+        "street": "Rua Orlando Dias Nogueira",
+        "zipcode": "27143-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua dos Pracinhas",
+        "zipcode": "27135-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Avenida Prefeito Artur da Costa",
+        "zipcode": "27140-054"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Raimundo José Verciano",
+        "zipcode": "27135-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Rodeio",
+        "zipcode": "27135-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Vila Sampaio",
+        "zipcode": "27140-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua São Bento",
+        "zipcode": "27135-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Praça Sebastião José da Silva",
+        "zipcode": "27130-550"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Senador Arlindo Rodrigues",
+        "zipcode": "27135-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "27135-500"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Avenida Vera Cruz",
+        "zipcode": "27140-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Travessa Vera Cruz",
+        "zipcode": "27140-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Ana Maria da Conceição",
+        "zipcode": "27140-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Carlos de Queirós",
+        "zipcode": "27140-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Neila da Silva Batista",
+        "zipcode": "27135-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Fernandes",
+        "zipcode": "27135-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Ladeira Guilherme Ebias",
+        "zipcode": "27140-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Mário Santos",
+        "zipcode": "27135-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Vila da Química",
+        "zipcode": "27130-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Rua Alfredo Ferreira",
+        "zipcode": "27140-530"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Doutor Andrade Pinto",
+        "zipcode": "27145-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Travessa Arvelos Rodrigues",
+        "zipcode": "27140-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Travessa Campos",
+        "zipcode": "27145-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Vermelha",
+        "street": "Travessa Carmem Rodrigues Santana",
+        "zipcode": "27143-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Celina Pereira dos Santos",
+        "zipcode": "27135-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Dez",
+        "zipcode": "27143-138"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua Paulo de Aquino",
+        "zipcode": "27143-425"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boca do Mato",
+        "street": "Rua Pedro Alves Gomes",
+        "zipcode": "27143-215"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Maria Paulina da Conceição",
+        "zipcode": "27140-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Hélio Guimarães",
+        "zipcode": "27140-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Francisco Di Biase",
+        "zipcode": "27140-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Doutor Júlio Braga",
+        "zipcode": "27123-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Travessa Emílio Silva",
+        "zipcode": "27145-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Enéas Cappato",
+        "zipcode": "27145-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Ferreira Neto",
+        "zipcode": "27145-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "27145-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua H",
+        "zipcode": "27143-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte do Andrade",
+        "street": "Rua Henrique José Camilo",
+        "zipcode": "27143-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Rua João Antônio Camerano",
+        "zipcode": "27143-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Travessa Joaquim Barbosa",
+        "zipcode": "27143-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua Joaquim Barbosa",
+        "zipcode": "27143-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Travessa Joaquim Venâncio de Souza",
+        "zipcode": "27140-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Travessa José de Oliveira",
+        "zipcode": "27145-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Travessa José Duque Freitas",
+        "zipcode": "27130-530"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Travessa Julieta",
+        "zipcode": "27143-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Rua Juvenal Laureano",
+        "zipcode": "27143-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Rua Luís Braga",
+        "zipcode": "27145-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Luiz Esteves da Silva",
+        "zipcode": "27143-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Travessa Manoel Egídio de Oliveira",
+        "zipcode": "27145-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Manuel Alves",
+        "zipcode": "27143-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Minervina de A Mello",
+        "zipcode": "27130-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Avenida Paulo",
+        "zipcode": "27145-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Paulo Pereira da Mota",
+        "zipcode": "27143-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Pedro José de Oliveira",
+        "zipcode": "27145-232"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Avenida Prefeito Artur da Costa",
+        "zipcode": "27140-052"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Rua Rufino Barbosa",
+        "zipcode": "27143-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua Sebastião Gomes",
+        "zipcode": "27143-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Silvino Mota",
+        "zipcode": "27143-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Teixeira de Andrade",
+        "zipcode": "27145-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua Teófilo Antunes",
+        "zipcode": "27143-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Valdir Lopes",
+        "zipcode": "27143-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Estrada Silas Pereira da Mota",
+        "zipcode": "27143-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Manoel Gonçalves",
+        "zipcode": "27145-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Advogado Antônio Zappa",
+        "zipcode": "27145-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Ana Moreira Lopes",
+        "zipcode": "27143-530"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Antônio Alves Raposo",
+        "zipcode": "27130-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Antônio Joaquim Terra Passos",
+        "zipcode": "27150-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Travessa Antônio Pinto",
+        "zipcode": "27150-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Acácia de Souza",
+        "zipcode": "27143-225"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Aparecida Rangel",
+        "zipcode": "27150-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Benjamim Ielpo",
+        "zipcode": "27113-384"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Carolina de Melo",
+        "zipcode": "27113-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Beco Cento e Dois",
+        "zipcode": "27145-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Praça Coronel Claudino Dias",
+        "zipcode": "27143-560"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Desembargador Zoptico Batista",
+        "zipcode": "27113-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dom Guilherme",
+        "zipcode": "27145-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "27145-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Eduardo Willim Syn",
+        "zipcode": "27110-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Emílio Correas Silva",
+        "zipcode": "27145-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua Florival de Paula França",
+        "zipcode": "27113-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Travessa Gerônimo Moreira Barbosa",
+        "zipcode": "27145-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Heitor Lópes",
+        "zipcode": "27150-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte do Andrade",
+        "street": "Travessa Horácio de Souza",
+        "zipcode": "27143-570"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Travessa João Nóbrega",
+        "zipcode": "27145-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua José Dias de Souza Filho",
+        "zipcode": "27113-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua José Simeão de Avelar",
+        "zipcode": "27113-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Travessa Liodoro dos Santos",
+        "zipcode": "27145-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Luís Barbosa",
+        "zipcode": "27115-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Travessa Luís Braga",
+        "zipcode": "27145-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Major Joviano Gomes",
+        "zipcode": "27110-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Major Mário Salgueiro",
+        "zipcode": "27113-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Maria Trindade Resende",
+        "zipcode": "27150-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Servidão Nelson Guilherme de Faria",
+        "zipcode": "27145-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Metalúrgica",
+        "street": "Rua Pedro Matheus",
+        "zipcode": "27110-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Travessa Pedro José de Oliveira",
+        "zipcode": "27145-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Professor José Antônio Maia Vinagre",
+        "zipcode": "27115-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Praça Roberto Cirilo Ferreira",
+        "zipcode": "27115-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua São Francisco de Assis",
+        "zipcode": "27110-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Travessa Sebastião Soares Souza",
+        "zipcode": "27145-096"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Teresópolis",
+        "zipcode": "27150-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Vicente Ferreira",
+        "zipcode": "27143-500"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Waldemiro Gomes",
+        "zipcode": "27143-590"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Rua Angelino de Oliveira",
+        "zipcode": "27115-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Armandes Rodrigues da Silva",
+        "zipcode": "27113-540"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Macaé",
+        "zipcode": "27110-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua Dois",
+        "zipcode": "27150-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Balbina Alves Raposo",
+        "zipcode": "27150-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Etelvina da Silva Marins",
+        "zipcode": "27150-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Rodovia Lúcio Meira",
+        "zipcode": "27115-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Alfredo Costa",
+        "zipcode": "27135-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Antônio Alvarenga",
+        "zipcode": "27150-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Antônio Manoel dos Santos",
+        "zipcode": "27150-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Capitão Firmino Campos",
+        "zipcode": "27120-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Capitão Mário Novais",
+        "zipcode": "27123-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Doutor Mariano Borges",
+        "zipcode": "27135-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Doutor Morais Barbosa",
+        "zipcode": "27120-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Elías José Asmar",
+        "zipcode": "27120-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Franklin de Moraes",
+        "zipcode": "27135-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Franz de Castro Holzwart",
+        "zipcode": "27120-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Heitor dos Santos",
+        "zipcode": "27150-480"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Humberto Martuscello",
+        "zipcode": "27123-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Independência",
+        "zipcode": "27120-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Rua Jaime Portugal",
+        "zipcode": "27130-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua João Gregório",
+        "zipcode": "27150-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua João Serafim",
+        "zipcode": "27150-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Rua José Esperança",
+        "zipcode": "27130-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua José Firmino de Melo",
+        "zipcode": "27130-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua José Jardim Rocha",
+        "zipcode": "27135-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua José Joaquim Gomes",
+        "zipcode": "27123-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua José Teodóro Couto",
+        "zipcode": "27130-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Júlio Ribeiro",
+        "zipcode": "27130-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua da Luz",
+        "zipcode": "27150-580"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Rua Majleck Cukier",
+        "zipcode": "27115-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Manoel Alves Pereira",
+        "zipcode": "27123-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Projetada",
+        "zipcode": "27150-373"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Travessa Margarida Cherem",
+        "zipcode": "27150-515"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Manuel Alves Pereira",
+        "zipcode": "27123-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Manuel Juvêncio",
+        "zipcode": "27150-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Militão José da Silva",
+        "zipcode": "27150-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Moreira dos Santos",
+        "zipcode": "27130-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Newton Prado",
+        "zipcode": "27120-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Nicolino Gregório",
+        "zipcode": "27150-590"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Onofre Infante Vieira",
+        "zipcode": "27120-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Paulo Chagas",
+        "zipcode": "27120-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Professor João Moreira de Vasconcellos",
+        "zipcode": "27135-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua Raymundo Padilha",
+        "zipcode": "27150-550"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Renê Guida",
+        "zipcode": "27150-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Rubens Lúcio Cardoso",
+        "zipcode": "27120-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Suíça",
+        "street": "Rua Rudolf Thommen",
+        "zipcode": "27120-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Trajano de Moraes",
+        "zipcode": "27135-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua Três",
+        "zipcode": "27150-500"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Avelino José da Silva",
+        "zipcode": "27115-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua Coronel Henrique Nora Júnior",
+        "zipcode": "27150-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua José Bento de Oliveira",
+        "zipcode": "27130-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Praça Eduardo",
+        "zipcode": "27150-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Hortência Campos Ciótola",
+        "zipcode": "27123-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Oliveira Figueiredo",
+        "zipcode": "27120-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Alexandre Arruda",
+        "zipcode": "27150-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Alfredo de Oliveira",
+        "zipcode": "27143-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Travessa América",
+        "zipcode": "27150-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Rua Antônio Constantino",
+        "zipcode": "27143-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Antônio Gomes de Medeiros",
+        "zipcode": "27140-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Antônio Pereira Lópes",
+        "zipcode": "27143-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Travessa Antônio Ribeiro",
+        "zipcode": "27150-520"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Travessa B",
+        "zipcode": "27143-610"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Largo Boa Sorte",
+        "zipcode": "27150-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Comissário Quirino Ortolani",
+        "zipcode": "27110-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Compositor Herivelto Martins",
+        "zipcode": "27145-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira Velha",
+        "street": "Rua Coronel João da Silva Moreira",
+        "zipcode": "27145-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Desembargador José Mineiro",
+        "zipcode": "27123-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Rua Elías José Teixeira",
+        "zipcode": "27140-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Travessa Ernestina Braga",
+        "zipcode": "27145-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua Hildebrando José Nogueira",
+        "zipcode": "27150-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Humberto Ferraz",
+        "zipcode": "27150-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua I",
+        "zipcode": "27143-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Travessa João Ribeiro da Silva",
+        "zipcode": "27140-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Joaquim Mendes Avelar",
+        "zipcode": "27130-560"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua José Luís Mexias",
+        "zipcode": "27123-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caixa DÁgua Velha",
+        "street": "Travessa José Pires Dias",
+        "zipcode": "27135-640"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua Manoel Gomes da Silva",
+        "zipcode": "27150-560"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Manuel Ferreira",
+        "zipcode": "27143-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Marcos de Souza Lima",
+        "zipcode": "27143-136"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Nove",
+        "zipcode": "27143-480"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Olavo Lemos Simões",
+        "zipcode": "27110-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caixa DÁgua Velha",
+        "street": "Travessa Palmira Antônio Timóteo",
+        "zipcode": "27135-590"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte do Andrade",
+        "street": "Rua Paulo Fernandes",
+        "zipcode": "27143-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Travessa Benedito da Silva Lomba",
+        "zipcode": "27140-295"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Franklin de Moraes",
+        "zipcode": "27135-971"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Pedro José de Oliveira",
+        "zipcode": "27150-192"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Avenida Prefeito Artur da Costa",
+        "zipcode": "27140-053"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Belarmino Costa",
+        "zipcode": "27150-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Santo Agostinho",
+        "zipcode": "27150-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Santo Antônio de Pádua",
+        "zipcode": "27140-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua Arnaldo Sebastião",
+        "zipcode": "27150-530"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Travessa Vereador Claudino Silva Figueira Filho",
+        "zipcode": "27140-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Vereador Claudino Silva Figueira Filho",
+        "zipcode": "27140-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Rua Vereador Osmar Dias Ferreira",
+        "zipcode": "27143-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Vereador Sebastião de Carvalho",
+        "zipcode": "27150-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Vieira Filho",
+        "zipcode": "27135-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Bernardo Neves",
+        "zipcode": "27150-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Professora Eli Maria da Silva Braga",
+        "zipcode": "27150-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Waldemar de Oliveira Mello",
+        "zipcode": "27135-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Travessa José Fernandes Mineiro",
+        "zipcode": "27145-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Antenor Barbosa Rego",
+        "zipcode": "27110-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Represa",
+        "street": "Rua Antônio Félix Pinheiro",
+        "zipcode": "27135-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Augusta Correa dos Santos",
+        "zipcode": "27115-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Benedito da Silva Lomba",
+        "zipcode": "27140-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Cristiano Otoni",
+        "zipcode": "27123-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dona Guilhermina",
+        "zipcode": "27120-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Doutor Oswaldo Milward",
+        "zipcode": "27123-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Ernando de Souza Leite",
+        "zipcode": "27120-480"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Ernani do Amaral Peixoto",
+        "zipcode": "27120-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Francisco Mendes Franco",
+        "zipcode": "27135-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Frutuoso Gil Gonçalves",
+        "zipcode": "27115-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Travessa Gabriel Gomes Peixoto",
+        "zipcode": "27113-600"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Hildebrando Barbosa",
+        "zipcode": "27120-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Rua Isabel Muniz da Cruz",
+        "zipcode": "27115-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua João Maleiro da Silva",
+        "zipcode": "27115-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua João Frutuoso da Costa e Silva",
+        "zipcode": "27135-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua Leopoldina Baronto Santiago",
+        "zipcode": "27113-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Metalúrgica",
+        "street": "Rua Lúcio Mansur Elías",
+        "zipcode": "27110-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Lúcio Mendonça",
+        "zipcode": "27123-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Manoel Roberto de Souza",
+        "zipcode": "27123-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caixa DÁgua Velha",
+        "street": "Travessa Margarida de Freitas Chaves",
+        "zipcode": "27135-610"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Rua Maria Matos Pimenta",
+        "zipcode": "27115-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Vila Mariano Borges",
+        "zipcode": "27135-510"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque São Joaquim",
+        "street": "Rua Nossa Senhora dos Passos",
+        "zipcode": "27130-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Oscar Giuliane",
+        "zipcode": "27130-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Otávio Gomes Carneiro",
+        "zipcode": "27120-510"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Paulino Figorelli",
+        "zipcode": "27123-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Rua Paulo Fernandes",
+        "zipcode": "27140-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Paulo Manoel Silva",
+        "zipcode": "27115-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Avenida Prefeito Artur da Costa",
+        "zipcode": "27140-055"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Ernesto de Morais Pena",
+        "zipcode": "27113-095"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua da Carioca",
+        "zipcode": "27113-045"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua José Alves Pimenta",
+        "zipcode": "27115-970"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua São José",
+        "zipcode": "27140-413"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Prefeito Heitor Favieri",
+        "zipcode": "27130-500"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Prefeito Iago José de Castro Valério",
+        "zipcode": "27110-470"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Prefeito Roberto Bichara",
+        "zipcode": "27120-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Professor Francisco Seabra",
+        "zipcode": "27123-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Rabelo",
+        "zipcode": "27135-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São Luís",
+        "street": "Rua Sabino Benedito",
+        "zipcode": "27120-600"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Suíça",
+        "street": "Rua Santa Catarina",
+        "zipcode": "27120-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "27123-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Tiburcio Inácio da Silva",
+        "zipcode": "27130-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Wanderlei Jandir de Souza",
+        "zipcode": "27113-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Emília Torres",
+        "zipcode": "27113-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua João Augusto Kelly",
+        "zipcode": "27130-510"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua José Ferreira Aguiar",
+        "zipcode": "27123-155"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Travessa Alfredo Mansur",
+        "zipcode": "27150-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua Angelina Teixeira Neto Symm",
+        "zipcode": "27113-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Angra dos Reis",
+        "zipcode": "27150-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Antônio da Silva Brinco",
+        "zipcode": "27110-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Barbosa",
+        "zipcode": "27145-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Carlos Pereira Gomes",
+        "zipcode": "27145-270"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Compositor Herivelto Martins",
+        "zipcode": "27150-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua D",
+        "zipcode": "27143-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Travessa Davi de Cerqueira",
+        "zipcode": "27145-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caixa DÁgua Velha",
+        "street": "Travessa Dois",
+        "zipcode": "27135-620"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Vermelha",
+        "street": "Rua Edgar Fernandes",
+        "zipcode": "27143-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Rua Emília de Souza",
+        "zipcode": "27140-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua João de Deus Alves",
+        "zipcode": "27143-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Fábio Adriano de Assis",
+        "zipcode": "27143-520"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Estrada da Fazenda São Luís",
+        "zipcode": "27150-570"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Francisco Pegas",
+        "zipcode": "27150-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Jair Ribeiro",
+        "zipcode": "27110-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Janynier Groetaers Pegas",
+        "zipcode": "27150-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua José Alves Pimenta",
+        "zipcode": "27115-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira Velha",
+        "street": "Travessa José Cardoso",
+        "zipcode": "27145-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boca do Mato",
+        "street": "Rua José Carota",
+        "zipcode": "27143-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Rua José Mário Ferreira",
+        "zipcode": "27115-560"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira Velha",
+        "street": "Rua José Pequeno Oliveira",
+        "zipcode": "27145-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Rua Jovita Rodrigues Goes",
+        "zipcode": "27143-280"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Rua Major Oscar de Oliveira Batista",
+        "zipcode": "27130-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Manuel Ferraz Bueno",
+        "zipcode": "27113-230"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua Maria Rosa de Souza",
+        "zipcode": "27143-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Mário Torres Botelho",
+        "zipcode": "27120-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Travessa Nossa Senhora de Fátima",
+        "zipcode": "27150-540"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Rua O",
+        "zipcode": "27115-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Travessa Ovidio Mello",
+        "zipcode": "27145-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Travessa Pará",
+        "zipcode": "27145-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Pedro José de Oliveira",
+        "zipcode": "27145-231"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Pedro José de Oliveira",
+        "zipcode": "27150-191"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Travessa Efigênia",
+        "zipcode": "27150-065"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Quitéria Luíza",
+        "zipcode": "27143-223"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São Luís",
+        "street": "Rua Maria Eugênia de Souza Breves",
+        "zipcode": "27120-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caieira São Pedro",
+        "street": "Rua Professor Elías Murad Ferreira",
+        "zipcode": "27130-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Raimundo José Verciano",
+        "zipcode": "27135-560"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Roberto Veiga",
+        "zipcode": "27120-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Sebastiana da Silva",
+        "zipcode": "27150-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Estrada Sitio São Sebastião",
+        "zipcode": "27115-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Jayme Guimarães",
+        "zipcode": "27115-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Rua Alcebíades Nogueira",
+        "zipcode": "27143-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Alzira Garcia de Oliveira",
+        "zipcode": "27123-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Ana Maria Lopes",
+        "zipcode": "27143-550"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rua Guarda do Anjo",
+        "zipcode": "27110-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Servidão Antônio Arvelos Rodrigues",
+        "zipcode": "27140-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Antônio Chaves",
+        "zipcode": "27115-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Preta",
+        "street": "Rua Antônio Sampaio",
+        "zipcode": "27110-080"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Travessa Ari Reis",
+        "zipcode": "27110-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Aureliano Garcia",
+        "zipcode": "27135-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Benjamim Ielpo",
+        "zipcode": "27113-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Campo Bom",
+        "street": "Rua Campo Bom",
+        "zipcode": "27110-000"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua Cirilo José Ferreira",
+        "zipcode": "27113-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Dona Glória",
+        "zipcode": "27113-120"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Expedicionário Jalber Coelho da Silva",
+        "zipcode": "27150-510"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Preta",
+        "street": "Rua Ferroviário Carlos Carvalho",
+        "zipcode": "27110-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Geonaci",
+        "zipcode": "27150-390"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Georgina Francisca de Paula",
+        "zipcode": "27135-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua João Fonseca",
+        "zipcode": "27143-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua José Maria da Silva",
+        "zipcode": "27113-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua José Vidal",
+        "zipcode": "27143-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Jovelino Marques",
+        "zipcode": "27135-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Beco Manoel Adão",
+        "zipcode": "27135-580"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Rua Maria Beatriz Cataldi Franca",
+        "zipcode": "27115-510"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Travessa Nilo de Abreu",
+        "zipcode": "27143-360"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "27110-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Oswaldo Cruz",
+        "zipcode": "27120-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Pedro Faustino",
+        "zipcode": "27135-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Pedro Marques Tavera",
+        "zipcode": "27143-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Prefeito Guilherme Alberto Duque Milward",
+        "zipcode": "27135-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Professor José Costa",
+        "zipcode": "27145-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rua Santo Amaro",
+        "zipcode": "27110-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rua Santo Ângelo",
+        "zipcode": "27110-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Rua Santo Antônio",
+        "zipcode": "27140-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rua São Tomé",
+        "zipcode": "27110-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Servidão Sílvio Gomes dos Santos",
+        "zipcode": "27123-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Praça Sizenando Barbosa Leite",
+        "zipcode": "27110-520"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua Vereador José Gonzaga de Oliveira",
+        "zipcode": "27120-530"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Vinte e Quatro de Agosto",
+        "zipcode": "27115-530"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Roseira",
+        "street": "Rua Walter Gomes Máriotini",
+        "zipcode": "27143-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Oscar da Rocha Matos",
+        "zipcode": "27135-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Servidão Joaquim Silva",
+        "zipcode": "27135-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque São Joaquim",
+        "street": "Rua Álvaro de Souza",
+        "zipcode": "27130-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Servidão Compositor Herivelto Martins",
+        "zipcode": "27145-420"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rodovia Lúcio Meira",
+        "zipcode": "27110-560"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Travessa José de Carvalho Rodrigues",
+        "zipcode": "27140-405"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua José Duque de Freitas",
+        "zipcode": "27140-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Pedro Coelho",
+        "zipcode": "27110-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua da Mina",
+        "zipcode": "27150-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua São João Marcos",
+        "zipcode": "27135-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Serafim Santiago",
+        "zipcode": "27140-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Rua Ricardo Barbosa",
+        "zipcode": "27115-150"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Esperança",
+        "zipcode": "27123-005"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rua São Judas Tadeu",
+        "zipcode": "27110-300"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Elpídio Lourenço de Souza",
+        "zipcode": "27140-130"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Sargento Francisco Manoel Antônio",
+        "zipcode": "27150-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Campo Bom",
+        "street": "Estrada Manoel Coutinho de Carvalho",
+        "zipcode": "27110-025"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Travessa José Tavares Filho",
+        "zipcode": "27140-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Oliveira Pinho",
+        "zipcode": "27140-160"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Elvira de Vasconcelos",
+        "zipcode": "27140-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Doutor Lino Mota",
+        "zipcode": "27140-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Raimundo Pereira",
+        "zipcode": "27140-370"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Francisco Duque Freitas",
+        "zipcode": "27140-415"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Rua Santa Isabel",
+        "zipcode": "27140-450"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São João",
+        "street": "Travessa José Duque de Freitas",
+        "zipcode": "27130-610"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barão de Santa Cruz",
+        "zipcode": "27120-055"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Rua Jornalista João Bosco Sene Silveira",
+        "zipcode": "27115-205"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Clementina Maria da Conceição",
+        "zipcode": "27143-229"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Télcio Ventura da Silva (Cond da Taquara)",
+        "zipcode": "27113-265"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua A",
+        "zipcode": "27130-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Travessa A",
+        "zipcode": "27145-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua das Acácias",
+        "zipcode": "27120-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Adma Chedid",
+        "zipcode": "27135-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Adolfo Vitório da Costa",
+        "zipcode": "27140-070"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Alan Kardec",
+        "zipcode": "27140-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Travessa Alberto José Cláudio",
+        "zipcode": "27150-410"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Alexandre Gomes Leal",
+        "zipcode": "27130-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Alfredo Figueiredo",
+        "zipcode": "27123-250"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Rua Alfredo Mansur",
+        "zipcode": "27140-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Alfredo Mendes Pereira",
+        "zipcode": "27113-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Luiz Camerano",
+        "zipcode": "27113-260"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Travessa Ana Bárbara de Jesus",
+        "zipcode": "27115-550"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Andrelina Pereira da Silva",
+        "zipcode": "27110-240"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Rua Antônio Brás Ferreira",
+        "zipcode": "27143-580"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Antônio Chaves de Paulo",
+        "zipcode": "27115-480"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Antônio Felipe Santiago",
+        "zipcode": "27130-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Benjamim Ielpo",
+        "zipcode": "27113-381"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Cândido Fernandes",
+        "zipcode": "27150-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Cantão",
+        "street": "Rua Júlio Izidro",
+        "zipcode": "27150-215"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Beco Carota",
+        "zipcode": "27145-330"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Muqueca",
+        "street": "Avenida Cecília",
+        "zipcode": "27140-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Escada Delcy Lima Porto",
+        "zipcode": "27113-610"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Vermelha",
+        "street": "Travessa Dirce Souza Rodrigues",
+        "zipcode": "27143-090"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Dom José André Coimbra",
+        "zipcode": "27113-590"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Doutor Luís Alves Pereira",
+        "zipcode": "27130-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Doutor Luiz de Paula",
+        "zipcode": "27120-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Nossa Senhora de Santana",
+        "street": "Rua Doutor Ovidio Mello",
+        "zipcode": "27113-050"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rua Efigênia Antônia de Oliveira",
+        "zipcode": "27113-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Engenheiro Francisco Freixinho",
+        "zipcode": "27135-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Francisco de Paula Moura",
+        "zipcode": "27120-100"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Travessa Getúlio Vargas",
+        "zipcode": "27145-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Coimbra",
+        "street": "Estrada da Granja",
+        "zipcode": "27115-460"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque São Joaquim",
+        "street": "Rua Vicente José Camilo",
+        "zipcode": "27130-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte do Andrade",
+        "street": "Rua Jair da Mota Leite",
+        "zipcode": "27143-040"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Travessa José dos Reis",
+        "zipcode": "27140-380"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Travessa José Floriano Werneck",
+        "zipcode": "27113-020"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua José Moreira da Silva",
+        "zipcode": "27150-430"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Travessa José Pereira Pires",
+        "zipcode": "27145-060"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vila Helena",
+        "street": "Rua José Rodrigues Valle",
+        "zipcode": "27120-500"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Travessa Luzia Torturela",
+        "zipcode": "27145-210"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Chalet",
+        "street": "Travessa Maria Felícia Barbosa",
+        "zipcode": "27143-350"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Rua Marina da Silva Fernandes",
+        "zipcode": "27143-180"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte do Andrade",
+        "street": "Avenida Miguel Couto Filho",
+        "zipcode": "27143-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Moreira dos Santos",
+        "zipcode": "27135-030"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Lago Azul",
+        "street": "Rua Nelson Clemente de Oliveira",
+        "zipcode": "27110-190"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Nossa Senhora de Fátima",
+        "zipcode": "27120-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Pautília Rosa do Nascimento",
+        "zipcode": "27150-200"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Pedro Pereira da Silva",
+        "zipcode": "27150-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Rodovia Presidente Pedreira",
+        "zipcode": "27113-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Professor Imar de Carvalho",
+        "zipcode": "27123-320"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Cataldi",
+        "street": "Rua Reverendo Abdias Ferreira Nobre",
+        "zipcode": "27115-170"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Ladeira São Sebastião",
+        "zipcode": "27113-220"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua São Sebastião do Alto",
+        "zipcode": "27130-400"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Travessa Silvério Augusto Rosa",
+        "zipcode": "27150-600"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Travessa Vera Lúcia",
+        "zipcode": "27145-290"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Travessa Waldomiro Gomes de Faria",
+        "zipcode": "27143-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Lamartine Felisberto",
+        "zipcode": "27135-140"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Travessa Manuel Ferraz Bueno",
+        "zipcode": "27113-490"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Carvão",
+        "street": "Travessa Portela",
+        "zipcode": "27145-110"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Doutor Ernane da Silva Pereira",
+        "zipcode": "27110-310"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Ponte Preta",
+        "street": "Rodovia Lúcio Meira",
+        "zipcode": "27113-580"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Belvedere da Taquara",
+        "street": "Travessa São Jorge",
+        "zipcode": "27113-340"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Maracanã",
+        "street": "Rua Paulo Fernandes",
+        "zipcode": "27140-440"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Parque Santana",
+        "street": "Travessa Ismael Ferreira",
+        "zipcode": "27143-505"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Prefeito José Figorelli Sobrinho (Res. Nova Barra)",
+        "zipcode": "27115-053"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Doutor Antônio Francisco",
+        "zipcode": "27115-056"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Boa Sorte",
+        "street": "Rua Marina Leite Adelino",
+        "zipcode": "27150-305"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Doutor Leon Camille Legay",
+        "zipcode": "27115-005"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Sebastião Alves",
+        "zipcode": "27150-005"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Arthur Cataldi",
+        "zipcode": "27135-345"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Areal",
+        "street": "Rua Olavo Samuel",
+        "zipcode": "27150-155"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Doutor Luenir Zimmermann (Res. Nova Barra)",
+        "zipcode": "27115-055"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Norival Garcia da Silva (Res. Nova Barra)",
+        "zipcode": "27115-054"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Campo Bom",
+        "street": "Estrada Vargem Alegre",
+        "zipcode": "27110-010"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Represa",
+        "street": "Travessa Avelino Coelho da Silva",
+        "zipcode": "27135-153"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Nylta Britto de Carvalho (Res. Nova Barra)",
+        "zipcode": "27115-051"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Henrique Antônio Nora Oliveira Lima",
+        "zipcode": "27123-175"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Química",
+        "street": "Rua Vereador Hamilton Baltazar da Nóbrega",
+        "zipcode": "27130-135"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Caixa DÁgua Velha",
+        "street": "Servidão Raimundo de Souza",
+        "zipcode": "27135-223"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua das Palmeiras",
+        "zipcode": "27120-337"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Oficinas Velhas",
+        "street": "Rua Projetada A",
+        "zipcode": "27110-153"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Morro do Gama",
+        "street": "Rua Quatro",
+        "zipcode": "27150-377"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santana da Barra",
+        "street": "Rua Basílio Januário",
+        "zipcode": "27143-227"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua dos Pinheiros",
+        "zipcode": "27120-365"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Doutor Mesquita",
+        "street": "Rua Viriato Lopes",
+        "zipcode": "27113-565"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Área Rural de Barra do Piraí",
+        "street": "Área Rural",
+        "zipcode": "27150-899"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "São Luís",
+        "street": "Rua Dom Manuel Vicente dos Santos",
+        "zipcode": "27120-580"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Santo Antônio",
+        "street": "Servidão Jorge Brás dos Santos",
+        "zipcode": "27115-405"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Arthur Catalddi",
+        "street": "Estrada Fazenda Ribeirão de Ubá",
+        "zipcode": "27115-175"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua Acácias (Vle Ipiranga)",
+        "zipcode": "27120-367"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Vale do Ipiranga",
+        "street": "Rua Bromélias",
+        "zipcode": "27120-335"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Matadouro",
+        "street": "Rua Emor Alves de Oliveira Filho (Res. Nova Barra)",
+        "zipcode": "27115-052"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Beco Manoel Coelho",
+        "zipcode": "27135-482"
+    },
+    {
+        "city": "Barra do Piraí",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada Sítio São Sebastião",
+        "zipcode": "27115-990"
+    }
+]

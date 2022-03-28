@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Boa Esperança",
+        "state": "ES",
+        "district": "Quilômetro Vinte",
+        "street": "Estrada Principal s/n",
+        "zipcode": "29845-982"
+    },
+    {
+        "city": "Boa Esperança",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "29845-991"
+    },
+    {
+        "city": "Boa Esperança",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Presidente Costa e Silva",
+        "zipcode": "29848-990"
+    },
+    {
+        "city": "Boa Esperança",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29845-000"
+    },
+    {
+        "city": "Boa Esperança",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Senador Eurico Rezende 672  AC Boa Esperança",
+        "zipcode": "29845-970"
+    },
+    {
+        "city": "Boa Esperança",
+        "state": "ES",
+        "district": "Bela Vista",
+        "street": "Estrada Principal s/n",
+        "zipcode": "29845-980"
+    }
+]

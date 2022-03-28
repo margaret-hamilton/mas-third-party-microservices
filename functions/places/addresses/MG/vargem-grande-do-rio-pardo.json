@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Vargem Grande do Rio Pardo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua dos Esportes 63",
+        "zipcode": "39535-971"
+    },
+    {
+        "city": "Vargem Grande do Rio Pardo",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39535-000"
+    },
+    {
+        "city": "Vargem Grande do Rio Pardo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Gregória Brás 136",
+        "zipcode": "39535-972"
+    }
+]

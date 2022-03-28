@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Quiterianópolis",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Quitéria de Lima 28",
+        "zipcode": "63650-970"
+    },
+    {
+        "city": "Quiterianópolis",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "63650-000"
+    },
+    {
+        "city": "Quiterianópolis",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "63652-990"
+    },
+    {
+        "city": "Quiterianópolis",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "63650-976"
+    }
+]

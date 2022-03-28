@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Iporã",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Ary Barroso",
+        "zipcode": "87560-970"
+    },
+    {
+        "city": "Iporã",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Carvalho",
+        "zipcode": "87562-990"
+    },
+    {
+        "city": "Iporã",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87560-000"
+    },
+    {
+        "city": "Iporã",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Carlos de Carvalho",
+        "zipcode": "87562-970"
+    },
+    {
+        "city": "Iporã",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "87564-990"
+    }
+]

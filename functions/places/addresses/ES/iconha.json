@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Iconha",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Virgílio Silva 278",
+        "zipcode": "29280-970"
+    },
+    {
+        "city": "Iconha",
+        "state": "ES",
+        "district": null,
+        "street": "Estrada Iconha x Duas Barras",
+        "zipcode": "29283-990"
+    },
+    {
+        "city": "Iconha",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29280-000"
+    },
+    {
+        "city": "Iconha",
+        "state": "ES",
+        "district": "Bom Destino",
+        "street": "Estrada Bom Destino",
+        "zipcode": "29280-971"
+    }
+]

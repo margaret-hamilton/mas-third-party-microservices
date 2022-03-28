@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Conceição de Macabu",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada São Domingos",
+        "zipcode": "28740-990"
+    },
+    {
+        "city": "Conceição de Macabu",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28740-000"
+    },
+    {
+        "city": "Conceição de Macabu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Nossa Senhora da Conceição 114",
+        "zipcode": "28740-970"
+    },
+    {
+        "city": "Conceição de Macabu",
+        "state": "RJ",
+        "district": "Curato",
+        "street": "Praça do Curato de Santa Catarina s/n Quilômetro 20",
+        "zipcode": "28740-971"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Cafelândia",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Governador Moisés Lupion 780",
+        "zipcode": "85415-970"
+    },
+    {
+        "city": "Cafelândia",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85415-000"
+    },
+    {
+        "city": "Cafelândia",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Principal",
+        "zipcode": "85415-971"
+    },
+    {
+        "city": "Cafelândia",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Principal",
+        "zipcode": "85415-990"
+    }
+]

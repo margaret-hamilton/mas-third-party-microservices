@@ -1,0 +1,23 @@
+[
+    {
+        "city": "São José de Ubá",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua 15 de Novembro 286 Loja B",
+        "zipcode": "28455-970"
+    },
+    {
+        "city": "São José de Ubá",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28455-000"
+    },
+    {
+        "city": "São José de Ubá",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Campo Grande",
+        "zipcode": "28455-990"
+    }
+]

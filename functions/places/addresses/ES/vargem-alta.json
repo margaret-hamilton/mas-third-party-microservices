@@ -1,0 +1,58 @@
+[
+    {
+        "city": "Vargem Alta",
+        "state": "ES",
+        "district": "Poço Dantas",
+        "street": "Estrada Principal s/n",
+        "zipcode": "29295-985"
+    },
+    {
+        "city": "Vargem Alta",
+        "state": "ES",
+        "district": "Belém",
+        "street": "Avenida Principal s/n",
+        "zipcode": "29295-986"
+    },
+    {
+        "city": "Vargem Alta",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29295-000"
+    },
+    {
+        "city": "Vargem Alta",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Eugênio Fassarella",
+        "zipcode": "29296-990"
+    },
+    {
+        "city": "Vargem Alta",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Projetada",
+        "zipcode": "29299-990"
+    },
+    {
+        "city": "Vargem Alta",
+        "state": "ES",
+        "district": null,
+        "street": "Rodovia Caetano Vanini",
+        "zipcode": "29298-990"
+    },
+    {
+        "city": "Vargem Alta",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Augusta Altoé",
+        "zipcode": "29297-990"
+    },
+    {
+        "city": "Vargem Alta",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Paulino Francisco Moreira 142",
+        "zipcode": "29295-970"
+    }
+]

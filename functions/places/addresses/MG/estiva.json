@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Estiva",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Prefeito Gabriel Rosa 125",
+        "zipcode": "37542-970"
+    },
+    {
+        "city": "Estiva",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37542-000"
+    },
+    {
+        "city": "Estiva",
+        "state": "MG",
+        "district": "",
+        "street": "Praça da Matriz",
+        "zipcode": "37542-992"
+    },
+    {
+        "city": "Estiva",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Belizária Rosa s/n",
+        "zipcode": "37542-971"
+    },
+    {
+        "city": "Estiva",
+        "state": "MG",
+        "district": null,
+        "street": "Rua Messias C. Rezende s/n",
+        "zipcode": "37542-990"
+    }
+]

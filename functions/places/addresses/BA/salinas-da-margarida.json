@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Salinas da Margarida",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Travessa Lidio Pena 1",
+        "zipcode": "44450-970"
+    },
+    {
+        "city": "Salinas da Margarida",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44450-000"
+    },
+    {
+        "city": "Salinas da Margarida",
+        "state": "BA",
+        "district": "Encarnação",
+        "street": "Rua Treze de Maio s/n",
+        "zipcode": "44450-972"
+    },
+    {
+        "city": "Salinas da Margarida",
+        "state": "BA",
+        "district": null,
+        "street": "Rua da Cajazeira",
+        "zipcode": "44450-991"
+    },
+    {
+        "city": "Salinas da Margarida",
+        "state": "BA",
+        "district": null,
+        "street": "Praça do Cairu",
+        "zipcode": "44450-990"
+    }
+]

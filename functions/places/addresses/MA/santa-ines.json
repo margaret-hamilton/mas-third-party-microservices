@@ -1,0 +1,4377 @@
+[
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Avenida CP 01 (Res Colina Park)",
+        "zipcode": "65307-000"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua Vila Nova",
+        "zipcode": "65306-785"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua Piauí",
+        "zipcode": "65302-395"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Davi",
+        "street": "Rua São Francisco",
+        "zipcode": "65304-200"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 10 (Res Colina Park)",
+        "zipcode": "65307-135"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua da Mangueira",
+        "zipcode": "65304-044"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Comércio 414",
+        "zipcode": "65300-972"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 07 (Res Colina Park)",
+        "zipcode": "65307-035"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 20 (Res Colina Park)",
+        "zipcode": "65307-055"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 08",
+        "zipcode": "65304-444"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Avenida 02",
+        "zipcode": "65304-438"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 07",
+        "zipcode": "65304-450"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Travessa Goiânia",
+        "zipcode": "65306-425"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Piauí",
+        "zipcode": "65306-420"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua São Jorge",
+        "zipcode": "65304-149"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua do Pinho",
+        "zipcode": "65302-470"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 19 (Res Colina Park)",
+        "zipcode": "65307-050"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Sanhaçu",
+        "zipcode": "65302-663"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Olímpica",
+        "street": "Rua São João",
+        "zipcode": "65306-680"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 08",
+        "zipcode": "65302-170"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Pedro Alves Cabral",
+        "zipcode": "65304-650"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do MAC",
+        "zipcode": "65300-142"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Curió",
+        "zipcode": "65302-666"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua Carlos Drumond de Andrade",
+        "zipcode": "65302-555"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Presidente Médici",
+        "zipcode": "65306-265"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Avenida Piracanjuba",
+        "zipcode": "65306-185"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 09 (Res Colina Park)",
+        "zipcode": "65307-045"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Juscelino Kubistchek",
+        "zipcode": "65306-295"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 17",
+        "zipcode": "65304-351"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Olímpica",
+        "street": "Rua do Mirador",
+        "zipcode": "65306-650"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Núcleo CVRD",
+        "street": "Rua 04",
+        "zipcode": "65306-219"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Núcleo CVRD",
+        "street": "Rua 03",
+        "zipcode": "65306-216"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Área Rural de Santa Inês",
+        "street": "Área Rural",
+        "zipcode": "65309-899"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 12 (Res Colina Park)",
+        "zipcode": "65307-150"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 14 (Res Colina Park)",
+        "zipcode": "65307-145"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 11 (Res Colina Park)",
+        "zipcode": "65307-140"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 16 (Res Colina Park)",
+        "zipcode": "65307-130"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 18 (Res Colina Park)",
+        "zipcode": "65307-125"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 25 (Res Colina Park)",
+        "zipcode": "65307-110"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 26 (Res Colina Park)",
+        "zipcode": "65307-105"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 28 (Res Colina Park)",
+        "zipcode": "65307-095"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 23 (Res Colina Park)",
+        "zipcode": "65307-070"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 05 (Res Colina Park)",
+        "zipcode": "65307-025"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 04 (Res Colina Park)",
+        "zipcode": "65307-020"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 02 (Res Colina Park)",
+        "zipcode": "65307-010"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 01 (Res Colina Park)",
+        "zipcode": "65307-005"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua da Raposa 44",
+        "zipcode": "65300-970"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua da Raposa 44",
+        "zipcode": "65300-971"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": null,
+        "street": null,
+        "zipcode": "65300-000"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 15 (Res Colina Park)",
+        "zipcode": "65307-160"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 24 (Res Colina Park)",
+        "zipcode": "65307-115"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 27 (Res Colina Park)",
+        "zipcode": "65307-100"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 29 (Res Colina Park)",
+        "zipcode": "65307-090"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 30 (Res Colina Park)",
+        "zipcode": "65307-085"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 22 (Res Colina Park)",
+        "zipcode": "65307-065"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 21 (Res Colina Park)",
+        "zipcode": "65307-060"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 03 (Res Colina Park)",
+        "zipcode": "65307-015"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Beco do Eucalipto",
+        "zipcode": "65306-800"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua do Cemitério",
+        "zipcode": "65306-795"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Travessa Leal",
+        "zipcode": "65306-780"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua Catarino Pinheiro",
+        "zipcode": "65306-770"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua da Caixa DÁgua",
+        "zipcode": "65306-765"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Olímpica",
+        "street": "Rua Terezinha",
+        "zipcode": "65306-670"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Olímpica",
+        "street": "Rua Santiago",
+        "zipcode": "65306-660"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Olímpica",
+        "street": "Rua São Marcos",
+        "zipcode": "65306-655"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Catulo da Paixão Cearense",
+        "zipcode": "65306-615"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua São Jorge",
+        "zipcode": "65306-605"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Travessa Goiás",
+        "zipcode": "65306-595"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Hélio Viana",
+        "zipcode": "65306-590"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Paulo Ramos",
+        "zipcode": "65306-575"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Imperatriz",
+        "zipcode": "65306-570"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Núcleo CVRD",
+        "street": "Rua 06",
+        "zipcode": "65306-225"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua Leal",
+        "zipcode": "65306-775"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Olímpica",
+        "street": "Avenida Raimundo Leal",
+        "zipcode": "65306-685"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Olímpica",
+        "street": "Rua São Lucas",
+        "zipcode": "65306-675"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Alameda Carajás",
+        "zipcode": "65306-610"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Carolina",
+        "zipcode": "65306-585"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Avenida CP 02 (Res Colina Park)",
+        "zipcode": "65307-075"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Travessa Bom Pastor",
+        "zipcode": "65306-630"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Alamanda",
+        "zipcode": "65306-600"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Santa Helena",
+        "zipcode": "65306-555"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Piauí",
+        "zipcode": "65306-545"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65306-540"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "65306-515"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Vesceslau Brás",
+        "zipcode": "65306-505"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Travessa Santa Luzia",
+        "zipcode": "65306-560"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Delfino de Moraes",
+        "zipcode": "65306-520"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Evaristo da Veiga",
+        "zipcode": "65306-500"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Vital Brasil",
+        "zipcode": "65306-495"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua 21 de Setembro",
+        "zipcode": "65306-480"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Tiradentes",
+        "zipcode": "65306-450"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Henrique Dias",
+        "zipcode": "65306-440"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Travessa 24 de Julho",
+        "zipcode": "65306-435"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Juscelino Kubitschek",
+        "zipcode": "65306-510"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Santa Luzia",
+        "zipcode": "65306-465"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Hélio Viana",
+        "zipcode": "65306-455"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Travessa Novo Horizonte",
+        "zipcode": "65306-415"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65306-410"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua Roberto Marinho",
+        "zipcode": "65306-385"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Travessa Paulo Ramos",
+        "zipcode": "65306-380"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua Paulo Ramos",
+        "zipcode": "65306-375"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua Henrique Dias",
+        "zipcode": "65306-370"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua Gonçalves Dias",
+        "zipcode": "65306-360"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Travessa São João",
+        "zipcode": "65306-350"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua Frei Henrique",
+        "zipcode": "65306-345"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Travessa São José",
+        "zipcode": "65306-340"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "65306-335"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Goiás",
+        "zipcode": "65306-550"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Paulo Ramos",
+        "zipcode": "65306-445"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua José Bonifácio",
+        "zipcode": "65306-430"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Travessa Gonçalves Dias",
+        "zipcode": "65306-390"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua Tomé de Souza",
+        "zipcode": "65306-365"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua das Laranjeiras",
+        "zipcode": "65306-325"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua das Laranjeiras",
+        "zipcode": "65306-305"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua de Santana",
+        "zipcode": "65306-300"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Nunes Freire",
+        "zipcode": "65306-290"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua São José",
+        "zipcode": "65306-285"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Manaus",
+        "zipcode": "65306-280"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Frei Damião",
+        "zipcode": "65306-270"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Anjo da Guarda",
+        "zipcode": "65306-260"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Padre Cícero",
+        "zipcode": "65306-255"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Travessa Santa Filomena",
+        "zipcode": "65306-490"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Santa Cruz",
+        "zipcode": "65306-460"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "65306-330"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "65306-275"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Travessa São Pedro",
+        "zipcode": "65306-250"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "65306-245"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Núcleo CVRD",
+        "street": "Rua 02",
+        "zipcode": "65306-213"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Núcleo CVRD",
+        "street": "Rua 01",
+        "zipcode": "65306-210"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Sabbak",
+        "street": "Rua Paulo VI",
+        "zipcode": "65306-470"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "65306-180"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Rua José Bonifácio",
+        "zipcode": "65306-355"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 09",
+        "zipcode": "65304-447"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Militar",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65306-240"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "65306-170"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "65306-155"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Niterói",
+        "zipcode": "65306-150"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Natal",
+        "zipcode": "65306-130"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua João Pessoa",
+        "zipcode": "65306-125"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "65306-120"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Manaus",
+        "zipcode": "65306-145"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Aracaju",
+        "zipcode": "65306-135"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Travessa São Luís",
+        "zipcode": "65306-105"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Lateral Leste",
+        "zipcode": "65306-090"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Lateral Sul",
+        "zipcode": "65306-085"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Lateral Oeste",
+        "zipcode": "65306-080"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Lateral Norte",
+        "zipcode": "65306-075"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua São Luís",
+        "zipcode": "65306-070"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Amapá",
+        "zipcode": "65306-065"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua São Paulo",
+        "zipcode": "65306-060"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Avenida José Tomé",
+        "zipcode": "65306-045"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua 07",
+        "zipcode": "65306-035"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Salvador",
+        "zipcode": "65306-160"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Avenida Valdevino Cabral",
+        "zipcode": "65306-100"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Belém",
+        "zipcode": "65306-055"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua 06",
+        "zipcode": "65306-030"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua 04",
+        "zipcode": "65306-020"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua 01",
+        "zipcode": "65306-005"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65306-000"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Brasil",
+        "street": "Rua Pedro Ricardo",
+        "zipcode": "65304-840"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Brasil",
+        "street": "Rua 03",
+        "zipcode": "65304-835"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua da Cutia Pelada",
+        "zipcode": "65304-720"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Presidente Vargas",
+        "zipcode": "65304-715"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Fortaleza",
+        "zipcode": "65306-110"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua 03",
+        "zipcode": "65306-015"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Brasil",
+        "street": "Rua 02",
+        "zipcode": "65304-830"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Campos Sales",
+        "zipcode": "65304-710"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua São Jorge",
+        "zipcode": "65304-705"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua São Cristóvão",
+        "zipcode": "65304-675"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Estácio de Sá",
+        "zipcode": "65304-670"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Avenida Kennedy",
+        "zipcode": "65304-665"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "65304-660"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Santos Dumont",
+        "zipcode": "65304-655"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Travessa São Cristóvão",
+        "zipcode": "65304-645"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Hércules",
+        "zipcode": "65304-630"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Afrodite",
+        "zipcode": "65304-625"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Atenas",
+        "zipcode": "65304-620"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Avenida 04",
+        "zipcode": "65304-489"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Profeta Isaías",
+        "zipcode": "65304-700"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua do Piquizeiro",
+        "zipcode": "65304-690"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Rodrigues Marques",
+        "zipcode": "65304-640"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua Apolo",
+        "zipcode": "65304-615"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65304-610"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 15",
+        "zipcode": "65304-483"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Florianópolis",
+        "zipcode": "65306-050"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 13",
+        "zipcode": "65304-480"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 14",
+        "zipcode": "65304-477"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua 05",
+        "zipcode": "65306-025"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 28",
+        "zipcode": "65304-468"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 27",
+        "zipcode": "65304-462"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 24",
+        "zipcode": "65304-435"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 26",
+        "zipcode": "65304-432"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 25",
+        "zipcode": "65304-429"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Otávio Farias",
+        "zipcode": "65304-390"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 26",
+        "zipcode": "65304-387"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 24",
+        "zipcode": "65304-381"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 23",
+        "zipcode": "65304-375"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 22",
+        "zipcode": "65304-372"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 21",
+        "zipcode": "65304-366"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Pedro Tavares",
+        "zipcode": "65304-360"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 20",
+        "zipcode": "65304-357"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 30",
+        "zipcode": "65304-471"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 11",
+        "zipcode": "65304-459"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 10",
+        "zipcode": "65304-456"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 06",
+        "zipcode": "65304-441"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 23",
+        "zipcode": "65304-426"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 22",
+        "zipcode": "65304-423"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 25",
+        "zipcode": "65304-384"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 15",
+        "zipcode": "65304-342"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Tancredo Neves",
+        "zipcode": "65304-339"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 13",
+        "zipcode": "65304-330"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 12",
+        "zipcode": "65304-324"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 11",
+        "zipcode": "65304-321"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 10",
+        "zipcode": "65304-318"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Nogueira",
+        "zipcode": "65304-300"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Avenida 05",
+        "zipcode": "65304-420"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 16",
+        "zipcode": "65304-345"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Governador Cafeteira",
+        "zipcode": "65304-333"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Fernando Sarney",
+        "zipcode": "65304-327"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Manoel Farias",
+        "zipcode": "65304-306"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 08",
+        "zipcode": "65304-303"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 07",
+        "zipcode": "65304-297"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 06",
+        "zipcode": "65304-294"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 05",
+        "zipcode": "65304-291"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 04",
+        "zipcode": "65304-288"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 01",
+        "zipcode": "65304-279"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Maria Davi",
+        "zipcode": "65304-273"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Avenida Cabral",
+        "zipcode": "65304-270"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Cabral",
+        "street": "Rua da Cemar",
+        "zipcode": "65304-251"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Deusdete Pereira",
+        "zipcode": "65304-369"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 19",
+        "zipcode": "65304-363"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Lucilia Farias",
+        "zipcode": "65304-315"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 03",
+        "zipcode": "65304-285"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Cabral",
+        "street": "Rua 29 de Setembro",
+        "zipcode": "65304-245"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Cabral",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "65304-242"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Cabral",
+        "street": "Rua Boa Esperança",
+        "zipcode": "65304-236"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 29",
+        "zipcode": "65304-465"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 14",
+        "zipcode": "65304-336"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Cabral",
+        "street": "Rua Boa Vista",
+        "zipcode": "65304-239"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 02",
+        "zipcode": "65304-282"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Davi",
+        "street": "Rua Santo Antônio",
+        "zipcode": "65304-195"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Airton Júnior",
+        "zipcode": "65304-173"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Ipiranga",
+        "zipcode": "65304-167"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Travessa São Raimundo",
+        "zipcode": "65304-161"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua 1º de Setembro",
+        "zipcode": "65304-158"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua São Raimundo",
+        "zipcode": "65304-155"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Tupinambá",
+        "zipcode": "65304-152"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua São Luís",
+        "zipcode": "65304-164"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Travessa Andorinha",
+        "zipcode": "65304-146"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua do Bambu",
+        "zipcode": "65304-140"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Duarte da Costa",
+        "zipcode": "65304-134"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Afonso Pena",
+        "zipcode": "65304-131"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Travessa Bom Jesus",
+        "zipcode": "65304-128"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua da Floresta",
+        "zipcode": "65304-125"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Mem de Sá",
+        "zipcode": "65304-116"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "65304-113"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65304-110"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Bom Jesus",
+        "zipcode": "65304-088"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Alan Pimentel",
+        "zipcode": "65304-170"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Maranhão",
+        "zipcode": "65304-137"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65304-092"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "65304-084"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Travessa Jaime Sousa",
+        "zipcode": "65304-080"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Olho DÁgua",
+        "zipcode": "65304-076"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua da Floresta",
+        "zipcode": "65304-072"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Nova Brasília",
+        "zipcode": "65304-068"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Travessa Santa Inês",
+        "zipcode": "65304-064"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua da Palmeira",
+        "zipcode": "65304-060"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua do Carmo",
+        "zipcode": "65304-056"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Gomes de Castro",
+        "zipcode": "65304-040"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua do Fio",
+        "zipcode": "65304-032"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Doutora Janielly (Res Dona Zima)",
+        "zipcode": "65304-024"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Cabral",
+        "street": "Rua do Campo",
+        "zipcode": "65304-233"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua Olho DÁgua",
+        "zipcode": "65304-119"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Travessa Bom Jesus",
+        "zipcode": "65304-048"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Doutora Silvana (Res Dona Zima)",
+        "zipcode": "65304-020"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Elizeu Albuquerque (Res Dona Zima)",
+        "zipcode": "65304-016"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Travessa do Bambu",
+        "zipcode": "65304-004"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua do Bambu",
+        "zipcode": "65304-000"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua L",
+        "zipcode": "65303-030"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua G",
+        "zipcode": "65303-018"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua D",
+        "zipcode": "65303-009"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua B",
+        "zipcode": "65303-003"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua A",
+        "zipcode": "65303-000"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Davi",
+        "street": "Rua Subestação da Cemar",
+        "zipcode": "65304-190"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua da Alegria",
+        "zipcode": "65304-028"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "Rua Dona Diná (Res Dona Zima)",
+        "zipcode": "65304-012"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Palmeira",
+        "street": "2ª Travessa do Bambu",
+        "zipcode": "65304-008"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua E",
+        "zipcode": "65303-012"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua Primeiro de Março",
+        "zipcode": "65302-870"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 11",
+        "zipcode": "65302-860"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 07",
+        "zipcode": "65302-855"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 02",
+        "zipcode": "65302-845"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 01",
+        "zipcode": "65302-840"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua Santa Luzia",
+        "zipcode": "65302-825"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 12",
+        "zipcode": "65302-820"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 08",
+        "zipcode": "65302-805"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 06",
+        "zipcode": "65302-800"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua 06",
+        "zipcode": "65302-785"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Avenida Joacy Farias",
+        "zipcode": "65302-835"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 10",
+        "zipcode": "65302-815"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 04",
+        "zipcode": "65302-790"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua 05",
+        "zipcode": "65302-770"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua 01",
+        "zipcode": "65302-750"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Falcão",
+        "zipcode": "65302-720"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Avenida Patativa",
+        "zipcode": "65302-717"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Sabiá",
+        "zipcode": "65302-714"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Beija Flor",
+        "zipcode": "65302-702"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Graúna",
+        "zipcode": "65302-699"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Avenida Juriti",
+        "zipcode": "65302-693"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Azulão",
+        "zipcode": "65302-687"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua Nossa Senhora da Vitória",
+        "zipcode": "65302-775"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua 04",
+        "zipcode": "65302-765"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua 03",
+        "zipcode": "65302-760"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua 02",
+        "zipcode": "65302-755"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua João de Barro",
+        "zipcode": "65302-711"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Arara",
+        "zipcode": "65302-705"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua da Floresta",
+        "zipcode": "65302-684"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Travessa Bom Jesus",
+        "zipcode": "65302-681"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Avenida Cardeal",
+        "zipcode": "65302-672"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Pituã",
+        "zipcode": "65302-669"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Avenida Brasil",
+        "zipcode": "65302-660"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua Santa Maria",
+        "zipcode": "65302-610"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua do Campo",
+        "zipcode": "65302-605"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "65302-595"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua Campos Sales",
+        "zipcode": "65302-590"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Avenida Brasil",
+        "zipcode": "65302-585"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua Manuel Garrincha",
+        "zipcode": "65302-580"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua João Pessoa",
+        "zipcode": "65302-570"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Travessa Getúlio Vargas",
+        "zipcode": "65302-560"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua Alegria",
+        "zipcode": "65302-545"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua São Francisco",
+        "zipcode": "65302-540"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua das Flores",
+        "zipcode": "65302-510"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua das Paparaúbas",
+        "zipcode": "65302-505"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua da Ingá",
+        "zipcode": "65302-500"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua da Embaúba",
+        "zipcode": "65302-490"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua Jatobá",
+        "zipcode": "65302-485"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Juriti",
+        "zipcode": "65302-696"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Travessa do Campo",
+        "zipcode": "65302-615"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua Santo Antonio",
+        "zipcode": "65302-565"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua do Milho",
+        "zipcode": "65302-495"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua do Eucalipto",
+        "zipcode": "65302-465"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua Maçaranduba",
+        "zipcode": "65302-455"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Travessa Canário",
+        "zipcode": "65302-690"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Travessa Brasil",
+        "zipcode": "65302-600"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua do Cedro",
+        "zipcode": "65302-460"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Céu",
+        "street": "Rua Ceará",
+        "zipcode": "65302-430"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Céu",
+        "street": "Rua Colares Moreira",
+        "zipcode": "65302-425"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Céu",
+        "street": "Rua Pará",
+        "zipcode": "65302-420"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Céu",
+        "street": "Rua Maranhão",
+        "zipcode": "65302-415"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Céu",
+        "street": "Avenida Muniz",
+        "zipcode": "65302-410"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua Colares Moreira",
+        "zipcode": "65302-390"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua Graça Aranha",
+        "zipcode": "65302-380"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "65302-375"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua Coelho Neto",
+        "zipcode": "65302-365"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua São João",
+        "zipcode": "65302-355"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua Moraes Rego",
+        "zipcode": "65302-350"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua do Mercado Municipal",
+        "zipcode": "65302-345"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua da Mangueira",
+        "zipcode": "65302-335"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua da Bacabeira",
+        "zipcode": "65302-330"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Parente",
+        "street": "Rua da Chácara",
+        "zipcode": "65302-290"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Parente",
+        "street": "Rua da Alameda",
+        "zipcode": "65302-280"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Parente",
+        "street": "Rua Davi",
+        "zipcode": "65302-265"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Parente",
+        "street": "Rua do Campo",
+        "zipcode": "65302-260"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Travessa Juarez Távora",
+        "zipcode": "65302-385"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Travessa São João",
+        "zipcode": "65302-360"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Rua da Capoeira",
+        "zipcode": "65302-340"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Ceplac",
+        "street": "Alameda Telbloma",
+        "zipcode": "65302-240"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Ceplac",
+        "street": "Rua da Liberdade",
+        "zipcode": "65302-230"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 15",
+        "zipcode": "65302-205"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 14",
+        "zipcode": "65302-200"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 13",
+        "zipcode": "65302-195"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 09",
+        "zipcode": "65302-175"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 03",
+        "zipcode": "65302-145"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 01",
+        "zipcode": "65302-135"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua 12",
+        "zipcode": "65302-110"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua 29 de Julho",
+        "zipcode": "65302-090"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Parente",
+        "street": "Rua Dois Irmãos",
+        "zipcode": "65302-270"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 11",
+        "zipcode": "65302-185"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 02",
+        "zipcode": "65302-140"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Esperança",
+        "zipcode": "65302-105"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Nova",
+        "zipcode": "65302-080"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa Nova",
+        "zipcode": "65302-075"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Doutor Bringel",
+        "zipcode": "65302-065"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Jonas Catarino",
+        "zipcode": "65302-045"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Redenção",
+        "zipcode": "65302-030"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa São José",
+        "zipcode": "65302-025"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa Dois Irmãos",
+        "zipcode": "65302-015"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 12",
+        "zipcode": "65302-190"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa 29 de Julho",
+        "zipcode": "65302-085"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa Abraão Barros",
+        "zipcode": "65302-070"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Nova Esperança",
+        "zipcode": "65302-060"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa Esperança",
+        "zipcode": "65302-055"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Avenida Luís Barros Elouf",
+        "zipcode": "65302-040"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa Edmilson Gonçalves",
+        "zipcode": "65302-035"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua do Aeroporto",
+        "zipcode": "65302-010"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa do Aeroporto",
+        "zipcode": "65302-005"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Doutor Edmilson Gonçalves",
+        "zipcode": "65302-095"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Primavera",
+        "zipcode": "65302-050"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "65301-072"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Olho DÁgua",
+        "zipcode": "65301-064"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Paraná",
+        "zipcode": "65301-060"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua São Paulo",
+        "zipcode": "65301-056"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "65301-052"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Avenida Brasília",
+        "zipcode": "65301-048"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Espírito Santo",
+        "zipcode": "65301-044"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Pernambuco",
+        "zipcode": "65301-036"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Ceará",
+        "zipcode": "65301-032"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Santa Catarina",
+        "zipcode": "65301-068"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Bahia",
+        "zipcode": "65301-040"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Pará",
+        "zipcode": "65301-028"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua das Cajazeiras",
+        "zipcode": "65301-004"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Tropical",
+        "street": "Rua 24 de Agosto",
+        "zipcode": "65300-880"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Tropical",
+        "street": "Rua Ouro Preto",
+        "zipcode": "65300-875"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Tropical",
+        "street": "Rua 06 de Agosto",
+        "zipcode": "65300-865"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Tropical",
+        "street": "Rua Presidente Figueiredo",
+        "zipcode": "65300-860"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Tropical",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "65300-855"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Travessa Castelo Branco (Jd Magnólia)",
+        "zipcode": "65300-785"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Rua Antonio Carlos Bringel (Jd Magnólia)",
+        "zipcode": "65300-780"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Rua Olho DÁgua (Jd Magnólia)",
+        "zipcode": "65300-775"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Amazonas",
+        "zipcode": "65301-024"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Rio Grande do Norte",
+        "zipcode": "65301-020"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Sergipe",
+        "zipcode": "65301-016"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Alagoas",
+        "zipcode": "65301-012"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Rua Mato Grosso",
+        "zipcode": "65301-000"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Tropical",
+        "street": "Rua Henrique Dias",
+        "zipcode": "65300-870"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Rua Santos Dumont (Jd Magnólia)",
+        "zipcode": "65300-770"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Rua São João (Jd Magnólia)",
+        "zipcode": "65300-765"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Travessa dos Imigrantes (Jd Magnólia)",
+        "zipcode": "65300-750"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Travessa Juarez Távora (Jd Magnólia)",
+        "zipcode": "65300-745"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Travessa José Américo de Almeida (Jd Magnólia)",
+        "zipcode": "65300-740"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Avenida Balbino Rolim",
+        "zipcode": "65300-730"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua Candido Mendes",
+        "zipcode": "65300-700"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "65300-695"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Tropical",
+        "street": "Rua das Cajazeiras",
+        "zipcode": "65300-885"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Tropical",
+        "street": "Rua Bartolomeu Bueno",
+        "zipcode": "65300-850"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Travessa Padre Rolim (Jd Magnólia)",
+        "zipcode": "65300-755"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Travessa Outeiro da Cruz (Jd Magnólia)",
+        "zipcode": "65300-735"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua General Dutra",
+        "zipcode": "65300-690"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "65300-680"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua da Conquista",
+        "zipcode": "65300-675"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua da Paz",
+        "zipcode": "65300-665"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua José Ferreira Sobrinho",
+        "zipcode": "65300-655"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua Cruzeiro do Sul",
+        "zipcode": "65300-645"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65300-640"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Travessa Vieira da Silva",
+        "zipcode": "65300-607"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua Boa Vista",
+        "zipcode": "65300-670"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua Três Irmãos",
+        "zipcode": "65300-660"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua 28 de Novembro",
+        "zipcode": "65300-650"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Avenida Balbino Rolim",
+        "zipcode": "65300-610"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Três Corações",
+        "zipcode": "65300-601"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Bandeira Tribuzzi",
+        "zipcode": "65300-595"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua dos Operários",
+        "zipcode": "65300-592"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "65300-589"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua General Dutra",
+        "zipcode": "65300-586"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Santa Luzia",
+        "zipcode": "65300-580"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua 05 de Abril",
+        "zipcode": "65300-577"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Custódio de Melo",
+        "zipcode": "65300-574"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "65300-568"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "65300-562"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua 31 de Março",
+        "zipcode": "65300-559"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Pedro Teixeira",
+        "zipcode": "65300-556"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65300-550"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Tenente Monteiro",
+        "zipcode": "65300-571"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Rua 28 de Novembro",
+        "zipcode": "65300-519"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Rua São Luís",
+        "zipcode": "65300-516"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Travessa São Luís",
+        "zipcode": "65300-513"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "65300-510"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Rua dos Operários",
+        "zipcode": "65300-504"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Rua Castro Alves",
+        "zipcode": "65300-501"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Travessa Castro Alves",
+        "zipcode": "65300-498"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "65300-492"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Travessa Newton Bello",
+        "zipcode": "65300-489"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Travessa Duque de Caxias",
+        "zipcode": "65300-486"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Travessa São Francisco",
+        "zipcode": "65300-420"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua da Paz",
+        "zipcode": "65300-415"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Travessa São Raimundo",
+        "zipcode": "65300-410"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua Raimundo Pinheiro",
+        "zipcode": "65300-400"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "65300-583"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua 28 de Novembro",
+        "zipcode": "65300-553"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "65300-507"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Nova Santa Inês",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65300-480"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua Humberto de Campos",
+        "zipcode": "65300-395"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Travessa das Lavandeiras",
+        "zipcode": "65300-390"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua das Lavandeiras",
+        "zipcode": "65300-385"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua José Rochael",
+        "zipcode": "65300-375"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua Roberto Santos",
+        "zipcode": "65300-370"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua da Serraria",
+        "zipcode": "65300-365"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Travessa da Serraria",
+        "zipcode": "65300-360"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua do Buriti",
+        "zipcode": "65300-355"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Travessa São Domingos",
+        "zipcode": "65300-340"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua São Domingos",
+        "zipcode": "65300-335"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua 15 de Novembro",
+        "zipcode": "65300-330"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua São Benedito",
+        "zipcode": "65300-320"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua Joaquim Leal",
+        "zipcode": "65300-280"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua José Ferreira",
+        "zipcode": "65300-275"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua Tolentino Aranha",
+        "zipcode": "65300-265"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua do Passeio",
+        "zipcode": "65300-260"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua José Abreu de Castro",
+        "zipcode": "65300-285"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua 14 de Março",
+        "zipcode": "65300-250"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "65300-290"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua Geraldo Catingueiro",
+        "zipcode": "65300-255"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Barreirinha",
+        "street": "Travessa da Petrobrás",
+        "zipcode": "65300-219"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Barreirinha",
+        "street": "Rua da Petrobrás",
+        "zipcode": "65300-216"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Barreirinha",
+        "street": "Rua 15 de Novembro",
+        "zipcode": "65300-213"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Barreirinha",
+        "street": "Rua do Cajueiro",
+        "zipcode": "65300-210"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Inês Galvão",
+        "zipcode": "65300-139"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Cordeiro",
+        "zipcode": "65300-136"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua Santa Inês",
+        "zipcode": "65300-240"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Botafogo",
+        "zipcode": "65300-148"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Cajueiro",
+        "zipcode": "65300-133"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua 07 de Setembro",
+        "zipcode": "65300-130"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua 02",
+        "zipcode": "65300-118"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Luiz Muniz",
+        "zipcode": "65300-115"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Governador Sarney",
+        "zipcode": "65300-112"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Wady Hadad",
+        "zipcode": "65300-109"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua 21 de Abril",
+        "zipcode": "65300-106"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua da Paz",
+        "zipcode": "65300-103"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Vila Nazaré",
+        "zipcode": "65300-091"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Milho",
+        "zipcode": "65300-085"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Beco do Cajueiro",
+        "zipcode": "65300-082"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua das Cajazeiras",
+        "zipcode": "65300-127"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua 01",
+        "zipcode": "65300-121"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua das Flores",
+        "zipcode": "65300-097"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua da Raposa",
+        "zipcode": "65300-088"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Travessa do Bambu",
+        "zipcode": "65300-073"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Praça da Saudade",
+        "zipcode": "65300-070"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Nova",
+        "zipcode": "65300-067"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Santo Antonio",
+        "zipcode": "65300-064"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Sol",
+        "zipcode": "65300-061"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Travessa São Pedro",
+        "zipcode": "65300-058"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua da Palma",
+        "zipcode": "65300-055"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua da Estrela",
+        "zipcode": "65300-100"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Carmo",
+        "zipcode": "65300-049"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "65300-043"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Comércio",
+        "zipcode": "65300-046"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Travessa do Mercado Central",
+        "zipcode": "65300-040"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "65300-037"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Mercado Central",
+        "zipcode": "65300-034"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Travessa do Peixe",
+        "zipcode": "65300-031"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "65300-025"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Santa Rita",
+        "zipcode": "65300-022"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua 21de Agosto",
+        "zipcode": "65300-019"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Governador Sarney",
+        "zipcode": "65300-016"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Costa e Silva",
+        "zipcode": "65300-007"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua da Pedra Branca",
+        "zipcode": "65300-004"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65300-001"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Castelo Branco",
+        "zipcode": "65300-010"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua São Francisco",
+        "zipcode": "65300-013"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Travessa Dom Pedro II",
+        "zipcode": "65300-052"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Caminho do Mirador",
+        "zipcode": "65306-620"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Céu",
+        "street": "Rua Rio Grande do Norte",
+        "zipcode": "65302-435"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 08 (Res Colina Park)",
+        "zipcode": "65307-040"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 18",
+        "zipcode": "65304-354"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua H",
+        "zipcode": "65303-021"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Núcleo CVRD",
+        "street": "Rua 05",
+        "zipcode": "65306-222"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 13 (Res Colina Park)",
+        "zipcode": "65307-155"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 17 (Res Colina Park)",
+        "zipcode": "65307-120"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 06 (Res Colina Park)",
+        "zipcode": "65307-030"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua I",
+        "zipcode": "65303-024"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Rua CP 31 (Res Colina Park)",
+        "zipcode": "65307-080"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santa Filomena",
+        "street": "Travessa Vila Nova",
+        "zipcode": "65306-790"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Olímpica",
+        "street": "Rua São Paulo",
+        "zipcode": "65306-665"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua São João",
+        "zipcode": "65306-580"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Rua Henrique Dias",
+        "zipcode": "65306-565"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Pramorar",
+        "street": "Travessa das Nações",
+        "zipcode": "65306-625"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canecão",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "65306-320"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua São José",
+        "zipcode": "65306-175"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Porto Alegre",
+        "zipcode": "65306-165"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Recife",
+        "zipcode": "65306-140"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Frei Damião",
+        "zipcode": "65306-115"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua Anjo da Guarda",
+        "zipcode": "65306-040"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Nova Era",
+        "street": "Rua 02",
+        "zipcode": "65306-010"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Brasil",
+        "street": "Rua José Diniz",
+        "zipcode": "65304-820"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rodovia BR",
+        "zipcode": "65304-770"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Rua São Francisco",
+        "zipcode": "65304-695"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Rua 12",
+        "zipcode": "65304-474"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHAB",
+        "street": "Avenida 01",
+        "zipcode": "65304-453"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Cristóvão",
+        "street": "Avenida Valdevino Cabral",
+        "zipcode": "65304-680"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Isabel Cafeteira",
+        "zipcode": "65304-348"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Rua Marina Brito",
+        "zipcode": "65304-378"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Marcony",
+        "street": "Travessa 09",
+        "zipcode": "65304-309"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua J",
+        "zipcode": "65303-027"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Cabral",
+        "street": "Rua São Jorge",
+        "zipcode": "65304-230"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Cabral",
+        "street": "Rua 03 de Outubro",
+        "zipcode": "65304-248"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "COHEB",
+        "street": "Rua José de Alencar",
+        "zipcode": "65304-122"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua F",
+        "zipcode": "65303-015"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Avenida Izaías Castelo Branco",
+        "zipcode": "65302-865"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 03",
+        "zipcode": "65302-850"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua Valdevino Cabral Filho",
+        "zipcode": "65302-830"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 05",
+        "zipcode": "65302-795"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Residencial Sol Nascente",
+        "street": "Rua C",
+        "zipcode": "65303-006"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Rua São Jorge",
+        "zipcode": "65302-780"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Currupião",
+        "zipcode": "65302-708"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Conceição",
+        "street": "Travessa 09",
+        "zipcode": "65302-810"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua Andorinha",
+        "zipcode": "65302-723"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Travessa Sabiá",
+        "zipcode": "65302-675"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Parque Santa Cruz",
+        "street": "Rua do Carmo",
+        "zipcode": "65302-678"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mutirão",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "65302-575"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua das Margaridas",
+        "zipcode": "65302-515"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua Pau Brasil",
+        "zipcode": "65302-480"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua Jenipapo",
+        "zipcode": "65302-475"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua do Angelim",
+        "zipcode": "65302-450"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Parente",
+        "street": "Travessa Alameda",
+        "zipcode": "65302-275"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Ceplac",
+        "street": "Travessa Fruto de Ouro",
+        "zipcode": "65302-235"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Abreu",
+        "street": "Rua 10",
+        "zipcode": "65302-180"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Travessa Luís Barros Elouf",
+        "zipcode": "65302-100"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Moraes Rego",
+        "zipcode": "65302-020"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Aeroporto",
+        "street": "Rua Primeiro de Maio",
+        "zipcode": "65302-000"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Mercado Municipal",
+        "street": "Travessa Muniz",
+        "zipcode": "65302-370"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Jardim Brasília",
+        "street": "Avenida Goiás",
+        "zipcode": "65301-008"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Rua Juazeiro do Norte (Jd Magnólia)",
+        "zipcode": "65300-790"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Adelaide Cabral",
+        "street": "Rua Ipaumirim (Jd Magnólia)",
+        "zipcode": "65300-760"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Travessa Tenente Monteiro",
+        "zipcode": "65300-604"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Santo Antônio",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "65300-565"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua São Raimundo",
+        "zipcode": "65300-405"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Canaã",
+        "street": "Rua Cristo Rei",
+        "zipcode": "65300-685"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua Benedito Moura",
+        "zipcode": "65300-380"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "65300-350"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "São Benedito",
+        "street": "Travessa 15 de Novembro",
+        "zipcode": "65300-325"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Vila Edmundo Rios",
+        "street": "Rua José Barbosa",
+        "zipcode": "65300-245"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Barreirinha",
+        "street": "Rua da Barreirinha",
+        "zipcode": "65300-222"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua do Flamengo",
+        "zipcode": "65300-124"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua das Marias",
+        "zipcode": "65300-076"
+    },
+    {
+        "city": "Santa Inês",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Travessa Santa Rita",
+        "zipcode": "65300-028"
+    }
+]

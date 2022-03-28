@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Canguçu",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Júlio de Castilhos 1360",
+        "zipcode": "96600-970"
+    },
+    {
+        "city": "Canguçu",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "96600-000"
+    },
+    {
+        "city": "Canguçu",
+        "state": "RS",
+        "district": null,
+        "street": "Rua João Goulart",
+        "zipcode": "96600-990"
+    }
+]

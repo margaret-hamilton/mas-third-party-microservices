@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pedra do Indaiá",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Nova 01 Loja A",
+        "zipcode": "35565-970"
+    },
+    {
+        "city": "Pedra do Indaiá",
+        "state": "MG",
+        "district": null,
+        "street": "Rua Um",
+        "zipcode": "35565-990"
+    },
+    {
+        "city": "Pedra do Indaiá",
+        "state": "MG",
+        "district": null,
+        "street": "Rua Um",
+        "zipcode": "35565-991"
+    },
+    {
+        "city": "Pedra do Indaiá",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35565-000"
+    }
+]

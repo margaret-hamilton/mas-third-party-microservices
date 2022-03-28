@@ -1,0 +1,7408 @@
+[
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Biu da Coroa",
+        "zipcode": "58701-083"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim California",
+        "street": "Rua Joao Soares",
+        "zipcode": "58700-310"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Violonista Antonio Moreno",
+        "zipcode": "58705-230"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua João César Sobrinho",
+        "zipcode": "58707-108"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua José Urquiza Carneiro",
+        "zipcode": "58706-200"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Wilson Dias Novo",
+        "zipcode": "58703-435"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Largo do Mercado Central",
+        "zipcode": "58700-124"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Violonista Antônio Moreno",
+        "zipcode": "58705-140"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua José Rodrigues da Silva Neto",
+        "zipcode": "58705-035"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Luiz Lindermam de Queiroz",
+        "zipcode": "58706-044"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Antônio Ferreira dos Santos",
+        "zipcode": "58705-540"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua João Baldoino dos Santos",
+        "zipcode": "58703-636"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rodovia BR",
+        "zipcode": "58706-218"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Horácio Nóbrega",
+        "zipcode": "58705-077"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Manoel Gomes de Lima",
+        "zipcode": "58700-430"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Severino Oliveira Braz",
+        "zipcode": "58701-504"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Dona Estelina Oliveira Andrade",
+        "zipcode": "58704-608"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Bancário Jarbas Moura da Costa",
+        "zipcode": "58704-365"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua José Francisco da Silva",
+        "zipcode": "58706-382"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Frei João Machado",
+        "zipcode": "58700-600"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Olivan Queiroz",
+        "zipcode": "58704-555"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Godofredo Cunha Medeiros",
+        "zipcode": "58700-315"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Eliane Marinho dos Santos Lopes",
+        "zipcode": "58705-203"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Manoel Antônio Filho (Lot Jd Espanha)",
+        "zipcode": "58701-883"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador José Geraldo Dinoá Medeiros",
+        "zipcode": "58703-434"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Antônio Clementino da Nóbrega",
+        "zipcode": "58704-757"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Otacílio Monteiro",
+        "zipcode": "58706-416"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Nego",
+        "zipcode": "58701-012"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Júlio Crispim Perônico",
+        "zipcode": "58703-626"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Eronildo Inácio Costa",
+        "zipcode": "58706-384"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Adalberto Bernardo Nunes",
+        "zipcode": "58704-606"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Professora Maria de Fátima Lacerda Ramalho",
+        "zipcode": "58705-204"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Inácio Ferreira de Lucena",
+        "zipcode": "58706-600"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Walter Carvalho",
+        "zipcode": "58703-269"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Laurindo Nunes Perinico",
+        "zipcode": "58704-325"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Oliveira Ledo",
+        "zipcode": "58700-150"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Lorraine Mikaely Azevedo de Araújo",
+        "zipcode": "58703-656"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Domingos Lugo",
+        "zipcode": "58700-313"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Petrônio Lucena Barbosa",
+        "zipcode": "58701-808"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Pai Levino",
+        "zipcode": "58706-028"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Artemiza Cirilo",
+        "zipcode": "58701-389"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Carmelita Braga",
+        "zipcode": "58704-718"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador José Marcone de Andrade",
+        "zipcode": "58703-433"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Francisco Filgueiras de Assis",
+        "zipcode": "58704-720"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Maria das Chagas Candeias Pereira",
+        "zipcode": "58706-610"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa João Mariano de Oliveira",
+        "zipcode": "58706-215"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Felizardo Leite",
+        "zipcode": "58700-030"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Goiás",
+        "zipcode": "58705-801"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Paulo Mendes",
+        "zipcode": "58700-240"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Nezinho Leandro",
+        "zipcode": "58703-254"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Rondônia",
+        "zipcode": "58705-834"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Santa Catarina",
+        "zipcode": "58705-797"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Tocantins",
+        "zipcode": "58705-796"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Beltrando de Azevedo",
+        "zipcode": "58704-035"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Rebeca Jerônimo Brasileiro dos Passos",
+        "zipcode": "58703-744"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Amapá",
+        "zipcode": "58705-828"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Piauí",
+        "zipcode": "58705-825"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Rio Grande do Norte",
+        "zipcode": "58705-823"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "58705-815"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Thiago Torres Costa",
+        "zipcode": "58703-627"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Aparecida",
+        "zipcode": "58708-270"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Roraima",
+        "zipcode": "58705-811"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Sergipe",
+        "zipcode": "58705-810"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Avenida Paraíba",
+        "zipcode": "58705-820"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Antônio Caboclo",
+        "zipcode": "58703-244"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Dino Guedes",
+        "zipcode": "58707-390"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Distrito Industrial",
+        "street": "Rua Carreiro",
+        "zipcode": "58705-750"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Antônio Moisés Amorim",
+        "zipcode": "58707-435"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Frei João Machado",
+        "zipcode": "58701-082"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Francisco Nunes Perônico",
+        "zipcode": "58703-716"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Daniel César da Rocha Alves",
+        "zipcode": "58703-720"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Dona Maria Ceci Vilar",
+        "zipcode": "58704-478"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Presidente Epitácio Pessoa",
+        "zipcode": "58700-020"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Presidente Epitácio Pessoa",
+        "zipcode": "58700-972"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Sargento Eme Cavalcante",
+        "zipcode": "58704-658"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Sargento Lourival Diniz",
+        "zipcode": "58706-323"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Sargento Everaldo",
+        "zipcode": "58704-415"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Presidente João Pessoa",
+        "zipcode": "58700-590"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "58700-605"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Ana Raquel Barreto Alves",
+        "zipcode": "58703-663"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua José Aldefran da Costa Brito",
+        "zipcode": "58703-670"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Padre Acácio Cartaxo Rolim",
+        "zipcode": "58703-700"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Janete de Sousa Emiliano",
+        "zipcode": "58703-714"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua José Borges dos Santos",
+        "zipcode": "58703-718"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Emily Toscano Freire",
+        "zipcode": "58703-721"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Alan Wanderley Mariano e Silva",
+        "zipcode": "58703-741"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "58704-038"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Antônio Macedo",
+        "zipcode": "58704-050"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua da Palmeira",
+        "zipcode": "58704-070"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Joacil Martins Pereira",
+        "zipcode": "58703-742"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Aldman Leitão de Araújo",
+        "zipcode": "58703-743"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Maria Alves Vilar",
+        "zipcode": "58707-125"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Espírito Santo",
+        "zipcode": "58705-795"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Bahia",
+        "zipcode": "58705-794"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Antônio Trindade de Figueiredo",
+        "zipcode": "58704-714"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Virgílio Trindade Monteiro",
+        "zipcode": "58703-420"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua João Gomes",
+        "zipcode": "58705-080"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua João da Cruz",
+        "zipcode": "58704-772"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Prefeito Oscar Torres",
+        "zipcode": "58703-050"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Prefeito Oscar Torres",
+        "zipcode": "58701-140"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua São José",
+        "zipcode": "58701-315"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Dom Fernando Gomes",
+        "zipcode": "58703-382"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Clóvis Sátyro de Souza",
+        "zipcode": "58703-390"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Venâncio Costa",
+        "zipcode": "58704-588"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Irineu Lacerda",
+        "zipcode": "58708-280"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Francisco Trindade",
+        "zipcode": "58708-515"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Carmelita Lucena",
+        "zipcode": "58708-272"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "58708-275"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Sílvia Ramos Cavalcante de Araújo",
+        "zipcode": "58704-682"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Guadalajara",
+        "zipcode": "58706-375"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Francisco Macaíba",
+        "zipcode": "58704-655"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Delzuita Avelino de Medeiros",
+        "zipcode": "58701-570"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Zezinho do Correio",
+        "zipcode": "58706-052"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Presidente Epitácio Pessoa",
+        "zipcode": "58700-970"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua João Augusto Chaves Neto",
+        "zipcode": "58703-664"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Padre Jerônimo Leopoldino",
+        "zipcode": "58703-705"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Monsenhor Luis Laíres da Nóbrega",
+        "zipcode": "58703-710"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Francisca Inácia Lima",
+        "zipcode": "58708-350"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua José Roosevelt Gomes",
+        "zipcode": "58707-305"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Lourival Palmeira",
+        "zipcode": "58701-406"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua João Idelfonso",
+        "zipcode": "58708-252"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Cirilo Garapa",
+        "zipcode": "58705-506"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Celina Gondim dos Anjos",
+        "zipcode": "58708-262"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Francisco Jovita Oliveira",
+        "zipcode": "58707-232"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Maria José Pacheco Mota",
+        "zipcode": "58703-713"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Kaymarks Mariano da Silva",
+        "zipcode": "58703-745"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Leonardo dos Santos Medeiros",
+        "zipcode": "58703-723"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Luiz Marinho dos Santos",
+        "zipcode": "58706-165"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Luna Maria de Medeiros Rangel",
+        "zipcode": "58703-662"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Antônio Luiz",
+        "zipcode": "58706-040"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Caixa dÁgua",
+        "zipcode": "58703-020"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Cônego Bernardo",
+        "zipcode": "58700-570"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Travessa Elias Asfora",
+        "zipcode": "58701-305"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Estação",
+        "zipcode": "58700-190"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Juca Fiscal",
+        "zipcode": "58704-660"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Manoel Oliveira",
+        "zipcode": "58700-515"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Pedro Rosa",
+        "zipcode": "58701-730"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Travessa do Prado",
+        "zipcode": "58703-005"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Santos Dumont",
+        "zipcode": "58703-010"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Wilson Jansen",
+        "zipcode": "58705-176"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Francisco Vicente Araújo",
+        "zipcode": "58704-560"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Nestor Pereira",
+        "zipcode": "58701-750"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua João Bosco de Araújo",
+        "zipcode": "58700-245"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Vinte e Seis de Julho",
+        "zipcode": "58701-042"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "58701-020"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "58700-200"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "58701-100"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Inácio do Leão",
+        "zipcode": "58701-220"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Leôncio Wanderley",
+        "zipcode": "58700-122"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Alto Casteliano",
+        "zipcode": "58701-072"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Alexandrino Rodrigues",
+        "zipcode": "58701-080"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua São Vicente",
+        "zipcode": "58708-200"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Andressa Rodrigues Amorim",
+        "zipcode": "58701-552"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Capitão Crizanto",
+        "zipcode": "58701-092"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Roque Sá Magalhães",
+        "zipcode": "58701-422"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Alberto Lustosa",
+        "zipcode": "58701-520"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Eduardo Benício Araújo",
+        "zipcode": "58701-542"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Antônio Lela",
+        "zipcode": "58701-420"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Capitão Manoel Gomes",
+        "zipcode": "58701-025"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Cícero Bernardo",
+        "zipcode": "58701-450"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Dezoito do Forte",
+        "zipcode": "58701-045"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Dom Pedro II",
+        "zipcode": "58700-183"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Doutor José Genuíno",
+        "zipcode": "58700-055"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Doutor Pedro Firmino",
+        "zipcode": "58700-070"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Felizardo Leite",
+        "zipcode": "58700-035"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua João da Mata",
+        "zipcode": "58700-080"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua João Leite",
+        "zipcode": "58701-440"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua João Odorico",
+        "zipcode": "58701-670"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa João Ourives",
+        "zipcode": "58700-185"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua José Aires de Lucena",
+        "zipcode": "58704-160"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Rebeca Furtado Costa Souza",
+        "zipcode": "58706-532"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua José Jorge",
+        "zipcode": "58701-210"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua José Mesquita",
+        "zipcode": "58701-630"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Leôncio Wanderley",
+        "zipcode": "58700-120"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Manoel Pereira Filho",
+        "zipcode": "58701-605"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Manoel Pereira Neto",
+        "zipcode": "58704-175"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Marcone Coutinho",
+        "zipcode": "58700-205"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua do Meio",
+        "zipcode": "58703-008"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Joaquim Lilioso de Lucena",
+        "zipcode": "58705-052"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Joel Dantas",
+        "zipcode": "58701-805"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Piano de Sousa",
+        "zipcode": "58704-482"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Pastor Eduardo Mundy",
+        "zipcode": "58701-160"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Pedro Peixoto",
+        "zipcode": "58704-150"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Pedro Xavier",
+        "zipcode": "58701-410"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Peregrino de Carvalho",
+        "zipcode": "58700-160"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua do Prado",
+        "zipcode": "58700-010"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Terminal Rodoviário",
+        "zipcode": "58700-260"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Santana",
+        "zipcode": "58701-150"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Senhor Gualberto",
+        "zipcode": "58701-103"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Severino Martins",
+        "zipcode": "58700-130"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Solon de Lucena",
+        "zipcode": "58700-004"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Tenente Pedro do Carmo",
+        "zipcode": "58701-770"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Travessa Cícero Bernardo",
+        "zipcode": "58701-455"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Deca Simplício",
+        "zipcode": "58701-600"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Miguel Mota",
+        "zipcode": "58700-125"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Porfírio da Costa",
+        "zipcode": "58701-040"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua das Espinharas",
+        "zipcode": "58701-068"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua José Mendes",
+        "zipcode": "58701-190"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Juvenal Lúcio",
+        "zipcode": "58704-500"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Peregrino Filho",
+        "zipcode": "58700-418"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Vinte e Seis de Outubro",
+        "zipcode": "58701-062"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Panatis",
+        "zipcode": "58704-480"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua do Prado",
+        "zipcode": "58703-240"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Zeca Vieira",
+        "zipcode": "58703-256"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Horácio Nóbrega",
+        "zipcode": "58704-440"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Joaquim Lopes",
+        "zipcode": "58703-233"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Joaquim Lopes",
+        "zipcode": "58703-210"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Almir Ferreira da Cunha",
+        "zipcode": "58704-600"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Antônio Justino",
+        "zipcode": "58704-620"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Cândido das Laranjeiras",
+        "zipcode": "58704-465"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Tiradentes",
+        "zipcode": "58700-486"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Natanael Vidal de Negreiros",
+        "zipcode": "58703-285"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Natanael Vidal de Negreiros",
+        "zipcode": "58703-226"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Jornalista Assis Chateaubriand",
+        "zipcode": "58704-060"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Doutor Rui Pereira",
+        "zipcode": "58704-100"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Panatis",
+        "zipcode": "58704-115"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Carlota César",
+        "zipcode": "58704-135"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Francisco Brandão",
+        "zipcode": "58704-120"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Ana Leite Nóbrega",
+        "zipcode": "58700-470"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua José Gomes Alves",
+        "zipcode": "58700-250"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Antônio Justino",
+        "zipcode": "58704-625"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Belísia Gonçalves",
+        "zipcode": "58701-005"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Avenida Benjamin Constant",
+        "zipcode": "58700-360"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Cinco de Agosto",
+        "zipcode": "58704-405"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Cônego Raul Lopes de Souza",
+        "zipcode": "58701-302"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Doutor Pedro Firmino",
+        "zipcode": "58700-350"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Fenelon Bonavides",
+        "zipcode": "58700-340"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Frei Caneca",
+        "zipcode": "58700-170"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Frei Martinho",
+        "zipcode": "58700-100"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Jorge Gurgel",
+        "zipcode": "58701-660"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Maria Jovita Oliveira",
+        "zipcode": "58701-608"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Abílio Melquíades da Costa",
+        "zipcode": "58704-493"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Luzia Noberto da Silva",
+        "zipcode": "58701-564"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Kelfhânio Brito",
+        "zipcode": "58701-550"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Valmir Davi Coutinho",
+        "zipcode": "58701-105"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Dona Cícera Pereira da Silva",
+        "zipcode": "58704-533"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Doutor Romero Abdon Queiroz da Nóbrega",
+        "zipcode": "58703-400"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Pedro Amorim",
+        "zipcode": "58701-566"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Galdino Guedes",
+        "zipcode": "58704-410"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Hildo Menezes",
+        "zipcode": "58704-540"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Horácio Nóbrega",
+        "zipcode": "58704-425"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua João Olinto",
+        "zipcode": "58700-380"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Joaquim Dedé",
+        "zipcode": "58701-620"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Luiz Félix Lima",
+        "zipcode": "58704-640"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Misael de Sousa",
+        "zipcode": "58701-310"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Oton Fagundes de Araújo",
+        "zipcode": "58704-570"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Santa Luzia",
+        "zipcode": "58704-502"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Tenente Ananias Vicente da Silva",
+        "zipcode": "58704-550"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Vinte e Seis de Julho",
+        "zipcode": "58700-585"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Travessa Severino Dutra",
+        "zipcode": "58703-292"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Expedito Rodrigues",
+        "zipcode": "58700-490"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Francisco Germano de Araújo",
+        "zipcode": "58706-369"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Cabo José Benício",
+        "zipcode": "58701-384"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Otílio de Sousa",
+        "zipcode": "58701-396"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "58701-392"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sete Casas",
+        "street": "Rua Pedro Saraiva Moura",
+        "zipcode": "58705-322"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rodovia BR",
+        "zipcode": "58704-750"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "58700-075"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Avenida França",
+        "zipcode": "58705-586"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Aluízio Queiroz",
+        "zipcode": "58704-370"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Antônio Palmeira",
+        "zipcode": "58701-350"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sete Casas",
+        "street": "Rodovia BR",
+        "zipcode": "58705-275"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rodovia BR",
+        "zipcode": "58705-555"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Águida de Souza Franco",
+        "zipcode": "58703-373"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Ivanildo Costa Vilar",
+        "zipcode": "58703-375"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "2ª Travessa Oliveira Ledo",
+        "zipcode": "58700-151"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Professor Herly Adelino Filho",
+        "zipcode": "58705-205"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Francisco Assis Cabral",
+        "zipcode": "58704-358"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sete Casas",
+        "street": "Travessa Pedro Saraiva Moura",
+        "zipcode": "58705-321"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sete Casas",
+        "street": "Travessa Euclides Franco",
+        "zipcode": "58705-331"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Cabo Severino",
+        "zipcode": "58701-368"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Nabor Barbosa de Carvalho",
+        "zipcode": "58701-402"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua João Severino de Sousa",
+        "zipcode": "58701-506"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua José Willians Braga Júnior",
+        "zipcode": "58704-045"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Djalma Nóbrega Medeiros",
+        "zipcode": "58706-360"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Afonso Kehrle",
+        "zipcode": "58705-150"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Atilano Moura",
+        "zipcode": "58701-370"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Braz Morais",
+        "zipcode": "58706-328"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Avenida Catumbi",
+        "zipcode": "58705-580"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Cruzeiro da Paz",
+        "zipcode": "58700-123"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Dedé Marinho",
+        "zipcode": "58705-134"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Doutor Ageu de Castro",
+        "zipcode": "58705-190"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Filodendros",
+        "zipcode": "58705-560"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua João Gomes",
+        "zipcode": "58705-125"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua José Clementino",
+        "zipcode": "58705-144"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua João Soares",
+        "zipcode": "58700-318"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Doutor Dionísio",
+        "zipcode": "58700-008"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Inácio da Catingueira",
+        "zipcode": "58700-045"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Francisco de Assis Araújo",
+        "zipcode": "58701-540"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Lima Campos",
+        "zipcode": "58706-315"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Luís José",
+        "zipcode": "58704-310"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Major Wanderley",
+        "zipcode": "58700-220"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Moacir Leitão",
+        "zipcode": "58704-335"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Noé Trajano",
+        "zipcode": "58701-385"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Travessa Odon Nogueira",
+        "zipcode": "58703-195"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Major Vicente Jansen",
+        "zipcode": "58701-230"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Oliveira Ledo",
+        "zipcode": "58700-165"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua das Orquídeas",
+        "zipcode": "58705-570"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Pedro Celestino",
+        "zipcode": "58705-142"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Plácido Magalhães",
+        "zipcode": "58704-350"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Severino Inácio",
+        "zipcode": "58705-170"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Valdemar Vieira",
+        "zipcode": "58706-330"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Pintor Zezinho",
+        "zipcode": "58705-180"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Zito Moreira",
+        "zipcode": "58706-340"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Zuza Cabral",
+        "zipcode": "58705-128"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Lima Campos",
+        "zipcode": "58706-310"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Avenida Holanda",
+        "zipcode": "58705-100"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua José Francisco Nunes",
+        "zipcode": "58705-110"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Antônio Barreto",
+        "zipcode": "58707-210"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Nezinho Leandro",
+        "zipcode": "58703-100"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Renan Aires",
+        "zipcode": "58707-218"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Renan Aires",
+        "zipcode": "58707-115"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Solon Medeiros",
+        "zipcode": "58707-225"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Aluízio Queiroz",
+        "zipcode": "58704-745"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Antônio Fragoso",
+        "zipcode": "58700-630"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Ana Leite",
+        "street": "Rodovia BR",
+        "zipcode": "58706-810"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Oscar Xavier dos Santos",
+        "zipcode": "58703-363"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Walter Carvalho",
+        "zipcode": "58703-368"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Marluce Nunes de Assis",
+        "zipcode": "58703-242"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Antônio Torres",
+        "zipcode": "58707-212"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Antônio Torres",
+        "zipcode": "58707-130"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Arnaldo Assis de Medeiros",
+        "zipcode": "58704-760"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua José Rouxinol",
+        "zipcode": "58704-818"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua José Carlos A Freitas",
+        "zipcode": "58704-285"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Manoel Valdevino",
+        "zipcode": "58706-606"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Pedro Saraiva Moura",
+        "zipcode": "58706-176"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua José Marinho dos Santos",
+        "zipcode": "58706-185"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua José Corsino Peixoto",
+        "zipcode": "58706-222"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Maria Augusta Limeira",
+        "zipcode": "58707-062"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Fabiana dos Santos Farias",
+        "zipcode": "58707-135"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Alaíde Medeiros de Lucena",
+        "zipcode": "58707-230"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Antônio José",
+        "zipcode": "58707-383"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Severino Dantas",
+        "zipcode": "58704-826"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Capitão Ló",
+        "zipcode": "58700-500"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Elpídio Portela",
+        "zipcode": "58707-200"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Geraldo Cabral",
+        "zipcode": "58706-300"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Janúncio Nóbrega",
+        "zipcode": "58703-230"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Joaquim Amaro",
+        "zipcode": "58707-080"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua José Crispim",
+        "zipcode": "58707-060"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Joventino Machado",
+        "zipcode": "58704-490"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Mestre Félix",
+        "zipcode": "58704-485"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Miguel Imperiano",
+        "zipcode": "58706-090"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Nabor Wanderley",
+        "zipcode": "58706-225"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Luzia Ferreira Leitão",
+        "zipcode": "58707-118"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Severino Batista Primo",
+        "zipcode": "58700-140"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Josefina Lima de Lucena",
+        "zipcode": "58706-188"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Justino Gomes",
+        "zipcode": "58706-302"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Mário Gomes de Moura",
+        "zipcode": "58701-490"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Odon Nogueira",
+        "zipcode": "58703-190"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Herculano Rodrigues de Oliveira",
+        "zipcode": "58700-552"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Euclides Gouveia",
+        "zipcode": "58706-240"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Azenriel de Brito Siqueira",
+        "zipcode": "58701-412"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua José Palmeira da Nóbrega",
+        "zipcode": "58701-426"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Tião Pereira",
+        "zipcode": "58706-333"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua João Mariano de Oliveira",
+        "zipcode": "58706-210"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Manoel José do Nascimento",
+        "zipcode": "58707-360"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Raniere Mazile",
+        "zipcode": "58703-150"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Travessa Raniere Mazile",
+        "zipcode": "58703-155"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Sabino Viana",
+        "zipcode": "58707-020"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Terto Zacarias",
+        "zipcode": "58704-420"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Manoel Cabral",
+        "zipcode": "58707-280"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Travessa Manoel Cabral",
+        "zipcode": "58707-285"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "58700-550"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Manoel Torres",
+        "zipcode": "58706-420"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Manoel Torres",
+        "zipcode": "58706-510"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Doutor Enaldo Torres Fernandes",
+        "zipcode": "58704-255"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Doutor Pedro Firmino",
+        "zipcode": "58706-440"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Distrito Industrial",
+        "street": "Rodovia BR",
+        "zipcode": "58705-760"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Manoel Mota",
+        "zipcode": "58707-430"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua José Batista da Costa",
+        "zipcode": "58703-136"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Irineu Lacerda",
+        "zipcode": "58708-360"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua Irineu Lacerda",
+        "zipcode": "58708-100"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua Joaquim dos Santos",
+        "zipcode": "58708-035"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Severino Alves",
+        "zipcode": "58708-392"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua João Cosme de Brito",
+        "zipcode": "58704-740"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Padre Hilário",
+        "zipcode": "58705-165"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Joana Justina da Silva",
+        "zipcode": "58707-065"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Santina Ferreira Lucena",
+        "zipcode": "58707-242"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Pedro Félix",
+        "zipcode": "58708-202"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Zacarias Oliveira",
+        "zipcode": "58708-204"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Boa Esperança",
+        "zipcode": "58708-208"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Inácio de Loiola",
+        "zipcode": "58708-210"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua João Roberto",
+        "zipcode": "58708-254"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Nova Conquista",
+        "zipcode": "58708-260"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Aurino Pereira",
+        "zipcode": "58706-100"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Ricardo Felipe de Sousa",
+        "zipcode": "58705-030"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Fátima de Lourdes",
+        "zipcode": "58706-120"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Francisco Alves Queiroz",
+        "zipcode": "58704-260"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Francisco Pontes",
+        "zipcode": "58706-520"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Inácio Fernandes Nóbrega",
+        "zipcode": "58704-270"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Jaracatias",
+        "zipcode": "58705-680"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Juvenal Lúcio",
+        "zipcode": "58704-235"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Major Cícero Sátiro",
+        "zipcode": "58704-340"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Manoel Balbino",
+        "zipcode": "58706-060"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Pedro Benedito",
+        "zipcode": "58706-000"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Pedro Nicácio",
+        "zipcode": "58704-373"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Roldão Meira",
+        "zipcode": "58700-440"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Antônio Lopes de Lima",
+        "zipcode": "58707-016"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Bancário Jarbas Moura da Costa",
+        "zipcode": "58704-435"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Francisco Antônio do Nascimento",
+        "zipcode": "58704-378"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Dorgival de Souza Cavalcante",
+        "zipcode": "58705-040"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua José Martins Moura",
+        "zipcode": "58706-102"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Tailândia",
+        "zipcode": "58705-072"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Severina Nunes Ferreira",
+        "zipcode": "58705-055"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Francisco Paulo Licarião",
+        "zipcode": "58707-110"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Laurentino Pereira da Silva",
+        "zipcode": "58705-025"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Galin Assis",
+        "zipcode": "58700-480"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Iugoslávia",
+        "zipcode": "58705-075"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Estudante Josinaldo Targino Borges",
+        "zipcode": "58705-178"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Francisca Inácia Lima",
+        "zipcode": "58708-220"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Manoel Gonçalves",
+        "zipcode": "58706-160"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Titico Gomes",
+        "zipcode": "58704-468"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Rotary",
+        "zipcode": "58706-530"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua Santa Catarina",
+        "zipcode": "58708-000"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Cristovão",
+        "zipcode": "58708-115"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Paulo",
+        "zipcode": "58708-030"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Tereza Praxedes dos Santos",
+        "zipcode": "58706-558"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Zeca Vilar",
+        "zipcode": "58700-465"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São João",
+        "zipcode": "58708-050"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Agostinho C J Justo",
+        "zipcode": "58706-580"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Zeca Vieira",
+        "zipcode": "58703-080"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua Anatildes Lucena",
+        "zipcode": "58708-022"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Doutor Pedro Firmino",
+        "zipcode": "58706-505"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Vicente",
+        "zipcode": "58708-190"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Joaquim dos Santos",
+        "zipcode": "58707-412"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Pedro Campos Sobrinho",
+        "zipcode": "58704-752"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Antônio Pereira da Silva",
+        "zipcode": "58704-800"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Gilberto Taylor",
+        "zipcode": "58706-406"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Severino Clemente",
+        "zipcode": "58706-408"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Pedro Marinho Nóbrega",
+        "zipcode": "58706-522"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Luiz Soares de Sá",
+        "zipcode": "58706-528"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Três Irmãos",
+        "zipcode": "58708-206"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua das Acácias",
+        "zipcode": "58705-630"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Assis Wanderley",
+        "zipcode": "58706-230"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Braz Morais",
+        "zipcode": "58706-325"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Donato Lócio",
+        "zipcode": "58707-380"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Doutor Edval Porfiro",
+        "zipcode": "58707-120"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Félix Araújo",
+        "zipcode": "58706-080"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Gumercindo Leite",
+        "zipcode": "58705-130"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Hermes Enéas",
+        "zipcode": "58707-040"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Itapiúnas",
+        "zipcode": "58705-640"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua João Domingos de Queiroz",
+        "zipcode": "58704-140"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua João Xavier de Sá",
+        "zipcode": "58706-540"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Avenida das Laranjeiras",
+        "zipcode": "58705-650"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Manoel Meira",
+        "zipcode": "58707-460"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Travessa Manoel Mota",
+        "zipcode": "58707-005"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Manoel Reinaldo",
+        "zipcode": "58707-420"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Maria das Dores Lopes",
+        "zipcode": "58706-570"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Marmeleiro",
+        "zipcode": "58705-660"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Poeta José Monteiro",
+        "zipcode": "58707-320"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Severina Monteiro da Silva",
+        "zipcode": "58703-132"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Argemiro Gangorra de Barros",
+        "zipcode": "58703-134"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Diogo José de Medeiros",
+        "zipcode": "58703-152"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Luiz de França Vieira",
+        "zipcode": "58706-565"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua José Henrique Pereira",
+        "zipcode": "58706-048"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Severino Lustosa Morais",
+        "zipcode": "58706-575"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Benedito Rouxinol",
+        "zipcode": "58704-768"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Luzia Ferreira Leitão",
+        "zipcode": "58707-215"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Manoel Mendes Morais",
+        "zipcode": "58706-082"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Anália Palmeira",
+        "zipcode": "58704-278"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Dinamérico Almeida",
+        "zipcode": "58706-588"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua José Roosevelt Gomes",
+        "zipcode": "58708-108"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Avenida Áustria",
+        "zipcode": "58705-010"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Otávio Maia",
+        "zipcode": "58706-602"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Travessa Aluízio Lima",
+        "zipcode": "58706-595"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Francisco Paulo Licarião",
+        "zipcode": "58707-222"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Aluízio Lima",
+        "zipcode": "58706-590"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Josefa Aragão",
+        "zipcode": "58706-083"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Belarmino de Castro Nóbrega",
+        "zipcode": "58706-525"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Maria Nunes Lucena",
+        "zipcode": "58707-438"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Severino Ferreira Barros",
+        "zipcode": "58706-508"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Professora Cristina Lima",
+        "zipcode": "58706-560"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Bento",
+        "zipcode": "58708-090"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Januário",
+        "zipcode": "58708-070"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Salvador",
+        "zipcode": "58708-095"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Sebastião Monteiro Oliveira",
+        "zipcode": "58707-140"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Natália de Figueiredo",
+        "zipcode": "58703-144"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Severino Dutra",
+        "zipcode": "58703-295"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Joaquim Crioulo",
+        "zipcode": "58703-214"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Antônio Justino",
+        "zipcode": "58704-343"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rodovia BR",
+        "zipcode": "58705-235"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Francisco Assis Cabral",
+        "zipcode": "58704-710"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Francisco Antônio do Nascimento",
+        "zipcode": "58704-748"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Antônio José Leite",
+        "zipcode": "58703-072"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Laura de Medeiros Andrade",
+        "zipcode": "58704-315"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Antônio Gomes da Costa",
+        "zipcode": "58704-412"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Dom Bosco",
+        "zipcode": "58704-428"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Manoel Maurício de Oliveira",
+        "zipcode": "58704-743"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Travessa Pintor Zezinho",
+        "zipcode": "58705-174"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Antônio Emídio Rodrigues",
+        "zipcode": "58705-602"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Áureo Queiroz Magalhães",
+        "zipcode": "58705-606"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Joana Formiga de Sousa",
+        "zipcode": "58705-618"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Maria Vicência Nóbrega",
+        "zipcode": "58706-015"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Francisca Souza Dantas",
+        "zipcode": "58706-128"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Sargento Miguelzinho",
+        "zipcode": "58706-006"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Antônio Carneiro de Lucena",
+        "zipcode": "58704-109"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Adélia Urquiza",
+        "zipcode": "58703-170"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Geraldo Geraldino de Araújo",
+        "zipcode": "58705-070"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Cícero Marques",
+        "zipcode": "58706-020"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Avenida Edileuza Lopes de Lima",
+        "zipcode": "58705-020"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua João Avelino",
+        "zipcode": "58704-390"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Juvenal Ledo",
+        "zipcode": "58704-470"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Laurênio de Queiroz",
+        "zipcode": "58704-225"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Praça Nossa Senhora de Fátima",
+        "zipcode": "58704-200"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Pedro Peixoto",
+        "zipcode": "58704-155"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Pedro Vieira",
+        "zipcode": "58706-070"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Professora Maria José de Lima",
+        "zipcode": "58703-270"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Vereador Né Marinho",
+        "zipcode": "58704-280"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Edimilson Ferreira Matias",
+        "zipcode": "58705-201"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Orlando Torres",
+        "zipcode": "58706-400"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Antônio Crizanto Dantas",
+        "zipcode": "58704-830"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Majorama",
+        "zipcode": "58705-670"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Manoel Alves de Figueiredo",
+        "zipcode": "58706-022"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Avenida Magnólia",
+        "zipcode": "58705-500"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Antônio Leite da Silva",
+        "zipcode": "58706-088"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Carmen Bernardo",
+        "zipcode": "58706-418"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Pedro Candeia de Lima",
+        "zipcode": "58705-604"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Maria José Félix",
+        "zipcode": "58706-046"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Francisco Marcelino de Morais",
+        "zipcode": "58704-272"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Maria das Dores Cavalcante Silva",
+        "zipcode": "58705-624"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Manoel Brito Sobrinho",
+        "zipcode": "58706-140"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Manoel da Costa Filgueiras",
+        "zipcode": "58704-736"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Carlos Dantas Trigueiro",
+        "zipcode": "58705-050"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Sebastião",
+        "zipcode": "58708-010"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Francisca Maria da Luz",
+        "zipcode": "58706-350"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Luzia Emiliano da Silva",
+        "zipcode": "58705-552"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Alaíde Vieira de Lucena",
+        "zipcode": "58706-503"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Vereador Severino Rodrigues",
+        "zipcode": "58701-650"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Nelson Pereira",
+        "zipcode": "58706-050"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Violonista Antônio Emiliano",
+        "zipcode": "58705-115"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Basta Gomes",
+        "zipcode": "58701-165"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Bossuet Wanderley",
+        "zipcode": "58700-085"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Presidente Floriano Peixoto",
+        "zipcode": "58700-300"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Vinte e Seis de Outubro",
+        "zipcode": "58700-610"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua do Prado",
+        "zipcode": "58701-008"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Severino Dutra",
+        "zipcode": "58700-154"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua João Bosco de Araújo",
+        "zipcode": "58700-330"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Vinte e Seis de Julho",
+        "zipcode": "58700-580"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Deputado Janduy Carneiro",
+        "zipcode": "58703-120"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Doutor Pedro Firmino",
+        "zipcode": "58703-048"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Elias Asfora",
+        "zipcode": "58701-300"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Escritor Augusto dos Anjos",
+        "zipcode": "58701-394"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Inácio do Leão",
+        "zipcode": "58701-320"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Coronel Miguel Sátiro",
+        "zipcode": "58700-484"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Francisca Wanderley da Nóbrega",
+        "zipcode": "58703-386"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Wantuy da Silva Martins",
+        "zipcode": "58703-365"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Joatan Aires de Oliveira",
+        "zipcode": "58703-095"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Antônio José Quirino",
+        "zipcode": "58703-238"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Diogo José de Medeiros",
+        "zipcode": "58704-715"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Bernardino Felipe Santos",
+        "zipcode": "58701-414"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Maria Sousa Barreto",
+        "zipcode": "58701-424"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua João de Barros",
+        "zipcode": "58700-973"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Severino Soares",
+        "zipcode": "58701-900"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Antônio Martins",
+        "zipcode": "58701-710"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Bossuet Wanderley",
+        "zipcode": "58700-082"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Cassemiro Ricarte",
+        "zipcode": "58704-632"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Escritor Augusto dos Anjos",
+        "zipcode": "58701-055"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Escritor Rui Barbosa",
+        "zipcode": "58700-060"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Felipe Camarão",
+        "zipcode": "58701-065"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Francisco Rodrigues",
+        "zipcode": "58704-510"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Travessa João Leite",
+        "zipcode": "58701-445"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Rubens Palmeira de Araújo",
+        "zipcode": "58701-390"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Patrícia Vieira",
+        "zipcode": "58701-095"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Peregrino Filho",
+        "zipcode": "58700-455"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Presidente Juscelino Kubitschek",
+        "zipcode": "58700-420"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Professor José Araújo",
+        "zipcode": "58701-340"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Semeão Gentil",
+        "zipcode": "58701-610"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Travessa Sérgio Lima",
+        "zipcode": "58701-365"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Severino Soares",
+        "zipcode": "58701-380"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Vereador Joaquim Leitão",
+        "zipcode": "58700-115"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Luiz Araújo Nóbrega",
+        "zipcode": "58701-500"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Ismael Tibiri",
+        "zipcode": "58701-555"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Urbana Gomes Carvalho",
+        "zipcode": "58703-378"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa José Honório de Sousa",
+        "zipcode": "58704-233"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Francisca Maria da Silva",
+        "zipcode": "58704-133"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Deputado Janduy Carneiro",
+        "zipcode": "58703-252"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Travessa Batuel Palmeira",
+        "zipcode": "58701-796"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Paulo César de Oliveira",
+        "zipcode": "58701-404"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Antônio C Lucena",
+        "zipcode": "58704-495"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Emília Francisca de Sousa Dantas",
+        "zipcode": "58704-713"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Sílvia Ramos Cavalcante de Araújo",
+        "zipcode": "58704-680"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Biró Cirilo",
+        "zipcode": "58701-644"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Marina Gouveia",
+        "zipcode": "58701-508"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Manoel Alves de Freitas",
+        "zipcode": "58703-006"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Doutor João Felipe Ramalho",
+        "zipcode": "58703-090"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Antônio Barreto",
+        "zipcode": "58707-180"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Juvenal Lúcio",
+        "zipcode": "58704-230"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Santa Luzia",
+        "zipcode": "58704-250"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Moacir Leitão",
+        "zipcode": "58704-630"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Moacir Leitão",
+        "zipcode": "58704-330"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Natália de Figueiredo",
+        "zipcode": "58703-290"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Pedro Saraiva Moura",
+        "zipcode": "58706-170"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua São Pedro",
+        "zipcode": "58707-480"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Solon Medeiros",
+        "zipcode": "58707-010"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Euclides Franco",
+        "zipcode": "58706-190"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Avenida França",
+        "zipcode": "58705-090"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Joaquim Crioulo",
+        "zipcode": "58703-250"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Alfredo Lustosa Cabral",
+        "zipcode": "58706-550"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Alfredo Lustosa Cabral",
+        "zipcode": "58706-425"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Anatildes Lucena",
+        "zipcode": "58707-415"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sete Casas",
+        "street": "Rua Antônio Félix",
+        "zipcode": "58705-315"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Antônio Félix",
+        "zipcode": "58706-110"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Manoel Mota",
+        "zipcode": "58707-000"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Tenente Nenem Lira",
+        "zipcode": "58704-733"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Avenida Um",
+        "zipcode": "58703-358"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Manoel Isaias da Silva",
+        "zipcode": "58704-780"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Antônio Martins Filho",
+        "zipcode": "58706-604"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Leda Ramalho",
+        "zipcode": "58705-160"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Avenida Bruxelas",
+        "zipcode": "58705-576"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Avenida Bulgária",
+        "zipcode": "58705-594"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Francisco Justino Medeiros",
+        "zipcode": "58706-178"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Alexandre de Carvalho",
+        "zipcode": "58704-240"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Antônio Gonçalves",
+        "zipcode": "58707-400"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Antônio Vieira",
+        "zipcode": "58704-473"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua dos Cravos",
+        "zipcode": "58705-510"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Dinamérico Palmeira",
+        "zipcode": "58707-260"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Epaminondas Rocha",
+        "zipcode": "58704-360"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Francisco Brandão",
+        "zipcode": "58704-125"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Frei Manoel",
+        "zipcode": "58707-418"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Avenida Grécia",
+        "zipcode": "58705-060"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Isabel Fernandes",
+        "zipcode": "58704-580"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua João Rodrigues Alves",
+        "zipcode": "58704-290"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua José Borges",
+        "zipcode": "58705-132"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua José Germano Araújo",
+        "zipcode": "58707-300"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua José Sátiro Quinho",
+        "zipcode": "58707-220"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Laurênio de Queiroz",
+        "zipcode": "58704-220"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Luiz Félix Lima",
+        "zipcode": "58704-645"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Manoel Medeiros",
+        "zipcode": "58704-320"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Manoel Pedro Oliveira",
+        "zipcode": "58707-100"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Manoel Pereira Neto",
+        "zipcode": "58704-170"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Avenida Morumbis",
+        "zipcode": "58705-584"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Pedro David",
+        "zipcode": "58707-160"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Sebastião Queiroz",
+        "zipcode": "58706-025"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Solon de Lucena",
+        "zipcode": "58700-002"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Tabelião Manoel Fernandes",
+        "zipcode": "58706-430"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Tabelião Manoel Fernandes",
+        "zipcode": "58706-435"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Tiburtino Leite",
+        "zipcode": "58700-520"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Vandy Alves",
+        "zipcode": "58706-130"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Rui Farias da Silva",
+        "zipcode": "58704-770"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Basta Gomes",
+        "zipcode": "58701-330"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Carlos Alberto Dantas",
+        "zipcode": "58706-220"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Mestre Elias",
+        "zipcode": "58701-212"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Presidente Floriano Peixoto",
+        "zipcode": "58700-235"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Otílio de Sousa",
+        "zipcode": "58701-170"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Peregrino Filho",
+        "zipcode": "58700-450"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "58701-030"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Peregrino de Araújo",
+        "zipcode": "58701-010"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua do Prado",
+        "zipcode": "58701-418"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua São José",
+        "zipcode": "58703-045"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua São José",
+        "zipcode": "58700-015"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Pedro",
+        "zipcode": "58708-025"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Severino Dutra",
+        "zipcode": "58703-140"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "58701-060"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Alto Casteliano",
+        "zipcode": "58701-398"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Alto Casteliano",
+        "zipcode": "58701-070"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Beltrando de Azevedo",
+        "zipcode": "58700-175"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "58700-180"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Doutor Enaldo Torres Fernandes",
+        "zipcode": "58703-070"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Escritor Augusto dos Anjos",
+        "zipcode": "58701-050"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "58700-510"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Coronel Miguel Sátiro",
+        "zipcode": "58700-530"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Antônio Justiniano",
+        "zipcode": "58700-158"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Antônio Justiniano",
+        "zipcode": "58703-030"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Vinte e Seis de Julho",
+        "zipcode": "58701-043"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Francisco Cirilo da Costa",
+        "zipcode": "58703-078"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua João Salvino de Medeiros",
+        "zipcode": "58707-432"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua João Salvino de Medeiros",
+        "zipcode": "58708-113"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Professor Herly Adelino Filho",
+        "zipcode": "58704-810"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Francisco Joca",
+        "zipcode": "58706-386"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Nabor Wanderley",
+        "zipcode": "58706-228"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua João F Lustosa",
+        "zipcode": "58701-548"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Cândido das Laranjeiras",
+        "zipcode": "58704-090"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Panatis",
+        "zipcode": "58704-110"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Capitão Crizanto",
+        "zipcode": "58701-090"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Doutor Duarte Dantas",
+        "zipcode": "58700-460"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Doutor José Genuíno",
+        "zipcode": "58700-050"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Avenida Imburis",
+        "zipcode": "58705-520"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Nelson Rodrigues",
+        "zipcode": "58701-130"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Travessa Nezinho Leandro",
+        "zipcode": "58703-105"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Padre Anchieta",
+        "zipcode": "58701-035"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Pedro Caetano",
+        "zipcode": "58700-040"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua dos Pegas",
+        "zipcode": "58705-146"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua do Prado",
+        "zipcode": "58703-000"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Presidente Getúlio Vargas",
+        "zipcode": "58700-230"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Rosa Figueiredo",
+        "zipcode": "58701-400"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Darcílio Wanderley da Nóbrega",
+        "zipcode": "58700-320"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Vereador Joaquim Leitão",
+        "zipcode": "58700-110"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Travessa Joaquim Lopes",
+        "zipcode": "58703-215"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Doutor Onaldo de Queiroz",
+        "zipcode": "58700-390"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Paulo Leite",
+        "zipcode": "58703-130"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Pedro Izidro",
+        "zipcode": "58700-540"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Pedro Izidro",
+        "zipcode": "58700-488"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Prefeito Oscar Torres",
+        "zipcode": "58701-313"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua São José",
+        "zipcode": "58701-120"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sete Casas",
+        "street": "Rua Euclides Franco",
+        "zipcode": "58705-332"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Irineu Joffily",
+        "zipcode": "58701-135"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Iremar Belarmino de Sousa",
+        "zipcode": "58704-822"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Jaime Lúcio de Medeiros",
+        "zipcode": "58700-168"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Doutor Romero Abdon Queiroz da Nóbrega",
+        "zipcode": "58701-602"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Irineu Teódulo da Silva",
+        "zipcode": "58701-554"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Bancário Jarbas Moura Costa",
+        "zipcode": "58704-430"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Elias Asfora",
+        "zipcode": "58701-215"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Antônio Palmeira",
+        "zipcode": "58701-180"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Milton Vieira",
+        "zipcode": "58703-388"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Eleonora Xavier",
+        "zipcode": "58703-370"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Antônio Soares da Silva",
+        "zipcode": "58701-642"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Francisco Moreira Viana",
+        "zipcode": "58704-275"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Delmiro Alves Monteiro",
+        "zipcode": "58708-380"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Ramiro Pereira dos Santos",
+        "zipcode": "58708-390"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua José Gaspar",
+        "zipcode": "58708-520"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua José Alves da Costa",
+        "zipcode": "58704-665"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Beatriz Silva",
+        "zipcode": "58706-004"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa da Palmeira",
+        "zipcode": "58704-075"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Antônio Félix",
+        "zipcode": "58706-115"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua das Avencas",
+        "zipcode": "58705-590"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Travessa Caixa dÁgua",
+        "zipcode": "58703-025"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Capitão Manoel Gomes",
+        "zipcode": "58701-023"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Doutor José Genuíno",
+        "zipcode": "58703-060"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua dos Flamboyants",
+        "zipcode": "58705-610"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Humberto do Bandolim",
+        "zipcode": "58705-182"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Jeová Bezerra",
+        "zipcode": "58700-090"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Titico Gomes",
+        "zipcode": "58704-460"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Vereador Severino Fernando de Assis",
+        "zipcode": "58704-210"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua das Violetas",
+        "zipcode": "58705-550"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Juvenal Ledo",
+        "zipcode": "58704-475"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Cinco de Agosto",
+        "zipcode": "58704-400"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Antônio Franco da Costa",
+        "zipcode": "58703-380"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua José Bonifácio de Carvalho",
+        "zipcode": "58703-360"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Presidente Getúlio Vargas",
+        "zipcode": "58700-233"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Maria José Romão",
+        "zipcode": "58704-730"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Francisco Paulino da Silva",
+        "zipcode": "58706-585"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Antônio Aureliano de Brito",
+        "zipcode": "58708-370"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Chico Rosa",
+        "zipcode": "58706-055"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Padre Joaquim de Assis Ferreira",
+        "zipcode": "58703-040"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Antônio Rui de Brito",
+        "zipcode": "58708-382"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Pedro Carneiro Bastos",
+        "zipcode": "58704-663"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Enfermeira Marlene de Azevedo Barbosa",
+        "zipcode": "58705-582"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Severina Figueiredo da Silva",
+        "zipcode": "58705-192"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Ernani Sátiro",
+        "zipcode": "58703-395"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Bancário Jarbas Moura Costa",
+        "zipcode": "58704-728"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Vereador Apolônio Gonçalves de Lima",
+        "zipcode": "58701-375"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bivar Olinto",
+        "street": "Rua Zózimo Gurgel",
+        "zipcode": "58701-690"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Ana Leite",
+        "street": "Rua Severino Lustosa Morais",
+        "zipcode": "58706-800"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Francisco Macena",
+        "zipcode": "58700-482"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Antônio Fragoso",
+        "zipcode": "58701-063"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Manoel Valentim",
+        "zipcode": "58706-388"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Sebastião Marcelino Sobrinho",
+        "zipcode": "58705-000"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Antônio Torres de Araújo",
+        "zipcode": "58705-575"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Maria das Dores Gonçalves da Silva",
+        "zipcode": "58704-604"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Estrada do Campo Comprido",
+        "zipcode": "58701-318"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Raimundo Nunes da Silva",
+        "zipcode": "58706-085"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Doutor Rui Pereira",
+        "zipcode": "58708-510"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Terezinha Monteiro do Nascimento",
+        "zipcode": "58706-572"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Valmir Nunes Figueiredo",
+        "zipcode": "58707-365"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Biribiu",
+        "zipcode": "58704-152"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Edmilson Cirilo Costa",
+        "zipcode": "58703-075"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua José Emídio dos Santos",
+        "zipcode": "58704-602"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Travessa José Melquíades",
+        "zipcode": "58708-502"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Almir Ferreira da Cunha",
+        "zipcode": "58705-032"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Flávio de Medeiros Damasceno",
+        "zipcode": "58705-616"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Padre Levi Rodrigues",
+        "zipcode": "58703-708"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Aristides Mamede Gomes",
+        "zipcode": "58703-715"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Nadjara Segundo dos Santos",
+        "zipcode": "58703-717"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Horácio Nóbrega",
+        "zipcode": "58704-000"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Pedra Branca",
+        "zipcode": "58704-020"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Severino Lopes da Silva",
+        "zipcode": "58704-025"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Beltrando de Azevedo",
+        "zipcode": "58704-030"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Padre José Lopes Sobrinho",
+        "zipcode": "58703-725"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Inalda Cruz Guedes de Medeiros",
+        "zipcode": "58703-740"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Rocha Palmeira",
+        "zipcode": "58704-010"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Antônio Urquiza",
+        "zipcode": "58704-040"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Antônio Macedo",
+        "zipcode": "58704-055"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Mestre Chiquinho",
+        "zipcode": "58704-058"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Paulino Gondin",
+        "zipcode": "58704-080"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Francisco Candeias do Nascimento",
+        "zipcode": "58704-105"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Carlota César",
+        "zipcode": "58704-130"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Tenente José Dinoá",
+        "zipcode": "58704-065"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Padre Raimundo de Assis Ferreira",
+        "zipcode": "58703-730"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Braz Macena",
+        "zipcode": "58704-530"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Travessa Capitão Marinho",
+        "zipcode": "58701-033"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Guadalajara",
+        "zipcode": "58706-305"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua São Luiz",
+        "zipcode": "58708-150"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Avenida Universitária",
+        "zipcode": "58708-110"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Doutor Francisco Bacamarte",
+        "zipcode": "58706-567"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Eloy Eneas de Sousa",
+        "zipcode": "58706-555"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Alagoas",
+        "zipcode": "58705-802"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Paraná",
+        "zipcode": "58705-799"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Minas Gerais",
+        "zipcode": "58705-830"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Ceará",
+        "zipcode": "58705-824"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Pernambuco",
+        "zipcode": "58705-809"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Acre",
+        "zipcode": "58705-833"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Mato Grosso",
+        "zipcode": "58705-835"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Amazonas",
+        "zipcode": "58705-831"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "58705-790"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Raul Gomes de Farias",
+        "zipcode": "58704-735"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Francisca Alves Marinho",
+        "zipcode": "58705-163"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Mato Grosso do Sul",
+        "zipcode": "58705-800"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Karlos Wilberto Batista Leite Bezerra",
+        "zipcode": "58703-206"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Pedro Leandro de Oliveira",
+        "zipcode": "58703-208"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Professora Emília Longo Fernandes",
+        "zipcode": "58703-217"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua José Dantas dos Santos",
+        "zipcode": "58703-218"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Leôncio Lira de Oliveira",
+        "zipcode": "58703-220"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Estudante Fabrício da Silva Rodrigues",
+        "zipcode": "58703-222"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Fábio Batista Leite Bezerra",
+        "zipcode": "58703-224"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua José Bonifácio de Carvalho",
+        "zipcode": "58703-265"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Moacir Dantas Cavalcante",
+        "zipcode": "58703-203"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Maria do Carmo Sátiro Farias",
+        "zipcode": "58703-227"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Luzivete Medeiros da Silva",
+        "zipcode": "58703-200"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Inácio Melquíades de Sousa",
+        "zipcode": "58703-207"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Doutor José Roberto Skelmenzi",
+        "zipcode": "58705-626"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Severina da Costa",
+        "zipcode": "58704-274"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Francisco Américo de Araújo",
+        "zipcode": "58703-272"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Maria José Dantas de Holanda",
+        "zipcode": "58703-229"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Silvino Argemiro Neves",
+        "zipcode": "58703-274"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Maria Stela Urquiza",
+        "zipcode": "58703-228"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Poeta Antônio Américo de Medeiros",
+        "zipcode": "58703-276"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Antonieta Longo",
+        "zipcode": "58703-280"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Durval da Silva Melquíades",
+        "zipcode": "58703-283"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Silvino Argemiro Neves",
+        "zipcode": "58703-345"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua José Maximiano Silva",
+        "zipcode": "58703-396"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Abdias Guedes Cavalcanti",
+        "zipcode": "58703-421"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Ermano Caetano de Sousa",
+        "zipcode": "58704-754"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Gilberlam Morais de Oliveira",
+        "zipcode": "58704-755"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Ermínio Ramberto Pires Torres",
+        "zipcode": "58704-759"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Sebastião Ferreira de Lucena",
+        "zipcode": "58704-766"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Inaldo Brito Costa",
+        "zipcode": "58704-775"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Rosilda Alves de Lima",
+        "zipcode": "58704-778"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua José Queiroz Vilar",
+        "zipcode": "58704-783"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Julita Dias de Queiroz",
+        "zipcode": "58704-784"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Claúdio Eduardo Pereira Paschoal",
+        "zipcode": "58704-785"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua José Araújo Sobrinho",
+        "zipcode": "58704-767"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Antonieta Longo",
+        "zipcode": "58703-342"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Wantuy da Silva Martins",
+        "zipcode": "58703-267"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Severino Fernandes Gomes",
+        "zipcode": "58703-432"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Francisco de Assis Paulo Júnior",
+        "zipcode": "58703-620"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador José da Penha Fernandes Meira",
+        "zipcode": "58703-431"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Severina Etelvina de Pontes",
+        "zipcode": "58703-429"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Jackson Fernandes dos Santos",
+        "zipcode": "58703-657"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Cosmo Moura da Silva",
+        "zipcode": "58703-410"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Leonardo Torres Medeiros de Araújo",
+        "zipcode": "58703-610"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Fillyanderson Medeiros Martins",
+        "zipcode": "58703-658"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Murilo Alves de Lima",
+        "zipcode": "58703-404"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador José Augusto Longo da Silva",
+        "zipcode": "58703-344"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Pedro Alexon Dias Jerônimo",
+        "zipcode": "58703-425"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Severino Rodrigues de Sousa",
+        "zipcode": "58703-428"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Diego Lucena Camboim",
+        "zipcode": "58703-632"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Poeta Antônio Américo de Medeiros",
+        "zipcode": "58703-343"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Fábio Costa Araújo",
+        "zipcode": "58703-655"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Adriana Ferreira Carneiro",
+        "zipcode": "58703-628"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Igor Araújo Mota",
+        "zipcode": "58703-623"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Edgar Edjalma de Sousa",
+        "zipcode": "58704-792"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Francisco Lúcio da Nóbrega",
+        "zipcode": "58704-794"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua João Pinheiro da Silva",
+        "zipcode": "58704-796"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua João Batista Campos Queiroz",
+        "zipcode": "58704-797"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua João Pedro Teixeira",
+        "zipcode": "58704-791"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Horácio Nóbrega",
+        "zipcode": "58704-751"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Raphael de Santana Alves",
+        "zipcode": "58703-630"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Avenida Diocênio Sátiro de Sousa",
+        "zipcode": "58703-393"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Francisco Ferreira Cabral",
+        "zipcode": "58703-653"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Igor de Arruda Souza",
+        "zipcode": "58704-777"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Avenida Maria Gorete Vieira Franco",
+        "zipcode": "58703-392"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Adalberto Bernardo Nunes",
+        "zipcode": "58705-062"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Doralice Sátiro",
+        "zipcode": "58703-391"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Francisco Alex Davi de Lucena",
+        "zipcode": "58703-625"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Creuza Oliveira Lopes",
+        "zipcode": "58703-346"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Marcélio Carneiro de Amorim Medeiros Dias",
+        "zipcode": "58703-650"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Pedro Lino Brandão",
+        "zipcode": "58703-637"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Arthur Diego de Sousa Damasceno",
+        "zipcode": "58703-660"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Raniere Mazilli",
+        "zipcode": "58703-971"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Manuel Rodrigues Lustosa",
+        "zipcode": "58703-423"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Jaci Dias dos Santos",
+        "zipcode": "58703-635"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Vereador José Augusto Longo da Silva",
+        "zipcode": "58703-275"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Otávio Germano de Araújo",
+        "zipcode": "58705-152"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Wagner de Lucena Oliveira",
+        "zipcode": "58705-162"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Fernanda Carvalho Monteiro",
+        "zipcode": "58705-206"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sete Casas",
+        "street": "Rua Prefeito Biroca Firmino",
+        "zipcode": "58705-280"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Cabo Ademar Bezerra dos Santos",
+        "zipcode": "58705-572"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Antônio de Lira Santos",
+        "zipcode": "58705-578"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Emília Medeiros Dantas",
+        "zipcode": "58705-647"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Francisca Medeiros de Lucena",
+        "zipcode": "58705-656"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Severino Perigo",
+        "zipcode": "58705-812"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Manuel Pereira Sobrinho",
+        "zipcode": "58705-813"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Brasília",
+        "zipcode": "58705-832"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua José Claudino da Nóbrega",
+        "zipcode": "58705-836"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Osmundo Wanderley da Nóbrega",
+        "zipcode": "58705-838"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Escritor João Norberto",
+        "zipcode": "58705-841"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Manuel Quirino",
+        "zipcode": "58705-843"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta João Severo de Lima",
+        "zipcode": "58705-844"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Cesário José de Pontes",
+        "zipcode": "58705-846"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Escritor Nelson Lustoza Cabral",
+        "zipcode": "58705-848"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poetisa Francisca Barbosa",
+        "zipcode": "58705-852"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Escritor José Antônio Urquiza",
+        "zipcode": "58705-853"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Silvino Pirauá de Lima",
+        "zipcode": "58705-855"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Polion Carneiro",
+        "zipcode": "58705-857"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "58705-865"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua São Paulo",
+        "zipcode": "58705-870"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Do Nego",
+        "zipcode": "58700-560"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Do Meio",
+        "zipcode": "58703-160"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Rua Anchieta Leitão Torres de Araújo",
+        "zipcode": "58705-098"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antonio",
+        "street": "Travessa Isabel Viana",
+        "zipcode": "58701-125"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Maria das Graças Medeiros",
+        "zipcode": "58705-643"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Alcides Carneiro",
+        "zipcode": "58700-210"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Wellington Medeiros de Lucena",
+        "zipcode": "58705-653"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Manoel A. De Freitas",
+        "zipcode": "58703-110"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Francisco da Silva Fernandes",
+        "zipcode": "58705-625"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antonio",
+        "street": "Travessa Cicero Jose De Sousa",
+        "zipcode": "58701-075"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Das Espinharas",
+        "zipcode": "58700-650"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Severina Leopoldina de Medeiros",
+        "zipcode": "58705-593"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Bivar Olinto",
+        "street": "Rua Manoel Pereira Filho",
+        "zipcode": "58701-790"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Cassimiro Ricart",
+        "zipcode": "58704-333"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Travessa Severino Dutra",
+        "zipcode": "58703-145"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Tarcísio Meira César",
+        "zipcode": "58705-840"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rodovia Patos Pianco",
+        "zipcode": "58703-003"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Mestre Felix",
+        "zipcode": "58704-113"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Sebastião Marcelino Sobrinho",
+        "zipcode": "58705-136"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Horacio Nobrega",
+        "zipcode": "58704-003"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Francisco Macena",
+        "zipcode": "58700-513"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Titico Gomes",
+        "zipcode": "58704-385"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Titico Gomes",
+        "zipcode": "58704-380"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Humberto Do Bandolin",
+        "zipcode": "58705-290"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Queiroz",
+        "street": "Rua Francisco C. Do Nascimento",
+        "zipcode": "58704-180"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Escritor Ronald de Queiroz",
+        "zipcode": "58705-850"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Área Rural de Patos",
+        "street": "Área Rural",
+        "zipcode": "58708-899"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Escritor Anníbal Bonavides",
+        "zipcode": "58705-818"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Independencia",
+        "zipcode": "58700-280"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Dede Marinho",
+        "zipcode": "58705-300"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim California",
+        "street": "Rua Godofredo Medeiros",
+        "zipcode": "58700-290"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Zuza Cabral",
+        "zipcode": "58705-220"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Pedro Inacio",
+        "zipcode": "58705-330"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Estudante Josinaldo Targino",
+        "zipcode": "58705-270"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Piano De Sousa",
+        "zipcode": "58704-005"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnolia",
+        "street": "Avenida Morumbis",
+        "zipcode": "58705-620"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Rua Assis Wanderley",
+        "zipcode": "58706-380"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Rua Braz Morais",
+        "zipcode": "58706-390"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatoba",
+        "street": "Rua Roosevelt",
+        "zipcode": "58707-050"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatoba",
+        "street": "Rua Frei Manoel",
+        "zipcode": "58707-070"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatoba",
+        "street": "Rua Renan Aires",
+        "zipcode": "58707-240"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Joao Cezar",
+        "zipcode": "58707-030"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua América Palmeira dos Santos",
+        "zipcode": "58706-362"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Maria do Socorro Sousa de Lucena",
+        "zipcode": "58706-364"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Severino Alves dos Santos",
+        "zipcode": "58706-125"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Saulo de Queiroz Melo",
+        "zipcode": "58701-470"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Alício Barreto",
+        "zipcode": "58701-560"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Antônio Macedo",
+        "zipcode": "58704-463"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua Bossuet Wanderley",
+        "zipcode": "58700-410"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Felizardo Leite",
+        "zipcode": "58703-042"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Doutor José Genuíno",
+        "zipcode": "58703-258"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Santa Luzia",
+        "zipcode": "58704-505"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Peregrino de Araújo",
+        "zipcode": "58701-416"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Irineu Joffily",
+        "zipcode": "58701-000"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Amália Cruz Guedes",
+        "zipcode": "58703-384"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Antônio José Leite",
+        "zipcode": "58700-153"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua José Joaquim",
+        "zipcode": "58708-384"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua José Melquíades",
+        "zipcode": "58708-500"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Europa",
+        "street": "Avenida Polonia",
+        "zipcode": "58705-120"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Rua Manoel Alves De Figueiredo",
+        "zipcode": "58706-480"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Gumercindo Leite",
+        "zipcode": "58705-250"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Redencao",
+        "street": "Rua Luiz Fragoso Diniz",
+        "zipcode": "58701-510"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Dos Pegas",
+        "zipcode": "58705-360"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Severino Paulo Barbosa",
+        "zipcode": "58706-365"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Pedro Celestino",
+        "zipcode": "58705-340"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Severino Inacio",
+        "zipcode": "58705-350"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Francisco Ricarte de Carvalho",
+        "zipcode": "58704-477"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Rua Da Linha",
+        "zipcode": "58706-450"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Galin Assis",
+        "zipcode": "58700-468"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "58700-370"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua José Soares de Lima",
+        "zipcode": "58706-563"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Dr Ageu De Castro",
+        "zipcode": "58705-310"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim California",
+        "street": "Rua Domingo Lugo",
+        "zipcode": "58700-270"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnolia",
+        "street": "Rua Dos Lirios",
+        "zipcode": "58705-530"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rodovia Br",
+        "zipcode": "58706-500"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Jose Borges",
+        "zipcode": "58705-240"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Violonista Antonio Emiliano",
+        "zipcode": "58705-210"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnolia",
+        "street": "Avenida Cateis",
+        "zipcode": "58705-600"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Rua Joaquina Medeiros de Lima",
+        "zipcode": "58706-317"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Travessa Braz Morais",
+        "zipcode": "58706-395"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Manoel Alexandrino Palmeira",
+        "zipcode": "58704-536"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Lamarco Cordeiro Silva",
+        "zipcode": "58705-622"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "São Sebastião",
+        "street": "Travessa Euclides Franco",
+        "zipcode": "58706-174"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Rosa Maria Sales",
+        "zipcode": "58708-215"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Odília Bezerra",
+        "zipcode": "58704-824"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Severino Lopes da Silva",
+        "zipcode": "58704-032"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Nova Conquista",
+        "street": "Rua Maria da Guia do Ó",
+        "zipcode": "58708-256"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Rua Luiz Linderman",
+        "zipcode": "58706-470"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Angelita Soares Cavalcante",
+        "zipcode": "58701-388"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Beira Rio",
+        "zipcode": "58706-630"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Padre Joaquim de Assis Ferreira",
+        "zipcode": "58703-268"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Vitoria",
+        "street": "Rua Sebastiao Queiroz",
+        "zipcode": "58706-150"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatoba",
+        "street": "Rua Aloisio Araujo",
+        "zipcode": "58707-490"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecilia",
+        "street": "Rua Sao Salvador",
+        "zipcode": "58708-130"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Vitoria",
+        "street": "Rua Luiz Marinho Dos Santos",
+        "zipcode": "58706-180"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Vitoria",
+        "street": "Rua Nabor Wanderley",
+        "zipcode": "58706-010"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Travessa Francisco Alves Queiroz",
+        "zipcode": "58704-190"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Travessa Isabel Viana",
+        "zipcode": "58701-316"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasília",
+        "street": "Rua João de Barros",
+        "zipcode": "58700-400"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Jovino Lustosa",
+        "zipcode": "58707-340"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Rua Justiniano Guedes",
+        "zipcode": "58707-440"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatobá",
+        "street": "Travessa Manoel Reinaldo",
+        "zipcode": "58707-425"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antônio",
+        "street": "Rua Maria de Lourdes Brito",
+        "zipcode": "58701-110"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Rua Olivan Queiroz",
+        "zipcode": "58704-520"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecília",
+        "street": "Rua Santa Mônica",
+        "zipcode": "58708-020"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Bela Vista",
+        "street": "Travessa Braz Macena",
+        "zipcode": "58704-535"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Sérgio Lima",
+        "zipcode": "58701-360"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Conego Raul Lopes De Souza",
+        "zipcode": "58701-430"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Belo Horizonte",
+        "street": "Rua Pedro Nicacio",
+        "zipcode": "58704-450"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Rua Pedro Benedito",
+        "zipcode": "58706-320"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Salgadinho",
+        "street": "Rua Tereza Praxedes Dos Santos",
+        "zipcode": "58706-640"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Francisco de Assis Morais da Silva",
+        "zipcode": "58703-216"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Durval da Silva Melquíades",
+        "zipcode": "58703-221"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Juvita Avelino de Sousa",
+        "zipcode": "58703-225"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua José Dantas dos Santos",
+        "zipcode": "58703-277"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Estudante Fabrício da Silva Rodrigues",
+        "zipcode": "58703-340"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Pedro Alexandrino de Araújo Filho",
+        "zipcode": "58703-349"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Francisco de Assis Barboza",
+        "zipcode": "58703-422"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Pastor Edson Poujeaux",
+        "zipcode": "58704-774"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Liberdade",
+        "street": "Rua Roldão Caroca do Nascimento",
+        "zipcode": "58703-204"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Brasilia",
+        "street": "Travessa Bossuet Wanderley",
+        "zipcode": "58700-415"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Oscar Xavier dos Santos",
+        "zipcode": "58703-266"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereadora Maria Esther Sátiro Fernandes",
+        "zipcode": "58703-430"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Dezoito Do Forte",
+        "zipcode": "58700-670"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Wilson Jansen",
+        "zipcode": "58705-260"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Rua Sargento Lourival Diniz",
+        "zipcode": "58706-410"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Jose Clementino",
+        "zipcode": "58705-320"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Joao Gomes",
+        "zipcode": "58705-200"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador José Torres Gomes",
+        "zipcode": "58703-438"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Manoel Bezerra de Albuquerque",
+        "zipcode": "58704-722"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Vitoria",
+        "street": "Rua Joao Mariano",
+        "zipcode": "58706-030"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Francisco Antônio de Maria",
+        "zipcode": "58703-440"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jatoba",
+        "street": "Rua Anatildes Lucena",
+        "zipcode": "58707-090"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Alto da Tubiba",
+        "street": "Rua Antônio Tranca Ruas",
+        "zipcode": "58708-530"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Rua Creuza Oliveira Lopes",
+        "zipcode": "58703-273"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santa Cecilia",
+        "street": "Rua Sao Cristovao",
+        "zipcode": "58708-170"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Vereador Severino Alves Siqueira",
+        "zipcode": "58703-445"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Samuel Canuto da Costa",
+        "zipcode": "58704-782"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua Maria do Socorro Silva Oliveira",
+        "zipcode": "58704-786"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Novo Horizonte",
+        "street": "Rua José Justino de Amorim",
+        "zipcode": "58704-795"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua Horácio Nóbrega",
+        "zipcode": "58705-193"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Noé Trajano",
+        "street": "Rua José Genival Rodrigues Júnior",
+        "zipcode": "58705-207"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Manoel Crispim de Araújo",
+        "zipcode": "58705-644"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Júlio Veríssimo Gomes",
+        "zipcode": "58705-803"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Maranhão",
+        "zipcode": "58705-826"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Pará",
+        "zipcode": "58705-827"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Odilon Nunes de Sá",
+        "zipcode": "58705-837"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Maternidade",
+        "street": "Rua Luiz Fragoso Diniz",
+        "zipcode": "58701-502"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morro",
+        "street": "Conjunto Deputado Jose Mariz",
+        "zipcode": "58703-310"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Dr Pedro Firmino",
+        "zipcode": "58700-071"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Lacerda",
+        "street": "Rua Severina Da Costa",
+        "zipcode": "58704-300"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Morada do Sol",
+        "street": "Rua Estácio de Sá e Souza",
+        "zipcode": "58703-398"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Conj Noe Trajano",
+        "street": "Rua Afonso Kerly",
+        "zipcode": "58705-380"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jua Doce",
+        "street": "Rua Sargento Eme Cavalcante",
+        "zipcode": "58704-590"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Escritor Adhemar da Nóbrega",
+        "zipcode": "58705-842"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Escritor Roberto Gentil",
+        "zipcode": "58705-845"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Poeta Manuel Galdino Bandeira",
+        "zipcode": "58705-849"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Escritor Paulo Fernandes Bonavides",
+        "zipcode": "58705-858"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Sao Sebastiao",
+        "street": "Rua Guadalajara",
+        "zipcode": "58706-370"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Estados",
+        "street": "Rua Escritor Luís Wanderley Torres",
+        "zipcode": "58705-854"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Jardim Magnólia",
+        "street": "Rua Otávio Horácio de Medeiros",
+        "zipcode": "58705-592"
+    },
+    {
+        "city": "Patos",
+        "state": "PB",
+        "district": "Santo Antonio",
+        "street": "Rua Noe Trajano",
+        "zipcode": "58701-250"
+    }
+]

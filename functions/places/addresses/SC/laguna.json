@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Laguna",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Osvaldo Cabral 113",
+        "zipcode": "88790-970"
+    },
+    {
+        "city": "Laguna",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88790-000"
+    },
+    {
+        "city": "Laguna",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Osvaldo Cabral",
+        "zipcode": "88790-971"
+    },
+    {
+        "city": "Laguna",
+        "state": "SC",
+        "district": "Povoado de Passagem da Barra",
+        "street": "Rua Vereador Euclides do Nascimento",
+        "zipcode": "88790-973"
+    },
+    {
+        "city": "Laguna",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Fernando Antônio dos Santos",
+        "zipcode": "88790-990"
+    }
+]

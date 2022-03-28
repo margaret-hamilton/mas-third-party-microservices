@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Guaruja",
+        "state": "SP",
+        "district": "Morrinhos",
+        "street": "Rua Ernesto Marques",
+        "zipcode": "11495-014"
+    },
+    {
+        "city": "Guaruja",
+        "state": "SP",
+        "district": "Acapulco",
+        "street": "Rua Vinte E Nove",
+        "zipcode": "11445-170"
+    },
+    {
+        "city": "Guaruja",
+        "state": "SP",
+        "district": "Vila Santo Antonio",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "11432-410"
+    },
+    {
+        "city": "Guaruja",
+        "state": "SP",
+        "district": "Balneario Praia Do Pereque",
+        "street": "Avenida Rio Amazonas",
+        "zipcode": "11446-130"
+    }
+]

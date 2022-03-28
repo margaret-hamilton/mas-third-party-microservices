@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Águas Formosas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Doutor Sebastião Figueiredo 600",
+        "zipcode": "39880-970"
+    },
+    {
+        "city": "Águas Formosas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39880-000"
+    },
+    {
+        "city": "Águas Formosas",
+        "state": "MG",
+        "district": "Água Quente",
+        "street": "Rua Carneirinho Antonio Soares 157",
+        "zipcode": "39880-972"
+    }
+]

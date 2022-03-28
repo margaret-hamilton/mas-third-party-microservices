@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Torres",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida José Bonifácio 400",
+        "zipcode": "95560-972"
+    },
+    {
+        "city": "Torres",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Pacheco",
+        "zipcode": "95560-975"
+    },
+    {
+        "city": "Torres",
+        "state": "RS",
+        "district": null,
+        "street": "BR 101 Km 09",
+        "zipcode": "95560-990"
+    },
+    {
+        "city": "Torres",
+        "state": "RS",
+        "district": null,
+        "street": "Estr Geral",
+        "zipcode": "95560-991"
+    },
+    {
+        "city": "Torres",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Praça Quinze de Novembro",
+        "zipcode": "95560-970"
+    },
+    {
+        "city": "Torres",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95560-000"
+    }
+]

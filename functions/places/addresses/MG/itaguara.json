@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itaguara",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Doutor Antônio G de Oliveira 85",
+        "zipcode": "35514-970"
+    },
+    {
+        "city": "Itaguara",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35514-000"
+    },
+    {
+        "city": "Itaguara",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35488-000"
+    },
+    {
+        "city": "Itaguara",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa João Lima 20  AC Itaguara",
+        "zipcode": "35488-970"
+    }
+]

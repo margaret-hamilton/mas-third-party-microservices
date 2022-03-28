@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Campo Bom",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "93700-000"
+    },
+    {
+        "city": "Campo Bom",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas 52",
+        "zipcode": "93700-970"
+    },
+    {
+        "city": "Campo Bom",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua São Leopoldo 105 Loja 01",
+        "zipcode": "93700-974"
+    },
+    {
+        "city": "Campo Bom",
+        "state": "RS",
+        "district": "Metzler",
+        "street": "Avenida dos Estados 2900",
+        "zipcode": "93700-971"
+    },
+    {
+        "city": "Campo Bom",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Pio XII",
+        "zipcode": "93700-990"
+    }
+]

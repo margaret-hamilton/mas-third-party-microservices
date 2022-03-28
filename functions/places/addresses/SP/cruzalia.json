@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Cruzália",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Luiz Zandonadi 346",
+        "zipcode": "19860-970"
+    },
+    {
+        "city": "Cruzália",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19860-000"
+    },
+    {
+        "city": "Cruzália",
+        "state": "SP",
+        "district": null,
+        "street": "Dependências do PAS",
+        "zipcode": "19860-990"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Santa Fé",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Presidente Getúlio Vargas 1277",
+        "zipcode": "86770-970"
+    },
+    {
+        "city": "Santa Fé",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86770-000"
+    }
+]

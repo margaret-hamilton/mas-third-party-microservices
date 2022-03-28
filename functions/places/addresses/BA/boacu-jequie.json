@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Boaçu (Jequié)",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "45213-973"
+    },
+    {
+        "city": "Boaçu (Jequié)",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45213-200"
+    },
+    {
+        "city": "Boaçu (Jequié)",
+        "state": "BA",
+        "district": null,
+        "street": null,
+        "zipcode": "45209-000"
+    },
+    {
+        "city": "Boaçu (Jequié)",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "45209-970"
+    }
+]

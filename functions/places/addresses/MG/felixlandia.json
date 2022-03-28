@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Felixlândia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35794-000"
+    },
+    {
+        "city": "Felixlândia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39237-000"
+    },
+    {
+        "city": "Felixlândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Padre Félix 75",
+        "zipcode": "39237-970"
+    },
+    {
+        "city": "Felixlândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Padre Félix 75",
+        "zipcode": "35794-970"
+    }
+]

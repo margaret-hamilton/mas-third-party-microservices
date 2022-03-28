@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Toritama",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua João Pereira Tabosa 77",
+        "zipcode": "55125-970"
+    },
+    {
+        "city": "Toritama",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55125-000"
+    },
+    {
+        "city": "Toritama",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Surubim",
+        "zipcode": "55125-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Reserva do Iguaçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Pedro Siqueira",
+        "zipcode": "85195-972"
+    },
+    {
+        "city": "Reserva do Iguaçu",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85195-000"
+    },
+    {
+        "city": "Reserva do Iguaçu",
+        "state": "PR",
+        "district": "Segredo",
+        "street": "Rua Principal",
+        "zipcode": "85195-971"
+    }
+]

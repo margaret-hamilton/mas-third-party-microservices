@@ -1,0 +1,772 @@
+[
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19920-000"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Marlene Speranza dos Santos Domingues",
+        "zipcode": "19920-192"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Borys Camargo Lima",
+        "zipcode": "19920-216"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Avenida Comercial",
+        "zipcode": "19920-210"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antonio Batista",
+        "street": "Rua João Carvalho da Silva",
+        "zipcode": "19920-184"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Doutor João Batista de Alencar",
+        "zipcode": "19920-144"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Doutor José de Azevedo Costa",
+        "zipcode": "19920-154"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Rangel Pestana",
+        "zipcode": "19920-007"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Parque das Nações",
+        "street": "Rua C",
+        "zipcode": "19920-131"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Huet Bacelar",
+        "zipcode": "19920-240"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Barreto Filho",
+        "zipcode": "19920-039"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "19920-009"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rodovia Raposo Tavares",
+        "zipcode": "19920-242"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel João Luiz da Costa",
+        "zipcode": "19920-037"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Huet Bacelar",
+        "zipcode": "19920-041"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Rio Novo",
+        "street": "Avenida Rio Novo",
+        "zipcode": "19920-050"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Hiran Villa Nova",
+        "zipcode": "19920-230"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antonio Batista",
+        "street": "Rua Armando de Souza Freire",
+        "zipcode": "19920-182"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Avenida Deputado Federal Antonio Sylvio Cunha Bueno",
+        "zipcode": "19920-224"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Alfredo Maia",
+        "zipcode": "19920-029"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Antonio Prado",
+        "zipcode": "19920-043"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Doutor Mário Pernambuco",
+        "zipcode": "19920-232"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Jardim Thayná",
+        "street": "Rua Dois",
+        "zipcode": "19920-162"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Avenida Jornalista Mauricio de Lacerda Farah",
+        "zipcode": "19920-068"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Joaquim Barbalho Viana",
+        "zipcode": "19920-212"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Dante Righi",
+        "zipcode": "19920-234"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Conselheiro Rodrigues Alves",
+        "zipcode": "19920-062"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Jardim Lago Encantado",
+        "street": "Avenida Ourinhos",
+        "zipcode": "19923-020"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Amadeu Amaral",
+        "zipcode": "19920-152"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Parque das Nações",
+        "street": "Rua Hamilton Vigano",
+        "zipcode": "19920-130"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Área Rural de Salto Grande",
+        "street": "Área Rural",
+        "zipcode": "19929-899"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila dos Pescadores",
+        "street": "Avenida Oscar Thompson Filho",
+        "zipcode": "19920-400"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Sebastião",
+        "street": "Rua Hideo Okamoto",
+        "zipcode": "19920-092"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Dalila Brufato Vigano",
+        "zipcode": "19920-190"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Issa Nasser",
+        "zipcode": "19920-218"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Comendador Antonio Viganó",
+        "street": "Rua Gabriel Fogaça",
+        "zipcode": "19920-124"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Marechal Deodoro da Fonseca",
+        "zipcode": "19920-013"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Doutor José Ferraz da Rosa",
+        "zipcode": "19920-158"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Benjamin Constant",
+        "zipcode": "19920-021"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Geraldo",
+        "street": "Avenida Frei Cufini Pietro",
+        "zipcode": "19920-112"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Doutor Antonio Prado",
+        "zipcode": "19920-070"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa José Teodoro de Souza",
+        "zipcode": "19920-025"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua José Martins",
+        "zipcode": "19920-193"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Silva Jardim",
+        "zipcode": "19920-015"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Jardim Thayná",
+        "street": "Rua Três",
+        "zipcode": "19920-163"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Mario Marvulle",
+        "zipcode": "19920-074"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Nosso Teto",
+        "street": "Rua Padre Tarcísio Saviori",
+        "zipcode": "19920-102"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Centenário",
+        "street": "Rua Vereador Wilton Cury",
+        "zipcode": "19920-174"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Prefeito Coronel Virgílio José Ferreira",
+        "zipcode": "19920-214"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Mello Peixoto",
+        "zipcode": "19920-060"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Teodoro de Souza",
+        "zipcode": "19920-027"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Centenário",
+        "street": "Rua Professor Dimas Jarussi",
+        "zipcode": "19920-176"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Mario Moura Tassinari",
+        "zipcode": "19920-226"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Prefeito José Adarino Sinicio",
+        "zipcode": "19920-142"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Padre Diogo Antonio Feijó",
+        "zipcode": "19920-001"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Parque das Nações",
+        "street": "Viela Santo Antônio",
+        "zipcode": "19920-134"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Manoel da Cunha",
+        "zipcode": "19920-023"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Jorge Tibiriça",
+        "zipcode": "19920-031"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Professor Dimas Jarussi",
+        "zipcode": "19920-208"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Victório Bargeri",
+        "zipcode": "19920-220"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Pascoal Fre",
+        "zipcode": "19920-196"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Prefeito Augustinho Ribeiro de Carvalho",
+        "zipcode": "19920-194"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Vittorio Calia",
+        "zipcode": "19920-204"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Jardim Thayná",
+        "street": "Rua Um",
+        "zipcode": "19920-161"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Maria Aparecida Marana Nasser",
+        "zipcode": "19920-222"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Primeiro de Maio",
+        "zipcode": "19920-148"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Comendador Antonio Viganó",
+        "street": "Rua Nagib Queiroz",
+        "zipcode": "19920-120"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua W",
+        "zipcode": "19920-238"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Renato Nunes",
+        "zipcode": "19920-198"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Bonifácio",
+        "zipcode": "19920-035"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Centenário",
+        "street": "Rua Jorge Elias",
+        "zipcode": "19920-178"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Geraldo",
+        "street": "Travessa Padre José de Anchieta",
+        "zipcode": "19920-110"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua José Bonifácio",
+        "zipcode": "19920-228"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Vereador Wady Cury",
+        "zipcode": "19920-150"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Prefeito Arnaldo Pocay",
+        "zipcode": "19920-146"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "19920-084"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Nagib Direne",
+        "zipcode": "19920-202"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua José Bonifácio",
+        "zipcode": "19920-082"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Olimpio Pimentel",
+        "zipcode": "19920-017"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Miguel Amud",
+        "zipcode": "19920-156"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "19920-033"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Rio Novo",
+        "street": "Travessa Rio Novo",
+        "zipcode": "19920-052"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Prudente de Morais",
+        "zipcode": "19920-003"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antonio Batista",
+        "street": "Rua José Baracat",
+        "zipcode": "19920-186"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Santo Antônio",
+        "zipcode": "19920-140"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Padre José de Anchieta",
+        "zipcode": "19920-064"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa Rosinha Angeline",
+        "zipcode": "19920-019"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Prudente de Morais",
+        "zipcode": "19920-970"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Coronel Pedro Silvio Pocay",
+        "zipcode": "19920-005"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Doutor Barreto Filho",
+        "zipcode": "19920-236"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Marechal Floriano Peixoto",
+        "zipcode": "19920-011"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Benjamin Constant",
+        "zipcode": "19920-160"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Rio Novo",
+        "street": "Via Abelardo de Oliveira Guimarães",
+        "zipcode": "19920-055"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Centenário",
+        "street": "Rua Vereador João Nobrega",
+        "zipcode": "19920-170"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Senador Ricardo Batista",
+        "zipcode": "19920-066"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Paulo Roque Obreli",
+        "zipcode": "19920-072"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Comendador Antonio Viganó",
+        "street": "Rua Prefeito Francisco Di Giácomo",
+        "zipcode": "19920-126"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São Sebastião",
+        "street": "Travessa Angelo Perim",
+        "zipcode": "19920-090"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Huet Bacelar",
+        "zipcode": "19920-076"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua José Baracat",
+        "zipcode": "19920-200"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Parque das Nações",
+        "street": "Rua Manuel Francisco Jorge",
+        "zipcode": "19920-132"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Coronel João Luiz da Costa",
+        "zipcode": "19920-080"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Jardim Dourado",
+        "street": "Avenida Vereador João de Oliveira Negrão",
+        "zipcode": "19923-001"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Comendador Antonio Viganó",
+        "street": "Rua Menote Unti",
+        "zipcode": "19920-122"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Doutor Barreto Filho",
+        "zipcode": "19920-078"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Nosso Teto",
+        "street": "Rua Padre Segundo Antonio Piotti",
+        "zipcode": "19920-100"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antonio Batista",
+        "street": "Rua Doutor José Ferraz da Rosa",
+        "zipcode": "19920-180"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Padre Duilio Liburdi",
+        "zipcode": "19920-195"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Vila Salto Grande",
+        "street": "Rua Silveria Rezende",
+        "zipcode": "19920-206"
+    },
+    {
+        "city": "Salto Grande",
+        "state": "SP",
+        "district": "Conjunto Habitacional Centenário",
+        "street": "Rua Joaquim Barbalho Viana",
+        "zipcode": "19920-172"
+    }
+]

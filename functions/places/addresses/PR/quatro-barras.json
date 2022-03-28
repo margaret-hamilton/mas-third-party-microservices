@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Quatro Barras",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Catarina knapik",
+        "zipcode": "83420-970"
+    },
+    {
+        "city": "Quatro Barras",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Dom Pedro II",
+        "zipcode": "83420-990"
+    },
+    {
+        "city": "Quatro Barras",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Nossa Senhora da Luz",
+        "zipcode": "83420-991"
+    },
+    {
+        "city": "Quatro Barras",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83420-000"
+    }
+]

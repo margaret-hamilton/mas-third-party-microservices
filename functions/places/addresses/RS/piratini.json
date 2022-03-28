@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Piratini",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro 117",
+        "zipcode": "96490-970"
+    },
+    {
+        "city": "Piratini",
+        "state": "RS",
+        "district": "Cancelão",
+        "street": "Rua Sete de Setembro 95",
+        "zipcode": "96490-974"
+    },
+    {
+        "city": "Piratini",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "96490-000"
+    },
+    {
+        "city": "Piratini",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Vinte de Setembro",
+        "zipcode": "96490-990"
+    }
+]

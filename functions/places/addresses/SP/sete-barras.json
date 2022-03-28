@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Sete Barras",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Presidente Artur da Costa e Silva 366 Loja 1",
+        "zipcode": "11910-970"
+    },
+    {
+        "city": "Sete Barras",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Beija Flor  nº 169",
+        "zipcode": "11910-990"
+    },
+    {
+        "city": "Sete Barras",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "11910-000"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Monte Alegre de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Tiradentes 4",
+        "zipcode": "38420-970"
+    },
+    {
+        "city": "Monte Alegre de Minas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38420-000"
+    },
+    {
+        "city": "Monte Alegre de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Tiradentes",
+        "zipcode": "38475-970"
+    },
+    {
+        "city": "Monte Alegre de Minas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38475-000"
+    }
+]

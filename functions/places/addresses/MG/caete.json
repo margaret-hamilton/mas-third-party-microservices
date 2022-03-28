@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Caeté",
+        "state": "MG",
+        "district": null,
+        "street": "Alameda Quintas da Serra s/n",
+        "zipcode": "34800-990"
+    },
+    {
+        "city": "Caeté",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n  AGC Rancho Novo",
+        "zipcode": "34800-974"
+    },
+    {
+        "city": "Caeté",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "34800-000"
+    },
+    {
+        "city": "Caeté",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Peixoto de Souza 11",
+        "zipcode": "34800-970"
+    },
+    {
+        "city": "Caeté",
+        "state": "MG",
+        "district": "Pedra Branca",
+        "street": "Avenida João Pinheiro 3797",
+        "zipcode": "34800-971"
+    }
+]

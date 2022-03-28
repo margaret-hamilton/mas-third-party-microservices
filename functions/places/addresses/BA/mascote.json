@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Mascote",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Lomanto Júnior s/n",
+        "zipcode": "45870-970"
+    },
+    {
+        "city": "Mascote",
+        "state": "BA",
+        "district": "Teixeira do Progresso",
+        "street": "Rua Mascote s/n",
+        "zipcode": "45870-972"
+    },
+    {
+        "city": "Mascote",
+        "state": "BA",
+        "district": "Pimenta",
+        "street": "Rua do Comércio s/n",
+        "zipcode": "45876-970"
+    },
+    {
+        "city": "Mascote",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45870-000"
+    },
+    {
+        "city": "Mascote",
+        "state": "BA",
+        "district": "São João do Paraíso",
+        "street": "Avenida ACM s/n",
+        "zipcode": "45870-971"
+    }
+]

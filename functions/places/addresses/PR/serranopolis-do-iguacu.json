@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Serranópolis do Iguaçu",
+        "state": "PR",
+        "district": "Jardinópolis",
+        "street": "Rua Marechal Arthur Costa e Silva",
+        "zipcode": "85885-972"
+    },
+    {
+        "city": "Serranópolis do Iguaçu",
+        "state": "PR",
+        "district": "Jardinópolis",
+        "street": "Avenida Presidente Kennedy 530",
+        "zipcode": "85885-970"
+    },
+    {
+        "city": "Serranópolis do Iguaçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Independência",
+        "zipcode": "85885-971"
+    },
+    {
+        "city": "Serranópolis do Iguaçu",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Independência",
+        "zipcode": "85885-990"
+    },
+    {
+        "city": "Serranópolis do Iguaçu",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85885-000"
+    }
+]

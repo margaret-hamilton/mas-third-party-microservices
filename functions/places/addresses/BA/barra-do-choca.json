@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Barra do Choça",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45120-000"
+    },
+    {
+        "city": "Barra do Choça",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Senhor do Bonfim 11",
+        "zipcode": "45120-970"
+    },
+    {
+        "city": "Barra do Choça",
+        "state": "BA",
+        "district": "Barra Nova",
+        "street": "Rua Povoado de Barra Nova s/n",
+        "zipcode": "45120-971"
+    }
+]

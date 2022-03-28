@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Lontra",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Olímpio Campos 39",
+        "zipcode": "39437-972"
+    },
+    {
+        "city": "Lontra",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39437-000"
+    }
+]

@@ -1,0 +1,5371 @@
+[
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Palmeiras",
+        "street": "Rua Lindomar",
+        "zipcode": "06606-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Rua São Luiz",
+        "zipcode": "06604-215"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Avenida Alberto Ruffolo",
+        "zipcode": "06600-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Urano",
+        "zipcode": "06602-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Pompéia",
+        "zipcode": "06648-101"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Capri",
+        "zipcode": "06648-105"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Patriarca",
+        "zipcode": "06616-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Dracena",
+        "zipcode": "06630-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Helena",
+        "zipcode": "06626-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Lucinda",
+        "street": "Rua Rondônia",
+        "zipcode": "06626-360"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São Paulo",
+        "street": "Rua Francisco Creti Neto",
+        "zipcode": "06616-800"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração de Jesus",
+        "street": "Rua Aparício Corrêa de Godoy",
+        "zipcode": "06610-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Dolores Paschoalin",
+        "street": "Rua Geraldo Maximiano de Oliveira",
+        "zipcode": "06624-187"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Dolores Paschoalin",
+        "street": "Rua Ivanildo Nunes de Oliveira",
+        "zipcode": "06624-197"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Francisca Maria Bueno",
+        "zipcode": "06624-330"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Joaquim Alvarenga",
+        "zipcode": "06626-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Mercedes",
+        "street": "Rua Amapá",
+        "zipcode": "06626-370"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Infants Garden",
+        "street": "Rua Juvenal Marques de Oliveira",
+        "zipcode": "06626-480"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Brás Cubas",
+        "zipcode": "06631-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Lavandas (Reserva Santa Maria Nature)",
+        "zipcode": "06630-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Bromélias (Reserva Santa Maria Nature)",
+        "zipcode": "06630-324"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São João",
+        "street": "Rua Dom Hélder Câmara",
+        "zipcode": "06634-005"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Turquesa",
+        "zipcode": "06642-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Alameda Santa Monica (Condomínio Beverly Hills)",
+        "zipcode": "06620-395"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Rosas (Reserva Santa Maria Nature)",
+        "zipcode": "06630-318"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Cristino",
+        "street": "Rua Hélio da Silva Duca",
+        "zipcode": "06606-153"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Javaes",
+        "street": "Rua Aritana",
+        "zipcode": "06608-055"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Júlio Correia Godoy",
+        "zipcode": "06612-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Haber",
+        "street": "Rua Dimona",
+        "zipcode": "06620-105"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Haber",
+        "street": "Rua Nesher",
+        "zipcode": "06620-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Bosque de Jandira",
+        "street": "Rua Juréia",
+        "zipcode": "06620-360"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Palmeiras",
+        "street": "Rua Leopoldino dos Santos",
+        "zipcode": "06606-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Genesio dos Santos Tech",
+        "zipcode": "06612-295"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Eliezer Venuto Santos",
+        "zipcode": "06622-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Travessa Crescencio Pereira Santos",
+        "zipcode": "06622-515"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Viela do Córrego",
+        "zipcode": "06622-285"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua da Escola",
+        "zipcode": "06602-290"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Elmo Veluto Dombroski",
+        "zipcode": "06622-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Ferraz de Vasconcelos",
+        "zipcode": "06622-360"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Róseo Pereira de Souza",
+        "zipcode": "06624-075"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua John Lennon",
+        "zipcode": "06624-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Katy",
+        "zipcode": "06624-380"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Osvaldo Ferreira Santos",
+        "zipcode": "06622-470"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Mercedes",
+        "street": "Rua Rondônia",
+        "zipcode": "06626-410"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Palmeira DOeste",
+        "zipcode": "06622-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Avenida Marginal",
+        "zipcode": "06622-630"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda dos Lírios (Reserva Santa Maria Nature)",
+        "zipcode": "06630-312"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Peroba",
+        "zipcode": "06642-490"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Guarulhos",
+        "zipcode": "06622-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Buri",
+        "zipcode": "06622-370"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Roma",
+        "zipcode": "06648-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Marília",
+        "street": "Rua Justo Nicola",
+        "zipcode": "06606-360"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Líbano",
+        "street": "Rua Marília",
+        "zipcode": "06640-025"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Dolores Paschoalin",
+        "street": "Rua Otacília Angélica Teixeira",
+        "zipcode": "06624-175"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Miguel Franes Gonçalves",
+        "zipcode": "06624-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Granja Alvorada",
+        "street": "Rua Marcélia",
+        "zipcode": "06630-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Godinho",
+        "street": "Rua Marquês de Tamandaré",
+        "zipcode": "06626-420"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Avenida das Papoulas (Reserva Santa Maria Nature)",
+        "zipcode": "06630-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda Vitória",
+        "zipcode": "06630-334"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda dos Copos de Leite (Reserva Santa Maria Nature)",
+        "zipcode": "06630-336"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda dos Girassóis (Reserva Santa Maria Nature)",
+        "zipcode": "06630-352"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Violetas (Reserva Santa Maria Nature)",
+        "zipcode": "06630-346"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Bolívia",
+        "street": "Rua Azaléia",
+        "zipcode": "06642-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Bolívia",
+        "street": "Praça dos Inconfidentes",
+        "zipcode": "06642-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Selenita",
+        "zipcode": "06642-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Rubi",
+        "zipcode": "06642-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Líbano",
+        "street": "Travessa Salvador",
+        "zipcode": "06640-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Venezuela",
+        "zipcode": "06648-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Siena",
+        "zipcode": "06648-115"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Sicília",
+        "zipcode": "06648-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Taranto",
+        "zipcode": "06648-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Civita",
+        "zipcode": "06648-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Nápoles",
+        "zipcode": "06648-155"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Gérberas (Reserva Santa Maria Nature)",
+        "zipcode": "06630-314"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Estrelícias (Reserva Santa Maria Nature)",
+        "zipcode": "06630-316"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Tulipas (Reserva Santa Maria Nature)",
+        "zipcode": "06630-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda da Flor de Jade (Reserva Santa Maria Nature)",
+        "zipcode": "06630-326"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda dos Jasmins (Reserva Santa Maria Nature)",
+        "zipcode": "06630-328"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda da Acácia Imperial (Reserva Santa Maria Nature)",
+        "zipcode": "06630-332"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Estrada Estadual Barueri",
+        "zipcode": "06622-640"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda Brinco de Princesa (Reserva Santa Maria Nature)",
+        "zipcode": "06630-338"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda Amor Perfeito (Reserva Santa Maria Nature)",
+        "zipcode": "06630-344"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Bolívia",
+        "zipcode": "06648-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "06612-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Bosque de Jandira",
+        "street": "Rua Itapuã",
+        "zipcode": "06620-380"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Viela Ancião Sebastião Antonini",
+        "zipcode": "06622-185"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Alameda Pasadena (Condomínio Beverly Hills)",
+        "zipcode": "06620-400"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Ailton Esteves de Melo",
+        "zipcode": "06622-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Osaka",
+        "zipcode": "06622-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Itararé",
+        "zipcode": "06622-425"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Ancião Sebastião Antonini",
+        "zipcode": "06622-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Carvalho",
+        "zipcode": "06630-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Viela Emilly Fernanda Moreno Gonçalves",
+        "zipcode": "06622-207"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Mauá",
+        "zipcode": "06622-340"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Camila",
+        "street": "Rua Vitória",
+        "zipcode": "06622-650"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Imirim",
+        "zipcode": "06624-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Antônio Galvão",
+        "zipcode": "06624-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Margaridas (Reserva Santa Maria Nature)",
+        "zipcode": "06630-348"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Visconde de Sabugosa",
+        "zipcode": "06631-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Ivo Decarli Filho",
+        "zipcode": "06636-235"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Líbano",
+        "street": "Rua Natalício Oliveira Cesar",
+        "zipcode": "06640-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Diamante",
+        "zipcode": "06642-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Suzano",
+        "zipcode": "06622-620"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Camila",
+        "street": "Rua Maíra",
+        "zipcode": "06622-670"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Safira",
+        "zipcode": "06642-280"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila São Nicolau",
+        "street": "Rua Basílio Teixeira Costa",
+        "zipcode": "06620-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Chile",
+        "zipcode": "06648-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Avenida Leão de Judá",
+        "zipcode": "06631-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Luíza Regonato",
+        "zipcode": "06636-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Quincas Borba",
+        "zipcode": "06631-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Gardênias (Reserva Santa Maria Nature)",
+        "zipcode": "06630-340"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda dos Cravos (Reserva Santa Maria Nature)",
+        "zipcode": "06630-342"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda Dama da Noite (Reserva Santa Maria Nature)",
+        "zipcode": "06630-354"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Lago dos Cisnes",
+        "street": "Rua Cisne Negro",
+        "zipcode": "06634-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Gérson da Cruz",
+        "zipcode": "06636-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Benedito Furtado",
+        "zipcode": "06636-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Florença",
+        "zipcode": "06648-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Toledo",
+        "zipcode": "06648-135"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Marcelina",
+        "zipcode": "06648-145"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Ana Cristina II",
+        "street": "Rua Fiorentina",
+        "zipcode": "06648-125"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Alameda Hollywood (Condomínio Beverly Hills)",
+        "zipcode": "06620-415"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Epicéia",
+        "zipcode": "06630-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Castanheiro",
+        "zipcode": "06630-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Willian Wadell",
+        "zipcode": "06606-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Primaveras (Reserva Santa Maria Nature)",
+        "zipcode": "06630-330"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Nogueira",
+        "zipcode": "06630-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Estrada Estadual Barueri",
+        "zipcode": "06624-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Bongainville",
+        "zipcode": "06630-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Araribas",
+        "zipcode": "06642-365"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Baobá",
+        "zipcode": "06642-475"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Javaes",
+        "street": "Rua Carlos Pereira Leite",
+        "zipcode": "06608-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Popi",
+        "street": "Rua Ademar Pereira de Barros",
+        "zipcode": "06608-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Diogo Balhesteiro",
+        "street": "Rua Alpinópolis",
+        "zipcode": "06608-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Analândia",
+        "street": "Rua Carajás",
+        "zipcode": "06608-095"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Viela Aparecido Henrique",
+        "zipcode": "06602-293"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Belmont",
+        "street": "Viela Tapirapés",
+        "zipcode": "06608-045"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Haber",
+        "street": "Rua Tiberias",
+        "zipcode": "06620-115"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ipê",
+        "street": "Rua das Orquídeas",
+        "zipcode": "06606-325"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Brotinho",
+        "street": "Rua Sócrates",
+        "zipcode": "06604-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Antônio Porto",
+        "street": "Rua Camburi",
+        "zipcode": "06620-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Estrada Municipal",
+        "zipcode": "06620-800"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Rio Grande da Serra",
+        "zipcode": "06622-400"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Godinho",
+        "street": "Rua Antônio Celestino de Santana",
+        "zipcode": "06624-455"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Viela Mory",
+        "zipcode": "06626-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Granja Alvorada",
+        "street": "Praça Paris",
+        "zipcode": "06630-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Macabea",
+        "zipcode": "06631-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Olga Batista",
+        "zipcode": "06636-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Avenida Mogno",
+        "zipcode": "06642-355"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Avenida Figueira",
+        "zipcode": "06642-370"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Carnaúba",
+        "zipcode": "06642-390"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Avenida Salgueiro",
+        "zipcode": "06642-405"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Avenida Seringueira",
+        "zipcode": "06642-410"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Imbuia",
+        "zipcode": "06642-450"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Indaiá",
+        "zipcode": "06642-460"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Marília",
+        "street": "Praça Israel Alves Lima",
+        "zipcode": "06606-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração de Jesus",
+        "street": "Rua João Dias Ribeiro",
+        "zipcode": "06610-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Ibaré",
+        "zipcode": "06624-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Erick Rose",
+        "zipcode": "06624-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Pedro Jardim",
+        "zipcode": "06636-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Valentim Milanes",
+        "zipcode": "06636-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda Flor de Lótus (Reserva Santa Maria Nature)",
+        "zipcode": "06630-308"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Buriti",
+        "zipcode": "06642-385"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Núcleo Micro Industrial Presidente Wilson",
+        "street": "Rua Estrela do Norte",
+        "zipcode": "06602-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Cecília",
+        "street": "Rua João Del Moura",
+        "zipcode": "06602-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Esmeralda",
+        "street": "Rua Altino de Souza Carvalho",
+        "zipcode": "06602-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua Jandira",
+        "zipcode": "06604-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Agostinho Souza",
+        "zipcode": "06606-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Deputado José Costa",
+        "zipcode": "06606-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua Corifeu de Azevedo Marques",
+        "zipcode": "06606-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ercília",
+        "street": "Rua Jade",
+        "zipcode": "06606-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua José A. Sampaio",
+        "zipcode": "06606-390"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Benedito Domingos Velho",
+        "zipcode": "06612-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Arthemio Dionizio da Costa",
+        "zipcode": "06612-280"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Núcleo Micro Industrial Presidente Wilson",
+        "street": "Rua Sílvio Tozzi",
+        "zipcode": "06602-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Odilon Correia Pires",
+        "zipcode": "06602-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Travessa do Sol",
+        "zipcode": "06602-195"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Marte",
+        "zipcode": "06602-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Esmeralda",
+        "street": "Rua Nilde",
+        "zipcode": "06602-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Nova Conquista",
+        "zipcode": "06602-327"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Lindaura",
+        "zipcode": "06602-340"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Vicente M. Paula",
+        "zipcode": "06604-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Tuins",
+        "zipcode": "06604-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Massao Yamamoto",
+        "zipcode": "06606-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Ramon Fernandes Peres",
+        "zipcode": "06612-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Milton Bueno de Camargo",
+        "zipcode": "06612-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Viela São Vitor",
+        "zipcode": "06604-115"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Viela Nossa Senhora Aparecida",
+        "zipcode": "06604-135"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Viela Rosana",
+        "zipcode": "06604-143"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Via Expressa Mauri Sebastião Barufi",
+        "zipcode": "06606-035"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eugênia",
+        "street": "Rua Vereador Osmar de Oliveira",
+        "zipcode": "06606-245"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Brigadeiro Tobias",
+        "zipcode": "06616-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Bosque de Jandira",
+        "street": "Rua Antonina",
+        "zipcode": "06620-370"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Alameda Manhantan (Condomínio Beverly Hills)",
+        "zipcode": "06620-385"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Japão",
+        "zipcode": "06622-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Biritiba Mirim",
+        "zipcode": "06622-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Santo André",
+        "zipcode": "06622-280"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Vilmari",
+        "zipcode": "06622-480"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Alzira F. Fernandes",
+        "zipcode": "06622-560"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua São Bernardo do Campo",
+        "zipcode": "06622-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Giovanni Luchini",
+        "zipcode": "06612-255"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Visconde de Cairu",
+        "zipcode": "06622-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Salomão Barjud",
+        "zipcode": "06600-026"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Belmont",
+        "street": "Rua Tapirapés",
+        "zipcode": "06608-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Popi",
+        "street": "Rua João Santana Neto",
+        "zipcode": "06608-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Popi",
+        "street": "Rua General Érico Dutra",
+        "zipcode": "06608-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Ipiranga",
+        "zipcode": "06624-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Lucinda",
+        "street": "Rua Klaercia Alves Rocha",
+        "zipcode": "06626-340"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Copaíba",
+        "zipcode": "06642-445"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Carmine Gragnano",
+        "zipcode": "06600-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Elton Silva",
+        "zipcode": "06600-025"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida dos Vessoni",
+        "zipcode": "06600-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Anielo Gragnano",
+        "zipcode": "06600-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Nossa Senhora Aparecida",
+        "zipcode": "06600-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Rua Henrique Sammartino",
+        "zipcode": "06600-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Rua Henrique Dias",
+        "zipcode": "06600-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Núcleo Micro Industrial Presidente Wilson",
+        "street": "Avenida Alziro Soares",
+        "zipcode": "06602-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Daily Resende França",
+        "zipcode": "06606-380"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Popi",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "06608-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua Francisco José Silveira",
+        "zipcode": "06608-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua José Carlos",
+        "zipcode": "06608-330"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Patriarca",
+        "street": "Rua João Gomes de Carvalho",
+        "zipcode": "06608-390"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua José Albino Pereira",
+        "zipcode": "06612-001"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "06602-295"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Avenida José Aparecido de Melo",
+        "zipcode": "06604-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Anthero Correia de Godoy Filho",
+        "zipcode": "06612-275"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Padre Giuseppe Angelo Bertoli",
+        "zipcode": "06600-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Laura Waddel",
+        "zipcode": "06600-135"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Rua José Jorge Salum",
+        "zipcode": "06600-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Núcleo Micro Industrial Presidente Wilson",
+        "street": "Rua Pureza Marques de Oliveira",
+        "zipcode": "06602-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Analândia",
+        "street": "Rua Kinzo Fuji",
+        "zipcode": "06602-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Travessa do Bebeto",
+        "zipcode": "06600-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Maria Miranda da Silva",
+        "zipcode": "06612-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Messias C. Godoy",
+        "zipcode": "06602-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Maria Domitila",
+        "zipcode": "06616-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila São Nicolau",
+        "street": "Rua Guarujá",
+        "zipcode": "06620-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itapitanga",
+        "zipcode": "06620-295"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Bosque de Jandira",
+        "street": "Rua Guarapari",
+        "zipcode": "06620-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração de Jesus",
+        "street": "Rua Solange Aparecida Montan",
+        "zipcode": "06610-015"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Vicente Leporace",
+        "zipcode": "06612-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Sebastião Rodrigues da Silva",
+        "zipcode": "06612-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Visconde de Taunay",
+        "zipcode": "06622-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Viela da Lagoa",
+        "zipcode": "06602-335"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Heneide",
+        "street": "Rua Esmeralda",
+        "zipcode": "06602-380"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Heneide",
+        "street": "Rua Dolores de Castilho",
+        "zipcode": "06602-390"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Independência",
+        "zipcode": "06616-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Largo Trinta e Um de Março",
+        "zipcode": "06616-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Mairinque",
+        "zipcode": "06622-520"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Makenzi",
+        "street": "Travessa Roberto Lenington",
+        "zipcode": "06602-135"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Netuno",
+        "zipcode": "06602-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Esmeralda",
+        "street": "Rua Noêmia",
+        "zipcode": "06602-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Esmeralda",
+        "street": "Rua Cecília Maria",
+        "zipcode": "06602-280"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Karin Rose",
+        "zipcode": "06622-450"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Dolores Paschoalin",
+        "street": "Viela Antero Correia de Godoy",
+        "zipcode": "06624-177"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Sebastião Tomás da Silva",
+        "zipcode": "06624-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Francisco Tomaz da Silva",
+        "zipcode": "06624-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Antônio Lopes Tempos",
+        "zipcode": "06624-370"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela II",
+        "street": "Rua Barão de Itaúna",
+        "zipcode": "06624-390"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela II",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "06624-410"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Angelina",
+        "zipcode": "06626-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Lucinda",
+        "street": "Rua Bairi",
+        "zipcode": "06626-330"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Itapira",
+        "zipcode": "06624-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Francisco de Barros Cobra",
+        "zipcode": "06624-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Cantídio de Paula",
+        "zipcode": "06602-310"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Itaguaí",
+        "zipcode": "06624-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Maria Lúcia Rodrigues da Silva",
+        "zipcode": "06626-005"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Marcelina",
+        "zipcode": "06626-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Rua Lourenço Huss",
+        "zipcode": "06626-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Policarpo Quaresma",
+        "zipcode": "06631-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Antonio Conselheiro",
+        "zipcode": "06631-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Virgílio Vieira",
+        "zipcode": "06636-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Suite Quebra Nozes",
+        "street": "Rua Indianópolis",
+        "zipcode": "06634-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Mariano do Prado",
+        "zipcode": "06636-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Jequitibá",
+        "zipcode": "06630-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Paineira",
+        "zipcode": "06630-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Cipreste",
+        "zipcode": "06630-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Cedro",
+        "zipcode": "06642-430"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Makenzi",
+        "street": "Rua Eduardo Alves",
+        "zipcode": "06602-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Estrela DAlva",
+        "zipcode": "06602-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Patriarca",
+        "street": "Praça Isaac Elias",
+        "zipcode": "06602-395"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Praça João de Góes",
+        "zipcode": "06604-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Carlos Alberto Célio",
+        "zipcode": "06606-392"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua do Campo",
+        "zipcode": "06602-325"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Aurora",
+        "street": "Travessa do Machado",
+        "zipcode": "06602-115"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Makenzi",
+        "street": "Rua Laura Maria Roberta",
+        "zipcode": "06602-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Travessa do Sílvio",
+        "zipcode": "06602-165"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Leni",
+        "zipcode": "06602-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Platão",
+        "zipcode": "06604-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Viela São Jorge",
+        "zipcode": "06604-075"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Esmeralda",
+        "street": "Rua Paulo de Campos",
+        "zipcode": "06602-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Lenice",
+        "zipcode": "06602-360"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itapeva",
+        "zipcode": "06620-285"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Cristino",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "06606-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Viela João Pires de Andrade",
+        "zipcode": "06616-035"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Felipe Land",
+        "zipcode": "06606-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Raul Cavalcanti Albuquerque",
+        "zipcode": "06606-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ercília",
+        "street": "Rua Turmalina",
+        "zipcode": "06606-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Rolim",
+        "street": "Rua Adelma G. Salum",
+        "zipcode": "06608-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Joaquim de Moraes",
+        "zipcode": "06602-223"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sorocabano",
+        "street": "Travessa Andorinha",
+        "zipcode": "06604-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Brotinho",
+        "street": "Rua Virgílio Canhete",
+        "zipcode": "06604-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Belmont",
+        "street": "Rua Rita do Nascimento Duca",
+        "zipcode": "06608-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Belmont",
+        "street": "Rua Luiz Fernando",
+        "zipcode": "06608-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Água Marinha",
+        "zipcode": "06642-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Berilo",
+        "zipcode": "06642-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Avenida Embaúba",
+        "zipcode": "06642-415"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Jatobá",
+        "zipcode": "06642-455"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Marília",
+        "street": "Rua das Rosas",
+        "zipcode": "06606-340"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Assembléia de Deus",
+        "zipcode": "06606-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ercília",
+        "street": "Rua Catarina",
+        "zipcode": "06606-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Quincas Berro Dágua",
+        "zipcode": "06631-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São João",
+        "street": "Rua Jarama",
+        "zipcode": "06634-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Adelino Pinheiro",
+        "zipcode": "06636-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Ágata",
+        "zipcode": "06642-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Rua Ouro",
+        "zipcode": "06642-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Honduras",
+        "zipcode": "06648-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Aroeira",
+        "zipcode": "06642-360"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Ângelo Mathiazzo",
+        "zipcode": "06602-227"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Antônio Florindo de Souza",
+        "zipcode": "06604-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Rua José Albuquerque",
+        "zipcode": "06604-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Rua Doutor Paiva Meira",
+        "zipcode": "06604-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Avenida Emílio Guerra",
+        "zipcode": "06604-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua Jerônimo Moraes",
+        "zipcode": "06604-310"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Castro Alves",
+        "zipcode": "06606-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua Janete Clayr",
+        "zipcode": "06606-135"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua César Lates",
+        "zipcode": "06606-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Palmeiras",
+        "street": "Rua Itaboraí",
+        "zipcode": "06606-280"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ipê",
+        "street": "Rua das Magnólias",
+        "zipcode": "06606-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Ângelo Airoldi",
+        "zipcode": "06606-410"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Popi",
+        "street": "Rua Bartira",
+        "zipcode": "06608-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Brotinho",
+        "street": "Rua Achiles",
+        "zipcode": "06604-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Javaes",
+        "street": "Rua Amazonas",
+        "zipcode": "06608-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Analândia",
+        "street": "Praça União",
+        "zipcode": "06608-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Viela São Pedro",
+        "zipcode": "06604-095"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Maria Tereza",
+        "zipcode": "06604-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Brotinho",
+        "street": "Rua José M. Silva",
+        "zipcode": "06604-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua Pedro S. Nogueira",
+        "zipcode": "06604-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Nicolau Salum",
+        "zipcode": "06606-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Cristino",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "06606-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eugênia",
+        "street": "Rua Mello",
+        "zipcode": "06606-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Popi",
+        "street": "Rua Martin Luther King",
+        "zipcode": "06608-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Diogo Balhesteiro",
+        "street": "Rua Márcia",
+        "zipcode": "06608-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Viela São Judas Tadeu",
+        "zipcode": "06604-125"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Travessa Babi",
+        "zipcode": "06604-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ercília",
+        "street": "Rua Topázio",
+        "zipcode": "06606-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Belmont",
+        "street": "Rua São José",
+        "zipcode": "06608-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "06612-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Patriarca",
+        "street": "Rua Beta",
+        "zipcode": "06608-380"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "06616-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Chalaça",
+        "zipcode": "06616-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São Luiz",
+        "street": "Rua Manoel Alves Garcia",
+        "zipcode": "06618-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vale do Sol",
+        "street": "Rua Camboriú",
+        "zipcode": "06620-310"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Romero Leite",
+        "zipcode": "06622-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ipê",
+        "street": "Rua José Rufino de Oliveira",
+        "zipcode": "06606-290"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ipê",
+        "street": "Rua das Hortênsias",
+        "zipcode": "06606-330"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Joaquim Alves Camboim",
+        "zipcode": "06612-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Dom João V",
+        "zipcode": "06616-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Conde de Marialva",
+        "zipcode": "06616-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua José Bonifácio",
+        "zipcode": "06616-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São Luiz",
+        "street": "Avenida Antônio Bardella",
+        "zipcode": "06618-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Kioto",
+        "zipcode": "06622-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua José Longo",
+        "zipcode": "06608-340"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itaberaba",
+        "zipcode": "06620-315"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila São Nicolau",
+        "street": "Rua Perequê",
+        "zipcode": "06620-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Velho Sanazar",
+        "street": "Rua Agavni Mardiros",
+        "zipcode": "06620-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Dolores Paschoalin",
+        "street": "Rua Marco Polo Amorim",
+        "zipcode": "06624-195"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Diogo Balhesteiro",
+        "street": "Rua Iracema",
+        "zipcode": "06608-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua Francisco José Longo",
+        "zipcode": "06608-275"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Patriarca",
+        "street": "Rua Áurea V. Silva",
+        "zipcode": "06608-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Patriarca",
+        "street": "Rua Gama",
+        "zipcode": "06608-360"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Antão Steher",
+        "zipcode": "06612-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Antônio Lopes",
+        "zipcode": "06612-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Eli Valter Cesar",
+        "zipcode": "06612-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua João Levenete",
+        "zipcode": "06612-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua Antônio Rodrigues da Fonseca",
+        "zipcode": "06608-273"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Heneide Storni Ribeiro",
+        "zipcode": "06612-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Diogo Balhesteiro",
+        "street": "Rua Regiane",
+        "zipcode": "06608-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua Moisés Ramos",
+        "zipcode": "06608-277"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua Patrícia",
+        "zipcode": "06608-310"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua Mariana",
+        "zipcode": "06608-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Patriarca",
+        "street": "Rua Paulino Longo",
+        "zipcode": "06608-400"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Rosa Emília",
+        "street": "Rua Maria Aparecida Pedrosa",
+        "zipcode": "06608-430"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Mecânica Paulista",
+        "zipcode": "06612-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Milton Alves",
+        "zipcode": "06612-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua Maria Inês",
+        "zipcode": "06608-290"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itajubá",
+        "zipcode": "06620-283"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itabira",
+        "zipcode": "06620-289"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itaquera",
+        "zipcode": "06620-291"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itaquaçu",
+        "zipcode": "06620-293"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vale do Sol",
+        "street": "Rua Ipanema",
+        "zipcode": "06620-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Diogo Balhesteiro",
+        "street": "Travessa do Egídio",
+        "zipcode": "06608-245"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Marília",
+        "street": "Rua Valdomiro Alves da Silva",
+        "zipcode": "06609-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Viela Martin Hein",
+        "zipcode": "06612-005"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Travessa Gupe",
+        "zipcode": "06612-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Velho Sanazar",
+        "street": "Rua Sanazar Mardiros",
+        "zipcode": "06620-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vale do Sol",
+        "street": "Viela dos Estudantes",
+        "zipcode": "06620-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Viela Jaguaré",
+        "zipcode": "06622-015"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Tietê",
+        "zipcode": "06622-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Carapicuíba",
+        "zipcode": "06622-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Rua Fernando Pessoa",
+        "zipcode": "06622-175"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Palestina",
+        "zipcode": "06622-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Cotia",
+        "zipcode": "06622-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Embu",
+        "zipcode": "06622-330"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Santana do Parnaíba",
+        "zipcode": "06622-380"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Itaquaquecetuba",
+        "zipcode": "06622-390"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Isabel Cristina",
+        "zipcode": "06622-430"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Gabriela",
+        "zipcode": "06622-440"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Graziela",
+        "zipcode": "06622-490"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua São Caetano do Sul",
+        "zipcode": "06622-510"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Ribeirão Pires",
+        "zipcode": "06622-540"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Minotauro",
+        "zipcode": "06622-550"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Franco da Rocha",
+        "zipcode": "06622-580"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itaporanga",
+        "zipcode": "06620-277"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Cajamar",
+        "zipcode": "06622-290"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Vitória",
+        "zipcode": "06622-595"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Igaro",
+        "zipcode": "06624-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Beija",
+        "zipcode": "06624-155"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua José M. Machado",
+        "zipcode": "06624-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Dolores Paschoalin",
+        "street": "Rua João Paes",
+        "zipcode": "06624-185"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Viela São Francisco",
+        "zipcode": "06624-245"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Viela Kátia",
+        "zipcode": "06624-255"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Viela Itapiranga",
+        "zipcode": "06624-265"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Alexandre Tomaz da Silva",
+        "zipcode": "06624-310"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Ana Maria Bonfadini",
+        "zipcode": "06624-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Rosa Maria",
+        "zipcode": "06624-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela II",
+        "street": "Rua Barão de Itapoã",
+        "zipcode": "06624-400"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela II",
+        "street": "Rua Barão de Itaqui",
+        "zipcode": "06624-420"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Estrada Velha de Itu",
+        "zipcode": "06612-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Eça de O. Taveiros",
+        "zipcode": "06626-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Viela Marquês de Santo Amaro",
+        "zipcode": "06626-135"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Rua Tristão Ataíde",
+        "zipcode": "06626-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Rua Bartolomeu de Gusmão",
+        "zipcode": "06626-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Arujá",
+        "zipcode": "06622-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Magda Regina",
+        "zipcode": "06622-460"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Itambé",
+        "zipcode": "06624-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Dolores Paschoalin",
+        "street": "Rua Leandro José da Silva",
+        "zipcode": "06624-176"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Dolores Paschoalin",
+        "street": "Rua Paloma Carolina",
+        "zipcode": "06624-186"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Cyonéia",
+        "zipcode": "06624-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Viela Ana Quitéria",
+        "zipcode": "06624-235"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Manoel de Oliveira",
+        "zipcode": "06624-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Maximino Ghedini",
+        "zipcode": "06624-280"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Alexínia Cobra Galvão",
+        "zipcode": "06624-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Itajobi",
+        "zipcode": "06624-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Irajá",
+        "zipcode": "06624-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Maria Helena",
+        "zipcode": "06624-360"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua José Pedro Leite",
+        "zipcode": "06624-460"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Maria José",
+        "zipcode": "06626-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Marquês de Itanhaém",
+        "zipcode": "06626-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Augusto de Oliveira",
+        "zipcode": "06624-500"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Lucinda",
+        "street": "Rua Biritiba",
+        "zipcode": "06626-310"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Lucinda",
+        "street": "Rua Borá",
+        "zipcode": "06626-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Mercedes",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "06626-400"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Faia",
+        "zipcode": "06630-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Lago dos Cisnes",
+        "street": "Rua Cisne Real",
+        "zipcode": "06634-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Bolívia",
+        "street": "Rua Petúnia",
+        "zipcode": "06642-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua XV de Novembro",
+        "zipcode": "06624-490"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua da Fé",
+        "zipcode": "06631-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Maria Madalena de Jesus",
+        "zipcode": "06622-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Estrada Estadual Barueri",
+        "zipcode": "06620-340"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Gabriela Ribeiro da Silva",
+        "zipcode": "06624-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Stella Maris",
+        "street": "Rua Paulo Lima Santos",
+        "zipcode": "06624-440"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua José Benedito Faria",
+        "zipcode": "06624-510"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Francisco Araújo Chaves",
+        "zipcode": "06626-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Marquês de Recife",
+        "zipcode": "06626-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Lucinda",
+        "street": "Rua José Aparecido de Oliveira",
+        "zipcode": "06626-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Capitú",
+        "zipcode": "06631-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Infants Garden",
+        "street": "Rua Prudenciano Alves Lima",
+        "zipcode": "06626-470"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Infants Garden",
+        "street": "Rua Pedro Pereira Leite",
+        "zipcode": "06626-490"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Avenida Flamboyant",
+        "zipcode": "06630-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Dona Flor",
+        "zipcode": "06631-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Diadorim",
+        "zipcode": "06631-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Rúbens Gomes",
+        "zipcode": "06636-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua João Ramos",
+        "zipcode": "06636-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Antônio Tomaz Silva",
+        "zipcode": "06636-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Iracema",
+        "zipcode": "06631-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Granja Alvorada",
+        "street": "Rua Joaquim V. Albuquerque",
+        "zipcode": "06630-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Emília",
+        "zipcode": "06631-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Valdir de Paula",
+        "zipcode": "06636-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Francisco Camargo",
+        "zipcode": "06636-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Nelson Ruile",
+        "zipcode": "06636-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Aparício Gomes",
+        "zipcode": "06636-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Aparecida Gomes",
+        "zipcode": "06636-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Leão de Judá",
+        "zipcode": "06631-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Graúna",
+        "zipcode": "06631-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Suite Quebra Nozes",
+        "street": "Rua Monza",
+        "zipcode": "06634-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Lago dos Cisnes",
+        "street": "Rua Cisne Imperial",
+        "zipcode": "06634-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Rua São Fernando",
+        "zipcode": "06642-005"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Rua do Golf",
+        "zipcode": "06642-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Rua Prata",
+        "zipcode": "06642-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Quaresmeira",
+        "zipcode": "06630-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Ipê",
+        "zipcode": "06630-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "06600-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ercília",
+        "street": "Rua Carlos de Oliveira",
+        "zipcode": "06606-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rodovia Presidente Castelo Branco",
+        "zipcode": "06612-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa Papa João XXIII",
+        "zipcode": "06600-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Aurora",
+        "street": "Travessa do Baltazar",
+        "zipcode": "06602-105"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Reverendo Joaquim Augusto Machado",
+        "zipcode": "06606-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua José Eurípedes dos Reis",
+        "zipcode": "06606-400"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Visconde de Mauá",
+        "zipcode": "06622-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Godinho",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "06626-440"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Geraldo dos Santos",
+        "zipcode": "06636-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Citrina",
+        "zipcode": "06642-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Ametista",
+        "zipcode": "06642-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Calcedônia",
+        "zipcode": "06642-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Âmbar",
+        "zipcode": "06642-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Ônix",
+        "zipcode": "06642-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Palmeira",
+        "zipcode": "06642-425"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Eucalipto",
+        "zipcode": "06642-440"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Eduardo Bernardo",
+        "zipcode": "06624-485"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Lídia",
+        "zipcode": "06602-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Via Expressa Mauri Sebastião Barufi",
+        "zipcode": "06626-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Clélia Augusta",
+        "zipcode": "06626-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Adail Teotônio",
+        "zipcode": "06636-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Alvino Tavares da Silva",
+        "zipcode": "06636-225"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Sebastião Belo",
+        "zipcode": "06636-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Maria Lúcia Rodrigues",
+        "zipcode": "06636-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Antônio Tobias dos Reis",
+        "zipcode": "06636-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua José Calvo Filho",
+        "zipcode": "06636-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São João",
+        "street": "Rua Joana DArc",
+        "zipcode": "06634-012"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São João",
+        "street": "Rua Interlagos",
+        "zipcode": "06634-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São João",
+        "street": "Rua Le Mans",
+        "zipcode": "06634-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Olívia Martins",
+        "zipcode": "06636-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Líbano",
+        "street": "Rua Macapá",
+        "zipcode": "06640-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Lápis Lazulo",
+        "zipcode": "06642-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Pérola",
+        "zipcode": "06642-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Guatemala",
+        "zipcode": "06648-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Panamá",
+        "zipcode": "06648-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Tília",
+        "zipcode": "06630-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Araçá",
+        "zipcode": "06642-470"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Costa Rica",
+        "zipcode": "06648-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Cambará",
+        "zipcode": "06642-465"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Makenzi",
+        "street": "Rua Hildebrando Firmino Lino da Costa",
+        "zipcode": "06602-145"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua João Fiochi",
+        "zipcode": "06602-330"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Henrique Dias",
+        "zipcode": "06604-085"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua Carlos R. Sammartino",
+        "zipcode": "06604-290"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua João Batista Solde",
+        "zipcode": "06606-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Palmeiras",
+        "street": "Rua Gerônimo Pereira",
+        "zipcode": "06606-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Belmont",
+        "street": "Rua Antônio Carlos",
+        "zipcode": "06608-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Praça Rosa Emília",
+        "zipcode": "06608-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Javaes",
+        "street": "Rua dos Matias",
+        "zipcode": "06608-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Aurora",
+        "street": "Travessa Terra",
+        "zipcode": "06602-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Satélite",
+        "zipcode": "06602-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Lindomar",
+        "street": "Rua Nicolau Mayevsky",
+        "zipcode": "06602-370"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Heneide",
+        "street": "Rua Pedro Moraes",
+        "zipcode": "06602-400"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Rua Nestor Camargo",
+        "zipcode": "06604-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Brotinho",
+        "street": "Rua José Ribeiro",
+        "zipcode": "06604-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Mirian Rodrigues Soler Peres",
+        "zipcode": "06606-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Prestes Maia",
+        "zipcode": "06606-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eugênia",
+        "street": "Rua Liliana",
+        "zipcode": "06606-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Viela Santo Antonio",
+        "zipcode": "06604-105"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Rolim",
+        "street": "Rua Juscelino Kubitschek de Oliveira",
+        "zipcode": "06608-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Cristino",
+        "street": "Rua Sinézio Rodrigues Costa",
+        "zipcode": "06606-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Diogo Balhesteiro",
+        "street": "Rua Tupi",
+        "zipcode": "06608-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Estrada Velha de Itu",
+        "zipcode": "06612-907"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Estrada Velha de Itu",
+        "zipcode": "06612-908"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "06616-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itaqui",
+        "zipcode": "06620-279"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itamarati",
+        "zipcode": "06620-287"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Nova Granada",
+        "zipcode": "06622-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Porto Alegre",
+        "zipcode": "06622-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Mairiporã",
+        "zipcode": "06622-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Sueli",
+        "zipcode": "06622-500"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Viela Alzira Ferraz",
+        "zipcode": "06622-562"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vale do Sol",
+        "street": "Rua Maranduva",
+        "zipcode": "06620-320"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Maria Rodrigues Machado",
+        "zipcode": "06624-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Avelino Abreu Silva",
+        "zipcode": "06624-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Antônio Tomaz Silva",
+        "zipcode": "06624-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Viela Rubens de Góes",
+        "zipcode": "06624-285"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Godinho",
+        "street": "Viela Duque de Caxias",
+        "zipcode": "06624-445"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Francisco Batista Oliveira",
+        "zipcode": "06624-480"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Avenida Presidente Costa e Silva",
+        "zipcode": "06626-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Rosângela",
+        "zipcode": "06626-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Rua Primeiro de Maio",
+        "zipcode": "06626-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Camila",
+        "street": "Rua Paula",
+        "zipcode": "06622-665"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Itajaí",
+        "zipcode": "06624-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Iguaçu",
+        "zipcode": "06624-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua São Roque",
+        "zipcode": "06622-530"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Marquês de Santo Amaro",
+        "zipcode": "06626-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Rua Joaquim A. Camboim",
+        "zipcode": "06626-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Rua Tanzanita",
+        "zipcode": "06642-015"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Equador",
+        "zipcode": "06648-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Alameda Los Angeles (Condomínio Beverly Hills)",
+        "zipcode": "06620-405"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Diogo Balhesteiro",
+        "street": "Rua Egídio Joaquim de Oliveira",
+        "zipcode": "06608-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Rosa Emília",
+        "street": "Rua Haroldo Longo",
+        "zipcode": "06608-410"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Rosa Emília",
+        "street": "Rua João Longo",
+        "zipcode": "06608-420"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Anleto Danesi",
+        "zipcode": "06612-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Alvorada",
+        "zipcode": "06612-160"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Emilio Barbosa da Silva",
+        "zipcode": "06612-285"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Estrada Velha de Itu",
+        "zipcode": "06612-906"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração",
+        "street": "Rua Maria Ondina",
+        "zipcode": "06608-280"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sagrado Coração de Jesus",
+        "street": "Rua Juari",
+        "zipcode": "06610-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Pedro Álvares Cabral",
+        "zipcode": "06612-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Martin Hein",
+        "zipcode": "06612-240"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Orlando Motta",
+        "zipcode": "06612-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Luiza de Oliveira Souza",
+        "zipcode": "06612-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "06616-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São Luiz",
+        "street": "Rua Jorge Pedroso",
+        "zipcode": "06618-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila São Nicolau",
+        "street": "Rua Manoel Nunes",
+        "zipcode": "06620-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itaúna",
+        "zipcode": "06620-297"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Willian Wadell",
+        "zipcode": "06606-970"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Via de Acesso João de Góes",
+        "zipcode": "06612-901"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Via de Acesso João de Góes",
+        "zipcode": "06612-902"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Tóquio",
+        "zipcode": "06622-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Visconde de Porto Seguro",
+        "zipcode": "06622-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Viela Arujá",
+        "zipcode": "06622-195"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua Jorge de Oliveira Prado",
+        "zipcode": "06604-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Rua Adamastor Leopoldino da Silva",
+        "zipcode": "06616-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Antônio Porto",
+        "street": "Viela Júlio Belo Alves",
+        "zipcode": "06620-205"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Itapevi",
+        "zipcode": "06622-310"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Camila",
+        "street": "Rua Priscila",
+        "zipcode": "06622-660"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Travessa Consolação",
+        "zipcode": "06626-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Tieta do Agreste",
+        "zipcode": "06631-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Ana Terra",
+        "zipcode": "06631-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Alexandrita",
+        "zipcode": "06642-230"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Camila",
+        "street": "Rua Daniela",
+        "zipcode": "06622-655"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Jaspe",
+        "zipcode": "06642-270"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Avenida Pau",
+        "zipcode": "06642-350"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Manacá",
+        "zipcode": "06642-375"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Avenida Sapucaia",
+        "zipcode": "06642-400"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Sibipiruna",
+        "zipcode": "06642-420"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Resedá",
+        "zipcode": "06642-435"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Nicarágua",
+        "zipcode": "06648-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Mercedes",
+        "street": "Rua Marquês de Herval",
+        "zipcode": "06626-390"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela II",
+        "street": "Rua Lucinda Pires Tempos",
+        "zipcode": "06624-430"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Rua Jerônimo Arena",
+        "zipcode": "06626-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Odorico Paraguassu",
+        "zipcode": "06631-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Godinho",
+        "street": "Rua Rodrigo Gomes Mariano",
+        "zipcode": "06626-422"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Stella Maris",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "06626-460"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Altino Gonçalves",
+        "zipcode": "06636-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Escrava Isaura",
+        "zipcode": "06631-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Iaiá Garcia",
+        "zipcode": "06631-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Presbítero Joaquim Paz de Brito",
+        "zipcode": "06631-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Olímpio Paulino",
+        "zipcode": "06636-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Rodolfo Rosa",
+        "zipcode": "06636-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São João",
+        "street": "Rua Silverstone",
+        "zipcode": "06634-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Lago dos Cisnes",
+        "street": "Rua Cisne Branco",
+        "zipcode": "06634-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São João",
+        "street": "Rua Monte Carlo",
+        "zipcode": "06634-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Rua Sherali Sahadat",
+        "zipcode": "06636-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Rua Platina",
+        "zipcode": "06642-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Azurita",
+        "zipcode": "06642-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Opala",
+        "zipcode": "06642-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Peru",
+        "zipcode": "06648-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Araucária",
+        "zipcode": "06642-380"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Bambu",
+        "zipcode": "06642-395"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Cambuci",
+        "zipcode": "06642-480"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Alameda Alecrim",
+        "zipcode": "06642-485"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida João Balhesteiro",
+        "zipcode": "06600-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Carvalho Júnior",
+        "zipcode": "06600-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Inácio Levinet",
+        "zipcode": "06600-143"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Largo Oito de Dezembro",
+        "zipcode": "06600-220"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Rua Damir Rodrigues",
+        "zipcode": "06604-185"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Erminio Lopes",
+        "zipcode": "06612-265"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Travessa Brigadeiro Luís Antônio",
+        "zipcode": "06600-215"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Mercúrio",
+        "zipcode": "06602-205"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Messias Correia de Godoy",
+        "zipcode": "06604-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Velho Sanazar",
+        "street": "Rua Nicolau Mayevsky",
+        "zipcode": "06620-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Sônia Maria F. de Andrade",
+        "zipcode": "06604-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Mase",
+        "street": "Travessa Acácia",
+        "zipcode": "06604-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rúbens Lopes da Silva",
+        "zipcode": "06600-035"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua dos Nogueiras",
+        "zipcode": "06600-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Rua José Francisco Rufollo",
+        "zipcode": "06600-205"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Rua Servidão",
+        "zipcode": "06630-005"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Menino Maluquinho",
+        "zipcode": "06631-120"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Barbosa",
+        "zipcode": "06600-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua André Vidal de Negreiros",
+        "zipcode": "06600-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Parque Municipal Carlos Piteri",
+        "zipcode": "06600-901"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Benedito Pereira Leite",
+        "zipcode": "06600-999"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Aurora",
+        "street": "Rua dos Mellos",
+        "zipcode": "06602-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Boa Esperança",
+        "zipcode": "06604-063"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Manoel da Conceição",
+        "zipcode": "06600-042"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Professor Vicente Temudo Lessa",
+        "zipcode": "06600-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Travessa Papa Paulo I",
+        "zipcode": "06600-145"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Diogo Balhesteiro",
+        "street": "Rua Tupinambás",
+        "zipcode": "06608-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Santos",
+        "zipcode": "06622-385"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque dos Lagos",
+        "street": "Rua Antônio Gomes dos Santos",
+        "zipcode": "06622-445"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela II",
+        "street": "Rua João Lima dos Santos",
+        "zipcode": "06624-435"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Brotinho",
+        "street": "Viela Terezinha Agostinho dos Santos",
+        "zipcode": "06604-235"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila São Nicolau",
+        "street": "Rua Manoel Alves dos Santos",
+        "zipcode": "06620-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Crescêncio Pereira Santos",
+        "zipcode": "06622-570"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Ana Santos",
+        "zipcode": "06624-340"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Via de Acesso João de Góes",
+        "zipcode": "06612-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Marília",
+        "street": "Rua Maria Cava",
+        "zipcode": "06606-370"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Alameda Venice (Condomínio Beverly Hills)",
+        "zipcode": "06620-390"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Altos de São Fernando",
+        "street": "Alameda Platano",
+        "zipcode": "06630-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda Flor de Liz (Reserva Santa Maria Nature)",
+        "zipcode": "06630-304"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Isaltina Gomes Lopes",
+        "zipcode": "06606-005"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santo Antônio",
+        "street": "Rua Dorvalino Abílio Teixeira",
+        "zipcode": "06626-205"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Godinho",
+        "street": "Rua Tiradentes",
+        "zipcode": "06626-450"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Benedito Pereira Leite",
+        "zipcode": "06600-055"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Ricarte Sewaybricker",
+        "zipcode": "06600-045"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São Paulo",
+        "street": "Rua Carlos A. Teixeira",
+        "zipcode": "06616-810"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Nicolau Mayevsky",
+        "zipcode": "06622-005"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Santa Rosa",
+        "street": "Rua Elvira Simone Donega",
+        "zipcode": "06604-280"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Florestan Fernandes",
+        "zipcode": "06600-115"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Nova Jandira",
+        "street": "Alameda Daytona (Condomínio Beverly Hills)",
+        "zipcode": "06620-410"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Aurora",
+        "street": "Avenida Pedro Machado",
+        "zipcode": "06602-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Avenida Presidente Costa e Silva",
+        "zipcode": "06604-145"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Analândia",
+        "street": "Rua Joaquim Belchior",
+        "zipcode": "06608-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sorocabano",
+        "street": "Rua Sinezia A. Costa",
+        "zipcode": "06604-010"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Viela São José",
+        "zipcode": "06604-065"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua José Pereira Possidonio",
+        "zipcode": "06612-290"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Via de Acesso João de Góes",
+        "zipcode": "06612-905"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Stella Maris",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "06624-450"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Avenida dos Manacás da Serra (Reserva Santa Maria Nature)",
+        "zipcode": "06630-302"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Amarílis (Reserva Santa Maria Nature)",
+        "zipcode": "06630-322"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda das Azaléias (Reserva Santa Maria Nature)",
+        "zipcode": "06630-310"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua José Milanes",
+        "zipcode": "06612-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sorocabano",
+        "street": "Rua Brigadeiro Faria Lima",
+        "zipcode": "06604-020"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sorocabano",
+        "street": "Rua Fernando Pessoa",
+        "zipcode": "06604-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Godinho",
+        "street": "Rua General Osório",
+        "zipcode": "06626-430"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Mirante de Jandira",
+        "street": "Rua Sargento Getúlio",
+        "zipcode": "06631-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Mogi das Cruzes",
+        "zipcode": "06622-410"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Analândia",
+        "street": "Rua Alberto da Silva",
+        "zipcode": "06608-093"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela I",
+        "street": "Rua Elza Chedini",
+        "zipcode": "06624-290"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Parque Municipal Carlos Piteri",
+        "zipcode": "06600-005"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Carmine Gragnano",
+        "zipcode": "06600-970"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Saturno",
+        "zipcode": "06602-180"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Osvaldo Correia Godoy",
+        "zipcode": "06604-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Jandira",
+        "street": "Rua Quitéria de Souza",
+        "zipcode": "06606-045"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Cristino",
+        "street": "Rua Joaquim da Silva Lima",
+        "zipcode": "06606-155"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Rolim",
+        "street": "Rua Monte Castelo",
+        "zipcode": "06608-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Patriarca",
+        "street": "Rua Alfa",
+        "zipcode": "06608-370"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Municipal",
+        "zipcode": "06612-060"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sorocabano",
+        "street": "Rua Presidente Castelo Branco",
+        "zipcode": "06604-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Juvenal Faustino de Melo",
+        "zipcode": "06604-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila São Nicolau",
+        "street": "Rua Amaralina",
+        "zipcode": "06620-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Haber",
+        "street": "Rua Ariel",
+        "zipcode": "06620-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Rua Beira Rio",
+        "zipcode": "06622-007"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Arquimínio Rodrigues Florindo",
+        "zipcode": "06622-250"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Viela Santo André",
+        "zipcode": "06622-205"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Avenida Andradina",
+        "zipcode": "06622-600"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Taboão da Serra",
+        "zipcode": "06622-610"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Armando José Araújo",
+        "zipcode": "06624-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Maria Joana Leopoldina",
+        "zipcode": "06624-470"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Lucinda",
+        "street": "Rua Maurício de Matos Pessoa",
+        "zipcode": "06626-300"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Eunice",
+        "street": "Rua Júpiter",
+        "zipcode": "06602-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim do Golf I",
+        "street": "Estrada Municipal Fernando Nobre",
+        "zipcode": "06642-000"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Corindo",
+        "zipcode": "06642-190"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Ouro Verde",
+        "street": "Via de Acesso João de Góes",
+        "zipcode": "06616-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Núcleo Micro Industrial Presidente Wilson",
+        "street": "Rua Marcelino da Silva",
+        "zipcode": "06602-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Vítor Ângelo Fortunato",
+        "zipcode": "06612-800"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Nossa Senhora de Fátima",
+        "street": "Rua Itapiranga",
+        "zipcode": "06624-170"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Marquês de Valença",
+        "zipcode": "06626-140"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Lago dos Cisnes",
+        "street": "Rua Canto dos Cisnes",
+        "zipcode": "06634-070"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Nova Higienópolis",
+        "street": "Rua Granada",
+        "zipcode": "06642-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Reserva Nature",
+        "street": "Alameda Flor de Maio (Reserva Santa Maria Nature)",
+        "zipcode": "06630-306"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Chácaras do Peroba",
+        "street": "Alameda Colômbia",
+        "zipcode": "06648-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Conceição Sammartino",
+        "zipcode": "06600-080"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Parque Municipal Carlos Piteri",
+        "zipcode": "06600-900"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Nelson Moreira",
+        "zipcode": "06604-055"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Marcia",
+        "street": "Rua Tabauna",
+        "zipcode": "06618-030"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Sonia",
+        "zipcode": "06626-100"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Marcia",
+        "street": "Rua Itapira",
+        "zipcode": "06618-050"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Marcia",
+        "street": "Rua Tocantins",
+        "zipcode": "06618-040"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Infants Garden",
+        "street": "Praça Adail Teotonio",
+        "zipcode": "06626-380"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Reverendo Borges Teixeira",
+        "zipcode": "06600-130"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Osasco",
+        "zipcode": "06622-210"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Praça Ourinhos",
+        "zipcode": "06622-420"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque Santa Tereza",
+        "street": "Rua Poá",
+        "zipcode": "06622-260"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Diadema",
+        "zipcode": "06622-150"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Gabriela III",
+        "street": "Rua Marquês de Itu",
+        "zipcode": "06626-110"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim das Margaridas",
+        "street": "Rua Itu",
+        "zipcode": "06622-090"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Vila Anita Costa",
+        "street": "Praça Das Perdizes",
+        "zipcode": "06600-200"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Sítio Pedra Bonita",
+        "street": "Rua Itaipu",
+        "zipcode": "06620-281"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim São Paulo",
+        "street": "Estrada Velha de Itu",
+        "zipcode": "06616-820"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Jardim Sol Nascente",
+        "street": "Praça Virgilio Rodrigues",
+        "zipcode": "06622-003"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Área Rural de Jandira",
+        "street": "Área Rural",
+        "zipcode": "06649-899"
+    },
+    {
+        "city": "Jandira",
+        "state": "SP",
+        "district": "Parque das Iglesias",
+        "street": "Rua Cerqueira César",
+        "zipcode": "06622-590"
+    }
+]

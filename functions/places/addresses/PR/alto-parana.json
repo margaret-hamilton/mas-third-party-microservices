@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Alto Paraná",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Princesa Isabel 1499",
+        "zipcode": "87750-970"
+    },
+    {
+        "city": "Alto Paraná",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87750-000"
+    },
+    {
+        "city": "Alto Paraná",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Dezesseis de Agosto",
+        "zipcode": "87755-990"
+    },
+    {
+        "city": "Alto Paraná",
+        "state": "PR",
+        "district": null,
+        "street": "Estrada Água do Cedro",
+        "zipcode": "87750-990"
+    }
+]

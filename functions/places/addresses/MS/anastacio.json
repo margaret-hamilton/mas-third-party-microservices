@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Anastácio",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79210-000"
+    },
+    {
+        "city": "Anastácio",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Avenida Manoel Murtinho 1186",
+        "zipcode": "79210-970"
+    },
+    {
+        "city": "Anastácio",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "79210-990"
+    },
+    {
+        "city": "Anastácio",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "79210-972"
+    },
+    {
+        "city": "Anastácio",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "79210-971"
+    }
+]

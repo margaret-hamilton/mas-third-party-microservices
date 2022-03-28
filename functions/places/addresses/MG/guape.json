@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Guapé",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Doutor Passos Maia 230",
+        "zipcode": "37177-970"
+    },
+    {
+        "city": "Guapé",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37177-000"
+    },
+    {
+        "city": "Guapé",
+        "state": "MG",
+        "district": null,
+        "street": "Avenida Guapé",
+        "zipcode": "37177-990"
+    },
+    {
+        "city": "Guapé",
+        "state": "MG",
+        "district": null,
+        "street": "Av. Coronel Bernaredes Lara",
+        "zipcode": "37177-991"
+    },
+    {
+        "city": "Guapé",
+        "state": "MG",
+        "district": "Santo Antônio do Guapé",
+        "street": "Rua Santo Antônio s/n",
+        "zipcode": "37177-971"
+    }
+]

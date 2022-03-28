@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Rosana",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida José Laurindo 1540",
+        "zipcode": "19273-970"
+    },
+    {
+        "city": "Rosana",
+        "state": "SP",
+        "district": null,
+        "street": "Gleba XV de Novembro",
+        "zipcode": "19273-990"
+    },
+    {
+        "city": "Rosana",
+        "state": "SP",
+        "district": null,
+        "street": "Gleba XV de Novembro",
+        "zipcode": "19273-991"
+    },
+    {
+        "city": "Rosana",
+        "state": "SP",
+        "district": null,
+        "street": "Posto Avançado de Saúde",
+        "zipcode": "19273-992"
+    },
+    {
+        "city": "Rosana",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19273-000"
+    }
+]

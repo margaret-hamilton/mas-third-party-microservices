@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Triunfo",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Avenida José Bezerra 26",
+        "zipcode": "56870-970"
+    },
+    {
+        "city": "Triunfo",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56870-000"
+    },
+    {
+        "city": "Triunfo",
+        "state": "PE",
+        "district": "Iraguaçu",
+        "street": "Rua Santa Madalena s/n",
+        "zipcode": "56880-971"
+    },
+    {
+        "city": "Triunfo",
+        "state": "PE",
+        "district": "Canaã",
+        "street": "Praça da Matriz s/n",
+        "zipcode": "56880-970"
+    }
+]

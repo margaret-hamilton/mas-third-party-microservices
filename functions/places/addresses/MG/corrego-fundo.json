@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Córrego Fundo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Galeno Silva 111",
+        "zipcode": "35578-971"
+    },
+    {
+        "city": "Córrego Fundo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Joaquim Gonçalves Fonseca 78",
+        "zipcode": "35578-972"
+    },
+    {
+        "city": "Córrego Fundo",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35578-000"
+    },
+    {
+        "city": "Córrego Fundo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Galeno Silva 111  AGC Córrego Fundo",
+        "zipcode": "35568-971"
+    },
+    {
+        "city": "Córrego Fundo",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35568-000"
+    },
+    {
+        "city": "Córrego Fundo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Joaquim Gonçalves Fonseca 78  AC Córrego Fundo",
+        "zipcode": "35568-972"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "José Bonifácio",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Antonio Gonçalves da Silva 820",
+        "zipcode": "15200-970"
+    },
+    {
+        "city": "José Bonifácio",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Mário Arruda 175",
+        "zipcode": "15200-971"
+    },
+    {
+        "city": "José Bonifácio",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "15200-000"
+    }
+]

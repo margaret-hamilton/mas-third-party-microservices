@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Jundiaí do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua São Francisco",
+        "zipcode": "86470-970"
+    },
+    {
+        "city": "Jundiaí do Sul",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86470-000"
+    }
+]

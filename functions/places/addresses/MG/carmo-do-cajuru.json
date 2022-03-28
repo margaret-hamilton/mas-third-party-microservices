@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Carmo do Cajuru",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Demétrio Coelho 584",
+        "zipcode": "35510-970"
+    },
+    {
+        "city": "Carmo do Cajuru",
+        "state": "MG",
+        "district": "Santo Antônio da Serra",
+        "street": "Rua Santo Antônio 46",
+        "zipcode": "35510-973"
+    },
+    {
+        "city": "Carmo do Cajuru",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35510-000"
+    },
+    {
+        "city": "Carmo do Cajuru",
+        "state": "MG",
+        "district": "Santo Antônio da Serra",
+        "street": "Rua Santo Antônio 46  AGC Santo Antônio da Serra",
+        "zipcode": "35557-973"
+    },
+    {
+        "city": "Carmo do Cajuru",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35557-000"
+    },
+    {
+        "city": "Carmo do Cajuru",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Demétrio Coelho 584",
+        "zipcode": "35557-970"
+    }
+]

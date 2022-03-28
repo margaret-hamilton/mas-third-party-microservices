@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Japurá",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Bolivar 666",
+        "zipcode": "87225-970"
+    },
+    {
+        "city": "Japurá",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Industrial",
+        "zipcode": "87225-990"
+    },
+    {
+        "city": "Japurá",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87225-000"
+    }
+]

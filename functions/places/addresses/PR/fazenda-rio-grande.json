@@ -1,0 +1,6414 @@
+[
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rodovia BR",
+        "zipcode": "83823-000"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Ipanema",
+        "zipcode": "83823-228"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Cravina",
+        "zipcode": "83824-508"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Ana",
+        "zipcode": "83829-058"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Torres",
+        "zipcode": "83823-271"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Francisco Claudino Neto",
+        "zipcode": "83820-300"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Santo Hilário de Portier",
+        "zipcode": "83829-408"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Tiriva",
+        "zipcode": "83824-390"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Belize",
+        "zipcode": "83823-222"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Nossa Senhora de Schoenstatt",
+        "zipcode": "83829-085"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Nestor",
+        "zipcode": "83829-221"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Ricardo Barbosa",
+        "zipcode": "83829-019"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rodovia BR",
+        "zipcode": "83833-028"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Tito",
+        "zipcode": "83829-196"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Periquito",
+        "zipcode": "83824-069"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Timóteo",
+        "zipcode": "83829-259"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua São Ildefonso",
+        "zipcode": "83830-031"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Santa Ângela de Mérici",
+        "zipcode": "83833-142"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Uberlândia",
+        "zipcode": "83830-667"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Santa Perpétua",
+        "zipcode": "83833-122"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Nelson Claudino dos Santos",
+        "zipcode": "83833-523"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Avenida Paraná",
+        "zipcode": "83833-562"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Avenida Rio Amazonas",
+        "zipcode": "83833-534"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Santa Priscila",
+        "zipcode": "83833-146"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Campo Real",
+        "zipcode": "83833-181"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Faisão",
+        "zipcode": "83824-426"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Canadá",
+        "zipcode": "83823-052"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Guiana",
+        "zipcode": "83823-066"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Piauí",
+        "zipcode": "83830-141"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Cauré",
+        "zipcode": "83824-276"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Arapoti",
+        "zipcode": "83830-177"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Pardo",
+        "zipcode": "83833-161"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Taquari",
+        "zipcode": "83833-540"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Taquari",
+        "zipcode": "83833-511"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Timbu",
+        "zipcode": "83833-536"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Silvano José Baldan",
+        "zipcode": "83833-548"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Juruá",
+        "zipcode": "83833-350"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Ivaí",
+        "zipcode": "83833-098"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Ivaí",
+        "zipcode": "83833-538"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Nhundiaquara",
+        "zipcode": "83833-515"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Palmerinha",
+        "zipcode": "83833-517"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Passaúna",
+        "zipcode": "83833-519"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tibaji",
+        "zipcode": "83833-525"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Despique",
+        "zipcode": "83833-527"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio da Várzea",
+        "zipcode": "83833-542"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Turvo",
+        "zipcode": "83833-544"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Xingu",
+        "zipcode": "83833-546"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Grande",
+        "zipcode": "83833-560"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Pirapó",
+        "zipcode": "83833-564"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Nepal",
+        "zipcode": "83823-192"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua José Custódio dos Santos",
+        "zipcode": "83821-100"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Bromélias",
+        "zipcode": "83820-461"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Blumenau",
+        "zipcode": "83830-213"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Área Rural de Fazenda Rio Grande",
+        "street": "Área Rural",
+        "zipcode": "83835-899"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Ocoteas",
+        "zipcode": "83820-338"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Avenida Mato Grosso",
+        "zipcode": "83833-180"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Piedade",
+        "zipcode": "83833-376"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Betara",
+        "zipcode": "83833-378"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Piraquara",
+        "zipcode": "83833-380"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Roseira",
+        "zipcode": "83833-384"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Miringuava",
+        "zipcode": "83833-386"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Mandaçai",
+        "zipcode": "83833-390"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Rincão",
+        "zipcode": "83833-394"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Cerne",
+        "zipcode": "83833-396"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Moinho",
+        "zipcode": "83833-402"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Cachoeira",
+        "zipcode": "83833-407"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Nunes",
+        "zipcode": "83833-424"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Missouri",
+        "zipcode": "83833-430"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Orinoco",
+        "zipcode": "83833-432"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Maurício",
+        "zipcode": "83833-436"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Ribeirinha",
+        "zipcode": "83833-440"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Mamoeiro",
+        "zipcode": "83820-453"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Verde",
+        "zipcode": "83833-444"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Tigre",
+        "zipcode": "83833-457"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Arraial",
+        "zipcode": "83833-461"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Barigui",
+        "zipcode": "83833-463"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Jaú",
+        "zipcode": "83833-374"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Itaqui",
+        "zipcode": "83833-296"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Guajuvira",
+        "zipcode": "83833-300"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tietê",
+        "zipcode": "83833-332"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Timbu",
+        "zipcode": "83833-507"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Ribeira",
+        "zipcode": "83833-340"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Belém",
+        "zipcode": "83833-342"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Cubatão",
+        "zipcode": "83833-344"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tanguá",
+        "zipcode": "83833-346"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Açungui",
+        "zipcode": "83833-354"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Palmital",
+        "zipcode": "83833-358"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Juriqui",
+        "zipcode": "83833-469"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Formoso",
+        "zipcode": "83833-483"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Mourão",
+        "zipcode": "83833-485"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Pinhão",
+        "zipcode": "83833-497"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Pitanga",
+        "zipcode": "83833-499"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Pequeno",
+        "zipcode": "83833-501"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Sena",
+        "zipcode": "83833-304"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Faxinal",
+        "zipcode": "83833-306"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio da Barra",
+        "zipcode": "83833-310"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Canguiri",
+        "zipcode": "83833-312"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Itararé",
+        "zipcode": "83833-317"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Adelaide",
+        "zipcode": "83833-324"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Padilha",
+        "zipcode": "83833-336"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio da Graciosa",
+        "zipcode": "83833-338"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Madeira",
+        "zipcode": "83833-348"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Oiapoque",
+        "zipcode": "83833-328"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tapajós",
+        "zipcode": "83833-428"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tapajós",
+        "zipcode": "83833-289"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Ipiranga",
+        "zipcode": "83833-467"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Ipiranga",
+        "zipcode": "83833-330"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Avenida Rio Amazonas",
+        "zipcode": "83833-108"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Abílio Juliano",
+        "zipcode": "83833-046"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Santa Ágata",
+        "zipcode": "83833-154"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua João Gregório Barbosa",
+        "zipcode": "83833-050"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Bruno Luiz Veronese",
+        "zipcode": "83833-060"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Volga",
+        "zipcode": "83833-084"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Doce",
+        "zipcode": "83833-086"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Eufrates",
+        "zipcode": "83833-088"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Tenente Sandro Luiz Kampa",
+        "zipcode": "83833-090"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Mekong",
+        "zipcode": "83833-092"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio do Melo",
+        "zipcode": "83833-094"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Preto",
+        "zipcode": "83833-100"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Curuá",
+        "zipcode": "83833-102"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Mucury",
+        "zipcode": "83833-104"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Mucuri",
+        "zipcode": "83833-106"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Jordão",
+        "zipcode": "83833-110"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Santa Felicidade",
+        "zipcode": "83833-130"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua São Nicolau",
+        "zipcode": "83833-138"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Guaporé",
+        "zipcode": "83833-159"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Guarani",
+        "zipcode": "83833-194"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Mascate",
+        "zipcode": "83833-196"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Manoel Claudino Barbosa",
+        "zipcode": "83833-080"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Ephigênio Pereira da Cruz",
+        "zipcode": "83833-078"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Francisco Claudino dos Santos",
+        "zipcode": "83833-056"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Francisco Claudino dos Santos",
+        "zipcode": "83833-070"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Francisco Claudino dos Santos",
+        "zipcode": "83833-072"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Jaú",
+        "zipcode": "83833-281"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua São Benedito",
+        "zipcode": "83833-190"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Mascate",
+        "zipcode": "83833-200"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Paranapanema",
+        "zipcode": "83833-202"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Piraí",
+        "zipcode": "83833-206"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tamanduá",
+        "zipcode": "83833-208"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Negro",
+        "zipcode": "83833-210"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Iapó",
+        "zipcode": "83833-216"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Iguatemi",
+        "zipcode": "83833-218"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Paraná",
+        "zipcode": "83833-283"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Santana",
+        "zipcode": "83833-285"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tejo",
+        "zipcode": "83833-096"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tejo",
+        "zipcode": "83833-163"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tejo",
+        "zipcode": "83833-188"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Tietê",
+        "zipcode": "83833-214"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua São Romualdo",
+        "zipcode": "83833-120"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Oiapoque",
+        "zipcode": "83833-212"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Paranaíba",
+        "zipcode": "83833-198"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Paranaíba",
+        "zipcode": "83833-245"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Piquiri",
+        "zipcode": "83833-173"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Iguaçu",
+        "zipcode": "83833-177"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Iguaçu",
+        "zipcode": "83833-249"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Iraí",
+        "zipcode": "83833-247"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Iraí",
+        "zipcode": "83833-179"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Avenida Paraná",
+        "zipcode": "83833-010"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Avenida Paraná",
+        "zipcode": "83833-012"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Rio Amazonas",
+        "zipcode": "83830-488"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Rio Amazonas",
+        "zipcode": "83830-469"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua José Ambrósio Claudino",
+        "zipcode": "83833-030"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Manoel Bertolino da Cruz",
+        "zipcode": "83833-032"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua José Miranda",
+        "zipcode": "83833-034"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Francisco Quirino dos Santos",
+        "zipcode": "83833-036"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Antônio Lourenço dos Santos",
+        "zipcode": "83833-040"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Benito Antônio Baldan",
+        "zipcode": "83833-042"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Professor Alfredo Gonchorovski",
+        "zipcode": "83833-044"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Manoel Claudino Barbosa",
+        "zipcode": "83833-016"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Manoel Claudino Barbosa",
+        "zipcode": "83833-014"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Mato Grosso",
+        "zipcode": "83830-560"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Mato Grosso",
+        "zipcode": "83830-481"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Carlos Eduardo Nichele",
+        "zipcode": "83833-024"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Carlos Eduardo Nichele",
+        "zipcode": "83833-022"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Curitiba",
+        "zipcode": "83830-566"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Curitiba",
+        "zipcode": "83830-616"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Ephigênio Pereira da Cruz",
+        "zipcode": "83833-020"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Morretes",
+        "zipcode": "83830-450"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Dois Vizinhos",
+        "zipcode": "83830-454"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Antonina",
+        "zipcode": "83830-456"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Clevelândia",
+        "zipcode": "83830-460"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Pontal do Paraná",
+        "zipcode": "83830-464"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Roraima",
+        "zipcode": "83830-524"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Santa Catarina",
+        "zipcode": "83830-526"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Piracicaba",
+        "zipcode": "83830-531"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Amapá",
+        "zipcode": "83830-538"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Brasília",
+        "zipcode": "83830-568"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Porto Alegre",
+        "zipcode": "83830-575"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Campo Grande",
+        "zipcode": "83830-582"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Guanabara",
+        "zipcode": "83830-587"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "83830-592"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Vitória",
+        "zipcode": "83830-597"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Salvador",
+        "zipcode": "83830-625"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Uberaba",
+        "zipcode": "83830-632"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Recife",
+        "zipcode": "83830-639"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua João Pessoa",
+        "zipcode": "83830-646"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Natal",
+        "zipcode": "83830-653"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Aracaju",
+        "zipcode": "83830-660"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Fortaleza",
+        "zipcode": "83830-674"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Goiânia",
+        "zipcode": "83830-681"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Caxias do Sul",
+        "zipcode": "83830-688"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Terezina",
+        "zipcode": "83830-719"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Rio Branco",
+        "zipcode": "83830-731"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Macapá",
+        "zipcode": "83830-743"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Porto Velho",
+        "zipcode": "83830-755"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Manaus",
+        "zipcode": "83830-767"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Belém",
+        "zipcode": "83830-779"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Farid Stephens",
+        "zipcode": "83833-008"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Silvano José Baldan",
+        "zipcode": "83833-002"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Pará",
+        "zipcode": "83830-310"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Tocantins",
+        "zipcode": "83830-317"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Sergipe",
+        "zipcode": "83830-331"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "83830-333"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Santa Mônica",
+        "zipcode": "83830-132"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Paraná",
+        "zipcode": "83830-017"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Paraná",
+        "zipcode": "83830-058"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Paraná",
+        "zipcode": "83830-273"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida São Paulo",
+        "zipcode": "83830-170"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida São Paulo",
+        "zipcode": "83830-203"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Pernambuco",
+        "zipcode": "83830-287"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Pernambuco",
+        "zipcode": "83830-205"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Rio Amazonas",
+        "zipcode": "83830-289"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São João de Brito",
+        "zipcode": "83829-370"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Domingo Sávio",
+        "zipcode": "83829-406"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Félix",
+        "zipcode": "83829-410"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Bernadete",
+        "zipcode": "83829-412"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Lúcia",
+        "zipcode": "83829-414"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Matinhos",
+        "zipcode": "83829-416"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Matinhos",
+        "zipcode": "83830-382"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Mato Grosso",
+        "zipcode": "83829-372"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Carlos Eduardo Nichele",
+        "zipcode": "83830-010"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Marialva",
+        "zipcode": "83830-432"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Itambé",
+        "zipcode": "83830-434"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Realeza",
+        "zipcode": "83830-438"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Cruz Machado",
+        "zipcode": "83830-440"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Itaperuçu",
+        "zipcode": "83830-444"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Contenda",
+        "zipcode": "83830-446"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Assis Chateaubriand",
+        "zipcode": "83830-359"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Ponta Grossa",
+        "zipcode": "83830-361"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Palmas",
+        "zipcode": "83830-375"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Palotina",
+        "zipcode": "83830-389"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Virmond",
+        "zipcode": "83830-401"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Cantagalo",
+        "zipcode": "83830-405"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Pinhão",
+        "zipcode": "83830-410"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Foz do Iguaçu",
+        "zipcode": "83830-416"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Guaraqueçaba",
+        "zipcode": "83830-423"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Piên",
+        "zipcode": "83830-430"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Alagoas",
+        "zipcode": "83830-220"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Lapa",
+        "zipcode": "83830-041"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Santos",
+        "zipcode": "83830-136"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Bahia",
+        "zipcode": "83830-152"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Campinas",
+        "zipcode": "83830-154"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Itajaí",
+        "zipcode": "83830-209"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Maranhão",
+        "zipcode": "83830-211"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Joinvile",
+        "zipcode": "83830-218"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Maringá",
+        "zipcode": "83830-222"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Paranavaí",
+        "zipcode": "83830-236"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "83830-242"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Ceará",
+        "zipcode": "83830-259"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Paranaguá",
+        "zipcode": "83830-039"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Mandirituba",
+        "zipcode": "83830-363"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Avenida Nossa Senhora Conceição",
+        "zipcode": "83830-090"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Cesário",
+        "zipcode": "83829-350"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Leopoldo",
+        "zipcode": "83829-352"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Bruno",
+        "zipcode": "83829-354"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Damião",
+        "zipcode": "83829-356"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Cosme",
+        "zipcode": "83829-358"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Joana dArc",
+        "zipcode": "83829-360"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Nossa Senhora do Perpétuo Socorro",
+        "zipcode": "83829-362"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Paulina",
+        "zipcode": "83829-364"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Veridiana",
+        "zipcode": "83829-366"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Francisco de Sales",
+        "zipcode": "83829-368"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Nossa Senhora de Guadalupe",
+        "zipcode": "83829-298"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Nossa Senhora de Guadalupe",
+        "zipcode": "83829-281"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Vitor",
+        "zipcode": "83829-265"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Simeão",
+        "zipcode": "83829-283"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Jaguariaíva",
+        "zipcode": "83829-271"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Jaguariaíva",
+        "zipcode": "83829-346"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "83829-291"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora da Luz",
+        "zipcode": "83829-006"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Marta",
+        "zipcode": "83829-235"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Luzia",
+        "zipcode": "83829-237"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Brás",
+        "zipcode": "83829-242"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Gabriel",
+        "zipcode": "83829-244"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São João",
+        "zipcode": "83829-248"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Pedro",
+        "zipcode": "83829-250"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rodovia BR",
+        "zipcode": "83830-037"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santo Antônio",
+        "zipcode": "83829-252"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santo Antônio",
+        "zipcode": "83829-279"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "83829-308"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "83829-246"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "83829-322"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Bartolomeu",
+        "zipcode": "83829-285"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Maria Madalena",
+        "zipcode": "83829-287"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santo Ezequiel",
+        "zipcode": "83829-310"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Marcelo",
+        "zipcode": "83829-312"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santo Ernesto",
+        "zipcode": "83829-314"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Brígida",
+        "zipcode": "83829-316"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua São Dionísio",
+        "zipcode": "83830-029"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Edwiges",
+        "zipcode": "83829-318"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Francisca Romana",
+        "zipcode": "83829-320"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Vito",
+        "zipcode": "83829-324"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Leonardo",
+        "zipcode": "83829-328"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora do Rosário",
+        "zipcode": "83829-330"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora das Graças",
+        "zipcode": "83829-332"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora da Anunciação",
+        "zipcode": "83829-334"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Sofia",
+        "zipcode": "83829-261"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Casimiro",
+        "zipcode": "83829-263"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Cascavel",
+        "zipcode": "83830-224"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Santa Mônica",
+        "zipcode": "83829-227"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Rio Amazonas",
+        "zipcode": "83829-068"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora do Rocio",
+        "zipcode": "83829-044"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "83829-046"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Jorge",
+        "zipcode": "83829-048"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Teófilo",
+        "zipcode": "83829-060"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Geremias",
+        "zipcode": "83829-064"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Romão",
+        "zipcode": "83829-070"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Romão",
+        "zipcode": "83829-072"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Firmino",
+        "zipcode": "83829-079"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Cícero",
+        "zipcode": "83829-081"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Natalino",
+        "zipcode": "83829-089"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Natalino",
+        "zipcode": "83829-093"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santo Inácio",
+        "zipcode": "83829-104"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Cândida",
+        "zipcode": "83829-106"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida São Cristóvão",
+        "zipcode": "83829-204"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida São Cristóvão",
+        "zipcode": "83829-202"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Luiz",
+        "zipcode": "83829-108"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Luciano",
+        "zipcode": "83829-110"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Constantino",
+        "zipcode": "83829-112"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Lúcio",
+        "zipcode": "83829-114"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São José",
+        "zipcode": "83829-116"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Tomás de Aquino",
+        "zipcode": "83829-156"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Bárbara",
+        "zipcode": "83829-158"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Inês",
+        "zipcode": "83829-160"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Lucas",
+        "zipcode": "83829-211"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Mateus",
+        "zipcode": "83829-213"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Nicanor",
+        "zipcode": "83829-200"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Regina",
+        "zipcode": "83829-164"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Marcos",
+        "zipcode": "83829-217"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Rosa",
+        "zipcode": "83829-223"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Miguel",
+        "zipcode": "83829-229"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Gisela",
+        "zipcode": "83829-231"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "83829-206"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Benedito",
+        "zipcode": "83829-100"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santo Agostinho",
+        "zipcode": "83829-162"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santo Agostinho",
+        "zipcode": "83829-219"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Águida",
+        "zipcode": "83829-233"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Helena",
+        "zipcode": "83829-087"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santo Anastácio",
+        "zipcode": "83829-083"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Rio Tejo",
+        "zipcode": "83829-062"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Romualdo",
+        "zipcode": "83829-074"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Rio Piquiri",
+        "zipcode": "83829-122"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Rio Iguaçu",
+        "zipcode": "83829-118"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Rio Iraí",
+        "zipcode": "83829-120"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Nossa Senhora Conceição",
+        "zipcode": "83829-052"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santo Antero",
+        "zipcode": "83829-040"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "83829-042"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Carlos Eduardo Nichele",
+        "zipcode": "83829-004"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Cegonha",
+        "zipcode": "83824-520"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Colibri",
+        "zipcode": "83824-524"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Alcatraz",
+        "zipcode": "83824-528"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Fragatas",
+        "zipcode": "83824-532"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Saíra",
+        "zipcode": "83824-538"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Tordos",
+        "zipcode": "83824-550"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Cucos",
+        "zipcode": "83824-554"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Falcão",
+        "zipcode": "83824-558"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Cotovia",
+        "zipcode": "83824-562"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Rafael",
+        "zipcode": "83829-022"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Vicente",
+        "zipcode": "83829-024"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Joaquim",
+        "zipcode": "83829-026"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Manoel",
+        "zipcode": "83829-028"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Clara",
+        "zipcode": "83829-030"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "83829-018"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "83829-020"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa Casimiro de Abreu",
+        "zipcode": "83825-170"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Zélia Gatai",
+        "zipcode": "83825-175"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua João Cabral de Melo Neto",
+        "zipcode": "83825-250"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Dorival Caymi",
+        "zipcode": "83825-260"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Machado de Assis",
+        "zipcode": "83825-270"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Helena Kolody",
+        "zipcode": "83825-280"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Vinicius de Moraes",
+        "zipcode": "83825-290"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Jorge Amado",
+        "zipcode": "83825-295"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Rio Tejo",
+        "zipcode": "83829-000"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Mário Quintana",
+        "zipcode": "83825-300"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Cecília Meireles",
+        "zipcode": "83825-310"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Paulo Leminski",
+        "zipcode": "83825-320"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Aluísio Azevedo",
+        "zipcode": "83825-330"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "83825-340"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Guimarães Rosa",
+        "zipcode": "83825-360"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa José de Alencar",
+        "zipcode": "83825-370"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Lucinir Franco da Rocha",
+        "zipcode": "83825-380"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua João Quirino Leal",
+        "zipcode": "83825-100"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Mário de Andrade",
+        "zipcode": "83825-110"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa Augusto dos Anjos",
+        "zipcode": "83825-115"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa Dalton Trevisan",
+        "zipcode": "83825-120"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Castro Alves",
+        "zipcode": "83825-125"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa Clarice Lispector",
+        "zipcode": "83825-130"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa Cora Coralina",
+        "zipcode": "83825-135"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa Francisco Buarque de Holanda",
+        "zipcode": "83825-140"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Carlos Drummond de Andrade",
+        "zipcode": "83825-145"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "83825-350"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Narcísio",
+        "zipcode": "83829-014"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa Olavo Bilac",
+        "zipcode": "83825-150"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Travessa Visconde de Taunay",
+        "zipcode": "83825-155"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida Portugal",
+        "zipcode": "83824-245"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida Portugal",
+        "zipcode": "83824-462"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Guará",
+        "zipcode": "83824-442"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Guará",
+        "zipcode": "83824-478"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Juruviara",
+        "zipcode": "83824-430"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Juruviara",
+        "zipcode": "83824-388"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Marabú",
+        "zipcode": "83824-438"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Marabú",
+        "zipcode": "83824-434"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida Condor",
+        "zipcode": "83824-284"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida Condor",
+        "zipcode": "83824-304"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Pardais",
+        "zipcode": "83824-243"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Juritis",
+        "zipcode": "83824-249"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Fênix",
+        "zipcode": "83824-261"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Azulão",
+        "zipcode": "83824-265"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Mairas",
+        "zipcode": "83824-272"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Tico",
+        "zipcode": "83824-386"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Coleirinha",
+        "zipcode": "83824-394"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Chopim",
+        "zipcode": "83824-398"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Inhambu",
+        "zipcode": "83824-406"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Sabiá",
+        "zipcode": "83824-410"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Beija",
+        "zipcode": "83824-414"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Caraúna",
+        "zipcode": "83824-422"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Maguari",
+        "zipcode": "83824-446"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Japin",
+        "zipcode": "83824-450"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Pelicano",
+        "zipcode": "83824-454"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Pintassilgo",
+        "zipcode": "83824-458"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Biguá",
+        "zipcode": "83824-466"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Macauã",
+        "zipcode": "83824-470"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Sovi",
+        "zipcode": "83824-474"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Carão",
+        "zipcode": "83824-482"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Nandu",
+        "zipcode": "83824-486"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Uru",
+        "zipcode": "83824-494"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Tridi",
+        "zipcode": "83824-504"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Coruja",
+        "zipcode": "83824-512"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Tuiuiú",
+        "zipcode": "83824-516"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Iraúna",
+        "zipcode": "83824-193"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Papagaio",
+        "zipcode": "83824-197"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Gaivotas",
+        "zipcode": "83824-201"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Irerê",
+        "zipcode": "83824-205"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Tom Jobim",
+        "zipcode": "83825-165"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Tucano",
+        "zipcode": "83824-229"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Albatroz",
+        "zipcode": "83824-402"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Albatroz",
+        "zipcode": "83824-440"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Seriema",
+        "zipcode": "83824-213"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Tangará",
+        "zipcode": "83824-209"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Tangará",
+        "zipcode": "83824-418"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Chico Mendes",
+        "zipcode": "83824-235"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Padre Nilson Brasiliano José",
+        "zipcode": "83824-506"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Roseli Nunes",
+        "zipcode": "83824-239"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Dionísio Cláudio de Souza",
+        "zipcode": "83824-237"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida Portugal",
+        "zipcode": "83824-000"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida Portugal",
+        "zipcode": "83824-109"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Portugal",
+        "zipcode": "83823-343"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Portugal",
+        "zipcode": "83823-365"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Quero",
+        "zipcode": "83824-113"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Quero",
+        "zipcode": "83824-117"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Islândia",
+        "zipcode": "83823-319"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Canários",
+        "zipcode": "83824-141"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Canários",
+        "zipcode": "83824-137"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Cisne",
+        "zipcode": "83824-018"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Escócia",
+        "zipcode": "83823-325"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Flamingos",
+        "zipcode": "83824-189"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Flamingos",
+        "zipcode": "83823-331"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Gavião",
+        "zipcode": "83824-065"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Gavião",
+        "zipcode": "83824-085"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rodovia BR",
+        "zipcode": "83824-042"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Zabelê",
+        "zipcode": "83824-105"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Andorinhas",
+        "zipcode": "83824-121"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Cacatua",
+        "zipcode": "83824-125"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Arara",
+        "zipcode": "83824-159"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Bem",
+        "zipcode": "83824-163"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Garças",
+        "zipcode": "83824-167"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Macuco",
+        "zipcode": "83824-177"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Cardeal",
+        "zipcode": "83824-181"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Pinguim",
+        "zipcode": "83824-185"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida das Américas",
+        "zipcode": "83824-153"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Arapongas",
+        "zipcode": "83824-129"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Arapongas",
+        "zipcode": "83824-133"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Áustria",
+        "zipcode": "83824-040"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Águias",
+        "zipcode": "83824-016"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Seriema",
+        "zipcode": "83824-081"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Rouxinol",
+        "zipcode": "83824-024"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Mandarim",
+        "zipcode": "83824-028"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Pavão",
+        "zipcode": "83824-032"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Melro",
+        "zipcode": "83824-036"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Caturrita",
+        "zipcode": "83824-044"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Pombas",
+        "zipcode": "83824-058"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Patativa",
+        "zipcode": "83824-073"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Tiziu",
+        "zipcode": "83824-077"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Sanhaço",
+        "zipcode": "83824-089"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Cigarrinha",
+        "zipcode": "83824-093"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Zumbi dos Palmares",
+        "zipcode": "83824-233"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua João",
+        "zipcode": "83824-097"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Saracura",
+        "zipcode": "83824-101"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Estônia",
+        "zipcode": "83823-323"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Holanda",
+        "zipcode": "83823-327"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Romênia",
+        "zipcode": "83823-313"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Martinica",
+        "zipcode": "83823-315"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Ucrânia",
+        "zipcode": "83823-317"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Inglaterra",
+        "zipcode": "83823-900"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Jacarandá",
+        "zipcode": "83823-901"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Polônia",
+        "zipcode": "83823-194"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Islândia",
+        "zipcode": "83823-200"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Buenos Aires",
+        "zipcode": "83823-154"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Escócia",
+        "zipcode": "83823-204"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Estados Unidos",
+        "zipcode": "83823-196"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Moçambique",
+        "zipcode": "83823-176"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Zaire",
+        "zipcode": "83823-178"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Santiago",
+        "zipcode": "83823-152"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Senegal",
+        "zipcode": "83823-156"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua La Paz",
+        "zipcode": "83823-158"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Sudão",
+        "zipcode": "83823-160"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Nicarágua",
+        "zipcode": "83823-162"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Líbano",
+        "zipcode": "83823-164"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Malásia",
+        "zipcode": "83823-166"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Honduras",
+        "zipcode": "83823-168"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Angola",
+        "zipcode": "83823-170"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Nova Zelândia",
+        "zipcode": "83823-172"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Qatar",
+        "zipcode": "83823-174"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua China",
+        "zipcode": "83823-220"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Índia",
+        "zipcode": "83823-224"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Congo",
+        "zipcode": "83823-226"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Benin",
+        "zipcode": "83823-253"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Sapucaia",
+        "zipcode": "83823-161"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Dinamarca",
+        "zipcode": "83823-208"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Bulgária",
+        "zipcode": "83823-210"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Libéria",
+        "zipcode": "83823-212"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Hungria",
+        "zipcode": "83823-214"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Suíça",
+        "zipcode": "83823-216"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Mali",
+        "zipcode": "83823-218"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Coréia",
+        "zipcode": "83823-180"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Singapura",
+        "zipcode": "83823-186"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Jacarta",
+        "zipcode": "83823-188"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Suécia",
+        "zipcode": "83823-190"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Irlanda",
+        "zipcode": "83823-198"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Malta",
+        "zipcode": "83823-202"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Cabo Verde",
+        "zipcode": "83823-255"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Eritréia",
+        "zipcode": "83823-257"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Etiópia",
+        "zipcode": "83823-259"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Gabão",
+        "zipcode": "83823-261"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Gâmbia",
+        "zipcode": "83823-263"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Líbia",
+        "zipcode": "83823-265"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Namíbia",
+        "zipcode": "83823-267"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Níger",
+        "zipcode": "83823-269"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Madagáscar",
+        "zipcode": "83823-273"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Ceilão",
+        "zipcode": "83823-295"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Jamaica",
+        "zipcode": "83823-297"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Indonésia",
+        "zipcode": "83823-299"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Tenerife",
+        "zipcode": "83823-301"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Birmânia",
+        "zipcode": "83823-303"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Lituânia",
+        "zipcode": "83823-305"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Guiné",
+        "zipcode": "83823-307"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Cancun",
+        "zipcode": "83823-309"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Costa do Marfim",
+        "zipcode": "83823-311"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Paraguai",
+        "zipcode": "83823-138"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Peru",
+        "zipcode": "83823-080"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Peru",
+        "zipcode": "83823-140"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Polônia",
+        "zipcode": "83823-132"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Portugal",
+        "zipcode": "83823-038"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Portugal",
+        "zipcode": "83823-108"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Bolívia",
+        "zipcode": "83823-064"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Brasil",
+        "zipcode": "83823-044"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Brasil",
+        "zipcode": "83823-050"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Chile",
+        "zipcode": "83823-070"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Chile",
+        "zipcode": "83823-092"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Cisne",
+        "zipcode": "83823-088"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Colômbia",
+        "zipcode": "83823-074"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Colômbia",
+        "zipcode": "83823-142"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Egito",
+        "zipcode": "83823-082"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Equador",
+        "zipcode": "83823-072"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Equador",
+        "zipcode": "83823-094"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Estados Unidos",
+        "zipcode": "83823-114"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Groelândia",
+        "zipcode": "83823-095"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Groelândia",
+        "zipcode": "83823-146"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Áustria",
+        "zipcode": "83823-098"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Marrocos",
+        "zipcode": "83823-036"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Panamá",
+        "zipcode": "83823-040"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Porto Rico",
+        "zipcode": "83823-042"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Irã",
+        "zipcode": "83823-046"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Espanha",
+        "zipcode": "83823-048"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Macau",
+        "zipcode": "83823-054"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua México",
+        "zipcode": "83823-058"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Argentina",
+        "zipcode": "83823-060"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Atenas",
+        "zipcode": "83823-076"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Jordânia",
+        "zipcode": "83823-086"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Turquia",
+        "zipcode": "83823-100"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Cairo",
+        "zipcode": "83823-102"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Israel",
+        "zipcode": "83823-104"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Alemanha",
+        "zipcode": "83823-106"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Chipre",
+        "zipcode": "83823-110"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Creta",
+        "zipcode": "83823-112"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Chopinzinho",
+        "zipcode": "83823-116"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Chapecó",
+        "zipcode": "83823-118"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Cerro Azul",
+        "zipcode": "83823-120"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Curaçao",
+        "zipcode": "83823-126"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Mônaco",
+        "zipcode": "83823-128"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Tailândia",
+        "zipcode": "83823-130"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Finlândia",
+        "zipcode": "83823-134"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Nigéria",
+        "zipcode": "83823-136"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua El Salvador",
+        "zipcode": "83823-148"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Albânia",
+        "zipcode": "83823-056"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Uruguai",
+        "zipcode": "83823-068"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Uruguai",
+        "zipcode": "83823-090"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Venezuela",
+        "zipcode": "83823-078"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Venezuela",
+        "zipcode": "83823-144"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Guatemala",
+        "zipcode": "83823-150"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Guaçatunga",
+        "zipcode": "83820-845"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Mangostão",
+        "zipcode": "83820-842"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Canfoeiro",
+        "zipcode": "83820-839"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Tabebuias",
+        "zipcode": "83820-836"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Chapéu",
+        "zipcode": "83820-833"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Aurora",
+        "zipcode": "83820-830"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Tipas",
+        "zipcode": "83820-828"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Caliandra",
+        "zipcode": "83820-819"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Chuva",
+        "zipcode": "83820-813"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua dos Branquilhos",
+        "zipcode": "83820-810"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Espinheira",
+        "zipcode": "83820-807"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Freixo",
+        "zipcode": "83820-804"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Iuca",
+        "zipcode": "83820-801"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Quixabeira",
+        "zipcode": "83820-795"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Tamareiras",
+        "zipcode": "83820-789"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua dos Guaranás",
+        "zipcode": "83820-786"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Leiteiro",
+        "zipcode": "83820-777"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Aleluias",
+        "zipcode": "83820-774"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Manduiranas",
+        "zipcode": "83820-771"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Mulungú",
+        "zipcode": "83820-768"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Maria",
+        "zipcode": "83820-765"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Timbaúvas",
+        "zipcode": "83820-762"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Amendoim",
+        "zipcode": "83820-759"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Alfazema",
+        "zipcode": "83820-757"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Mirtáceas",
+        "zipcode": "83820-822"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Neem",
+        "zipcode": "83820-798"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Seriguela",
+        "zipcode": "83820-792"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Canjeranas",
+        "zipcode": "83820-780"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Inglaterra",
+        "zipcode": "83823-008"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Jequitibá",
+        "zipcode": "83823-004"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Brasil",
+        "zipcode": "83823-034"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Buenos Aires",
+        "zipcode": "83820-611"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Egito",
+        "zipcode": "83823-024"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua França",
+        "zipcode": "83823-006"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida das Américas",
+        "zipcode": "83823-002"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Macedônia",
+        "zipcode": "83823-010"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Bélgica",
+        "zipcode": "83823-012"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Grécia",
+        "zipcode": "83823-016"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Japão",
+        "zipcode": "83823-018"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Itália",
+        "zipcode": "83823-020"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Argélia",
+        "zipcode": "83823-022"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa San Marino",
+        "zipcode": "83823-028"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Paquistão",
+        "zipcode": "83823-032"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Jacarandá",
+        "zipcode": "83823-014"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Sapucaia",
+        "zipcode": "83820-626"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Macaúba",
+        "zipcode": "83820-614"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Ingá",
+        "zipcode": "83820-617"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Aroeira",
+        "zipcode": "83820-620"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Alecrim",
+        "zipcode": "83820-629"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Angico",
+        "zipcode": "83820-632"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua César Carelli",
+        "zipcode": "83820-970"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Leucena",
+        "zipcode": "83820-750"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Juvevê",
+        "zipcode": "83820-747"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Guatambú",
+        "zipcode": "83820-744"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Samaúna",
+        "zipcode": "83820-741"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua dos Louros",
+        "zipcode": "83820-737"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Fruta",
+        "zipcode": "83820-734"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Primaveras",
+        "zipcode": "83820-731"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Suinã",
+        "zipcode": "83820-728"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua dos Hibiscus",
+        "zipcode": "83820-725"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Titiki",
+        "zipcode": "83820-722"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Esponjinha",
+        "zipcode": "83820-719"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Ébano",
+        "zipcode": "83820-716"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Cipreste",
+        "zipcode": "83820-713"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Cassuarina",
+        "zipcode": "83820-710"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua do Pinho",
+        "zipcode": "83820-707"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Tomaz Edison de Andrade Vieira",
+        "zipcode": "83820-701"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Paineiras",
+        "zipcode": "83820-596"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Bolívia",
+        "zipcode": "83820-509"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Cedro",
+        "zipcode": "83820-524"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Cedro",
+        "zipcode": "83820-599"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Equador",
+        "zipcode": "83820-572"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Groelândia",
+        "zipcode": "83820-539"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida das Araucárias",
+        "zipcode": "83820-512"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Uruguai",
+        "zipcode": "83820-530"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Venezuela",
+        "zipcode": "83820-554"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Guatemala",
+        "zipcode": "83820-602"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Sucupira",
+        "zipcode": "83820-482"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Ubá",
+        "zipcode": "83820-485"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Ipê",
+        "zipcode": "83820-488"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Três Marias",
+        "zipcode": "83820-491"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Quaresmeira",
+        "zipcode": "83820-494"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Cacaueiro",
+        "zipcode": "83820-497"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Coqueiro",
+        "zipcode": "83820-500"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Embaúba",
+        "zipcode": "83820-503"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Salgueiro",
+        "zipcode": "83820-506"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Amoreira",
+        "zipcode": "83820-515"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Canela",
+        "zipcode": "83820-518"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Cambará",
+        "zipcode": "83820-521"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Goiabeira",
+        "zipcode": "83820-527"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Seringueira",
+        "zipcode": "83820-536"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Imbuia",
+        "zipcode": "83820-545"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Violeta",
+        "zipcode": "83820-548"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Guapuruvu",
+        "zipcode": "83820-551"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Butiá",
+        "zipcode": "83820-557"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Canafístula",
+        "zipcode": "83820-566"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Peroba",
+        "zipcode": "83820-575"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Tamboril",
+        "zipcode": "83820-578"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Espatódea",
+        "zipcode": "83820-581"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Dedaleiro",
+        "zipcode": "83820-587"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Tarumã",
+        "zipcode": "83820-590"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Araçá",
+        "zipcode": "83820-593"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Sibipiruna",
+        "zipcode": "83820-608"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Venezuela",
+        "zipcode": "83820-605"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Nêspera",
+        "zipcode": "83820-427"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Erva",
+        "zipcode": "83820-424"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Miliáceas",
+        "zipcode": "83820-421"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Não",
+        "zipcode": "83820-418"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Nectrandas",
+        "zipcode": "83820-415"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Mélias",
+        "zipcode": "83820-412"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua dos Padocarpus",
+        "zipcode": "83820-341"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Açaizeiro",
+        "zipcode": "83820-228"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Brasil",
+        "zipcode": "83820-262"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Brasil",
+        "zipcode": "83820-470"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Monjoleiro",
+        "zipcode": "83820-169"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Olmo",
+        "zipcode": "83820-172"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Sapopema",
+        "zipcode": "83820-178"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Pinus",
+        "zipcode": "83820-181"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Pereira",
+        "zipcode": "83820-184"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Cajueiro",
+        "zipcode": "83820-187"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Palmeira",
+        "zipcode": "83820-190"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Sequóia",
+        "zipcode": "83820-196"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Macieira",
+        "zipcode": "83820-199"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Framboeseira",
+        "zipcode": "83820-211"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Guabiroba",
+        "zipcode": "83820-214"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Damasqueiro",
+        "zipcode": "83820-217"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Palmiteiro",
+        "zipcode": "83820-393"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Mogno",
+        "zipcode": "83820-401"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Tangerineira",
+        "zipcode": "83820-405"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Oliveira",
+        "zipcode": "83820-433"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Limoeiro",
+        "zipcode": "83820-437"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Videira",
+        "zipcode": "83820-445"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Pessegueiro",
+        "zipcode": "83820-449"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Gerivá",
+        "zipcode": "83820-457"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Cerejeira",
+        "zipcode": "83820-463"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Plátano",
+        "zipcode": "83820-371"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Flamboiã",
+        "zipcode": "83820-375"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Urucum",
+        "zipcode": "83820-385"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Extremosa",
+        "zipcode": "83820-389"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Venezuela",
+        "zipcode": "83820-455"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Francisco Ferreira da Cruz",
+        "zipcode": "83820-293"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida das Indústrias",
+        "zipcode": "83820-332"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Caroba",
+        "zipcode": "83820-364"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Jaqueira",
+        "zipcode": "83820-221"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Graviola",
+        "zipcode": "83820-225"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Nogueira",
+        "zipcode": "83820-234"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Limeira",
+        "zipcode": "83820-238"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Jabuticabeira",
+        "zipcode": "83820-242"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Caquizeiro",
+        "zipcode": "83820-246"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Cupuaçu",
+        "zipcode": "83820-250"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Jambeiro",
+        "zipcode": "83820-254"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Manacá",
+        "zipcode": "83820-261"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Juazeiro",
+        "zipcode": "83820-467"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Mangueira",
+        "zipcode": "83820-476"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Acácia",
+        "zipcode": "83820-148"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua São Januário",
+        "zipcode": "83833-126"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua São Simplício",
+        "zipcode": "83833-134"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Jequitibá",
+        "zipcode": "83820-026"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Brasil",
+        "zipcode": "83820-074"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Brasil",
+        "zipcode": "83820-065"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Camélias",
+        "zipcode": "83820-459"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Carlos Eduardo Nichele",
+        "zipcode": "83833-572"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Cedro",
+        "zipcode": "83820-004"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua França",
+        "zipcode": "83820-029"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rodovia BR",
+        "zipcode": "83820-020"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rodovia BR",
+        "zipcode": "83833-074"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rodovia BR",
+        "zipcode": "83824-148"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rodovia BR",
+        "zipcode": "83833-574"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Guapira",
+        "zipcode": "83820-265"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Caramboleira",
+        "zipcode": "83820-397"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida das Américas",
+        "zipcode": "83820-023"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida das Américas",
+        "zipcode": "83820-027"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida das Araucárias",
+        "zipcode": "83820-071"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida das Araucárias",
+        "zipcode": "83820-068"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Figueira",
+        "zipcode": "83820-035"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Cinamomo",
+        "zipcode": "83820-044"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Pitangueira",
+        "zipcode": "83820-047"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Caviúna",
+        "zipcode": "83820-053"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Castanheira",
+        "zipcode": "83820-056"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Baraúna",
+        "zipcode": "83820-059"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Angelim",
+        "zipcode": "83820-062"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Jatobá",
+        "zipcode": "83820-096"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Marmeleiro",
+        "zipcode": "83820-102"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Magnólia",
+        "zipcode": "83820-117"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Amorinha",
+        "zipcode": "83820-136"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Carvalho",
+        "zipcode": "83820-139"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Bracatinga",
+        "zipcode": "83820-145"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Cataia",
+        "zipcode": "83820-151"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Bordo",
+        "zipcode": "83820-154"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa do Conde",
+        "zipcode": "83820-157"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Cauna",
+        "zipcode": "83820-160"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Murici",
+        "zipcode": "83820-163"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Jacarandá",
+        "zipcode": "83820-001"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Álamo",
+        "zipcode": "83820-142"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Guaritá",
+        "zipcode": "83820-007"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Guapeva",
+        "zipcode": "83820-010"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Vinheiro",
+        "zipcode": "83820-016"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Prata",
+        "zipcode": "83833-352"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Imbaú",
+        "zipcode": "83833-566"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Quati",
+        "zipcode": "83833-568"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Goioerê",
+        "zipcode": "83833-570"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Cambu",
+        "zipcode": "83820-260"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Cuba",
+        "zipcode": "83823-329"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Copaíba",
+        "zipcode": "83820-057"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Farid Stephens",
+        "zipcode": "83833-971"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Ariano Suassuna",
+        "zipcode": "83825-102"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Pêra",
+        "zipcode": "83820-783"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Liquidamba",
+        "zipcode": "83820-344"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Bernardo Wosniack",
+        "zipcode": "83833-038"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa São Ricardo",
+        "zipcode": "83833-150"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa Santa Matilde",
+        "zipcode": "83829-267"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Jaguariaíva",
+        "zipcode": "83830-033"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora de Lourdes",
+        "zipcode": "83829-066"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Emas",
+        "zipcode": "83824-400"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rodovia BR",
+        "zipcode": "83824-012"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rodovia BR",
+        "zipcode": "83820-123"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Piqui",
+        "zipcode": "83820-166"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Reseda",
+        "zipcode": "83820-383"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Santo Astério",
+        "zipcode": "83833-136"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Iugoslávia",
+        "zipcode": "83823-096"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Travessa Rio Iriri",
+        "zipcode": "83833-204"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Jacarezinho",
+        "zipcode": "83830-695"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua Noel Rosa",
+        "zipcode": "83825-160"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Oiti",
+        "zipcode": "83820-569"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Pinheiro",
+        "zipcode": "83820-623"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Francisco Ferreira da Cruz",
+        "zipcode": "83820-990"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua César Carelli",
+        "zipcode": "83833-054"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua César Carelli",
+        "zipcode": "83833-477"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Rondônia",
+        "zipcode": "83830-540"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": null,
+        "street": "Rua A",
+        "zipcode": "83825-990"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Minas Gerais",
+        "zipcode": "83830-275"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Fernando de Noronha",
+        "zipcode": "83830-296"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa União da Vitória",
+        "zipcode": "83830-156"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Travessa Paulo Freire",
+        "zipcode": "83824-263"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Crispim",
+        "zipcode": "83824-490"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rodovia BR",
+        "zipcode": "83829-002"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rodovia BR",
+        "zipcode": "83830-000"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rodovia BR",
+        "zipcode": "83830-189"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Luiz Carlos Prestes",
+        "zipcode": "83824-231"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Florianópolis",
+        "zipcode": "83830-620"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Goiás",
+        "zipcode": "83830-490"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Praça da Vitória",
+        "zipcode": "83820-533"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Caetano",
+        "zipcode": "83829-243"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Pau",
+        "zipcode": "83820-756"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Leguminosas",
+        "zipcode": "83820-335"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Veneza",
+        "street": "Rua João Ubaldo Ribeiro",
+        "zipcode": "83825-293"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Francisco da Conceição Machado",
+        "zipcode": "83824-505"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Sérvia",
+        "zipcode": "83823-275"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Tulipeiras",
+        "zipcode": "83820-848"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Bauhinias",
+        "zipcode": "83820-816"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Corticeira",
+        "zipcode": "83820-753"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Chorão",
+        "zipcode": "83820-704"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua do Salix",
+        "zipcode": "83820-431"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Montenegro",
+        "zipcode": "83823-277"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua das Eugenias",
+        "zipcode": "83820-825"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Espírito Santo",
+        "zipcode": "83830-303"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Mato Grosso do Sul",
+        "zipcode": "83830-324"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Santa Mônica",
+        "zipcode": "83829-225"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Nelson Claudino dos Santos",
+        "zipcode": "83833-558"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Avenida Paineiras",
+        "zipcode": "83820-479"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua São Clemente",
+        "zipcode": "83829-326"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Santo Antônio de Santana Galvão",
+        "zipcode": "83829-277"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Nelson Claudino dos Santos",
+        "zipcode": "83833-000"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Croácia",
+        "zipcode": "83823-293"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "São Sebastião",
+        "street": "Rua Pedro Franco",
+        "zipcode": "83825-050"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Ameixeira",
+        "zipcode": "83820-441"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua N (Jd Canaã)",
+        "zipcode": "83829-016"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Paraguai",
+        "zipcode": "83823-026"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Noruega",
+        "zipcode": "83823-321"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Planalto",
+        "zipcode": "83830-371"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Travessa Carambola",
+        "zipcode": "83820-175"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Travessa Jandaia",
+        "zipcode": "83830-158"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Carriças",
+        "zipcode": "83824-566"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": null,
+        "street": "Estrada Principal do Passo Amarelo",
+        "zipcode": "83839-990"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Umbuzeiro",
+        "zipcode": "83820-409"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Paraguai",
+        "zipcode": "83823-084"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Paraguai",
+        "zipcode": "83823-184"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Avenida Paraná",
+        "zipcode": "83833-082"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Avenida Paraná",
+        "zipcode": "83829-010"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida Perdizes",
+        "zipcode": "83824-173"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida Perdizes",
+        "zipcode": "83824-223"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Avenida Rio Amazonas",
+        "zipcode": "83833-505"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Floriano",
+        "zipcode": "83829-348"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Abacateiro",
+        "zipcode": "83820-429"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Inglaterra",
+        "zipcode": "83820-038"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "83829-289"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Pioneiros",
+        "street": "Rua Ephigênio Pereira da Cruz",
+        "zipcode": "83833-018"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Flamingos",
+        "zipcode": "83824-254"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Patricío",
+        "zipcode": "83829-008"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Avenida das Américas",
+        "zipcode": "83824-020"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "83829-091"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Travessa Arábia Saudita",
+        "zipcode": "83823-030"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Rua Costa Rica",
+        "zipcode": "83823-062"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio São Francisco",
+        "zipcode": "83833-287"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Pau",
+        "zipcode": "83820-381"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Ivaí",
+        "zipcode": "83833-509"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Paraíba",
+        "zipcode": "83830-145"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Japurá",
+        "zipcode": "83833-503"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Iguaçu",
+        "street": "Rua Rio Madeira",
+        "zipcode": "83833-521"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Nações",
+        "street": "Avenida Holanda",
+        "zipcode": "83823-206"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Laranjeira",
+        "zipcode": "83820-542"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida João Quirino Leal",
+        "zipcode": "83825-991"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Santa Terezinha",
+        "street": "Travessa São Abílio",
+        "zipcode": "83829-215"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Gralha Azul",
+        "street": "Rua Tipiu",
+        "zipcode": "83824-498"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Eucaliptos",
+        "street": "Rua Araticum",
+        "zipcode": "83820-264"
+    },
+    {
+        "city": "Fazenda Rio Grande",
+        "state": "PR",
+        "district": "Estados",
+        "street": "Rua Acre",
+        "zipcode": "83830-536"
+    }
+]

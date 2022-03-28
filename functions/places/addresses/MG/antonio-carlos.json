@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Antônio Carlos",
+        "state": "MG",
+        "district": "São Sebastião de Campolide",
+        "street": "Praça Santana s/n",
+        "zipcode": "36220-973"
+    },
+    {
+        "city": "Antônio Carlos",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Padre Manoel Rodrigues 128",
+        "zipcode": "36220-974"
+    },
+    {
+        "city": "Antônio Carlos",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "36220-000"
+    },
+    {
+        "city": "Antônio Carlos",
+        "state": "MG",
+        "district": "Curral Novo",
+        "street": "Praça Lina Fagundes s/n",
+        "zipcode": "36220-971"
+    },
+    {
+        "city": "Antônio Carlos",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Major Neca Andrade 10",
+        "zipcode": "36220-970"
+    }
+]

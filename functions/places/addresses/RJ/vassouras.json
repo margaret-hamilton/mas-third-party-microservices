@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Vassouras",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "27700-000"
+    },
+    {
+        "city": "Vassouras",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Irmã Maria Agostinha 1",
+        "zipcode": "27700-970"
+    },
+    {
+        "city": "Vassouras",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Irmã Maria Agostinha 1",
+        "zipcode": "27700-972"
+    },
+    {
+        "city": "Vassouras",
+        "state": "RJ",
+        "district": null,
+        "street": "Praça da Matriz",
+        "zipcode": "27705-990"
+    },
+    {
+        "city": "Vassouras",
+        "state": "RJ",
+        "district": "Itakamozi",
+        "street": "Rua Manoel Macedo s/n",
+        "zipcode": "27700-971"
+    }
+]

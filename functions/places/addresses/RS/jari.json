@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Jari",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Silveira Martins",
+        "zipcode": "98175-971"
+    },
+    {
+        "city": "Jari",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Tenente",
+        "zipcode": "98175-970"
+    },
+    {
+        "city": "Jari",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "98175-000"
+    }
+]

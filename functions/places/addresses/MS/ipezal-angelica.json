@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Ipezal (Angélica)",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Benedito Francisco de Azevedo",
+        "zipcode": "79787-970"
+    },
+    {
+        "city": "Ipezal (Angélica)",
+        "state": "MS",
+        "district": null,
+        "street": "Av. Presidente Vargas",
+        "zipcode": "79787-990"
+    },
+    {
+        "city": "Ipezal (Angélica)",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "79787-971"
+    },
+    {
+        "city": "Ipezal (Angélica)",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79787-000"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Coroaci",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça José Olegário dos Reis 29",
+        "zipcode": "39710-970"
+    },
+    {
+        "city": "Coroaci",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39710-000"
+    }
+]

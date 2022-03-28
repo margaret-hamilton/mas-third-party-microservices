@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Matozinhos",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35720-000"
+    },
+    {
+        "city": "Matozinhos",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Dona Balá 57",
+        "zipcode": "35720-972"
+    },
+    {
+        "city": "Matozinhos",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Carlos Martins 48",
+        "zipcode": "35720-970"
+    },
+    {
+        "city": "Matozinhos",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Bento Gonçalves 135",
+        "zipcode": "35720-971"
+    }
+]

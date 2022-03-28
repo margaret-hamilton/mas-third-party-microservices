@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Morro Reuter",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Vinte e Um de Abril 72",
+        "zipcode": "93990-970"
+    },
+    {
+        "city": "Morro Reuter",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "93990-000"
+    },
+    {
+        "city": "Morro Reuter",
+        "state": "RS",
+        "district": null,
+        "street": "Estr Walachai",
+        "zipcode": "93990-990"
+    },
+    {
+        "city": "Morro Reuter",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Reinaldo Kieling",
+        "zipcode": "93990-991"
+    }
+]

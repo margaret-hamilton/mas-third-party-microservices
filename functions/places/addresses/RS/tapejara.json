@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Tapejara",
+        "state": "RS",
+        "district": "Vila Campos",
+        "street": "Rua do Comércio",
+        "zipcode": "99950-974"
+    },
+    {
+        "city": "Tapejara",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Angelo Dalzotto",
+        "zipcode": "99950-970"
+    },
+    {
+        "city": "Tapejara",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "99950-000"
+    }
+]

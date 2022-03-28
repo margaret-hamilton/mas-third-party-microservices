@@ -1,0 +1,23 @@
+[
+    {
+        "city": "General Carneiro",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Costa e Silva 76",
+        "zipcode": "84660-970"
+    },
+    {
+        "city": "General Carneiro",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Henrique Wagner Filho",
+        "zipcode": "84660-990"
+    },
+    {
+        "city": "General Carneiro",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "84660-000"
+    }
+]

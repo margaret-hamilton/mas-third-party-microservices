@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Salesópolis",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "08970-000"
+    },
+    {
+        "city": "Salesópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua XV de Novembro",
+        "zipcode": "08970-970"
+    },
+    {
+        "city": "Salesópolis",
+        "state": "SP",
+        "district": null,
+        "street": "Rua do Casarão",
+        "zipcode": "08970-991"
+    },
+    {
+        "city": "Salesópolis",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Antônio de Souza Prado",
+        "zipcode": "08970-990"
+    }
+]

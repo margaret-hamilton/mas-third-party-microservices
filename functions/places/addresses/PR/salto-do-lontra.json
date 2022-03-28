@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Salto do Lontra",
+        "state": "PR",
+        "district": "Linha Boeira",
+        "street": "Rua Principal",
+        "zipcode": "85670-972"
+    },
+    {
+        "city": "Salto do Lontra",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85670-000"
+    },
+    {
+        "city": "Salto do Lontra",
+        "state": "PR",
+        "district": "Barra do Lontra",
+        "street": "Rua Principal",
+        "zipcode": "85670-971"
+    },
+    {
+        "city": "Salto do Lontra",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Bertino Warmling",
+        "zipcode": "85670-970"
+    }
+]

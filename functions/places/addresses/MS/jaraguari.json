@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Jaraguari",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79440-000"
+    },
+    {
+        "city": "Jaraguari",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "79440-971"
+    },
+    {
+        "city": "Jaraguari",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "79440-990"
+    },
+    {
+        "city": "Jaraguari",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Geraldo Ferreira Barbosa",
+        "zipcode": "79440-970"
+    }
+]

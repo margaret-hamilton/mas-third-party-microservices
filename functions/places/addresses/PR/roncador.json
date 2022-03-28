@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Roncador",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua São Pedro",
+        "zipcode": "87320-970"
+    },
+    {
+        "city": "Roncador",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida São Pedro",
+        "zipcode": "87323-990"
+    },
+    {
+        "city": "Roncador",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87320-000"
+    }
+]

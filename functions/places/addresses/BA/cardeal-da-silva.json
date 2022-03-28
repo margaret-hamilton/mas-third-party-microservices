@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Cardeal da Silva",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça José Osete de Carvalho s/n",
+        "zipcode": "48390-970"
+    },
+    {
+        "city": "Cardeal da Silva",
+        "state": "BA",
+        "district": null,
+        "street": "Praça José Osete",
+        "zipcode": "48390-990"
+    },
+    {
+        "city": "Cardeal da Silva",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48390-000"
+    }
+]

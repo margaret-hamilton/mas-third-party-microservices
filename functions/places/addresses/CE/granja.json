@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Granja",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Sousa 476",
+        "zipcode": "62430-970"
+    },
+    {
+        "city": "Granja",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62430-000"
+    },
+    {
+        "city": "Granja",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62437-990"
+    },
+    {
+        "city": "Granja",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62440-990"
+    }
+]

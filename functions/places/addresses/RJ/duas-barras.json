@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Duas Barras",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 83",
+        "zipcode": "28650-970"
+    },
+    {
+        "city": "Duas Barras",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28650-000"
+    },
+    {
+        "city": "Duas Barras",
+        "state": "RJ",
+        "district": null,
+        "street": "Praça Pedro Henrique Ângelo",
+        "zipcode": "28650-990"
+    },
+    {
+        "city": "Duas Barras",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rodovia RJ",
+        "zipcode": "28650-972"
+    },
+    {
+        "city": "Duas Barras",
+        "state": "RJ",
+        "district": "Fazenda do Campo",
+        "street": "Rua José Ribeiro Serafim s/n",
+        "zipcode": "28650-971"
+    }
+]

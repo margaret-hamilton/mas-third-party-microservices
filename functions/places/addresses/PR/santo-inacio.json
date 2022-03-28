@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Santo Inácio",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Ovídio Pereira da Silva",
+        "zipcode": "86650-970"
+    },
+    {
+        "city": "Santo Inácio",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86650-000"
+    }
+]

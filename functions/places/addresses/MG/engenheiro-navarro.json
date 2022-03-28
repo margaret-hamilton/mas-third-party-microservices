@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Engenheiro Navarro",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Antônio Marques Evangelista 95",
+        "zipcode": "39417-970"
+    },
+    {
+        "city": "Engenheiro Navarro",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39417-000"
+    },
+    {
+        "city": "Engenheiro Navarro",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39363-000"
+    },
+    {
+        "city": "Engenheiro Navarro",
+        "state": "MG",
+        "district": "São Norberto",
+        "street": "Rua Maria Bernadete 12",
+        "zipcode": "39363-971"
+    },
+    {
+        "city": "Engenheiro Navarro",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Antônio Marques Evangelista 95",
+        "zipcode": "39363-970"
+    },
+    {
+        "city": "Engenheiro Navarro",
+        "state": "MG",
+        "district": "São Norberto",
+        "street": "Rua Maria Bernadete 12",
+        "zipcode": "39417-971"
+    }
+]

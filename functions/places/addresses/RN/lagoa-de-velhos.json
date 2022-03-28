@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Lagoa de Velhos",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua Santos Dumont 203",
+        "zipcode": "59430-970"
+    },
+    {
+        "city": "Lagoa de Velhos",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59430-000"
+    },
+    {
+        "city": "Lagoa de Velhos",
+        "state": "RN",
+        "district": "Monte Alegre",
+        "street": "Rua Principal s/n",
+        "zipcode": "59430-971"
+    },
+    {
+        "city": "Lagoa de Velhos",
+        "state": "RN",
+        "district": "Bom Descanso",
+        "street": "Rua Principal s/n",
+        "zipcode": "59430-972"
+    }
+]

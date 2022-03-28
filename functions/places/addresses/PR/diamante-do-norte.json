@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Diamante do Norte",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Nelson Trizi",
+        "zipcode": "87990-970"
+    },
+    {
+        "city": "Diamante do Norte",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "87990-000"
+    }
+]

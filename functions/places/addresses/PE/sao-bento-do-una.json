@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São Bento do Una",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua João Pessoa 19",
+        "zipcode": "55370-970"
+    },
+    {
+        "city": "São Bento do Una",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55370-000"
+    },
+    {
+        "city": "São Bento do Una",
+        "state": "PE",
+        "district": "Espírito Santo",
+        "street": "Rua General João Siqueira s/n",
+        "zipcode": "55374-970"
+    },
+    {
+        "city": "São Bento do Una",
+        "state": "PE",
+        "district": "Distrito de Espirito Santo",
+        "street": "Rua Miguel Didier Pacheco s/n",
+        "zipcode": "55374-971"
+    }
+]

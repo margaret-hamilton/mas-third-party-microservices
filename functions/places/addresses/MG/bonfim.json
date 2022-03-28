@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bonfim",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35521-000"
+    },
+    {
+        "city": "Bonfim",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35480-000"
+    },
+    {
+        "city": "Bonfim",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Olívio Villefort 24  AC Bonfim",
+        "zipcode": "35480-970"
+    },
+    {
+        "city": "Bonfim",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Olívio Villefort 24",
+        "zipcode": "35521-970"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bom Jesus do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Ipiranga 72",
+        "zipcode": "85708-970"
+    },
+    {
+        "city": "Bom Jesus do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Ipiranga 405",
+        "zipcode": "85708-971"
+    },
+    {
+        "city": "Bom Jesus do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Ipiranga",
+        "zipcode": "85708-990"
+    },
+    {
+        "city": "Bom Jesus do Sul",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85708-000"
+    }
+]

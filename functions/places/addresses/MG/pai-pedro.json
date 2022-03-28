@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Pai Pedro",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Gorutuba s/n",
+        "zipcode": "39517-973"
+    },
+    {
+        "city": "Pai Pedro",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39517-000"
+    }
+]

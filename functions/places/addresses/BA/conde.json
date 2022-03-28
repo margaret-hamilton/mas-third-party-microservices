@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Conde",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Dois de Julho 112",
+        "zipcode": "48300-970"
+    },
+    {
+        "city": "Conde",
+        "state": "BA",
+        "district": null,
+        "street": "Rua da Igreja",
+        "zipcode": "48300-990"
+    },
+    {
+        "city": "Conde",
+        "state": "BA",
+        "district": null,
+        "street": "Avenida Oito de Setembro",
+        "zipcode": "48300-991"
+    },
+    {
+        "city": "Conde",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48300-000"
+    }
+]

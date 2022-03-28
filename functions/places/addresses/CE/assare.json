@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Assaré",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "63140-000"
+    },
+    {
+        "city": "Assaré",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Euclides Onofre 138",
+        "zipcode": "63140-970"
+    },
+    {
+        "city": "Assaré",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "63144-990"
+    }
+]

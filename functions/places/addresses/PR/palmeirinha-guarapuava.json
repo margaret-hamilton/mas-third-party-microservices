@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Palmeirinha (Guarapuava)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Evaristo Carneiro",
+        "zipcode": "85118-970"
+    },
+    {
+        "city": "Palmeirinha (Guarapuava)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85118-000"
+    },
+    {
+        "city": "Palmeirinha (Guarapuava)",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Felipe Karan",
+        "zipcode": "85118-990"
+    }
+]

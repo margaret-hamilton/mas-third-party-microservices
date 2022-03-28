@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Braço do Norte",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88750-000"
+    },
+    {
+        "city": "Braço do Norte",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Felipe Schmidt 1949  AC Braço do Norte",
+        "zipcode": "88750-970"
+    },
+    {
+        "city": "Braço do Norte",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Felipe Schmidt 1949  CDD Braço do Norte",
+        "zipcode": "88750-972"
+    },
+    {
+        "city": "Braço do Norte",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Felipe Schmidt 1370  ACC Demay",
+        "zipcode": "88750-971"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Arroio do Tigre",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "96950-000"
+    },
+    {
+        "city": "Arroio do Tigre",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Castelo Branco",
+        "zipcode": "96950-970"
+    },
+    {
+        "city": "Arroio do Tigre",
+        "state": "RS",
+        "district": "Taboãozinho",
+        "street": "Rua Principal s/nº",
+        "zipcode": "96950-975"
+    },
+    {
+        "city": "Arroio do Tigre",
+        "state": "RS",
+        "district": "Sítio",
+        "street": "Rua Principal s/nº",
+        "zipcode": "96950-974"
+    }
+]

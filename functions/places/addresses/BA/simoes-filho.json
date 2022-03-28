@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Simões Filho",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua 15 de Novembro 68",
+        "zipcode": "43700-970"
+    },
+    {
+        "city": "Simões Filho",
+        "state": "BA",
+        "district": "Centro Industrial de Aratu",
+        "street": "Rodovia BR",
+        "zipcode": "43700-971"
+    },
+    {
+        "city": "Simões Filho",
+        "state": "BA",
+        "district": "Palmares",
+        "street": "Rodovia BA",
+        "zipcode": "43700-974"
+    },
+    {
+        "city": "Simões Filho",
+        "state": "BA",
+        "district": null,
+        "street": "Avenida Camaçari",
+        "zipcode": "43700-990"
+    },
+    {
+        "city": "Simões Filho",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "43700-000"
+    },
+    {
+        "city": "Simões Filho",
+        "state": "BA",
+        "district": "Palmares",
+        "street": "Rua do Asfalto 12",
+        "zipcode": "43700-972"
+    },
+    {
+        "city": "Simões Filho",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Padre Emille Felix Wagner s/n",
+        "zipcode": "43700-973"
+    }
+]

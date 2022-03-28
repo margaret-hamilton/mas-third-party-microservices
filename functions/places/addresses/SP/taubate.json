@@ -1,0 +1,751 @@
+[
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Rua Canada",
+        "zipcode": "12031-440"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Edmundo",
+        "street": "Rua Falcao Filho",
+        "zipcode": "12040-040"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Edmundo",
+        "street": "Rua Gentil De Assis Moura",
+        "zipcode": "12040-050"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacaras Catagua",
+        "street": "Rua Quatro",
+        "zipcode": "12093-390"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Quinze",
+        "zipcode": "12096-020"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Treze",
+        "zipcode": "12096-030"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Doze",
+        "zipcode": "12096-040"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Onze",
+        "zipcode": "12096-050"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Estiva",
+        "street": "Praça Jose Clemente Gomes",
+        "zipcode": "12050-433"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Dez",
+        "zipcode": "12096-080"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Martin Luther King",
+        "zipcode": "12052-690"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Clodomiro Amazonas",
+        "zipcode": "12052-700"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua M",
+        "zipcode": "12043-150"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Santa Cruz",
+        "street": "Rua Arthur Vieira",
+        "zipcode": "12080-550"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Parque Residencial Jardim Jaragua",
+        "street": "Rua Jose Theodoro Machado",
+        "zipcode": "12062-590"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Santa Clara",
+        "street": "Rua Urbano Alves Souza Pereira",
+        "zipcode": "12080-280"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Vicente Celestino",
+        "zipcode": "12052-790"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Rua Jose Marcelino De Morais Filho",
+        "zipcode": "12080-560"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Esplanada Independencia",
+        "street": "Rua A",
+        "zipcode": "12040-790"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Rua Noruega",
+        "zipcode": "12031-500"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Avenida Joao Guarnieri",
+        "zipcode": "12052-760"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Bel Recanto",
+        "street": "Praça Bueno Rezende",
+        "zipcode": "12031-360"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Avenida Joaquim Bonifacio De Moura",
+        "zipcode": "12080-660"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Jaragua",
+        "street": "Praça Santa Helena",
+        "zipcode": "12062-660"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Avenida Alexandre Mine",
+        "zipcode": "12080-610"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Silvia Maria",
+        "street": "Rua Dr Carmelio Ribeiro Di Lorenzo",
+        "zipcode": "12081-030"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Dr Miguel Vieira Ferreira",
+        "zipcode": "12052-730"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Idalina Monteclaro Cesar Matos Gomes",
+        "zipcode": "12052-680"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Praça Santos Cursino",
+        "zipcode": "12052-763"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Esplanada Independencia",
+        "street": "Rua Sete",
+        "zipcode": "12040-740"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Avenida Lazaro De Paula Santos",
+        "zipcode": "12096-090"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Conj Residencial Urupes Unidas",
+        "street": "Avenida Marrocos",
+        "zipcode": "12031-530"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Rua Dinamarca",
+        "zipcode": "12031-520"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Granja Panorama",
+        "street": "Rua Particular",
+        "zipcode": "12090-451"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Acacio Nogueira",
+        "street": "Travessa Dois",
+        "zipcode": "12040-002"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Casas Populares",
+        "street": "Rua Capitao Bernardo Sanches Pimenta",
+        "zipcode": "12040-100"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Silvia Maria",
+        "street": "Avenida Dom Pedro I",
+        "zipcode": "12081-000"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Rua Polonia",
+        "zipcode": "12031-490"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Casas Populares",
+        "street": "Rua Ramiro Adolpho Souza Guimaraes",
+        "zipcode": "12040-090"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Elpidio Dos Santos",
+        "zipcode": "12052-740"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Avenida Luciano Alves Pereira",
+        "zipcode": "12080-680"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Edmundo",
+        "street": "Rua Francisco Eugenio De Toledo",
+        "zipcode": "12040-010"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Walter Pereira De Faria",
+        "zipcode": "12052-800"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Jose Isaias Monteiro Dos Santos",
+        "zipcode": "12052-720"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Santa Clara",
+        "street": "Avenida Helvino De Moraes",
+        "zipcode": "12070-451"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Edmundo",
+        "street": "Rua Padre Francisco Cosco",
+        "zipcode": "12040-030"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Guisard",
+        "street": "Rua Antonio Celidonio Monteiro",
+        "zipcode": "12040-080"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Major Luiz Eugenio Soares",
+        "zipcode": "12096-100"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Rua Prof. Juvenal Da Costa E Silva",
+        "zipcode": "12080-600"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim De Alah",
+        "street": "Rua B",
+        "zipcode": "12032-040"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Rua Egito",
+        "zipcode": "12031-470"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Praça Esperanto",
+        "zipcode": "12080-623"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Rua Abissinia",
+        "zipcode": "12031-460"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Praça Turquia",
+        "zipcode": "12031-480"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Esplanada Independencia",
+        "street": "Rua Projetada",
+        "zipcode": "12040-830"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Edmundo",
+        "street": "Rua Boa Morte",
+        "zipcode": "12040-060"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Sao Caetano",
+        "zipcode": "12090-520"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Alda Garrido",
+        "zipcode": "12052-810"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Sonia Maria",
+        "street": "Rua Joaquim Soares Da Silva",
+        "zipcode": "12081-270"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Edmundo",
+        "street": "Rua Agostinho Danelli",
+        "zipcode": "12040-012"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Avenida Italia",
+        "zipcode": "12031-540"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Quatro",
+        "zipcode": "12052-780"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Santa Clara",
+        "street": "Rua Joao Roman",
+        "zipcode": "12080-710"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Irmaos Galvao",
+        "zipcode": "12090-320"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Alto Sao Pedro",
+        "street": "Rua Cinco",
+        "zipcode": "12090-420"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Jaboticabeira",
+        "street": "Rua Marechal Arthur Da Costa E Silva",
+        "zipcode": "12030-620"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Jose Geraldo Alves Cursino",
+        "zipcode": "12090-341"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Travessa Carlos Drumond De Andrade",
+        "zipcode": "12080-650"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Cinco",
+        "zipcode": "12096-170"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Granjas Reunidas Sao Goncalo",
+        "street": "Rua Trinta E Quatro",
+        "zipcode": "12092-240"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Morada Dos Nobres",
+        "street": "Rua A",
+        "zipcode": "12093-330"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Travessa Quatorze",
+        "zipcode": "12093-013"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Eulalia",
+        "street": "Praça Celso Querido Guisard",
+        "zipcode": "12091-051"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Travessa Particular",
+        "zipcode": "12096-060"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Tres",
+        "zipcode": "12096-150"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Travessa Tres",
+        "zipcode": "12096-110"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Oito",
+        "zipcode": "12096-130"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Benedicto Sebastiao Estefano",
+        "zipcode": "12096-140"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Dois",
+        "zipcode": "12090-530"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Das Madressilvas",
+        "zipcode": "12090-560"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Das Petunias",
+        "zipcode": "12090-550"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Dos Manacas",
+        "zipcode": "12090-570"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Dos Suspiros",
+        "zipcode": "12090-580"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Silvia Maria",
+        "street": "Rua Prof. Pio Telles Peixoto",
+        "zipcode": "12081-050"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Willy Aureli",
+        "zipcode": "12052-710"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Rua Jose Evangelista De Andrade",
+        "zipcode": "12080-620"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Guisard",
+        "street": "Rua Claudino Velloso Borges",
+        "zipcode": "12040-070"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Rua Praxedes De Abreu",
+        "zipcode": "12080-670"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Rua Finlandia",
+        "zipcode": "12031-450"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacaras Catagua",
+        "street": "Rua Tres",
+        "zipcode": "12093-340"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Luiz Pellogia",
+        "zipcode": "12096-160"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Parque Residencial Jardim Jaragua",
+        "street": "Rua Prof. Emilia De Moura M. Da Silva",
+        "zipcode": "12062-570"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Das Nacoes",
+        "street": "Rua Suecia",
+        "zipcode": "12031-510"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Esplanada Independencia",
+        "street": "Rua Dois  *",
+        "zipcode": "12040-690"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Loteamento Fernando Camargo Nogueira",
+        "street": "Rua Prof. Ernesto De Oliveira Filho",
+        "zipcode": "12031-780"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Particular",
+        "zipcode": "12096-070"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Avenida Jose Pedro Da Cunha",
+        "zipcode": "12080-500"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dr Emilio Winther",
+        "zipcode": "12030-001"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Campos Eliseos",
+        "street": "Rua Dos Miosotis",
+        "zipcode": "12090-540"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Vila Edmundo",
+        "street": "Avenida Jose Roberto Bueno De Mattos",
+        "zipcode": "12040-020"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacaras Catagua",
+        "street": "Rua Alzira Santos Cabral",
+        "zipcode": "12093-470"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Travessa Leonor De Benedictis Goncalves",
+        "zipcode": "12096-115"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Mourisco",
+        "street": "Rua Tavares Filho",
+        "zipcode": "12052-770"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Esplanada Independencia",
+        "street": "Rua Afonso Negreiros Sayao Lobato",
+        "zipcode": "12040-760"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Maria Augusta",
+        "street": "Avenida Alexandre Fleming",
+        "zipcode": "12080-630"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Chacara Sao Felix",
+        "street": "Rua Sete",
+        "zipcode": "12096-120"
+    },
+    {
+        "city": "Taubate",
+        "state": "SP",
+        "district": "Jardim Helvetia",
+        "street": "Rua Tres",
+        "zipcode": "12092-410"
+    }
+]

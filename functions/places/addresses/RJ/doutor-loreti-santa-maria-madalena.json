@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Doutor Loreti (Santa Maria Madalena)",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28772-000"
+    },
+    {
+        "city": "Doutor Loreti (Santa Maria Madalena)",
+        "state": "RJ",
+        "district": null,
+        "street": "Posto de Saúde Doutor Loretti",
+        "zipcode": "28772-990"
+    },
+    {
+        "city": "Doutor Loreti (Santa Maria Madalena)",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua do Posto de Saúde Doutor Loretti",
+        "zipcode": "28772-970"
+    }
+]

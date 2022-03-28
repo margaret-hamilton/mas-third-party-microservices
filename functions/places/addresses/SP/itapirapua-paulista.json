@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itapirapuã Paulista",
+        "state": "SP",
+        "district": "Ribeirão da Várzea",
+        "street": "Rua 18 16",
+        "zipcode": "18385-972"
+    },
+    {
+        "city": "Itapirapuã Paulista",
+        "state": "SP",
+        "district": null,
+        "street": "Rua 18",
+        "zipcode": "18385-990"
+    },
+    {
+        "city": "Itapirapuã Paulista",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18385-000"
+    },
+    {
+        "city": "Itapirapuã Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Uriel de Oliveira César 90",
+        "zipcode": "18385-970"
+    }
+]

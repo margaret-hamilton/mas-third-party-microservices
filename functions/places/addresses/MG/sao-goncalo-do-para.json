@@ -1,0 +1,44 @@
+[
+    {
+        "city": "São Gonçalo do Pará",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Presidente Tancredo Neves 333  AC São Gonçalo do Pará",
+        "zipcode": "35544-970"
+    },
+    {
+        "city": "São Gonçalo do Pará",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35516-000"
+    },
+    {
+        "city": "São Gonçalo do Pará",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Presidente Tancredo Neves 333",
+        "zipcode": "35516-970"
+    },
+    {
+        "city": "São Gonçalo do Pará",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35544-000"
+    },
+    {
+        "city": "São Gonçalo do Pará",
+        "state": "MG",
+        "district": "Quilombo do Gaia",
+        "street": "Praça Pedro Delgado Mota s/n  AGC Quilombo do Gaia",
+        "zipcode": "35544-971"
+    },
+    {
+        "city": "São Gonçalo do Pará",
+        "state": "MG",
+        "district": "Quilombo do Gaia",
+        "street": "Praça Pedro Delgado Mota s/n",
+        "zipcode": "35516-971"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Três Marias",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Matozinhos 121",
+        "zipcode": "39205-970"
+    },
+    {
+        "city": "Três Marias",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Matozinhos 220",
+        "zipcode": "39205-971"
+    },
+    {
+        "city": "Três Marias",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39205-000"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santa Margarida",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Semeão Pereira Campos 15",
+        "zipcode": "36910-970"
+    },
+    {
+        "city": "Santa Margarida",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "36910-000"
+    },
+    {
+        "city": "Santa Margarida",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "36913-000"
+    },
+    {
+        "city": "Santa Margarida",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Semeão Pereira Campos 15",
+        "zipcode": "36913-970"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Baía Formosa",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59194-000"
+    },
+    {
+        "city": "Baía Formosa",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua João Ferreira de Souza 198",
+        "zipcode": "59194-970"
+    },
+    {
+        "city": "Baía Formosa",
+        "state": "RN",
+        "district": null,
+        "street": "Povoado do Sagí",
+        "zipcode": "59194-991"
+    },
+    {
+        "city": "Baía Formosa",
+        "state": "RN",
+        "district": null,
+        "street": "Destilaria Usina Vila Oiticica",
+        "zipcode": "59194-990"
+    }
+]

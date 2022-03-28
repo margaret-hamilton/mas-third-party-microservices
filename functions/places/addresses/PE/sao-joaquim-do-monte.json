@@ -1,0 +1,44 @@
+[
+    {
+        "city": "São Joaquim do Monte",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55670-000"
+    },
+    {
+        "city": "São Joaquim do Monte",
+        "state": "PE",
+        "district": "Barra do Riachão",
+        "street": "Vila Barra do Riachão s/n",
+        "zipcode": "55672-970"
+    },
+    {
+        "city": "São Joaquim do Monte",
+        "state": "PE",
+        "district": "Santana de São Joaquim",
+        "street": "Rua do Centro s/n",
+        "zipcode": "55674-970"
+    },
+    {
+        "city": "São Joaquim do Monte",
+        "state": "PE",
+        "district": null,
+        "street": "Vila Barra do Riachão",
+        "zipcode": "55672-990"
+    },
+    {
+        "city": "São Joaquim do Monte",
+        "state": "PE",
+        "district": "Povoado Monte Alegre",
+        "street": "Vila Monte Alegre s/n",
+        "zipcode": "55670-971"
+    },
+    {
+        "city": "São Joaquim do Monte",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Praça Coronel Joaquim Lima 18",
+        "zipcode": "55670-970"
+    }
+]

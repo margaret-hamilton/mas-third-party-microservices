@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itambezinho (Campo Largo)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Principal",
+        "zipcode": "83647-970"
+    },
+    {
+        "city": "Itambezinho (Campo Largo)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83647-000"
+    },
+    {
+        "city": "Itambezinho (Campo Largo)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "83647-971"
+    },
+    {
+        "city": "Itambezinho (Campo Largo)",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Cassemiro Carmo",
+        "zipcode": "83647-990"
+    }
+]

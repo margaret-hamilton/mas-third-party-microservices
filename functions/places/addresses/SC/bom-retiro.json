@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Bom Retiro",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Major Generoso 182  AC Bom Retiro",
+        "zipcode": "88680-970"
+    },
+    {
+        "city": "Bom Retiro",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88680-000"
+    },
+    {
+        "city": "Bom Retiro",
+        "state": "SC",
+        "district": null,
+        "street": "Avenida Major Generoso",
+        "zipcode": "88680-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "São Pedro (Dourados)",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79862-000"
+    },
+    {
+        "city": "São Pedro (Dourados)",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Bahia",
+        "zipcode": "79862-970"
+    },
+    {
+        "city": "São Pedro (Dourados)",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Paraná",
+        "zipcode": "79862-990"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Araruama",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Major Félix Moreira 81",
+        "zipcode": "28970-970"
+    },
+    {
+        "city": "Araruama",
+        "state": "RJ",
+        "district": "Praia Seca",
+        "street": "Estrada de Praia Seca 13195",
+        "zipcode": "28970-972"
+    },
+    {
+        "city": "Araruama",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 1425 Loja B",
+        "zipcode": "28970-971"
+    },
+    {
+        "city": "Araruama",
+        "state": "RJ",
+        "district": "Morro Grande",
+        "street": "Rua João Alberto s/n",
+        "zipcode": "28975-970"
+    },
+    {
+        "city": "Araruama",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada da Praia Seca",
+        "zipcode": "28970-991"
+    },
+    {
+        "city": "Araruama",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28970-000"
+    }
+]

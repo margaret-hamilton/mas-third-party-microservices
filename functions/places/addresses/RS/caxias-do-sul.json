@@ -1,0 +1,429 @@
+[
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Sao Ciro",
+        "street": "Rua Das Hortencias",
+        "zipcode": "95058-190"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Mariland",
+        "street": "Rua Guapore",
+        "zipcode": "95058-170"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Mariland",
+        "street": "Rua Paula",
+        "zipcode": "95057-540"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Sao Ciro",
+        "street": "Rua Benjamin",
+        "zipcode": "95058-080"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Desvio Rizzo",
+        "street": "Rua Jose Rech",
+        "zipcode": "95110-490"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Desvio Rizzo",
+        "street": "Rua Das Laranjeiras",
+        "zipcode": "95110-520"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Desvio Rizzo",
+        "street": "Rua Taurino Feijo",
+        "zipcode": "95110-730"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Forqueta",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "95115-391"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Marechal Floriano",
+        "street": "Rua Mestre Tito Bettini",
+        "zipcode": "95030-155"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Marechal Floriano",
+        "street": "Rua Jose Peletti",
+        "zipcode": "95030-180"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Marechal Floriano",
+        "street": "Rua Maria Agnese Grezzana Zucco",
+        "zipcode": "95030-190"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Cinquentenario",
+        "street": "Rua Dalton Lahm Dos Reis",
+        "zipcode": "95012-170"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Nossa Senhora De Fatima",
+        "street": "Rua Arthur Perottoni",
+        "zipcode": "95043-130"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Cinquentenario",
+        "street": "Rua Honorato Bazei",
+        "zipcode": "95012-240"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Pio X",
+        "street": "Rua Juan Carlos Marcon",
+        "zipcode": "95034-430"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Cinquentenario",
+        "street": "Rua Gerson Andreis",
+        "zipcode": "95012-210"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Carlos Biasi",
+        "zipcode": "95076-080"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Esplanada",
+        "street": "Rua Jose Mandelli",
+        "zipcode": "95095-220"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Esplanada",
+        "street": "Rua Abelardo Cavalcanti",
+        "zipcode": "95095-010"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Santa Catarina",
+        "street": "Rua Fortunato Randon",
+        "zipcode": "95013-390"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Sao Leopoldo",
+        "street": "Rua Jose Varela De Camargo",
+        "zipcode": "95054-790"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Santa Catarina",
+        "street": "Rua Dr Nilson Teobaldo Schaeffer",
+        "zipcode": "95032-501"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Nossa Senhora De Fatima",
+        "street": "Rua Luis Carlos Prestes",
+        "zipcode": "95041-320"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Cristo Redentor",
+        "street": "Rua Joao Mocelin",
+        "zipcode": "95082-080"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Angelo Bonetto",
+        "zipcode": "95086-040"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Nossa Senhora De Fatima",
+        "street": "Avenida Terra",
+        "zipcode": "95043-720"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Santa Fe",
+        "street": "Rua Quatorze (Vl Ipe)",
+        "zipcode": "95045-620"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Esplanada",
+        "street": "Rua Irmao Francisco Alberto",
+        "zipcode": "95095-190"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Marechal Floriano",
+        "street": "Rua Jose Bassanesi",
+        "zipcode": "95034-220"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Cristo Redentor",
+        "street": "Rua Henrique Fontanella",
+        "zipcode": "95084-130"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Esplanada",
+        "street": "Rua Anuncio Lain",
+        "zipcode": "95095-050"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Pioneiro",
+        "street": "Rua Alfonso Pasquali",
+        "zipcode": "95042-040"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Saint Etienne",
+        "street": "Rua Dr Affonso Bortoluzzi",
+        "zipcode": "95055-020"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Cinquentenario",
+        "street": "Rua Abrelino Guedes",
+        "zipcode": "95012-010"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Lazzer",
+        "street": "Avenida Perimetral Norte",
+        "zipcode": "95054-360"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Universitario",
+        "street": "Rua Vasco Da Gama",
+        "zipcode": "95040-550"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Jardim Eldorado",
+        "street": "Rua Manoel Ramos Sant Anna",
+        "zipcode": "95059-370"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Sao Ciro",
+        "street": "Rua Orquideas",
+        "zipcode": "95058-270"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Esplanada",
+        "street": "Rua Pedro Radaelli",
+        "zipcode": "95095-310"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Charqueadas",
+        "street": "Rua Thereza Palandi Zugno",
+        "zipcode": "95096-800"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Marechal Floriano",
+        "street": "Rua Joao Peletti",
+        "zipcode": "95030-170"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Levino Dal Bosco",
+        "zipcode": "95076-375"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Esplanada",
+        "street": "Rua Maximiliano Danieli",
+        "zipcode": "95095-290"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Sao Ciro",
+        "street": "Rua Dos (Lot Castelo) Beija Flores",
+        "zipcode": "95058-070"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Marechal Floriano",
+        "street": "Rua Antonio Demoliner",
+        "zipcode": "95030-150"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Universitario",
+        "street": "Parque Dos Pinheiros",
+        "zipcode": "95041-010"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Sao Ciro",
+        "street": "Rua Domingos Zambenedetti",
+        "zipcode": "95052-170"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Santa Fe",
+        "street": "Rua Doze (S Fe)",
+        "zipcode": "95045-610"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Troiano Pacheco Schmith",
+        "zipcode": "95086-370"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Desvio Rizzo",
+        "street": "Rua Angelo Ruffato",
+        "zipcode": "95110-050"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Desvio Rizzo",
+        "street": "Rua Adelino Angelo Cegoni",
+        "zipcode": "95110-765"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Desvio Rizzo",
+        "street": "Rua Adelaide Pasetti",
+        "zipcode": "95110-010"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Frederico Celestino Fedrizzi",
+        "zipcode": "95080-130"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Desvio Rizzo",
+        "street": "Rua Abel Postali",
+        "zipcode": "95112-000"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Sao Ciro",
+        "street": "Rua Ipe",
+        "zipcode": "95058-200"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Marechal Floriano",
+        "street": "Beco Francisco Franzoi",
+        "zipcode": "95032-490"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Sao Ciro",
+        "street": "Rua Cardeal",
+        "zipcode": "95058-090"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Nossa Senhora De Fatima",
+        "street": "Rua Avelino Angelo De Souza",
+        "zipcode": "95043-710"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Desvio Rizzo",
+        "street": "Rua Francisco Zatera",
+        "zipcode": "95112-110"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Kayser",
+        "street": "Rua Fabio Stalivieri",
+        "zipcode": "95096-190"
+    },
+    {
+        "city": "Caxias Do Sul",
+        "state": "RS",
+        "district": "Marechal Floriano",
+        "street": "Beco Francisco Fortunato Franzoi",
+        "zipcode": "95034-180"
+    }
+]

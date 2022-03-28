@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Demerval Lobão",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Padre Joaquim Nonato 1264",
+        "zipcode": "64390-970"
+    },
+    {
+        "city": "Demerval Lobão",
+        "state": "PI",
+        "district": null,
+        "street": "BR",
+        "zipcode": "64390-990"
+    },
+    {
+        "city": "Demerval Lobão",
+        "state": "PI",
+        "district": "",
+        "street": "",
+        "zipcode": "64390-000"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Mato Verde",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Presidente Castelo Branco 476",
+        "zipcode": "39527-970"
+    },
+    {
+        "city": "Mato Verde",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39527-000"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Águas Belas",
+        "state": "PE",
+        "district": "Povoado de Garcia",
+        "street": "Rua Povoado de Garcia s/n",
+        "zipcode": "55340-971"
+    },
+    {
+        "city": "Águas Belas",
+        "state": "PE",
+        "district": "Distrito Curral Novo",
+        "street": "Praça São Sebastiao s/n",
+        "zipcode": "55343-970"
+    },
+    {
+        "city": "Águas Belas",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Praça Nossa Senhora da Conceição 150",
+        "zipcode": "55340-970"
+    },
+    {
+        "city": "Águas Belas",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55340-000"
+    }
+]

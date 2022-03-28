@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ipu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Coronel Liberalino 1332",
+        "zipcode": "62250-970"
+    },
+    {
+        "city": "Ipu",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62250-000"
+    },
+    {
+        "city": "Ipu",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "62254-990"
+    }
+]

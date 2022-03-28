@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Alto Piquiri",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87580-000"
+    },
+    {
+        "city": "Alto Piquiri",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "87590-990"
+    },
+    {
+        "city": "Alto Piquiri",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida São Jorge",
+        "zipcode": "87588-990"
+    },
+    {
+        "city": "Alto Piquiri",
+        "state": "PR",
+        "district": null,
+        "street": "Praça Dom Bosco",
+        "zipcode": "87585-990"
+    },
+    {
+        "city": "Alto Piquiri",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Brasil 1813",
+        "zipcode": "87580-970"
+    }
+]

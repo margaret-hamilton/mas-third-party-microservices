@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Baixão (Jequié)",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Jequié",
+        "zipcode": "45212-971"
+    },
+    {
+        "city": "Baixão (Jequié)",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45213-100"
+    },
+    {
+        "city": "Baixão (Jequié)",
+        "state": "BA",
+        "district": null,
+        "street": null,
+        "zipcode": "45212-000"
+    },
+    {
+        "city": "Baixão (Jequié)",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Jequié",
+        "zipcode": "45213-972"
+    }
+]

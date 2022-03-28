@@ -1,0 +1,5728 @@
+[
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Acesso Benedito Moreira dos Santos",
+        "zipcode": "12711-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Residencial das Palmeiras",
+        "street": "Alameda Marilia Isabel Mimoso Seabra",
+        "zipcode": "12721-271"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Afonso Henrique Fortes",
+        "zipcode": "12730-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Antonio Fonseca",
+        "zipcode": "12704-111"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Avenida Doutor Marrey Júnior",
+        "zipcode": "12705-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Alameda Flor do Ipê",
+        "zipcode": "12705-471"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Albuquerque Lins",
+        "zipcode": "12712-630"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Onofre Rodrigues Carneiro",
+        "zipcode": "12721-201"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua dos Crisântemos",
+        "zipcode": "12712-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Gardênias",
+        "zipcode": "12712-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Alameda das Hortências",
+        "zipcode": "12712-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Prefeito Eurico Pereira Pena",
+        "zipcode": "12712-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Sebastião Meirelles",
+        "zipcode": "12712-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Tancredo Magalhães",
+        "zipcode": "12712-580"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Estrada Ignácio Rubez",
+        "zipcode": "12721-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Dona Elizabete da Silva Moreira",
+        "zipcode": "12712-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Acácias",
+        "zipcode": "12712-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Alameda das Rosas",
+        "zipcode": "12712-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Terezinha Ribeiro Moreira",
+        "zipcode": "12712-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Presidente Juscelino Kubitschek de Oliveira",
+        "zipcode": "12712-680"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Professor Joaquim de Paula Guimarães",
+        "zipcode": "12712-640"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Nagib Cossermelli",
+        "zipcode": "12712-650"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Angra dos Reis",
+        "zipcode": "12722-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Clayton Benedito Gonzaga de Andrade",
+        "zipcode": "12722-540"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Paschoal Colosimo",
+        "zipcode": "12722-690"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Avenida Onésimo Ribeiro",
+        "zipcode": "12722-770"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Antônio Conde Filho",
+        "zipcode": "12722-820"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Maria Lemes de Paula",
+        "zipcode": "12722-430"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Jaime Pazini",
+        "zipcode": "12722-490"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Residencial das Palmeiras",
+        "street": "Alameda Otavio Mariano Rodrigues",
+        "zipcode": "12721-278"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Residencial das Palmeiras",
+        "street": "Alameda Silvano Biondi",
+        "zipcode": "12721-272"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Residencial das Palmeiras",
+        "street": "Alameda Comendador Valmir Spinelli de Oliveira",
+        "zipcode": "12721-276"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Residencial das Palmeiras",
+        "street": "Alameda Oscar Argemiro Aniceto",
+        "zipcode": "12721-274"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "12730-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Quatorze de Julho",
+        "zipcode": "12730-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Floriano Peixoto",
+        "zipcode": "12730-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Américo Brasiliense",
+        "zipcode": "12730-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Professor Joaquim dos Santos Magalhães",
+        "zipcode": "12730-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Gustavo Moeler",
+        "zipcode": "12730-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Avenida Cruzeiro",
+        "zipcode": "12722-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Comerciários",
+        "street": "Rua Fidelis Gualberto",
+        "zipcode": "12723-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Domingos Conte",
+        "zipcode": "12730-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Heraclito Guimarães Creado",
+        "zipcode": "12730-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Praça Antônio Cândido",
+        "zipcode": "12730-430"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Praça José de Aquino Ferrão",
+        "zipcode": "12730-550"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Capitão Araújo",
+        "zipcode": "12730-580"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Capitão Firmo",
+        "zipcode": "12730-610"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Christina de Carvalho Motta",
+        "zipcode": "12730-630"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Sebastião Moreira da Silva",
+        "zipcode": "12730-650"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Doze",
+        "zipcode": "12730-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Joel Bessa de Souza",
+        "zipcode": "12730-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Professor Carlos Alberto Alves de Carvalho Pinto",
+        "zipcode": "12730-420"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Manoel Siqueira de Vasconcelos Filho",
+        "zipcode": "12730-680"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Estrada Doutor Nelson Romanelli",
+        "zipcode": "12730-700"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Dois",
+        "zipcode": "12730-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Avenida Benedicto Miranda Rocha",
+        "zipcode": "12702-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua José Anastácio",
+        "zipcode": "12702-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Francisco Onofre de Freitas",
+        "zipcode": "12705-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Dois C",
+        "zipcode": "12704-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Antônio Molinaro",
+        "zipcode": "12705-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Antônio Conde",
+        "zipcode": "12710-420"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Constantino Salomão",
+        "zipcode": "12710-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Hélio Motta",
+        "zipcode": "12710-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Marciliano Machado de Carvalho",
+        "zipcode": "12710-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Luiz Quartim Barbosa",
+        "zipcode": "12710-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Sebastião Alves Mimoso",
+        "zipcode": "12705-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Praça Teotônio Vilela",
+        "zipcode": "12702-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Vereador Aurélio Garcez Novaes",
+        "zipcode": "12730-901"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa dos Ferroviários",
+        "zipcode": "12701-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santa Cruz",
+        "zipcode": "12701-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dona Felícia Maria Barbosa",
+        "zipcode": "12701-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua Benedito Costa",
+        "zipcode": "12720-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua José Otávio Lemos",
+        "zipcode": "12704-084"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua Euclides Moreira de Queiroz",
+        "zipcode": "12704-088"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Benedito Pereira da Silva",
+        "zipcode": "12704-092"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Vereador Auxíbio Vitor Novaes",
+        "zipcode": "12704-093"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Manoel Martins de Oliveira",
+        "zipcode": "12704-094"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Adolpho Vitor de Carvalho Vieira",
+        "zipcode": "12704-095"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Doutor Izidro Ailton Ferraz",
+        "zipcode": "12704-096"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Vereador Onofre Alves de Oliveira",
+        "zipcode": "12704-097"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Waldomiro Ferreira da Silva",
+        "zipcode": "12704-098"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua dos Andradas",
+        "zipcode": "12701-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Praça Nelson Ferreira Aguiar",
+        "zipcode": "12720-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Doutor Antero Neves Arantes",
+        "zipcode": "12701-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Travessa Aristides Nunes da Fonseca",
+        "zipcode": "12701-178"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa Braz Fernandes de Oliveira",
+        "zipcode": "12701-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Childerico de Souza Oliveira",
+        "zipcode": "12701-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Dona Arminda Candida de Jesus",
+        "street": "Rua Dona Nicotinha Cordovil",
+        "zipcode": "12703-630"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Doutor Alberto Álvares Fernandes Vieira",
+        "zipcode": "12702-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Expedicionário Martim Cobra Passos",
+        "zipcode": "12704-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Novaes",
+        "zipcode": "12701-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua João Penin Garcia",
+        "zipcode": "12703-560"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Joaquim Gonçalves Ribeiro",
+        "zipcode": "12702-560"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua dos Metalúrgicos",
+        "zipcode": "12701-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Engenheiro Antônio Penido",
+        "zipcode": "12701-999"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Paulo Quintanilha",
+        "zipcode": "12702-395"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Luiz Alberto Bregalda",
+        "zipcode": "12704-105"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Aureliano Pires Albuquerque",
+        "zipcode": "12705-540"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Expedicionário Augusto Modesto",
+        "zipcode": "12722-780"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Reverendo Urbano de Oliveira Pinto",
+        "zipcode": "12722-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Sargento Mauro Alves da Silva",
+        "zipcode": "12704-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Viela Geraldo Braga Biguá",
+        "zipcode": "12702-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Hélio Maciel Pereira",
+        "zipcode": "12704-104"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Marco Antonio de Abreu Leite",
+        "zipcode": "12704-106"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Gilberto Pazzini",
+        "zipcode": "12704-107"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Eustáquio Franklin Souza",
+        "zipcode": "12704-108"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Cacilda Luiza de Andrade",
+        "zipcode": "12704-112"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Pedro Paulo Quintanilha",
+        "zipcode": "12704-113"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Adair Nogueira da Silva",
+        "zipcode": "12704-103"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Costureira Alaíde Carvalho Motta",
+        "zipcode": "12704-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Independência",
+        "zipcode": "12702-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Hélio Olivas",
+        "zipcode": "12711-520"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua José de Moraes",
+        "zipcode": "12711-640"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela José Francisco Arnaud",
+        "zipcode": "12704-252"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Orlando Lemos Lourieri",
+        "zipcode": "12704-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Novaes",
+        "zipcode": "12701-904"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua dos Palmares",
+        "zipcode": "12703-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa Santa Terezinha",
+        "zipcode": "12701-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Sebastião",
+        "zipcode": "12703-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Tomás",
+        "zipcode": "12703-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Vicente",
+        "zipcode": "12703-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Vito",
+        "zipcode": "12703-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "12702-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Vereador João Silvano de Mesquita",
+        "zipcode": "12701-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Pedro de Paula Leite",
+        "zipcode": "12702-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Imperial",
+        "street": "Rua Roque Goulart Bueno",
+        "zipcode": "12703-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Álvaro Moitinho Neiva",
+        "zipcode": "12720-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua Antônio Simões",
+        "zipcode": "12720-690"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Celso Alves de Aguiar",
+        "zipcode": "12720-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Jandira Thomaz",
+        "zipcode": "12703-520"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Dona Nicota Fortes",
+        "zipcode": "12705-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Jorge Gomes da Silva",
+        "zipcode": "12705-430"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Vereador Guilherme Henrique Turner",
+        "zipcode": "12710-520"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Alayde Pinheiro",
+        "zipcode": "12711-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua São Vicente",
+        "zipcode": "12722-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Benone",
+        "zipcode": "12730-530"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Coronel José Ferreira",
+        "zipcode": "12702-500"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Capitão Raimundo Ferreira",
+        "zipcode": "12702-490"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Capitão Neco",
+        "zipcode": "12705-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Amador da Costa e Souza",
+        "zipcode": "12705-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Abgail",
+        "street": "Rua Dimas Guimarães",
+        "zipcode": "12705-600"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Avenida Doutor Theodoro Quartim Barbosa",
+        "zipcode": "12710-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua José Modesto Pinto",
+        "zipcode": "12702-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua João Marcondes de Castro",
+        "zipcode": "12702-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Juvenal",
+        "street": "Rua José da Costa Ribeiro",
+        "zipcode": "12702-331"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Luiz Ferreira da Silva",
+        "zipcode": "12702-439"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Manoel Santos",
+        "zipcode": "12704-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Doutor Clóvis Hardmann",
+        "zipcode": "12704-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Manoel de Souza Pinto",
+        "zipcode": "12704-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "12705-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Durvalino de Castro",
+        "zipcode": "12705-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Francisco Giovani",
+        "zipcode": "12710-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Duque Nestor Gonçalves",
+        "zipcode": "12710-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Fiori Biondi",
+        "zipcode": "12710-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua João de Souza Rocha Filho",
+        "zipcode": "12711-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Monsenhor Francisco de Assis Carvalho",
+        "zipcode": "12702-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Mauricio Sávio de Carvalho Pereira",
+        "zipcode": "12702-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Cinco F",
+        "zipcode": "12704-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela José Pereira Rosa",
+        "zipcode": "12704-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Pastor Cícero Canuto de Lima",
+        "zipcode": "12705-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Passa Quatro",
+        "zipcode": "12705-580"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Abgail",
+        "street": "Rua Mário Vendas Rodrigues",
+        "zipcode": "12705-590"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Voluntários Paulistas",
+        "zipcode": "12710-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Travessa do Estandarte",
+        "zipcode": "12705-490"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Travessa Manoel de Carvalho",
+        "zipcode": "12710-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Rita Maria Guilherme Pinto",
+        "zipcode": "12711-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Avenida Governador Jânio Quadros",
+        "zipcode": "12720-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua José Vital da Silva",
+        "zipcode": "12720-610"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Avenida Rotary",
+        "zipcode": "12701-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Haydeia Teixeira Lopes Novaes",
+        "zipcode": "12721-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua Doutor Mário Pinto",
+        "zipcode": "12720-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Dois de Outubro",
+        "zipcode": "12701-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dom Bosco",
+        "zipcode": "12701-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Carlos Varela",
+        "zipcode": "12701-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Othon Barcelos",
+        "zipcode": "12701-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua Francisco Pereira Cunha",
+        "zipcode": "12720-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua Dario Antunes de Oliveira",
+        "zipcode": "12711-610"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Paschoal Palazzo",
+        "zipcode": "12712-500"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Alzira da Silva Motta",
+        "zipcode": "12721-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Aristóteles Altamiro Roquim Júnior",
+        "zipcode": "12721-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Viela Fernando Medeiros Júnior",
+        "zipcode": "12721-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Doutor Geraldo Cosme de Menezes",
+        "zipcode": "12721-628"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Areias",
+        "zipcode": "12722-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Lorena",
+        "zipcode": "12722-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Professor João Pires de Lima",
+        "zipcode": "12721-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Viela Gervásio Marcondes de Moura",
+        "zipcode": "12703-267"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua João Procópio Bueno",
+        "zipcode": "12721-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Piratininga",
+        "zipcode": "12701-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa César Federici",
+        "zipcode": "12701-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Professora Mariza Gavazzi Fernandes",
+        "zipcode": "12721-631"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua São José do Barreiro",
+        "zipcode": "12722-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Moreira César",
+        "zipcode": "12722-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua São José dos Campos",
+        "zipcode": "12722-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Trinta e Um",
+        "zipcode": "12721-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Neri Pinto de Ataides",
+        "zipcode": "12722-530"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Quarenta",
+        "zipcode": "12722-570"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Acesso Manoel Romualdo Jofre",
+        "zipcode": "12701-172"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Capitão Nelcy Rocha Pires",
+        "zipcode": "12710-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua Benedito José de Amorim",
+        "zipcode": "12711-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Praça José Cândido",
+        "zipcode": "12711-540"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Ayres do Amaral",
+        "zipcode": "12711-550"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Tulipas",
+        "zipcode": "12712-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Avenida Minas Gerais",
+        "zipcode": "12712-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua José Santiago",
+        "zipcode": "12711-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Doutor Isaac Cerquinho",
+        "zipcode": "12711-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua João Leite da Silva",
+        "zipcode": "12711-530"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua Doutor José Rodrigues Alves Sobrinho",
+        "zipcode": "12711-690"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Francisco Caruso",
+        "zipcode": "12711-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Manoel Ferreira da Silva",
+        "zipcode": "12712-520"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua João Vieira de Barros Júnior",
+        "zipcode": "12721-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Pastor Paulo Nunes",
+        "zipcode": "12704-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Viela Agenor Gonçalves Pereira",
+        "zipcode": "12705-610"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Travessa Antônio Bastos do Prado",
+        "zipcode": "12711-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Sebastião Nicolino",
+        "zipcode": "12711-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Roberto Pegoretti",
+        "zipcode": "12701-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Estrada Doutor Nelson Romanelli",
+        "zipcode": "12731-900"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Geraldo Motta Ferreira",
+        "zipcode": "12721-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Getúlio Machado",
+        "zipcode": "12701-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Ipiranga",
+        "zipcode": "12701-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Primeiro de Maio",
+        "zipcode": "12701-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "12701-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Aloísio Orlando Palma da Silva",
+        "zipcode": "12702-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua dos Andradas",
+        "zipcode": "12703-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Anita Paltriniere Rodrigues",
+        "zipcode": "12702-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Benedito Cirilo de Souza",
+        "zipcode": "12702-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Capitão Neco",
+        "zipcode": "12701-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Travessa Carlos de Souza Rocha",
+        "zipcode": "12702-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel José de Castro",
+        "zipcode": "12701-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Dezessete",
+        "zipcode": "12703-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Eurico de Azevedo Quintanilha",
+        "zipcode": "12703-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa Gonçalves Dias",
+        "zipcode": "12701-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Herminio Herminelli",
+        "zipcode": "12702-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Ildefonso Pinto",
+        "zipcode": "12703-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Ipiranga",
+        "zipcode": "12703-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua João Alves",
+        "zipcode": "12702-019"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua João Cláudio Gosling",
+        "zipcode": "12703-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Jovelina Guimarães",
+        "zipcode": "12703-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Major Novaes",
+        "zipcode": "12701-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Manoel do Nascimento",
+        "zipcode": "12702-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Doutor Tácito de Andrade",
+        "zipcode": "12702-550"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Avenida Jacinto Dalberto Fraga Bastos",
+        "zipcode": "12720-615"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Maria Natália Teodoro",
+        "zipcode": "12702-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Mário Martins de Oliveira",
+        "zipcode": "12703-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Michel Calfat",
+        "zipcode": "12703-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua dos Palmares",
+        "zipcode": "12702-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Professor Virgílio Antunes de Oliveira",
+        "zipcode": "12701-420"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Itanhandú",
+        "zipcode": "12722-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Arlindo Teófilo",
+        "zipcode": "12722-720"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Comerciários",
+        "street": "Rua José Augusto Jardim",
+        "zipcode": "12723-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Vereador Aurélio Garcez Novaes",
+        "zipcode": "12730-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua João Rodrigues Vieira",
+        "zipcode": "12730-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Maria Ignácia Ferraz",
+        "zipcode": "12730-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Manoel Siqueira de Vasconcelos",
+        "zipcode": "12730-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Arsênio Francesco Pietro Ângelo Bertone",
+        "zipcode": "12730-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Joaquim Caetano",
+        "zipcode": "12730-640"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Tenente Matta Coelho",
+        "zipcode": "12730-520"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Joaquim Bastos de Oliveira",
+        "zipcode": "12730-670"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Carlos Rosseti",
+        "zipcode": "12702-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Domingos Antônio Guimarães Creado",
+        "zipcode": "12702-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Artur Togeiro Costa",
+        "zipcode": "12702-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Campos Salles",
+        "zipcode": "12702-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Dona Carlota da Silva Carneiro",
+        "zipcode": "12702-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Dona Henriqueta",
+        "zipcode": "12702-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua José Pereira de Vasconcelos",
+        "zipcode": "12702-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua José Riston",
+        "zipcode": "12702-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Manoel Costa e Souza",
+        "zipcode": "12702-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Geraldo Ribeiro Garcia",
+        "zipcode": "12705-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Avenida Rotary",
+        "zipcode": "12702-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Camilo",
+        "zipcode": "12703-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São João",
+        "zipcode": "12703-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Luiz",
+        "zipcode": "12703-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Antônio Alves Mimoso",
+        "zipcode": "12703-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Capitão Avelino Bastos",
+        "zipcode": "12701-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Cinco W",
+        "zipcode": "12704-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Travessa Dez",
+        "zipcode": "12703-550"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Avenida Florindo Antico",
+        "zipcode": "12704-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Geraldo Fernandes Lima",
+        "zipcode": "12703-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Dona Arminda Candida de Jesus",
+        "street": "Rua Itamar Nogueira Cobra",
+        "zipcode": "12703-620"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Luiz Floriano",
+        "zipcode": "12703-490"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Nove",
+        "zipcode": "12704-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Dona Arminda Candida de Jesus",
+        "street": "Rua Orlando Ferrari",
+        "zipcode": "12703-600"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Palmiro Costa",
+        "zipcode": "12703-570"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Quatro W",
+        "zipcode": "12704-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Travessa Santa Cecília",
+        "zipcode": "12703-430"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Benedito",
+        "zipcode": "12703-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Carlos",
+        "zipcode": "12703-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Cristovão",
+        "zipcode": "12703-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Dimas",
+        "zipcode": "12703-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Domingos",
+        "zipcode": "12703-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Praça São José",
+        "zipcode": "12703-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Manoel",
+        "zipcode": "12703-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Marcos",
+        "zipcode": "12703-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Paulo",
+        "zipcode": "12703-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Sebastião de Paula Ferraz",
+        "zipcode": "12703-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Sargento José de Freitas Júnior",
+        "zipcode": "12704-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Constantino Samponi",
+        "zipcode": "12702-510"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Artemio do Amaral",
+        "zipcode": "12704-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Capitão Domiciano Siqueira",
+        "zipcode": "12705-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Cypriano Pinto da Motta",
+        "zipcode": "12705-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua B",
+        "zipcode": "12704-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Ipiranga",
+        "zipcode": "12702-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Doutor Ângelo Hypolito Filho",
+        "zipcode": "12702-520"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Leolina Garcia Sarmento",
+        "zipcode": "12704-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Jorge de Oliveira Senne",
+        "zipcode": "12702-405"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua José Campos",
+        "zipcode": "12702-420"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Irmã Alvim",
+        "zipcode": "12705-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua João Alves de Oliveira",
+        "zipcode": "12705-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Viela Alcides Rocha Miranda",
+        "zipcode": "12702-475"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Viela Um F",
+        "zipcode": "12704-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Dois F",
+        "zipcode": "12704-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Três F",
+        "zipcode": "12704-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Sebastião Ramos Pereira",
+        "zipcode": "12704-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Um A",
+        "zipcode": "12704-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Dois A",
+        "zipcode": "12704-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Antônio Franklin de Souza",
+        "zipcode": "12704-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Um M",
+        "zipcode": "12704-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela José Paulino",
+        "zipcode": "12704-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Rúbens de Souza Almeida",
+        "zipcode": "12704-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Maria José Gussen dos Santos",
+        "zipcode": "12705-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Um C",
+        "zipcode": "12704-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Três W",
+        "zipcode": "12704-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Um W",
+        "zipcode": "12704-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Walter Pires Lemos",
+        "zipcode": "12704-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Travessa Benedito Pelegrini",
+        "zipcode": "12703-515"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Manoel Correia da Rocha",
+        "zipcode": "12710-490"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Entre Rios",
+        "street": "Rodovia Doutor Avelino Junior",
+        "zipcode": "12704-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Carlos Bregalda",
+        "zipcode": "12705-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Dona Ana Santos",
+        "zipcode": "12705-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Dilermando José Marassi",
+        "zipcode": "12705-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua A",
+        "zipcode": "12705-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Antônio Senna",
+        "zipcode": "12705-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Álvaro de Sá",
+        "zipcode": "12705-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Aristídes Costa",
+        "zipcode": "12705-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Praça Domingos Conte",
+        "zipcode": "12710-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Avenida Olívio Nicoli",
+        "zipcode": "12710-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Avenida Prefeito Francisco Prestes Maia",
+        "zipcode": "12710-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Praça da Bíblia",
+        "zipcode": "12710-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Dona Titã",
+        "zipcode": "12710-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "12710-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua José Norberto Pinto",
+        "zipcode": "12705-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua José Gioia",
+        "zipcode": "12705-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Eugênio Ezequiel Nogueira",
+        "zipcode": "12705-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Jovelina de Souza Machado",
+        "zipcode": "12705-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Luiz Ferreira de Carvalho",
+        "zipcode": "12705-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Luiz Romanelli",
+        "zipcode": "12705-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua José Gonçalves Ribeiro",
+        "zipcode": "12705-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua João Pinto da Mota",
+        "zipcode": "12705-481"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Joaquim Amélio",
+        "zipcode": "12705-520"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Doutor Ananias Gomes",
+        "zipcode": "12710-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua José Abílio Ferreira",
+        "zipcode": "12710-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Doutor Roberto Guarany",
+        "zipcode": "12710-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Doutor José Carlos Caputo",
+        "zipcode": "12705-510"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Guadalajara",
+        "zipcode": "12705-570"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua João Venício Palazzo",
+        "zipcode": "12710-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua José Joaquim de Almeida",
+        "zipcode": "12710-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Francisco Magina",
+        "zipcode": "12710-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Gil Pedro de Castro",
+        "zipcode": "12710-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Francisco Ântico",
+        "zipcode": "12710-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua José Monteiro de Castro",
+        "zipcode": "12710-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Márcio Pereira de Carvalho",
+        "zipcode": "12710-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Francisco Marzano",
+        "zipcode": "12710-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Francisco Russo",
+        "zipcode": "12710-510"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua José Biassino de Luca",
+        "zipcode": "12710-530"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "12705-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Vitalina Catão do Amaral",
+        "zipcode": "12705-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Raul Coutinho",
+        "zipcode": "12705-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Silvino Dias da Silva Filho",
+        "zipcode": "12705-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Professor João Silveira",
+        "zipcode": "12710-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Prefeito Carlos Ribeiro de Souza",
+        "zipcode": "12710-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "12710-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Sebastião Gonçalves Torres",
+        "zipcode": "12710-430"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua Antônio Pinto",
+        "zipcode": "12720-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua José Corrêa",
+        "zipcode": "12720-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua Nelson de Moraes Grok",
+        "zipcode": "12720-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Azaléias",
+        "zipcode": "12712-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Roseira",
+        "zipcode": "12722-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Ayrton Luiz Vieira",
+        "zipcode": "12711-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Estrada Manoel de Andrade Vilella",
+        "zipcode": "12711-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Antônio Buzzato",
+        "zipcode": "12711-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Coronel Chicuta",
+        "zipcode": "12711-500"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua Carlos Pinto",
+        "zipcode": "12711-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Antônio Monteiro de Castro",
+        "zipcode": "12712-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Antônio de Luca",
+        "zipcode": "12712-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Avenida das Papoulas",
+        "zipcode": "12712-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Alameda das Orquídeas",
+        "zipcode": "12712-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Ciro Gomes de Moraes",
+        "zipcode": "12710-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Alameda dos Lírios",
+        "zipcode": "12712-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Farez Mokarzel",
+        "zipcode": "12711-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Luiza Buzzato",
+        "zipcode": "12711-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Francisco Marcondes de Castro",
+        "zipcode": "12711-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Germano Marcondes do Amaral",
+        "zipcode": "12711-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua José Thomas",
+        "zipcode": "12711-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua Júlio dos Santos Barbosa",
+        "zipcode": "12711-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Major Crispim Bastos",
+        "zipcode": "12711-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Iaci Ribeiro Neves",
+        "zipcode": "12711-490"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua José Benedito Marcos",
+        "zipcode": "12711-510"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua João Batista Jordão",
+        "zipcode": "12711-570"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua José Alves Mimoso",
+        "zipcode": "12711-630"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua Luiz Pazzini",
+        "zipcode": "12711-670"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Juvencio Gomes da Silva",
+        "zipcode": "12711-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua José Adriano Amorim",
+        "zipcode": "12711-650"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua dos Jasmins",
+        "zipcode": "12712-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua José Ferreira Pinto",
+        "zipcode": "12711-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Sebastião Vieira da Silva",
+        "zipcode": "12710-540"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Pedro Ribeiro da Silva",
+        "zipcode": "12710-560"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Ruy Cotrim",
+        "zipcode": "12710-570"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Maria Rita Guilherme Pinto",
+        "zipcode": "12711-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Travessa Luiz Ribeiro",
+        "zipcode": "12711-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Travessa João dos Santos",
+        "zipcode": "12711-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Travessa Hercília de Moura Giglio",
+        "zipcode": "12711-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua Oito",
+        "zipcode": "12711-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Travessa Doze",
+        "zipcode": "12711-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Vinte e Cinco",
+        "zipcode": "12711-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua Martin Osório da Costa",
+        "zipcode": "12711-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua Nove",
+        "zipcode": "12711-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Padre Natal de Rosas",
+        "zipcode": "12711-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Vila Anthero Moreira",
+        "zipcode": "12711-359"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua Sebastião de Souza",
+        "zipcode": "12711-590"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua Telesforo Siqueira",
+        "zipcode": "12711-600"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Prefeito José de Souza Braga",
+        "zipcode": "12712-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Mário Menezes Pedro",
+        "zipcode": "12711-420"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua Antônio Alexandre",
+        "zipcode": "12720-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua Maria Paulina",
+        "zipcode": "12720-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Antônio Alves Leite",
+        "zipcode": "12720-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua Antônio Lobo",
+        "zipcode": "12720-720"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Domiciano Sabino da Silva",
+        "zipcode": "12720-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua Doutor Avelino Júnior",
+        "zipcode": "12720-730"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua E",
+        "zipcode": "12720-660"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua Cavalheiro Euclides",
+        "zipcode": "12720-630"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua Geralda Pereira de Elias",
+        "zipcode": "12720-740"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Germano Gori",
+        "zipcode": "12720-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua João Alves Silva",
+        "zipcode": "12720-680"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua João Nunes",
+        "zipcode": "12720-670"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua João Rodrigues",
+        "zipcode": "12720-750"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Jorge Nesralla Rubez",
+        "zipcode": "12721-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua José Biondi",
+        "zipcode": "12720-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua José Cosentino",
+        "zipcode": "12720-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua José Gimenes Inhesta",
+        "zipcode": "12721-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Avenida José Gussem",
+        "zipcode": "12720-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Maria Antunes Gonçalves",
+        "zipcode": "12720-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Padre Rodolfo Komorek",
+        "zipcode": "12720-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Travessa dos Portugueses",
+        "zipcode": "12720-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Avenida Robert Douglas",
+        "zipcode": "12720-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua São Lourenço",
+        "zipcode": "12720-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Volta Redonda",
+        "zipcode": "12720-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua Onofre Cândido",
+        "zipcode": "12720-641"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Orozimbo de Oliveira",
+        "zipcode": "12712-690"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Benedito Batista Rocha",
+        "zipcode": "12721-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua José Duarte Ferreira",
+        "zipcode": "12721-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Avenida Aníbal Cipoli",
+        "zipcode": "12721-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Avenida H",
+        "zipcode": "12722-700"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Escada Odilon Teixeira Sampaio",
+        "zipcode": "12720-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua João Mendes Ribeiro",
+        "zipcode": "12720-420"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Bichara Abdalla",
+        "zipcode": "12712-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Antônio Magina",
+        "zipcode": "12712-510"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Antônio Mendes Ribeiro",
+        "zipcode": "12712-700"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Comissário Luiz Aranha",
+        "zipcode": "12721-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Antônio Rosa",
+        "zipcode": "12721-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Praça João Cabete",
+        "zipcode": "12721-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua João Sarmento",
+        "zipcode": "12712-540"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua José Cipriano Sobrinho",
+        "zipcode": "12712-550"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua José Toledo Braga",
+        "zipcode": "12712-560"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua José Florindo Coelho",
+        "zipcode": "12712-620"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Francisco Marques da Costa Júnior",
+        "zipcode": "12721-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Irineu da Silva",
+        "zipcode": "12721-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Professor Passinhos",
+        "zipcode": "12712-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Mário Azevedo",
+        "zipcode": "12712-530"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Nono de Souza",
+        "zipcode": "12712-600"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Prudente Araújo",
+        "zipcode": "12712-490"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Oelson de Carvalho",
+        "zipcode": "12712-670"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Miguel Jorge",
+        "zipcode": "12721-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Raphael Zappa",
+        "zipcode": "12720-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Joaquim do Prado",
+        "zipcode": "12701-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Celestino",
+        "zipcode": "12701-430"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Francisco Novaes",
+        "zipcode": "12701-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Independência",
+        "zipcode": "12701-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua José Américo de Carvalho",
+        "zipcode": "12701-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Vereador David Rocha Nacur",
+        "zipcode": "12702-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Major Hermógenes",
+        "zipcode": "12701-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Pereira Jardim",
+        "zipcode": "12701-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Avenida José Novaes Sobrinho",
+        "zipcode": "12721-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Laudelino Rodrigues Carneiro",
+        "zipcode": "12721-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Avenida Silveiras",
+        "zipcode": "12722-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Vinte e Cinco",
+        "zipcode": "12721-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Lions Club",
+        "zipcode": "12721-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Trinta",
+        "zipcode": "12721-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Trinta e Dois",
+        "zipcode": "12721-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Trinta e Três",
+        "zipcode": "12721-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Trinta e Cinco",
+        "zipcode": "12721-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Resende",
+        "zipcode": "12722-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Arapeí",
+        "zipcode": "12722-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Engenheiro Passos",
+        "zipcode": "12722-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Guaratinguetá",
+        "zipcode": "12722-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Avenida Brasília",
+        "zipcode": "12722-180"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Caçapava",
+        "zipcode": "12722-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Taubaté",
+        "zipcode": "12722-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Pinheiros",
+        "zipcode": "12722-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Parati",
+        "zipcode": "12722-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Jacareí",
+        "zipcode": "12722-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Avenida Piquete",
+        "zipcode": "12722-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Avenida Bananal",
+        "zipcode": "12722-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Avenida Lavrinhas",
+        "zipcode": "12722-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Jambeiro",
+        "zipcode": "12722-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Itamonte",
+        "zipcode": "12722-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Pouso Alto",
+        "zipcode": "12722-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Ilha Bela",
+        "zipcode": "12722-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Manoel Alves Machado",
+        "zipcode": "12722-520"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Avenida Coronel Francisco Ciríaco de Oliveira Ferraz",
+        "zipcode": "12722-750"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Domingos Guimarães Creado",
+        "zipcode": "12722-760"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Lauro Garcez Novaes",
+        "zipcode": "12722-800"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Lázaro Ferreira",
+        "zipcode": "12722-810"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Soledade de Minas",
+        "zipcode": "12722-420"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Ubatuba",
+        "zipcode": "12722-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Geraldo Pereira da Silva",
+        "zipcode": "12722-580"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Acesso Eurides Martins de Souza Rocha",
+        "zipcode": "12722-510"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Vinte e Sete",
+        "zipcode": "12721-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Vinte e Três",
+        "zipcode": "12721-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Vinte e Nove",
+        "zipcode": "12721-300"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Major Novaes",
+        "zipcode": "12701-905"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Othon Barcelos",
+        "zipcode": "12701-902"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel José de Castro",
+        "zipcode": "12701-908"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Capitão Neco",
+        "zipcode": "12701-907"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Major Hermógenes",
+        "zipcode": "12701-903"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Nesralla Rubez",
+        "zipcode": "12701-900"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Major Novaes",
+        "zipcode": "12701-906"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Dois W",
+        "zipcode": "12704-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Domingos Branca",
+        "zipcode": "12703-510"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Herminio Ângelo Pizzi",
+        "zipcode": "12703-530"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua José Jorge Santiago",
+        "zipcode": "12702-570"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Travessa Juliano Biondi de Barros",
+        "zipcode": "12703-561"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Maria Augusta Gonçalves de Carvalho",
+        "zipcode": "12703-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Dona Arminda Candida de Jesus",
+        "street": "Rua Padre Gentil Stringari",
+        "zipcode": "12703-610"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Professora Hilda Rocha Pinto",
+        "zipcode": "12703-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua Santo Antônio",
+        "zipcode": "12703-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Brás",
+        "zipcode": "12703-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Jorge",
+        "zipcode": "12703-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Judas",
+        "zipcode": "12703-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Sebastião Portugal",
+        "zipcode": "12703-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Padre Maurílio Barbosa Tomanik",
+        "zipcode": "12720-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Travessa Arlindo Ramos",
+        "zipcode": "12703-065"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua João Gomes",
+        "zipcode": "12702-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Um L",
+        "zipcode": "12704-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua José Ribeiro da Silva Filho",
+        "zipcode": "12722-550"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Vereador Joab Petermann da Silva",
+        "zipcode": "12722-560"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Comerciários",
+        "street": "Rua Ivo dos Santos",
+        "zipcode": "12723-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Comerciários",
+        "street": "Rua Augusto Jardim",
+        "zipcode": "12723-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Comerciários",
+        "street": "Rua Álvaro Zaccaro",
+        "zipcode": "12723-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Doutor Othon Barcelos",
+        "zipcode": "12730-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua João Lopes de Oliveira",
+        "zipcode": "12730-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "12730-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Vinte e Um de Abril",
+        "zipcode": "12730-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Avenida Professor José Santana de Castro",
+        "zipcode": "12730-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Avenida Luiz Bittencourt",
+        "zipcode": "12730-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Abrahão Bechara",
+        "zipcode": "12730-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Vital Baptista Teixeira",
+        "zipcode": "12730-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Lucia Romeu Novaes de Luca",
+        "zipcode": "12730-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Prudente de Moraes",
+        "zipcode": "12730-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua José dos Santos",
+        "zipcode": "12730-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Alcina Monteiro da Silva",
+        "zipcode": "12730-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Jesuíno Nunes",
+        "zipcode": "12730-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua José Antônio Ribeiro Tetal",
+        "zipcode": "12730-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Antônio Peres Campelo",
+        "zipcode": "12730-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua José Ferraz de Araújo",
+        "zipcode": "12730-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Doutora Lygia Novaes de Luca",
+        "zipcode": "12730-500"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua José de Paula Ferraz",
+        "zipcode": "12730-510"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua João Ferraz",
+        "zipcode": "12730-560"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Dona Maria Luiza",
+        "zipcode": "12730-590"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Família Fortes",
+        "zipcode": "12730-620"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Jaime Mello",
+        "zipcode": "12730-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Isabel Bastos",
+        "zipcode": "12730-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Juscelino Ayres do Amaral",
+        "zipcode": "12730-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Professor Abrahão Benjamim",
+        "zipcode": "12730-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Álvaro Lage",
+        "zipcode": "12730-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Praça João XXIII",
+        "zipcode": "12702-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Doutor Walter Salomão",
+        "zipcode": "12702-170"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Severino Virgínio da Silva",
+        "zipcode": "12702-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Desidério de Abreu Leite",
+        "zipcode": "12720-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua José de Elias",
+        "zipcode": "12720-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Nelson Federici",
+        "zipcode": "12720-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Doutor Alfredo Teixeira Pinto",
+        "zipcode": "12702-430"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Travessa Pôr do Sol",
+        "zipcode": "12705-015"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Maria das Graças Lombardi Barbieri Palestino",
+        "zipcode": "12705-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Praça Geraldo Gandra",
+        "zipcode": "12705-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Engenheiro Antônio Penido",
+        "zipcode": "12710-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua José Gabriel Giglio",
+        "zipcode": "12710-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Vinte e Um",
+        "zipcode": "12721-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Itatiaia",
+        "zipcode": "12722-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Avenida Cachoeira Paulista",
+        "zipcode": "12722-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Francisco Pádula",
+        "zipcode": "12730-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Manoel Castro do Nascimento",
+        "zipcode": "12730-490"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Francisco Rabelo",
+        "zipcode": "12730-540"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Manoel Ferrão",
+        "zipcode": "12702-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Alfredo Ferrão",
+        "zipcode": "12704-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Adro Godofredo de Oliveira Cobra Neto",
+        "zipcode": "12704-261"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Capitão Otávio Ramos",
+        "zipcode": "12705-550"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Avenida Jorge Tibiriçá",
+        "zipcode": "12710-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Armando Pinheiro de Abreu",
+        "zipcode": "12710-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Coronel Joaquim do Prado",
+        "zipcode": "12710-350"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Armando de Castro",
+        "zipcode": "12710-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Avenida Bertolino Cypriano Pinto",
+        "zipcode": "12711-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua Antônio Modesto",
+        "zipcode": "12711-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Camélias",
+        "zipcode": "12712-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua João Cláudio Gosling",
+        "zipcode": "12705-110"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua João Batista de Carvalho",
+        "zipcode": "12705-250"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Lina Correia Gioia",
+        "zipcode": "12705-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Engenheiro Nelson Pedro Fiorese",
+        "zipcode": "12705-375"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Expedicionário Antônio Senne",
+        "zipcode": "12705-420"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Eduardo Santos Pinto",
+        "zipcode": "12710-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua José Manoel de Carvalho",
+        "zipcode": "12710-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Lucinda de Souza Magina",
+        "zipcode": "12710-550"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua João Bosco Varajão",
+        "zipcode": "12711-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Manoel Galvão Filho",
+        "zipcode": "12711-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Travessa José Carlos DAvila",
+        "zipcode": "12702-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Quatro F",
+        "zipcode": "12704-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Nadir Castro Luz",
+        "zipcode": "12704-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Walfrido Novaes Gomes",
+        "zipcode": "12705-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Nossa Senhora Auxiliadora",
+        "zipcode": "12705-500"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Treze de Maio",
+        "zipcode": "12710-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Professor Joaquim Rebouças de Carvalho Neto",
+        "zipcode": "12710-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Prefeito Eurico Pereira Pena",
+        "zipcode": "12710-500"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua Tenente Geraldo Magela Valle",
+        "zipcode": "12711-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Acesso Geraldo Silvestre",
+        "zipcode": "12704-171"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Avenida Doutor Theodoro Quartim Barbosa",
+        "zipcode": "12712-900"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua João Florência Filho",
+        "zipcode": "12704-087"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua Reinaldo Miguel",
+        "zipcode": "12704-089"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Antônio Gastão Sobrinho",
+        "zipcode": "12720-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua dos Contabilistas",
+        "zipcode": "12720-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua Herotilde de Carvalho",
+        "zipcode": "12720-710"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua José Rafael de Lima",
+        "zipcode": "12720-620"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Avenida Reinaldo Elisei",
+        "zipcode": "12721-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Alameda dos Gerânios",
+        "zipcode": "12712-150"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Domingos Sávio Giglio Lopes",
+        "zipcode": "12721-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua José Martins Sanches Filho",
+        "zipcode": "12721-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua João Gonçalves Ribeiro",
+        "zipcode": "12721-240"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Prefeito João Bastos Soares",
+        "zipcode": "12721-604"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua João Amato Grossi",
+        "zipcode": "12721-610"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Lourenço da Silva Costa",
+        "zipcode": "12721-616"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Francisco Raphael Scamilla",
+        "zipcode": "12721-619"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Julieta Laquis Cossermelli",
+        "zipcode": "12721-637"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Queluz",
+        "zipcode": "12722-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Aparecida",
+        "zipcode": "12722-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Avenida Erick Von Sohsten Gama",
+        "zipcode": "12721-601"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Prefeito Hamilton Vieira Mendes",
+        "zipcode": "12721-607"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Armando Gonçalves de Carvalho",
+        "zipcode": "12721-613"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Carlos Alberto de Carvalho",
+        "zipcode": "12721-625"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Engenheiro José Tácito de Almeida Andrade",
+        "zipcode": "12721-634"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Barra do Piraí",
+        "zipcode": "12722-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Guararema",
+        "zipcode": "12722-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Sostegno Maffucci",
+        "zipcode": "12730-660"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Antônia Bastos Prado",
+        "zipcode": "12711-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Antônia Maria Conceição",
+        "zipcode": "12711-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Antônio Aniceto Coutinho",
+        "zipcode": "12711-430"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Avenida Araão Pinto",
+        "zipcode": "12711-680"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Avenida Doutor Theodoro Quartim Barbosa",
+        "zipcode": "12712-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Alameda dos Girassóis",
+        "zipcode": "12712-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Augusto Martim do Rio",
+        "zipcode": "12712-610"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Alameda das Magnólias",
+        "zipcode": "12712-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua José Rabelo Sobrinho",
+        "zipcode": "12711-358"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua Marcos Coelho Barcellos",
+        "zipcode": "12711-660"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Rua Sebastião Nunes do Prado (Jardim dos Metalúrgicos)",
+        "zipcode": "12704-101"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Maria Aparecida Fernandes Lobo",
+        "zipcode": "12705-245"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Reinaldo César Pires",
+        "zipcode": "12705-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Expedicionários Cruzeirenses",
+        "street": "Rua Vinte e Dois",
+        "zipcode": "12711-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Praça Pedro Cassiano da Silva",
+        "zipcode": "12720-650"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Sebastião Martins",
+        "zipcode": "12711-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Vicente Mota Ferreira",
+        "zipcode": "12711-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Novaes",
+        "street": "Rua Virgínia Teresa Penido (Alto da Boa Vista)",
+        "zipcode": "12711-621"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Romualdo Canevari",
+        "zipcode": "12712-570"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Mário de Souza Reis",
+        "zipcode": "12712-660"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Vinte e Quatro",
+        "zipcode": "12721-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua João Roque",
+        "zipcode": "12704-081"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua Alfredo Pina de Figueiredo",
+        "zipcode": "12704-083"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Maria Aparecida Barbosa Ramos",
+        "zipcode": "12704-091"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Engenheiro Antônio Penido",
+        "zipcode": "12701-050"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Jorge Tibiriçá",
+        "zipcode": "12701-020"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Estrada Municipal Cláudio Fortes",
+        "zipcode": "12704-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Nesralla Rubez",
+        "zipcode": "12701-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Francisco",
+        "zipcode": "12703-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Pedro",
+        "zipcode": "12703-310"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Seis W",
+        "zipcode": "12704-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "12701-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Vinte e Três",
+        "zipcode": "12703-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Corintho de Souza Garcia",
+        "zipcode": "12702-053"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Nove de Julho",
+        "zipcode": "12701-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Celestina",
+        "street": "Rua Francisco Marzano",
+        "zipcode": "12710-900"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Crispim",
+        "street": "Rua Prefeito Fernando Pimentel",
+        "zipcode": "12711-560"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Waldemar Felix Machado",
+        "zipcode": "12721-640"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Professor Francisco Coutinho",
+        "zipcode": "12721-643"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Caxambu",
+        "zipcode": "12722-140"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Embaú",
+        "zipcode": "12722-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Mogi das Cruzes",
+        "zipcode": "12722-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Caraguatatuba",
+        "zipcode": "12722-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Lambarí",
+        "zipcode": "12722-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Três Corações",
+        "zipcode": "12722-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rodovia Gilson Duque da Costa",
+        "zipcode": "12722-500"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Antonieta Borges Alves",
+        "zipcode": "12722-710"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Francisco Vaz de Paula",
+        "zipcode": "12722-790"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Bernardino de Campos",
+        "zipcode": "12730-040"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Nove de Julho",
+        "zipcode": "12730-080"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Trinta e Quatro",
+        "zipcode": "12721-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Pastor Agenor Alves de Oliveira",
+        "zipcode": "12722-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Nove",
+        "zipcode": "12730-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Bento Soares",
+        "zipcode": "12730-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Doutor Lamartine Antonio Fiorentini Junior",
+        "zipcode": "12704-102"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Manuel Carlos de Carvalho Scamilla",
+        "zipcode": "12704-109"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Amália Rodrigues DAvila",
+        "zipcode": "12705-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Avenida Nesralla Rubez",
+        "zipcode": "12710-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua dos Andradas",
+        "zipcode": "12702-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua João Batista Martins",
+        "zipcode": "12705-100"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Gil Martins Rodrigues",
+        "zipcode": "12710-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulo Romeu",
+        "street": "Rua Doutor José Rodrigues Alves Sobrinho",
+        "zipcode": "12710-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua Francisco Ferreira da Silva",
+        "zipcode": "12711-710"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua N",
+        "zipcode": "12702-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Pontilhão",
+        "street": "Viela Antônio Mazulk",
+        "zipcode": "12704-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Maria José Tabaco",
+        "zipcode": "12705-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Paschoal Zampiere",
+        "zipcode": "12703-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Travessa José Tiburcio Moreira",
+        "zipcode": "12711-580"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Plínio Moreira",
+        "zipcode": "12712-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Doutor Othon Barcelos",
+        "zipcode": "12730-900"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Avenida Luiz Bittencourt",
+        "zipcode": "12730-902"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Bento Soares",
+        "zipcode": "12730-903"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Doutor Nelson Romanelli",
+        "zipcode": "12722-740"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Campos do Jordão",
+        "zipcode": "12722-280"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua João Madureira de Barros",
+        "zipcode": "12730-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua José Puccini",
+        "zipcode": "12730-570"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua João Vieira Garcia",
+        "zipcode": "12730-370"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Travessa Antônio Lopes Simões",
+        "zipcode": "12730-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Área Rural de Cruzeiro",
+        "street": "Área Rural",
+        "zipcode": "12759-899"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Escada José Moreira Filho",
+        "zipcode": "12711-720"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Travessa Vicente de Souza",
+        "zipcode": "12710-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Rua Tremembê",
+        "zipcode": "12722-130"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Sargento João Lopes",
+        "zipcode": "12702-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Sargento Laudelino Nogueira",
+        "zipcode": "12702-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Sargento José Eulálio de Andrade Sardinha",
+        "zipcode": "12702-390"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua João Pedro Ferreira",
+        "zipcode": "12704-082"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua José Carlos da Costa",
+        "zipcode": "12704-085"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Praça Portugal",
+        "zipcode": "12703-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Santa Cecilia",
+        "street": "Alameda Carlos Ferreira da Silva",
+        "zipcode": "12704-099"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim dos Metalúrgicos",
+        "street": "Rua Ari Pereira da Silva",
+        "zipcode": "12704-086"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Avenida Vereador Rogério Mariano",
+        "zipcode": "12701-169"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Imperial",
+        "street": "Rua A",
+        "zipcode": "12703-580"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Afonso Pena",
+        "zipcode": "12701-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa Alberto Passos",
+        "zipcode": "12701-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua Alexandre Ventura",
+        "zipcode": "12720-120"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Alzira Gussem",
+        "zipcode": "12720-320"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Ambrosina Prado Galhano",
+        "zipcode": "12703-070"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Travessa Antônio Augusto de Paula",
+        "zipcode": "12720-090"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Antônio Bastos",
+        "zipcode": "12712-710"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Imperial",
+        "street": "Rua Antonio Peres Campello",
+        "zipcode": "12703-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Arthur Jupyaçara Tiburcio Ribeiro",
+        "zipcode": "12720-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Capitão Otávio Ramos",
+        "zipcode": "12701-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Paulista",
+        "street": "Rua dos Carteiros",
+        "zipcode": "12701-190"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dom Bosco",
+        "zipcode": "12701-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Dona Mariana de Resende Costa",
+        "zipcode": "12703-440"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua Dona Ordália de Carvalho",
+        "zipcode": "12720-700"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Dona Arminda Candida de Jesus",
+        "street": "Rua Expedicionário Djalma Ferreira Costa",
+        "zipcode": "12703-590"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Expedicionário José Amorim",
+        "zipcode": "12720-210"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Dona Arminda Candida de Jesus",
+        "street": "Rua Firmino Cruz Filho",
+        "zipcode": "12703-650"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francisco Novaes",
+        "zipcode": "12701-230"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua São Tomé",
+        "zipcode": "12703-380"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Joao Alves",
+        "zipcode": "12702-580"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagacaba",
+        "street": "Estrada Dr Nelson Romanelli",
+        "zipcode": "12731-000"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Barra Mansa",
+        "zipcode": "12720-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Vila Anthero Moreira",
+        "zipcode": "12711-700"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Corintho De Souza Garcia",
+        "zipcode": "12702-540"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Rua José Pereira Cunha",
+        "zipcode": "12720-160"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Engenheiro Antônio Penido",
+        "zipcode": "12701-970"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Engenheiro Antônio Penido",
+        "zipcode": "12710-970"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Travessa Avelino Nazário da Silva",
+        "zipcode": "12702-155"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua José Victor Moura Leite",
+        "zipcode": "12702-385"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Antônio José da Cruz",
+        "zipcode": "12702-530"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Ana Rosa Novaes",
+        "street": "Rua Izaura Junqueira Novaes",
+        "zipcode": "12705-220"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Sete",
+        "zipcode": "12711-340"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada II",
+        "street": "Rua João Honório Pereira",
+        "zipcode": "12711-270"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Suely",
+        "street": "Rua João Bento",
+        "zipcode": "12711-620"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua José Ribeiro Gonçalves",
+        "zipcode": "12721-200"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Doutor Orlando Freire de Faria",
+        "zipcode": "12721-622"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Gerardo Pereira Tavares",
+        "zipcode": "12722-581"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Expedicionário Benedito Nóbrega",
+        "zipcode": "12722-730"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Loteamento Residencial Vista Verde",
+        "street": "Rua Benedito Sebastião Marchesani",
+        "zipcode": "12721-646"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Romana",
+        "street": "Avenida Pindamonhangaba",
+        "zipcode": "12722-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Primavera",
+        "street": "Rua Manoel Daniel de Andrade",
+        "zipcode": "12722-470"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Elza dos Santos Souza Antunes",
+        "zipcode": "12730-600"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Sargento Lair Ramos da Silva",
+        "zipcode": "12702-400"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Celestina Novaes",
+        "zipcode": "12705-560"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Benedito Pinto da Silva",
+        "zipcode": "12712-590"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Canevari",
+        "street": "Rua Doutor Celestino",
+        "zipcode": "12710-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Cleber Luiz Romanelli",
+        "zipcode": "12702-079"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Aurora Coelho",
+        "zipcode": "12701-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Jose Rabelo Sobrinho",
+        "zipcode": "12711-730"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Etelvina Conceição Nascimento",
+        "zipcode": "12711-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Vereador Arsênio Ferreira de Carvalho",
+        "zipcode": "12702-330"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Tenente Alfredo Pinto de Carvalho",
+        "zipcode": "12702-480"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Paulo Machado Florence Teixeira",
+        "zipcode": "12705-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Regina Célia",
+        "street": "Rua Professor Virgílio Antunes de Oliveira",
+        "zipcode": "12705-530"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Rua Maria de Lourdes Sampaio",
+        "zipcode": "12712-450"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Avenida Governador Jânio Quadros",
+        "zipcode": "12720-900"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor Joao Batista (Parte Baixa)",
+        "street": "Avenida Governador Janio Quadros",
+        "zipcode": "12720-010"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Residencial das Palmeiras",
+        "street": "Alameda Albertina Santos de Paula",
+        "zipcode": "12721-277"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Professor Joaquim Monteiro da Silva",
+        "zipcode": "12720-285"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Avenida Vereador Rogério Mariano",
+        "zipcode": "12702-011"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Sao Judas Tadeu",
+        "street": "Rua Luiz Ferreira Da Silva",
+        "zipcode": "12703-260"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Washington Beleza",
+        "street": "Rua Piratininga",
+        "zipcode": "12702-460"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Rua José Severino",
+        "zipcode": "12720-640"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Lagoa Dourada I",
+        "street": "Rua Henrique Virla",
+        "zipcode": "12711-360"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Bionde",
+        "street": "Rua Doutor José Rocha Moretz Sohn",
+        "zipcode": "12720-410"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Expedicionário José Pires Barbosa",
+        "zipcode": "12703-540"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Residencial das Palmeiras",
+        "street": "Alameda Ondina Simões Canela Ferreira da Silva",
+        "zipcode": "12721-275"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Retiro da Mantiqueira",
+        "street": "Viela Clarinda Ribeiro Rodrigues",
+        "zipcode": "12712-720"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Residencial das Palmeiras",
+        "street": "Alameda Astholfo dos Reis Meirelles",
+        "zipcode": "12721-273"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Edgar Fernandes da Silva",
+        "zipcode": "12721-060"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Viela Carlos Corsi Guazelli",
+        "zipcode": "12702-065"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Parque Dona Arminda Candida de Jesus",
+        "street": "Avenida João Pereira dos Santos",
+        "zipcode": "12703-640"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Ferreira Barbosa",
+        "zipcode": "12701-290"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Alta)",
+        "street": "Retorno Padre Anchieta",
+        "zipcode": "12720-030"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Doutor João Batista (Parte Baixa)",
+        "street": "Praça Horácio Pinto",
+        "zipcode": "12721-001"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Vila Brasil",
+        "street": "Rua Doze",
+        "zipcode": "12703-500"
+    },
+    {
+        "city": "Cruzeiro",
+        "state": "SP",
+        "district": "Itagaçaba",
+        "street": "Rua Capitão Otávio Ramos",
+        "zipcode": "12730-110"
+    }
+]

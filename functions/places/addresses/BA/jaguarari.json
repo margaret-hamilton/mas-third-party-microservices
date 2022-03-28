@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Jaguarari",
+        "state": "BA",
+        "district": "Santa Rosa de Lima",
+        "street": "Rua Severiano Alves s/n",
+        "zipcode": "48960-971"
+    },
+    {
+        "city": "Jaguarari",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48960-000"
+    },
+    {
+        "city": "Jaguarari",
+        "state": "BA",
+        "district": "Catuni",
+        "street": "Rua do Comércio s/n",
+        "zipcode": "48960-972"
+    },
+    {
+        "city": "Jaguarari",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Alfredo Viana",
+        "zipcode": "48960-970"
+    }
+]

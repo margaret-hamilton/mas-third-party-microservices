@@ -1,0 +1,541 @@
+[
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Tiaraju",
+        "street": "Rua Trezentos E Trinta E Dois",
+        "zipcode": "96422-110"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Tiaraju",
+        "street": "Rua Trezentos E Vinte E Seis",
+        "zipcode": "96422-130"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Setenta E Nove (Lot Cmte Kramer)",
+        "zipcode": "96422-310"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Getulio Vargas",
+        "street": "Rua Tiete",
+        "zipcode": "96412-630"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Setecentos E Oitenta E Quatro (Prom Hidraul.)",
+        "zipcode": "96405-541"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Popular",
+        "street": "Rua Cento E Cinquenta E Sete (Prq Marilia)",
+        "zipcode": "96407-170"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Castro Alves",
+        "street": "Rua Cinquenta E Tres (Promorar)",
+        "zipcode": "96420-420"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Castro Alves",
+        "street": "Rua Trezentos E Cinco (Promorar)",
+        "zipcode": "96420-360"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Rua Vinte E Sete (Vl Operaria)",
+        "zipcode": "96402-590"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Popular",
+        "street": "Rua Cento E Sessenta E Tres (N R Masc De Moraes)",
+        "zipcode": "96408-330"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Setenta E Cinco (Lt Cmte Kramer)",
+        "zipcode": "96422-260"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Duzentos E Trinta E Dois (Vl Bruno)",
+        "zipcode": "96410-670"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Oitenta (Lot Cmte Kramer)",
+        "zipcode": "96422-320"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Castro Alves",
+        "street": "Rua Dr Breno Fischer",
+        "zipcode": "96420-770"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Duzentos E Trinta E Um (Vl Bruno)",
+        "zipcode": "96410-660"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Duzentos E Trinta E Seis (Vl Taruma)",
+        "zipcode": "96405-240"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Judas",
+        "street": "Rua Trinta E Tres (Bonito)",
+        "zipcode": "96415-330"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Jardim Do Castelo",
+        "street": "Rua Othon Figueiro",
+        "zipcode": "96415-710"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Rua Ary Da Silva Dias (Vl Operaria)",
+        "zipcode": "96400-670"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Laura Miranda",
+        "zipcode": "96405-450"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Setecentos E Sessenta E Seis (Prom Arvorez.)",
+        "zipcode": "96405-290"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Oitenta E Nove (Vl Bruno)",
+        "zipcode": "96410-520"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Duzentos E Sessenta E Seis (Prom Arvorezinha)",
+        "zipcode": "96405-280"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trez. E Oitenta E Quatro (Lot Cmte Kramer)",
+        "zipcode": "96422-360"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Oitenta E Um (Lot Cmte Kramer)",
+        "zipcode": "96422-330"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Rua Trezentos E Noventa E Oito (Vl Alc. Almeida)",
+        "zipcode": "96402-360"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Setenta E Seis (Lot Cmte Kramer)",
+        "zipcode": "96422-270"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Rua Vinte E Seis (Vl Operaria)",
+        "zipcode": "96402-580"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Oitenta E Dois (Lot Cmte Kramer)",
+        "zipcode": "96422-340"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Judas",
+        "street": "Rua Quarenta E Quatro (Jacinto Ferreira)",
+        "zipcode": "96415-320"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Duzentos E Vinte E Nove (Vl Bruno)",
+        "zipcode": "96410-640"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Duzentos E Trinta E Tres (Vl Bruno)",
+        "zipcode": "96410-680"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Industrial I",
+        "street": "Rua Quatrocentos E Vinte E Quatro (Malafaia)",
+        "zipcode": "96412-060"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Judas",
+        "street": "Rua Quarenta E Cinco (Jacinto Ferreira)",
+        "zipcode": "96415-410"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Jorge",
+        "street": "Rua Trezentos E Setenta E Um (Vl Kennedy)",
+        "zipcode": "96408-480"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Popular",
+        "street": "Rua Cento E Sessenta E Nove (Prq Marilia)",
+        "zipcode": "96407-340"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Jorge",
+        "street": "Viela Dez (Vl Kennedy)",
+        "zipcode": "96408-340"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Castro Alves",
+        "street": "Rua Dsv M",
+        "zipcode": "96420-510"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Industrial I",
+        "street": "Rua Quatrocentos E Vinte E Cinco (Malafaia)",
+        "zipcode": "96412-070"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Setecentos E Oitenta E Tres (Prom Hidraulica)",
+        "zipcode": "96405-540"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Martins",
+        "street": "Rua Trezentos E Noventa E Dois (Vl Jose Otavio)",
+        "zipcode": "96410-310"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Cento E Setenta E Nove (Vl Gaucha)",
+        "zipcode": "96425-390"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Trezentos E Setenta E Tres (Vl Gaucha)",
+        "zipcode": "96425-380"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Industrial I",
+        "street": "Rua Quatrocentos E Vinte (Malafaia)",
+        "zipcode": "96412-020"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Travessa Oitenta E Sete (Vl Alcides Almeida)",
+        "zipcode": "96402-570"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Setenta E Oito (Lot Cmte Kramer)",
+        "zipcode": "96422-290"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Tiaraju",
+        "street": "Rua Joao Da Cruz E Souza",
+        "zipcode": "96422-100"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Setecentos E Oitenta E Um (Prom Hidraulica)",
+        "zipcode": "96405-520"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Martins",
+        "street": "Rua Trezentos E Noventa E Tres (Vl Jose Otavio)",
+        "zipcode": "96410-320"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Industrial I",
+        "street": "Rua Quatrocentos E Vinte E Tres (Malafaia)",
+        "zipcode": "96412-050"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Rua Julio Vaz",
+        "zipcode": "96402-210"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Setecentos E Setenta E Quatro",
+        "zipcode": "96405-310"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Oitenta E Cinco (Lt Cmte Kramer)",
+        "zipcode": "96422-370"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Trezentos E Cinquenta E Um (Vl Bruno)",
+        "zipcode": "96410-690"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Castro Alves",
+        "street": "Rua Trezentos E Seis (Promorar)",
+        "zipcode": "96420-370"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Martins",
+        "street": "Rua Cento E Noventa E Um (Vl Jose Otavio)",
+        "zipcode": "96410-280"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Alarico Duarte",
+        "zipcode": "96425-460"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Martins",
+        "street": "Rua Cento E Noventa E Dois (Vl Jose Otavio)",
+        "zipcode": "96410-290"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Castro Alves",
+        "street": "Rua Trezentos E Quatro (Promorar)",
+        "zipcode": "96420-350"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Castro Alves",
+        "street": "Rua Telemaco De Bem",
+        "zipcode": "96420-760"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Duzentos E Sessenta E Quatro (Prom Arvorez.)",
+        "zipcode": "96405-330"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Cento E Dois (Vl Hidraulica)",
+        "zipcode": "96407-290"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Industrial I",
+        "street": "Rua Quatrocentos E Vinte E Seis (Malafaia)",
+        "zipcode": "96412-080"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Jorge",
+        "street": "Rua Cento E Oitenta E Cinco (Ver P. Machado)",
+        "zipcode": "96408-820"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Setenta E Sete (Lot Cmte Kramer)",
+        "zipcode": "96422-280"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Trezentos E Oitenta E Tres (Lot Cmte Kramer)",
+        "zipcode": "96422-350"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Jose Carrion Moglia",
+        "zipcode": "96400-360"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Martins",
+        "street": "Rua Trezentos E Cinquenta E Nove (Sao Domingos)",
+        "zipcode": "96410-080"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Industrial I",
+        "street": "Rua Quatrocentos E Dezenove (Malafaia)",
+        "zipcode": "96412-010"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Martins",
+        "street": "Rua Cento E Vinte E Dois (Vl Jose Otavio)",
+        "zipcode": "96410-260"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Martins",
+        "street": "Rua Trezentos E Noventa E Um (Vl Jose Otavio)",
+        "zipcode": "96410-300"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Tiaraju",
+        "street": "Rua Trezentos E Vinte E Um",
+        "zipcode": "96422-120"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Taruma",
+        "street": "Rua Duzentos E Trinta (Vl Bruno)",
+        "zipcode": "96410-650"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Travessa Duzentos E Dezessete (Vl Alcides Almeida)",
+        "zipcode": "96402-510"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Travessa Cento E Oitenta E Cinco (Vl Operaria)",
+        "zipcode": "96400-640"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Menino Deus",
+        "street": "Travessa Oitenta E Oito (Vl Alcides Almeida)",
+        "zipcode": "96402-220"
+    },
+    {
+        "city": "Bage",
+        "state": "RS",
+        "district": "Sao Jorge",
+        "street": "Rua Cento E Vinte E Tres (Ver P. Machado)",
+        "zipcode": "96408-830"
+    }
+]

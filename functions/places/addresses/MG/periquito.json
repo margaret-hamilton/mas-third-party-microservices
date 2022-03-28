@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Periquito",
+        "state": "MG",
+        "district": "Serraria",
+        "street": "Rua Limeira s/n  AGC Serraria",
+        "zipcode": "35118-972"
+    },
+    {
+        "city": "Periquito",
+        "state": "MG",
+        "district": "Serraria",
+        "street": "Rua Limeira s/n",
+        "zipcode": "35156-972"
+    },
+    {
+        "city": "Periquito",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Amazonas 50",
+        "zipcode": "35156-973"
+    },
+    {
+        "city": "Periquito",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35156-000"
+    },
+    {
+        "city": "Periquito",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35118-000"
+    },
+    {
+        "city": "Periquito",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Amazonas 50  AC Periquito",
+        "zipcode": "35118-973"
+    }
+]

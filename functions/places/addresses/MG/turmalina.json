@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Turmalina",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Sebastião Alves 230",
+        "zipcode": "39660-970"
+    },
+    {
+        "city": "Turmalina",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Lauro Machado 110",
+        "zipcode": "39660-971"
+    },
+    {
+        "city": "Turmalina",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39660-000"
+    }
+]

@@ -1,0 +1,849 @@
+[
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Beco Schulz",
+        "zipcode": "96810-540"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Bom Jesus",
+        "street": "Rua Amazonas",
+        "zipcode": "96845-400"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Santa Cecilia",
+        "zipcode": "96830-490"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Córrego Frey",
+        "zipcode": "96830-630"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Bom Jesus",
+        "street": "Rodovia Rs",
+        "zipcode": "96845-770"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Julio De Castilhos",
+        "zipcode": "96810-010"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ernesto Alves",
+        "zipcode": "96810-060"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Carlos Trein Filho",
+        "zipcode": "96810-070"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Senador Pinheiro Machado",
+        "zipcode": "96810-080"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Thomaz Flores",
+        "zipcode": "96810-090"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Venancio Aires",
+        "zipcode": "96810-100"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Capitao Fernando Tatsch",
+        "zipcode": "96810-040"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Borges De Medeiros",
+        "zipcode": "96810-130"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Fernando Abott",
+        "zipcode": "96810-150"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Galvao Costa",
+        "zipcode": "96810-170"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Castro Alves",
+        "zipcode": "96810-410"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Duque De Caxias",
+        "zipcode": "96810-420"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Riachuelo",
+        "zipcode": "96810-480"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Independencia",
+        "zipcode": "96815-000"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Joao Pessoa",
+        "zipcode": "96815-770"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Linha Santa Cruz",
+        "street": "Rua Dom Antonio Reis",
+        "zipcode": "96820-420"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Santo Inacio",
+        "street": "Rua Juca Werlang",
+        "zipcode": "96820-620"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Santo Inacio",
+        "street": "Acesso Grasel",
+        "zipcode": "96820-720"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Cohab",
+        "street": "Rua Prof. Henrique Carlos Elsenbruch",
+        "zipcode": "96815-530"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Avenida",
+        "street": "Rua Ruy A. Kaercher",
+        "zipcode": "96815-250"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Felix Hoppe",
+        "zipcode": "96810-180"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Avenida",
+        "street": "Rodovia Br",
+        "zipcode": "96815-050"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Santo Inacio",
+        "street": "Rua Ernesto Augusto Mandler",
+        "zipcode": "96820-770"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Santo Inacio",
+        "street": "Rua Dr Andre Bator",
+        "zipcode": "96820-680"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Córrego Umann",
+        "zipcode": "96810-470"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Augusto Arnold",
+        "zipcode": "96830-640"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Renascimento",
+        "street": "Beco Da Querosene",
+        "zipcode": "96815-570"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Affonso Mabilde",
+        "zipcode": "96810-030"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Verena",
+        "street": "Rua Gaspar Silveira Martins",
+        "zipcode": "96820-000"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Sao Luiz",
+        "street": "Rua Coronel Oscar Rafael Jost",
+        "zipcode": "96820-010"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Santo Antonio",
+        "zipcode": "96810-190"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Antonio Zimmer",
+        "zipcode": "96810-340"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Gaspar Silveira Martins",
+        "zipcode": "96825-000"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Capitao Jorge Frantz",
+        "zipcode": "96830-030"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Dona Miriam",
+        "zipcode": "96830-170"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vinte E Oito De Setembro",
+        "zipcode": "96810-530"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Avenida",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "96815-030"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "96810-140"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Roberto A. Hartungs",
+        "zipcode": "96810-300"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Linha Santa Cruz",
+        "street": "Avenida Melvin Jones",
+        "zipcode": "96820-270"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Linha Santa Cruz",
+        "street": "Rua Jose Germano Frantz",
+        "zipcode": "96820-440"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Linha Santa Cruz",
+        "street": "Rua Carlos Henrique Hauth",
+        "zipcode": "96820-810"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Albano Rech",
+        "zipcode": "96825-360"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Bom Jesus",
+        "street": "Travessa Kappaun",
+        "zipcode": "96845-510"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Goias",
+        "zipcode": "96830-200"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Margarida",
+        "street": "Rua Maria Carolina",
+        "zipcode": "96825-530"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua General Daltro Filho",
+        "zipcode": "96830-190"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Belvedere",
+        "street": "Acesso Linha Joao Alves",
+        "zipcode": "96825-390"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Joao Baumhardt",
+        "zipcode": "96830-220"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Schultz",
+        "street": "Travessa Erico Verissimo",
+        "zipcode": "96845-750"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Santo Andre",
+        "zipcode": "96840-050"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Córrego Da Pedreira",
+        "zipcode": "96845-010"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Maringa",
+        "zipcode": "96830-480"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Córrego Miguel De Assis",
+        "zipcode": "96840-060"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Loteamento Jardim Esmeralda",
+        "street": "Rua Alfredo Machado",
+        "zipcode": "96835-380"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Paul Harris",
+        "zipcode": "96840-000"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Cohab",
+        "street": "Travessa Seberi",
+        "zipcode": "96815-540"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rua Da Pedreira",
+        "zipcode": "96845-790"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Victor Frederico Baunhardt",
+        "zipcode": "96835-680"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Avenida Projetada",
+        "zipcode": "96835-750"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Sena",
+        "street": "Rua Bela Vista",
+        "zipcode": "96845-060"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rodovia Br",
+        "zipcode": "96845-330"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Estrada Dona Carlota",
+        "zipcode": "96840-040"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rua Felipe Jacobus Filho",
+        "zipcode": "96840-110"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vereador Afonso Theo Kothe",
+        "zipcode": "96810-200"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Bom Jesus",
+        "street": "Travessa Honduras",
+        "zipcode": "96845-170"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "96810-120"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Bom Jesus",
+        "street": "Rua Curupaiti",
+        "zipcode": "96845-340"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rodovia Br",
+        "zipcode": "96835-640"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rua Prof. Guilherme Hillesheim",
+        "zipcode": "96840-450"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Schultz",
+        "street": "Travessa Vinicius De Morais",
+        "zipcode": "96845-760"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Loteamento Jardim Esmeralda",
+        "street": "Estrada Capao Da Cruz",
+        "zipcode": "96835-630"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rua Curitiba",
+        "zipcode": "96840-420"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Do Carmo",
+        "zipcode": "96840-070"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Margarida",
+        "street": "Rua Do Moinho",
+        "zipcode": "96830-010"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "96835-010"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Schultz",
+        "street": "Travessa Villa Lobos",
+        "zipcode": "96845-520"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rua Dona Leopoldina",
+        "zipcode": "96840-470"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Sena",
+        "street": "Avenida Gaspar Bartholomay",
+        "zipcode": "96845-000"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Córrego Schuster",
+        "zipcode": "96835-740"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Do Parque",
+        "zipcode": "96840-740"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "96810-000"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "96810-050"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "96810-110"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Assis Brasil",
+        "zipcode": "96810-160"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "96810-310"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Farroupilha",
+        "zipcode": "96810-430"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ernesto Matheis",
+        "zipcode": "96810-520"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Avenida",
+        "street": "Rua Henrique Schutz",
+        "zipcode": "96815-110"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "96820-740"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pastor Hildebrand",
+        "zipcode": "96830-020"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Santo Inacio",
+        "street": "Rua Goncalves Ledo",
+        "zipcode": "96820-600"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Margarida",
+        "street": "Rua Joao Werlang",
+        "zipcode": "96825-350"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Renascimento",
+        "street": "Acesso Rubem Guilherme Kaempf",
+        "zipcode": "96815-580"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Barao Do Arroio Grande",
+        "zipcode": "96830-500"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Joao De Barros",
+        "zipcode": "96830-210"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Tenente Coronel Brito",
+        "zipcode": "96810-020"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Taquari",
+        "zipcode": "96810-360"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Linha Santa Cruz",
+        "street": "Avenida Prefeito Orlando Oscar Baumhardt",
+        "zipcode": "96820-430"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Carlos Baumhardt",
+        "zipcode": "96830-450"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Loteamento Jardim Esmeralda",
+        "street": "Rua Agudo",
+        "zipcode": "96835-390"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Santo Inacio",
+        "street": "Rua Vereador Benno Joao Kist",
+        "zipcode": "96820-780"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rua Candelaria",
+        "zipcode": "96840-430"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Avenida Deputado Euclydes Nicolau Kliemann",
+        "zipcode": "96835-000"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Sao Luiz",
+        "street": "Rua Augusto Spengler",
+        "zipcode": "96815-020"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Sena",
+        "street": "Rua Dr Cleobis Dorneles Da Fontoura",
+        "zipcode": "96845-180"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Guarda De Deus",
+        "zipcode": "96840-750"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rua Dona Carlota",
+        "zipcode": "96840-030"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Bom Jesus",
+        "street": "Rua Sao Jose",
+        "zipcode": "96845-171"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Santo Inacio",
+        "street": "Avenida Leo Kraether",
+        "zipcode": "96820-790"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Linha Santa Cruz",
+        "street": "Rodovia Rs",
+        "zipcode": "96820-410"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "A Grande",
+        "street": "Rua Augusto Wutke",
+        "zipcode": "96830-650"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Vila Cohab",
+        "street": "Rua Joao Waldemar Da Fontoura",
+        "zipcode": "96815-550"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Major Pedro Santana De Oliveira",
+        "zipcode": "96830-730"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Chacara Das Freiras",
+        "street": "Rua Capitao Pedro Werlang",
+        "zipcode": "96825-020"
+    },
+    {
+        "city": "Santa Cruz Do Sul",
+        "state": "RS",
+        "district": "Faxinal Velho",
+        "street": "Rua Willy Carlos Frohlich",
+        "zipcode": "96840-440"
+    }
+]

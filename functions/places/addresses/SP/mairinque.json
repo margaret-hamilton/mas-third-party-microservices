@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Mairinque",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Paulo Ferraz Braga 40",
+        "zipcode": "18120-970"
+    },
+    {
+        "city": "Mairinque",
+        "state": "SP",
+        "district": null,
+        "street": null,
+        "zipcode": "18120-000"
+    },
+    {
+        "city": "Mairinque",
+        "state": "SP",
+        "district": "Dona Catarina",
+        "street": "Praça da Igreja",
+        "zipcode": "18120-971"
+    },
+    {
+        "city": "Mairinque",
+        "state": "SP",
+        "district": null,
+        "street": "Praça de Igreja",
+        "zipcode": "18123-990"
+    }
+]

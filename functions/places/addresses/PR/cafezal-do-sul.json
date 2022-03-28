@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Cafezal do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Ítalo Orcelli",
+        "zipcode": "87565-971"
+    },
+    {
+        "city": "Cafezal do Sul",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87565-000"
+    },
+    {
+        "city": "Cafezal do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Arapongas",
+        "zipcode": "87567-990"
+    },
+    {
+        "city": "Cafezal do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Principal",
+        "zipcode": "87569-990"
+    },
+    {
+        "city": "Cafezal do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "87565-990"
+    },
+    {
+        "city": "Cafezal do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "87565-970"
+    }
+]

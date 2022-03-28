@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ibiaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Trinta e Um de Março 335",
+        "zipcode": "39350-974"
+    },
+    {
+        "city": "Ibiaí",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39350-000"
+    },
+    {
+        "city": "Ibiaí",
+        "state": "MG",
+        "district": "Bom Jesus da Vereda",
+        "street": "Praça da Igreja S/n",
+        "zipcode": "39350-972"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pedro Canário",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "29970-991"
+    },
+    {
+        "city": "Pedro Canário",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "29978-990"
+    },
+    {
+        "city": "Pedro Canário",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29970-000"
+    },
+    {
+        "city": "Pedro Canário",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Presidente Castelo Branco 20",
+        "zipcode": "29970-970"
+    }
+]

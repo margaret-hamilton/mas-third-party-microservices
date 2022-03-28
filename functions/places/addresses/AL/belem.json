@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Belém",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Rua do Comércio 123",
+        "zipcode": "57630-970"
+    },
+    {
+        "city": "Belém",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57630-000"
+    }
+]

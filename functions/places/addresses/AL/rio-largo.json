@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Rio Largo",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Rua Euclides Afonso de Melo 14",
+        "zipcode": "57100-970"
+    },
+    {
+        "city": "Rio Largo",
+        "state": "AL",
+        "district": null,
+        "street": "Quadra 1 nº 37",
+        "zipcode": "57100-990"
+    },
+    {
+        "city": "Rio Largo",
+        "state": "AL",
+        "district": null,
+        "street": "Rua do Hospital s/n",
+        "zipcode": "57100-993"
+    },
+    {
+        "city": "Rio Largo",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57100-000"
+    },
+    {
+        "city": "Rio Largo",
+        "state": "AL",
+        "district": "Tabuleiro do Pinto",
+        "street": "Aeroporto Internacional Zumbi dos Palmares",
+        "zipcode": "57100-971"
+    }
+]

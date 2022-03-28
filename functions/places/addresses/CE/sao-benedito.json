@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São Benedito",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Vinte e Cinco de Novembro 450",
+        "zipcode": "62370-970"
+    },
+    {
+        "city": "São Benedito",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62370-000"
+    },
+    {
+        "city": "São Benedito",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62373-990"
+    },
+    {
+        "city": "São Benedito",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62374-990"
+    }
+]

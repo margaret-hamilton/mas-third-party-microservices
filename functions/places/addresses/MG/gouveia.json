@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Gouveia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Alexandre Mascarenhas 458",
+        "zipcode": "39120-970"
+    },
+    {
+        "city": "Gouveia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Henrique Moreira So 1263",
+        "zipcode": "39120-971"
+    },
+    {
+        "city": "Gouveia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39120-000"
+    }
+]

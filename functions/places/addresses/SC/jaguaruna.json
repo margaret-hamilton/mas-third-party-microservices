@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Jaguaruna",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88715-000"
+    },
+    {
+        "city": "Jaguaruna",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Getúlio Vargas 29",
+        "zipcode": "88715-970"
+    },
+    {
+        "city": "Jaguaruna",
+        "state": "SC",
+        "district": "Camacho",
+        "street": "Rua Amapá",
+        "zipcode": "88715-971"
+    },
+    {
+        "city": "Jaguaruna",
+        "state": "SC",
+        "district": "Campo Bom",
+        "street": "Estrada Geral do Campo Bom",
+        "zipcode": "88715-972"
+    },
+    {
+        "city": "Jaguaruna",
+        "state": "SC",
+        "district": "Olho DÁgua",
+        "street": "Estrada Geral de Olho DAgua",
+        "zipcode": "88715-973"
+    }
+]

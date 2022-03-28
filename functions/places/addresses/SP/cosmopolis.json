@@ -1,0 +1,5070 @@
+[
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Kalmann",
+        "street": "Rua Projetada",
+        "zipcode": "13150-584"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Damiano",
+        "street": "Rua 7 de Abril",
+        "zipcode": "13150-610"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua 7 de Setembro",
+        "zipcode": "13150-138"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Eurides de Godoi",
+        "zipcode": "13150-186"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Bichara José Jemael",
+        "zipcode": "13152-014"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13152-336"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Basílio Gasparetto",
+        "zipcode": "13152-162"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Limeira",
+        "zipcode": "13157-108"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Alberto Anklan",
+        "zipcode": "13152-342"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Baronesa Geraldo de Rezende",
+        "zipcode": "13150-120"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "São João",
+        "street": "Rua Expedicionários",
+        "zipcode": "13150-082"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "13152-120"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Francisco de Queiroz",
+        "zipcode": "13152-238"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Presidente Getúlio Vargas",
+        "zipcode": "13150-112"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Portugal",
+        "zipcode": "13150-196"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Professora Castinauta de Barros Albuquerque",
+        "zipcode": "13152-002"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Primeiro de Janeiro",
+        "zipcode": "13152-110"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua José Machado",
+        "zipcode": "13152-304"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Luiz Manoel de Queiroz",
+        "zipcode": "13152-022"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Luiz Felipe Bacelar Memória",
+        "zipcode": "13152-174"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua Alfredo Amaral",
+        "zipcode": "13152-308"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Avenida 1",
+        "zipcode": "13152-472"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Trabalhadores",
+        "street": "Rua Albino Giovanoni",
+        "zipcode": "13154-282"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Eldorado",
+        "street": "Rua Luiz Nallin",
+        "zipcode": "13155-100"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Alfeu Livignali",
+        "zipcode": "13155-180"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Daniel Rossetti",
+        "street": "Avenida Ester",
+        "zipcode": "13157-032"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Santo Antônio",
+        "street": "Rua Emílio",
+        "zipcode": "13157-044"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Benedita Soares de Jesus",
+        "zipcode": "13157-080"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Santos Dumont",
+        "zipcode": "13157-100"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Abelle Martelli",
+        "zipcode": "13157-138"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Avenida Marginal",
+        "zipcode": "13157-184"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua Artur Scursoni",
+        "zipcode": "13157-198"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Professora Jacyra de Oliveira Valente Mattioli",
+        "zipcode": "13157-336"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional 30 de Novembro",
+        "street": "Rua Professora Jacyra de Oliveira Valente Mattioli",
+        "zipcode": "13157-418"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Benedito de Moraes Machado",
+        "zipcode": "13157-356"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Ângelo Gualhardo",
+        "zipcode": "13155-182"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua Arno Kowalesky",
+        "zipcode": "13155-038"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Antonio Pinto",
+        "zipcode": "13157-084"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque San Giovani",
+        "street": "Rua Emílio Rampazzo",
+        "zipcode": "13157-306"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Aladino Selmi",
+        "zipcode": "13155-462"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Afonso Garcia",
+        "zipcode": "13150-284"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Fontana",
+        "street": "Rua Ataliba de Carvalho",
+        "zipcode": "13150-566"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Carlos Leopoldo Bottcher",
+        "zipcode": "13152-422"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Enilson Augusto Toselli",
+        "zipcode": "13152-450"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Rua Eduardo Gallani",
+        "zipcode": "13154-048"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial 1º de Maio",
+        "street": "Rua Benedito Grassi",
+        "zipcode": "13155-528"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Laranjeiras",
+        "street": "Rua Frederico Decresci",
+        "zipcode": "13154-082"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua Henrique Rogge",
+        "zipcode": "13155-044"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua Tiradentes",
+        "zipcode": "13152-086"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Victor Leflock",
+        "zipcode": "13152-236"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Rage Baracat",
+        "zipcode": "13157-140"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Vakula",
+        "street": "Rua William Neumann",
+        "zipcode": "13150-660"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Campos Salles",
+        "street": "Rua Alberto Fierz",
+        "zipcode": "13152-048"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Adriano Cattozzi",
+        "zipcode": "13152-226"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-370"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Alípio Fernandes",
+        "zipcode": "13152-412"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Avenida Aracy Silva",
+        "zipcode": "13152-426"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Estrada Municipal Germano Warga",
+        "zipcode": "13152-492"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Rua Alzinira Ribeiro da Cruz",
+        "zipcode": "13152-494"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rossetti",
+        "street": "Rua Aldo José Todero",
+        "zipcode": "13154-028"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Benedito Garcia Ferreira",
+        "zipcode": "13155-016"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Alda Mora Dias de Arruda",
+        "zipcode": "13155-018"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Anésio Correa",
+        "zipcode": "13155-162"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Mafalda Sala Teodoro",
+        "zipcode": "13155-170"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Alfredo Chiriato",
+        "zipcode": "13155-172"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Pedro Scorsoni",
+        "zipcode": "13155-474"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Guilhermina",
+        "street": "Rua Luiz Manoel de Queiroz",
+        "zipcode": "13157-004"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Santo Antônio",
+        "street": "Rua Baronesa Geraldo de Rezende",
+        "zipcode": "13157-048"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Avenida Marginal",
+        "zipcode": "13157-590"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Vakula",
+        "street": "Rua Ataliba de Carvalho",
+        "zipcode": "13150-664"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Ataliba de Carvalho",
+        "zipcode": "13150-676"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jacinto Hackel Fren Aun",
+        "street": "Rua Ernesto Kowaleski",
+        "zipcode": "13155-130"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Caetano Achiles Avancini",
+        "zipcode": "13150-294"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Caetano Achiles Avancini",
+        "zipcode": "13150-704"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Laviero Giuzio",
+        "zipcode": "13157-358"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Afonso Garcia",
+        "zipcode": "13150-198"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Atílio Zachi",
+        "zipcode": "13152-190"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Zona Industrial 1 Andorinha",
+        "street": "Rua Narcizo Dário Andretto",
+        "zipcode": "13157-298"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Campos Salles",
+        "street": "Praça Martinho Lutero",
+        "zipcode": "13152-049"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Antonio Carlos Nogueira",
+        "zipcode": "13150-015"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Ester",
+        "zipcode": "13150-029"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Antonio Carlos Nogueira",
+        "zipcode": "13150-136"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Amado Balloni",
+        "zipcode": "13150-260"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Expedicionários",
+        "zipcode": "13150-019"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Baronesa Geraldo de Rezende",
+        "zipcode": "13150-158"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Francisco Tavano",
+        "zipcode": "13150-164"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Baronesa Geraldo de Rezende",
+        "zipcode": "13150-176"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Doutor Moacir Costa Couto",
+        "zipcode": "13150-200"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua Caetano Achiles Avancini",
+        "zipcode": "13150-536"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Horizonte",
+        "street": "Rua Caetano Achiles Avancini",
+        "zipcode": "13150-550"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Francisco Cezário de Azevedo",
+        "zipcode": "13150-634"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Doutor Rui Barbosa",
+        "zipcode": "13155-020"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Presidente Getúlio Vargas",
+        "zipcode": "13150-160"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua José Gallani",
+        "zipcode": "13150-268"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua Max Hergert",
+        "zipcode": "13150-522"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Damiano",
+        "street": "Rua Otto Herbst",
+        "zipcode": "13150-616"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua José Kalil Aun",
+        "zipcode": "13150-682"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Osmar Dias de Arruda",
+        "zipcode": "13152-420"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua Lourenço Trevenzolli",
+        "zipcode": "13155-034"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Sargento Wilson Domingos Martelli",
+        "zipcode": "13155-008"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Marcelo Fozzatti",
+        "zipcode": "13150-716"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Rosas",
+        "zipcode": "13154-298"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Benedito Grassi",
+        "zipcode": "13155-478"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua Amo Blecha",
+        "zipcode": "13157-196"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua Aldohyr Joaquim Miguéis",
+        "zipcode": "13157-206"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Aldohyr Joaquim Miguéis",
+        "zipcode": "13157-260"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Amo Blecha",
+        "zipcode": "13157-272"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua Anchieta",
+        "zipcode": "13152-088"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Americana",
+        "zipcode": "13157-110"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jacinto Hackel Fren Aun",
+        "street": "Rua Ladislau Tallo",
+        "zipcode": "13155-134"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Juvenal Barboza Franco",
+        "zipcode": "13155-184"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Francisco Tavano",
+        "zipcode": "13150-282"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque San Giovani",
+        "street": "Rua Inivaldo Luiz de Lima",
+        "zipcode": "13157-310"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Tulipas",
+        "zipcode": "13154-308"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Violetas",
+        "zipcode": "13154-312"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Pedro Jorge",
+        "zipcode": "13157-344"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Artur Scursoni",
+        "zipcode": "13157-270"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Ataliba de Carvalho",
+        "zipcode": "13150-142"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Doutor Campos Sales",
+        "zipcode": "13150-180"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Francisco de Mário",
+        "zipcode": "13150-264"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua Campinas",
+        "zipcode": "13150-528"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua Doutor Luiz Nicolau Nolandi",
+        "zipcode": "13150-538"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13150-640"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Vakula",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13150-662"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13150-678"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13152-016"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Nova Esperança",
+        "street": "Rua Deodoro da Fonseca",
+        "zipcode": "13152-036"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Nova Esperança",
+        "street": "Rua Doutor Adhemar Pereira de Barros",
+        "zipcode": "13152-038"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13152-084"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13152-126"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua das Laranjeiras",
+        "zipcode": "13152-276"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Francisco Bertazzo",
+        "zipcode": "13152-430"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Francisco Bertazzo",
+        "zipcode": "13152-440"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto dos Colibris",
+        "street": "Rua Dino Banchieri",
+        "zipcode": "13154-068"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial do Bosque",
+        "street": "Rua das Orquídeas",
+        "zipcode": "13154-156"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial do Bosque",
+        "street": "Rua das Azaléias",
+        "zipcode": "13154-154"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Begônias",
+        "zipcode": "13154-300"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Francisco Tavano",
+        "zipcode": "13150-170"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bosque",
+        "street": "Rua João Aranha",
+        "zipcode": "13150-590"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua João Zacharias",
+        "zipcode": "13152-180"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua José Di Sacco",
+        "zipcode": "13152-242"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Gustavo Bentlin",
+        "zipcode": "13152-446"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial do Bosque",
+        "street": "Rua Frederico Decresci",
+        "zipcode": "13154-158"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Gothardo Abílio Brega",
+        "zipcode": "13154-290"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Guilhermina",
+        "street": "Rua William Neumann",
+        "zipcode": "13157-002"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua 25 de Dezembro",
+        "zipcode": "13157-118"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Walter Dester",
+        "zipcode": "13157-342"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Rosália Matano Ribeiro",
+        "zipcode": "13157-338"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Neusa Lapolla",
+        "zipcode": "13152-008"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua José Nallin Sobrinho",
+        "zipcode": "13152-452"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Luiz Nallin",
+        "zipcode": "13155-072"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Oscar Cardoso de Moraes",
+        "zipcode": "13155-190"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial 1º de Maio",
+        "street": "Rua Franz Warga",
+        "zipcode": "13155-524"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Santo Antônio",
+        "street": "Rua Francisco Cezário de Azevedo",
+        "zipcode": "13157-042"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Onofre dos Santos Assis",
+        "zipcode": "13157-146"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Paulínia",
+        "zipcode": "13157-188"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Professora Jacyra de Oliveira Valente Mattioli",
+        "zipcode": "13157-284"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Zona Industrial 1 Andorinha",
+        "street": "Rua Azize João Scorsoni",
+        "zipcode": "13157-290"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Zona Industrial 1 Andorinha",
+        "street": "Rua Diamantino Ribeiro",
+        "zipcode": "13157-296"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Gertrudes Graco",
+        "zipcode": "13157-582"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Paulo Frederico Rogge",
+        "zipcode": "13155-442"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Laurentino Daolio",
+        "zipcode": "13155-448"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Luiz Leva",
+        "zipcode": "13155-470"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim do Sol",
+        "street": "Rua Guido Longhim",
+        "zipcode": "13155-482"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Morro do Castanho",
+        "street": "Rua Luiz Mengue",
+        "zipcode": "13157-466"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13152-118"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Orlando Strazzacappa",
+        "zipcode": "13157-152"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Luis Vaz de Camões",
+        "zipcode": "13157-362"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Amilcar Sidney Lugli",
+        "zipcode": "13157-082"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Doutor Antonio Fessel",
+        "zipcode": "13157-170"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua José Morais",
+        "zipcode": "13150-632"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua José Kalil Aun",
+        "zipcode": "13150-636"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13150-684"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Horizonte",
+        "street": "Rua Pedro Bramucci",
+        "zipcode": "13150-542"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Luiz Leflock",
+        "zipcode": "13150-638"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Luiz Manoel de Queiroz",
+        "zipcode": "13150-700"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13152-000"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Campos Salles",
+        "street": "Rua Marcelo Lugli",
+        "zipcode": "13152-046"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Newton Amável da Silva",
+        "zipcode": "13152-116"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Gioconda Mora",
+        "zipcode": "13152-164"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua Guilherme Hasse",
+        "zipcode": "13152-278"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua José Davinha",
+        "zipcode": "13152-280"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua Paulo da Silva Pfaff",
+        "zipcode": "13152-302"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Nicola Carone",
+        "zipcode": "13152-246"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Paulo Eleutério de Queiróz",
+        "zipcode": "13152-442"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Osmar Dias de Arruda",
+        "zipcode": "13152-454"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rossetti",
+        "street": "Rua Pastor José Ballarim",
+        "zipcode": "13154-024"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Trabalhadores",
+        "street": "Rua Gothardo Abílio Brega",
+        "zipcode": "13154-270"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua José Calvo",
+        "zipcode": "13155-068"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Santa Gertrudes",
+        "zipcode": "13150-134"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13150-300"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13150-710"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua William Neumann",
+        "zipcode": "13150-698"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Waldir de Almeida",
+        "zipcode": "13152-250"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua São Paulo",
+        "zipcode": "13152-096"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Horizonte",
+        "street": "Rua 7 de Abril",
+        "zipcode": "13150-544"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Fontana",
+        "street": "Rua 30 de Novembro",
+        "zipcode": "13150-564"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Fontana",
+        "street": "Rua 7 de Abril",
+        "zipcode": "13150-570"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Vakula",
+        "street": "Rua 30 de Novembro",
+        "zipcode": "13150-666"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Luiz Leflock",
+        "zipcode": "13150-680"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Kalmann",
+        "street": "Rua 7 de Abril",
+        "zipcode": "13150-586"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua 22 de Abril",
+        "zipcode": "13152-068"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua 7 de Setembro",
+        "zipcode": "13150-971"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua 25 de Dezembro",
+        "zipcode": "13152-018"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-260"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Rua 3",
+        "zipcode": "13152-478"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Rua 4",
+        "zipcode": "13152-480"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Rua 8",
+        "zipcode": "13152-488"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Rua 5",
+        "zipcode": "13152-482"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Rua 6",
+        "zipcode": "13152-484"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Gustavo Epprecht",
+        "zipcode": "13155-010"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Bader José Aun",
+        "street": "Rua Orlando Perucci",
+        "zipcode": "13155-502"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Narcizo Dário Andretto",
+        "zipcode": "13157-328"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua José Gregório Torres Filho",
+        "zipcode": "13157-536"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Avenida da Saudade",
+        "zipcode": "13154-040"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Eldorado",
+        "street": "Rua 5",
+        "zipcode": "13155-112"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jacinto Hackel Fren Aun",
+        "street": "Rua 5",
+        "zipcode": "13155-122"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 2",
+        "zipcode": "13155-156"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Village Monte Cristo",
+        "street": "Rua 15 de Março",
+        "zipcode": "13157-470"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Village Monte Cristo",
+        "street": "Rua 2",
+        "zipcode": "13157-472"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua José Luiz Bernardo da Silva",
+        "zipcode": "13157-274"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Feliciano Ignácio da Silva",
+        "zipcode": "13157-348"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua João Tonussi",
+        "zipcode": "13150-302"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Fontana",
+        "street": "Avenida da Saudade",
+        "zipcode": "13150-560"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "13150-007"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "13152-098"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Emílio Epprecht",
+        "zipcode": "13152-396"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Luiz Leflock",
+        "zipcode": "13150-146"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Otto Herbst",
+        "zipcode": "13150-692"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Campos Salles",
+        "street": "Rua Luiz Manoel de Queiroz",
+        "zipcode": "13152-040"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Lavínio Rebechi",
+        "zipcode": "13152-386"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rossetti",
+        "street": "Rua Pedro Affonso Ortega Filho",
+        "zipcode": "13154-022"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua 15 de Novembro",
+        "zipcode": "13150-035"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Thelma de Almeida",
+        "zipcode": "13150-108"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Horizonte",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13150-546"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bosque",
+        "street": "Rua 7 de Abril",
+        "zipcode": "13150-600"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua 25 de Dezembro",
+        "zipcode": "13152-074"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Zacharias de Queiroz Nabão",
+        "zipcode": "13152-166"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13152-286"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Rua 1",
+        "zipcode": "13152-474"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Rua 2",
+        "zipcode": "13152-476"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Mont Blanc",
+        "street": "Rua 1",
+        "zipcode": "13154-260"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Mont Blanc",
+        "street": "Rua 2",
+        "zipcode": "13154-262"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jacinto Hackel Fren Aun",
+        "street": "Rua 4",
+        "zipcode": "13155-120"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua 15 de Março",
+        "zipcode": "13157-572"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua 15 de Novembro",
+        "zipcode": "13150-060"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Orlando Salmistraro",
+        "zipcode": "13152-258"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Trabalhadores",
+        "street": "Rua Bertha Hereman Prevatto",
+        "zipcode": "13154-276"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Aires",
+        "zipcode": "13157-072"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Aquilino Tescari",
+        "zipcode": "13157-074"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Marco Antonio de Campos",
+        "zipcode": "13157-148"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua José Leoni",
+        "zipcode": "13157-174"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua José Luiz Bernardo da Silva",
+        "zipcode": "13157-194"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua dos Sorocabanos",
+        "zipcode": "13157-264"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua dos Sorocabanos",
+        "zipcode": "13157-332"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Jacinto Hackel Fren Aun",
+        "zipcode": "13157-400"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Expedicionário Ângelo Salmistraro",
+        "zipcode": "13157-584"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua Etori Bernachi",
+        "zipcode": "13157-594"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua Armindo Suzigan",
+        "zipcode": "13152-290"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 4",
+        "zipcode": "13155-144"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua José Lopes Pereira",
+        "zipcode": "13155-168"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 3",
+        "zipcode": "13155-142"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Condomínio Residencial Cosmópolis I",
+        "street": "Rua Armando Mora",
+        "zipcode": "13155-422"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jacinto Hackel Fren Aun",
+        "street": "Rua 6",
+        "zipcode": "13155-124"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 6",
+        "zipcode": "13155-148"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 8",
+        "zipcode": "13155-152"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim do Sol",
+        "street": "Rua Bruna Monteoliva",
+        "zipcode": "13155-486"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque San Giovani",
+        "street": "Rua Ismael Aparecido da Silva",
+        "zipcode": "13157-312"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional 30 de Novembro",
+        "street": "Rua Jacinto Hackel Fren Aun",
+        "zipcode": "13157-416"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Village Monte Cristo",
+        "street": "Rua 30 de Novembro",
+        "zipcode": "13157-474"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Argemiro Avancini",
+        "zipcode": "13152-390"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua dos Ipês",
+        "zipcode": "13154-310"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua dos Lírios",
+        "zipcode": "13154-302"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua José Leoni",
+        "zipcode": "13157-156"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua Alcides Quintal",
+        "zipcode": "13157-596"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Avenida Ester",
+        "zipcode": "13150-288"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Vakula",
+        "street": "Avenida da Saudade",
+        "zipcode": "13150-668"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Argemiro Avancini",
+        "zipcode": "13152-414"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Rua Benjamin Simões de Almeida",
+        "zipcode": "13154-044"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto dos Colibris",
+        "street": "Rua Cabo Cruz",
+        "zipcode": "13154-070"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Trabalhadores",
+        "street": "Rua Ernesto Augusto Rogge",
+        "zipcode": "13154-272"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Arno Kowalesky",
+        "zipcode": "13155-014"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Guilherme Hasse",
+        "zipcode": "13152-252"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Gustavo Epprecht",
+        "zipcode": "13155-060"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua Gustavo Epprecht",
+        "zipcode": "13155-040"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13150-025"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13150-182"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Salim Baracat",
+        "zipcode": "13150-298"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Reinaldo Balloni",
+        "zipcode": "13150-304"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Santa Gertrudes",
+        "zipcode": "13150-312"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bosque",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13150-596"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Damiano",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13150-614"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Projetada",
+        "zipcode": "13155-454"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua 25 de Dezembro",
+        "zipcode": "13157-076"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Antonio Ferrazzo",
+        "zipcode": "13152-172"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Dante Andreoni",
+        "zipcode": "13152-340"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Avenida Aracy Silva",
+        "zipcode": "13152-460"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Laranjeiras",
+        "street": "Rua Eduardo Gallani",
+        "zipcode": "13154-080"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Avenida Guilhermina Kowaleski",
+        "zipcode": "13155-450"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Daniel Rossetti",
+        "street": "Avenida Marginal",
+        "zipcode": "13157-030"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Humberto Rossetti",
+        "zipcode": "13157-134"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua Julieta de Simoni Mortari",
+        "zipcode": "13157-200"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua José Toledo Silva",
+        "zipcode": "13157-268"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Nova Esperança",
+        "street": "Rua Antonio Perucci",
+        "zipcode": "13152-034"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Antonio Perucci",
+        "zipcode": "13152-020"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Antonio de Souza Peres",
+        "zipcode": "13152-112"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Antonio Fernandes",
+        "zipcode": "13152-244"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Eldorado",
+        "street": "Rua Ewald Sillas Eprecht",
+        "zipcode": "13155-108"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jacinto Hackel Fren Aun",
+        "street": "Rua Bruna Monteoliva",
+        "zipcode": "13155-128"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Inivaldo Luiz de Lima",
+        "zipcode": "13157-322"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Maria Romolini de Faveri",
+        "zipcode": "13157-396"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Morro do Castanho",
+        "street": "Rua José Tallassi",
+        "zipcode": "13157-462"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Zico Felix",
+        "zipcode": "13152-376"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13152-392"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua dos Girassóis",
+        "zipcode": "13154-306"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Carlos Blecha",
+        "zipcode": "13152-248"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua Caetano Garcia",
+        "zipcode": "13152-288"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua Camilo Stuchi",
+        "zipcode": "13152-312"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Claudemir Krebsky",
+        "zipcode": "13152-332"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Fontana",
+        "street": "Rua Marcelo Lugli",
+        "zipcode": "13150-562"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Campos Sales",
+        "zipcode": "13150-027"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Eurides de Godoi",
+        "zipcode": "13150-148"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Antonio Toselli",
+        "zipcode": "13150-162"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Expedicionários",
+        "zipcode": "13150-132"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Francisco de Mário",
+        "zipcode": "13150-192"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Expedicionários",
+        "zipcode": "13150-314"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Campos Salles",
+        "street": "Rua Deodoro da Fonseca",
+        "zipcode": "13152-044"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Caetano Achiles Avancini",
+        "zipcode": "13152-152"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Carlos Capraro",
+        "zipcode": "13152-186"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Emílio Epprecht",
+        "zipcode": "13152-410"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Enilson Augusto Toselli",
+        "zipcode": "13152-416"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Rua Egídio Furlaneto",
+        "zipcode": "13154-042"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim do Sol",
+        "street": "Rua Benedito Grassi",
+        "zipcode": "13155-488"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Bruna Monteoliva",
+        "zipcode": "13155-460"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua José Morais",
+        "zipcode": "13150-694"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Marcelo Lugli",
+        "zipcode": "13152-064"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Primeiro de Janeiro",
+        "zipcode": "13152-070"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Henrique Rogge",
+        "zipcode": "13155-004"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13157-024"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13157-112"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Tiradentes",
+        "zipcode": "13157-120"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Rosália Matano Ribeiro",
+        "zipcode": "13157-282"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua 25 de Dezembro",
+        "zipcode": "13152-082"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Valter Zacharias",
+        "zipcode": "13152-170"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Paulo de Azevedo Filho",
+        "zipcode": "13152-348"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Célio Rodrigues Alves",
+        "zipcode": "13152-458"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Rua 7",
+        "zipcode": "13152-486"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rossetti",
+        "street": "Rua Antonio Carlos de Azambuja",
+        "zipcode": "13154-026"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua João Rached",
+        "zipcode": "13155-056"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua José Roberto Gomes (Betão)",
+        "zipcode": "13155-164"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Adolpho Kugel",
+        "zipcode": "13155-176"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim do Sol",
+        "street": "Rua Waldemar Madsen",
+        "zipcode": "13155-490"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Bader José Aun",
+        "street": "Rua José Amâncio Gouveia",
+        "zipcode": "13155-500"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Major Fausto Juzzara",
+        "zipcode": "13155-444"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial 1º de Maio",
+        "street": "Rua José Amâncio Gouveia",
+        "zipcode": "13155-520"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial 1º de Maio",
+        "street": "Estrada Municipal Antônio Nogueira",
+        "zipcode": "13155-532"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Pedro Scorsoni",
+        "zipcode": "13157-182"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua João Dias de Arruda Neto",
+        "zipcode": "13157-266"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Zona Industrial 1 Andorinha",
+        "street": "Rua Pedro Suzan",
+        "zipcode": "13157-292"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Professor Joaquim Pedrozo",
+        "zipcode": "13157-392"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua Engenheiro Edson Luiz Patekoski",
+        "zipcode": "13157-530"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua Poério Adolpho Tavano",
+        "zipcode": "13157-534"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Pedro Suzan",
+        "zipcode": "13157-330"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua José Avelino de Souza",
+        "zipcode": "13157-578"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Sérgio Rampazzo",
+        "zipcode": "13157-576"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Eldorado",
+        "street": "Rua Armando Fernandes",
+        "zipcode": "13155-104"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Eldorado",
+        "street": "Rua 4",
+        "zipcode": "13155-114"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jacinto Hackel Fren Aun",
+        "street": "Rua Joaquim Toledo da Silva",
+        "zipcode": "13155-132"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua José Carlos Ostanello",
+        "zipcode": "13155-174"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Soldado Antonio Satil Ribeiro",
+        "zipcode": "13157-574"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Benedito Antonio Lima de Jesus",
+        "zipcode": "13152-398"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua Benedito Barbosa",
+        "zipcode": "13152-284"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Antonio de Souza Peres",
+        "zipcode": "13157-130"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Rua Ângela Pedrazolli",
+        "zipcode": "13154-054"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Avenida Centenário do Doutor Paulo de Almeida Nogueira",
+        "zipcode": "13150-266"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Rua Elpídio Amaral",
+        "zipcode": "13152-496"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Rua Elesbão Gonçalves",
+        "zipcode": "13152-502"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Rua Emílio Baloni",
+        "zipcode": "13154-050"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial 1º de Maio",
+        "street": "Rua Artibano Baccarin",
+        "zipcode": "13155-522"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Max Hergert",
+        "zipcode": "13150-122"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Georg Paul Emil Mahling",
+        "zipcode": "13152-448"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto dos Colibris",
+        "street": "Rua José Antonio Tozelli",
+        "zipcode": "13154-064"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial do Bosque",
+        "street": "Rua José Antonio Tozelli",
+        "zipcode": "13154-150"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Newton Amável da Silva",
+        "zipcode": "13155-000"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua João Rached",
+        "zipcode": "13155-006"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua João Sacchi",
+        "zipcode": "13155-012"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua João Rached",
+        "zipcode": "13155-042"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Waldemar Madsen",
+        "zipcode": "13155-466"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Vitório Natali de Faveri",
+        "zipcode": "13157-022"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Santos Dumont",
+        "zipcode": "13157-178"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Silvino Torres",
+        "zipcode": "13157-180"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Silva Teles",
+        "zipcode": "13150-037"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Diolindo Prevatto",
+        "zipcode": "13150-278"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Marcolino Amâncio",
+        "zipcode": "13155-188"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Antonio Martins Garcia",
+        "zipcode": "13155-054"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Pedro Kiehl",
+        "zipcode": "13155-062"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Antonio Bordin",
+        "zipcode": "13155-446"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Bader José Aun",
+        "street": "Rua Geraldo di Sacco",
+        "zipcode": "13155-504"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Bader José Aun",
+        "street": "Rua Antonio Carlos Nardo (Deuzinho)",
+        "zipcode": "13155-508"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Pedro Damiano",
+        "zipcode": "13155-050"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial 1º de Maio",
+        "street": "Rua Oswaldo Pivatto",
+        "zipcode": "13155-526"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial 1º de Maio",
+        "street": "Rua Pedro Guimarães Bertazzo",
+        "zipcode": "13155-530"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Guilhermina",
+        "street": "Rua Francisco Cezário de Azevedo",
+        "zipcode": "13157-000"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Guilhermina",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13157-010"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Avenida Marginal",
+        "zipcode": "13157-106"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Avenida Nelson Alves Aranha",
+        "zipcode": "13157-354"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional 30 de Novembro",
+        "street": "Rua Maria Romolini de Faveri",
+        "zipcode": "13157-420"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua Alberto Demori",
+        "zipcode": "13157-538"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua Dionízio Diazzi",
+        "zipcode": "13157-542"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua Orlando Leflock",
+        "zipcode": "13157-544"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua dos Funcionários Públicos",
+        "zipcode": "13157-602"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Adriano José Marsolla",
+        "zipcode": "13155-186"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Condomínio Residencial Cosmópolis I",
+        "street": "Rua Francisca Paschoalick Frem Aun (D. Chiquinha)",
+        "zipcode": "13155-424"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua José Giacomini",
+        "zipcode": "13155-456"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim do Sol",
+        "street": "Rua Evangelista Luiz Semensato Primo",
+        "zipcode": "13155-492"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua Benigno de Queiróz",
+        "zipcode": "13157-540"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua dos Professores",
+        "zipcode": "13157-606"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Moacir Stockler de Lima",
+        "zipcode": "13152-380"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Paulo Eleutério de Queiróz",
+        "zipcode": "13152-382"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Dárcio Veronezi",
+        "zipcode": "13152-372"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Alípio Fernandes",
+        "zipcode": "13152-394"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Orlando Cattozzi",
+        "zipcode": "13152-388"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Aurélio Rubio Spinos",
+        "zipcode": "13152-378"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Bader José Aun",
+        "street": "Rua Adolpho Neumann",
+        "zipcode": "13155-512"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque San Giovani",
+        "street": "Avenida Angelo Rampazzo",
+        "zipcode": "13157-300"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional 30 de Novembro",
+        "street": "Rua dos Sorocabanos",
+        "zipcode": "13157-410"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua João Baptista Facelli",
+        "zipcode": "13157-598"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Osvaldo José Ferreira",
+        "zipcode": "13157-580"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Adão Martelli",
+        "zipcode": "13150-194"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Horizonte",
+        "street": "Avenida da Saudade",
+        "zipcode": "13150-552"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Trabalhadores",
+        "street": "Rua Dino Banchieri",
+        "zipcode": "13154-274"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua José do Nascimento Domingues",
+        "zipcode": "13155-032"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 1",
+        "zipcode": "13155-140"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Bader José Aun",
+        "street": "Rua Waldemar Madsen",
+        "zipcode": "13155-514"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Guilhermina",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13157-008"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua São Paulo",
+        "zipcode": "13157-122"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Morro do Castanho",
+        "street": "Rua Romão Romeiro Gomes",
+        "zipcode": "13157-464"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua Sebastião Antonio de Moraes",
+        "zipcode": "13157-546"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Fontana",
+        "street": "Rua André Madsen",
+        "zipcode": "13150-568"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua 30 de Novembro",
+        "zipcode": "13150-644"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Francisco Cezário de Azevedo",
+        "zipcode": "13150-696"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua 30 de Novembro",
+        "zipcode": "13150-674"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua 7 de Abril",
+        "zipcode": "13150-688"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Campos Salles",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-050"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-060"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Jacob Suzigan",
+        "zipcode": "13152-254"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua Dante Gallerani",
+        "zipcode": "13152-314"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Alberto Stuchi",
+        "zipcode": "13155-052"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Agnes Bentlin Kowalesky",
+        "zipcode": "13155-166"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Ponciano Tonussi",
+        "zipcode": "13155-472"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Luiz Strazzacappa",
+        "zipcode": "13157-278"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Amália Bongiorno Peretti",
+        "zipcode": "13157-324"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua José Zacharias",
+        "zipcode": "13157-352"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Luiz Strazzacappa",
+        "zipcode": "13157-394"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Nova Esperança",
+        "street": "Rua Ataliba de Carvalho",
+        "zipcode": "13152-032"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Benedito Maia",
+        "zipcode": "13152-178"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Emílio Rampazzo",
+        "zipcode": "13157-326"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional 30 de Novembro",
+        "street": "Rua Luiz Strazzacappa",
+        "zipcode": "13157-422"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque San Giovani",
+        "street": "Rua Diolindo Sperindioni",
+        "zipcode": "13157-302"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Real Center",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13155-002"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Campinas",
+        "zipcode": "13150-310"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua 7 de Setembro",
+        "zipcode": "13150-530"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua Antonio Carlos Nogueira",
+        "zipcode": "13150-526"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Coronel Silva Teles",
+        "zipcode": "13150-100"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Baronesa Geraldo de Rezende",
+        "zipcode": "13150-286"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Horizonte",
+        "street": "Rua Campinas",
+        "zipcode": "13150-540"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Doutor Luiz Nicolau Nolandi",
+        "zipcode": "13150-296"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Fontana",
+        "street": "Rua Campinas",
+        "zipcode": "13150-572"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Florindo Bordin",
+        "zipcode": "13150-712"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Doutor Luiz Nicolau Nolandi",
+        "zipcode": "13152-154"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Doutor Luiz Nicolau Nolandi",
+        "zipcode": "13152-232"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua Doutor Rui Barbosa",
+        "zipcode": "13155-030"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua João Aranha",
+        "zipcode": "13150-686"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Gabriel Monteiro Silva",
+        "zipcode": "13152-072"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua João Libanori",
+        "zipcode": "13152-158"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua José Nallin Sobrinho",
+        "zipcode": "13152-418"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Rua José Menon",
+        "zipcode": "13152-498"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua Newton Amável da Silva",
+        "zipcode": "13155-046"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13152-156"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13152-228"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua Santo Rizzo",
+        "zipcode": "13152-310"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Mont Blanc",
+        "street": "Rua 3",
+        "zipcode": "13154-264"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Vitória Régia",
+        "zipcode": "13154-292"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Vitório Sala",
+        "zipcode": "13155-058"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Eldorado",
+        "street": "Rua Vereador Benedito Antonio de Souza ( Nego )",
+        "zipcode": "13155-106"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Morro do Castanho",
+        "street": "Rua Santa Cruz",
+        "zipcode": "13157-460"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Morro do Castanho",
+        "street": "Rua 16 de Novembro",
+        "zipcode": "13157-468"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13150-970"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-270"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-320"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-462"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Cidade Jardim",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-470"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rossetti",
+        "street": "Avenida da Saudade",
+        "zipcode": "13154-020"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13155-070"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim do Sol",
+        "street": "Rua Pedro de Faveri",
+        "zipcode": "13155-480"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Bader José Aun",
+        "street": "Rua Pedro Guimarães Bertazzo",
+        "zipcode": "13155-510"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Santo Antônio",
+        "street": "Avenida Ester",
+        "zipcode": "13157-040"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Paulínia",
+        "zipcode": "13157-104"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua Paulo Roberto Borelli",
+        "zipcode": "13157-192"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Paulo Roberto Borelli",
+        "zipcode": "13157-276"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Jacinto Hackel Fren Aun",
+        "zipcode": "13157-286"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Alberto Leflock",
+        "zipcode": "13157-350"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua Bortolo Caron",
+        "zipcode": "13157-592"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Campos Salles",
+        "street": "Rua Antonio Perucci",
+        "zipcode": "13152-042"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua Armindo Suzigan",
+        "zipcode": "13152-306"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Arno Kowalesky",
+        "zipcode": "13155-064"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Guilherme Peretti",
+        "zipcode": "13155-178"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Condomínio Residencial Cosmópolis I",
+        "street": "Rua Antonio Giuzio",
+        "zipcode": "13155-420"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 9",
+        "zipcode": "13155-154"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua João Marascalchi",
+        "zipcode": "13155-452"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Jacinto Hackel Fren Aun",
+        "zipcode": "13157-334"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua Doutor Rui Barbosa",
+        "zipcode": "13152-090"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Roland Krun",
+        "zipcode": "13152-384"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Caetano Achiles Avancini",
+        "zipcode": "13152-234"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Carlos Leopoldo Bottcher",
+        "zipcode": "13152-456"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim do Sol",
+        "street": "Rua Antonio Demori",
+        "zipcode": "13155-484"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Ataliba de Carvalho",
+        "zipcode": "13150-642"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Arthur Valério Vakula",
+        "zipcode": "13157-570"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Francisco Perucci",
+        "zipcode": "13152-160"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Antonio Toselli",
+        "zipcode": "13150-172"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua Expedicionários",
+        "zipcode": "13150-520"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13150-190"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Damiano",
+        "street": "Rua Doutor Campos Sales",
+        "zipcode": "13150-612"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial do Bosque",
+        "street": "Rua das Acácias",
+        "zipcode": "13154-152"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua dos Cravos",
+        "zipcode": "13154-296"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rossetti",
+        "street": "Rua Antonio Zoaldo Conservan",
+        "zipcode": "13154-030"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Laranjeiras",
+        "street": "Rua Domingos de Campos",
+        "zipcode": "13154-088"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Max Hergert",
+        "zipcode": "13150-274"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Marcelo Lugli",
+        "zipcode": "13150-646"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13150-152"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Raul Silva",
+        "zipcode": "13152-114"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Waldir de Almeida",
+        "zipcode": "13152-188"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Rua Zilda Giovanoni Viamonte",
+        "zipcode": "13152-500"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua Vitório Facelli",
+        "zipcode": "13157-604"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Eduardo Pedrazolli",
+        "zipcode": "13150-708"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua George Kiosia",
+        "zipcode": "13150-718"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Adão Martelli",
+        "zipcode": "13150-262"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Otto Herbst",
+        "zipcode": "13150-003"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Aranha",
+        "zipcode": "13150-009"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Max Hergert",
+        "zipcode": "13150-021"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua 7 de Abril",
+        "zipcode": "13150-005"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua José Morelli",
+        "zipcode": "13150-276"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santa Gertrudes",
+        "zipcode": "13150-017"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Antonio Carlos Nogueira",
+        "zipcode": "13150-062"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Avenida Centenário do Doutor Paulo de Almeida Nogueira",
+        "zipcode": "13150-064"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Baronesa Geraldo de Rezende",
+        "zipcode": "13150-031"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Presidente Getúlio Vargas",
+        "zipcode": "13150-033"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Avenida 9 de Julho",
+        "zipcode": "13150-292"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "São João",
+        "street": "Rua Coronel Silva Teles",
+        "zipcode": "13150-080"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Vitório Martelli",
+        "zipcode": "13150-066"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Antonio Carlos Nogueira",
+        "zipcode": "13150-102"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Coronel Silva Teles",
+        "zipcode": "13150-070"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Max Hergert",
+        "zipcode": "13150-130"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Avenida 9 de Julho",
+        "zipcode": "13150-150"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Expedicionários",
+        "zipcode": "13150-114"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Doutor Moacir do Amaral",
+        "zipcode": "13150-144"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Francisco Tavano",
+        "zipcode": "13150-116"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua 22 de Abril",
+        "zipcode": "13152-080"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Avenida Ester",
+        "zipcode": "13150-156"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Campinas",
+        "zipcode": "13150-140"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Doutor Campos Sales",
+        "zipcode": "13150-154"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Doutor Adhemar Pereira de Barros",
+        "zipcode": "13152-066"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua Primeiro de Janeiro",
+        "zipcode": "13152-100"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Isnardi José Sacchi",
+        "zipcode": "13152-346"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Laranjeiras",
+        "street": "Rua Albino Giovanoni",
+        "zipcode": "13154-086"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Avenida Ester",
+        "zipcode": "13150-178"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Trabalhadores",
+        "street": "Rua Celso Ottoni Lugli",
+        "zipcode": "13154-280"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Presidente Getúlio Vargas",
+        "zipcode": "13150-174"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto dos Colibris",
+        "street": "Avenida da Saudade",
+        "zipcode": "13154-060"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Avenida 9 de Julho",
+        "zipcode": "13150-184"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista III",
+        "street": "Rua Luiz Leflock",
+        "zipcode": "13150-188"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto dos Colibris",
+        "street": "Rua José Maria Mathenhauer",
+        "zipcode": "13154-072"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Paulo Leivas Macalão",
+        "zipcode": "13155-476"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua João Antonio da Silva",
+        "zipcode": "13150-306"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Paulo Azevedo",
+        "zipcode": "13150-308"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Horizonte",
+        "street": "Rua Doutor Luiz Nicolau Nolandi",
+        "zipcode": "13150-548"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Avenida Marginal",
+        "zipcode": "13157-026"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Kalmann",
+        "street": "Rua Ataliba de Carvalho",
+        "zipcode": "13150-582"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Chafi Massud",
+        "zipcode": "13152-240"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Rua Ângelo Libanori",
+        "zipcode": "13154-046"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Ângelo Capraro",
+        "zipcode": "13155-464"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Avenida Ester",
+        "zipcode": "13157-070"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bosque",
+        "street": "Rua Doutor Campos Sales",
+        "zipcode": "13150-598"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Luiz Manoel de Queiroz",
+        "zipcode": "13150-650"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua João Kugel",
+        "zipcode": "13155-440"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Doutor João Alves da Silva",
+        "zipcode": "13157-176"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Antonio de Souza Peres",
+        "zipcode": "13157-172"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional 30 de Novembro",
+        "street": "Rua Concórdia",
+        "zipcode": "13157-414"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Jaguariúna",
+        "zipcode": "13157-102"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim do Sol",
+        "street": "Avenida Marginal",
+        "zipcode": "13155-494"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Estrada da Servidão",
+        "zipcode": "13154-043"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Projetada",
+        "zipcode": "13157-288"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Condomínio Residencial Cosmópolis I",
+        "street": "Rua Azaury Nabão",
+        "zipcode": "13155-428"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Condomínio Residencial Cosmópolis I",
+        "street": "Rua Cesário Orlandin",
+        "zipcode": "13155-430"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Área Rural de Cosmópolis",
+        "street": "Área Rural",
+        "zipcode": "13159-899"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Doutor Rui Barbosa",
+        "zipcode": "13152-124"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Lourenço Trevenzolli",
+        "zipcode": "13152-122"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua José Rampazzo",
+        "zipcode": "13152-256"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Avenida dos Trabalhadores",
+        "zipcode": "13152-292"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-330"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua João Zacharias",
+        "zipcode": "13152-224"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua Nicola Daniel",
+        "zipcode": "13152-300"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua José Alves da Silva",
+        "zipcode": "13152-400"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Bromélias",
+        "zipcode": "13154-294"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua das Hortências",
+        "zipcode": "13154-304"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua dos Manacás",
+        "zipcode": "13154-314"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Rua Professora Vera Lorenti Morais",
+        "zipcode": "13152-504"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Rua José Inocêncio",
+        "zipcode": "13152-506"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Independência",
+        "street": "Rua Frederico Decresci",
+        "zipcode": "13154-052"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Laranjeiras",
+        "street": "Rua José Antonio Tozelli",
+        "zipcode": "13154-084"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Laranjeiras",
+        "street": "Rua Gothardo Abílio Brega",
+        "zipcode": "13154-090"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Trabalhadores",
+        "street": "Rua Otacílio Moreira de Souza",
+        "zipcode": "13154-278"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila Cosmos",
+        "street": "Rua Adolpho Menon",
+        "zipcode": "13155-066"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jacinto Hackel Fren Aun",
+        "street": "Rua Ângelo Capraro",
+        "zipcode": "13155-126"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Eldorado",
+        "street": "Rua Ângelo Bertaglia",
+        "zipcode": "13155-110"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Cosmopolitano",
+        "street": "Rua Benedito Garcia Ferreira",
+        "zipcode": "13155-036"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Eldorado",
+        "street": "Rua Flor Morelli",
+        "zipcode": "13155-102"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 7",
+        "zipcode": "13155-150"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Jaguariúna",
+        "zipcode": "13157-088"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Brasília",
+        "zipcode": "13157-124"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Doutor João Alves da Silva",
+        "zipcode": "13157-142"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Armando Barbisan",
+        "zipcode": "13157-186"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua Luiz Strazzacappa",
+        "zipcode": "13157-190"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Jurandir da Cunha Nabão",
+        "zipcode": "13157-086"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13157-132"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua José Toledo Silva",
+        "zipcode": "13157-202"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque São Pedro",
+        "street": "Rua Bento Ferreira de Queiróz",
+        "zipcode": "13157-204"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Benedito Antonio Felisbino",
+        "zipcode": "13157-262"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Lourdes",
+        "street": "Rua Primo Olívio de Faveri",
+        "zipcode": "13157-280"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque San Giovani",
+        "street": "Rua Seikichi Koba",
+        "zipcode": "13157-304"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque San Giovani",
+        "street": "Rua Amália Bongiorno Peretti",
+        "zipcode": "13157-308"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Luiz Strazzacappa",
+        "zipcode": "13157-340"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Ismael Aparecido da Silva",
+        "zipcode": "13157-320"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Batista Sperindioni Marsoli",
+        "zipcode": "13157-346"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua Santa Gertrudes",
+        "zipcode": "13150-524"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Santos Dumont",
+        "zipcode": "13157-090"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Vereador Antonio Tognoni",
+        "zipcode": "13157-136"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Zona Industrial 1 Andorinha",
+        "street": "Rua Rocco Ophemio Tavano",
+        "zipcode": "13157-294"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13150-630"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Avenida da Saudade",
+        "zipcode": "13150-670"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Badra José Aun",
+        "zipcode": "13150-702"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Doutor Luiz Nicolau Nolandi",
+        "zipcode": "13150-706"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras",
+        "street": "Rua Aurélio Rubio Spinos",
+        "zipcode": "13152-444"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto dos Colibris",
+        "street": "Rua Ernesto Augusto Rogge",
+        "zipcode": "13154-066"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Ramos de Azevedo",
+        "zipcode": "13150-290"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Kalmann",
+        "street": "Rua Campinas",
+        "zipcode": "13150-580"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Avenida Raul Veronezi",
+        "zipcode": "13150-280"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Damiano",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13150-620"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Damiano",
+        "street": "Rua Francisco Cezário de Azevedo",
+        "zipcode": "13150-618"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Guilhermina",
+        "street": "Avenida Marginal",
+        "zipcode": "13157-006"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua Alcides Frungilo",
+        "zipcode": "13157-608"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Beto Spana",
+        "street": "Rua Guilherme Hasse",
+        "zipcode": "13152-374"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida 9 de Julho",
+        "zipcode": "13150-023"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Avenida Doutor Paulo de Almeida Nogueira",
+        "zipcode": "13150-106"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": null,
+        "street": null,
+        "zipcode": "13150-000"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Campinas",
+        "zipcode": "13150-011"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bosque",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13150-592"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Avenida da Saudade",
+        "zipcode": "13152-150"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua Adolpho Francisco Klinghor",
+        "zipcode": "13152-272"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Miguel Fiadoni",
+        "zipcode": "13152-222"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Doutor Amphilóphio de Mello Albuquerque",
+        "zipcode": "13152-338"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Adolpho Germano Rogge",
+        "zipcode": "13152-428"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13157-020"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13157-114"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial das Andorinhas",
+        "street": "Rua Maria Romolini de Faveri",
+        "zipcode": "13157-360"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque das Laranjeiras II",
+        "street": "Rua Célio Rodrigues Alves",
+        "zipcode": "13152-424"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Real",
+        "street": "Rua Augusto José Silva Cardozo",
+        "zipcode": "13157-600"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Doutor Rui Barbosa",
+        "zipcode": "13152-010"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "13152-004"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua João Xavier de Souza",
+        "zipcode": "13152-012"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Nova Esperança",
+        "street": "Rua Luiz Manoel de Queiroz",
+        "zipcode": "13152-030"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Habitacional Vila Nova",
+        "street": "Rua José Franco Salgado",
+        "zipcode": "13152-006"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Professor Felício Marmo",
+        "zipcode": "13152-176"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Herminio Galhardo",
+        "zipcode": "13152-182"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua Luiz Boaventura",
+        "zipcode": "13152-282"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua Guilherme Hasse",
+        "zipcode": "13152-318"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto das Laranjeiras",
+        "street": "Rua José Francisco Barbizan",
+        "zipcode": "13152-316"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua William Neumann",
+        "zipcode": "13150-648"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francisco Cezário de Azevedo",
+        "zipcode": "13150-001"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua 7 de Setembro",
+        "zipcode": "13150-013"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Antonio Tavano",
+        "zipcode": "13150-104"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Antonio Toselli",
+        "zipcode": "13150-118"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Antonio Tavano",
+        "zipcode": "13150-270"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua 30 de Novembro",
+        "zipcode": "13150-532"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Bela Vista Continuação",
+        "street": "Rua Marcelo Lugli",
+        "zipcode": "13150-534"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bela Vista IV",
+        "street": "Rua Coronel Silva Teles",
+        "zipcode": "13150-272"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Marcelo Lugli",
+        "zipcode": "13150-672"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Bosque",
+        "street": "Rua Henriqueta Pfaff",
+        "zipcode": "13150-594"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua Francisco Perucci",
+        "zipcode": "13150-714"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Alberto Fierz",
+        "zipcode": "13152-062"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13152-094"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia II",
+        "street": "Rua Agelina Garcia Ballestrin",
+        "zipcode": "13152-184"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Guilherme Hasse",
+        "zipcode": "13152-334"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto Novo Cosmópolis",
+        "street": "Rua Newton Ataliba Madsen Barbosa",
+        "zipcode": "13152-344"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Recanto dos Colibris",
+        "street": "Rua Angelo Bragagnollo",
+        "zipcode": "13154-062"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim das Paineiras",
+        "street": "Rua Baronesa Geraldo de Rezende",
+        "zipcode": "13157-078"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Geraldo Glacia",
+        "zipcode": "13157-150"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Doutor Antonio Fessel",
+        "zipcode": "13157-158"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Professora Jacyra de Oliveira Valente Mattioli",
+        "zipcode": "13157-398"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua dos Sorocabanos",
+        "zipcode": "13157-402"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Conjunto Habitacional 30 de Novembro",
+        "street": "Rua do Vereador",
+        "zipcode": "13157-412"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque dos Girassóis",
+        "street": "Rua Alberto Azevedo de Araújo",
+        "zipcode": "13157-532"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Vila José Kalil Aun",
+        "street": "Rua André Madsen",
+        "zipcode": "13150-690"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Atílio Zachi",
+        "zipcode": "13152-220"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rosamélia",
+        "street": "Rua Antonio Ferrazzo",
+        "zipcode": "13152-230"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Bader José Aun",
+        "street": "Rua Gabriel Peretti",
+        "zipcode": "13155-506"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Evangelista Luiz Semensato Primo",
+        "zipcode": "13155-468"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Extinta Estação Experimental de Sericultura",
+        "street": "Rua Santa Gertrudes",
+        "zipcode": "13150-110"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Luis Vaz de Camões",
+        "zipcode": "13157-390"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Chácara Santo Antônio",
+        "street": "Rua Aires",
+        "zipcode": "13157-046"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Antonio Tavano",
+        "zipcode": "13150-068"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Doutor Adhemar Pereira de Barros",
+        "zipcode": "13152-128"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Souza Queiroz",
+        "street": "Rua Euraídes Souza Cerqueira",
+        "zipcode": "13155-160"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Rossetti",
+        "street": "Avenida dos Trabalhadores",
+        "zipcode": "13154-032"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim dos Scursonis",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "13152-092"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Dona Esther",
+        "street": "Rua Vereador Alcides de Jesus Paixão",
+        "zipcode": "13155-458"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Sidnei Alves Aranha Filho",
+        "zipcode": "13157-144"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim de Faveri",
+        "street": "Rua Artur Nogueira",
+        "zipcode": "13157-116"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Núcleo Residencial Jardim Cosmopolita",
+        "street": "Rua Limeira",
+        "zipcode": "13157-154"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Residencial Mont Blanc",
+        "street": "Rua 4",
+        "zipcode": "13154-266"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Condomínio Residencial Cosmópolis I",
+        "street": "Rua Celestino Libanori",
+        "zipcode": "13155-426"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Residencial Dona Chiquinha",
+        "street": "Rua 5",
+        "zipcode": "13155-146"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Jardim Chico Mendes",
+        "street": "Rua Luiz Malagon",
+        "zipcode": "13152-274"
+    },
+    {
+        "city": "Cosmópolis",
+        "state": "SP",
+        "district": "Parque Souza Queiroz",
+        "street": "Estrada Municipal Prefeito Orlando Kiosia",
+        "zipcode": "13152-490"
+    }
+]

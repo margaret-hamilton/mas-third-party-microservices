@@ -1,0 +1,737 @@
+[
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santo Antonio",
+        "street": "Rua 286",
+        "zipcode": "88809-484"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santo Antonio",
+        "street": "Rua 386",
+        "zipcode": "88809-282"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua 1042",
+        "zipcode": "88815-460"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Jardim Uniao",
+        "street": "Rua Ernesto Che Guevara",
+        "zipcode": "88806-629"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Uniao",
+        "street": "Rua Clarinda Brunelli",
+        "zipcode": "88806-630"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Rua Joao Da C. Campos",
+        "zipcode": "88806-660"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua 1047",
+        "zipcode": "88815-466"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Arvelino Eufrasio Alexandre",
+        "zipcode": "88806-714"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Fagundes Varela",
+        "zipcode": "88801-360"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Praça Do Congresso",
+        "zipcode": "88801-445"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Almirante Barroso",
+        "zipcode": "88802-251"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Pinheirinho",
+        "street": "Rua 603",
+        "zipcode": "88804-510"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Boa Vista",
+        "street": "Rua Porto Belo",
+        "zipcode": "88805-740"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Praça Maria Luiza Rodrigues",
+        "zipcode": "88802-303"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Frederico Mayr",
+        "zipcode": "88806-160"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Antonio Vonsmieski",
+        "zipcode": "88806-038"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Alameda Dos Namorados",
+        "zipcode": "88801-330"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Centenario",
+        "zipcode": "88802-001"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Pinheirinho",
+        "street": "Rua Sergio Behenck Evaldt",
+        "zipcode": "88804-521"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Avenida Catarinense",
+        "zipcode": "88806-250"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Imigrantes",
+        "street": "Rua Abel Casagrande",
+        "zipcode": "88813-760"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Ana Maria",
+        "street": "Rua 323",
+        "zipcode": "88815-348"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Augusta",
+        "street": "Praça Dr Jose Pimenteli",
+        "zipcode": "88805-322"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Comerciario",
+        "street": "Largo Da Esperanca",
+        "zipcode": "88802-305"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Avenida Monte Negro",
+        "zipcode": "88806-200"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Aldo Santos Paes",
+        "zipcode": "88806-775"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Cristovao",
+        "street": "Rua 556",
+        "zipcode": "88802-640"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Rua Jose C. Dos Santos",
+        "zipcode": "88806-245"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Prospera",
+        "street": "Praça Do Trabalhador",
+        "zipcode": "88813-077"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Jardim Uniao",
+        "street": "Rua Chico Mendes",
+        "zipcode": "88806-623"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Rua Sao Marcos",
+        "zipcode": "88806-220"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Rui Pfutzenreuter",
+        "zipcode": "88806-150"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Mauricio Joao Motta",
+        "zipcode": "88806-750"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Cristovao",
+        "street": "Rua 554",
+        "zipcode": "88802-625"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Bento Antonio Neto",
+        "zipcode": "88806-770"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Rua Pedro Marcolino M. Da Rosa",
+        "zipcode": "88806-265"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Velha",
+        "street": "Rua Luiz Manoel Rodrigues",
+        "zipcode": "88806-348"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Barbara",
+        "street": "Rua Rosalino Dal Bo",
+        "zipcode": "88802-030"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Rua Afonso Milaneze",
+        "zipcode": "88806-542"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Frontino A. Floriano",
+        "zipcode": "88806-753"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Vidal Valim",
+        "zipcode": "88806-319"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Defende",
+        "street": "Avenida Sao Defende",
+        "zipcode": "88808-400"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Luiz",
+        "street": "Rua Nicolau Machado De Souza",
+        "zipcode": "88803-360"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Avenida Boa Vista",
+        "zipcode": "88806-320"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Liberato Rocha",
+        "zipcode": "88806-740"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Velha",
+        "street": "Rua Leopoldino De Souza Correa",
+        "zipcode": "88806-346"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Cristovao",
+        "street": "Rua 553",
+        "zipcode": "88802-630"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Lorival Moreira Da Silva",
+        "zipcode": "88815-472"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Cirlei Maria Barbosa Leandro",
+        "zipcode": "88815-484"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Marlene Ferreira",
+        "zipcode": "88815-498"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Rio Maina",
+        "street": "Rua 727",
+        "zipcode": "88817-082"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Colonial",
+        "street": "Rua 1243",
+        "zipcode": "88819-220"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Ageu Geronimo",
+        "zipcode": "88815-482"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua 1049",
+        "zipcode": "88815-470"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Pio Correa",
+        "street": "Praça Maria De Assis Goes",
+        "zipcode": "88811-580"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Rua Joao Bonotto",
+        "zipcode": "88806-655"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Praça Vilmar Zozimo Peixoto",
+        "zipcode": "88802-062"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua 1045",
+        "zipcode": "88815-476"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Gonsalves Da Silveira",
+        "zipcode": "88806-735"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua 1048",
+        "zipcode": "88815-463"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Jardim Uniao",
+        "street": "Rua Pablo Picasso",
+        "zipcode": "88806-621"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Prospera",
+        "street": "Praça Lucas Osvaldo Cruz",
+        "zipcode": "88813-018"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Rio Maina",
+        "street": "Rua Odecia S Souza",
+        "zipcode": "88817-385"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Metropolitana",
+        "street": "Praça Arnaldo Napoli",
+        "zipcode": "88819-005"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua Antonio Lima",
+        "zipcode": "88815-450"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Reginaldo Possidonio",
+        "zipcode": "88815-490"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua Heitor Fraga De Oliveira",
+        "zipcode": "88815-440"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua 1046",
+        "zipcode": "88815-473"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua 1044",
+        "zipcode": "88815-480"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Metropolitana",
+        "street": "Rua 44",
+        "zipcode": "88819-020"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Lote Seis",
+        "street": "Rua Sinval Rosario Bohrer",
+        "zipcode": "88810-180"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Prospera",
+        "street": "Praça Cincinato Naspolini",
+        "zipcode": "88815-199"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Rubia Pereira Gusmao",
+        "zipcode": "88815-488"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Airton Senna",
+        "zipcode": "88815-492"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Madalena Casagrande",
+        "zipcode": "88801-340"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Praça Domenico Sonego",
+        "zipcode": "88801-625"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Pinheirinho",
+        "street": "Praça Sebastiao Toledo Dos Santos",
+        "zipcode": "88804-365"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Dalzon Roberto Amaral Marques",
+        "zipcode": "88815-478"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Karina Minosso",
+        "zipcode": "88815-486"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Colonial",
+        "street": "Rua 1242",
+        "zipcode": "88819-225"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Travessa Costa E Silva",
+        "zipcode": "88802-255"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Rio Maina",
+        "street": "Praça Pedro Beneton",
+        "zipcode": "88817-605"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Jardim Uniao",
+        "street": "Rua Cecilia Meirelles",
+        "zipcode": "88806-625"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Uniao",
+        "street": "Rua Darci Joao Bianchini",
+        "zipcode": "88806-670"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Selezina Dos Santos Lopes",
+        "zipcode": "88806-745"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Paulo De Frontin",
+        "street": "Rua 247",
+        "zipcode": "88810-338"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Pedro Antonio",
+        "zipcode": "88815-494"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Avenida Vante Rovaris",
+        "zipcode": "88806-020"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Geronimo Possidonio Simao",
+        "zipcode": "88815-496"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Velha",
+        "street": "Rua Albino Antonio Vieira",
+        "zipcode": "88806-342"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Francisco",
+        "street": "Rua 573",
+        "zipcode": "88805-554"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Antonio Delfino",
+        "zipcode": "88815-468"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Praça Dos Imigrantes",
+        "zipcode": "88801-070"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mina Quatro",
+        "street": "Rua Ana Herculano Magalhaes",
+        "zipcode": "88815-430"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Vila Zuleima",
+        "street": "Rua Noe Pirolla",
+        "zipcode": "88817-100"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Rua Antonio F. De Souza",
+        "zipcode": "88806-270"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Jardim Uniao",
+        "street": "Rua Vinicius De Morais",
+        "zipcode": "88806-627"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Cruzeiro Do Sul",
+        "street": "Praça Aristides Israel Cardoso",
+        "zipcode": "88811-132"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Joao",
+        "street": "Rua Marciel Tomaz Sebastiao",
+        "zipcode": "88815-474"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Sao Cristovao",
+        "street": "Rua 555",
+        "zipcode": "88802-613"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Alceri Maria Gomes Da Silva",
+        "zipcode": "88806-180"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Brasilia",
+        "street": "Praça Afonso Back",
+        "zipcode": "88813-371"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Mineira Nova",
+        "street": "Rua Mario Diomario M. Da Rosa",
+        "zipcode": "88806-276"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Maria Borges Da Silva",
+        "zipcode": "88806-720"
+    },
+    {
+        "city": "Criciuma",
+        "state": "SC",
+        "district": "Santa Luzia",
+        "street": "Rua Jaime Da Rosa",
+        "zipcode": "88806-780"
+    }
+]

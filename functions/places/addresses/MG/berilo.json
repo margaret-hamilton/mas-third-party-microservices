@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Berilo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Amaral 21",
+        "zipcode": "39640-970"
+    },
+    {
+        "city": "Berilo",
+        "state": "MG",
+        "district": "Lelivéldia",
+        "street": "Praça São Norberto 43",
+        "zipcode": "39640-972"
+    },
+    {
+        "city": "Berilo",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39640-000"
+    }
+]

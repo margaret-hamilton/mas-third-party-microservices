@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Açucena",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Edson Miranda 106",
+        "zipcode": "35150-970"
+    },
+    {
+        "city": "Açucena",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35150-000"
+    },
+    {
+        "city": "Açucena",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35147-000"
+    },
+    {
+        "city": "Açucena",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Edson Miranda 106  AC Açucena",
+        "zipcode": "35147-971"
+    }
+]

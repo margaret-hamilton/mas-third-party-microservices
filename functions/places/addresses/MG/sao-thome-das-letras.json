@@ -1,0 +1,44 @@
+[
+    {
+        "city": "São Thomé das Letras",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Marcionilio Ribeiro Costa 150",
+        "zipcode": "37418-970"
+    },
+    {
+        "city": "São Thomé das Letras",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37418-000"
+    },
+    {
+        "city": "São Thomé das Letras",
+        "state": "MG",
+        "district": "Sobradinho",
+        "street": "Rua Bento Gonçalves Leite 10",
+        "zipcode": "37418-971"
+    },
+    {
+        "city": "São Thomé das Letras",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37408-000"
+    },
+    {
+        "city": "São Thomé das Letras",
+        "state": "MG",
+        "district": "Sobradinho",
+        "street": "Rua Bento Gonçalves Leite",
+        "zipcode": "37408-971"
+    },
+    {
+        "city": "São Thomé das Letras",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Marcionilio Ribeiro Costa",
+        "zipcode": "37408-970"
+    }
+]

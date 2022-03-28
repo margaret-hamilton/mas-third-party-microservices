@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Bandeira",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Antônio Bandeira 17",
+        "zipcode": "39917-972"
+    },
+    {
+        "city": "Bandeira",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39917-000"
+    },
+    {
+        "city": "Bandeira",
+        "state": "MG",
+        "district": "Zona Rural",
+        "street": "Fazenda Vista Alegre s/n",
+        "zipcode": "39917-971"
+    }
+]

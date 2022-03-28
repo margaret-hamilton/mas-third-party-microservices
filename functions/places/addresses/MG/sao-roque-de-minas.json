@@ -1,0 +1,23 @@
+[
+    {
+        "city": "São Roque de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua XV de Novembro 03",
+        "zipcode": "37928-970"
+    },
+    {
+        "city": "São Roque de Minas",
+        "state": "MG",
+        "district": null,
+        "street": "Rua Minas Gerais 61",
+        "zipcode": "37928-990"
+    },
+    {
+        "city": "São Roque de Minas",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37928-000"
+    }
+]

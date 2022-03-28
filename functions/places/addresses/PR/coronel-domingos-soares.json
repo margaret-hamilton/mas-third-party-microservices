@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Coronel Domingos Soares",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Araucária s/n",
+        "zipcode": "85557-970"
+    },
+    {
+        "city": "Coronel Domingos Soares",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Araucária 3374",
+        "zipcode": "85557-971"
+    },
+    {
+        "city": "Coronel Domingos Soares",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Araucária",
+        "zipcode": "85557-990"
+    },
+    {
+        "city": "Coronel Domingos Soares",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85557-000"
+    }
+]

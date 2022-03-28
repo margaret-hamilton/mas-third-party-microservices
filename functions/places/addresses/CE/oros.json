@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Orós",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "63520-000"
+    },
+    {
+        "city": "Orós",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Francisco do Monte",
+        "zipcode": "63520-990"
+    },
+    {
+        "city": "Orós",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Matos Leite 121",
+        "zipcode": "63520-970"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Picada Café",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95166-000"
+    },
+    {
+        "city": "Picada Café",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Vicente Prietto",
+        "zipcode": "95175-970"
+    },
+    {
+        "city": "Picada Café",
+        "state": "RS",
+        "district": null,
+        "street": null,
+        "zipcode": "95175-000"
+    }
+]

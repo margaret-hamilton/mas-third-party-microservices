@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Jitaúna",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Lomanto Júnior 77",
+        "zipcode": "45225-970"
+    },
+    {
+        "city": "Jitaúna",
+        "state": "BA",
+        "district": null,
+        "street": "Lomanto Júnior",
+        "zipcode": "45225-990"
+    },
+    {
+        "city": "Jitaúna",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45225-000"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Itinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Marechal Rondon 360",
+        "zipcode": "39610-970"
+    },
+    {
+        "city": "Itinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Itinga 420",
+        "zipcode": "39610-972"
+    },
+    {
+        "city": "Itinga",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39610-000"
+    }
+]

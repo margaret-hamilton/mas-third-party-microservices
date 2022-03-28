@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Capela do Alto",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Jacob Alves 38",
+        "zipcode": "18195-970"
+    },
+    {
+        "city": "Capela do Alto",
+        "state": "SP",
+        "district": null,
+        "street": null,
+        "zipcode": "18195-000"
+    },
+    {
+        "city": "Capela do Alto",
+        "state": "SP",
+        "district": "Iperozinho",
+        "street": "Estrada Municipal Braz João Vieira 150",
+        "zipcode": "18195-972"
+    },
+    {
+        "city": "Capela do Alto",
+        "state": "SP",
+        "district": "",
+        "street": "Estrada Vicinal Darcy Mariano de Almeida",
+        "zipcode": "18195-992"
+    },
+    {
+        "city": "Capela do Alto",
+        "state": "SP",
+        "district": null,
+        "street": "Avenida Bom Jesus",
+        "zipcode": "18195-991"
+    },
+    {
+        "city": "Capela do Alto",
+        "state": "SP",
+        "district": "Porto",
+        "street": "Rua Lourenço Alves Cariel 88",
+        "zipcode": "18195-971"
+    }
+]

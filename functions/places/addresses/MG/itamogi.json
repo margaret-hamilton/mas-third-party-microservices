@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itamogi",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas 427",
+        "zipcode": "37955-970"
+    },
+    {
+        "city": "Itamogi",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37955-000"
+    },
+    {
+        "city": "Itamogi",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37973-000"
+    },
+    {
+        "city": "Itamogi",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas 427  AC Itamogi",
+        "zipcode": "37973-970"
+    }
+]

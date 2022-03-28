@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Careaçu",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Joaquim Lopes Siqueira 20",
+        "zipcode": "37556-970"
+    },
+    {
+        "city": "Careaçu",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37556-000"
+    },
+    {
+        "city": "Careaçu",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37582-000"
+    },
+    {
+        "city": "Careaçu",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Joaquim Lopes Siqueira",
+        "zipcode": "37582-970"
+    }
+]

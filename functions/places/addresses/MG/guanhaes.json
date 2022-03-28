@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Guanhães",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Governador Milton Campos 2675",
+        "zipcode": "39740-970"
+    },
+    {
+        "city": "Guanhães",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Afonso Gonçalves 230",
+        "zipcode": "39740-971"
+    },
+    {
+        "city": "Guanhães",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39740-000"
+    },
+    {
+        "city": "Guanhães",
+        "state": "MG",
+        "district": null,
+        "street": "Rua Pedro Ferreira",
+        "zipcode": "39740-991"
+    },
+    {
+        "city": "Guanhães",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Inês de Souza 77",
+        "zipcode": "39740-973"
+    }
+]

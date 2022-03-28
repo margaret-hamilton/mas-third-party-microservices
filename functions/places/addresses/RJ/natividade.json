@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Natividade",
+        "state": "RJ",
+        "district": null,
+        "street": "Posto de Atendimento Médico",
+        "zipcode": "28380-990"
+    },
+    {
+        "city": "Natividade",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Doutor Raul Travassos 9",
+        "zipcode": "28380-970"
+    },
+    {
+        "city": "Natividade",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28380-000"
+    },
+    {
+        "city": "Natividade",
+        "state": "RJ",
+        "district": null,
+        "street": "Praça João Barra Sobrinho",
+        "zipcode": "28380-991"
+    }
+]

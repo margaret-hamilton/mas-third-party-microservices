@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Santa Fé de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Rio de Janeiro 321",
+        "zipcode": "39295-970"
+    },
+    {
+        "city": "Santa Fé de Minas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39295-000"
+    }
+]

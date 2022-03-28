@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Custódia",
+        "state": "PE",
+        "district": "Maravilha",
+        "street": "Rua Manoel Leandro de Moraes s/n",
+        "zipcode": "56650-970"
+    },
+    {
+        "city": "Custódia",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Avenida Inocêncio de Lima s/n",
+        "zipcode": "56640-970"
+    },
+    {
+        "city": "Custódia",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Manoel Leandro de Moraes",
+        "zipcode": "56650-990"
+    },
+    {
+        "city": "Custódia",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56640-000"
+    },
+    {
+        "city": "Custódia",
+        "state": "PE",
+        "district": "Distrito Quitimbu",
+        "street": "Rua Jose Rodrigues de Almeida s/n",
+        "zipcode": "56660-970"
+    }
+]

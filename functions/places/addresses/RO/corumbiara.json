@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Corumbiara",
+        "state": "RO",
+        "district": "Centro",
+        "street": "Avenida Itália Franco 1808",
+        "zipcode": "76995-970"
+    },
+    {
+        "city": "Corumbiara",
+        "state": "RO",
+        "district": null,
+        "street": "Linha 4",
+        "zipcode": "76995-990"
+    },
+    {
+        "city": "Corumbiara",
+        "state": "RO",
+        "district": "",
+        "street": "",
+        "zipcode": "76995-000"
+    }
+]

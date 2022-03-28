@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Bonito de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida José Borges Monteiro 165",
+        "zipcode": "39490-973"
+    },
+    {
+        "city": "Bonito de Minas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39490-000"
+    }
+]

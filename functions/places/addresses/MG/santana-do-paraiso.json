@@ -1,0 +1,107 @@
+[
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": null,
+        "street": "Avenida Principal",
+        "zipcode": "35179-990"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Ipaba de Paraíso",
+        "street": "Rua Ângelo Romão",
+        "zipcode": "35179-973"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Doutor Getúlio Vargas",
+        "zipcode": "35179-976"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Doutor Getúlio Vargas",
+        "zipcode": "35179-977"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Avenida Lafaiete Lopes 172",
+        "zipcode": "35167-974"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Doutor Getúlio Vargas 197",
+        "zipcode": "35167-976"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Avenida Um s/n",
+        "zipcode": "35167-970"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Doutor Getúlio Vargas 197",
+        "zipcode": "35167-977"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35167-000"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Avenida Lafaiete Lopes",
+        "zipcode": "35179-974"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35179-000"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Avenida Um",
+        "zipcode": "35179-970"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Avenida Vitor Gaggiato",
+        "zipcode": "35179-972"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Avenida Vitor Gaggiato s/n",
+        "zipcode": "35167-972"
+    },
+    {
+        "city": "Santana do Paraíso",
+        "state": "MG",
+        "district": "Ipaba de Paraíso",
+        "street": "Rua Ângelo Romão 64",
+        "zipcode": "35167-973"
+    }
+]

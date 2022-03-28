@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Ibiapina",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua João Sabino s/n",
+        "zipcode": "62360-970"
+    },
+    {
+        "city": "Ibiapina",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62360-000"
+    },
+    {
+        "city": "Ibiapina",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Vila Betânia",
+        "zipcode": "62360-991"
+    },
+    {
+        "city": "Ibiapina",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Benjamin Central",
+        "zipcode": "62360-990"
+    },
+    {
+        "city": "Ibiapina",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62363-990"
+    }
+]

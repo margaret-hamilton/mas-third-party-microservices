@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Ribeirão",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55520-000"
+    },
+    {
+        "city": "Ribeirão",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Silva Jardim 57",
+        "zipcode": "55520-970"
+    },
+    {
+        "city": "Ribeirão",
+        "state": "PE",
+        "district": "Vila José Mariano",
+        "street": "Rua do Cinema s/n",
+        "zipcode": "55522-970"
+    },
+    {
+        "city": "Ribeirão",
+        "state": "PE",
+        "district": "Vila Aripibu",
+        "street": "Vila Aripibu s/n",
+        "zipcode": "55524-970"
+    },
+    {
+        "city": "Ribeirão",
+        "state": "PE",
+        "district": null,
+        "street": "3ª Travessa da Rua A nº 33",
+        "zipcode": "55520-990"
+    }
+]

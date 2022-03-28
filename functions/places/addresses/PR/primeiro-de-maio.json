@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Primeiro de Maio",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Nove 768",
+        "zipcode": "86140-970"
+    },
+    {
+        "city": "Primeiro de Maio",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Guairacá",
+        "zipcode": "86143-970"
+    },
+    {
+        "city": "Primeiro de Maio",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Guaraca",
+        "zipcode": "86143-990"
+    },
+    {
+        "city": "Primeiro de Maio",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Mahatma Gandhi",
+        "zipcode": "86142-990"
+    },
+    {
+        "city": "Primeiro de Maio",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86140-000"
+    }
+]

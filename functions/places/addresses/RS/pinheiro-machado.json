@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pinheiro Machado",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "96470-000"
+    },
+    {
+        "city": "Pinheiro Machado",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "96470-970"
+    },
+    {
+        "city": "Pinheiro Machado",
+        "state": "RS",
+        "district": "Vila Umbu",
+        "street": "Rodovia BR 293 s/n",
+        "zipcode": "96470-972"
+    },
+    {
+        "city": "Pinheiro Machado",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Osmar Correa da Silva",
+        "zipcode": "96470-990"
+    }
+]

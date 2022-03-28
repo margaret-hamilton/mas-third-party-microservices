@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Alagoinha",
+        "state": "PE",
+        "district": "Perpétuo Socorro",
+        "street": "Praça Zacarias Virgínio s/n",
+        "zipcode": "55265-970"
+    },
+    {
+        "city": "Alagoinha",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Manoel Canuto Torres Galindo 35",
+        "zipcode": "55260-970"
+    },
+    {
+        "city": "Alagoinha",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55260-000"
+    },
+    {
+        "city": "Alagoinha",
+        "state": "PE",
+        "district": null,
+        "street": "Praça Zacarias Virgínio",
+        "zipcode": "55265-990"
+    }
+]

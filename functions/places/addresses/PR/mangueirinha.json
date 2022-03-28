@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Mangueirinha",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Principal",
+        "zipcode": "85540-971"
+    },
+    {
+        "city": "Mangueirinha",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85540-000"
+    },
+    {
+        "city": "Mangueirinha",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua José Burigo",
+        "zipcode": "85540-970"
+    },
+    {
+        "city": "Mangueirinha",
+        "state": "PR",
+        "district": null,
+        "street": "Rodovia PR",
+        "zipcode": "85540-990"
+    },
+    {
+        "city": "Mangueirinha",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "85540-973"
+    },
+    {
+        "city": "Mangueirinha",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "85540-972"
+    }
+]

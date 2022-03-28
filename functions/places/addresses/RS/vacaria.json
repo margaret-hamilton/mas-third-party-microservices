@@ -1,0 +1,7177 @@
+[
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "",
+        "zipcode": "95229-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Fazenda da Estrela",
+        "street": "",
+        "zipcode": "95227-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rodovia BR 116 8332",
+        "zipcode": "95200-972"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95200-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Farroupilha 393  CDD Vacaria",
+        "zipcode": "95200-971"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Avenida Doutor José Loureiro da Silva",
+        "zipcode": "95214-065"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Avenida Antônio Ribeiro Branco",
+        "zipcode": "95204-300"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Avenida Dom Frei Cândido Maria Bampi",
+        "zipcode": "95206-364"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Avenida Dom Frei Cândido Maria Bampi",
+        "zipcode": "95207-188"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Avenida Lourenço Paganella",
+        "zipcode": "95216-355"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Avenida Militar",
+        "zipcode": "95214-086"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Avenida Militar",
+        "zipcode": "95214-590"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Diamantina",
+        "street": "Avenida Militar",
+        "zipcode": "95214-690"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Avenida Dom Frei Cândido Maria Bampi",
+        "zipcode": "95208-102"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Avenida Militar",
+        "zipcode": "95211-056"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Avenida Antônio Ribeiro Branco",
+        "zipcode": "95201-156"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Avenida Luiz Jacinto Teixeira Schuller",
+        "zipcode": "95206-250"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Avenida Franciosi",
+        "zipcode": "95201-147"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Avenida das Nações",
+        "zipcode": "95210-298"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Avenida Moreira Paz",
+        "zipcode": "95208-290"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Avenida Samuel Guazzelli",
+        "zipcode": "95210-234"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Avenida Moreira Paz",
+        "zipcode": "95208-448"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Avenida Lalau Ferreira",
+        "zipcode": "95204-380"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Avenida Luiz Jacinto Teixeira Schuller",
+        "zipcode": "95206-230"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95207-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Avenida Militar",
+        "zipcode": "95216-014"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Avenida Luiz Jacinto Teixeira Schuller",
+        "zipcode": "95206-018"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95210-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Avenida Antônio Ribeiro Branco",
+        "zipcode": "95201-072"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Avenida Glorocinto da Fonseca Barcellos",
+        "zipcode": "95206-324"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Avenida Doutor José Loureiro da Silva",
+        "zipcode": "95214-092"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Avenida Luiz Baggio",
+        "zipcode": "95204-310"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Avenida Militar",
+        "zipcode": "95216-228"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Avenida Militar",
+        "zipcode": "95214-356"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Avenida Samuel Guazzelli",
+        "zipcode": "95211-212"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Avenida Dom Frei Cândido Maria Bampi",
+        "zipcode": "95208-076"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Avenida Samuel Guazzelli",
+        "zipcode": "95208-406"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95208-050"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Avenida Militar",
+        "zipcode": "95201-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Alberto Oliboni",
+        "zipcode": "95214-602"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Moreira Paz",
+        "zipcode": "95200-016"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Alcedino Vargas Hoffmann",
+        "zipcode": "95207-104"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Ana Maria Terra Camargo",
+        "zipcode": "95200-456"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Estrada do Marmeleiro",
+        "zipcode": "95214-350"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Avenida Samuel Guazzelli",
+        "zipcode": "95211-164"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Amandio Teixeira Borges",
+        "zipcode": "95208-442"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Beco Mario Teixeira Borges",
+        "zipcode": "95208-330"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chico Mendes",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95204-200"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Avenida Moreira Paz",
+        "zipcode": "95208-080"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95208-324"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Amabile Carolina Varaschin Garbin",
+        "zipcode": "95211-464"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Avenida Moreira Paz",
+        "zipcode": "95208-211"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95210-216"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Adão Kuzer de Aguiar",
+        "zipcode": "95210-210"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua da Abolição",
+        "zipcode": "95208-153"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Adroaldo da Luz Amarante",
+        "zipcode": "95201-212"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Alfredo de Medeiros Branco",
+        "zipcode": "95206-343"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Passo da Porteira",
+        "street": "Rodovia BR",
+        "zipcode": "95205-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Albio Antonio Nery Duarte",
+        "zipcode": "95211-474"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua Amazonas",
+        "zipcode": "95206-002"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua Amandio Teixeira Borges",
+        "zipcode": "95208-199"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95210-250"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Avenida Samuel Guazzelli",
+        "zipcode": "95208-250"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Estrada José Fernandes de Andrade",
+        "zipcode": "95211-460"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Afonso Lovato",
+        "zipcode": "95207-180"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Alfredo Borges dos Santos",
+        "zipcode": "95210-115"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Avenida Moreira Paz",
+        "zipcode": "95208-100"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95208-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Ana Bolena",
+        "zipcode": "95200-562"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Avenida Samuel Guazzelli",
+        "zipcode": "95210-509"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95206-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Angelo Bastos",
+        "zipcode": "95216-124"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Antonio Broglio",
+        "zipcode": "95216-121"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua Anchieta",
+        "zipcode": "95208-014"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Borges de Medeiros",
+        "zipcode": "95216-032"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Antônio Hermani",
+        "zipcode": "95207-004"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Belarmino Moreira",
+        "zipcode": "95214-594"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Bento Gonçalves",
+        "zipcode": "95200-492"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Albino Chissini",
+        "zipcode": "95201-463"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Estrada do Marmeleiro",
+        "zipcode": "95214-410"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Archimino Ramos Farias",
+        "zipcode": "95214-244"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Antônio Dalle Mulle",
+        "zipcode": "95216-319"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ana Eda Branco",
+        "zipcode": "95200-121"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Alcino Dorigatti",
+        "zipcode": "95207-366"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Bahia",
+        "zipcode": "95201-044"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Barão do Triunfo",
+        "zipcode": "95200-480"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Bento Gonçalves",
+        "zipcode": "95200-390"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Assis Brasil",
+        "zipcode": "95211-146"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Bernardina Padilha",
+        "zipcode": "95204-081"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Anita Garibaldi",
+        "zipcode": "95208-380"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Abílio Pandolfo",
+        "zipcode": "95216-084"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Largo Doutor Euri Boamar",
+        "zipcode": "95208-078"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Camilo Ferreira da Silva",
+        "zipcode": "95211-002"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua Angelo Longo",
+        "zipcode": "95206-010"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Arcelino Alves da Silva",
+        "zipcode": "95211-053"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Avenida Siqueira Campos Imperial",
+        "zipcode": "95200-501"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Argelino Mota",
+        "zipcode": "95204-072"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Antônio da Silva Alves",
+        "zipcode": "95217-310"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Benta Batalha",
+        "zipcode": "95217-283"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Brudenburgo",
+        "zipcode": "95201-028"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Antônio Velho",
+        "zipcode": "95200-166"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua Antonia Teixeira Borges",
+        "zipcode": "95208-156"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Campos Sales",
+        "zipcode": "95214-089"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Arnaldo Pereira Bueno",
+        "zipcode": "95211-319"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Caetano Moterle",
+        "zipcode": "95217-110"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Anúncio Frozi",
+        "zipcode": "95204-450"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Assis Brasil",
+        "zipcode": "95210-068"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Belém",
+        "zipcode": "95200-513"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Borges de Medeiros",
+        "zipcode": "95200-970"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "95200-510"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Benjamin Franklin",
+        "zipcode": "95204-129"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Brigada Militar",
+        "zipcode": "95217-259"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Arnaldo Pereira Bueno",
+        "zipcode": "95211-358"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Benicio de Moraes Borges",
+        "zipcode": "95214-038"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Antônio Franciosi",
+        "zipcode": "95214-450"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Bom Jesus",
+        "zipcode": "95210-206"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "95200-160"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Antônio Prado",
+        "zipcode": "95217-222"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Belarmino Alves de Oliveira",
+        "zipcode": "95204-066"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Cruz",
+        "street": "Rua Camargo",
+        "zipcode": "95217-435"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Assis Brasil",
+        "zipcode": "95210-133"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Assis Brasil",
+        "zipcode": "95211-143"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Borges de Medeiros",
+        "zipcode": "95201-135"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Avelino Paim Filho",
+        "zipcode": "95208-066"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Antônio Velho",
+        "zipcode": "95200-418"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Bom Jesus",
+        "zipcode": "95210-106"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Campos Sales",
+        "zipcode": "95216-115"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Bom Jesus",
+        "zipcode": "95210-156"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Brudenburgo",
+        "zipcode": "95210-004"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Antônia Boeira",
+        "zipcode": "95214-290"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Benjamin Constant",
+        "zipcode": "95217-039"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua Antônio Hermani",
+        "zipcode": "95208-004"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Augusto José Seixas",
+        "zipcode": "95206-314"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Antônio Feijó",
+        "zipcode": "95207-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Antônio Boamar",
+        "zipcode": "95206-224"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Arcelino Alves da Silva",
+        "zipcode": "95211-028"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Borges de Medeiros",
+        "zipcode": "95214-083"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Camilo Marcantonio",
+        "zipcode": "95207-176"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Clair João Rizzon",
+        "zipcode": "95207-030"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Conde de Porto Alegre",
+        "zipcode": "95200-350"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Carlos Maximo Golin Paim",
+        "zipcode": "95211-322"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Carlos Schuller",
+        "zipcode": "95217-292"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Avelino Paim",
+        "zipcode": "95200-010"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Chico Xavier",
+        "zipcode": "95200-304"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Coronel Emilio Carneiro Borges Mauá",
+        "zipcode": "95214-280"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Coronel Cunda Paim",
+        "zipcode": "95214-596"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Carlos Lacerda",
+        "zipcode": "95214-035"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua Carlos Barbosa",
+        "zipcode": "95208-190"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Claudino Tomazin",
+        "zipcode": "95207-056"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-354"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Cecilio José de Moraes",
+        "zipcode": "95210-418"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Carlinhos Andrighetti",
+        "zipcode": "95207-058"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Coronel Iqueno Paim",
+        "zipcode": "95214-592"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Coronel Avelino Paim",
+        "zipcode": "95201-004"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Coronel Bordini",
+        "zipcode": "95200-486"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Clementino de Barros Wanderley",
+        "zipcode": "95210-542"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Capitão Rivadavia Danesi",
+        "zipcode": "95214-170"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Conde de Porto Alegre",
+        "zipcode": "95200-334"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Cassiano Ricardo",
+        "zipcode": "95214-044"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Ceará",
+        "zipcode": "95211-268"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Clementino de Barros Wanderley",
+        "zipcode": "95211-286"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Castro Alves",
+        "zipcode": "95200-082"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-083"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "95217-304"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Conde de Porto Alegre",
+        "zipcode": "95200-187"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Ceará",
+        "zipcode": "95211-224"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Carlos Barbosa",
+        "zipcode": "95208-118"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-194"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Cláudio Bof",
+        "zipcode": "95214-310"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Campos Sales",
+        "zipcode": "95200-434"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-210"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Carmuzino de Araujo",
+        "zipcode": "95214-032"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Avelino Paim",
+        "zipcode": "95200-046"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua Coronel Virgilio Rodrigues",
+        "zipcode": "95208-006"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Casemiro Farioli Pinotti",
+        "zipcode": "95207-038"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Capelli",
+        "zipcode": "95210-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Campos Sales",
+        "zipcode": "95200-148"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "95216-082"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Coronel Juca Máximo",
+        "zipcode": "95214-600"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-304"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Campos Sales",
+        "zipcode": "95216-040"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Carolina Lovato",
+        "zipcode": "95216-346"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-277"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-307"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-356"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Claudino Minuzzo dos Santos",
+        "zipcode": "95214-402"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Carlos Chagas",
+        "zipcode": "95204-087"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Darci Pilatti Bertuol",
+        "zipcode": "95204-490"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Dejalme Borges Vieira",
+        "zipcode": "95208-386"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Decio Martins Costa",
+        "zipcode": "95214-029"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Doutor Raul Adami",
+        "zipcode": "95214-166"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Dulce de Brito",
+        "zipcode": "95217-268"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "95216-034"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "95200-495"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Dorival Vargas",
+        "zipcode": "95210-427"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Dona Leopoldina",
+        "zipcode": "95210-020"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Doutor Marcos Stédile",
+        "zipcode": "95200-483"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Cristalino Xavier de Campos",
+        "zipcode": "95217-289"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Dona Rosa",
+        "zipcode": "95200-106"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "95200-184"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Dona Laura",
+        "zipcode": "95200-025"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Doutor Elias Saadi",
+        "zipcode": "95200-362"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "95214-026"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua Doutor Luiz Alves de Lima",
+        "zipcode": "95208-298"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Coronel Severiano Borges Pereira",
+        "zipcode": "95208-056"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "95201-224"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Deolindo Melo",
+        "zipcode": "95207-286"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Duca Mancio",
+        "zipcode": "95207-301"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Passo da Porteira",
+        "street": "Rua da Produção",
+        "zipcode": "95205-021"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Dona Haidée",
+        "zipcode": "95214-521"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua das Nações Barcelos",
+        "zipcode": "95206-316"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua Doutor Leonardo Bróglio Garbin",
+        "zipcode": "95208-202"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Demoncel Lourenço Duarte",
+        "zipcode": "95208-412"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Doutor Leonardo Bróglio Garbin",
+        "zipcode": "95208-114"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Doutor Osvaldo Aranha",
+        "zipcode": "95201-008"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Doze Artilheiros",
+        "zipcode": "95210-515"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua Dorvalino Santos",
+        "zipcode": "95206-016"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "95200-498"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Deputado Brito Velho",
+        "zipcode": "95206-326"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Doutor Pestana",
+        "zipcode": "95204-099"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Dinarte Ribeiro Netto",
+        "zipcode": "95216-142"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua E (Lot Sta Marta)",
+        "zipcode": "95216-343"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Doutor Luís Antônio dos Santos Vieira",
+        "zipcode": "95204-132"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Rua Dom Henrique Gelain",
+        "zipcode": "95214-362"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Doze Artilheiros",
+        "zipcode": "95211-161"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "95204-096"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Dorival Vargas",
+        "zipcode": "95210-316"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Eça de Queiróz",
+        "zipcode": "95216-078"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Doutor Taufick Saadi",
+        "zipcode": "95201-218"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Doutor Rubens José Vescovi",
+        "zipcode": "95208-122"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Doutor Mário Vieira da Costa Filho",
+        "zipcode": "95210-304"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Doutor Elias Chedid",
+        "zipcode": "95204-560"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Doutor Atilio Giuriolo",
+        "zipcode": "95200-097"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Doutor Leonildo Tieppo",
+        "zipcode": "95210-310"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Doutor Osvaldo Pereira dos Santos",
+        "zipcode": "95208-110"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Dorvalino Santos",
+        "zipcode": "95206-215"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Doutor Atílio Borges de Almeida",
+        "zipcode": "95214-246"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Dante Mondadori",
+        "zipcode": "95207-280"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Doutor Flores",
+        "zipcode": "95200-103"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Doutor Emeri Lopes de Andrade",
+        "zipcode": "95207-369"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Doze Artilheiros",
+        "zipcode": "95210-200"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Dionisio Frozi",
+        "zipcode": "95211-533"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Doutor Armando Boeira Guedes",
+        "zipcode": "95206-312"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Dinarte da Silva Boeira",
+        "zipcode": "95211-472"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Doze Artilheiros",
+        "zipcode": "95210-176"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Doutor Assis Andrade Boeira",
+        "zipcode": "95201-236"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Egidio Carneiro Lobo",
+        "zipcode": "95208-060"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Etelvino Varaschin",
+        "zipcode": "95217-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Fernando Laporta Anello",
+        "zipcode": "95208-384"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Eloi Scharamel",
+        "zipcode": "95216-334"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Eurico Caruso",
+        "zipcode": "95204-075"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Felipe Silveira dos Santos",
+        "zipcode": "95200-402"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua Francisco Guerra",
+        "zipcode": "95208-016"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Francisco Rigon",
+        "zipcode": "95207-060"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "95200-519"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Estrela",
+        "zipcode": "95217-232"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Ernesto Gobetti",
+        "zipcode": "95214-404"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Etelvino Borges",
+        "zipcode": "95200-459"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Esopo",
+        "zipcode": "95206-203"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Esmeralda",
+        "zipcode": "95210-048"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Emílio Teixeira Borges",
+        "zipcode": "95211-376"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Feliciano Moraes da Silva",
+        "zipcode": "95204-759"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Euclides Lacerda Vieira",
+        "zipcode": "95216-068"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Flávio Forest",
+        "zipcode": "95207-292"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Euclides Lacerda Vieira",
+        "zipcode": "95217-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Francisco Carreno",
+        "zipcode": "95200-550"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Francisco Conrado",
+        "zipcode": "95204-771"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Fermino Borges",
+        "zipcode": "95216-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Firmino Baldi da Silva",
+        "zipcode": "95206-218"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Francelino Bortolon",
+        "zipcode": "95207-218"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Eliziário Fernandes de Moraes",
+        "zipcode": "95206-310"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Flavio Muricy",
+        "zipcode": "95207-046"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Fermino Camargo Branco",
+        "zipcode": "95201-200"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Firmino João Varaschin",
+        "zipcode": "95208-382"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Fernando Ferrari",
+        "zipcode": "95208-058"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Farrapos",
+        "zipcode": "95217-042"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua Esopo",
+        "zipcode": "95206-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Farroupilha",
+        "zipcode": "95210-970"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "95200-322"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Fidelcino Zanotto de Lemos",
+        "zipcode": "95214-598"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Fábio de Souza Duarte",
+        "zipcode": "95208-390"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Francisco Guerreiro",
+        "zipcode": "95200-531"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Fausto Viterbo",
+        "zipcode": "95216-109"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Firmino Olivério da Silva",
+        "zipcode": "95217-301"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Eugênio Adami",
+        "zipcode": "95206-209"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Fermino Camargo Branco",
+        "zipcode": "95201-174"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Estrela",
+        "zipcode": "95217-250"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Francisco Borges Vieira",
+        "zipcode": "95200-022"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Fermino Camargo Branco",
+        "zipcode": "95200-450"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Farroupilha",
+        "zipcode": "95210-112"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Flamino Moreira",
+        "zipcode": "95211-065"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Filisbino Carneiro",
+        "zipcode": "95216-127"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Fabrício Telles de Farias",
+        "zipcode": "95216-038"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Fernando de Noronha",
+        "zipcode": "95217-218"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Felipe dos Santos",
+        "zipcode": "95200-326"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Francelino Bortolon",
+        "zipcode": "95208-126"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Passo da Porteira",
+        "street": "Rua Floresta",
+        "zipcode": "95205-018"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Francelino Carneiro",
+        "zipcode": "95216-222"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Francisco Bueno de Camargo",
+        "zipcode": "95207-028"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Farroupilha",
+        "zipcode": "95211-074"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Felipe dos Santos",
+        "zipcode": "95201-466"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Rua Ernesto Gobetti",
+        "zipcode": "95214-360"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Francisco Borges Vieira",
+        "zipcode": "95201-024"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Getulio Techoepke e Silva",
+        "zipcode": "95208-398"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Germano Luiz Pereira",
+        "zipcode": "95217-021"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Gevaldino Ferreira",
+        "zipcode": "95214-150"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Ipê",
+        "zipcode": "95210-214"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Ipê",
+        "zipcode": "95210-121"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Herminio Tessaro",
+        "zipcode": "95204-063"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Henrique Mario Campetti",
+        "zipcode": "95211-310"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Ieda Rech",
+        "zipcode": "95214-471"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Glamir José Bertuzzi",
+        "zipcode": "95204-555"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Glorocinto Moraes Filho",
+        "zipcode": "95214-071"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Ipê",
+        "zipcode": "95211-086"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Hortêncio Chaves de Oliveira",
+        "zipcode": "95214-242"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Gama",
+        "zipcode": "95217-024"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Francisco Vicenzi",
+        "zipcode": "95214-300"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General Lima",
+        "zipcode": "95200-115"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua General Osório",
+        "zipcode": "95200-414"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Idelfonso de Araujo Martins",
+        "zipcode": "95216-006"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Gama",
+        "zipcode": "95216-316"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Gilberto Grazziottin",
+        "zipcode": "95206-221"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Ipê",
+        "zipcode": "95211-089"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Idalecio Martins",
+        "zipcode": "95210-421"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Gervasio Martins Borges",
+        "zipcode": "95214-512"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General Osório",
+        "zipcode": "95200-172"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Guaporé",
+        "zipcode": "95214-503"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Hermani Zanotto",
+        "zipcode": "95211-280"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Hermani Parizotto",
+        "zipcode": "95210-292"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Frei Candido",
+        "zipcode": "95216-024"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Gotemar Fortunato Monteiro",
+        "zipcode": "95217-006"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua General Paim Filho",
+        "zipcode": "95207-002"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Irmã Delma Gotardo",
+        "zipcode": "95200-118"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Holanda",
+        "zipcode": "95217-190"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Gotemar Fortunato Monteiro",
+        "zipcode": "95216-325"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Independência",
+        "zipcode": "95210-220"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Independência",
+        "zipcode": "95210-166"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua Getúlio Vargas Bairro Borges",
+        "zipcode": "95208-208"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Gianeto Rossi",
+        "zipcode": "95216-130"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Cruz",
+        "street": "Rua Henrique Fernandes dos Reis",
+        "zipcode": "95217-420"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Inacio Ribeiro",
+        "zipcode": "95210-424"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua Furton",
+        "zipcode": "95206-004"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Frei Melchior",
+        "zipcode": "95200-465"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Gonçalves Dias",
+        "zipcode": "95200-525"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Gonçalves Viana",
+        "zipcode": "95214-056"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Ipê",
+        "zipcode": "95211-006"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Goethe",
+        "zipcode": "95208-054"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Hindenburg Brasil Cabral",
+        "zipcode": "95216-210"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Independência",
+        "zipcode": "95210-124"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Inacia Vieira",
+        "zipcode": "95200-019"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua Humberto Ferruccio Campetti",
+        "zipcode": "95208-326"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Honório Soares da Luz",
+        "zipcode": "95216-349"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Gomes Jardim",
+        "zipcode": "95204-135"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Hermani Zanotto",
+        "zipcode": "95210-539"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Guaíba",
+        "zipcode": "95217-220"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Inacia Vieira",
+        "zipcode": "95201-016"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Irene Alves",
+        "zipcode": "95214-610"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Hermeto Atti",
+        "zipcode": "95201-168"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Frei Lauro",
+        "zipcode": "95207-221"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua José Paim Martins",
+        "zipcode": "95211-259"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Ismael dos Santos Duarte",
+        "zipcode": "95208-408"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua José de Alencar",
+        "zipcode": "95206-008"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua João Rech",
+        "zipcode": "95211-026"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-107"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua João Rech",
+        "zipcode": "95211-092"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua Joana Darc",
+        "zipcode": "95206-006"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua João Setembrino Vieira",
+        "zipcode": "95207-172"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua José Bonifácio",
+        "zipcode": "95200-169"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua João Jorge Chedid",
+        "zipcode": "95211-292"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Rua José Morais Borges",
+        "zipcode": "95214-358"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95201-076"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua João Moreira Boeno",
+        "zipcode": "95204-500"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua José Fernandes da Cunha",
+        "zipcode": "95200-422"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Irmão Miguel De Sanctis",
+        "zipcode": "95201-036"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Julio Azevedo",
+        "zipcode": "95217-216"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua José Jacinto",
+        "zipcode": "95201-165"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Diamantina",
+        "street": "Rua José Camargo Batalha",
+        "zipcode": "95214-710"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-214"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua José Schio Neto",
+        "zipcode": "95208-328"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-016"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95200-040"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Irmã Rosa Zampieri",
+        "zipcode": "95214-468"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Ivo Fernandes",
+        "zipcode": "95207-360"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua José Manozzo",
+        "zipcode": "95204-060"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua José Arlan Correa Oliboni",
+        "zipcode": "95208-446"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Jovino Alves Paim Santana",
+        "zipcode": "95207-363"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua João Rodrigues de Abreu",
+        "zipcode": "95211-125"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Joaquim Caeron",
+        "zipcode": "95208-070"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-216"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Jardelino C Argioni",
+        "zipcode": "95201-162"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Joaquim Caeron",
+        "zipcode": "95207-044"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua James Watt",
+        "zipcode": "95214-077"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Itararé",
+        "zipcode": "95211-020"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Ivo Paganella",
+        "zipcode": "95207-064"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua João Borges Vieira",
+        "zipcode": "95208-193"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Irmã Maria Cecilia Biasi",
+        "zipcode": "95214-474"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua José dos Santos Camargo",
+        "zipcode": "95208-400"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Jardelino Ferreira da Silva",
+        "zipcode": "95200-406"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-110"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95200-094"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua José Mendes",
+        "zipcode": "95214-074"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Itararé",
+        "zipcode": "95211-101"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua José Sérgio Testolin",
+        "zipcode": "95210-212"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "95207-106"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua João Borges Pinto",
+        "zipcode": "95200-013"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua João Nunes",
+        "zipcode": "95207-372"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua José Wilmar Wolker",
+        "zipcode": "95217-277"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua João Octavio Ferreira",
+        "zipcode": "95211-301"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-256"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Joaquim Teixeira Borges",
+        "zipcode": "95201-032"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua João Francisco Bonella",
+        "zipcode": "95207-289"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "95208-064"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua João Maria de Souza",
+        "zipcode": "95208-440"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Irmão Jair Ficher Almeida",
+        "zipcode": "95211-640"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Laurindo Soldatelli",
+        "zipcode": "95204-390"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Luiz Basso",
+        "zipcode": "95217-214"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Luiz Gualdi",
+        "zipcode": "95211-050"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Luiz Ferreira da Silva",
+        "zipcode": "95216-036"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Líbera Granetto Bressan",
+        "zipcode": "95204-102"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Luiz Girotto",
+        "zipcode": "95211-470"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Líbera Granetto Bressan",
+        "zipcode": "95206-050"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Luiz Gonzaga da Graça Bastos",
+        "zipcode": "95207-026"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua Mansueto Bernardi",
+        "zipcode": "95206-014"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Marcelino da Motta Accioly",
+        "zipcode": "95208-416"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Manoel Claro de Lima",
+        "zipcode": "95210-409"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Manoel de Brito",
+        "zipcode": "95211-071"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Leni Della Giustina Guazzelli",
+        "zipcode": "95211-539"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Luiz Facciolli",
+        "zipcode": "95211-430"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Leda Zago",
+        "zipcode": "95207-114"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Manoel de Brito",
+        "zipcode": "95210-109"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Luiz Gualdi",
+        "zipcode": "95211-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Manoel Alves",
+        "zipcode": "95214-608"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Libório Rodrigues",
+        "zipcode": "95200-124"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Luciano Boeira da Rosa",
+        "zipcode": "95214-248"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Juvenal Alves Peixoto",
+        "zipcode": "95208-124"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóca",
+        "street": "Rua Líbera Granetto Bressan",
+        "zipcode": "95206-020"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-435"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Rua Júlio Rosa Cruz",
+        "zipcode": "95200-262"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Luiz Biglia",
+        "zipcode": "95211-462"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Maranhão",
+        "zipcode": "95211-226"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Rua Juvenal Oliveira e Silva",
+        "zipcode": "95214-352"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Laurindo Ribeiro Mello",
+        "zipcode": "95210-406"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Líbera Granetto Bressan",
+        "zipcode": "95206-200"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua Manoel Borges Vieira",
+        "zipcode": "95208-150"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Luiz Dengo",
+        "zipcode": "95207-036"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Major Alípio Porto",
+        "zipcode": "95214-453"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chico Mendes",
+        "street": "Rua Líbera Granetto Bressan",
+        "zipcode": "95204-250"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Luiz Marzola",
+        "zipcode": "95207-283"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Manoel Borges Vieira",
+        "zipcode": "95208-128"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Luiz Benedete",
+        "zipcode": "95207-112"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Luiz Rigotti",
+        "zipcode": "95211-372"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Jussara Vieira Pagno",
+        "zipcode": "95207-016"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Lidovino José Grazziotin",
+        "zipcode": "95206-355"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Luiz Rossoni",
+        "zipcode": "95200-076"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Luiz Camargo",
+        "zipcode": "95208-396"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Marcelino Antonio Capelesso",
+        "zipcode": "95210-306"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Luiz Cunha",
+        "zipcode": "95207-182"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Marcelo Pontel",
+        "zipcode": "95208-072"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Marco Aurélio",
+        "zipcode": "95211-218"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Juvenal Alves Peixoto",
+        "zipcode": "95207-203"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Lidio Fileto de Oliveira",
+        "zipcode": "95216-112"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Manoel de Brito",
+        "zipcode": "95210-032"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Manoel Silveira da Rosa",
+        "zipcode": "95214-050"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Lindolfo José Borges",
+        "zipcode": "95208-106"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chico Mendes",
+        "street": "Rua Laurindo Soldatelli",
+        "zipcode": "95204-270"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Juvenal Ivo Granetto",
+        "zipcode": "95204-505"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Marco Aurélio",
+        "zipcode": "95211-191"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Jurumy Azambuja Santos",
+        "zipcode": "95211-059"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Luiz Marcantônio",
+        "zipcode": "95201-020"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "95216-118"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Marie Ampere",
+        "zipcode": "95207-052"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Natal",
+        "zipcode": "95216-066"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Oni Ferreira da Paixão",
+        "zipcode": "95216-340"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Nair Kramer Borges",
+        "zipcode": "95208-414"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Mendo Campos dos Santos",
+        "zipcode": "95204-120"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "95210-226"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Osório Rodrigues da Silva",
+        "zipcode": "95217-274"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Messias Boeira",
+        "zipcode": "95211-250"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Messias Boeira",
+        "zipcode": "95211-232"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "95206-320"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Miguel Chedid Filho",
+        "zipcode": "95211-182"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Noel Rosa",
+        "zipcode": "95217-066"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Maurilio Zanotto",
+        "zipcode": "95214-158"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "95200-037"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Passo da Porteira",
+        "street": "Rua Mirage",
+        "zipcode": "95205-006"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "95206-349"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Newton",
+        "zipcode": "95211-022"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Osvaldo Constanzi",
+        "zipcode": "95217-033"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Nabor Moura de Azevedo",
+        "zipcode": "95200-516"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Martim Luther King",
+        "zipcode": "95211-222"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Newton",
+        "zipcode": "95211-116"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Natal",
+        "zipcode": "95217-060"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Osmar Paim Terra",
+        "zipcode": "95216-136"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Diamantina",
+        "street": "Rua Moisés Alem Chedid",
+        "zipcode": "95214-730"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Nova Vacaria",
+        "zipcode": "95211-325"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Olívio Rossi",
+        "zipcode": "95200-556"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Nilo Peçanha",
+        "zipcode": "95211-283"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Maria Leni Telles de Paula",
+        "zipcode": "95201-129"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Oscar Antunes de Oliveira",
+        "zipcode": "95211-630"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Onésimo Sebben Padilha",
+        "zipcode": "95201-040"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Maria Gonçalves de Oliveira",
+        "zipcode": "95210-400"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Modesto Manozzo",
+        "zipcode": "95214-606"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Marechal Rondon",
+        "zipcode": "95217-018"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Maringá",
+        "zipcode": "95210-222"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Natal",
+        "zipcode": "95217-057"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Maria Carluy Kramer Borges",
+        "zipcode": "95201-138"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Mario Teixeira Borges",
+        "zipcode": "95208-392"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Nilo Peçanha",
+        "zipcode": "95210-118"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "95216-100"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Rua Nauro Edir Ramos",
+        "zipcode": "95200-256"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Mato Grosso do Sul",
+        "zipcode": "95206-322"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Os Independentes Grupo de Barretos SP",
+        "zipcode": "95201-209"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Martim Luther King",
+        "zipcode": "95210-500"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Marechal Humberto Castelo Branco",
+        "zipcode": "95200-571"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua Nércio Farioli",
+        "zipcode": "95208-320"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "95200-079"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Olívio Rossi",
+        "zipcode": "95201-478"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Marechal Eurico Gaspar Dutra",
+        "zipcode": "95211-113"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Nilo Peçanha",
+        "zipcode": "95211-137"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "95210-040"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Monte Castelo",
+        "zipcode": "95204-093"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Nova Vacaria",
+        "zipcode": "95211-352"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Nélcio Ferreira dos Reis",
+        "zipcode": "95211-122"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Martim Luther King",
+        "zipcode": "95210-296"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Newton",
+        "zipcode": "95211-220"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Presidente Kennedy",
+        "zipcode": "95216-062"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Patricio Alves de Souza",
+        "zipcode": "95207-307"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Petrópolis",
+        "zipcode": "95211-077"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Plutarco",
+        "zipcode": "95204-126"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Pelotas",
+        "zipcode": "95217-224"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "95201-123"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Primeiro de Maio Cristal",
+        "zipcode": "95210-204"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Pedro Ferreira dos Santos",
+        "zipcode": "95211-370"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Presidente Kennedy",
+        "zipcode": "95217-063"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "95200-133"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Patricio Alves de Souza",
+        "zipcode": "95207-170"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Professora Elza Schuantes Rodrigues",
+        "zipcode": "95214-154"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Paulo Atanásio da Silva Abreu",
+        "zipcode": "95210-524"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Petronilo dos Santos Lemes",
+        "zipcode": "95207-042"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua Padre Reus",
+        "zipcode": "95208-018"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Pedro Álvares Cabral",
+        "zipcode": "95216-010"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Pará",
+        "zipcode": "95206-358"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Otavio Roxo",
+        "zipcode": "95211-128"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Paulo Martins",
+        "zipcode": "95201-068"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Padre Pacífico",
+        "zipcode": "95217-030"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Paissandu",
+        "zipcode": "95200-073"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Pedro Gargione",
+        "zipcode": "95201-153"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Paranaguá",
+        "zipcode": "95200-358"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Plinio Salgado",
+        "zipcode": "95216-074"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Padre Éfrem",
+        "zipcode": "95207-022"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Otavio Roxo",
+        "zipcode": "95210-170"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Padre Pacífico",
+        "zipcode": "95217-208"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Pedro DAvila Avancini",
+        "zipcode": "95208-410"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Presidente Roosevelt",
+        "zipcode": "95200-085"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chico Mendes",
+        "street": "Rua Podalírio de Azambuja Santos",
+        "zipcode": "95204-260"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "95217-003"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Padre Curie",
+        "zipcode": "95207-014"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Padre Olímpio Pagnocelli",
+        "zipcode": "95211-590"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Professor José Gimenes Filho",
+        "zipcode": "95210-314"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Professora Adalci Boechel Sausen",
+        "zipcode": "95214-459"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Professora Alzira Boschi",
+        "zipcode": "95211-179"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Othelo Jacques",
+        "zipcode": "95200-100"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Professor Máximo Sussela",
+        "zipcode": "95211-554"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "95200-028"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Professora Alzira Boschi",
+        "zipcode": "95210-518"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Primeiro de Maio Mauá",
+        "zipcode": "95214-408"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Perimetral Norte Domingos Zamboni",
+        "zipcode": "95217-316"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Osvaldo Pioli Guerreiro",
+        "zipcode": "95201-230"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Palmiro Pires",
+        "zipcode": "95201-233"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Otilia do Nascimento Chaves",
+        "zipcode": "95200-306"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "95210-468"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Padre Roque Costela",
+        "zipcode": "95211-610"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "95200-031"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua Otacilio Rodrigues Paim",
+        "zipcode": "95208-296"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Paris",
+        "zipcode": "95211-230"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Otavio Roxo",
+        "zipcode": "95210-228"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Professora Ely Moraes Cabral",
+        "zipcode": "95210-462"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Professora Maria Chaves",
+        "zipcode": "95217-265"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "95200-430"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Rui de Barros Cardoso",
+        "zipcode": "95216-212"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Santa Cruz",
+        "zipcode": "95217-228"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Protásio Fernandes Bueno",
+        "zipcode": "95216-106"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95210-152"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Professora Zelir Della Giustina Boechel",
+        "zipcode": "95214-465"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Santo Antônio",
+        "zipcode": "95210-172"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95200-061"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Santa Cruz",
+        "zipcode": "95217-262"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Santa Catarina",
+        "zipcode": "95200-507"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Professora Terezinha Tieppo",
+        "zipcode": "95214-462"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95200-253"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Ricardo Giacomet",
+        "zipcode": "95214-509"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Rainha Isabel",
+        "zipcode": "95200-568"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "95208-116"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua São Bernardo",
+        "zipcode": "95210-162"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "95200-112"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Protázio Alves",
+        "zipcode": "95200-522"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Raimundo Magnabosco",
+        "zipcode": "95200-366"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95210-052"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua São Francisco",
+        "zipcode": "95211-149"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Roni Teixeira",
+        "zipcode": "95207-110"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Roni Teixeira",
+        "zipcode": "95207-066"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua São Bernardo",
+        "zipcode": "95211-158"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Raimundo Zanotto",
+        "zipcode": "95216-352"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Romário Felice Bertoni",
+        "zipcode": "95211-024"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Reinaldo Barison",
+        "zipcode": "95211-313"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Realina de Souza Maciel",
+        "zipcode": "95207-375"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Salgado Filho",
+        "zipcode": "95210-127"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Prudente de Morais",
+        "zipcode": "95204-078"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua Riachuelo",
+        "zipcode": "95208-010"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Salgado Filho",
+        "zipcode": "95210-224"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Passo da Porteira",
+        "street": "Rua Santa Bárbara",
+        "zipcode": "95205-009"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua São Bernardo",
+        "zipcode": "95210-512"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Santo Pasinatto",
+        "zipcode": "95208-418"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua São Bernardo",
+        "zipcode": "95211-176"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Protázio Alves",
+        "zipcode": "95200-504"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Rodrigues de Campos",
+        "zipcode": "95204-753"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Protázio Alves",
+        "zipcode": "95200-559"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Santos Dumont",
+        "zipcode": "95201-056"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua São Bernardo",
+        "zipcode": "95210-536"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Protázio Alves",
+        "zipcode": "95201-132"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95200-175"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Salgado Filho",
+        "zipcode": "95211-014"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Raimundo Magnabosco",
+        "zipcode": "95200-330"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "95208-196"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Santo Antônio",
+        "zipcode": "95211-134"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Passo da Porteira",
+        "street": "Rua São Judas",
+        "zipcode": "95205-015"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "95206-352"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95200-058"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Progresso",
+        "zipcode": "95207-008"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95211-062"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua São Francisco",
+        "zipcode": "95211-140"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95210-100"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua Rupp Faraco de Moraes",
+        "zipcode": "95208-294"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Teodoro Camargo",
+        "zipcode": "95200-052"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Severino Desengrini",
+        "zipcode": "95216-103"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua São Sebastião",
+        "zipcode": "95210-294"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Tahual",
+        "zipcode": "95210-450"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Soledade",
+        "zipcode": "95201-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "95200-302"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Sergipe",
+        "zipcode": "95211-350"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Teodoro Camargo",
+        "zipcode": "95201-120"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Severino Marcolin",
+        "zipcode": "95211-131"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua São José",
+        "zipcode": "95200-145"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua São Manoel",
+        "zipcode": "95211-152"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua São João",
+        "zipcode": "95200-136"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Rua Tiradentes",
+        "zipcode": "95200-274"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Tiradentes",
+        "zipcode": "95200-410"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua Sergio Pillar Guerreiro",
+        "zipcode": "95208-292"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Borges",
+        "street": "Rua Sueli Borges",
+        "zipcode": "95208-205"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Sergipe",
+        "zipcode": "95211-008"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "95200-163"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "95200-181"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Três de Dezembro",
+        "zipcode": "95201-126"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Soledade",
+        "zipcode": "95210-008"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Tristão DAvila Pinto",
+        "zipcode": "95200-468"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Taquari",
+        "zipcode": "95217-271"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Teodoro Borges dos Santos",
+        "zipcode": "95211-298"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "95201-245"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Teodoro Borges dos Santos",
+        "zipcode": "95210-530"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Theodoro Rodrigues da Silva",
+        "zipcode": "95216-072"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Tahual",
+        "zipcode": "95210-312"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Sesóstris Campos dos Santos",
+        "zipcode": "95214-612"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Cruz",
+        "street": "Rua São Miguel",
+        "zipcode": "95217-350"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua São Francisco",
+        "zipcode": "95210-232"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Silveira Martins",
+        "zipcode": "95200-109"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Silvio Fernandes dos Reis",
+        "zipcode": "95204-550"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua São Paulo",
+        "zipcode": "95208-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Tomé de Souza",
+        "zipcode": "95217-051"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Silveira Martins",
+        "zipcode": "95200-049"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Valdemar Marcantonio",
+        "zipcode": "95217-036"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Tenente Antônio Silveira dos Santos",
+        "zipcode": "95207-215"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua São Manoel",
+        "zipcode": "95210-154"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Vereador João Jacinto Borges",
+        "zipcode": "95201-239"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Tomé de Souza",
+        "zipcode": "95216-070"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Vereador Avelino Zago",
+        "zipcode": "95211-536"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Siqueira Campos Jardim América",
+        "zipcode": "95214-059"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Tahual",
+        "zipcode": "95210-430"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua São Manoel",
+        "zipcode": "95210-064"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Teodoro Borges dos Santos",
+        "zipcode": "95210-158"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Valdemar Marcantonio",
+        "zipcode": "95217-210"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Silvestre Brollo",
+        "zipcode": "95210-521"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Valentin Telles",
+        "zipcode": "95217-307"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Cruz",
+        "street": "Rua Tenente Goulart",
+        "zipcode": "95217-429"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Ulysse Angelin Maraschin",
+        "zipcode": "95210-308"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Teodoro Borges dos Santos",
+        "zipcode": "95211-155"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Sergipe",
+        "zipcode": "95211-119"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Boeira",
+        "street": "Rua Sergipe",
+        "zipcode": "95211-228"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Cruz",
+        "street": "Rua São Pedro",
+        "zipcode": "95217-426"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Teobaldo Paim Borges",
+        "zipcode": "95217-226"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua São Sebastião",
+        "zipcode": "95211-170"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Três de Maio",
+        "zipcode": "95200-142"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Silverio Rodrigues da Silva",
+        "zipcode": "95211-265"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Teodoro Borges dos Santos",
+        "zipcode": "95211-366"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Silvino Carneiro",
+        "zipcode": "95214-456"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Rua Victor Matheus Teixeira",
+        "zipcode": "95214-368"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Vicente Celestino",
+        "zipcode": "95217-009"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Voluntários da Pátria",
+        "zipcode": "95201-475"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Vinte de Setembro",
+        "zipcode": "95200-394"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Vereador Antônio Gomes",
+        "zipcode": "95208-074"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Vereador Gelso Alves Moreira",
+        "zipcode": "95211-468"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Valdomiro Mendes Lima",
+        "zipcode": "95216-218"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Travessa Ramiro Barcelos",
+        "zipcode": "95200-308"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Viriato Correia",
+        "zipcode": "95210-218"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Vinte e Quatro de Maio",
+        "zipcode": "95200-437"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Washington Luiz",
+        "zipcode": "95207-010"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Vereador Antônio Reali",
+        "zipcode": "95207-032"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Ulisses Gargioni",
+        "zipcode": "95208-104"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Vergílio Carneiro Borges",
+        "zipcode": "95208-404"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Vitória",
+        "zipcode": "95217-045"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Velocino Paim de Andrade",
+        "zipcode": "95210-533"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Ulisses Antunes",
+        "zipcode": "95204-750"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Vino Gaucho",
+        "zipcode": "95216-020"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Vereador Leovegildo Guazzelli",
+        "zipcode": "95210-412"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Travessa Ramiro Barcelos",
+        "zipcode": "95200-265"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Diamantina",
+        "street": "Rua Waldomiro Loch",
+        "zipcode": "95214-700"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Venancio Aires",
+        "zipcode": "95207-034"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Vilmar José Pagno",
+        "zipcode": "95208-388"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Travessa Um (R Dq Caxias)",
+        "zipcode": "95200-354"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vinte e Quatro de Maio",
+        "zipcode": "95200-146"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Vereador Raul Gobbi",
+        "zipcode": "95211-548"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Villa Lobos",
+        "zipcode": "95201-221"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Vereador Luiz Pessoa Neto",
+        "zipcode": "95207-186"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua Vereador Antônio Reali",
+        "zipcode": "95208-020"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua Venancio Aires",
+        "zipcode": "95208-008"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Vicente Golin",
+        "zipcode": "95207-178"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Voluntários da Pátria",
+        "zipcode": "95200-553"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Vicente Soldatelli",
+        "zipcode": "95214-515"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Vereador Acílio Vieira",
+        "zipcode": "95211-068"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Travessa Professora Vitória Quintela Ly",
+        "zipcode": "95217-298"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua Vereador Telmo Biaggio Rossi",
+        "zipcode": "95208-322"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Wenceslau Mancio Ferreira",
+        "zipcode": "95201-242"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Vereador Soly Gonzaga dos Santos",
+        "zipcode": "95210-300"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Victor Matheus Teixeira",
+        "zipcode": "95214-400"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Travessa Jurandir Severo Batista",
+        "zipcode": "95216-016"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Vergilio Jacques",
+        "zipcode": "95216-076"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Vereador Onor Martins Marcantonio",
+        "zipcode": "95211-580"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Travessa José Bonifácio",
+        "zipcode": "95200-250"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Vitório Andrigueti",
+        "zipcode": "95210-056"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Barão do Rio Branco",
+        "zipcode": "95200-157"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Waldomiro Boff",
+        "zipcode": "95204-495"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Vidal de Negreiros",
+        "zipcode": "95216-008"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95200-127"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Coxilha Grande",
+        "street": "",
+        "zipcode": "95223-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Araci Manoel da Fonseca",
+        "zipcode": "95204-123"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Avenida Dom Frei Cândido Maria Bampi",
+        "zipcode": "95207-200"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Avenida Lourenço Paganella",
+        "zipcode": "95216-260"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Avenida Militar",
+        "zipcode": "95210-024"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Alcedino Vargas Hoffmann",
+        "zipcode": "95207-068"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Avenida Militar",
+        "zipcode": "95211-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Ana Pacheco",
+        "zipcode": "95214-604"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Antônio Paim de Andrade",
+        "zipcode": "95216-002"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Militar",
+        "zipcode": "95200-070"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Albert Sabin",
+        "zipcode": "95207-209"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Minuano",
+        "street": "Rua Anita Garibaldi",
+        "zipcode": "95208-332"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Amazonas",
+        "zipcode": "95201-060"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95204-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Estrada do Marmeleiro",
+        "zipcode": "95214-320"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95201-064"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Acre",
+        "zipcode": "95206-361"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Avenida Dom Frei Cândido Maria Bampi",
+        "zipcode": "95207-048"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Angelo Peroni",
+        "zipcode": "95216-214"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Argentina",
+        "zipcode": "95200-332"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95204-385"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Antonio Aimi",
+        "zipcode": "95211-466"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Avenida Militar",
+        "zipcode": "95214-240"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Antônio Ernani Roxo",
+        "zipcode": "95211-620"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Área Rural de Vacaria",
+        "street": "Área Rural",
+        "zipcode": "95219-899"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Avenida Samuel Guazzelli",
+        "zipcode": "95210-290"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Avenida Moreira Paz",
+        "zipcode": "95210-028"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Carlos Záquera",
+        "zipcode": "95211-274"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Calil Oiagem",
+        "zipcode": "95216-220"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Beloni Conrado",
+        "zipcode": "95204-768"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Bernardo Amarante",
+        "zipcode": "95207-062"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Dom Henrique Gelain",
+        "zipcode": "95214-506"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Campos Sales",
+        "zipcode": "95200-154"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua D",
+        "zipcode": "95200-328"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua da Abolição",
+        "zipcode": "95208-120"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Doutor Liberato Salzano Vieira da Cunha",
+        "zipcode": "95207-006"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Coronel Virgilio Rodrigues",
+        "zipcode": "95207-018"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Emilio Oliveira da Silva",
+        "zipcode": "95216-226"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Borges de Medeiros",
+        "zipcode": "95200-055"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel João José Dutra",
+        "zipcode": "95200-091"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Felipe Silveira dos Santos",
+        "zipcode": "95200-320"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Brigada Militar",
+        "zipcode": "95217-202"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Delta",
+        "zipcode": "95217-027"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Fausto Viterbo",
+        "zipcode": "95216-028"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Athanasio Teixeira Borges",
+        "zipcode": "95207-304"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Egidio Carneiro Lobo",
+        "zipcode": "95207-040"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Camões",
+        "zipcode": "95216-026"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Doutor Raul Kramer da Luz",
+        "zipcode": "95201-206"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "95200-271"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Danton Célio Rodrigues de Lima",
+        "zipcode": "95207-212"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Claudino Gobetti",
+        "zipcode": "95207-378"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Carlos Ferreira",
+        "zipcode": "95210-016"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua F (Lot Sta Marta)",
+        "zipcode": "95216-337"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Doutor Mateus José da Luz",
+        "zipcode": "95200-474"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Haideé",
+        "street": "Rua Dona Haidée",
+        "zipcode": "95214-550"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Casemiro Angelo Arpini",
+        "zipcode": "95207-295"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Fernando de Noronha",
+        "zipcode": "95217-286"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Campos Sales",
+        "zipcode": "95216-060"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Bento Gonçalves",
+        "zipcode": "95200-178"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Dianir Sartori de Anhaia",
+        "zipcode": "95204-756"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Farroupilha",
+        "zipcode": "95200-067"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Espírito Santo",
+        "zipcode": "95206-318"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Assis Brasil",
+        "zipcode": "95211-289"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Cavalcante Bernardino Tristão",
+        "zipcode": "95207-024"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Estrela",
+        "zipcode": "95217-230"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Rua Conde de Porto Alegre",
+        "zipcode": "95200-259"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Capitão Rivadavia Danesi",
+        "zipcode": "95214-200"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Doutor Flores",
+        "zipcode": "95200-043"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Edson",
+        "zipcode": "95204-090"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vêneto",
+        "street": "Rua Doutor Antônio Adalmir Alves",
+        "zipcode": "95210-302"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Doze Artilheiros",
+        "zipcode": "95210-044"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Claudio Rech",
+        "zipcode": "95210-036"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Doutor Augusto Diana Terra",
+        "zipcode": "95200-489"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "95200-398"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua Fontoura da Costa",
+        "zipcode": "95214-210"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Frei Mateus Dolzan",
+        "zipcode": "95201-141"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Dorival Ferreira",
+        "zipcode": "95210-456"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Natal",
+        "zipcode": "95217-206"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Oliveira Pereira Bueno",
+        "zipcode": "95208-402"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Major Dornelles",
+        "zipcode": "95208-062"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Cruz",
+        "street": "Rua Moron",
+        "zipcode": "95217-432"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-500"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Luiz Fernandes da Fonseca Filho",
+        "zipcode": "95208-112"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua José Schio Neto",
+        "zipcode": "95208-394"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Francisco Guerreiro",
+        "zipcode": "95201-469"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Marie Ampere",
+        "zipcode": "95207-102"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Manoel Neri do Nascimento",
+        "zipcode": "95216-064"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Itararé",
+        "zipcode": "95211-104"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Hermani Parizotto",
+        "zipcode": "95210-506"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Fidelcino Zanotto de Lemos",
+        "zipcode": "95214-518"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "95207-054"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Nelson Cescon Berto",
+        "zipcode": "95206-212"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chico Mendes",
+        "street": "Rua Gomes Jardim",
+        "zipcode": "95204-210"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "95216-022"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Irmã Dulce",
+        "zipcode": "95211-080"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Francisco Solano Bueno",
+        "zipcode": "95216-270"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Francisco Carreno",
+        "zipcode": "95201-472"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Luiz Jaques Manozzo",
+        "zipcode": "95201-150"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Getúlio Vargas Bairro Vitória",
+        "zipcode": "95217-048"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Ivo Paganella",
+        "zipcode": "95207-108"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Seminário",
+        "street": "Rua José Mendes",
+        "zipcode": "95214-205"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua Orildo José Zamboni",
+        "zipcode": "95214-406"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Messias Boeira",
+        "zipcode": "95211-188"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua João Batista Volante",
+        "zipcode": "95207-174"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Martim Luther King",
+        "zipcode": "95211-173"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-018"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95201-100"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Flamino Moreira",
+        "zipcode": "95210-072"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Ipê",
+        "zipcode": "95210-164"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Gotemar Fortunato Monteiro",
+        "zipcode": "95216-310"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Maria Bibiana Lisboa Dutra",
+        "zipcode": "95204-762"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Libório Rodrigues",
+        "zipcode": "95200-130"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Ipê",
+        "zipcode": "95211-004"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua João Lino Guagnini",
+        "zipcode": "95211-545"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Diamantina",
+        "street": "Rua Herminio Theodoro dos Santos",
+        "zipcode": "95214-720"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua João Pedro Jacobi dos Santos",
+        "zipcode": "95211-600"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Manoel Claro de Lima",
+        "zipcode": "95210-453"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gertrudes",
+        "street": "Rua General Paim Filho",
+        "zipcode": "95208-002"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Hortencio Guerra",
+        "zipcode": "95216-139"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Inacia Vieira",
+        "zipcode": "95200-064"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Cruz",
+        "street": "Rua Nicanor de Lima Pires",
+        "zipcode": "95217-423"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Marcelino Antonio Capelesso",
+        "zipcode": "95210-459"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pinheiros",
+        "street": "Rua Independência",
+        "zipcode": "95211-010"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Leandro Antônio dos Santos",
+        "zipcode": "95214-162"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Irmão Eugenio Frederico",
+        "zipcode": "95208-108"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Juvenal Maciel de Melo",
+        "zipcode": "95216-216"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua José Batista Paschoal",
+        "zipcode": "95206-206"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Os Independentes Grupo de Barretos SP",
+        "zipcode": "95201-248"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Marechal Arthur da Costa e Silva",
+        "zipcode": "95214-023"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua José Gasparetto",
+        "zipcode": "95216-080"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Mauro Minuzzo dos Santos",
+        "zipcode": "95210-403"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Madalena Finco",
+        "zipcode": "95204-069"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Gilceu Varela dos Santos",
+        "zipcode": "95200-088"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santana",
+        "street": "Rua Gastão Setembrino Santos",
+        "zipcode": "95206-227"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Líbera Granetto Bressan",
+        "zipcode": "95204-440"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Lucidio Correia",
+        "zipcode": "95216-145"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Noel Rosa",
+        "zipcode": "95217-100"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Luiz Dengo",
+        "zipcode": "95208-068"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "95210-471"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Vereador Lindonez Alberto Perondi",
+        "zipcode": "95211-551"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gaúcha",
+        "street": "Rua Vereador Antônio Reali",
+        "zipcode": "95208-052"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Zulmiro Stella",
+        "zipcode": "95211-316"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Professor José Fernandes de Oliveira",
+        "zipcode": "95214-041"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Tamandaré",
+        "zipcode": "95207-050"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Três de Dezembro",
+        "zipcode": "95201-052"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Pelotas",
+        "zipcode": "95217-253"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Teodoro Marchniaki",
+        "zipcode": "95200-574"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Paraná",
+        "zipcode": "95206-346"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Salgado Filho",
+        "zipcode": "95210-168"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Vereador Clodoveu Araldi",
+        "zipcode": "95211-542"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Wadis Antônio Grando",
+        "zipcode": "95200-471"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Vitorino Girardi",
+        "zipcode": "95216-328"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Rua Vicente Soldatelli",
+        "zipcode": "95214-366"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Santa Rita",
+        "zipcode": "95201-048"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Porcínio Pinto",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "95200-268"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Silverio Rodrigues da Silva",
+        "zipcode": "95210-527"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua São Bernardo",
+        "zipcode": "95211-167"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Otavio Roxo",
+        "zipcode": "95210-130"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Travessa Portugal",
+        "zipcode": "95214-053"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Sergipe",
+        "zipcode": "95211-262"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Passo da Porteira",
+        "street": "Rua Primavera",
+        "zipcode": "95205-012"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Padre Pacífico",
+        "zipcode": "95217-054"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Sinval Fernandes Caon",
+        "zipcode": "95211-374"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Teobaldo Paim Borges",
+        "zipcode": "95217-256"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "95200-139"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Velocino Paim de Andrade",
+        "zipcode": "95211-271"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Pedro Álvares Cabral",
+        "zipcode": "95214-020"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Protázio Alves",
+        "zipcode": "95200-453"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Travessa Vino Gaucho",
+        "zipcode": "95216-018"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Valdemar Marcantonio",
+        "zipcode": "95216-313"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Otaciano da Silva Campos",
+        "zipcode": "95207-298"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Petronio Bragaglia",
+        "zipcode": "95217-295"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Presidente Kennedy",
+        "zipcode": "95216-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Vinte de Setembro",
+        "zipcode": "95200-324"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Passo da Porteira",
+        "street": "Rua Passo da Porteira",
+        "zipcode": "95205-003"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95210-076"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora da Oliveira",
+        "street": "Rua Tiradentes",
+        "zipcode": "95200-300"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Nossa Senhora de Fátima",
+        "street": "Rua Teodoro Borges dos Santos",
+        "zipcode": "95210-060"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Villa Lobos",
+        "zipcode": "95201-159"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Diamantina",
+        "street": "Rua Sesóstris Campos dos Santos",
+        "zipcode": "95214-650"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Ulisses Antunes",
+        "zipcode": "95204-540"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua São Sebastião",
+        "zipcode": "95210-503"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Rua Sueli Borges",
+        "zipcode": "95208-444"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Santo Antônio",
+        "zipcode": "95210-230"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Rui Balestro",
+        "zipcode": "95216-133"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Ricardo Borges Caon",
+        "zipcode": "95216-004"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua São Miguel",
+        "zipcode": "95217-313"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua São Manoel",
+        "zipcode": "95211-295"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Sabino Kramer",
+        "zipcode": "95216-224"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Glória",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "95216-030"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "95200-151"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristina",
+        "street": "Rua Professora Amélia Boamar",
+        "zipcode": "95210-103"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "95210-202"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Distrito Industrial",
+        "street": "Rua Rodrigues de Campos",
+        "zipcode": "95204-545"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Adão Vianna",
+        "zipcode": "95201-370"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Albino Chissini",
+        "zipcode": "95201-372"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Avenida Antônio Ribeiro Branco",
+        "zipcode": "95201-380"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Avenida Antônio Ribeiro Branco",
+        "zipcode": "95201-424"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Doutor Ayrton Ferreira Pereira",
+        "zipcode": "95201-427"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Belém",
+        "zipcode": "95201-442"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "95201-378"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "95201-433"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Coronel Bordini",
+        "zipcode": "95201-418"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Etelvino Borges",
+        "zipcode": "95201-406"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "95201-257"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "95201-454"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Felipe dos Santos",
+        "zipcode": "95201-260"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Fermino Camargo Branco",
+        "zipcode": "95201-400"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Fernando Franciosi",
+        "zipcode": "95201-376"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Fernando Franciosi",
+        "zipcode": "95201-448"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Fernando Franciosi",
+        "zipcode": "95201-457"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Avenida Franciosi",
+        "zipcode": "95201-436"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Gildo de Freitas",
+        "zipcode": "95201-254"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Gonçalves Dias",
+        "zipcode": "95201-460"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Vereador José Moraes Martins",
+        "zipcode": "95201-251"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Irmã Lourenza",
+        "zipcode": "95201-384"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Irmã Lourenza",
+        "zipcode": "95201-412"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Minas Gerais",
+        "zipcode": "95201-430"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Nabor Moura de Azevedo",
+        "zipcode": "95201-451"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Nabor Moura de Azevedo",
+        "zipcode": "95201-374"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Olimpia Veadrigo Biazus",
+        "zipcode": "95201-439"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Pedro Guanini",
+        "zipcode": "95201-409"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "95201-421"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Protázio Alves",
+        "zipcode": "95201-403"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "95201-445"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Barão do Triunfo",
+        "zipcode": "95201-382"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Barão do Triunfo",
+        "zipcode": "95201-415"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Refugiado",
+        "street": "",
+        "zipcode": "95220-000"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua São Francisco",
+        "zipcode": "95210-174"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Gasparetto",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "95216-086"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Gianeto Rossi",
+        "zipcode": "95216-322"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua José Fernandes Bueno",
+        "zipcode": "95214-062"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Julio de Castilhos",
+        "zipcode": "95211-253"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Rodrigo Bragaglia de Camargo",
+        "zipcode": "95207-184"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Assis Brasil",
+        "zipcode": "95210-150"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Kennedy",
+        "street": "Rua Luiz Facciolli",
+        "zipcode": "95211-328"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Telpano Verlindo Dutra",
+        "zipcode": "95204-765"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Vereador Otilio Lisboa Boeira",
+        "zipcode": "95211-185"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim Toscano",
+        "street": "Rua Vereador Soly Gonzaga dos Santos",
+        "zipcode": "95210-465"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Avenida Luiz Jacinto Teixeira Schuller",
+        "zipcode": "95204-003"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Decio Martins Costa",
+        "zipcode": "95214-080"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vista Alegre",
+        "street": "Rua Francisca Mendes da Silva",
+        "zipcode": "95207-100"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95201-203"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Coronel Emilio Carneiro Borges Imperial",
+        "zipcode": "95200-565"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Flora",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "95200-426"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lomba Chata",
+        "street": "Rua Luiz Fernandes da Fonseca Filho",
+        "zipcode": "95207-206"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Trinta e Um de Março",
+        "zipcode": "95214-047"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Osvaldo Constanzi",
+        "zipcode": "95217-212"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Presidente Kennedy",
+        "zipcode": "95217-200"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Mauá",
+        "street": "Rua José Morais Borges",
+        "zipcode": "95214-500"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Vitória",
+        "street": "Rua Professora Suely Mondadori Zingalli",
+        "zipcode": "95217-015"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Vereador Flávio Sperb Jacques",
+        "zipcode": "95201-215"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Assis Brasil",
+        "zipcode": "95211-360"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Irmão Getúlio",
+        "zipcode": "95207-020"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Travessa Nabor Moura de Azevedo",
+        "zipcode": "95200-477"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Camilo Ramos",
+        "zipcode": "95211-368"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua João Teodoro Duarte",
+        "zipcode": "95200-034"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95201-171"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Altos da Glória",
+        "street": "Rua Coronel Rui Carneiro Borba",
+        "zipcode": "95216-331"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim dos Pampas",
+        "street": "Rua Francisca Mendes da Silva",
+        "zipcode": "95207-070"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Rua Major Alípio Porto",
+        "zipcode": "95214-354"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Aeroporto",
+        "street": "Rua Furton",
+        "zipcode": "95206-060"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Coronel Avelino Paim",
+        "zipcode": "95201-105"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Pedro Guanini",
+        "zipcode": "95200-462"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Salgado Filho",
+        "zipcode": "95211-098"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Os Dezoito do Forte",
+        "zipcode": "95214-068"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Carazinho",
+        "street": "Rua Professora Maria Clori Fernandes de Vargas",
+        "zipcode": "95201-144"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Barcellos",
+        "street": "Rua Senador Raul Pila",
+        "zipcode": "95206-340"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Parque dos Rodeios",
+        "street": "Rua Madre Joana Vitória Favre",
+        "zipcode": "95201-227"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Samuel Guazzelli",
+        "street": "Rua Tomé de Souza",
+        "zipcode": "95217-204"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Lindóia",
+        "street": "Rua Claudino Minuzzo dos Santos",
+        "zipcode": "95214-364"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Franciosi",
+        "street": "Rua Protázio Alves",
+        "zipcode": "95201-481"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Imperial",
+        "street": "Rua Felipe dos Santos",
+        "zipcode": "95200-528"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Alcino Alves da Silveira",
+        "zipcode": "95211-364"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Chacará das Palmeiras",
+        "street": "Rua Francisco Ferreira Boeira",
+        "zipcode": "95211-530"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Monte Claro",
+        "street": "Rua Doutor Clóvis Lacerda Ramos",
+        "zipcode": "95204-084"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Alfredo Borges dos Santos",
+        "zipcode": "95210-160"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Municipal",
+        "street": "Rua Professora Vitória Quintela Ly",
+        "zipcode": "95217-280"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "95210-415"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Independência",
+        "zipcode": "95211-095"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Carlos Maximo Golin Paim",
+        "zipcode": "95211-362"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Cristal",
+        "street": "Rua Alfredo Borges dos Santos",
+        "zipcode": "95210-208"
+    },
+    {
+        "city": "Vacaria",
+        "state": "RS",
+        "district": "Pradense",
+        "street": "Avenida Presidente Jucelino Kubitschek de Oliveira",
+        "zipcode": "95208-350"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Flores de Goiás",
+        "state": "GO",
+        "district": "Nova Flores",
+        "street": "Rua 9 Quadra 14 Lote 2",
+        "zipcode": "73890-970"
+    },
+    {
+        "city": "Flores de Goiás",
+        "state": "GO",
+        "district": "São Vicente",
+        "street": "Quadra 7 Lote 26",
+        "zipcode": "73899-970"
+    },
+    {
+        "city": "Flores de Goiás",
+        "state": "GO",
+        "district": "",
+        "street": "",
+        "zipcode": "73890-000"
+    },
+    {
+        "city": "Flores de Goiás",
+        "state": "GO",
+        "district": "Setor Centro",
+        "street": "Avenida Principal",
+        "zipcode": "73890-971"
+    }
+]

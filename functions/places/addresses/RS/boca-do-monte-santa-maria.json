@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Boca do Monte (Santa Maria)",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "97170-000"
+    },
+    {
+        "city": "Boca do Monte (Santa Maria)",
+        "state": "RS",
+        "district": "",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "97170-991"
+    },
+    {
+        "city": "Boca do Monte (Santa Maria)",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Principal",
+        "zipcode": "97170-970"
+    },
+    {
+        "city": "Boca do Monte (Santa Maria)",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "97170-990"
+    }
+]

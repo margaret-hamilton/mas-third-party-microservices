@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Lontras",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Paulo A. do Nascimento 317",
+        "zipcode": "89182-970"
+    },
+    {
+        "city": "Lontras",
+        "state": "SC",
+        "district": null,
+        "street": "Rodovia BR",
+        "zipcode": "89182-990"
+    },
+    {
+        "city": "Lontras",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89182-000"
+    }
+]

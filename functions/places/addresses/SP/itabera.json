@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Itaberá",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18440-000"
+    },
+    {
+        "city": "Itaberá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel José Pedro de Lima 555",
+        "zipcode": "18440-970"
+    },
+    {
+        "city": "Itaberá",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Pedro Rosa",
+        "zipcode": "18450-990"
+    },
+    {
+        "city": "Itaberá",
+        "state": "SP",
+        "district": "Tomé",
+        "street": "Rua Luiz Tomé de Couto s/n",
+        "zipcode": "18440-971"
+    },
+    {
+        "city": "Itaberá",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "18445-990"
+    }
+]

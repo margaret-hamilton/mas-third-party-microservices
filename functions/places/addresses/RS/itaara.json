@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itaara",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Guilherme Kurtz 1247",
+        "zipcode": "97185-971"
+    },
+    {
+        "city": "Itaara",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "97185-000"
+    },
+    {
+        "city": "Itaara",
+        "state": "RS",
+        "district": null,
+        "street": "BR 158",
+        "zipcode": "97185-990"
+    },
+    {
+        "city": "Itaara",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Jardim da Serra",
+        "zipcode": "97185-991"
+    }
+]

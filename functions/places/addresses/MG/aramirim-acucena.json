@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Aramirim (Açucena)",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35151-000"
+    },
+    {
+        "city": "Aramirim (Açucena)",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Paraguai 49",
+        "zipcode": "35151-972"
+    },
+    {
+        "city": "Aramirim (Açucena)",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35147-100"
+    },
+    {
+        "city": "Aramirim (Açucena)",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Paraguai 49  AGC Aramirim",
+        "zipcode": "35147-972"
+    }
+]

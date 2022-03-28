@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Cruzeiro do Iguaçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua das Palmeiras 558",
+        "zipcode": "85598-970"
+    },
+    {
+        "city": "Cruzeiro do Iguaçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Rio Grande do Sul",
+        "zipcode": "85598-972"
+    },
+    {
+        "city": "Cruzeiro do Iguaçu",
+        "state": "PR",
+        "district": null,
+        "street": "Rua das Palmeiras",
+        "zipcode": "85598-990"
+    },
+    {
+        "city": "Cruzeiro do Iguaçu",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85598-000"
+    }
+]

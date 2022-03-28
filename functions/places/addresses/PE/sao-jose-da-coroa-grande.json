@@ -1,0 +1,37 @@
+[
+    {
+        "city": "São José da Coroa Grande",
+        "state": "PE",
+        "district": null,
+        "street": "Rua do Cajuzeiro S/N Povoado Várzea do Una",
+        "zipcode": "55565-991"
+    },
+    {
+        "city": "São José da Coroa Grande",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Júlio Belo",
+        "zipcode": "55565-970"
+    },
+    {
+        "city": "São José da Coroa Grande",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55565-000"
+    },
+    {
+        "city": "São José da Coroa Grande",
+        "state": "PE",
+        "district": null,
+        "street": "Engenho Tentugal",
+        "zipcode": "55655-990"
+    },
+    {
+        "city": "São José da Coroa Grande",
+        "state": "PE",
+        "district": null,
+        "street": "Rodovia PE",
+        "zipcode": "55565-992"
+    }
+]

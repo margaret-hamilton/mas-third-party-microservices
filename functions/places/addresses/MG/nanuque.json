@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Nanuque",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Caxambu 393",
+        "zipcode": "39860-970"
+    },
+    {
+        "city": "Nanuque",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Geraldo Romano 409",
+        "zipcode": "39860-971"
+    },
+    {
+        "city": "Nanuque",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39860-000"
+    },
+    {
+        "city": "Nanuque",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça da Liberdade s/n",
+        "zipcode": "39860-972"
+    }
+]

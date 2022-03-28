@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Rio Novo do Sul",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Major Caetano 23",
+        "zipcode": "29290-970"
+    },
+    {
+        "city": "Rio Novo do Sul",
+        "state": "ES",
+        "district": "Virgínia Nova",
+        "street": "Estrada Jaciguá x Rio Novo do Sul s/n",
+        "zipcode": "29290-981"
+    },
+    {
+        "city": "Rio Novo do Sul",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29290-000"
+    }
+]

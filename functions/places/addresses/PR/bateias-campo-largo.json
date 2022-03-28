@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bateias (Campo Largo)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Estrada de Bateias s/n",
+        "zipcode": "83648-970"
+    },
+    {
+        "city": "Bateias (Campo Largo)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83648-000"
+    },
+    {
+        "city": "Bateias (Campo Largo)",
+        "state": "PR",
+        "district": null,
+        "street": "Estrada de Bateais",
+        "zipcode": "83648-990"
+    },
+    {
+        "city": "Bateias (Campo Largo)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "83648-971"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Padre Bernardo",
+        "state": "GO",
+        "district": "Centro",
+        "street": "Rua Tiradentes s/n Quadra 15 Lote 1 Lojas 1",
+        "zipcode": "73700-970"
+    },
+    {
+        "city": "Padre Bernardo",
+        "state": "GO",
+        "district": "Trajanópolis",
+        "street": "Avenida Brasília Quadra 24 Lote 9",
+        "zipcode": "73720-970"
+    },
+    {
+        "city": "Padre Bernardo",
+        "state": "GO",
+        "district": "Setor Leste",
+        "street": "Rua 35 19",
+        "zipcode": "73700-971"
+    },
+    {
+        "city": "Padre Bernardo",
+        "state": "GO",
+        "district": "",
+        "street": "",
+        "zipcode": "73700-000"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Juranda",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Brasil",
+        "zipcode": "87355-970"
+    },
+    {
+        "city": "Juranda",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná",
+        "zipcode": "87355-971"
+    },
+    {
+        "city": "Juranda",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Paraná",
+        "zipcode": "87355-990"
+    },
+    {
+        "city": "Juranda",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Santos Dumont",
+        "zipcode": "87357-991"
+    },
+    {
+        "city": "Juranda",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87355-000"
+    }
+]

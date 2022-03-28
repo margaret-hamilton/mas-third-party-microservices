@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Paraíba do Sul",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada Norberto Leal",
+        "zipcode": "25850-990"
+    },
+    {
+        "city": "Paraíba do Sul",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "25850-000"
+    },
+    {
+        "city": "Paraíba do Sul",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Professor Bento Gonçalves Pereira 96",
+        "zipcode": "25850-971"
+    },
+    {
+        "city": "Paraíba do Sul",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Garcia",
+        "zipcode": "25850-970"
+    }
+]

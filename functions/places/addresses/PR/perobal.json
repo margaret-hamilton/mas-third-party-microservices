@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Perobal",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Curitiba s/n",
+        "zipcode": "87538-970"
+    },
+    {
+        "city": "Perobal",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná 1147",
+        "zipcode": "87538-972"
+    },
+    {
+        "city": "Perobal",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87538-000"
+    },
+    {
+        "city": "Perobal",
+        "state": "PR",
+        "district": null,
+        "street": "Praça Curitiba",
+        "zipcode": "87538-990"
+    },
+    {
+        "city": "Perobal",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Marisa",
+        "zipcode": "87538-971"
+    }
+]

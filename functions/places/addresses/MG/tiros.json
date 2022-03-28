@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Tiros",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38880-000"
+    },
+    {
+        "city": "Tiros",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Ana Dutra 86",
+        "zipcode": "38880-971"
+    },
+    {
+        "city": "Tiros",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Ferreira Capetinga 576",
+        "zipcode": "38880-970"
+    }
+]

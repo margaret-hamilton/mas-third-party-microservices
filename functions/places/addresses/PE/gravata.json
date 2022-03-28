@@ -1,0 +1,996 @@
+[
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Dois",
+        "zipcode": "55643-540"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Norte",
+        "street": "Rua Prefeito Jose Alves Varela",
+        "zipcode": "55641-800"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Conego Eugenio Vila Nova",
+        "zipcode": "55641-805"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Conselheiro Alfredo Menino",
+        "zipcode": "55641-765"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Travessa Conselheiro Manoel Rodrigues Alves",
+        "zipcode": "55642-241"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Primavera",
+        "zipcode": "55641-350"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Clodomiro De Abreu Peixoto",
+        "zipcode": "55641-095"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Sao Domingos",
+        "zipcode": "55641-750"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Vera Cruz",
+        "zipcode": "55641-320"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Maria Mazerello",
+        "zipcode": "55641-685"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Quatro De Outubro",
+        "zipcode": "55641-370"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Arcanjo Regalado",
+        "zipcode": "55641-690"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Antonio Didier",
+        "zipcode": "55641-695"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "2A Tv Quatro De Outubro",
+        "zipcode": "55641-372"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Joao Soares De Melo",
+        "zipcode": "55641-205"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Quininha Matoso",
+        "zipcode": "55641-105"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Nair Gomes",
+        "zipcode": "55641-015"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Do Matadouro",
+        "zipcode": "55641-340"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Manoel De Holanda Cavalcanti",
+        "zipcode": "55641-085"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Augusto Spense Holanda",
+        "zipcode": "55641-730"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Manoel Ribeiro Carvalho",
+        "zipcode": "55641-755"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Travessa Joao Soares De Melo",
+        "zipcode": "55641-206"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Da Estrela",
+        "zipcode": "55641-680"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Prado",
+        "street": "Rua Bolivia",
+        "zipcode": "55642-120"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Prado",
+        "street": "Travessa Duarte Coelho",
+        "zipcode": "55642-231"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Doze",
+        "zipcode": "55643-640"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Dr Lins E Silva",
+        "zipcode": "55642-280"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Travessa Sao Domingos",
+        "zipcode": "55641-751"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Antonio Rodrigues De Lima",
+        "zipcode": "55642-545"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Prado",
+        "street": "Rua Duarte Coelho",
+        "zipcode": "55642-230"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Prado",
+        "street": "Rua Manoel Honorato Rios",
+        "zipcode": "55642-105"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Dez",
+        "zipcode": "55643-620"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Bairro Novo",
+        "street": "Rua Maria Virginia De Souza",
+        "zipcode": "55643-555"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Padre Manoel Gomes De Brito",
+        "zipcode": "55644-195"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Avenida Marechal Hermes Da Fonseca",
+        "zipcode": "55642-385"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Dom Carlos Coelho",
+        "zipcode": "55641-820"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Travessa Vera Cruz",
+        "zipcode": "55641-321"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Alexandrina Helena Da Silva",
+        "zipcode": "55644-165"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Joaquim Sabino Coelho",
+        "zipcode": "55642-395"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Jose Gomes De Andrade",
+        "zipcode": "55641-745"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Rua Sao Sabastiao Do Barauna",
+        "zipcode": "55642-665"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Jose Francisco Fernandes",
+        "zipcode": "55641-705"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Joao Vasconcelos Sobrinho",
+        "zipcode": "55642-305"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Rua Antonio Mendonca De Souza",
+        "zipcode": "55642-577"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Jose Bezerra Da Silva",
+        "zipcode": "55642-575"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Alfredo Felisberto Da Silva",
+        "zipcode": "55642-435"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Adolfo Moura Poroca",
+        "zipcode": "55644-205"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Manoel Joaquim Ribeiro",
+        "zipcode": "55641-758"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Josilene Maria De Carvalho",
+        "zipcode": "55641-810"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Travessa Manoel Ribeiro De Carvalho",
+        "zipcode": "55641-756"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Seis",
+        "zipcode": "55643-580"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Das Calcadas",
+        "zipcode": "55642-290"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Vicente Soares Da Silva",
+        "zipcode": "55641-795"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Joao Xxiii",
+        "zipcode": "55641-825"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Julieta Cesar De Holanda Cavalcante",
+        "zipcode": "55642-415"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Sete",
+        "zipcode": "55643-590"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Rua Das Criancas",
+        "zipcode": "55642-635"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Otilia De Morais",
+        "zipcode": "55642-300"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Severino Bezerra Torres",
+        "zipcode": "55642-715"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Abel Queiroz Silveira",
+        "zipcode": "55642-565"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Sao Jorge",
+        "zipcode": "55644-200"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Antonio Cesar De Oliveira",
+        "zipcode": "55642-365"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Rua Chile",
+        "zipcode": "55642-655"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Tomaz De Aquino Melo",
+        "zipcode": "55642-275"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Rua Agenor De Abreu Peixoto",
+        "zipcode": "55642-567"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Das Rosas",
+        "zipcode": "55642-330"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Boa Vista",
+        "street": "Avenida Raul Bezerra Da Silva",
+        "zipcode": "55644-000"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Oito",
+        "zipcode": "55643-600"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Boa Vista",
+        "street": "Rua Elvira Maria De Souza",
+        "zipcode": "55644-055"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Jose Aguiar Gusmao",
+        "zipcode": "55642-320"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Severino Bezerra",
+        "zipcode": "55642-255"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Diario De Pernambuco",
+        "zipcode": "55642-345"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "55642-260"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Rua Severino Mariano Da Rocha",
+        "zipcode": "55642-615"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Avenida Joaquim Malaquias Coelho Silveira",
+        "zipcode": "55642-515"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Vinte",
+        "zipcode": "55643-720"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Domingos Savio",
+        "zipcode": "55641-785"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Boa Vista",
+        "street": "Avenida Jose Emidio Fernandes",
+        "zipcode": "55644-026"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Jose Sebastiao Filho",
+        "zipcode": "55642-295"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Tres",
+        "zipcode": "55643-550"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Bairro Novo",
+        "street": "Rua Sao Dimas",
+        "zipcode": "55643-485"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Dom Miguel De Lima Valverde",
+        "zipcode": "55642-315"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Avenida Padre Juarez Galvao",
+        "zipcode": "55642-645"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-370"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-400"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Loteamento Redencao",
+        "zipcode": "55645-440"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Jose Brasiliano Silva",
+        "zipcode": "55644-288"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Ailton Quirino",
+        "zipcode": "55644-395"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-330"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-390"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Abdias Felisberto Da Silva",
+        "zipcode": "55644-305"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-320"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Emerson Simoes Barbosa",
+        "zipcode": "55644-245"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Jardim Do Vale",
+        "zipcode": "55645-430"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Anizio Jose De Abreu",
+        "zipcode": "55644-335"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Antonio Rodrigues Da Silva",
+        "zipcode": "55644-225"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-360"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Conselheiro Antonio Teodoro Maciel",
+        "zipcode": "55644-295"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Celina Santiago De Oliveira",
+        "zipcode": "55644-325"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Joao Nunes",
+        "zipcode": "55644-255"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Timbauba",
+        "zipcode": "55644-430"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Central Do Jardim",
+        "zipcode": "55645-420"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-270"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-310"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Jose Inaldo De Assis Alves",
+        "zipcode": "55644-345"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Presidente Kennedy",
+        "zipcode": "55644-380"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-260"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Joaquim Paulino De Souza",
+        "zipcode": "55644-298"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-340"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-280"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-380"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Travessa Monte Castelo",
+        "zipcode": "55644-211"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Projetada",
+        "zipcode": "55644-350"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-290"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Manoel Rodrigues Filho",
+        "zipcode": "55641-675"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Hilda De Azevedo Cahu",
+        "zipcode": "55642-735"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Boa Vista",
+        "street": "Travessa Raul Bezerra Da Silva",
+        "zipcode": "55644-001"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Rua Amaro Lins De Andrade",
+        "zipcode": "55642-625"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Coronel Joao Malta",
+        "zipcode": "55642-310"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Francisco Bezerra De Carvalho",
+        "zipcode": "55641-330"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Vinte E Cinco De Dezembro",
+        "zipcode": "55641-840"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Avenida Maria Emilia De Farias Neves",
+        "zipcode": "55642-465"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Prado",
+        "street": "Rua Conselheiro Manoel Rodrigues Alves",
+        "zipcode": "55642-240"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Dr Regis Velho",
+        "zipcode": "55644-180"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Cinco",
+        "zipcode": "55643-570"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Avenida Jose Mario Wanderley Gomes",
+        "zipcode": "55642-455"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Samuel Brito Bezerra",
+        "zipcode": "55644-265"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Felisberto Pessoa De Oliveira",
+        "zipcode": "55644-215"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Joaquim Souto",
+        "zipcode": "55642-250"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Manoel Virginio De Farias",
+        "zipcode": "55642-375"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Lamartine De Farias Castro",
+        "zipcode": "55641-815"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Travessa Francisco Bezerra De Carvalho",
+        "zipcode": "55641-331"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Santo Antonio",
+        "street": "Rua Prof. Teodorico Cavalcante",
+        "zipcode": "55642-285"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Vale Do Ipojuca",
+        "street": "Rua Treze",
+        "zipcode": "55643-650"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Luis Toscano De Brito",
+        "zipcode": "55641-115"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Novo Gravata",
+        "street": "Rua Lourenco Siqueira Cavalcante",
+        "zipcode": "55642-675"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Quinze De Novembro",
+        "street": "Rua Jose Goncalves Melo",
+        "zipcode": "55641-740"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Deputado Arruda Camara",
+        "zipcode": "55644-410"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Cruzeiro",
+        "street": "Rua Benigno Manoel De Almeida",
+        "zipcode": "55644-315"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-300"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-350"
+    },
+    {
+        "city": "Gravata",
+        "state": "PE",
+        "district": "Jardim Santana",
+        "street": "Rua Projetada",
+        "zipcode": "55645-410"
+    }
+]

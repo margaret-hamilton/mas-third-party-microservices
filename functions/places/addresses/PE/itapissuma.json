@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itapissuma",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Avenida João Pessoa 120",
+        "zipcode": "53700-970"
+    },
+    {
+        "city": "Itapissuma",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "53700-000"
+    },
+    {
+        "city": "Itapissuma",
+        "state": "PE",
+        "district": "Povoado de Botafogo",
+        "street": "Rua Agrovila Botafogo s/n",
+        "zipcode": "53700-971"
+    },
+    {
+        "city": "Itapissuma",
+        "state": "PE",
+        "district": null,
+        "street": "Rua São João Batista",
+        "zipcode": "53700-990"
+    }
+]

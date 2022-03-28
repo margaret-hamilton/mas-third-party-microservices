@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bombinhas",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Falcão 1001",
+        "zipcode": "88215-970"
+    },
+    {
+        "city": "Bombinhas",
+        "state": "SC",
+        "district": "Distrito de Canto Grande",
+        "street": "Rua Jequitibá s/n",
+        "zipcode": "88215-971"
+    },
+    {
+        "city": "Bombinhas",
+        "state": "SC",
+        "district": null,
+        "street": "Avenida Girassol",
+        "zipcode": "88215-991"
+    },
+    {
+        "city": "Bombinhas",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88215-000"
+    }
+]

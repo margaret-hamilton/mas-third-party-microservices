@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Águas da Prata",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rosalvo Andrade Dias 265 Lote A",
+        "zipcode": "13890-970"
+    },
+    {
+        "city": "Águas da Prata",
+        "state": "SP",
+        "district": "Cascata",
+        "street": "Rua da Estação s/n",
+        "zipcode": "13890-971"
+    },
+    {
+        "city": "Águas da Prata",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Capitão João Urias 347",
+        "zipcode": "13890-972"
+    },
+    {
+        "city": "Águas da Prata",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13890-000"
+    },
+    {
+        "city": "Águas da Prata",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Capitão João Urias",
+        "zipcode": "13890-990"
+    }
+]

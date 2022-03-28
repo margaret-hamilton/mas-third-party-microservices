@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Guaiúba",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Coronel João Mendes 75",
+        "zipcode": "61890-970"
+    },
+    {
+        "city": "Guaiúba",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Otávio Moreira",
+        "zipcode": "61895-990"
+    },
+    {
+        "city": "Guaiúba",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "61890-000"
+    }
+]

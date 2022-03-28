@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Tucano",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Antônio Carlos Magalhães s/n",
+        "zipcode": "48790-970"
+    },
+    {
+        "city": "Tucano",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48790-000"
+    },
+    {
+        "city": "Tucano",
+        "state": "BA",
+        "district": "Greguenhem",
+        "street": "Praça Dois de Julho s/n",
+        "zipcode": "48790-972"
+    },
+    {
+        "city": "Tucano",
+        "state": "BA",
+        "district": "Rua Nova",
+        "street": "Praça Dom Bosco s/n",
+        "zipcode": "48790-971"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Gramado",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Garibaldi 520",
+        "zipcode": "95670-970"
+    },
+    {
+        "city": "Gramado",
+        "state": "RS",
+        "district": "Várzea Grande",
+        "street": "Rua Faustino Rissi 834 Sala 1",
+        "zipcode": "95670-976"
+    },
+    {
+        "city": "Gramado",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95670-000"
+    },
+    {
+        "city": "Gramado",
+        "state": "RS",
+        "district": "Serra Grande Alemã",
+        "street": "Rua Principal",
+        "zipcode": "95670-973"
+    },
+    {
+        "city": "Gramado",
+        "state": "RS",
+        "district": "Marcondes",
+        "street": "Rua Principal",
+        "zipcode": "95670-972"
+    },
+    {
+        "city": "Gramado",
+        "state": "RS",
+        "district": "Araripe",
+        "street": "Rua Principal",
+        "zipcode": "95670-971"
+    },
+    {
+        "city": "Gramado",
+        "state": "RS",
+        "district": "Serra Grande Italiana",
+        "street": "Rua Principal",
+        "zipcode": "95670-975"
+    }
+]

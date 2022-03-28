@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Itatiaia",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "27580-000"
+    },
+    {
+        "city": "Itatiaia",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Prefeito Assumpção",
+        "zipcode": "27580-971"
+    },
+    {
+        "city": "Itatiaia",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Oby Loyola 32 Loja C",
+        "zipcode": "27580-970"
+    },
+    {
+        "city": "Itatiaia",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua da África I",
+        "zipcode": "27580-990"
+    },
+    {
+        "city": "Itatiaia",
+        "state": "RJ",
+        "district": null,
+        "street": "Praça Toivos Armas Sipilla",
+        "zipcode": "27580-991"
+    }
+]

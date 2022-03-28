@@ -1,0 +1,884 @@
+[
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Boa Vista",
+        "zipcode": "61901-420"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua 019",
+        "zipcode": "61921-480"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Dr Iran",
+        "zipcode": "61933-580"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Vila Do Moacir",
+        "zipcode": "61933-600"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Aurora",
+        "zipcode": "61933-470"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Avenida Paulo Afonso",
+        "zipcode": "61915-030"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Vinte E Um De Abril",
+        "zipcode": "61900-030"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Bandeirante",
+        "zipcode": "61900-070"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua 017",
+        "zipcode": "61921-460"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Vinte E Um De Abril",
+        "zipcode": "61900-031"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua 018",
+        "zipcode": "61921-470"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Carlos Alves",
+        "zipcode": "61900-100"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Do Trilho",
+        "zipcode": "61900-690"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jereissati Ii",
+        "street": "Avenida Xxiii",
+        "zipcode": "61901-550"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Avenida Carlos Jereissati",
+        "zipcode": "61900-010"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jereissati Ii",
+        "street": "Avenida 0005",
+        "zipcode": "61901-480"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0001",
+        "zipcode": "61902-020"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Travessa Almir Dutra",
+        "zipcode": "61900-201"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jereissati Ii",
+        "street": "Avenida 0005",
+        "zipcode": "61901-470"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0004",
+        "zipcode": "61902-050"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0005",
+        "zipcode": "61902-060"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0002",
+        "zipcode": "61902-030"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua Manuel Pereira",
+        "zipcode": "61902-000"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Lagoinha",
+        "zipcode": "61901-440"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0007",
+        "zipcode": "61902-080"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0006",
+        "zipcode": "61902-070"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Da Mangueira",
+        "street": "Avenida Prefeito Almir Dutra",
+        "zipcode": "61905-110"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Piratininga",
+        "street": "Rua Amazonas",
+        "zipcode": "61905-290"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Rua Tiradentes",
+        "zipcode": "61905-370"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Rua Sao Francisco",
+        "zipcode": "61905-420"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Da Mangueira",
+        "street": "Rua Antonio Justa",
+        "zipcode": "61905-650"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Benigno Pereira",
+        "zipcode": "61921-370"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Paulo Afonso",
+        "zipcode": "61921-510"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Sao Francisco Do Jari",
+        "zipcode": "61915-240"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0013",
+        "zipcode": "61902-140"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jereissati Ii",
+        "street": "Avenida Xi",
+        "zipcode": "61901-220"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua 020",
+        "zipcode": "61921-490"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Piratininga",
+        "street": "Rua Ari Lobo",
+        "zipcode": "61905-320"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0009",
+        "zipcode": "61902-100"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0018",
+        "zipcode": "61902-190"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0010",
+        "zipcode": "61902-110"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Novo Amanhecer",
+        "zipcode": "61930-280"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0011",
+        "zipcode": "61902-120"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0017",
+        "zipcode": "61902-180"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Beco Simoes",
+        "zipcode": "61900-060"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Pajucara",
+        "street": "Rua Nobre",
+        "zipcode": "61933-550"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Rua Ouro Branco",
+        "zipcode": "61905-380"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Da Mangueira",
+        "street": "Rua Esmaela Da Silva",
+        "zipcode": "61905-100"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rodovia Maranguape",
+        "zipcode": "61915-001"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Rua Sao Jose",
+        "zipcode": "61932-170"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Santa Isabel",
+        "zipcode": "61933-530"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Rua Sao Lucas",
+        "zipcode": "61932-030"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Santo Inacio Do Jari",
+        "zipcode": "61915-180"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0012",
+        "zipcode": "61902-130"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Da Frota",
+        "zipcode": "61933-620"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Rua Ouro Preto",
+        "zipcode": "61900-190"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0014",
+        "zipcode": "61902-150"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Outeiro",
+        "zipcode": "61933-490"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Planalto Cidade Nova",
+        "street": "Rua Morada Nova",
+        "zipcode": "61930-150"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0016",
+        "zipcode": "61902-170"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Cagado",
+        "street": "Rodovia Maranguape",
+        "zipcode": "61910-100"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Da Mangueira",
+        "street": "Estrada Nova",
+        "zipcode": "61905-670"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Santa Lucia Do Jari",
+        "zipcode": "61915-190"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0020",
+        "zipcode": "61902-210"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "61932-040"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Mucuna",
+        "street": "Rodovia Raimundo Pessoa De Araujo",
+        "zipcode": "61915-010"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Piratininga",
+        "street": "Rua Aracaju",
+        "zipcode": "61905-310"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Da Mangueira",
+        "street": "Avenida Faustino Albuquerque",
+        "zipcode": "61905-700"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Boa Hora",
+        "zipcode": "61933-480"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Cagado",
+        "street": "Rua Antonio Pereira Do Nascimento",
+        "zipcode": "61915-080"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Pajucara",
+        "street": "Rua Jardim Paraiso",
+        "zipcode": "61933-560"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Travessa Mororo",
+        "zipcode": "61905-400"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua 015",
+        "zipcode": "61921-440"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Pirajussara",
+        "zipcode": "61915-110"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0019",
+        "zipcode": "61902-200"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Cagado",
+        "street": "Rodovia Maranguape",
+        "zipcode": "61912-000"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Sol Poente",
+        "zipcode": "61933-460"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Da Mangueira",
+        "street": "Rua Maria Ed T Da Silva",
+        "zipcode": "61905-680"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Rua Zacarias Brasil",
+        "zipcode": "61932-050"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Rua Das Acacias",
+        "zipcode": "61905-390"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Rua Edgard Teixeira",
+        "zipcode": "61932-020"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Avenida Anel Viario",
+        "zipcode": "61930-370"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Francisco Jeronimo",
+        "zipcode": "61915-150"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Conceicao",
+        "zipcode": "61933-540"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Rio Do Carmo",
+        "zipcode": "61915-120"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Travessa Luis Gonzaga Dos Santos",
+        "zipcode": "61932-010"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Santa Rita",
+        "zipcode": "61933-610"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Sitio Jari",
+        "zipcode": "61915-210"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Cristovao De Melo",
+        "zipcode": "61933-590"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Pajucara",
+        "street": "Rua Pedro Sampaio",
+        "zipcode": "61932-510"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Joao F. Cavalcante",
+        "zipcode": "61915-100"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Avenida Dos Marinheiros",
+        "zipcode": "61930-300"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Rua Pedro Batista",
+        "zipcode": "61932-150"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Rua Tancredo Neves",
+        "zipcode": "61932-070"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Jose Tomas",
+        "zipcode": "61915-270"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Esplanada Novo Mondubim",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "61925-590"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Sao Cristovao",
+        "zipcode": "61915-280"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Vila Nova",
+        "zipcode": "61915-250"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Jose Monteiro Gondim",
+        "zipcode": "61900-040"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jereissati Ii",
+        "street": "Avenida Xii",
+        "zipcode": "61901-300"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida 0014",
+        "zipcode": "61901-490"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Piratininga",
+        "street": "Rua Manaus",
+        "zipcode": "61905-280"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Piratininga",
+        "street": "Rua Ferreira Neto",
+        "zipcode": "61905-300"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Rua Das Flores",
+        "zipcode": "61905-410"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Alto Da Mangueira",
+        "street": "Rua Antonio Correia Viana",
+        "zipcode": "61905-690"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Pajucara",
+        "street": "Rua Central",
+        "zipcode": "61932-790"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jereissati Ii",
+        "street": "Avenida Xx",
+        "zipcode": "61901-540"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jereissati I",
+        "street": "Avenida Central",
+        "zipcode": "61905-710"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Gaspar Dutra",
+        "zipcode": "61933-630"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0015",
+        "zipcode": "61902-160"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Rua Almir Dutra",
+        "zipcode": "61900-200"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Rua Carvalho Nogueira",
+        "zipcode": "61915-200"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Coqueiral",
+        "street": "Travessa Da Luz",
+        "zipcode": "61905-660"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Planalto Cidade Nova",
+        "street": "Rua Santa Tereza",
+        "zipcode": "61930-050"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Piratininga",
+        "street": "Rua Joinville",
+        "zipcode": "61905-340"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Mucuna",
+        "street": "Rua Carlos Eduardo",
+        "zipcode": "61915-140"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Cagado",
+        "street": "Rua Barao Do Rio Branco",
+        "zipcode": "61915-040"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0008",
+        "zipcode": "61902-090"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jardim Paraiso",
+        "street": "Rua Sao Raimundo",
+        "zipcode": "61932-060"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rodovia Dr Mendel Steinbruch",
+        "zipcode": "61932-000"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0003",
+        "zipcode": "61902-040"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Santo Amaro",
+        "zipcode": "61933-500"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Capitao Valdemar De Lima",
+        "zipcode": "61900-020"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Santa Maria",
+        "street": "Rua 0021",
+        "zipcode": "61902-220"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Parque Novo Mondubim",
+        "street": "Rua Valdeci Moura",
+        "zipcode": "61933-570"
+    },
+    {
+        "city": "Maracanau",
+        "state": "CE",
+        "district": "Jacanau",
+        "street": "Travessa Paulo Afonso",
+        "zipcode": "61915-290"
+    }
+]

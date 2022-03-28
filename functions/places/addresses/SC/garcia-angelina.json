@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Garcia (Angelina)",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88463-000"
+    },
+    {
+        "city": "Garcia (Angelina)",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral Garcia",
+        "zipcode": "88463-991"
+    },
+    {
+        "city": "Garcia (Angelina)",
+        "state": "SC",
+        "district": "Distrito de Garcia",
+        "street": "Estrada Geral de Garcia",
+        "zipcode": "88463-970"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Pirapora",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Presidente Tancredo Neves 6",
+        "zipcode": "39270-970"
+    },
+    {
+        "city": "Pirapora",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Presidente Tancredo Neves 06",
+        "zipcode": "39270-971"
+    },
+    {
+        "city": "Pirapora",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39270-000"
+    }
+]

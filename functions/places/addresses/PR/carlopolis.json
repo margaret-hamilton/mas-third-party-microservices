@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Carlópolis",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Padre Hugo 843",
+        "zipcode": "86420-970"
+    },
+    {
+        "city": "Carlópolis",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86420-000"
+    }
+]

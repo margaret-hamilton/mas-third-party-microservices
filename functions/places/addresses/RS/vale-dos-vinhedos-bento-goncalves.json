@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Vale dos Vinhedos (Bento Gonçalves)",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95711-000"
+    },
+    {
+        "city": "Vale dos Vinhedos (Bento Gonçalves)",
+        "state": "RS",
+        "district": "Linha Leopoldina",
+        "street": "Via Tentro s/n",
+        "zipcode": "95711-970"
+    },
+    {
+        "city": "Vale dos Vinhedos (Bento Gonçalves)",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada Santa Lúcia s/nº",
+        "zipcode": "95711-990"
+    }
+]

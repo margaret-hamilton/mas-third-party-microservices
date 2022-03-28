@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Valença",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada Comercial",
+        "zipcode": "27600-990"
+    },
+    {
+        "city": "Valença",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Bernardo Viana 52",
+        "zipcode": "27600-971"
+    },
+    {
+        "city": "Valença",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "27600-000"
+    },
+    {
+        "city": "Valença",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Duque Costa",
+        "zipcode": "27650-990"
+    },
+    {
+        "city": "Valença",
+        "state": "RJ",
+        "district": "Pedro Carlos",
+        "street": "Rua Rubens Carrijo 83",
+        "zipcode": "27655-971"
+    },
+    {
+        "city": "Valença",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Bernardo Viana",
+        "zipcode": "27600-970"
+    },
+    {
+        "city": "Valença",
+        "state": "RJ",
+        "district": "Quirino",
+        "street": "Rua Visconde do Rio Branco 2885",
+        "zipcode": "27600-973"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Brejetuba",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua João Olinto Badaró 55",
+        "zipcode": "29630-970"
+    },
+    {
+        "city": "Brejetuba",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua João Olinto Badaró 13",
+        "zipcode": "29635-970"
+    },
+    {
+        "city": "Brejetuba",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "29635-990"
+    },
+    {
+        "city": "Brejetuba",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29630-000"
+    },
+    {
+        "city": "Brejetuba",
+        "state": "ES",
+        "district": "Santa Rita de Brejetuba",
+        "street": "Estrada Brejetuba",
+        "zipcode": "29630-971"
+    }
+]

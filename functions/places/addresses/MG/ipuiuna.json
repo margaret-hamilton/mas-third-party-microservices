@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Ipuiúna",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida JK de Oliveira 308",
+        "zipcode": "37559-970"
+    },
+    {
+        "city": "Ipuiúna",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37559-000"
+    },
+    {
+        "city": "Ipuiúna",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37588-000"
+    },
+    {
+        "city": "Ipuiúna",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida JK de Oliveira",
+        "zipcode": "37588-970"
+    }
+]

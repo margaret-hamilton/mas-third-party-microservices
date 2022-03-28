@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Encantado",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Tiradentes 440",
+        "zipcode": "95960-970"
+    },
+    {
+        "city": "Encantado",
+        "state": "RS",
+        "district": null,
+        "street": "RS",
+        "zipcode": "95960-990"
+    },
+    {
+        "city": "Encantado",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95960-000"
+    }
+]

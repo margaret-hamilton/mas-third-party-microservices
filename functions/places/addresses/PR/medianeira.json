@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Medianeira",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Brasil 807",
+        "zipcode": "85884-981"
+    },
+    {
+        "city": "Medianeira",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85884-000"
+    },
+    {
+        "city": "Medianeira",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Argentina 1177",
+        "zipcode": "85884-970"
+    },
+    {
+        "city": "Medianeira",
+        "state": "PR",
+        "district": "Maralúcia",
+        "street": "Rua Principal",
+        "zipcode": "85884-971"
+    }
+]

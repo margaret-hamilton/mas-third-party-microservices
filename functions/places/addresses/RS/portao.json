@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Portão",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Brasil 683 Loja 1",
+        "zipcode": "93180-970"
+    },
+    {
+        "city": "Portão",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "93180-000"
+    },
+    {
+        "city": "Portão",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada Macaco Branco",
+        "zipcode": "93180-992"
+    },
+    {
+        "city": "Portão",
+        "state": "RS",
+        "district": null,
+        "street": "Avenida Andaraí",
+        "zipcode": "93180-990"
+    },
+    {
+        "city": "Portão",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada da Cachoeira",
+        "zipcode": "93180-991"
+    },
+    {
+        "city": "Portão",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada Macaco Branco",
+        "zipcode": "93180-993"
+    }
+]

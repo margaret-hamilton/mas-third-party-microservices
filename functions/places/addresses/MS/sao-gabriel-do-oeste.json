@@ -1,0 +1,23 @@
+[
+    {
+        "city": "São Gabriel do Oeste",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79490-000"
+    },
+    {
+        "city": "São Gabriel do Oeste",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 337",
+        "zipcode": "79490-970"
+    },
+    {
+        "city": "São Gabriel do Oeste",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Henriqueta de Jesus",
+        "zipcode": "79490-990"
+    }
+]

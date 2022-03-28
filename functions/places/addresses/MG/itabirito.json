@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Itabirito",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Doutor Eurico Rodrigues 683",
+        "zipcode": "35450-971"
+    },
+    {
+        "city": "Itabirito",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rodovia BR",
+        "zipcode": "35450-973"
+    },
+    {
+        "city": "Itabirito",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35450-000"
+    },
+    {
+        "city": "Itabirito",
+        "state": "MG",
+        "district": null,
+        "street": "Avenida Santos Dumont",
+        "zipcode": "35450-990"
+    },
+    {
+        "city": "Itabirito",
+        "state": "MG",
+        "district": "Santa Efigênia",
+        "street": "Estrada Do Padre Adelmo",
+        "zipcode": "35450-992"
+    },
+    {
+        "city": "Itabirito",
+        "state": "MG",
+        "district": "Santa Efigênia",
+        "street": "Rua Francisco José De Carvalho",
+        "zipcode": "35450-991"
+    },
+    {
+        "city": "Itabirito",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Doutor Guilherme 272",
+        "zipcode": "35450-970"
+    }
+]

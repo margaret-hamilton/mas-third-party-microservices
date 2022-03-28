@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Chapada do Norte",
+        "state": "MG",
+        "district": "São Sebastião da Boa Vista",
+        "street": "Praça São Sebastião 36",
+        "zipcode": "39648-974"
+    },
+    {
+        "city": "Chapada do Norte",
+        "state": "MG",
+        "district": "Cachoeira do Norte",
+        "street": "Rua Primavera s/n",
+        "zipcode": "39648-971"
+    },
+    {
+        "city": "Chapada do Norte",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39648-000"
+    },
+    {
+        "city": "Chapada do Norte",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Santa Cruz 35",
+        "zipcode": "39648-970"
+    },
+    {
+        "city": "Chapada do Norte",
+        "state": "MG",
+        "district": "Granjas do Norte",
+        "street": "Rua Principal s/n",
+        "zipcode": "39648-972"
+    },
+    {
+        "city": "Chapada do Norte",
+        "state": "MG",
+        "district": "Santa Rita do Araçuaí",
+        "street": "Rua do Ouro s/n",
+        "zipcode": "39648-973"
+    }
+]

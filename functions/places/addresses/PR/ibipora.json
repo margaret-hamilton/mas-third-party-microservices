@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Ibiporã",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Engenheiro Francisco Beltrão 169",
+        "zipcode": "86200-970"
+    },
+    {
+        "city": "Ibiporã",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Santos Dumont 251 Sala 03",
+        "zipcode": "86200-981"
+    },
+    {
+        "city": "Ibiporã",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Brasil",
+        "zipcode": "86200-991"
+    },
+    {
+        "city": "Ibiporã",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86200-000"
+    }
+]

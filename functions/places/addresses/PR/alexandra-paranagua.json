@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Alexandra (Paranaguá)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83250-000"
+    },
+    {
+        "city": "Alexandra (Paranaguá)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua José das Dores Camargo",
+        "zipcode": "83250-970"
+    },
+    {
+        "city": "Alexandra (Paranaguá)",
+        "state": "PR",
+        "district": null,
+        "street": "Estrada Principal do Morro Inglês",
+        "zipcode": "83250-991"
+    },
+    {
+        "city": "Alexandra (Paranaguá)",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Júlia da Costa",
+        "zipcode": "83250-990"
+    }
+]

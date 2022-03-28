@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Araçás",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48108-000"
+    },
+    {
+        "city": "Araçás",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Eronildes Soares Bonfim 148 Lote 02 Quadra 10",
+        "zipcode": "48108-970"
+    },
+    {
+        "city": "Araçás",
+        "state": "BA",
+        "district": null,
+        "street": "Praça da Matriz",
+        "zipcode": "48108-990"
+    },
+    {
+        "city": "Araçás",
+        "state": "BA",
+        "district": null,
+        "street": "Fazenda Gaioso",
+        "zipcode": "48108-991"
+    },
+    {
+        "city": "Araçás",
+        "state": "BA",
+        "district": null,
+        "street": "Fazenda Floresta",
+        "zipcode": "48108-992"
+    }
+]

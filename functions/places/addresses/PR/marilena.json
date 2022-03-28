@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Marilena",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná 1215",
+        "zipcode": "87960-970"
+    },
+    {
+        "city": "Marilena",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "87960-000"
+    }
+]

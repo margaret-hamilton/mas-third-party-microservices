@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Farol",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná s/n",
+        "zipcode": "87325-970"
+    },
+    {
+        "city": "Farol",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná 498",
+        "zipcode": "87325-972"
+    },
+    {
+        "city": "Farol",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Bahia",
+        "zipcode": "87325-990"
+    },
+    {
+        "city": "Farol",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87325-000"
+    }
+]

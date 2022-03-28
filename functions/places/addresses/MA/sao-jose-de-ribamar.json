@@ -1,0 +1,37 @@
+[
+    {
+        "city": "São José de Ribamar",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Gonçalves Dias",
+        "zipcode": "65110-970"
+    },
+    {
+        "city": "São José de Ribamar",
+        "state": "MA",
+        "district": "",
+        "street": "",
+        "zipcode": "65110-000"
+    },
+    {
+        "city": "São José de Ribamar",
+        "state": "MA",
+        "district": null,
+        "street": "Avenida Carlos Augusto",
+        "zipcode": "65110-991"
+    },
+    {
+        "city": "São José de Ribamar",
+        "state": "MA",
+        "district": "Jardim das Princesas",
+        "street": "Estrada de Ribamar 10 Quadra 01",
+        "zipcode": "65110-971"
+    },
+    {
+        "city": "São José de Ribamar",
+        "state": "MA",
+        "district": "Itaguará II",
+        "street": "Avenida Contorno Sul 31 Quadra 1",
+        "zipcode": "65110-972"
+    }
+]

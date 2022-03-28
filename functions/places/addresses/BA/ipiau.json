@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ipiaú",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Dona Benta",
+        "zipcode": "45570-991"
+    },
+    {
+        "city": "Ipiaú",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Juraci Magalhães 68",
+        "zipcode": "45570-970"
+    },
+    {
+        "city": "Ipiaú",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45570-000"
+    }
+]

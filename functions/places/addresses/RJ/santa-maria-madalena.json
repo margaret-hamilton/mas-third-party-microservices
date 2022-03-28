@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santa Maria Madalena",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barão de Madalena 41",
+        "zipcode": "28770-970"
+    },
+    {
+        "city": "Santa Maria Madalena",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua São Pedro",
+        "zipcode": "28770-991"
+    },
+    {
+        "city": "Santa Maria Madalena",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Barão de Madalena",
+        "zipcode": "28777-990"
+    },
+    {
+        "city": "Santa Maria Madalena",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28770-000"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Canela",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Dona Carlinda 130",
+        "zipcode": "95680-970"
+    },
+    {
+        "city": "Canela",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Dom Luiz Guanella",
+        "zipcode": "95680-971"
+    },
+    {
+        "city": "Canela",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95680-000"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Itaitinga",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "61880-000"
+    },
+    {
+        "city": "Itaitinga",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Miguel Fernandes s/n",
+        "zipcode": "61880-970"
+    },
+    {
+        "city": "Itaitinga",
+        "state": "CE",
+        "district": "Parque Dom Pedro II",
+        "street": "Rodovia BR 116 km 18",
+        "zipcode": "61880-975"
+    },
+    {
+        "city": "Itaitinga",
+        "state": "CE",
+        "district": "Jubuti",
+        "street": "Avenida Deputado Paulino Rocha 630",
+        "zipcode": "61880-976"
+    },
+    {
+        "city": "Itaitinga",
+        "state": "CE",
+        "district": null,
+        "street": "Avenida C",
+        "zipcode": "61880-990"
+    },
+    {
+        "city": "Itaitinga",
+        "state": "CE",
+        "district": null,
+        "street": "BR",
+        "zipcode": "61880-991"
+    }
+]

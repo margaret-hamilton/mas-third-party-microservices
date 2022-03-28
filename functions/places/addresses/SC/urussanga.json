@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Urussanga",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Cesar Mariot 186",
+        "zipcode": "88840-970"
+    },
+    {
+        "city": "Urussanga",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88840-000"
+    },
+    {
+        "city": "Urussanga",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Domingos Scarpato",
+        "zipcode": "88840-992"
+    },
+    {
+        "city": "Urussanga",
+        "state": "SC",
+        "district": "Povoado Rio América",
+        "street": "Rua Luiz Cândido",
+        "zipcode": "88840-971"
+    },
+    {
+        "city": "Urussanga",
+        "state": "SC",
+        "district": "Povoado de Santana",
+        "street": "Avenida Ouro Negro",
+        "zipcode": "88840-972"
+    }
+]

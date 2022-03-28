@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Nova Laranjeiras",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85350-000"
+    },
+    {
+        "city": "Nova Laranjeiras",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Santa Catarina",
+        "zipcode": "85350-970"
+    },
+    {
+        "city": "Nova Laranjeiras",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Ceará",
+        "zipcode": "85350-972"
+    },
+    {
+        "city": "Nova Laranjeiras",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Santa Catarina",
+        "zipcode": "85350-990"
+    }
+]

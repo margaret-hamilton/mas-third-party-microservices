@@ -1,0 +1,6806 @@
+[
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Antônio Brochado",
+        "zipcode": "38610-274"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Framboesas",
+        "zipcode": "38612-143"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua das Gaivotas",
+        "zipcode": "38620-206"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua das Garças",
+        "zipcode": "38620-246"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua das Guabirobas",
+        "zipcode": "38616-640"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua das Hortências",
+        "zipcode": "38613-040"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Jaboticabas",
+        "zipcode": "38612-137"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Pedras de Marilândia",
+        "street": "",
+        "zipcode": "38624-200"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Avenida Afrânio Gonzaga",
+        "zipcode": "38616-416"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Castro Alves",
+        "zipcode": "38613-491"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rodovia MG",
+        "zipcode": "38620-620"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Alameda Canabrava",
+        "zipcode": "38612-250"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Delvito Alves da Silva",
+        "zipcode": "38613-467"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Avenida Belo Horizonte",
+        "zipcode": "38616-022"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Avenida Capitão Carlos Gonzaga",
+        "zipcode": "38610-358"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Alameda Riviera",
+        "zipcode": "38618-083"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Avenida David Cardoso",
+        "zipcode": "38621-645"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Dom Lustosa",
+        "zipcode": "38613-530"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Avenida Dom Lustosa",
+        "zipcode": "38613-672"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Campos do Jordão",
+        "zipcode": "38613-503"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Dona Júlia Lara",
+        "zipcode": "38613-506"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Avenida Castelo Branco",
+        "zipcode": "38616-088"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Avenida Dom Lustosa",
+        "zipcode": "38613-674"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Avenida Castelo Branco",
+        "zipcode": "38616-072"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rodovia MG",
+        "zipcode": "38620-778"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Avenida A",
+        "zipcode": "38616-152"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila do Sol",
+        "street": "Alameda das Acácias",
+        "zipcode": "38616-182"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Avenida do Arquiteto",
+        "zipcode": "38620-628"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Campos do Jordão",
+        "zipcode": "38613-500"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rodovia MG",
+        "zipcode": "38621-250"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Dom Lustosa",
+        "zipcode": "38613-533"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Avenida Bela Serra",
+        "zipcode": "38621-248"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Explanada",
+        "street": "Avenida Central",
+        "zipcode": "38620-115"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Castro Alves",
+        "zipcode": "38613-494"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Área Rural de Unaí",
+        "street": "Área Rural",
+        "zipcode": "38623-899"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rodovia MG",
+        "zipcode": "38620-180"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Rodovia MG",
+        "zipcode": "38621-010"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Avenida Beu Costa",
+        "zipcode": "38616-493"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Avenida Mauá",
+        "zipcode": "38613-644"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida São João",
+        "zipcode": "38613-416"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Laguna",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38613-680"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida São João",
+        "zipcode": "38613-419"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Avenida Quintino Firmino da Silva",
+        "zipcode": "38612-044"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Avenida Jarbas de Oliveira Souto",
+        "zipcode": "38612-024"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Souza Lima",
+        "zipcode": "38613-524"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Avenida Frei Estevão",
+        "zipcode": "38616-656"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Avenida Júlio Ribeiro dos Santos",
+        "zipcode": "38616-446"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida João de Assis",
+        "zipcode": "38613-536"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Avenida Salustiano Caldeira",
+        "zipcode": "38616-562"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Avenida Tancredo Neves",
+        "zipcode": "38613-030"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Avenida Pau",
+        "zipcode": "38616-694"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38613-654"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Lisboa",
+        "zipcode": "38613-449"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38610-116"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Avenida Princesa Isabel",
+        "zipcode": "38613-048"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Avenida Tancredo Neves",
+        "zipcode": "38610-203"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Avenida Ezinho Martins",
+        "zipcode": "38616-782"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Avenida Princesa Isabel",
+        "zipcode": "38613-046"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Tancredo Neves",
+        "zipcode": "38613-410"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida José Luiz Adjuto",
+        "zipcode": "38610-066"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Avenida Martinho Leite",
+        "zipcode": "38616-443"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38616-060"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Avenida Salustiano Caldeira",
+        "zipcode": "38616-389"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Souza Lima",
+        "zipcode": "38613-521"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Avenida Princesa Isabel",
+        "zipcode": "38616-100"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida José Luiz Adjuto",
+        "zipcode": "38610-064"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38613-458"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Avenida Frei Estevão",
+        "zipcode": "38616-568"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38610-016"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Avenida José Luiz Adjuto",
+        "zipcode": "38610-310"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38613-455"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Rui Barbosa",
+        "zipcode": "38613-461"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Princesa Isabel",
+        "zipcode": "38613-425"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Avenida São João",
+        "zipcode": "38616-094"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "38613-446"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Avenida Pau",
+        "zipcode": "38616-710"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Avenida Tancredo Neves",
+        "zipcode": "38616-056"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Leão Lara",
+        "zipcode": "38613-509"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Avenida Rui Barbosa",
+        "zipcode": "38613-566"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Madureira",
+        "zipcode": "38613-539"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Avenida Dona Niquita Lucas Dayrell",
+        "zipcode": "38616-800"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38613-652"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Avenida Frei Estevão",
+        "zipcode": "38616-386"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Mauá",
+        "zipcode": "38613-518"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Avenida Salustiano Caldeira",
+        "zipcode": "38616-490"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Leão Lara",
+        "zipcode": "38613-512"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Avenida Tancredo Neves",
+        "zipcode": "38616-024"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Avenida Pau",
+        "zipcode": "38616-678"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Avenida Moema",
+        "zipcode": "38616-230"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Frei Anselmo",
+        "zipcode": "38613-431"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Avenida Quintino Firmino da Silva",
+        "zipcode": "38612-042"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Amador Torres",
+        "zipcode": "38616-582"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua Álvaro Rodrigues Barbosa",
+        "zipcode": "38613-066"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Presidente Vargas",
+        "zipcode": "38610-086"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rodovia Frei Jorge",
+        "zipcode": "38616-076"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Praça das Safiras",
+        "zipcode": "38616-084"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Aldeia",
+        "zipcode": "38610-230"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rodovia Frei Jorge",
+        "zipcode": "38616-220"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale do Amanhecer",
+        "street": "Rodovia Frei Jorge",
+        "zipcode": "38618-001"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "de Lourdes",
+        "street": "Rua Anacleto Ferreira",
+        "zipcode": "38616-482"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Alvim Vítor da Silva",
+        "zipcode": "38621-669"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Praça Sandoval Martins Ferreira",
+        "zipcode": "38616-074"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Abaeté",
+        "zipcode": "38613-010"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Avenida Vereador João Narciso",
+        "zipcode": "38610-620"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Afonso Souto",
+        "zipcode": "38621-715"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua A",
+        "zipcode": "38610-223"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça JK",
+        "zipcode": "38610-029"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Serenata",
+        "street": "Rua Abel Ferreira",
+        "zipcode": "38613-293"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Antônio Andretta",
+        "zipcode": "38612-246"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Adalardo Matias Rosa",
+        "zipcode": "38613-354"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Laguna",
+        "street": "Rua Alcinino de Matos",
+        "zipcode": "38613-698"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Praça Ivo Jardim de Barros",
+        "zipcode": "38610-233"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Adélio Alves da Silva",
+        "zipcode": "38621-684"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Amaro Rodrigues Silva",
+        "zipcode": "38621-745"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Rua Ana Paula Monteiro de Oliveira",
+        "zipcode": "38613-082"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Afonso Pena",
+        "zipcode": "38610-074"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Angelo Martins Souto",
+        "zipcode": "38612-216"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale do Amanhecer",
+        "street": "Rua Antônia Martins Alves",
+        "zipcode": "38618-006"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Praça São José",
+        "zipcode": "38616-520"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Aldeia",
+        "zipcode": "38610-322"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Aldemar Gonçalves Pereira",
+        "zipcode": "38613-328"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Alfredo Pereira Leitão",
+        "zipcode": "38616-383"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Avenida Unaí",
+        "zipcode": "38620-196"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rodovia Frei Jorge",
+        "zipcode": "38620-001"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Amazonas",
+        "zipcode": "38613-548"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Alfa",
+        "zipcode": "38616-008"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Aleixo Faria de Albernaz",
+        "zipcode": "38621-772"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Acre",
+        "zipcode": "38613-670"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Praça São Cristóvão",
+        "zipcode": "38616-042"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Avenida Valdemar Gonçalves Pereira",
+        "zipcode": "38621-266"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Beco Santa Rita",
+        "zipcode": "38620-009"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Alpino Jacinto",
+        "zipcode": "38613-176"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Adolfo Rodrigues",
+        "zipcode": "38616-544"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Adão Fernandes de Oliveira",
+        "zipcode": "38621-256"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Anacleto Ferreira",
+        "zipcode": "38616-455"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Ana Paulino da Silva",
+        "zipcode": "38613-362"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Avenida Unaí",
+        "zipcode": "38620-194"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale do Amanhecer",
+        "street": "Rua Abel da Rocha Cortes",
+        "zipcode": "38618-004"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Alba Gonzaga",
+        "zipcode": "38616-040"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Anísio Gonçalves",
+        "zipcode": "38612-240"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Praça Duilio Valadão",
+        "zipcode": "38612-020"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Avenida Vicente de Paula Pessoa",
+        "zipcode": "38616-532"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Angico",
+        "zipcode": "38616-672"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Alba Gonzaga",
+        "zipcode": "38616-034"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Amanaporanga",
+        "zipcode": "38616-242"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Rodovia Frei Jorge",
+        "zipcode": "38610-100"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Avenida Transamazônica",
+        "zipcode": "38616-108"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rodovia Frei Jorge",
+        "zipcode": "38616-116"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Badí Damião",
+        "zipcode": "38620-012"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Ari Lacerda",
+        "zipcode": "38616-502"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Boa Vista",
+        "zipcode": "38616-030"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Aroeira",
+        "zipcode": "38616-658"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Ataualpa Jacinto da Cunha",
+        "zipcode": "38610-304"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Antônio Martins de Melo",
+        "zipcode": "38621-733"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Cachoeira",
+        "zipcode": "38610-283"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale do Amanhecer",
+        "street": "Rua Armando Alcebíades Paulino",
+        "zipcode": "38618-002"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Bolívar Pego",
+        "zipcode": "38613-206"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Antônio Francisco Barbosa",
+        "zipcode": "38621-636"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Antônio Morais Pessoa",
+        "zipcode": "38613-248"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Antônio Gonçalves",
+        "zipcode": "38613-130"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Bremen",
+        "zipcode": "38618-116"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Rua Antônio Brochado",
+        "zipcode": "38613-096"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Antônio Rodrigues Barbosa",
+        "zipcode": "38610-134"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Rua Bento Dias Pereira",
+        "zipcode": "38613-570"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua C",
+        "zipcode": "38616-150"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Antônio Brochado",
+        "zipcode": "38613-352"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Benedito Caetano Costa",
+        "zipcode": "38612-038"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Antônio Pereira dos Santos",
+        "zipcode": "38616-556"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Antônio Joaquim",
+        "zipcode": "38616-050"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Antônio Versiani",
+        "zipcode": "38616-770"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Serenata",
+        "street": "Rua Augusto Calheiros",
+        "zipcode": "38613-296"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Buenos Aires",
+        "zipcode": "38612-056"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Bartira",
+        "zipcode": "38616-224"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Assunção",
+        "zipcode": "38612-086"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Antônio Gaia",
+        "zipcode": "38616-452"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Buenos Aires",
+        "zipcode": "38612-080"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Berlim",
+        "zipcode": "38618-122"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Antônio Firmiano",
+        "zipcode": "38610-289"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Antônio Brochado",
+        "zipcode": "38613-160"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Antônio Gonçalves Junior",
+        "zipcode": "38621-766"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Benedito Medeiros Andrade",
+        "zipcode": "38620-306"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Antônio Luiz de Sousa",
+        "zipcode": "38613-360"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila do Sol",
+        "street": "Rua Arlindo Gomes Branquinho",
+        "zipcode": "38616-192"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Áustria",
+        "zipcode": "38618-098"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Rua Arminda Rangel",
+        "zipcode": "38610-110"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua B",
+        "zipcode": "38616-154"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Antônio Peixoto",
+        "zipcode": "38616-526"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua B",
+        "zipcode": "38610-142"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila do Sol",
+        "street": "Rua Borboletas",
+        "zipcode": "38616-188"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Antônio Severino de Araújo",
+        "zipcode": "38612-022"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Rua C",
+        "zipcode": "38613-090"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Cachoeira",
+        "zipcode": "38610-051"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Antônio da Silva Lara",
+        "zipcode": "38620-298"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Caiçara",
+        "zipcode": "38610-361"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Bolívia",
+        "zipcode": "38612-200"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua Benedita Félix Barbosa",
+        "zipcode": "38613-118"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Antônio Pereira dos Santos",
+        "zipcode": "38616-560"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Antônio Oliveira Lepesqueur",
+        "zipcode": "38621-654"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Belém",
+        "zipcode": "38613-224"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Assanhaço",
+        "zipcode": "38612-070"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Araxá",
+        "zipcode": "38613-194"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Antônio Brochado",
+        "zipcode": "38613-173"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Explanada",
+        "street": "Rua Beira Rio",
+        "zipcode": "38620-100"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Arminda Rangel",
+        "zipcode": "38620-003"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Calixto Martins de Melo",
+        "zipcode": "38610-039"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Brasília",
+        "zipcode": "38621-606"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Celina Lisboa Frederico",
+        "zipcode": "38610-041"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua das Águias",
+        "zipcode": "38620-226"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Custódio Maia",
+        "zipcode": "38613-662"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua das Esmeraldas",
+        "zipcode": "38616-102"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua da Araporanga",
+        "zipcode": "38620-222"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua da Siriema",
+        "zipcode": "38620-218"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Cici Versiane",
+        "zipcode": "38620-560"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua da Serra",
+        "zipcode": "38613-515"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila São Sebastião",
+        "street": "Rua Cristiano Marques",
+        "zipcode": "38613-074"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Canabrava",
+        "zipcode": "38610-031"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Canabrava",
+        "zipcode": "38610-250"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Serenata",
+        "street": "Rua da Serra",
+        "zipcode": "38613-299"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Rio Preto",
+        "street": "Rua D",
+        "zipcode": "38610-404"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Córrego do São Bartolomeu",
+        "zipcode": "38620-742"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Cardeal",
+        "zipcode": "38612-066"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua das Araras",
+        "zipcode": "38620-232"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua D",
+        "zipcode": "38616-156"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Catalão",
+        "zipcode": "38610-292"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Capim Branco",
+        "zipcode": "38616-070"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua da Pedra",
+        "zipcode": "38610-122"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Chiquito Martins Ferreira",
+        "zipcode": "38616-724"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Caxambu",
+        "zipcode": "38613-191"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua das Águas Marinhas",
+        "zipcode": "38616-080"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua das Camélias",
+        "zipcode": "38613-050"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Cândido Correa de Oliveira",
+        "zipcode": "38610-146"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Caracaraí",
+        "zipcode": "38616-244"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua da Graúna",
+        "zipcode": "38620-210"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Campo Belo",
+        "zipcode": "38620-015"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Cuitiê",
+        "zipcode": "38616-248"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Rua Cinco",
+        "zipcode": "38621-238"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Córrego da Lontra",
+        "zipcode": "38620-754"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua da Serra",
+        "zipcode": "38613-350"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Curió",
+        "zipcode": "38612-060"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua da Torre",
+        "zipcode": "38620-188"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Carambolas",
+        "zipcode": "38612-155"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Coletor Antônio Gonçalves",
+        "zipcode": "38620-018"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Córrego Sucuri",
+        "zipcode": "38620-734"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Cecílio da Silva Couto",
+        "zipcode": "38616-592"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Cedro",
+        "zipcode": "38616-676"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua da Alvorada",
+        "zipcode": "38612-248"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Chico Curral Velho",
+        "zipcode": "38620-550"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Curitiba",
+        "zipcode": "38613-413"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Clacio Martins de Souza",
+        "zipcode": "38616-434"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua das Turquesas",
+        "zipcode": "38616-106"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Canabrava",
+        "zipcode": "38610-238"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua das Margaridas",
+        "zipcode": "38613-044"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Corina Gonçalves Pereira",
+        "zipcode": "38616-541"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Cardeal",
+        "zipcode": "38620-208"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Córrego do Taquaril",
+        "zipcode": "38620-768"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Castanheira",
+        "zipcode": "38616-642"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua das Andorinhas",
+        "zipcode": "38620-186"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Córrego do Amaro",
+        "zipcode": "38620-732"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Mangueiras",
+        "zipcode": "38612-173"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua das Ametistas",
+        "zipcode": "38616-112"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua das Andorinhas",
+        "zipcode": "38620-184"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Catalão",
+        "zipcode": "38610-243"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua da Patativa",
+        "zipcode": "38620-236"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua das Orquídeas",
+        "zipcode": "38616-028"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua das Camélias",
+        "zipcode": "38616-026"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Cinco",
+        "zipcode": "38620-876"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua da Capoeira",
+        "zipcode": "38620-204"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Carmo do Paranaíba",
+        "zipcode": "38613-006"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Coraci José Mateus",
+        "zipcode": "38621-286"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Pecuarista",
+        "zipcode": "38620-638"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Domingos Martins Cebola",
+        "zipcode": "38613-203"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Rua Deusdedith Rodrigues da Costa",
+        "zipcode": "38613-574"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua do Contorno",
+        "zipcode": "38616-052"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Tucano",
+        "zipcode": "38620-250"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Advogado",
+        "zipcode": "38620-644"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Químico",
+        "zipcode": "38620-646"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua do Pico",
+        "zipcode": "38612-244"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Dois",
+        "zipcode": "38620-864"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Jaburu",
+        "zipcode": "38620-200"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua das Rosas",
+        "zipcode": "38613-054"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua das Perolas",
+        "zipcode": "38616-110"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Dona Maria Maia",
+        "zipcode": "38616-584"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Torneiro",
+        "zipcode": "38620-626"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Mangabas",
+        "zipcode": "38612-125"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua do Sol",
+        "zipcode": "38612-278"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila do Sol",
+        "street": "Rua dos Bem",
+        "zipcode": "38616-186"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua dos Canários",
+        "zipcode": "38620-216"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Domingos Pereira da Silva",
+        "zipcode": "38621-630"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Pitangas",
+        "zipcode": "38612-152"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Coleiro",
+        "zipcode": "38620-193"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua dos Caquis",
+        "zipcode": "38612-149"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Dez",
+        "zipcode": "38620-894"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua das Turmalinas",
+        "zipcode": "38616-090"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Pintacilgo",
+        "zipcode": "38620-212"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua das Olarias",
+        "zipcode": "38610-632"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua das Pombas",
+        "zipcode": "38620-238"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua das Tulipas",
+        "zipcode": "38613-062"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Dorcina Camilo",
+        "zipcode": "38620-544"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "de Lourdes",
+        "street": "Rua do Ouvidor",
+        "zipcode": "38616-474"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Carcara",
+        "zipcode": "38620-248"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Delduque Alves Pinheiro",
+        "zipcode": "38620-027"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua das Opalas",
+        "zipcode": "38616-086"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Domingos Pinto Brochado",
+        "zipcode": "38610-148"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Condor",
+        "zipcode": "38620-234"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Tico",
+        "zipcode": "38620-242"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Sanhaço",
+        "zipcode": "38620-244"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Delduque José da Rocha",
+        "zipcode": "38610-144"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Dois",
+        "zipcode": "38613-200"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Anu",
+        "zipcode": "38620-228"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua E",
+        "zipcode": "38620-882"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua dos Pardais",
+        "zipcode": "38620-192"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Flamingo",
+        "zipcode": "38620-240"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua dos Tinguizeiros",
+        "zipcode": "38612-140"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Rua do Condomínio",
+        "zipcode": "38610-112"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila Militar",
+        "street": "Rua Edir Gonçalves",
+        "zipcode": "38613-396"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Dona Nina",
+        "zipcode": "38621-624"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Rio",
+        "zipcode": "38620-202"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua dos Buganvilles",
+        "zipcode": "38613-103"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua dos Abacateiros",
+        "zipcode": "38612-176"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Djalma Torres",
+        "zipcode": "38610-259"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua dos Tinguizeiros",
+        "zipcode": "38613-314"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Doutor Natal Rabelo",
+        "zipcode": "38616-794"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Farmacêutico",
+        "zipcode": "38620-642"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Agrônomo",
+        "zipcode": "38620-632"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua dos Topázios",
+        "zipcode": "38616-104"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Domingos Pinto Brochado",
+        "zipcode": "38610-313"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Curió",
+        "zipcode": "38620-252"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Dona Diometília Rodrigues da Silva",
+        "zipcode": "38613-275"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Donor Frederico",
+        "zipcode": "38610-367"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua dos Namorados",
+        "zipcode": "38612-236"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Professor",
+        "zipcode": "38620-624"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Bem",
+        "zipcode": "38620-190"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Doutor Dival Lucas",
+        "zipcode": "38616-578"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Frei Supriano",
+        "zipcode": "38612-004"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Genipapeiro",
+        "zipcode": "38616-644"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Rua Doutor Joaquim Brochado",
+        "zipcode": "38610-108"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Durval Martins Ferreira",
+        "zipcode": "38616-776"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Espatódea",
+        "zipcode": "38616-648"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Frei Cecílio",
+        "zipcode": "38610-316"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Ermelinda Teixeira Vasconcelos",
+        "zipcode": "38613-376"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Elesbão Souto",
+        "zipcode": "38621-757"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua dos Flamboyants",
+        "zipcode": "38613-109"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Francisco Rodrigues da Silva",
+        "zipcode": "38610-200"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Fortaleza",
+        "zipcode": "38612-179"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Eduardo Mendes da Silva",
+        "zipcode": "38612-164"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua F",
+        "zipcode": "38620-884"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua Francisco Rodrigues da Silva",
+        "zipcode": "38613-036"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua dos Mognos",
+        "zipcode": "38616-680"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Genebra",
+        "zipcode": "38618-125"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Elder Bonifácio Góes",
+        "zipcode": "38620-532"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua E",
+        "zipcode": "38610-376"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Frutal",
+        "zipcode": "38612-252"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Franquilino Martins de Souza",
+        "zipcode": "38616-428"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Elson Gabriel de Paulo",
+        "zipcode": "38621-666"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Francisco Pereira dos Santos",
+        "zipcode": "38620-552"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Dulce Torres Brochado",
+        "zipcode": "38613-322"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Francisco Alves",
+        "zipcode": "38621-687"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Rua Filadelfo Souza Pinto",
+        "zipcode": "38613-080"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua dos Lírios",
+        "zipcode": "38613-038"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Dulce Torres Brochado",
+        "zipcode": "38612-161"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Eliso Augusto André",
+        "zipcode": "38613-218"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua dos Rubis",
+        "zipcode": "38616-082"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua dos Jasmins",
+        "zipcode": "38613-060"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila do Sol",
+        "street": "Rua dos Pequizeiros",
+        "zipcode": "38616-190"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Francisco Alves da Mata",
+        "zipcode": "38613-368"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Eli Pinto de Carvalho",
+        "zipcode": "38616-044"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Flamboyant",
+        "zipcode": "38616-650"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Guainumbi",
+        "zipcode": "38616-238"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Eduardo Rodrigues Barbosa",
+        "zipcode": "38610-150"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Eli Pinto de Carvalho",
+        "zipcode": "38610-006"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Rua Herculano Oliveira e Silva",
+        "zipcode": "38610-102"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Frei Francisco",
+        "zipcode": "38616-535"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila do Sol",
+        "street": "Rua Frei Caneca",
+        "zipcode": "38616-184"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Jessy Coelho Pereira",
+        "zipcode": "38616-538"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua João Evangelista Antunes",
+        "zipcode": "38612-210"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Heitor Marques Viana",
+        "zipcode": "38613-318"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Equador",
+        "zipcode": "38612-092"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Furriel",
+        "zipcode": "38610-624"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Eponina Borges Pinheiro",
+        "zipcode": "38616-499"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Euclides Araújo",
+        "zipcode": "38621-260"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Frei Patrício",
+        "zipcode": "38610-076"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Honduras",
+        "zipcode": "38612-098"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua João Batista Soares",
+        "zipcode": "38618-080"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua João Mendes Cornélio",
+        "zipcode": "38612-030"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Enedino Mendes Reneiros",
+        "zipcode": "38616-586"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Ilda Tibúrcio Pessoa",
+        "zipcode": "38616-576"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Grecina Oliveira Souto",
+        "zipcode": "38621-742"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua João Dona",
+        "zipcode": "38613-272"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Jacuí",
+        "zipcode": "38613-664"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Florêncio Rocha",
+        "zipcode": "38621-763"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Eva Aparecida da Silva",
+        "zipcode": "38621-651"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Garapa",
+        "zipcode": "38616-682"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Goiás",
+        "zipcode": "38612-107"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Frei Brocardio",
+        "zipcode": "38616-046"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Filadelfo Souza Pinto",
+        "zipcode": "38613-263"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Gerson Rodrigues Gondim",
+        "zipcode": "38610-069"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Jéferson Santana",
+        "zipcode": "38612-036"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Getúlio Costa",
+        "zipcode": "38620-296"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Ipê",
+        "zipcode": "38616-692"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Izaias Gonzaga",
+        "zipcode": "38616-440"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua I",
+        "zipcode": "38620-892"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Jaçanã",
+        "zipcode": "38613-545"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Itaoca",
+        "zipcode": "38613-668"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Geraldo Furtado Santos",
+        "zipcode": "38616-574"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Gilberto Medeiros",
+        "zipcode": "38621-706"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Israel Valadares Versiane",
+        "zipcode": "38613-334"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Irací Costa Ribeiro",
+        "zipcode": "38613-182"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Herculano Oliveira e Silva",
+        "zipcode": "38610-091"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Jaçanã",
+        "zipcode": "38616-232"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Guararapes",
+        "zipcode": "38621-657"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua João Olímpio",
+        "zipcode": "38621-648"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Geraldo Mangel José Rocha",
+        "zipcode": "38610-213"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Itapuã",
+        "zipcode": "38613-646"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Itiquira",
+        "zipcode": "38610-616"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila Militar",
+        "street": "Rua Geraldo Alberto Souza",
+        "zipcode": "38613-390"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Geraldo Rodrigues Campos",
+        "zipcode": "38613-312"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Imburana",
+        "zipcode": "38613-151"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Jatobá",
+        "zipcode": "38616-662"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua J",
+        "zipcode": "38620-896"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua João Medeiros",
+        "zipcode": "38621-739"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua João Martins de Melo",
+        "zipcode": "38616-398"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Iraci Resende",
+        "zipcode": "38621-274"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Henrique Neiva",
+        "zipcode": "38621-769"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua João Gaia",
+        "zipcode": "38616-588"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Gilberto Medeiros",
+        "zipcode": "38621-612"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Geraldo Armando Versiani",
+        "zipcode": "38613-330"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua João Pataca",
+        "zipcode": "38616-422"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua João Francisco de Souza",
+        "zipcode": "38613-542"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila Militar",
+        "street": "Rua Homero Carcereiro",
+        "zipcode": "38613-392"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Jequitibá",
+        "zipcode": "38616-646"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Iandui",
+        "zipcode": "38621-621"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua João Ribeiro dos Santos",
+        "zipcode": "38621-703"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "de Lourdes",
+        "street": "Rua Havana",
+        "zipcode": "38616-480"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Itaipava",
+        "zipcode": "38613-648"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua I",
+        "zipcode": "38612-014"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Jiboia",
+        "zipcode": "38610-630"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua João Dayrel Filho",
+        "zipcode": "38616-570"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Jakson Inácio de Sousa",
+        "zipcode": "38620-294"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Júlio Borges",
+        "zipcode": "38616-048"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua José Maria Rates",
+        "zipcode": "38620-524"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Laguna",
+        "zipcode": "38610-622"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Rio Preto",
+        "street": "Rua José Marciano Pinto",
+        "zipcode": "38610-400"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua João Pereira Barbosa",
+        "zipcode": "38613-133"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Leão Rocha",
+        "zipcode": "38621-627"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Joaquim Dourado",
+        "zipcode": "38621-775"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Lambari",
+        "zipcode": "38613-239"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua José Gonzaga",
+        "zipcode": "38620-024"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua José Bateia",
+        "zipcode": "38610-265"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua José Antônio Soares",
+        "zipcode": "38613-340"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Juriti",
+        "zipcode": "38613-145"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Joaquim Carola",
+        "zipcode": "38616-413"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua João Mendes Cornélio",
+        "zipcode": "38612-054"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "38610-120"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Júlia Borges de Souza",
+        "zipcode": "38613-269"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua José Alves de Avelar",
+        "zipcode": "38621-282"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Juca Vieira",
+        "zipcode": "38621-690"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Juvêncio Correio",
+        "zipcode": "38620-030"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "38610-081"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua João Pinheiro",
+        "zipcode": "38610-128"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua José de Melo",
+        "zipcode": "38616-517"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Luiz Alves",
+        "zipcode": "38610-271"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Explanada",
+        "street": "Rua Lourdes Maria da Silva",
+        "zipcode": "38620-103"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Leão Rocha",
+        "zipcode": "38621-751"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Juvêncio Correio",
+        "zipcode": "38610-089"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Rio Preto",
+        "street": "Rua Luiza Maria da Silva",
+        "zipcode": "38610-402"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua José Vieira Machado",
+        "zipcode": "38612-018"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Josino do Vale",
+        "zipcode": "38613-380"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua José Oliveira Souto",
+        "zipcode": "38621-718"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Jozinda Martins",
+        "zipcode": "38616-547"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Rua Jovino Rodrigues Santana",
+        "zipcode": "38613-094"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua José Metode",
+        "zipcode": "38620-540"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Rua José Alcebíades Paulino",
+        "zipcode": "38613-092"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Rua José Adelson Fernandes",
+        "zipcode": "38613-576"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua José Eduardo Mendes Neto",
+        "zipcode": "38620-526"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Joaquim Santana",
+        "zipcode": "38621-678"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua José Lopes Siqueira",
+        "zipcode": "38616-404"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Lasara Luiza da Silva",
+        "zipcode": "38612-048"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua José Batista da Silva",
+        "zipcode": "38620-302"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Luiz Carlos Prestes",
+        "zipcode": "38613-332"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua K",
+        "zipcode": "38620-898"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua José Carapina",
+        "zipcode": "38616-564"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Líbio Mânica",
+        "zipcode": "38616-594"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Júpiter",
+        "zipcode": "38612-275"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua José Batista do Couto",
+        "zipcode": "38613-142"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Juracy de Oliveira",
+        "zipcode": "38616-425"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Lateral Um",
+        "zipcode": "38621-270"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila São Sebastião",
+        "street": "Rua Justino Lucas",
+        "zipcode": "38613-070"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua José Durães Versiani",
+        "zipcode": "38612-158"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua José Lemos da Silva",
+        "zipcode": "38621-252"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua José Assis Soares Menezes",
+        "zipcode": "38620-300"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Juvêncio Martins Ferreira",
+        "zipcode": "38616-508"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Lyon",
+        "zipcode": "38618-092"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Marcos Lopes",
+        "zipcode": "38613-527"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Natal Justino da Costa",
+        "zipcode": "38610-152"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Maria David Ramos",
+        "zipcode": "38610-328"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Oitenta",
+        "zipcode": "38616-550"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Mozar José Crispim",
+        "zipcode": "38620-556"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Neusa Vieira Soares",
+        "zipcode": "38620-548"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Moscou",
+        "zipcode": "38618-089"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Luxemburgo",
+        "zipcode": "38618-095"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Miguel Marcelino Soares",
+        "zipcode": "38613-197"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Noemes Martins Ferreira",
+        "zipcode": "38616-797"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Lídio Pereira de Souza",
+        "zipcode": "38613-136"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Maria José da Silva",
+        "zipcode": "38620-528"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Marrocos",
+        "zipcode": "38612-232"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua Maria Lúcia Cabral",
+        "zipcode": "38613-115"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Manoel Felix Barbosa",
+        "zipcode": "38621-727"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Nossa Senhora da Conceição",
+        "zipcode": "38616-716"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Londrina",
+        "zipcode": "38612-238"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Luziânia",
+        "zipcode": "38610-325"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Maria Diva Lelis",
+        "zipcode": "38621-633"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Nossa Senhora da Rosa Mística",
+        "zipcode": "38616-718"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Liberato Pereira de Sousa",
+        "zipcode": "38621-736"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Lisboa",
+        "zipcode": "38618-119"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Martinho Gaia Filho",
+        "zipcode": "38613-344"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Londres",
+        "zipcode": "38618-137"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Monte Carmelo",
+        "zipcode": "38613-008"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Mato Grosso",
+        "zipcode": "38612-116"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Maria Pirez de Souza Alves",
+        "zipcode": "38620-520"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Marbella",
+        "zipcode": "38618-086"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Matias Nunes de Souza",
+        "zipcode": "38616-419"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Luiz Alves",
+        "zipcode": "38610-220"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Maria Gaia",
+        "zipcode": "38610-240"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Nossa Senhora de Caravagio",
+        "zipcode": "38616-700"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Melo Viana",
+        "zipcode": "38610-210"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Maria Ameliza Boaventura Martins",
+        "zipcode": "38616-791"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Miguel Alves Ribeiro",
+        "zipcode": "38613-257"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Manoel Pereira Santana",
+        "zipcode": "38610-124"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Maria Gaia",
+        "zipcode": "38610-286"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Montevidéu",
+        "zipcode": "38612-083"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Maria Vieira",
+        "zipcode": "38621-618"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Rua Nove",
+        "zipcode": "38621-242"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Mario Torres",
+        "zipcode": "38610-046"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Nelson Caetano Braz",
+        "zipcode": "38620-292"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Oito",
+        "zipcode": "38620-890"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Netuno",
+        "zipcode": "38612-266"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Maria Teixeira Veloso",
+        "zipcode": "38621-258"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Marília Martins",
+        "zipcode": "38612-230"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Miguel Alves de Souza",
+        "zipcode": "38610-295"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Maria Borges",
+        "zipcode": "38613-660"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Manoel Rodrigues Neto",
+        "zipcode": "38613-370"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Miguel Morais",
+        "zipcode": "38612-032"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Marlene Vieira Coelho",
+        "zipcode": "38613-348"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Natal Justino da Costa",
+        "zipcode": "38610-044"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Miguel Mendes Nascimento",
+        "zipcode": "38612-010"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Maria Rita Rocha",
+        "zipcode": "38621-730"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Miguel Tobias",
+        "zipcode": "38616-580"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Niterói",
+        "zipcode": "38610-136"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Miguel Pereira Campos",
+        "zipcode": "38620-254"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Rua Marechal Rondon",
+        "zipcode": "38613-572"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Maria Rita Rocha Miranda",
+        "zipcode": "38612-218"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Nova",
+        "zipcode": "38610-301"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Rua Magnólia",
+        "zipcode": "38621-013"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "38610-034"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Maria Coeli Mendes Jardim",
+        "zipcode": "38612-212"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Marte",
+        "zipcode": "38612-272"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Moacir Maria dos Reis",
+        "zipcode": "38621-288"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Professor Orlando Caetano",
+        "zipcode": "38620-021"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua Piauí",
+        "zipcode": "38616-098"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Pindaíbas",
+        "zipcode": "38616-684"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Laguna",
+        "street": "Rua Paulo Brochado",
+        "zipcode": "38613-695"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Parezina Moreira da Silva",
+        "zipcode": "38613-215"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Palmeiras",
+        "zipcode": "38616-686"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Professora Zilá Ferreira",
+        "zipcode": "38612-040"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Primeiro de Maio",
+        "zipcode": "38610-352"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Paineiras",
+        "zipcode": "38616-666"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Pinta",
+        "zipcode": "38612-068"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Plutão",
+        "zipcode": "38612-263"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua Patos de Minas",
+        "zipcode": "38613-053"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Piauí",
+        "zipcode": "38613-497"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Pará",
+        "zipcode": "38612-119"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Paracatu",
+        "zipcode": "38610-011"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Ouro Preto",
+        "zipcode": "38616-014"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Presidente Bernardes",
+        "zipcode": "38610-262"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Quatro",
+        "zipcode": "38613-342"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Quero",
+        "zipcode": "38612-074"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Olímpio Martins",
+        "zipcode": "38621-712"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Professora Georgina Pimentel",
+        "zipcode": "38616-066"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Padre Barone",
+        "zipcode": "38621-675"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua Presidente Bernardes",
+        "zipcode": "38613-032"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Pousada",
+        "zipcode": "38610-614"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Paula Aparecida Teixeira de Sousa",
+        "zipcode": "38616-431"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Pitombeiras",
+        "zipcode": "38616-652"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Potikitan",
+        "zipcode": "38616-250"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Paris",
+        "zipcode": "38618-104"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Presidente Juscelino",
+        "zipcode": "38613-245"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Prefeito João Costa",
+        "zipcode": "38613-482"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Palestina",
+        "zipcode": "38610-618"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Planeta Terra",
+        "zipcode": "38612-284"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Oslo",
+        "zipcode": "38618-113"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Quinze",
+        "zipcode": "38621-294"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua Pedro Caetano Costa",
+        "zipcode": "38613-034"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Professora Zilá Ferreira",
+        "zipcode": "38612-034"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Prefeito João Costa",
+        "zipcode": "38616-064"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Querdólio Luiz da Mota",
+        "zipcode": "38612-028"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Professora Olívia",
+        "zipcode": "38612-002"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Paulo Gonzaga",
+        "zipcode": "38616-572"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Pedro Aguiar",
+        "zipcode": "38610-340"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Orlando Pinto de Noronha",
+        "zipcode": "38621-262"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Principal",
+        "zipcode": "38620-860"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Othoniel Vieira Lucas",
+        "zipcode": "38620-304"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Paraguai",
+        "zipcode": "38612-203"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Quatro",
+        "zipcode": "38620-872"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Pau",
+        "zipcode": "38616-660"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Serenata",
+        "street": "Rua Orlando Silva",
+        "zipcode": "38613-302"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Porangatu",
+        "zipcode": "38616-222"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "de Lourdes",
+        "street": "Rua Paris",
+        "zipcode": "38616-478"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Professor Olímpio Gonzaga",
+        "zipcode": "38610-004"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Rua Quatro",
+        "zipcode": "38621-236"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Orsine Máximo Pereira",
+        "zipcode": "38613-650"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Patos de Minas",
+        "zipcode": "38612-000"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Pau",
+        "zipcode": "38616-664"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Professor Olímpio Gonzaga",
+        "zipcode": "38616-062"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Pompéu",
+        "zipcode": "38613-014"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Otto Wagerman Carneiro",
+        "zipcode": "38613-316"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Prefeito João Costa",
+        "zipcode": "38613-479"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Panamá",
+        "zipcode": "38616-234"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão do Garapé",
+        "zipcode": "38620-766"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Riacho do Peripiri",
+        "zipcode": "38620-774"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão do Cangalha",
+        "zipcode": "38620-762"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Riacho São Pedro do Cipó",
+        "zipcode": "38620-772"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Ramiro Borges",
+        "zipcode": "38612-016"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Santa Rosa",
+        "zipcode": "38616-704"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Quinzinho Carola",
+        "zipcode": "38620-534"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Santa Luzia",
+        "zipcode": "38610-280"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua São Vicente",
+        "zipcode": "38612-242"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Taquaril",
+        "zipcode": "38610-628"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Rua Sapucaia",
+        "zipcode": "38621-022"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão do Santa Maria",
+        "zipcode": "38620-738"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Rosita Martins Ferreira",
+        "zipcode": "38616-496"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua São Lourenço",
+        "zipcode": "38613-185"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Taquaril",
+        "zipcode": "38612-224"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Rio Jardim",
+        "zipcode": "38620-730"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Sérgio Rodrigues Soares Filho",
+        "zipcode": "38613-378"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Seis",
+        "zipcode": "38620-880"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Santa Luzia",
+        "zipcode": "38613-004"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale do Amanhecer",
+        "street": "Rua Sebastião Geraldo Cassiano",
+        "zipcode": "38618-012"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua San Salvador",
+        "zipcode": "38612-101"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Santa Clara",
+        "zipcode": "38616-006"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Rio Jiboia",
+        "zipcode": "38620-750"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Raulino Rabelo de Araújo",
+        "zipcode": "38613-212"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Rouxinol",
+        "zipcode": "38612-062"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Santa Cecília",
+        "zipcode": "38616-708"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Rio São Marcos",
+        "zipcode": "38620-743"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Ricardo Lepesqueur Campos",
+        "zipcode": "38620-554"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão Tamboril",
+        "zipcode": "38620-758"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Sérgio Martins Ferreira",
+        "zipcode": "38616-523"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão do Mundim",
+        "zipcode": "38620-776"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão do Canabrava",
+        "zipcode": "38620-744"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Roraima",
+        "zipcode": "38612-113"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua São José",
+        "zipcode": "38610-026"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Sebastião Caetano Costa",
+        "zipcode": "38620-546"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua San Marino",
+        "zipcode": "38618-110"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Rio Preto",
+        "zipcode": "38610-256"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão do Jacaré",
+        "zipcode": "38620-760"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Roma",
+        "zipcode": "38618-131"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Sabará",
+        "zipcode": "38616-018"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Roncador",
+        "zipcode": "38610-019"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "38613-488"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Rua Sete",
+        "zipcode": "38621-240"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Sebastião Alves Ferreira",
+        "zipcode": "38621-276"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Tamboril",
+        "zipcode": "38616-688"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua São Bartolomeu",
+        "zipcode": "38613-179"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "38613-251"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Santa Sara Kali",
+        "zipcode": "38616-706"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Sibipiruna",
+        "zipcode": "38616-674"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Rua Seis",
+        "zipcode": "38621-232"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Roda Viva",
+        "zipcode": "38613-209"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão Roncador",
+        "zipcode": "38620-748"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Santa Rita",
+        "zipcode": "38620-006"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Sabiá",
+        "zipcode": "38612-058"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão da Forquilha",
+        "zipcode": "38620-770"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Santa Efigênia",
+        "zipcode": "38616-720"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Saturno",
+        "zipcode": "38612-269"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Sebastião Alves Teodoro",
+        "zipcode": "38610-370"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Sebastião Vieira",
+        "zipcode": "38621-778"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Santo Agostinho",
+        "zipcode": "38616-726"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Travessa das Olarias",
+        "zipcode": "38610-364"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Toinzinho Pompiano",
+        "zipcode": "38613-254"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Rua Virgílio Justiniano Ribeiro",
+        "zipcode": "38610-106"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Vinte e Um de Abril",
+        "zipcode": "38610-343"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Tutoia",
+        "zipcode": "38616-246"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Urano",
+        "zipcode": "38612-260"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Três de Maio",
+        "zipcode": "38613-358"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Viena",
+        "zipcode": "38618-107"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila Militar",
+        "street": "Rua Tiradentes",
+        "zipcode": "38613-400"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Vera Lúcia Alexandre Nogueira",
+        "zipcode": "38613-366"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Travessa Mercêdes Felis Barbosa",
+        "zipcode": "38613-084"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Tupis",
+        "zipcode": "38610-349"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Três",
+        "zipcode": "38613-221"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Vênus",
+        "zipcode": "38612-281"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Zita Martins Ferreira",
+        "zipcode": "38616-728"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Trindade",
+        "zipcode": "38612-222"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Terezina",
+        "zipcode": "38612-185"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Três",
+        "zipcode": "38620-870"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Virgílio Justiniano Ribeiro",
+        "zipcode": "38610-001"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua Um",
+        "zipcode": "38620-862"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "de Lourdes",
+        "street": "Rua Veneza",
+        "zipcode": "38616-476"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Ursulino Brochado",
+        "zipcode": "38610-126"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Topógrafo Gilberto Campos",
+        "zipcode": "38621-681"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Zeca Martins",
+        "zipcode": "38616-410"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Unaí",
+        "zipcode": "38621-642"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Explanada",
+        "street": "Rua Vital Lara",
+        "zipcode": "38620-109"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Vila Rica",
+        "zipcode": "38616-020"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Tucunaré",
+        "zipcode": "38613-233"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Vicente Rocha Costa",
+        "zipcode": "38610-056"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Valdemar Barbosa de Oliveira",
+        "zipcode": "38621-268"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Uruguai",
+        "zipcode": "38612-197"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Tupis",
+        "zipcode": "38621-603"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Valdemar Bernardes de Faria",
+        "zipcode": "38616-380"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Veneza",
+        "zipcode": "38618-128"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Venina Ramos Aguiar",
+        "zipcode": "38610-138"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Zaida Torres Martins",
+        "zipcode": "38616-016"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "38610-972"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Frei Anselmo",
+        "zipcode": "38613-434"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Avenida Potikitan",
+        "zipcode": "38616-654"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Avenida José Geraldo de Almeida",
+        "zipcode": "38616-788"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Avenida Otávio Araújo",
+        "zipcode": "38616-437"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Avenida Dona Júlia Lara",
+        "zipcode": "38613-666"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Avenida Alcino José da Rocha",
+        "zipcode": "38616-395"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Princesa Isabel",
+        "zipcode": "38613-428"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Avenida José Luiz Adjuto",
+        "zipcode": "38610-307"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38610-114"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Laguna",
+        "street": "Avenida da Independência",
+        "zipcode": "38613-683"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Avenida Capitão Carlos Gonzaga",
+        "zipcode": "38610-355"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Lisboa",
+        "zipcode": "38613-452"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila Militar",
+        "street": "Avenida Dona Júlia Lara",
+        "zipcode": "38613-402"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rodovia MG",
+        "zipcode": "38621-600"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38610-014"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Avenida Cabo Verde",
+        "zipcode": "38621-016"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Alameda Todos os Santos",
+        "zipcode": "38616-712"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Rui Barbosa",
+        "zipcode": "38613-464"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Avenida do Médico",
+        "zipcode": "38620-622"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Aldeia",
+        "zipcode": "38610-024"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Laguna",
+        "street": "Rua Adélio Martins Campos",
+        "zipcode": "38613-686"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua das Magnólias",
+        "zipcode": "38613-042"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Antônio Brochado",
+        "zipcode": "38610-228"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Buritis",
+        "zipcode": "38610-049"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua D",
+        "zipcode": "38620-878"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Laranjeiras",
+        "zipcode": "38612-167"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila São Sebastião",
+        "street": "Rua Amélia Gaia",
+        "zipcode": "38613-076"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Bogotá",
+        "zipcode": "38612-089"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua das Açucenas",
+        "zipcode": "38613-064"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila Militar",
+        "street": "Rua Antonieta Torres",
+        "zipcode": "38613-394"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale do Amanhecer",
+        "street": "Rua Antônio Inácio da Silva",
+        "zipcode": "38618-010"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Argentina",
+        "zipcode": "38612-194"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Antônio Sena Souto",
+        "zipcode": "38612-234"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Antônio Paulino",
+        "zipcode": "38616-392"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Brasil",
+        "zipcode": "38612-226"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jacilândia",
+        "street": "Rua Costa e Silva",
+        "zipcode": "38620-033"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Flores",
+        "zipcode": "38612-131"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila do Sol",
+        "street": "Rua das Palmeiras",
+        "zipcode": "38616-180"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Camila Pinto Brochado",
+        "zipcode": "38613-188"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "de Lourdes",
+        "street": "Rua Canadá",
+        "zipcode": "38616-472"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Curitiba",
+        "zipcode": "38616-054"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua das Olarias",
+        "zipcode": "38610-388"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Alba Gonzaga",
+        "zipcode": "38610-021"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Cassimiro Pires Maciel",
+        "zipcode": "38620-290"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Altamiro Araújo de Carvalho",
+        "zipcode": "38612-188"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Acácio Afonso dos Reis",
+        "zipcode": "38610-379"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua da Serra",
+        "zipcode": "38613-260"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Laguna",
+        "street": "Rua Cora Coralina",
+        "zipcode": "38613-689"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Amoras",
+        "zipcode": "38612-146"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua da Cerâmica",
+        "zipcode": "38620-198"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Rio Preto",
+        "street": "Rua Ataualpa Jacinto da Cunha",
+        "zipcode": "38610-405"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Avenida Tancredo Neves",
+        "zipcode": "38613-001"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Caracas",
+        "zipcode": "38612-095"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Amapá",
+        "zipcode": "38612-110"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Aleixo Faria Albernaz",
+        "zipcode": "38613-374"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Antônio Brochado",
+        "zipcode": "38613-020"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Serenata",
+        "street": "Rua Antônio Brochado",
+        "zipcode": "38613-290"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Avenida Tancredo Neves",
+        "zipcode": "38610-319"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Campo Grande",
+        "zipcode": "38612-191"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua A",
+        "zipcode": "38620-866"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Artur Alves de Souza",
+        "zipcode": "38613-656"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua das Violetas",
+        "zipcode": "38613-052"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "de Lourdes",
+        "street": "Rodovia Frei Jorge",
+        "zipcode": "38616-470"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua das Sucupiras",
+        "zipcode": "38616-690"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Transamazônica",
+        "zipcode": "38613-437"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "38613-443"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Tiradentes",
+        "zipcode": "38610-071"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua C",
+        "zipcode": "38620-874"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Praça Domingos Filho Denoni",
+        "zipcode": "38613-658"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Praça Manoel Maciel",
+        "zipcode": "38613-278"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Benedito Osório",
+        "zipcode": "38616-590"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Arlindo José Souto",
+        "zipcode": "38621-724"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Cipotira",
+        "zipcode": "38616-240"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Laguna",
+        "street": "Rua Cecília Meireles",
+        "zipcode": "38613-692"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Anderson Lopes Brandão",
+        "zipcode": "38620-308"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Avenida Vereador João Narciso",
+        "zipcode": "38610-298"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua B",
+        "zipcode": "38620-868"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Córrego do Jordão",
+        "zipcode": "38620-736"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Cajaranas",
+        "zipcode": "38612-134"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Frederico Ozanan",
+        "zipcode": "38610-334"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Francisca Lucas da Silva",
+        "zipcode": "38620-536"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Doralice Caetano Costa",
+        "zipcode": "38613-157"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua José Manoel do Nascimento",
+        "zipcode": "38620-530"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua João de Carvalho Melgaço",
+        "zipcode": "38616-514"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua dos Jambos",
+        "zipcode": "38612-122"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Enetério da Fonseca",
+        "zipcode": "38616-407"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Firmino Pedro de Melo",
+        "zipcode": "38621-609"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco",
+        "street": "Rua Juvêncio Correio",
+        "zipcode": "38610-104"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Lateral Nove",
+        "zipcode": "38621-284"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua José Araújo Mesquita",
+        "zipcode": "38613-154"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Djalma Torres",
+        "zipcode": "38610-036"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua José Batista Neres",
+        "zipcode": "38621-264"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Explanada",
+        "street": "Rua José do Vale",
+        "zipcode": "38620-106"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua dos Diamantes",
+        "zipcode": "38616-092"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Sabiá",
+        "zipcode": "38620-182"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua G",
+        "zipcode": "38620-886"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Joana Figueiredo",
+        "zipcode": "38616-461"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Joaquim Barbosa",
+        "zipcode": "38610-140"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Topógrafo",
+        "zipcode": "38620-640"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Padeiro",
+        "zipcode": "38620-630"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Dona Dezinha",
+        "zipcode": "38616-511"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Gerson Rodrigues Gondim",
+        "zipcode": "38610-132"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Comerciante",
+        "zipcode": "38620-636"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua Domingos Alves Ribeiro",
+        "zipcode": "38613-112"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua Jacarandá",
+        "zipcode": "38616-668"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Dulce Torres Brochado",
+        "zipcode": "38610-373"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Iuna",
+        "street": "Rua Ilario Gonçalves",
+        "zipcode": "38616-566"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Geovanina Valadares Versiani",
+        "zipcode": "38613-326"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua José Félix",
+        "zipcode": "38621-709"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Juca Alves",
+        "zipcode": "38610-346"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua L",
+        "zipcode": "38620-899"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Alvorada",
+        "street": "Rua do Engenheiro",
+        "zipcode": "38620-634"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua João Pinheiro",
+        "zipcode": "38610-079"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Honório Martins",
+        "zipcode": "38616-458"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua dos Colibris",
+        "zipcode": "38620-224"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua Ivaní Barcelar Silva",
+        "zipcode": "38620-310"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Mar Verde",
+        "zipcode": "38612-228"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Itaobi",
+        "zipcode": "38616-226"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Frei Pio",
+        "zipcode": "38612-012"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua João Francisco de Souza",
+        "zipcode": "38613-642"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Júlio Cardoso Freire",
+        "zipcode": "38613-227"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Geraldo Faria Albernaz",
+        "zipcode": "38621-700"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Iraci Alves da Silva",
+        "zipcode": "38621-615"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cidade Nova",
+        "street": "Rua dos Perobas",
+        "zipcode": "38616-670"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Jarbas da Mota Fernandes",
+        "zipcode": "38613-372"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua João Morais Pessoa",
+        "zipcode": "38621-639"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua José Rodrigues dos Santos",
+        "zipcode": "38612-046"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Joaquim Souto",
+        "zipcode": "38621-754"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Eduardo Rodrigues Barbosa",
+        "zipcode": "38610-061"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Felisberto Versiane",
+        "zipcode": "38616-032"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Beija",
+        "zipcode": "38620-220"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Curva do Rio",
+        "street": "Rua H",
+        "zipcode": "38620-888"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua João",
+        "zipcode": "38612-064"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Graúna",
+        "zipcode": "38616-236"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Piriquito",
+        "zipcode": "38620-214"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Francisco Rodrigues da Silva",
+        "zipcode": "38616-000"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Dourado",
+        "zipcode": "38613-236"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Herculano Oliveira",
+        "zipcode": "38621-660"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Rua E",
+        "zipcode": "38613-086"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Kamayura",
+        "street": "Rua Etamapiranga",
+        "zipcode": "38616-228"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Pedro Pereira Cardoso",
+        "zipcode": "38610-218"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Tatão Martins",
+        "zipcode": "38616-779"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "38613-485"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Morada Nova",
+        "zipcode": "38613-016"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Rua Neuza Guimarães Lara",
+        "zipcode": "38613-564"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Presidente Bernardes",
+        "zipcode": "38610-215"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Melo Viana",
+        "zipcode": "38610-253"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Rua Treze",
+        "zipcode": "38621-246"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Olavo Francisco de Oliveira",
+        "zipcode": "38612-052"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Luiza Marson Casavechia",
+        "zipcode": "38620-538"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Nego Bilico",
+        "zipcode": "38616-401"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão do Carmo",
+        "zipcode": "38620-764"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Paracatu",
+        "zipcode": "38610-208"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Canabrava",
+        "street": "Rua Lua",
+        "zipcode": "38612-287"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Onésio Sales Coelho",
+        "zipcode": "38620-542"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Maria de Lurdes Pereira",
+        "zipcode": "38612-214"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Levindo Torres Brochado",
+        "zipcode": "38610-337"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Miguel Torres",
+        "zipcode": "38621-721"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Paulo Torres da Silva",
+        "zipcode": "38621-296"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Manaus",
+        "zipcode": "38613-242"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Rio Preto",
+        "zipcode": "38610-084"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Rua Salvador Ribeiro",
+        "zipcode": "38621-748"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Rua Miguel Ferreira Rodrigues",
+        "zipcode": "38613-568"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "38616-714"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua Porto Rico",
+        "zipcode": "38612-104"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Tito Maia",
+        "zipcode": "38612-008"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Nossa Senhora da Abadia",
+        "zipcode": "38616-722"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Professora Waldemira Alves de Oliveira",
+        "zipcode": "38621-290"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Romeu Luiz Ferreira",
+        "zipcode": "38621-292"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Sebastião Caetano de Faria",
+        "zipcode": "38612-006"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Prefeito João Costa",
+        "zipcode": "38610-009"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Rua Onze",
+        "zipcode": "38621-244"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Lígia Versiani",
+        "zipcode": "38616-553"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Marieta Versiane",
+        "zipcode": "38616-505"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Maria Rezende Santana",
+        "zipcode": "38620-562"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Parque Explanada",
+        "street": "Rua Palhares",
+        "zipcode": "38620-112"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua Sempre",
+        "zipcode": "38613-106"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Pacamã",
+        "zipcode": "38613-148"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão Aldeia",
+        "zipcode": "38620-740"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Madri",
+        "zipcode": "38618-134"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Queimados",
+        "zipcode": "38610-626"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Rua Três",
+        "zipcode": "38621-234"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Quilombo",
+        "zipcode": "38610-385"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Patativa",
+        "zipcode": "38612-072"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Ursulina Lopes Siqueira",
+        "zipcode": "38616-464"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Ribeirão Extrema",
+        "zipcode": "38620-752"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Marta Aparecida Lopes Siqueira Resende",
+        "zipcode": "38621-280"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Marechal Rondon",
+        "zipcode": "38613-473"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Rua Virgílio Justiniano Ribeiro",
+        "zipcode": "38616-068"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua Rosa Luxemburgo",
+        "zipcode": "38613-324"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Patos de Minas",
+        "zipcode": "38613-018"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Quinze de Janeiro",
+        "zipcode": "38610-059"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Mamoeiro",
+        "street": "Rua Santa Clara",
+        "zipcode": "38621-663"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Vera Lúcia Alexandre Nogueira",
+        "zipcode": "38613-364"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Santa Luzia",
+        "zipcode": "38610-235"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua São Paulo",
+        "zipcode": "38616-012"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Canaã",
+        "street": "Rua Maria Galdina",
+        "zipcode": "38616-449"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Raimundo C Diniz",
+        "zipcode": "38620-558"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Nova República",
+        "zipcode": "38610-277"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Pirapora",
+        "zipcode": "38613-002"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Silvino Lopes Santana",
+        "zipcode": "38613-356"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Wolmy Machado de Miranda",
+        "zipcode": "38621-278"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Terra Nova",
+        "street": "Rua Valdete Soares de Brito",
+        "zipcode": "38620-522"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Ulisses Campos Menezes",
+        "zipcode": "38610-382"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Clara",
+        "street": "Travessa Joaquim Souto",
+        "zipcode": "38621-760"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua João Francisco de Souza",
+        "zipcode": "38613-640"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Antônio Gonçalves",
+        "zipcode": "38613-170"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Barroca",
+        "street": "Avenida Governador Valadares",
+        "zipcode": "38616-058"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Jardim",
+        "street": "Rua Filadelfo Souza Pinto",
+        "zipcode": "38613-058"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Jardim",
+        "street": "Rua José Durães Versiani",
+        "zipcode": "38613-320"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Celina Lisboa Frederico",
+        "zipcode": "38610-268"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua Patos de Minas",
+        "zipcode": "38613-100"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cruzeiro",
+        "street": "Rua Eli Pinto de Carvalho",
+        "zipcode": "38616-010"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua Antônio Gonçalves",
+        "zipcode": "38613-124"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Rua Marechal Rondon",
+        "zipcode": "38613-476"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Vereador João Narciso",
+        "zipcode": "38610-054"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Delvito Alves da Silva",
+        "zipcode": "38613-470"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Dom Bosco",
+        "street": "Rua Dores do Indaiá",
+        "zipcode": "38613-121"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale Verde",
+        "street": "Rua Sebastiana de Sales Coelho",
+        "zipcode": "38612-050"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Avenida Sérgio Murilo Gontijo Torres",
+        "zipcode": "38621-254"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Roncador",
+        "zipcode": "38610-225"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagarana",
+        "street": "Rua Francisco Antunes dos Reis",
+        "zipcode": "38613-346"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Lauro Rodrigues da Silva",
+        "zipcode": "38616-785"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Industrial",
+        "street": "Rua Geraldo Dionísio Cardoso",
+        "zipcode": "38621-272"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Santa Luzia",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "38613-230"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua das Graviolas",
+        "zipcode": "38612-170"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Professor Júlio Martins Ferreira",
+        "zipcode": "38610-331"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Rua Arlindo Gomes Branquinho",
+        "zipcode": "38616-114"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Tocantins",
+        "zipcode": "38613-676"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Distrito Industrial",
+        "street": "Avenida Cabo Verde",
+        "zipcode": "38621-019"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera 5",
+        "street": "Rua Eris Jacinto Cunha",
+        "zipcode": "38612-220"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Riviera Park",
+        "street": "Rua Bélgica",
+        "zipcode": "38618-101"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Primavera",
+        "street": "Rua São Luiz",
+        "zipcode": "38612-182"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Água Branca",
+        "street": "Rua do Quero",
+        "zipcode": "38620-230"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Itapuã",
+        "street": "Rua Afonso Pena",
+        "zipcode": "38610-130"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vale do Amanhecer",
+        "street": "Rua João Pereira Filho",
+        "zipcode": "38618-008"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Quilombo",
+        "zipcode": "38610-610"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua dos Mognos",
+        "zipcode": "38616-702"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Avenida Lisboa",
+        "zipcode": "38613-562"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila Militar",
+        "street": "Rua Aclicio Pereira dos Santos",
+        "zipcode": "38613-398"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Capim Branco II",
+        "street": "Avenida São João",
+        "zipcode": "38616-096"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Vila São Sebastião",
+        "street": "Rua Ciriaco Martins",
+        "zipcode": "38613-072"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nova Divinéia",
+        "street": "Rua Patos de Minas",
+        "zipcode": "38613-088"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Canabrava",
+        "street": "Rua Osvaldo Martins Ferreira",
+        "zipcode": "38612-026"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Maria Lúcia Cabral",
+        "zipcode": "38613-139"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Rua Francisco Sérgio Dias",
+        "zipcode": "38613-560"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Novo Horizonte",
+        "street": "Rua Antônio Teixeira Campos",
+        "zipcode": "38616-529"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Politécnica",
+        "street": "Rua Celina Lisboa Frederico",
+        "zipcode": "38610-612"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Sagrada Família",
+        "street": "Rua Josinda dos Santos Caldeira",
+        "zipcode": "38616-773"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Residencial Bela Serra",
+        "street": "Avenida Antonio Ribeiro Costa",
+        "zipcode": "38621-230"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Dorvino Gregório",
+        "zipcode": "38610-205"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Dores do Indaiá",
+        "zipcode": "38613-012"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Amaral",
+        "street": "Rua Córrego Papamell",
+        "zipcode": "38620-756"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Divinéia",
+        "street": "Avenida Transamazônica",
+        "zipcode": "38613-440"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Boa Vista de Santa Maria",
+        "street": "",
+        "zipcode": "38621-000"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38610-000"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Cachoeira",
+        "street": "Rua Canabrava",
+        "zipcode": "38610-971"
+    },
+    {
+        "city": "Unaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua São José",
+        "zipcode": "38610-970"
+    }
+]

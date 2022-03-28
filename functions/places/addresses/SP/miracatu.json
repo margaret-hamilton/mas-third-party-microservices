@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Miracatu",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça da Bandeira 43",
+        "zipcode": "11850-970"
+    },
+    {
+        "city": "Miracatu",
+        "state": "SP",
+        "district": "Oliveira Barros",
+        "street": "Rua Jorge Volpert 376",
+        "zipcode": "11850-971"
+    },
+    {
+        "city": "Miracatu",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "11850-000"
+    },
+    {
+        "city": "Miracatu",
+        "state": "SP",
+        "district": null,
+        "street": "Rodovia Regis Bittencourt",
+        "zipcode": "11850-992"
+    },
+    {
+        "city": "Miracatu",
+        "state": "SP",
+        "district": null,
+        "street": "Sí´tio Ribeirão Bonito",
+        "zipcode": "11850-991"
+    }
+]

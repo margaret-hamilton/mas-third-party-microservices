@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Carlos Chagas",
+        "state": "MG",
+        "district": "Francisco Sá",
+        "street": "Rua Zeca Amorim s/n",
+        "zipcode": "39864-974"
+    },
+    {
+        "city": "Carlos Chagas",
+        "state": "MG",
+        "district": "Epaminondas Otoni",
+        "street": "Rua Teófilo Otoni",
+        "zipcode": "39864-975"
+    },
+    {
+        "city": "Carlos Chagas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39864-000"
+    },
+    {
+        "city": "Carlos Chagas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Getúlio Vargas 09",
+        "zipcode": "39864-970"
+    },
+    {
+        "city": "Carlos Chagas",
+        "state": "MG",
+        "district": "Mairink",
+        "street": "Rua Águas Formosas s/n",
+        "zipcode": "39864-973"
+    }
+]

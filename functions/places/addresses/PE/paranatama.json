@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Paranatama",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55355-000"
+    },
+    {
+        "city": "Paranatama",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Praça João Correia de Assis",
+        "zipcode": "55355-970"
+    },
+    {
+        "city": "Paranatama",
+        "state": "PE",
+        "district": null,
+        "street": "BR",
+        "zipcode": "55355-990"
+    }
+]

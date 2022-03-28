@@ -1,0 +1,5700 @@
+[
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Manaus",
+        "zipcode": "07727-595"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Travessa Um (Jd Pinheiros)",
+        "zipcode": "07717-485"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Kátia (Sit Aparecida)",
+        "zipcode": "07748-420"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Caminho do Sitio (Prq Sta Inês)",
+        "zipcode": "07733-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Adriana (Jd V Tereza)",
+        "zipcode": "07717-405"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Carvalho (Prq S Rafael)",
+        "zipcode": "07726-615"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Ramalia Casarotto (Jd Marcelino)",
+        "zipcode": "07714-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Amadeu Simonetti (Jd Marcelino)",
+        "zipcode": "07714-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Aldina Valbusa (Jd Marcelino)",
+        "zipcode": "07714-190"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Palmyra Crepaldi (Jd Marcelino)",
+        "zipcode": "07714-270"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José La Torre (Jd Marcelino)",
+        "zipcode": "07714-540"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Avenida Claudio Diniz (Jd Marcelino)",
+        "zipcode": "07714-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Professor Carvalho Pinto",
+        "zipcode": "07700-970"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Padre Eurides Vigilato Paixão (Jd N Era)",
+        "zipcode": "07724-190"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda das Laranjeiras (Res Valverde)",
+        "zipcode": "07740-505"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Jandira Zanetti de Paula (San Marino)",
+        "zipcode": "07743-435"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Maria Rita Espírito Santo (Jd Virgínia)",
+        "zipcode": "07726-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Waldemar Lucietto (Jd N Era)",
+        "zipcode": "07724-215"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Tatuí (Prq Suiça)",
+        "zipcode": "07734-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Rio Claro (Vl Miraval)",
+        "zipcode": "07713-155"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Cotia (Vl Miraval)",
+        "zipcode": "07713-180"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Luzia Martins Urtado (Jd Marcelino)",
+        "zipcode": "07714-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Peroba (Cond Prq Alto)",
+        "zipcode": "07730-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Pinheiro (Cond Prq Alto)",
+        "zipcode": "07730-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Estela (Jd V Tereza)",
+        "zipcode": "07717-475"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Espírito Santo (Jd Esperança)",
+        "zipcode": "07724-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Rio Grande do Sul (Jd Esperança)",
+        "zipcode": "07724-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Sergipe (Jd Esperança)",
+        "zipcode": "07724-065"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Brasília (Jd Mte Alegre)",
+        "zipcode": "07717-220"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua dos Crisântemos (Jd Eucalíptos)",
+        "zipcode": "07716-145"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Camélias (Jd Eucalíptos)",
+        "zipcode": "07716-285"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Tulipas (Jd Eucalíptos)",
+        "zipcode": "07716-235"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua João Rosa da Silva (Vl Pinheiros)",
+        "zipcode": "07718-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Raimundo dos Reis (Vl Pinheiros)",
+        "zipcode": "07718-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Elvira Bertachi (Vl Pinheiros)",
+        "zipcode": "07718-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Visconde do Rio Branco (Jd Marcelino)",
+        "zipcode": "07714-640"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua João Kiss (Vl Pinheiros)",
+        "zipcode": "07718-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Antônio Manoel do Prado (Vl Pinheiros)",
+        "zipcode": "07718-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Orquídeas (Jd Eucalíptos)",
+        "zipcode": "07716-185"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Imperatriz Leopoldina (Jd Victória)",
+        "zipcode": "07715-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José Costa (Jd Eucalíptos)",
+        "zipcode": "07716-300"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Jandira (Vl Miraval)",
+        "zipcode": "07713-185"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Wilson Monteoliva Peinado (Jd N Era)",
+        "zipcode": "07724-225"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda dos Cajueiros (Res Valverde)",
+        "zipcode": "07740-545"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Adolfo Nardo (Jd N Era)",
+        "zipcode": "07724-230"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua São Roque (Jd B Vista)",
+        "zipcode": "07716-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Itapetininga (Jd B Vista)",
+        "zipcode": "07716-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Estrada Helena Darci Pirondini Zerbinatti (Jd San Diego)",
+        "zipcode": "07725-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Araraquara (Vl Miraval)",
+        "zipcode": "07713-113"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Travessa Dois (Jd Pinheiros)",
+        "zipcode": "07717-490"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Antonio Saleme",
+        "zipcode": "07741-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Américo Louzada (Jd V Tereza)",
+        "zipcode": "07717-445"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua França (Jd Sto Antonio)",
+        "zipcode": "07700-715"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Ângela Costa Pollon",
+        "zipcode": "07749-230"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Oswaldo Bertti",
+        "zipcode": "07749-175"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Campo Bonito (Jd Planalto)",
+        "zipcode": "07729-520"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Corina (Jd V Tereza)",
+        "zipcode": "07717-450"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Via de Acesso Norte Km 33 (Rod dos Bandeirantes)",
+        "zipcode": "07721-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Barueri (Vl Miraval)",
+        "zipcode": "07713-115"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Vereador Dércio Pasin (Jd N Era)",
+        "zipcode": "07724-180"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Vereador Sebastião Pereira de Araújo (Jd N Era)",
+        "zipcode": "07724-210"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda das Videiras (Res Valverde)",
+        "zipcode": "07740-525"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Goiânia",
+        "zipcode": "07727-545"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Benedito Zeferino Barbosa (Jd Marcelino)",
+        "zipcode": "07714-550"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Santos Dumont (Jd Victória)",
+        "zipcode": "07715-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ilma dos Santos Batista (Vl S Gonçalo)",
+        "zipcode": "07739-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Armelindo Chichetto (Jd Victória)",
+        "zipcode": "07715-003"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Paulicéia",
+        "zipcode": "07739-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Tupi Paulista (Prq Suiça)",
+        "zipcode": "07734-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Alvarenga Peixoto (Vl S Gonçalo)",
+        "zipcode": "07739-095"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Nair Januário Varejão (Jd Virgínia)",
+        "zipcode": "07726-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua José Primo Mollo (Prq S Rafael)",
+        "zipcode": "07726-550"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Júlio Cardoso",
+        "zipcode": "07703-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Codorna (P Laranjeiras)",
+        "zipcode": "07745-165"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Atilio Simonetti (Prq Ind Araucárea)",
+        "zipcode": "07747-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Recife",
+        "zipcode": "07727-610"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Cecília (Jd V Tereza)",
+        "zipcode": "07717-455"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Assis (Prq Sta Inês)",
+        "zipcode": "07733-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Curumim (Jd Sto Antonio)",
+        "zipcode": "07700-700"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua José Lopes (Prq Ind Araucárea)",
+        "zipcode": "07747-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Turmalina (Prq Suiça)",
+        "zipcode": "07734-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Avenida Doutor Olindo Dártora",
+        "zipcode": "07726-555"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Avenida Otavio Spigarollo",
+        "zipcode": "07749-180"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Pedro Martins Ramos",
+        "zipcode": "07703-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Pintassilgo",
+        "zipcode": "07744-435"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Estrada Santa Inês",
+        "zipcode": "07733-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Joaquim José Fioravante",
+        "zipcode": "07749-105"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Francisco de Assis (Jd Laranjeiras)",
+        "zipcode": "07744-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Araponga (P Laranjeiras)",
+        "zipcode": "07745-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Gaivota (P Laranjeiras)",
+        "zipcode": "07745-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Quatorze de Dezembro (Lot Cresciúma)",
+        "zipcode": "07700-170"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Albert Hanser (Jd Sto Antonio)",
+        "zipcode": "07700-605"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Brasil (Jd Sto Antonio)",
+        "zipcode": "07700-645"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada do Ajoá",
+        "zipcode": "07741-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Cuiabá",
+        "zipcode": "07727-540"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua José Hurtado (Vl Ajoá)",
+        "zipcode": "07740-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São Vicente (Jd S Francisco)",
+        "zipcode": "07700-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São Pedro (Jd S Francisco)",
+        "zipcode": "07700-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Travessa Armando Minuchi (Jd S Francisco)",
+        "zipcode": "07700-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São Francisco (Jd S Francisco)",
+        "zipcode": "07700-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Santa Cecília (Jd S Francisco)",
+        "zipcode": "07700-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São José (Jd S Francisco)",
+        "zipcode": "07700-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São Benedito (Jd S Francisco)",
+        "zipcode": "07700-095"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São Paulo (Jd S Francisco)",
+        "zipcode": "07700-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Maria Bertolo Berto (Jd Marcelino)",
+        "zipcode": "07714-210"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Ângelo Bochini (Lot Cresciúma)",
+        "zipcode": "07700-165"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua José Santino (Jd V Tereza)",
+        "zipcode": "07717-480"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Alcides Cavallaro (Vl Miraval)",
+        "zipcode": "07713-105"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Santo Antonio (Jd S Francisco)",
+        "zipcode": "07700-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Rua da Grota",
+        "zipcode": "07723-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Eugênio Bertti (Lot Cresciúma)",
+        "zipcode": "07700-155"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Viela B",
+        "zipcode": "07722-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Mário Spera (Lot Cresciúma)",
+        "zipcode": "07700-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Sabiá (P Laranjeiras)",
+        "zipcode": "07745-083"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Jacinto de Moraes (Vl S Miguel)",
+        "zipcode": "07739-580"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Arara (P Laranjeiras)",
+        "zipcode": "07745-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Orlando Crema (Jd dos Cunhas)",
+        "zipcode": "07741-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua João Ferreira Rosa",
+        "zipcode": "07704-105"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Constantino Toigo",
+        "zipcode": "07704-140"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Carolina Crema",
+        "zipcode": "07704-145"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Santo Mandri",
+        "zipcode": "07704-155"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua José Fackri",
+        "zipcode": "07704-170"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Avenida Prefeito Donald Savazoni",
+        "zipcode": "07704-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Avenida Prefeito Donald Savazoni",
+        "zipcode": "07704-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Antonio Cestarolli",
+        "zipcode": "07703-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Vitório Olímpio",
+        "zipcode": "07703-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Ângelo Antônio Jácomo Rosolem",
+        "zipcode": "07703-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Manoel Carlos Gomes",
+        "zipcode": "07700-695"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Rua do Forno",
+        "zipcode": "07722-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Aziz Fackri (Lot Cresciúma)",
+        "zipcode": "07700-145"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Ursulina Polon de Moraes",
+        "zipcode": "07704-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Diana (Jd V Tereza)",
+        "zipcode": "07717-460"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Osvaldo de Carvalho (Lot Cresciúma)",
+        "zipcode": "07700-160"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ictiolo Augustinelli (Prq Ind Araucárea)",
+        "zipcode": "07747-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Tupã (Prq Suiça)",
+        "zipcode": "07734-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Campinas (Vl Miraval)",
+        "zipcode": "07713-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Araçatuba (Vl Gertrudes)",
+        "zipcode": "07713-300"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua João Inácio Chrispim",
+        "zipcode": "07703-195"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua José Bertti",
+        "zipcode": "07749-115"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Avenida João Pacheco (Vl S João)",
+        "zipcode": "07713-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Isaías Matiazzo (Vl Miraval)",
+        "zipcode": "07713-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Benedito Alonso",
+        "zipcode": "07704-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua João XXIII (Lot Cresciúma)",
+        "zipcode": "07700-185"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua México (Jd Sto Antonio)",
+        "zipcode": "07700-630"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Portugal (Jd Sto Antonio)",
+        "zipcode": "07700-660"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Paraguai (Jd Sto Antonio)",
+        "zipcode": "07700-670"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Chile (Jd Sto Antonio)",
+        "zipcode": "07700-680"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Canadá (Jd Sto Antonio)",
+        "zipcode": "07700-710"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Espanha (Jd Sto Antonio)",
+        "zipcode": "07700-725"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Panamá (Jd Sto Antonio)",
+        "zipcode": "07700-730"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Vereador Alfredo Casarotto",
+        "zipcode": "07718-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Rosalina Toso Antônio (Vl Miraval)",
+        "zipcode": "07713-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Cajamar (Vl Miraval)",
+        "zipcode": "07713-125"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Guadalajara (Jd Sto Antonio)",
+        "zipcode": "07700-360"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Jundiaí (Vl S João)",
+        "zipcode": "07713-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Bauru (Vl S João)",
+        "zipcode": "07713-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Manoel Gaspar (Jd Sto Antonio)",
+        "zipcode": "07700-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Assis Crema (Jd Esperança)",
+        "zipcode": "07724-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Francisco Nunes Insauralde",
+        "zipcode": "07703-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Inglaterra (Jd Sto Antonio)",
+        "zipcode": "07700-720"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Abílio Pollon",
+        "zipcode": "07704-160"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Agostini Dalla Torre (Jd Marcelino)",
+        "zipcode": "07714-230"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Amadeu Correa de Aguirre (Vl Pinheiros)",
+        "zipcode": "07718-115"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Mococa (Vl S João)",
+        "zipcode": "07713-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Escolástica de Abreu Rodrigues (San Marino)",
+        "zipcode": "07743-470"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Guerino Pansarini",
+        "zipcode": "07704-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Jorge Wrede",
+        "zipcode": "07704-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Mairiporã (Vl Miraval)",
+        "zipcode": "07713-165"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Avenida Marcelino Bressiani (Vl Gertrudes)",
+        "zipcode": "07713-250"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Guarulhos (Vl Gertrudes)",
+        "zipcode": "07713-260"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Andradina (Vl Gertrudes)",
+        "zipcode": "07713-270"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Arnaldo da Cunha Leite (Vl Gertrudes)",
+        "zipcode": "07713-310"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Diogo Álvares Correia (Cond R Park)",
+        "zipcode": "07713-600"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Mário Covas (Cond R Park)",
+        "zipcode": "07713-605"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Antonio Zovaro (Cond R Park)",
+        "zipcode": "07713-615"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua César Costa (Cond R Park)",
+        "zipcode": "07713-625"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Amélia Hummel Beruezzo (Cond R Park)",
+        "zipcode": "07713-630"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Leonel de Moura Brizola (Cond R Park)",
+        "zipcode": "07713-635"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Luiz Bertti (Cond R Park)",
+        "zipcode": "07713-650"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Sebastião Antonio do Nascimento (Cond R Park)",
+        "zipcode": "07713-655"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Frederico Bertti (Cond R Park)",
+        "zipcode": "07713-665"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Jaime Luiz Freitas (Cond R Park)",
+        "zipcode": "07713-670"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Augusto Bertolini (Jd Marcelino)",
+        "zipcode": "07714-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Viela Vicentina Aparecida Franco de Sales (Vl S João)",
+        "zipcode": "07713-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Aparecida Áurea de Abreu (Jd Mro Grande)",
+        "zipcode": "07743-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua José Inácio Chrispim",
+        "zipcode": "07703-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Lucas Santana de Oliveira (Jd Eucalíptos)",
+        "zipcode": "07716-155"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José Crema (Jd Marcelino)",
+        "zipcode": "07714-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Antonia de Mello Pires (Jd Marcelino)",
+        "zipcode": "07714-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Márcia Mendes (Jd Marcelino)",
+        "zipcode": "07714-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Domenica Prince (Jd Marcelino)",
+        "zipcode": "07714-260"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua João Baptista Spera (Jd Marcelino)",
+        "zipcode": "07714-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Luiz Decresci (Jd Marcelino)",
+        "zipcode": "07714-580"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Brasilina Benedita de Barros (Jd Marcelino)",
+        "zipcode": "07714-590"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Joaquim Manoel de Macedo (Jd Marcelino)",
+        "zipcode": "07714-600"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Monteiro Lobato (Jd Marcelino)",
+        "zipcode": "07714-660"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua João Felipe",
+        "zipcode": "07749-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José Toso (Vl Miraval)",
+        "zipcode": "07713-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Franco da Rocha (Vl Gertrudes)",
+        "zipcode": "07713-265"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Atibaia (Vl Miraval)",
+        "zipcode": "07713-170"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Amadeu Luzietto (Jd Marcelino)",
+        "zipcode": "07714-180"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Pedro de Paula Assis",
+        "zipcode": "07704-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Ambrozina Regina Zanutto",
+        "zipcode": "07704-175"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Emílio Mandri",
+        "zipcode": "07704-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Camila Ortega Ruiz Favero",
+        "zipcode": "07704-125"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Alberto Alves da Silva",
+        "zipcode": "07704-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Dona Ambrosina do Carmo Buonaguide",
+        "zipcode": "07700-973"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Iolanda de Souza Graf Persina",
+        "zipcode": "07704-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Nelson Rosetti",
+        "zipcode": "07749-235"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Professora Isaura Valentini Hanser",
+        "zipcode": "07704-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Jaime de Caires (Vl Miraval)",
+        "zipcode": "07713-140"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Ademar Fernandes",
+        "zipcode": "07704-115"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Astrogilda Carli Furlanetto",
+        "zipcode": "07704-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Yukino Uemori (Vl Pinheiros)",
+        "zipcode": "07718-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua dos Ipês (Jd Eucalíptos)",
+        "zipcode": "07716-290"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Rubens Crispim (Jd Mte Alegre)",
+        "zipcode": "07717-225"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Itapeva (Jd Eucalíptos)",
+        "zipcode": "07716-125"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua dos Cravos (Jd Eucalíptos)",
+        "zipcode": "07716-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Papoulas (Jd Eucalíptos)",
+        "zipcode": "07716-140"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua dos Pinheirais (Jd Eucalíptos)",
+        "zipcode": "07716-265"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Palmeiras (Jd Eucalíptos)",
+        "zipcode": "07716-270"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Hortências (Jd Eucalíptos)",
+        "zipcode": "07716-280"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua João Lopes (Jd Eucalíptos)",
+        "zipcode": "07716-215"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Magnólias (Jd Eucalíptos)",
+        "zipcode": "07716-220"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua dos Cactos (Jd Eucalíptos)",
+        "zipcode": "07716-230"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua dos Manacás (Jd Eucalíptos)",
+        "zipcode": "07716-245"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Antônio Teixeira (Jd Eucalíptos)",
+        "zipcode": "07716-255"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua José Faillace (Vl Pinheiros)",
+        "zipcode": "07718-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Delfo Tasca Casarotto (Vl Pinheiros)",
+        "zipcode": "07718-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Joaquim Chrispim (Vl Pinheiros)",
+        "zipcode": "07718-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Angelina Fava Schiavo (Vl Pinheros)",
+        "zipcode": "07718-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Albino de Oliveira (Vl Pinheiros)",
+        "zipcode": "07718-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Nivaldo Soares (Vl Pinheiros)",
+        "zipcode": "07718-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Oscar Pinheiro (Vl Pinheiros)",
+        "zipcode": "07718-095"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Emancipador Ivo Manoel (P Laranjeiras)",
+        "zipcode": "07745-155"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Ricieri Foresto (Jd Marcelino)",
+        "zipcode": "07714-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Richeto Menuchi",
+        "zipcode": "07749-102"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua August Satrapa (Jd Marcelino)",
+        "zipcode": "07714-160"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Omar Cândido de Azevedo",
+        "zipcode": "07703-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Abelardo Martins (Jd Marcelino)",
+        "zipcode": "07714-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Avaí (Prq Sta Inês)",
+        "zipcode": "07733-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Luiz Antônio de Jesus (Jd Mte Alegre)",
+        "zipcode": "07717-230"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Maria Margarete da Cruz (Jd Marcelino)",
+        "zipcode": "07714-220"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Ataliba Mattiazzo (Jd Marcelino)",
+        "zipcode": "07714-680"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Duque de Caxias (Jd Victória)",
+        "zipcode": "07715-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Floriano Peixoto (Jd Victória)",
+        "zipcode": "07715-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Dom João VI (Jd Victória)",
+        "zipcode": "07715-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Dom Pedro II (Jd Victória)",
+        "zipcode": "07715-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Napoleão Bonaparte (Jd Victória)",
+        "zipcode": "07715-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Fernão Dias Paes Leme (Jd Victória)",
+        "zipcode": "07715-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Dom Pedro I (Jd Victória)",
+        "zipcode": "07715-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Joaquim Silvério dos Reis (Jd B Vista)",
+        "zipcode": "07716-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Emílio Rizardi (Jd B Vista)",
+        "zipcode": "07716-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Ibiúna (Jd B Vista)",
+        "zipcode": "07716-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Vitórias Régias (Jd Eucalíptos)",
+        "zipcode": "07716-175"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua João Kiss (Vl Pinheiros)",
+        "zipcode": "07718-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Vereador Alfredo Casarotto",
+        "zipcode": "07717-395"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Josué Stopiello (Vl Pinheiros)",
+        "zipcode": "07718-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Palmas (Jd Eucalíptos)",
+        "zipcode": "07716-180"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Begônias (Jd Eucalíptos)",
+        "zipcode": "07716-190"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Violetas (Jd Eucalíptos)",
+        "zipcode": "07716-160"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Avenida das Araucáreas (Jd Eucalíptos)",
+        "zipcode": "07716-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Mário Dell Porto (Jd Eucalíptos)",
+        "zipcode": "07716-205"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Lindóia (Jd B Vista)",
+        "zipcode": "07716-053"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Timburi (Prq Suiça)",
+        "zipcode": "07734-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Sete Barras (Prq Suiça)",
+        "zipcode": "07734-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Men de Sá (Jd B Vista)",
+        "zipcode": "07716-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Frei Henrique Soares Coimbra (Jd B Vista)",
+        "zipcode": "07716-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Arujá (Prq Sta Inês)",
+        "zipcode": "07733-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Pedro de Jorge (Jd Marcelino)",
+        "zipcode": "07714-250"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Eva (Jd V Tereza)",
+        "zipcode": "07717-470"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Tambaú (Prq Suiça)",
+        "zipcode": "07734-065"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Taquaritinga (Prq Suiça)",
+        "zipcode": "07734-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua José Gonçalves Leme (Vl Angélica)",
+        "zipcode": "07739-220"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Fernanda (Vl Angélica)",
+        "zipcode": "07739-235"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Piauí (Jd Esperança)",
+        "zipcode": "07724-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Alagoas (Jd Esperança)",
+        "zipcode": "07724-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Goiás (Jd Esperança)",
+        "zipcode": "07724-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Mato Grosso (Jd Esperança)",
+        "zipcode": "07724-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Pernambuco (Jd Esperança)",
+        "zipcode": "07724-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Paraná (Jd Esperança)",
+        "zipcode": "07724-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Bahia (Jd Esperança)",
+        "zipcode": "07724-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Francisco Mariano (Vl S Gonçalo)",
+        "zipcode": "07739-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Basílio da Gama (Vl S Gonçalo)",
+        "zipcode": "07739-065"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Casimiro de Abreu (Vl S Gonçalo)",
+        "zipcode": "07739-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Gonçalves Dias (Vl S Gonçalo)",
+        "zipcode": "07739-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Castro Alves (Vl Angélica)",
+        "zipcode": "07739-205"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Camilo (Prq S Rafael)",
+        "zipcode": "07726-510"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Bento Ferreira da Silva (Prq S Rafael)",
+        "zipcode": "07726-515"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Alcides Mazivieiro (Prq S Rafael)",
+        "zipcode": "07726-520"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Otto Dalchau (Prq S Rafael)",
+        "zipcode": "07726-525"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Antônio Decresci (Prq S Rafael)",
+        "zipcode": "07726-545"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Altina (Jd V Tereza)",
+        "zipcode": "07717-390"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Antônio Costa (Jd San Diego)",
+        "zipcode": "07725-515"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Martim Afonso de Souza (Jd B Vista)",
+        "zipcode": "07716-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Cleiton David de Godoy (Jd San Diego)",
+        "zipcode": "07725-530"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Paraíba (Jd Esperança)",
+        "zipcode": "07724-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Ceará (Jd Esperança)",
+        "zipcode": "07724-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Pará (Jd Esperança)",
+        "zipcode": "07724-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Thomaz Parizotto (Vl Pinheiros)",
+        "zipcode": "07718-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Uchôa (Prq Suiça)",
+        "zipcode": "07734-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Maranhão (Jd Esperança)",
+        "zipcode": "07724-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Domingos Bertoline (Vl Pinheiros)",
+        "zipcode": "07718-105"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Antônio Michelino (Vl Pinheiros)",
+        "zipcode": "07718-140"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua João Pessoa",
+        "zipcode": "07727-570"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada do Ajoá",
+        "zipcode": "07739-255"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Belém",
+        "zipcode": "07727-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "07727-505"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Aracaju",
+        "zipcode": "07727-515"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Fortaleza",
+        "zipcode": "07727-525"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Buri (Vl S Miguel)",
+        "zipcode": "07739-600"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Paulicéia",
+        "zipcode": "07744-405"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Paulicéia",
+        "zipcode": "07743-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Paulicéia",
+        "zipcode": "07743-140"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Benedito Pedroso da Silva (Jd Virgínia)",
+        "zipcode": "07726-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Rua Ádamo Zambelli",
+        "zipcode": "07723-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Gabriel Scarpelli (Jd San Diego)",
+        "zipcode": "07725-505"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Miguel Batista Cerqueira (Jd V Tereza)",
+        "zipcode": "07717-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Jales (Jd Planalto)",
+        "zipcode": "07729-510"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Avelina (Jd V Tereza)",
+        "zipcode": "07717-425"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Dois (Lot Catingueiro)",
+        "zipcode": "07729-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Luzia Ventura Paulino (Vl Pinheiros)",
+        "zipcode": "07718-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Antônio Fracapani (Vl Pinheiros)",
+        "zipcode": "07718-125"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Luiz Aguiar (Jd V Tereza)",
+        "zipcode": "07717-505"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Paulo Borsi (Vl Angélica)",
+        "zipcode": "07739-230"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua da Paineira (Jd Regina)",
+        "zipcode": "07741-205"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Boracéia (Vl Industrial)",
+        "zipcode": "07741-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Botucatu (Vl Industrial)",
+        "zipcode": "07741-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Pintassilgo",
+        "zipcode": "07745-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Estrada Santa Inês",
+        "zipcode": "07729-535"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Sanhaço (P Laranjeiras)",
+        "zipcode": "07745-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Beija",
+        "zipcode": "07745-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua João Massaia (Jd Laranjeiras)",
+        "zipcode": "07744-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Sabiá Laranjeiras (P Laranjeiras)",
+        "zipcode": "07745-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Periquito (P Laranjeiras)",
+        "zipcode": "07745-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Siriema (P Laranjeiras)",
+        "zipcode": "07745-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Rouxinol (P Laranjeiras)",
+        "zipcode": "07745-065"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Uirapuru (P Laranjeiras)",
+        "zipcode": "07745-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Tucano (P Laranjeiras)",
+        "zipcode": "07745-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Pavão (P Laranjeiras)",
+        "zipcode": "07745-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Macapá",
+        "zipcode": "07727-575"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Maceió",
+        "zipcode": "07727-580"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada do Ajoá",
+        "zipcode": "07743-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Avenida Luiz Milano Filho",
+        "zipcode": "07726-620"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Avenida Luiz Milano Filho",
+        "zipcode": "07726-625"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Ipê (Cond Prq Alto)",
+        "zipcode": "07730-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Avenida Prefeito Doutor Milton Ferreira Neves",
+        "zipcode": "07724-270"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Andréia (Jd V Tereza)",
+        "zipcode": "07717-435"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Agostinho de Souza",
+        "zipcode": "07726-630"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Rua do Morro",
+        "zipcode": "07723-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Estrada Águas Claras",
+        "zipcode": "07729-530"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Vereador Luiz Gonzaga Dártora",
+        "zipcode": "07744-400"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Viela do Ajoá (Vl Ajoá)",
+        "zipcode": "07740-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Raul Pereira de Araújo (Jd Laranjeiras)",
+        "zipcode": "07744-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Joaquim Cerca (Jd Laranjeiras)",
+        "zipcode": "07744-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Padre José de Anchieta (Vl Pinheiros)",
+        "zipcode": "07718-145"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Agostinho Della Torre (Jd N Era)",
+        "zipcode": "07724-220"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Alameda dos Alpes",
+        "zipcode": "07727-550"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Vereador Savério Agustinelli (Jd N Era)",
+        "zipcode": "07724-195"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Ivete Dell Porto Nicolau (Jd N Era)",
+        "zipcode": "07724-205"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Pedro Muro Vásquez (Jd N Era)",
+        "zipcode": "07724-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Araras (Prq Sta Inês)",
+        "zipcode": "07733-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Devanir Nunes Teodoro",
+        "zipcode": "07704-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua João Alarcom",
+        "zipcode": "07704-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua João Elizeu Cassalho",
+        "zipcode": "07742-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Julião Luciano",
+        "zipcode": "07726-635"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Olegário Mariano (Vl S Gonçalo)",
+        "zipcode": "07739-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Araçoiaba (Prq Sta Inês)",
+        "zipcode": "07733-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Porto Alegre",
+        "zipcode": "07727-600"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Luiz Calandrini (Vl Angélica)",
+        "zipcode": "07739-210"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Salvador",
+        "zipcode": "07727-590"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Manoel Carlos Gomes",
+        "zipcode": "07700-635"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Milton Teixeira da Silva (Jd Mro Grande)",
+        "zipcode": "07743-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Ubirajara (Prq Suiça)",
+        "zipcode": "07734-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Walter Barnabé (Jd Mro Grande)",
+        "zipcode": "07743-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Areias (Prq Sta Inês)",
+        "zipcode": "07733-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Um (Lot Catingueiro)",
+        "zipcode": "07729-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Perdiz (P Laranjeiras)",
+        "zipcode": "07745-160"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Andorinha (P Laranjeiras)",
+        "zipcode": "07745-170"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Anu (P Laranjeiras)",
+        "zipcode": "07745-180"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua João Paulo I (Prq Ind Araucárea)",
+        "zipcode": "07747-250"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Danilo Valbuza (Prq Ind Araucárea)",
+        "zipcode": "07747-300"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Edmur Matiazzo (Vl Gertrudes)",
+        "zipcode": "07713-280"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Petúnias (Jd Eucalíptos)",
+        "zipcode": "07716-225"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Acácias (Jd Eucalíptos)",
+        "zipcode": "07716-250"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Laura (Sit Aparecida)",
+        "zipcode": "07748-415"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Avenida Prefeito Gino Dártora",
+        "zipcode": "07724-170"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Avenida Otavio Spigarollo",
+        "zipcode": "07749-135"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Antonio Raposo Tavares (Jd Victória)",
+        "zipcode": "07715-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Oswaldo Favero",
+        "zipcode": "07703-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ermênio de Oliveira Penteado (Jd Helena)",
+        "zipcode": "07744-420"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Lourdes Martinez Rodrigues (Jd Helena)",
+        "zipcode": "07744-430"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Passagem de Servidão",
+        "zipcode": "07749-125"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Luiz Remédio",
+        "zipcode": "07749-145"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Flamingo (P Laranjeiras)",
+        "zipcode": "07745-110"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Tiziu (P Laranjeiras)",
+        "zipcode": "07745-115"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Faisão (P Laranjeiras)",
+        "zipcode": "07745-125"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida João de Barro (P Laranjeiras)",
+        "zipcode": "07745-135"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Íbis Dourado (P Laranjeiras)",
+        "zipcode": "07745-140"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Patativa (P Laranjeiras)",
+        "zipcode": "07745-145"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Maximino Teodoro da Silva (Jd Mro Grande)",
+        "zipcode": "07743-110"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Aparecida de Jesus Silva (Jd Mro Grande)",
+        "zipcode": "07743-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Baltira (Jd Planalto)",
+        "zipcode": "07729-515"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Curitiba",
+        "zipcode": "07727-535"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Campo Grande",
+        "zipcode": "07727-520"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Vitória",
+        "zipcode": "07727-555"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Valinhos (Vl Miraval)",
+        "zipcode": "07713-135"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Travessa Jornalista Francisco Peres (Jd S Francisco)",
+        "zipcode": "07700-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Hilário Teixeira da Silva",
+        "zipcode": "07704-705"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada Caetano Xavier de Moraes",
+        "zipcode": "07742-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Maria de Abreu Moraes",
+        "zipcode": "07742-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Avenida Aparecida (Sit Aparecida)",
+        "zipcode": "07748-405"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Vereador Bento Rodrigues",
+        "zipcode": "07704-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda das Pitangueiras (Res Valverde)",
+        "zipcode": "07740-550"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda dos Pessegueiros (Res Valverde)",
+        "zipcode": "07740-560"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda Expedita Leite de Lacerda (Res Valverde)",
+        "zipcode": "07740-515"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda dos Limoeiros (Res Valverde)",
+        "zipcode": "07740-520"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Primaveras (Jd Eucalíptos)",
+        "zipcode": "07716-295"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Manoel Henrique Florindo (Jd Eucalíptos)",
+        "zipcode": "07716-135"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Joaquim Guilherme de Moraes (Jd Eucalíptos)",
+        "zipcode": "07716-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Azaléias (Jd Eucalíptos)",
+        "zipcode": "07716-275"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Fortunato Pollon",
+        "zipcode": "07703-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Doutor Olindo Dártora",
+        "zipcode": "07700-230"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Benedito Daniel de Souza (Jd Mro Grande)",
+        "zipcode": "07743-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Angélica (Jd V Tereza)",
+        "zipcode": "07717-430"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Antonio Castelani Filho (Res Valverde)",
+        "zipcode": "07740-540"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Sebastião Ribeiro Guimarães (Jd V Tereza)",
+        "zipcode": "07717-410"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Johannes Ludwis Nauer",
+        "zipcode": "07703-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Benedita Paula de Moraes (Jd Mro Grande)",
+        "zipcode": "07743-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Antonio Generoso da Silva (Lot Cresciúma)",
+        "zipcode": "07700-195"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Odécio Gardim (Res Valverde)",
+        "zipcode": "07740-535"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Mauá (Vl Gertrudes)",
+        "zipcode": "07713-255"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Ribeirão Preto (Vl Gertrudes)",
+        "zipcode": "07713-295"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Avenida Armando Sestini (Jd Eucalíptos)",
+        "zipcode": "07716-210"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua dos Girassóis (Jd Eucalíptos)",
+        "zipcode": "07716-240"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José Menighini (Cond R Park)",
+        "zipcode": "07713-645"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Luiz Muniz (Jd Marcelino)",
+        "zipcode": "07714-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Américo Zanon (Jd Marcelino)",
+        "zipcode": "07714-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Anna Argentina Bugnoti (Jd Marcelino)",
+        "zipcode": "07714-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Emilio Casarin (Jd Marcelino)",
+        "zipcode": "07714-240"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Ida Casarotto Foresto (Jd Marcelino)",
+        "zipcode": "07714-510"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Estácio de Sá (Jd Marcelino)",
+        "zipcode": "07714-610"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José de Alencar (Jd Marcelino)",
+        "zipcode": "07714-650"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Osório Duque Estrada (Jd Marcelino)",
+        "zipcode": "07714-690"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José Bonifácio de Andrada e Silva (Jd Victória)",
+        "zipcode": "07715-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Alfredo Corradini (Jd Victória)",
+        "zipcode": "07715-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Pedro Álvares Cabral (Jd B Vista)",
+        "zipcode": "07716-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Duarte da Costa (Jd B Vista)",
+        "zipcode": "07716-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Vicente Lisa",
+        "zipcode": "07749-220"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua João Rosolém",
+        "zipcode": "07749-225"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Narciso Degrandi",
+        "zipcode": "07749-240"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Luiz Vaz de Camões",
+        "zipcode": "07749-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Orlando Peccicaco (Jd Helena)",
+        "zipcode": "07744-425"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Pássaro Preto (P Laranjeiras)",
+        "zipcode": "07745-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Norberto Zanon (Vl Pinheiros)",
+        "zipcode": "07718-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Capitão Alberto Graff (Jd Sto Antonio)",
+        "zipcode": "07700-650"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Estrada Calcáreo",
+        "zipcode": "07723-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Santino Vinci",
+        "zipcode": "07703-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Praça Santo Antônio (Lot Cresciúma)",
+        "zipcode": "07700-177"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua das Rosas (Jd Eucalíptos)",
+        "zipcode": "07716-165"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Martins Fontes (Jd Marcelino)",
+        "zipcode": "07714-560"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida João Henrique de Macedo Mendes (Jd Mte Alegre)",
+        "zipcode": "07717-213"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Natalia Maria (Vl Pinheiros)",
+        "zipcode": "07718-002"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Cristovam Colombo (Jd Victória)",
+        "zipcode": "07715-027"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua João Pasin (V Miraval)",
+        "zipcode": "07714-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Amazonas (Jd Esperança)",
+        "zipcode": "07724-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Minas Gerais (Jd Esperança)",
+        "zipcode": "07724-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Olavo Bilac (Vl Angélica)",
+        "zipcode": "07739-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Prefeito Luís Lopes Lansac (Jd Mro Grande)",
+        "zipcode": "07743-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Marciano Dártora (Prq S Rafael)",
+        "zipcode": "07726-505"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Luiz Ravelli (Prq S Rafael)",
+        "zipcode": "07726-530"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Ricardo Marin (Prq S Rafael)",
+        "zipcode": "07726-535"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Ilhabela (Prq Suiça)",
+        "zipcode": "07734-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida das Macieiras (Res Valverde)",
+        "zipcode": "07740-530"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Pedro Pereira Leite",
+        "zipcode": "07703-213"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Napoleão Cunha (Vl Angélica)",
+        "zipcode": "07739-215"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Estevão Gondari (Jd V Tereza)",
+        "zipcode": "07717-453"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua José Rubens Peres (Jd Sto Antonio)",
+        "zipcode": "07700-675"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José Maria Pires (Jd Marcelino)",
+        "zipcode": "07714-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Maria Maderick Manoel",
+        "zipcode": "07704-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Caminho Cláudio Manoel da Costa (Vl S Gonçalo)",
+        "zipcode": "07739-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Sylvio Bertolini (Jd Marcelino)",
+        "zipcode": "07714-170"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Fumiaki Yamamoto (P Laranjeiras)",
+        "zipcode": "07745-105"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Estrada Caieiras",
+        "zipcode": "07722-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Avenida David Kasitzky",
+        "zipcode": "07749-505"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Canário (P Laranjeiras)",
+        "zipcode": "07745-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Bem",
+        "zipcode": "07745-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Francisco Caro Dias",
+        "zipcode": "07749-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Paulo Cândido da Silva (P Laranjeiras)",
+        "zipcode": "07745-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Tico Tico (P Laranjeiras)",
+        "zipcode": "07745-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Melro (P Laranjeiras)",
+        "zipcode": "07745-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Cardeal (P Laranjeiras)",
+        "zipcode": "07745-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada do Ajoá",
+        "zipcode": "07739-260"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada do Ajoá",
+        "zipcode": "07741-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Florianópolis",
+        "zipcode": "07727-530"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Adamantina",
+        "zipcode": "07727-560"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Vereador Luiz Gonzaga Dártora",
+        "zipcode": "07745-095"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Atílio Thomazzi (Vl Ajoá)",
+        "zipcode": "07740-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua João Xavier de Moraes (Vl Ajoá)",
+        "zipcode": "07740-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda José Bernardo Antônio (Jd N Era)",
+        "zipcode": "07724-208"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda das Mangueiras (Res Valverde)",
+        "zipcode": "07740-510"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Ricardo Zerbinati",
+        "zipcode": "07749-185"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Durcelino Martins Ramos (Jd Sta Edwiges)",
+        "zipcode": "07717-710"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Paulo Cezar Spigarollo (Jd Sta Edwiges)",
+        "zipcode": "07717-720"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Viela João Amaral Pedroso (Vl S João)",
+        "zipcode": "07713-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Professora Wilma de Oliveira Vieira",
+        "zipcode": "07749-205"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Luiz Carlos de Souza",
+        "zipcode": "07726-655"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Ernesto Palante",
+        "zipcode": "07749-215"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ricardo Barchetta (Vl S Gonçalo)",
+        "zipcode": "07739-105"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Lazia Franco de Camargo (Vl Angélica)",
+        "zipcode": "07739-217"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Joseppina Piva Molinari (Jd San Diego)",
+        "zipcode": "07725-520"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Amadeu de Lima (Jd Helena)",
+        "zipcode": "07744-410"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Avenida Leila (Sit Aparecida)",
+        "zipcode": "07748-410"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Yolanda Savio Antonio (Jd Sta Edwiges)",
+        "zipcode": "07717-725"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Odeth Sestarole Decresci (Jd Sta Edwiges)",
+        "zipcode": "07717-730"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Nelson Fernandes Mazarini (Jd Sta Edwiges)",
+        "zipcode": "07717-740"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Nair Fracapani Mandelli (Jd Sta Edwiges)",
+        "zipcode": "07717-760"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua João Bertolo (Jd Sta Edwiges)",
+        "zipcode": "07717-765"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Thereza Rosolem Rodrigues (Jd Sta Edwiges)",
+        "zipcode": "07717-770"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua João Hernandes Mendes (Jd Columbia)",
+        "zipcode": "07743-315"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua João Furtado Lacerda (Jd Columbia)",
+        "zipcode": "07743-320"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Encarnação Ramos Colina (Jd Columbia)",
+        "zipcode": "07743-325"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Vereador Hugo Pereira da Silva (Jd Europa)",
+        "zipcode": "07743-330"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Claudio Beltrame (Jd Europa)",
+        "zipcode": "07743-340"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Hercília Dártora Szcentes (Jd Europa)",
+        "zipcode": "07743-345"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Jacinto Dártora",
+        "zipcode": "07749-195"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Ernandes Cristovão Ventura (Vl Pinheiros)",
+        "zipcode": "07718-017"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Registro",
+        "zipcode": "07727-503"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Viela Quartzo (Vl S Gonçalo)",
+        "zipcode": "07739-063"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Sineval Pedroso de Moraes",
+        "zipcode": "07749-170"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Travessa Três (Jd Pinheiros)",
+        "zipcode": "07718-510"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Mercedes Mendes Pilão",
+        "zipcode": "07749-165"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Antonio Alves de Godoy (Jd V Tereza)",
+        "zipcode": "07717-495"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Bráz Alves Batista",
+        "zipcode": "07749-155"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Natal",
+        "zipcode": "07727-605"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Alvares Florence",
+        "zipcode": "07727-510"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Alda (Jd V Tereza)",
+        "zipcode": "07717-400"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua José Zaniratto Sobrinho (Vl Pinheiros)",
+        "zipcode": "07718-110"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "07727-585"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Rosa Alacom Domene (Jd Europa)",
+        "zipcode": "07743-350"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Afonsina Schirmanoff (Jd Europa)",
+        "zipcode": "07743-355"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ada Dártora Anzelotti (Jd Europa)",
+        "zipcode": "07743-370"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rodovia Presidente Tancredo de Almeida Neves",
+        "zipcode": "07748-400"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Avenida Prefeito Donald Savazoni",
+        "zipcode": "07703-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Tabapuã (Prq Suiça)",
+        "zipcode": "07734-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Garça (P Laranjeiras)",
+        "zipcode": "07745-175"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Edna Aparecida Fonseca (Jd Marcelino)",
+        "zipcode": "07714-110"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Olívio Crispim de Oliveira (Jd Marcelino)",
+        "zipcode": "07714-140"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Antonio Rodrigues da Fonseca (Jd Marcelino)",
+        "zipcode": "07714-670"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua André Mendes Ortiz",
+        "zipcode": "07749-190"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Avenida Rodolfo Polidoro",
+        "zipcode": "07749-210"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Luiz Cavalleri",
+        "zipcode": "07749-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Geny Góes de Moraes (Vl Miraval)",
+        "zipcode": "07713-110"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Santa Clara (Jd S Francisco)",
+        "zipcode": "07700-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São João (Jd S Francisco)",
+        "zipcode": "07700-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Guadalajara (Jd Sto Antonio)",
+        "zipcode": "07700-370"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Armando de Moraes (Jd Helena)",
+        "zipcode": "07744-415"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Paulicéia",
+        "zipcode": "07744-970"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda das Amoreiras (Res Valverde)",
+        "zipcode": "07740-555"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Natalino Barbosa (Jd Europa)",
+        "zipcode": "07743-375"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Dirce Olimpio Vieira Navarro (Jd Europa)",
+        "zipcode": "07743-380"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Vereador Benedito Lopes de Campos (Jd Europa)",
+        "zipcode": "07743-385"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua dos Jasmins",
+        "zipcode": "07716-213"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Angelo DAssero (Sit Aparecida)",
+        "zipcode": "07748-430"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Pedro Pallante (Resid. Sítio Caieiras)",
+        "zipcode": "07747-270"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Raul Massinelli (Resid. Sítio Caieiras)",
+        "zipcode": "07747-255"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Assembléia de Deus Ministério do Belém",
+        "zipcode": "07700-240"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida João Martins Ramos",
+        "zipcode": "07700-250"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Marcia Maria Pereira Gonzales Cepeda",
+        "zipcode": "07704-053"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Viela Valeriano Vilas Boas (Jd S João)",
+        "zipcode": "07713-033"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Cravinhos (V Gertrudes)",
+        "zipcode": "07713-297"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Maria Gonzaga Ortiz (Cond Real Park)",
+        "zipcode": "07713-613"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Guaracy Aparecida Araujo Cocuzza (Jd Marcelino)",
+        "zipcode": "07714-525"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Edival de Araujo Oliveira (Jd Marcelino)",
+        "zipcode": "07714-625"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Travessa Perus (Jd B Vista)",
+        "zipcode": "07716-047"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Edson Alves Pereira (Jd B Vista)",
+        "zipcode": "07716-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Umbelina Dártora Decreci (Jd Europa)",
+        "zipcode": "07743-390"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ronolpha Dártora Sobreiro (Jd Europa)",
+        "zipcode": "07743-405"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Maria do Carmo Penha (Ninho Verde)",
+        "zipcode": "07749-107"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Lindolfo Soares de Campos (Jd Mro Grande)",
+        "zipcode": "07743-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Praça Antonio Siqueira (Jd Sto Antonio)",
+        "zipcode": "07700-205"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ana Spera Csernik (Resid. Sítio Caieiras)",
+        "zipcode": "07747-265"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Eduardo Luiz Cardoso Gonçalves",
+        "zipcode": "07704-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Therezinha da Silva Barsotti (Resid. Sítio Caieiras)",
+        "zipcode": "07747-280"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Benedicto Rodrigues (Resid. Sítio Caieiras)",
+        "zipcode": "07747-290"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Passagem Joaquim Antonio (Jd S Francisco)",
+        "zipcode": "07700-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Argemide Vallin Zigiotti",
+        "zipcode": "07704-110"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Alcides Banhe (Resd. Sítio Caieiras)",
+        "zipcode": "07747-260"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Maria Gaspar Teixeira (Resid. Sítio Caieiras)",
+        "zipcode": "07747-285"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Amancio Soares de Campos (Jd Mro Grande)",
+        "zipcode": "07743-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Emancipador Licinio Jarussi (San Marino)",
+        "zipcode": "07743-425"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Maria Gazolla Dártora (San Marino)",
+        "zipcode": "07743-430"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Lázaro Blanco Bogajo (San Marino)",
+        "zipcode": "07743-440"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Darcio Armando Barichello (San Marino)",
+        "zipcode": "07743-450"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Hermínia Fioravante Gonzales (San Marino)",
+        "zipcode": "07743-455"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Carlos Roberto Galvani (San Marino)",
+        "zipcode": "07743-460"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Adelaide Cardoso Casarotto (San Marino)",
+        "zipcode": "07743-475"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua João Aparecido Selmer (San Marino)",
+        "zipcode": "07743-485"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Rosa Tuon Bimbatti (San Marino)",
+        "zipcode": "07743-490"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Estrada do Caraguatá",
+        "zipcode": "07729-550"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Coronel Rodovalho (Jd Mte Alegre)",
+        "zipcode": "07717-209"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Antonieta Casarotto Ortega (Jd Sta Edwiges)",
+        "zipcode": "07717-750"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Erivaldo Melo Feitosa (Vl Pinheiros)",
+        "zipcode": "07718-027"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Rua da Olaria",
+        "zipcode": "07722-105"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Rua Angela de Paula Nogueira",
+        "zipcode": "07722-120"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Viela Xisto (Vl S Gonçalo)",
+        "zipcode": "07739-062"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Viela Filito (Vl S Gonçalo)",
+        "zipcode": "07739-064"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida João Casarotto (Prq Ind Araucárea)",
+        "zipcode": "07747-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Giovanni Gabrielli (Prq Ind Araucárea)",
+        "zipcode": "07747-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Clarice (Vl Angélica)",
+        "zipcode": "07739-240"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Gonçalves de Magalhães (Vl Angélica)",
+        "zipcode": "07739-250"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Vitor Vilafranca (Vl Pinheiros)",
+        "zipcode": "07718-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Antonia Berdusam (Jd Marcelino)",
+        "zipcode": "07714-520"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Maria Bernarda Butler",
+        "zipcode": "07749-160"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Joaquim Crema",
+        "zipcode": "07749-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Uruguai (Jd Sto Antonio)",
+        "zipcode": "07700-665"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada do Ajoá",
+        "zipcode": "07743-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Amábile Della Torre",
+        "zipcode": "07749-140"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Vereador Luiz Gonzaga Dártora",
+        "zipcode": "07745-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Santo Fackri (Vl Maria)",
+        "zipcode": "07739-405"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua João Dártora (Jd S Francisco)",
+        "zipcode": "07700-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Viela Granito (Vl S Gonçalo)",
+        "zipcode": "07739-068"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada Ana Aparecida Rodrigues (Vl S Gonçalo)",
+        "zipcode": "07739-077"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Domingos Garcia Serpa (Vl S Gonçalo)",
+        "zipcode": "07739-103"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Maria Zaniratto (Vl Angélica)",
+        "zipcode": "07739-219"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Angelo Perin (Vl Angélica)",
+        "zipcode": "07739-222"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Viela João Filho de Oliveira (Vl Angélica)",
+        "zipcode": "07739-252"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Roberto Cunha (Jd dos Cunhas)",
+        "zipcode": "07741-007"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada da Esperança e Vida",
+        "zipcode": "07742-700"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Vereador Angelo Teixeira (Jd Europa)",
+        "zipcode": "07743-400"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Edileusa da Silva Toledo (Jd Helena)",
+        "zipcode": "07744-017"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Benedito Pereira Nunes",
+        "zipcode": "07704-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Antonio José Pereira",
+        "zipcode": "07704-095"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua João Antonio Ruiz",
+        "zipcode": "07704-135"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Terezinha Célia Alarcon",
+        "zipcode": "07704-165"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Brasília (Jd V Tereza)",
+        "zipcode": "07717-465"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Acácia (Jd V Tereza)",
+        "zipcode": "07717-415"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua André Fischer (Jd Virgínia)",
+        "zipcode": "07726-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Pedro Berti",
+        "zipcode": "07703-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Mairinque (Jd B Vista)",
+        "zipcode": "07716-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Suiça (Prq Suiça)",
+        "zipcode": "07734-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Avenida Dauri Góes de Moraes (Vl Miraval)",
+        "zipcode": "07713-145"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Francisco Morato (Vl Miraval)",
+        "zipcode": "07713-175"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Antonio Francisco Leme (Vl Gertrudes)",
+        "zipcode": "07713-305"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Pedro Martins Ramos",
+        "zipcode": "07703-205"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Borba Gato (Cond R Park)",
+        "zipcode": "07713-610"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Renato Viana (Cond R Park)",
+        "zipcode": "07713-640"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Anita Garibaldi (Jd Marcelino)",
+        "zipcode": "07714-570"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Tiradentes (Jd B Vista)",
+        "zipcode": "07716-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Irmã Noemi (Lot Cresciúma)",
+        "zipcode": "07700-190"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Argentina (Jd Sto Antonio)",
+        "zipcode": "07700-620"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida dos Estudantes (Jd Sto Antonio)",
+        "zipcode": "07700-625"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Valdemar Gomes Marino (Jd S Francisco)",
+        "zipcode": "07700-001"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Santa Rita (Jd S Francisco)",
+        "zipcode": "07700-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São Cristovão (Jd S Francisco)",
+        "zipcode": "07700-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua José do Carmo Leite (Lot Cresciúma)",
+        "zipcode": "07700-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Presidente Kennedy (Jd S Francisco)",
+        "zipcode": "07700-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Presidente Kennedy (Jd S Francisco)",
+        "zipcode": "07700-115"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Conceição Borrero Peres (Jd Eucalíptos)",
+        "zipcode": "07716-195"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Nelson Cerca (Jd Eucalíptos)",
+        "zipcode": "07716-170"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Ângelo Eugênio Paulon",
+        "zipcode": "07704-700"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Praça Waldir Luiz Mendonça (Jd Mte Alegre)",
+        "zipcode": "07717-207"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Avenida Padre José Kentenich (Jd San Diego)",
+        "zipcode": "07725-540"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Maria Benilde Gomes da Silva",
+        "zipcode": "07749-095"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Angelo Scatolin",
+        "zipcode": "07749-127"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Flávio Augusto de Moraes (Jd Sto Antonio)",
+        "zipcode": "07700-600"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Wilson Teixeira",
+        "zipcode": "07704-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua João Moacir de Almeida Prado",
+        "zipcode": "07703-215"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Rua Joaquim Lino Maia",
+        "zipcode": "07722-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Área Rural de Caieiras",
+        "street": "Área Rural",
+        "zipcode": "07749-899"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Antonio Vaz de Lima (Jd Sta Edwiges)",
+        "zipcode": "07717-755"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ubaldo Pastro (San Marino)",
+        "zipcode": "07743-480"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Valtemir Bispo de Assunção",
+        "zipcode": "07726-617"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Otilia Raposo da Silva Barrichelo (Jd Sta Edwiges)",
+        "zipcode": "07717-715"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Maria de Sales Pupo (Vl Maria)",
+        "zipcode": "07739-400"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Vereador José Vicente Filho (Jd Mro Grande)",
+        "zipcode": "07743-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Bráz Cubas (Jd B Vista)",
+        "zipcode": "07716-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Heitor Mazivieiro (Vl Pinheiros)",
+        "zipcode": "07718-065"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Amparo (Jd B Vista)",
+        "zipcode": "07716-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Sebastião Ferreira dos Anjos",
+        "zipcode": "07749-110"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Pardal (P Laranjeiras)",
+        "zipcode": "07745-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Travessa São Tomé (Lot Cresciúma)",
+        "zipcode": "07700-125"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Manoel Ruiz",
+        "zipcode": "07703-210"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Olimpio Caetano Nascimento (Jd Marcelino)",
+        "zipcode": "07714-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Luiz Bimbati (Prq S Rafael)",
+        "zipcode": "07726-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Dona Ambrosina do Carmo Buonaguide (Lot Cresciúma)",
+        "zipcode": "07700-135"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Antônio Moura Filho",
+        "zipcode": "07726-640"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Marília (Vl S João)",
+        "zipcode": "07713-020"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Tremembé (Prq Suiça)",
+        "zipcode": "07734-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Barretos (Vl Gertrudes)",
+        "zipcode": "07713-275"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Lins (Jd B Vista)",
+        "zipcode": "07716-065"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Arminda Cavalieri Dártora (San Marino)",
+        "zipcode": "07743-420"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Melhoramentos",
+        "street": "Avenida Victor Teixeira da Silva",
+        "zipcode": "07705-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Alameda das Jaboticabeiras (Res Valverde)",
+        "zipcode": "07740-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Padre Aquiles Silvestre (Jd Sto Antonio)",
+        "zipcode": "07700-615"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Piracicaba (Vl Miraval)",
+        "zipcode": "07713-107"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Sorocaba (Vl S João)",
+        "zipcode": "07713-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Rua Santa Catarina (Jd Esperança)",
+        "zipcode": "07724-075"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Norton",
+        "zipcode": "07717-810"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Francisco Bimbatti (Jd Marcelino)",
+        "zipcode": "07714-185"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Vereadora Esther Pinto Polkorny (Jd Sta Edwiges)",
+        "zipcode": "07717-745"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Dalvi Gramorelli (Jd Columbia)",
+        "zipcode": "07743-310"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Professora Maria Antonia Granville (Jd Europa)",
+        "zipcode": "07743-360"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Santo VilaFranca (San Marino)",
+        "zipcode": "07743-465"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Professora Martha Aranha Dártora (Jd Sta Edwiges)",
+        "zipcode": "07717-700"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Maria Antonio Marino (Jd Sta Edwiges)",
+        "zipcode": "07717-705"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Plácido Cunha (Jd Sta Edwiges)",
+        "zipcode": "07717-735"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Floriza Favero Mazivieiro (Jd Sta Edwiges)",
+        "zipcode": "07717-775"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Ida Senatti Dártora (Jd Columbia)",
+        "zipcode": "07743-300"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Mauricio Dártora (Jd Europa)",
+        "zipcode": "07743-335"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Irineu Biscaro (Jd Europa)",
+        "zipcode": "07743-365"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Travessa Napoleão (Jd Victória)",
+        "zipcode": "07715-043"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Laert Silingard (V Gertrudes)",
+        "zipcode": "07713-307"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Heinz Farbelow (Jd Marcelino)",
+        "zipcode": "07714-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Monsenhor José Cesar de Oliveira (Jd Marcelino)",
+        "zipcode": "07714-115"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Vereador Antonio Romero Pollon (Jd Europa)",
+        "zipcode": "07743-395"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua São Luiz (Jd S Francisco)",
+        "zipcode": "07700-105"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Valparaíso (Prq Suiça)",
+        "zipcode": "07734-060"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua João Maziviero",
+        "zipcode": "07703-065"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada Júlio Corneto",
+        "zipcode": "07741-600"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Melhoramentos",
+        "street": "Rua Crinio Barnabé",
+        "zipcode": "07705-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Emancipador Benedito Antonio de Moraes (San Marino)",
+        "zipcode": "07743-445"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua José de Barros (San Marino)",
+        "zipcode": "07743-495"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Samambaia (Jd Planalto)",
+        "zipcode": "07729-517"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Viela Mica (Vl S Gonçalo)",
+        "zipcode": "07739-069"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Alzira da Silva Bogajo (Vl Angélica)",
+        "zipcode": "07739-224"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Luiz Nascimento Pontes",
+        "zipcode": "07739-800"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Estrada de Servidão Armando Candido da Silva",
+        "zipcode": "07742-620"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Renato Bianchi",
+        "zipcode": "07749-143"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Maria Antonia Mazillo Barbabé (Jd Columbia)",
+        "zipcode": "07743-305"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Augusto Crema (Jd dos Cunhas)",
+        "zipcode": "07741-013"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Viela Cícero Guilhermino dos Santos",
+        "zipcode": "07713-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rodovia Presidente Tancredo de Almeida Neves",
+        "zipcode": "07713-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rodovia Presidente Tancredo de Almeida Neves",
+        "zipcode": "07713-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rodovia Presidente Tancredo de Almeida Neves",
+        "zipcode": "07717-200"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rodovia Presidente Tancredo de Almeida Neves",
+        "zipcode": "07717-205"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Melhoramentos",
+        "street": "Rodovia Presidente Tancredo de Almeida Neves",
+        "zipcode": "07705-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Taubaté (Jd B Vista)",
+        "zipcode": "07716-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Viela A",
+        "zipcode": "07722-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Viela D",
+        "zipcode": "07722-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Limeira (Vl Miraval)",
+        "zipcode": "07713-147"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Bruno Prando",
+        "zipcode": "07703-050"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rodovia Presidente Tancredo de Almeida Neves",
+        "zipcode": "07739-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Paulicéia",
+        "zipcode": "07744-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Avenida Paulicéia",
+        "zipcode": "07739-605"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Avenida Prefeito Donald Savazoni",
+        "zipcode": "07703-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Queluz (Prq Suiça)",
+        "zipcode": "07734-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Brasílio Del Porto (Vl Angélica)",
+        "zipcode": "07739-225"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Fagundes Varela (Vl S Gonçalo)",
+        "zipcode": "07739-080"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Presidente Juscelino Kubstcheck de Oliveira (Jd Mte Alegre)",
+        "zipcode": "07717-210"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Avenida Presidente Costa e Silva (Jd Mte Alegre)",
+        "zipcode": "07717-215"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Assembléia de Deus (Vl Angélica)",
+        "zipcode": "07739-245"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Bragança (Vl Miraval)",
+        "zipcode": "07713-160"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Avenida Prefeito Gino Dártora",
+        "zipcode": "07724-235"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Engenheiro Máximo Martins da Cruz (Cond R Park)",
+        "zipcode": "07713-620"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Rosa Campanarut Barnabé (Jd Marcelino)",
+        "zipcode": "07714-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Princesa Isabel (Jd Victória)",
+        "zipcode": "07715-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Américo Massaia",
+        "zipcode": "07703-090"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua José Dias de Moraes (Vl Pinheiros)",
+        "zipcode": "07718-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Canário da Terra (P Laranjeiras)",
+        "zipcode": "07745-030"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Professor Carvalho Pinto (Jd Sto Antonio)",
+        "zipcode": "07700-210"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Bolívia (Jd Sto Antonio)",
+        "zipcode": "07700-685"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Santo Agostinho (Jd S Francisco)",
+        "zipcode": "07700-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Domingos do Carmo Leite (Lot Cresciúma)",
+        "zipcode": "07700-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Marechal Deodoro da Fonseca (Jd Victória)",
+        "zipcode": "07715-032"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Era",
+        "street": "Alameda Vereador Alcides Ferracini (Jd N Era)",
+        "zipcode": "07724-185"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Fernando Lima dos Santos (Vl Pinheiros)",
+        "zipcode": "07718-135"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Batatais (Vl Gertrudes)",
+        "zipcode": "07713-285"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Jaci (Jd Planalto)",
+        "zipcode": "07729-500"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Armando Casarotto",
+        "zipcode": "07704-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Estrada do Pó",
+        "zipcode": "07722-005"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua Olga Senhorini Santesso",
+        "zipcode": "07704-130"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Estrada Osvaldo Panelli (Prq Esmeraldas)",
+        "zipcode": "07731-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Osasco (Vl Miraval)",
+        "zipcode": "07713-190"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Nair Milano (Res. San Remo)",
+        "zipcode": "07743-145"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Manoel Valentim (Jd Helena)",
+        "zipcode": "07744-440"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Americana (Vl Gertrudes)",
+        "zipcode": "07713-290"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Itu (Vl Gertrudes)",
+        "zipcode": "07713-283"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Iramina (Prq Sta Inês)",
+        "zipcode": "07733-035"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Luzia Rizzo Pesente (Vl Pinheiros)",
+        "zipcode": "07718-055"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua José Carlos da Silva (Jd V Tereza)",
+        "zipcode": "07717-385"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Erminia Amalia Novello Dell Lago (Resid. Sítio Caieiras)",
+        "zipcode": "07747-275"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Antonio Pereira da Cruz (Lot Cresciúma)",
+        "zipcode": "07700-180"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua José Menegatti (Jd Marcelino)",
+        "zipcode": "07714-530"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Maria Aparecida Szsentes",
+        "zipcode": "07749-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Estrada Santa Inês",
+        "zipcode": "07729-100"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Dulce (Jd V Tereza)",
+        "zipcode": "07717-440"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Luiz Gramorelli (Jd San Diego)",
+        "zipcode": "07725-510"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Lourides Dell Porto (Jd Sto Antonio)",
+        "zipcode": "07700-610"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vila Rosina",
+        "street": "Rua Marlene (Sit Aparecida)",
+        "zipcode": "07748-425"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Calcárea",
+        "street": "Viela C",
+        "zipcode": "07722-025"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Travessa José Batista da Cunha (Jd S Francisco)",
+        "zipcode": "07700-065"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Antonio Manoel Monteiro (Jd Laranjeiras)",
+        "zipcode": "07744-015"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Amleto Ricciarelli (Jd Sto Antonio)",
+        "zipcode": "07700-690"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Viela Laterina (Vl S Gonçalo)",
+        "zipcode": "07739-067"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Avenida Doutor Armando Pinto (Lot Cresciúma)",
+        "zipcode": "07700-175"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Professor Eduardo Soares (Prq Sta Inês)",
+        "zipcode": "07733-000"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Alice (Jd V Tereza)",
+        "zipcode": "07717-420"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Viela Antônio Gonçalves (Jd B Vista)",
+        "zipcode": "07716-040"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Tereza Mommenshon (Jd Mro Grande)",
+        "zipcode": "07743-160"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Praça Orlando Brandt (Jd Mte Alegre)",
+        "zipcode": "07717-233"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Suzano (Jd B Vista)",
+        "zipcode": "07716-085"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Nova Caieiras",
+        "street": "Rua João Antonio Martinho",
+        "zipcode": "07703-045"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Alpes de Caieiras",
+        "street": "Rua Guarujá",
+        "zipcode": "07727-565"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Vera Tereza",
+        "street": "Rua Roberto Agostinho Barichello (Vl Pinheiros)",
+        "zipcode": "07718-083"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Três (Lot Catingueiro)",
+        "zipcode": "07729-010"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Luiz Chrispin de Godóy (Jd Marcelino)",
+        "zipcode": "07714-630"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Praça Maestro Francisco Assis Fernandes (Jd S Francisco)",
+        "zipcode": "07700-070"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Serpa",
+        "street": "Rua Felipe Spera (Jd Marcelino)",
+        "zipcode": "07714-620"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Carmelina de Miranda Souza Oliveira",
+        "zipcode": "07726-645"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Morro Grande",
+        "street": "Rua Jose Arnaldo Polkorni (Prq S Rafael)",
+        "zipcode": "07726-540"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Laranjeiras",
+        "street": "Rua Francisco Mommenshon (Jd Mro Grande)",
+        "zipcode": "07743-150"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Santa Inês",
+        "street": "Rua Fernando Prestes de Albuquerque (Jd Planalto)",
+        "zipcode": "07729-505"
+    },
+    {
+        "city": "Caieiras",
+        "state": "SP",
+        "district": "Região Central",
+        "street": "Rua Dona Ambrosina do Carmo Buonaguide (Lot Cresciúma)",
+        "zipcode": "07700-140"
+    }
+]

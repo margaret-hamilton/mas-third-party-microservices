@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Santa Leopoldina",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Prefeito Hélio Rocha 13",
+        "zipcode": "29640-970"
+    },
+    {
+        "city": "Santa Leopoldina",
+        "state": "ES",
+        "district": "Caramuru",
+        "street": "Estrada ES",
+        "zipcode": "29640-985"
+    },
+    {
+        "city": "Santa Leopoldina",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29640-000"
+    },
+    {
+        "city": "Santa Leopoldina",
+        "state": "ES",
+        "district": "Tyrol",
+        "street": "Estrada Franz Bauer km 1",
+        "zipcode": "29644-981"
+    },
+    {
+        "city": "Santa Leopoldina",
+        "state": "ES",
+        "district": null,
+        "street": "Cartório de Barra de Mangaraí",
+        "zipcode": "29644-993"
+    }
+]

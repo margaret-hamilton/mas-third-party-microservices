@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nova Canaã",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Bernardino Rodrigues de Matos 80",
+        "zipcode": "45270-970"
+    },
+    {
+        "city": "Nova Canaã",
+        "state": "BA",
+        "district": null,
+        "street": "Praça Lomanto Júnior",
+        "zipcode": "45270-990"
+    },
+    {
+        "city": "Nova Canaã",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45270-000"
+    }
+]

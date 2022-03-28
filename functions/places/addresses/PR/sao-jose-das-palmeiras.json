@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São José das Palmeiras",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida José Bonifácio",
+        "zipcode": "85898-970"
+    },
+    {
+        "city": "São José das Palmeiras",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Marechal Cândido Rondon",
+        "zipcode": "85898-971"
+    },
+    {
+        "city": "São José das Palmeiras",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida José Bonifácio",
+        "zipcode": "85898-990"
+    },
+    {
+        "city": "São José das Palmeiras",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85898-000"
+    }
+]

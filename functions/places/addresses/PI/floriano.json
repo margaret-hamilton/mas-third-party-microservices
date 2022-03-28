@@ -1,0 +1,6750 @@
+[
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rua Lady Morais",
+        "zipcode": "64808-795"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Canoas",
+        "street": "Rua Alto Formoso",
+        "zipcode": "64804-810"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua José Torquato",
+        "zipcode": "64801-240"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Ivan Carneiro de Araújo",
+        "zipcode": "64807-030"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra D (Res S Clara)",
+        "zipcode": "64801-177"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64806-865"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa São Miguel I",
+        "zipcode": "64806-335"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Eugemilino Bozon",
+        "zipcode": "64808-190"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Genuína Caminha de Oliveira",
+        "zipcode": "64806-815"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Maria Minervina da Silva Rodrigues",
+        "zipcode": "64807-015"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Francisca Machado",
+        "zipcode": "64801-410"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Alfredo Estrela",
+        "zipcode": "64800-134"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra W (Cj N Retiro)",
+        "zipcode": "64808-890"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra Z (Cj N Retiro)",
+        "zipcode": "64809-005"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra Y (Cj N Retiro)",
+        "zipcode": "64809-000"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra X (Cj N Retiro)",
+        "zipcode": "64808-895"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Adala Atem",
+        "zipcode": "64800-460"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Alberto Silva",
+        "zipcode": "64807-500"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Cidade Universitária",
+        "zipcode": "64808-433"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua José Bezerra",
+        "zipcode": "64806-359"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Professora Rita de Cassia",
+        "zipcode": "64804-205"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Travessa Manoel Roque de Araújo",
+        "zipcode": "64803-302"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 51",
+        "zipcode": "64800-970"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá",
+        "street": "Avenida Santos Dumont 541",
+        "zipcode": "64800-971"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 51",
+        "zipcode": "64800-972"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": null,
+        "street": null,
+        "zipcode": "64800-000"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Manoel Roque de Araújo",
+        "zipcode": "64803-297"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra C (Res S Clara)",
+        "zipcode": "64801-176"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra B (Res S Clara)",
+        "zipcode": "64801-174"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra A (Res S Clara)",
+        "zipcode": "64801-172"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Rua João Josino",
+        "zipcode": "64803-125"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra I (Cj Juá)",
+        "zipcode": "64803-425"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Doca Araújo",
+        "zipcode": "64800-098"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 11 (Cj Caiçara)",
+        "zipcode": "64809-065"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 5 (Cj Caiçara)",
+        "zipcode": "64809-060"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 3 (Cj Caiçara)",
+        "zipcode": "64809-040"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 8 (Cj Caiçara)",
+        "zipcode": "64809-035"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Bucar Neto",
+        "zipcode": "64800-002"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Bucar Neto",
+        "zipcode": "64800-004"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua José Guimarães",
+        "zipcode": "64800-006"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Emídio Gabriel",
+        "zipcode": "64800-114"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Félix Pacheco",
+        "zipcode": "64800-116"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Hermano Brandão",
+        "zipcode": "64800-120"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Salinas",
+        "zipcode": "64809-080"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 2 (Cj Caiçara)",
+        "zipcode": "64809-025"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 1 (Cj Caiçara)",
+        "zipcode": "64809-020"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 6 (Cj Caiçara)",
+        "zipcode": "64809-015"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra U (Cj N Retiro)",
+        "zipcode": "64808-880"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra T (Cj N Retiro)",
+        "zipcode": "64808-875"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra S (Cj N Retiro)",
+        "zipcode": "64808-870"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra R (Cj N Retiro)",
+        "zipcode": "64808-865"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Antônio Neto",
+        "zipcode": "64800-092"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua José Miguel",
+        "zipcode": "64800-094"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Alcebíades Costa",
+        "zipcode": "64800-096"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Antonino Freire",
+        "zipcode": "64800-090"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 9 (Cj Caiçara)",
+        "zipcode": "64809-050"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 4 (Cj Caiçara)",
+        "zipcode": "64809-045"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Nicolau Waquim",
+        "zipcode": "64800-008"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Padre Acelino",
+        "zipcode": "64800-010"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Júlio Guimarães",
+        "zipcode": "64800-012"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Loteamento Portal Sul",
+        "zipcode": "64809-010"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Godofredo Messias",
+        "zipcode": "64800-014"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Francisco Pacheco",
+        "zipcode": "64800-018"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Almeida Guimarães",
+        "zipcode": "64800-020"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Padre Reis",
+        "zipcode": "64800-022"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Luis Ribeiro",
+        "zipcode": "64800-024"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Areolino de Abreu",
+        "zipcode": "64800-026"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Clementino Ribeiro",
+        "zipcode": "64800-028"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Clementino Ribeiro",
+        "zipcode": "64800-030"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Celso Machado",
+        "zipcode": "64800-032"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Travessa Milad Kalume",
+        "zipcode": "64800-034"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua do Amarante",
+        "zipcode": "64800-036"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Coelho Rodrigues",
+        "zipcode": "64800-038"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Cônego Gastão",
+        "zipcode": "64800-040"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Praça Coronel Borges",
+        "zipcode": "64800-044"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Praça Sobral Neto",
+        "zipcode": "64800-048"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Castro Alves",
+        "zipcode": "64800-050"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Castro Alves",
+        "zipcode": "64800-052"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Silva Jardim",
+        "zipcode": "64800-054"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua São Pedro",
+        "zipcode": "64800-056"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas",
+        "zipcode": "64800-058"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas",
+        "zipcode": "64800-060"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Bento Leão",
+        "zipcode": "64800-064"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Fernando Marques",
+        "zipcode": "64800-066"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Fernando Marques",
+        "zipcode": "64800-068"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Cruzeiro do Sul",
+        "zipcode": "64800-070"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Fernando Drumond",
+        "zipcode": "64800-072"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Eurípedes de Aguiar",
+        "zipcode": "64800-074"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Gabriel Zarur",
+        "zipcode": "64800-042"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Eurípedes de Aguiar",
+        "zipcode": "64800-076"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Praça Sebastião Martins",
+        "zipcode": "64800-078"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Praça Tiradentes",
+        "zipcode": "64800-080"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Marechal Pires Ferreira",
+        "zipcode": "64800-082"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Marques da Rocha",
+        "zipcode": "64800-084"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua João Dantas",
+        "zipcode": "64800-086"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Elias Oka",
+        "zipcode": "64800-088"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Benjamin Freitas",
+        "zipcode": "64800-100"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Delson Fonseca",
+        "zipcode": "64800-102"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Raimundo de Castro",
+        "zipcode": "64800-104"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Padre Uchoa",
+        "zipcode": "64800-108"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Defala Atem",
+        "zipcode": "64800-110"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua São João",
+        "zipcode": "64800-112"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Fauzer Bucar",
+        "zipcode": "64800-122"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Vinte e Um de Janeiro",
+        "zipcode": "64807-550"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Francisco de Abreu Rocha",
+        "zipcode": "64800-124"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "64800-126"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida Esmaragdo de Freitas",
+        "zipcode": "64800-128"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "64800-130"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida João Luis Ferreira",
+        "zipcode": "64800-132"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Florêncio Miranda",
+        "zipcode": "64800-140"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Travessa José Lino",
+        "zipcode": "64800-144"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Areolino de Abreu",
+        "zipcode": "64800-146"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Nicolau Waquim",
+        "zipcode": "64800-148"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua José Lino",
+        "zipcode": "64800-152"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Hermano Brandão",
+        "zipcode": "64800-154"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Coelho Rodrigues",
+        "zipcode": "64800-156"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua José Guimarães",
+        "zipcode": "64800-158"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Avenida Esmaragdo de Freitas",
+        "zipcode": "64800-160"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Cazuza Freitas",
+        "zipcode": "64800-164"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Padre Uchoa",
+        "zipcode": "64800-170"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Francisco de Abreu Rocha",
+        "zipcode": "64800-175"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Félix Pacheco",
+        "zipcode": "64800-180"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Francisco Castro",
+        "zipcode": "64800-185"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Travessa Padre Uchoa",
+        "zipcode": "64800-190"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Projetada 132",
+        "zipcode": "64800-195"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Benjamin Freitas",
+        "zipcode": "64800-200"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Francisco Pereira de Sousa Filho",
+        "zipcode": "64800-205"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Oliveira Araújo",
+        "zipcode": "64800-210"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Marisaura Atem",
+        "zipcode": "64800-215"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64800-225"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Marinho de Queiroz",
+        "zipcode": "64800-230"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Emídio Rocha",
+        "zipcode": "64800-235"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Delson Fonseca",
+        "zipcode": "64800-240"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Genésio Rosado",
+        "zipcode": "64800-245"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Robert Tellotison",
+        "zipcode": "64800-250"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "64800-255"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Travessa Desembargador Everton",
+        "zipcode": "64800-260"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Desembargador Everton",
+        "zipcode": "64800-265"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Aluísio Ribeiro",
+        "zipcode": "64800-270"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Gabriel Ferreira",
+        "zipcode": "64800-275"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua João Chico",
+        "zipcode": "64800-280"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Antonino Freire",
+        "zipcode": "64800-290"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua Elias Oka",
+        "zipcode": "64800-295"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua João Dantas",
+        "zipcode": "64800-300"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Avenida Eurípedes de Aguiar",
+        "zipcode": "64800-305"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Félix Pacheco",
+        "zipcode": "64800-310"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Francisco Castro",
+        "zipcode": "64800-315"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua João Chico",
+        "zipcode": "64800-320"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Gabriel Ferreira",
+        "zipcode": "64800-325"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Aluísio Ribeiro",
+        "zipcode": "64800-330"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Hermano Brandão",
+        "zipcode": "64800-335"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua José Cariolano",
+        "zipcode": "64800-340"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Manoel Camarço",
+        "zipcode": "64800-345"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Afonso Nogueira",
+        "zipcode": "64800-350"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Anfilófio Melo",
+        "zipcode": "64800-355"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua São João",
+        "zipcode": "64800-360"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Defala Atem",
+        "zipcode": "64800-365"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Avenida Eurípedes de Aguiar",
+        "zipcode": "64800-375"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua João Dantas",
+        "zipcode": "64800-380"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Elias Oka",
+        "zipcode": "64800-385"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Antonino Freire",
+        "zipcode": "64800-390"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Mauro Neiva Martins",
+        "zipcode": "64800-395"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "64800-400"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua José Nogueira Paranaguá",
+        "zipcode": "64800-405"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Emídio Rocha",
+        "zipcode": "64800-415"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Marinho de Queiroz",
+        "zipcode": "64800-420"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64800-425"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64800-430"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Marinho de Queiroz",
+        "zipcode": "64800-450"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Figueira Soares de Moura",
+        "zipcode": "64800-470"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Francisco Soares",
+        "zipcode": "64800-480"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rodovia BR",
+        "zipcode": "64800-490"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Anfilófio Melo",
+        "zipcode": "64800-500"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua José Leônidas",
+        "zipcode": "64800-510"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Projetada 38",
+        "zipcode": "64800-520"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Travessa José Demes",
+        "zipcode": "64800-530"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Apolônio Dias",
+        "zipcode": "64800-540"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua José Demes",
+        "zipcode": "64800-550"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua José Gadelha Fontes",
+        "zipcode": "64800-560"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Maria Medrado",
+        "zipcode": "64800-570"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Raimundo José Ribeiro",
+        "zipcode": "64800-590"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua José Nogueira Paranaguá",
+        "zipcode": "64800-600"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Joaquim Coelho Rodrigues",
+        "zipcode": "64800-610"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Henrique Santos Alencar",
+        "zipcode": "64800-620"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Travessa Veras de Holanda",
+        "zipcode": "64800-630"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Antonino Freire",
+        "zipcode": "64800-640"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Elias Oka",
+        "zipcode": "64800-650"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Josina Carvalho",
+        "zipcode": "64800-660"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Veras de Holanda",
+        "zipcode": "64800-670"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua João Dantas",
+        "zipcode": "64800-680"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Avenida Eurípedes de Aguiar",
+        "zipcode": "64800-700"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Manoel José Veloso",
+        "zipcode": "64800-710"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua São João",
+        "zipcode": "64800-720"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Francisco Cronemberg Reis",
+        "zipcode": "64800-730"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua João Pereira",
+        "zipcode": "64800-740"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua José Mendes Vieira",
+        "zipcode": "64800-750"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Ondina de Carvalho",
+        "zipcode": "64800-760"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Travessa Francisco Cronemberg Reis",
+        "zipcode": "64800-770"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Joaquim Freitas",
+        "zipcode": "64800-780"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Projetada 29",
+        "zipcode": "64800-790"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Clotildes Ferreira de Sousa",
+        "zipcode": "64800-800"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Área Rural de Floriano",
+        "street": "Área Rural",
+        "zipcode": "64809-899"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Milton Lavour",
+        "zipcode": "64809-230"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Projetada 40",
+        "zipcode": "64809-220"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Projetada 181",
+        "zipcode": "64809-210"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Projetada 38",
+        "zipcode": "64809-190"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Projetada 16",
+        "zipcode": "64809-180"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Olemar Alves de Sousa",
+        "zipcode": "64809-170"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua José Italiano de Araújo",
+        "zipcode": "64809-160"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Raimundo Feitosa",
+        "zipcode": "64809-150"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Francisco Urquiza Machado",
+        "zipcode": "64809-140"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Malva Risco",
+        "zipcode": "64809-130"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Boa Esperança",
+        "zipcode": "64809-120"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Malhadinha",
+        "zipcode": "64809-110"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Mesa de Pedra",
+        "zipcode": "64809-090"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rua Erivan da Costa Feitosa",
+        "zipcode": "64808-855"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra O (Cj N Retiro)",
+        "zipcode": "64808-840"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra P (Cj N Retiro)",
+        "zipcode": "64808-835"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Hermano Brandão",
+        "zipcode": "64800-810"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Hermano Brandão",
+        "zipcode": "64800-820"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua João Ulisses Freitas",
+        "zipcode": "64800-830"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "64800-850"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Nova",
+        "zipcode": "64800-860"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Avenida Esmaragdo de Freitas",
+        "zipcode": "64800-870"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Francisco Castro",
+        "zipcode": "64800-890"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua João Chico",
+        "zipcode": "64801-000"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra N (Cj N Retiro)",
+        "zipcode": "64808-845"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Raimundo Moura Lima",
+        "zipcode": "64801-010"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Gabriel Ferreira",
+        "zipcode": "64801-020"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Manoel Camarço",
+        "zipcode": "64801-040"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Afonso Nogueira",
+        "zipcode": "64801-050"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Anfilófio Melo",
+        "zipcode": "64801-060"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64801-080"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64801-090"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua João Pereira",
+        "zipcode": "64801-100"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Projetada 23",
+        "zipcode": "64801-110"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Assis Brasil",
+        "zipcode": "64801-130"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Francisco Gil Castelo Branco",
+        "zipcode": "64801-140"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Torquato Neto",
+        "zipcode": "64801-150"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Joaquim Freitas",
+        "zipcode": "64801-160"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Sandra Atem",
+        "zipcode": "64801-170"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Projetada 25",
+        "zipcode": "64801-190"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua José Batista",
+        "zipcode": "64801-200"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Antônio Rodrigues",
+        "zipcode": "64801-210"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Gregório Matos",
+        "zipcode": "64801-220"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Aluísio Batista",
+        "zipcode": "64801-230"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Travessa São Francisco",
+        "zipcode": "64801-250"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua São João",
+        "zipcode": "64801-260"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Avenida Eurípedes de Aguiar",
+        "zipcode": "64801-270"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Edinê Matos",
+        "zipcode": "64801-280"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua São Francisco",
+        "zipcode": "64801-300"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Gregório Pereira da Silva",
+        "zipcode": "64801-310"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Eduardo Pereira",
+        "zipcode": "64801-320"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Travessa Francisco Alvarenga",
+        "zipcode": "64801-330"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Elias Oka",
+        "zipcode": "64801-340"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Padre Cícero",
+        "zipcode": "64807-540"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Agostinho Bertolo José de Lima",
+        "zipcode": "64801-360"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Avenida Petrônio Portela",
+        "zipcode": "64801-370"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra Q (Cj N Retiro)",
+        "zipcode": "64808-830"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra L (Cj N Retiro)",
+        "zipcode": "64808-825"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra K (Cj N Retiro)",
+        "zipcode": "64808-820"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra I (Cj N Retiro)",
+        "zipcode": "64808-810"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra H (Cj N Retiro)",
+        "zipcode": "64808-805"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rua João Alves Pereira",
+        "zipcode": "64808-800"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra D (Cj N Retiro)",
+        "zipcode": "64808-790"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra F (Cj N Retiro)",
+        "zipcode": "64808-780"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra G (Cj N Retiro)",
+        "zipcode": "64808-775"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra C (Cj N Retiro)",
+        "zipcode": "64808-770"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra A (Cj N Retiro)",
+        "zipcode": "64808-760"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rodovia BR",
+        "zipcode": "64808-755"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rua Francisco Soares",
+        "zipcode": "64808-750"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rua Rosana Carlos",
+        "zipcode": "64808-745"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rua Projetada 50",
+        "zipcode": "64808-740"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra Z (Cj F F Castro)",
+        "zipcode": "64808-735"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra X (Cj F F Castro)",
+        "zipcode": "64808-725"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra V (Cj F F Castro)",
+        "zipcode": "64808-715"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra U (Cj F F Castro)",
+        "zipcode": "64808-710"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra T (Cj F F Castro)",
+        "zipcode": "64808-705"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra S (Cj F F Castro)",
+        "zipcode": "64808-700"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra R (Cj F F Castro)",
+        "zipcode": "64808-695"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra Q (Cj F F Castro)",
+        "zipcode": "64808-690"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra P (Cj F F Castro)",
+        "zipcode": "64808-685"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra O (Cj F F Castro)",
+        "zipcode": "64808-680"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra N (Cj F F Castro)",
+        "zipcode": "64808-675"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra M (Cj F F Castro)",
+        "zipcode": "64808-670"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra L (Cj F F Castro)",
+        "zipcode": "64808-665"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra K (Cj F F Castro)",
+        "zipcode": "64808-660"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra J (Cj F F Castro)",
+        "zipcode": "64808-655"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra I (Cj F F Castro)",
+        "zipcode": "64808-650"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra H (Cj F F Castro)",
+        "zipcode": "64808-645"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra G (Cj F F Castro)",
+        "zipcode": "64808-640"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra F (Cj F F Castro)",
+        "zipcode": "64808-635"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra E (Cj F F Castro)",
+        "zipcode": "64808-630"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra D (Cj F F Castro)",
+        "zipcode": "64808-625"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra C (Cj F F Castro)",
+        "zipcode": "64808-620"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra B (Cj F F Castro)",
+        "zipcode": "64808-615"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra A (Cj F F Castro)",
+        "zipcode": "64808-610"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rodovia BR",
+        "zipcode": "64808-605"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rua Projetada 37",
+        "zipcode": "64808-600"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua Projetada 12",
+        "zipcode": "64808-590"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua Fábio Herbert Soares",
+        "zipcode": "64808-585"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Projetada 33",
+        "zipcode": "64801-380"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Demerval Neiva de Sousa",
+        "zipcode": "64801-390"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Projetada 34",
+        "zipcode": "64801-400"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua José Nogueira Paranaguá",
+        "zipcode": "64801-420"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 1 (Cj G Kalume)",
+        "zipcode": "64801-430"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 2 (Cj G Kalume)",
+        "zipcode": "64801-440"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 3 (Cj G Kalume)",
+        "zipcode": "64801-450"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 4 (Cj G Kalume)",
+        "zipcode": "64801-460"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 5 (Cj G Kalume)",
+        "zipcode": "64801-470"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 6 (Cj G Kalume)",
+        "zipcode": "64801-480"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra W (Cj F F Castro)",
+        "zipcode": "64808-720"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 7 (Cj G Kalume)",
+        "zipcode": "64801-490"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 8 (Cj G Kalume)",
+        "zipcode": "64801-500"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 9 (Cj G Kalume)",
+        "zipcode": "64801-510"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 11 (Cj G Kalume)",
+        "zipcode": "64801-530"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Fernando Silva",
+        "zipcode": "64803-010"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua São José",
+        "zipcode": "64803-015"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua do Amarante",
+        "zipcode": "64803-020"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua David Caldas",
+        "zipcode": "64803-025"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Coelho Rodrigues",
+        "zipcode": "64803-035"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua José Soares",
+        "zipcode": "64803-040"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Clementino Ribeiro",
+        "zipcode": "64803-045"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Três (Cj Jacob Demes)",
+        "zipcode": "64803-050"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Dois (Cj J Demes)",
+        "zipcode": "64803-055"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Quatro (Cj Jacob Demes)",
+        "zipcode": "64803-060"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Um (Cj Jacob Demes)",
+        "zipcode": "64803-065"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Avenida Esmaragdo de Freitas",
+        "zipcode": "64803-070"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Antônio Anísio",
+        "zipcode": "64803-080"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Luis Urquisa",
+        "zipcode": "64803-085"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Cassandra Costa Araújo",
+        "zipcode": "64803-090"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64803-095"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Rua João lourenço",
+        "zipcode": "64803-105"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Rua José Cardoso Amorim",
+        "zipcode": "64803-110"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Rua Aurino Nunes",
+        "zipcode": "64803-115"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Rua Projetada 137",
+        "zipcode": "64803-120"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Travessa Raimundo Ataíde",
+        "zipcode": "64803-130"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Rua Raimundo Bernardo Silva",
+        "zipcode": "64803-135"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Rua Manoel Sousa Santos",
+        "zipcode": "64803-140"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Rua Raimundo Ataíde",
+        "zipcode": "64803-145"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Raimundo Ataíde",
+        "zipcode": "64803-150"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Edmilson Carvalho",
+        "zipcode": "64803-155"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Clementino Ribeiro",
+        "zipcode": "64803-160"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Padre Reis",
+        "zipcode": "64803-165"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Francisco Pacheco",
+        "zipcode": "64803-170"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua Orlando Rodrigues",
+        "zipcode": "64808-580"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua Francisco Urquiza Machado",
+        "zipcode": "64808-575"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua Maestro Eugênio Pereira",
+        "zipcode": "64808-570"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Quadra E (Cj H Pacheco)",
+        "zipcode": "64808-565"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Quadra C (Cj H Pacheco)",
+        "zipcode": "64808-555"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Quadra B (Cj H Pacheco)",
+        "zipcode": "64808-550"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Quadra A (Cj H Pacheco)",
+        "zipcode": "64808-545"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua Honorato de Sousa Lima",
+        "zipcode": "64808-540"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Avenida Senador Petrônio Portela Nunes",
+        "zipcode": "64808-535"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua João Martins de Oliveira",
+        "zipcode": "64808-530"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua Severino Ramos Vasconcelos",
+        "zipcode": "64808-525"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "64808-520"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "64808-515"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Robert Tellotison",
+        "zipcode": "64808-510"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Genésio Rosado",
+        "zipcode": "64808-505"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Severino Ramos Vasconcelos",
+        "zipcode": "64808-495"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua João Martins de Oliveira",
+        "zipcode": "64808-490"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Senador Petrônio Portela Nunes",
+        "zipcode": "64808-485"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Maestro Eugênio Pereira",
+        "zipcode": "64808-480"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Francisco Urquiza Machado",
+        "zipcode": "64808-475"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Orlando Rodrigues",
+        "zipcode": "64808-470"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Travessa Santos Dumont",
+        "zipcode": "64808-460"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra J (Cj Juá)",
+        "zipcode": "64803-430"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Projetada 37",
+        "zipcode": "64808-455"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Travessa João Martins de Oliveira",
+        "zipcode": "64808-440"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Alfredo Gaze",
+        "zipcode": "64808-435"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Wilton Bajonas",
+        "zipcode": "64808-430"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Orlando Rodrigues",
+        "zipcode": "64808-425"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Maestro Eugênio Pereira",
+        "zipcode": "64808-415"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Avenida Senador Petrônio Portela Nunes",
+        "zipcode": "64808-410"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Valdemar Almeida",
+        "zipcode": "64808-405"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Adelina Monteiro",
+        "zipcode": "64808-400"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Eugemilino Bozon",
+        "zipcode": "64808-395"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Projetada 61",
+        "zipcode": "64808-390"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Benjamin Francisco da Silva",
+        "zipcode": "64808-385"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Eduardo Rodrigues de Freitas",
+        "zipcode": "64808-375"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Eduardo Rodrigues de Freitas",
+        "zipcode": "64808-370"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Eduardo Rodrigues de Freitas",
+        "zipcode": "64808-365"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Marques da Rocha",
+        "zipcode": "64808-360"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Projetada 65",
+        "zipcode": "64808-350"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Projetada 66",
+        "zipcode": "64808-345"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Ariosto Martins",
+        "zipcode": "64808-340"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Manoel Fernandes de Lima",
+        "zipcode": "64803-175"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Augusto Rocha",
+        "zipcode": "64803-180"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua São José",
+        "zipcode": "64803-200"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua David Caldas",
+        "zipcode": "64803-205"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua José Soares",
+        "zipcode": "64803-210"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Antônio Anísio",
+        "zipcode": "64803-215"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Orlando Mauriz",
+        "zipcode": "64803-220"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64803-225"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64803-230"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Geraldo Teles",
+        "zipcode": "64808-355"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Francisco Borges",
+        "zipcode": "64808-335"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Fernando Silva",
+        "zipcode": "64803-195"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Viana de Carvalho",
+        "zipcode": "64803-240"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "64803-245"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Travessa Raimundo Ataíde",
+        "zipcode": "64803-250"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Projetada 144",
+        "zipcode": "64803-255"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Projetada 149",
+        "zipcode": "64803-260"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Francisco de Sousa Lima",
+        "zipcode": "64803-265"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "64803-275"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Projetada 153",
+        "zipcode": "64803-280"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua José Mendes Batista",
+        "zipcode": "64803-285"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua José Mendes Batista",
+        "zipcode": "64803-290"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua João Lima da Cunha",
+        "zipcode": "64803-300"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Francisco Ramos Freitas",
+        "zipcode": "64803-305"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Santo Antônio",
+        "zipcode": "64803-310"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Anísio Santiago",
+        "zipcode": "64803-315"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Treze de Maio",
+        "zipcode": "64803-320"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Nicolau Waquim",
+        "zipcode": "64803-190"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Manoel Sousa Santos",
+        "zipcode": "64803-235"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Manoel Pereira",
+        "zipcode": "64803-295"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Ciro Gomes de Carvalho",
+        "zipcode": "64803-330"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Raimundo Ataíde",
+        "zipcode": "64803-335"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua Raimundo Ataíde",
+        "zipcode": "64803-340"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua José Mendes Batista",
+        "zipcode": "64803-345"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua Francisco Paixão Filho",
+        "zipcode": "64803-350"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua da Professora",
+        "zipcode": "64803-360"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua Ciro Gomes de Carvalho",
+        "zipcode": "64803-365"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua Manoel Pereira",
+        "zipcode": "64803-370"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua João Lima da Cunha",
+        "zipcode": "64803-375"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua Francisco Ramos Freitas",
+        "zipcode": "64803-380"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra A (Cj Juá)",
+        "zipcode": "64803-385"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra B (Cj Juá)",
+        "zipcode": "64803-390"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra D (Cj Juá)",
+        "zipcode": "64803-400"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra E (Cj Juá)",
+        "zipcode": "64803-405"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra F (Cj Juá)",
+        "zipcode": "64803-410"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra G (Cj Juá)",
+        "zipcode": "64803-415"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Francisco de Abreu Rocha",
+        "zipcode": "64808-330"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Quadra G (Cj S Borja)",
+        "zipcode": "64808-320"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Quadra F (Cj S Borja)",
+        "zipcode": "64808-315"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Quadra E (Cj S Borja)",
+        "zipcode": "64808-310"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Quadra D (Cj S Borja)",
+        "zipcode": "64808-305"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Quadra B (Cj S Borja)",
+        "zipcode": "64808-295"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Travessa Raimundo Vieira de Sá",
+        "zipcode": "64808-325"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Quadra A (Cj S Borja)",
+        "zipcode": "64808-290"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Delson Guedes",
+        "zipcode": "64808-285"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua José Dourado Rocha",
+        "zipcode": "64808-275"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua João Chico",
+        "zipcode": "64808-270"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Raimundo Vieira de Sá",
+        "zipcode": "64808-265"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Gabriel Ferreira",
+        "zipcode": "64808-260"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Gabriel Ferreira",
+        "zipcode": "64808-255"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64808-250"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Aluísio Ribeiro",
+        "zipcode": "64808-245"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Maria Gomes e Silva",
+        "zipcode": "64808-240"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Hugo Leal",
+        "zipcode": "64808-235"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua José Demes",
+        "zipcode": "64808-230"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Djalma Nunes",
+        "zipcode": "64808-220"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Djalma Nunes",
+        "zipcode": "64808-215"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Maria Gomes e Silva",
+        "zipcode": "64808-210"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Luis Carlos Prestes",
+        "zipcode": "64808-205"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua São José",
+        "zipcode": "64807-530"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Gabriel Ferreira",
+        "zipcode": "64808-200"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Gabriel Ferreira",
+        "zipcode": "64808-195"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Projetada 65",
+        "zipcode": "64808-185"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Aluísio Ribeiro",
+        "zipcode": "64808-180"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Projetada 74",
+        "zipcode": "64808-175"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Raimunda Carmina de Jesus",
+        "zipcode": "64808-170"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Adelina Monteiro",
+        "zipcode": "64808-160"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Vereador Arnaldo Pereira",
+        "zipcode": "64808-155"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Genésio Rosado",
+        "zipcode": "64808-150"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Manoel Cruz",
+        "zipcode": "64808-145"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Rua Honorato de Sousa Lima",
+        "zipcode": "64808-135"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Rua João Martins de Oliveira",
+        "zipcode": "64808-130"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Rua Severino Ramos Vasconcelos",
+        "zipcode": "64808-125"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Quadra F (Cj Paraíso)",
+        "zipcode": "64808-120"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Quadra E (Cj Paraíso)",
+        "zipcode": "64808-115"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Quadra C (Cj Paraíso)",
+        "zipcode": "64808-105"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Quadra B (Cj Paraíso)",
+        "zipcode": "64808-100"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Quadra A (Cj Paraíso)",
+        "zipcode": "64808-095"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Rua Adelina Monteiro",
+        "zipcode": "64808-090"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Rua Projetada 123",
+        "zipcode": "64808-085"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra L (Cj Juá)",
+        "zipcode": "64803-440"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra M (Cj Juá)",
+        "zipcode": "64803-445"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra N (Cj Juá)",
+        "zipcode": "64803-450"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra O (Cj Juá)",
+        "zipcode": "64803-455"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra R (Cj Juá)",
+        "zipcode": "64803-470"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra S (Cj Juá)",
+        "zipcode": "64803-475"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Francisco Paixão Filho",
+        "zipcode": "64803-480"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Manoel de Oliveira",
+        "zipcode": "64803-500"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Projetada 151",
+        "zipcode": "64803-510"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Projetada 154",
+        "zipcode": "64803-520"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Treze de Maio",
+        "zipcode": "64803-530"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua José Reinaldo de Menezes",
+        "zipcode": "64803-540"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Projetada 155",
+        "zipcode": "64803-550"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Projetada 156",
+        "zipcode": "64803-560"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Anísio Santiago",
+        "zipcode": "64803-570"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Francisco Ramos Freitas",
+        "zipcode": "64803-580"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Rua Santo Antônio",
+        "zipcode": "64803-590"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Santo Antônio",
+        "zipcode": "64803-600"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Projetada 150",
+        "zipcode": "64803-610"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua José Mendes Batista",
+        "zipcode": "64803-620"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Projetada 186",
+        "zipcode": "64803-640"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Francisco Ramos Freitas",
+        "zipcode": "64803-650"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Projetada 149",
+        "zipcode": "64803-660"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Projetada 148",
+        "zipcode": "64803-670"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua João Lima da Cunha",
+        "zipcode": "64803-680"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Manoel Pereira",
+        "zipcode": "64803-690"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Pedro José de Azevedo",
+        "zipcode": "64803-700"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua Francisca de Sousa Lima",
+        "zipcode": "64803-710"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra A (Cj P Sambaíba)",
+        "zipcode": "64803-720"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra B (Cj P Sambaíba)",
+        "zipcode": "64803-730"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra D (Cj P Sambaíba)",
+        "zipcode": "64803-750"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra E (Cj P Sambaíba)",
+        "zipcode": "64803-760"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra F (Cj P Sambaíba)",
+        "zipcode": "64803-770"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra H (Cj P Sambaíba)",
+        "zipcode": "64803-790"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra I (Cj P Sambaíba)",
+        "zipcode": "64803-800"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra J (Cj P Sambaíba)",
+        "zipcode": "64803-810"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra K (Cj P Sambaíba)",
+        "zipcode": "64803-820"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra M (Cj P Sambaíba)",
+        "zipcode": "64803-840"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra Q (Cj Juá)",
+        "zipcode": "64803-465"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra O (Cj P Sambaíba)",
+        "zipcode": "64803-860"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Rodovia BR",
+        "zipcode": "64808-080"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "64808-070"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "64808-068"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra Z (Cj P Simplício)",
+        "zipcode": "64808-066"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra Y (Cj P Simplício)",
+        "zipcode": "64808-064"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra X (Cj P Simplício)",
+        "zipcode": "64808-062"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Rua Robert Tellotison",
+        "zipcode": "64808-060"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra W (Cj P Simplício)",
+        "zipcode": "64808-058"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra V (Cj P Simplício)",
+        "zipcode": "64808-056"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra U (Cj P Simplício)",
+        "zipcode": "64808-054"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra T (Cj P Simplício)",
+        "zipcode": "64808-052"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra S (Cj P Simplício)",
+        "zipcode": "64808-050"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra R (Cj P Simplício)",
+        "zipcode": "64808-048"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra Q (Cj P Simplício)",
+        "zipcode": "64808-046"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra P (Cj P Simplício)",
+        "zipcode": "64808-044"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra O (Cj P Simplício)",
+        "zipcode": "64808-042"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra N (Cj P Simplício)",
+        "zipcode": "64808-040"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Rua Genésio Rosado",
+        "zipcode": "64808-038"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra L (Cj P Simplício)",
+        "zipcode": "64808-034"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra K (Cj P Simplício)",
+        "zipcode": "64808-032"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra J (Cj P Simplício)",
+        "zipcode": "64808-030"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra I (Cj P Simplício)",
+        "zipcode": "64808-028"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra H (Cj P Simplício)",
+        "zipcode": "64808-026"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra G (Cj P Simplício)",
+        "zipcode": "64808-024"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra F (Cj P Simplício)",
+        "zipcode": "64808-022"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra E (Cj P Simplício)",
+        "zipcode": "64808-020"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra D (Cj P Simplício)",
+        "zipcode": "64808-018"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra C (Cj P Simplício)",
+        "zipcode": "64808-016"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra B (Cj P Simplício)",
+        "zipcode": "64808-014"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Rua Manoel Cruz",
+        "zipcode": "64808-010"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Rua Luis Carlos Prestes",
+        "zipcode": "64808-008"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Rua José Demes",
+        "zipcode": "64808-006"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Rua Maria Gomes e Silva",
+        "zipcode": "64808-004"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Rua Raimundo Vieira de Sá",
+        "zipcode": "64808-002"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64808-000"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Mauro Lucena",
+        "zipcode": "64807-560"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Maria Ana de Sousa",
+        "zipcode": "64807-510"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua São Francisco de Assis",
+        "zipcode": "64807-480"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Petrônio Portela",
+        "zipcode": "64807-470"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "64807-460"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra P (Cj P Sambaíba)",
+        "zipcode": "64803-870"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 6 (Res V Leão)",
+        "zipcode": "64803-880"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 7 (Res V Leão)",
+        "zipcode": "64803-890"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 8 (Res V Leão)",
+        "zipcode": "64804-000"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 9 (Res V Leão)",
+        "zipcode": "64804-010"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 10 (Res V Leão)",
+        "zipcode": "64804-020"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 11 (Res V Leão)",
+        "zipcode": "64804-030"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra A (Cj P Simplício)",
+        "zipcode": "64808-012"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Santo Antônio",
+        "zipcode": "64807-490"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 4 (Res V Leão)",
+        "zipcode": "64804-050"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 3 (Res V Leão)",
+        "zipcode": "64804-060"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 2 (Res V Leão)",
+        "zipcode": "64804-070"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 1 (Res V Leão)",
+        "zipcode": "64804-080"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Francisca de Sousa Lima",
+        "zipcode": "64804-090"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Projetada 148",
+        "zipcode": "64804-100"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Projetada 105",
+        "zipcode": "64804-120"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64804-130"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64804-140"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Padre Acelino",
+        "zipcode": "64804-150"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Fernando Silva",
+        "zipcode": "64804-160"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Júlio Guimarães",
+        "zipcode": "64804-170"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua José Leão",
+        "zipcode": "64804-180"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Demerval Nogueira",
+        "zipcode": "64804-190"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Fernando Sepúlveda",
+        "zipcode": "64804-200"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Orlando Mauriz",
+        "zipcode": "64804-210"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Andrade Sobrinho",
+        "zipcode": "64804-220"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua João Soares",
+        "zipcode": "64804-230"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua São José",
+        "zipcode": "64804-240"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua José Araújo Costa",
+        "zipcode": "64804-260"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Luiz Meireles",
+        "zipcode": "64804-270"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64804-280"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua David Caldas",
+        "zipcode": "64804-290"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua João Antônio de Carvalho",
+        "zipcode": "64804-300"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Avenida Bucar Neto",
+        "zipcode": "64804-310"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Avenida Bucar Neto",
+        "zipcode": "64804-320"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Avenida Bucar Neto",
+        "zipcode": "64804-325"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Avenida Doutor José Ribamar Pacheco",
+        "zipcode": "64804-330"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua da Independência",
+        "zipcode": "64804-340"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Travessa Luiz Meireles II",
+        "zipcode": "64804-345"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Seis (Lot Princesinha)",
+        "zipcode": "64806-835"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua Luiz Meireles",
+        "zipcode": "64804-350"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua João Amâncio Cavalcante",
+        "zipcode": "64804-355"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Travessa Luiz Meireles III",
+        "zipcode": "64804-360"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua Godofredo Messias",
+        "zipcode": "64804-365"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64804-370"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64804-375"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua João Gonçalves Filho",
+        "zipcode": "64804-380"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua Projetada 159",
+        "zipcode": "64804-390"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Francisco das Chagas Caetano",
+        "zipcode": "64807-440"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64807-430"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64807-420"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Travessa Maria Inácia",
+        "zipcode": "64807-410"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Travessa Otília Rodrigues dos Santos",
+        "zipcode": "64807-390"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Avenida Pedro Simplício",
+        "zipcode": "64807-380"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua Pedro Oleiro",
+        "zipcode": "64807-370"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua Orieta Rodrigues",
+        "zipcode": "64807-360"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua Cícero Rodrigues",
+        "zipcode": "64807-350"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua Antônio Francisco Rodrigues de Oliveira",
+        "zipcode": "64807-330"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Avenida Nossa Senhora da Guia",
+        "zipcode": "64807-310"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Travessa São Sebastião",
+        "zipcode": "64807-290"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua Emídio Nonato",
+        "zipcode": "64807-280"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua José da Guia",
+        "zipcode": "64807-270"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua São Sebastião",
+        "zipcode": "64807-260"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua João Paulo Rodrigues",
+        "zipcode": "64807-250"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua Maria Antônia Rodrigues",
+        "zipcode": "64807-240"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curtume",
+        "street": "Travessa José Olegário Correia",
+        "zipcode": "64807-220"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curtume",
+        "street": "Rua Eleutério Resende",
+        "zipcode": "64807-210"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curtume",
+        "street": "Rua Desembargador Freitas",
+        "zipcode": "64807-200"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curtume",
+        "street": "Rua Vereador Issa Mazuad",
+        "zipcode": "64807-190"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curtume",
+        "street": "Rua José Olegário Correia",
+        "zipcode": "64807-180"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curtume",
+        "street": "Rodovia João Gonçalves Filho",
+        "zipcode": "64807-170"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua José Olegário Correia",
+        "zipcode": "64807-150"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua Projetada 14",
+        "zipcode": "64807-140"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua Oito de Julho",
+        "zipcode": "64807-130"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua Cândido Pereira",
+        "zipcode": "64807-120"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua Francisco Pereira Rodrigues",
+        "zipcode": "64807-110"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua Princesa do Sul",
+        "zipcode": "64807-100"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua João Gonçalves Filho",
+        "zipcode": "64807-080"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Travessa João Gonçalves Filho",
+        "zipcode": "64807-070"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua José de Sousa Leal",
+        "zipcode": "64807-060"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "64807-045"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Avenida Papa João Paulo II",
+        "zipcode": "64807-040"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Raimundo Cardoso de Melo",
+        "zipcode": "64807-035"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Valderi José Mendes dos Santos",
+        "zipcode": "64807-025"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Maria de Jesus Mendes Solon",
+        "zipcode": "64807-020"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Nelson Rodrigues dos Santos",
+        "zipcode": "64807-010"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64806-895"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64804-395"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua Alcides Costa",
+        "zipcode": "64804-400"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua Valentim Leão",
+        "zipcode": "64804-405"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Quatorze de Abril",
+        "zipcode": "64807-005"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Solon Miranda",
+        "zipcode": "64804-420"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Avenida Bucar Neto",
+        "zipcode": "64804-430"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Projetada 07",
+        "zipcode": "64804-440"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Travessa Paulo Afonso",
+        "zipcode": "64804-450"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Projetada 06",
+        "zipcode": "64804-460"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Travessa Bucar Neto I",
+        "zipcode": "64804-470"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Travessa Manoel Miguel",
+        "zipcode": "64804-480"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua José Olímpio Ramos",
+        "zipcode": "64804-490"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Travessa Bucar Neto II",
+        "zipcode": "64804-500"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Manoel Miguel",
+        "zipcode": "64804-510"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Alcides Costa",
+        "zipcode": "64804-520"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Paulo Afonso",
+        "zipcode": "64804-530"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Francisca Carla dos Reis",
+        "zipcode": "64804-540"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Mariano Pereira",
+        "zipcode": "64804-550"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Projetada 17",
+        "zipcode": "64804-570"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Projetada 12",
+        "zipcode": "64804-580"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 1 (Cj A Procópio)",
+        "zipcode": "64804-600"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 2 (Cj A Procópio)",
+        "zipcode": "64804-610"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 3 (Cj A Procópio)",
+        "zipcode": "64804-620"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 4 (Cj A Procópio)",
+        "zipcode": "64804-630"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 6 (Cj A Procópio)",
+        "zipcode": "64804-650"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 7 (Cj A Procópio)",
+        "zipcode": "64804-660"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 8 (Cj A Procópio)",
+        "zipcode": "64804-670"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 9 (Cj A Procópio)",
+        "zipcode": "64804-680"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 10 (Cj A Procópio)",
+        "zipcode": "64804-690"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 11 (Cj A Procópio)",
+        "zipcode": "64804-700"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Projetada 103",
+        "zipcode": "64804-720"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64804-730"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Canoas",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64804-740"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Canoas",
+        "street": "Rua Projetada 166",
+        "zipcode": "64804-770"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Canoas",
+        "street": "Rua Cajuína",
+        "zipcode": "64804-780"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Canoas",
+        "street": "Rua Projetada 159",
+        "zipcode": "64804-790"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Delson Fonseca",
+        "zipcode": "64806-005"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Emídio Rocha",
+        "zipcode": "64806-010"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Marinho de Queiroz",
+        "zipcode": "64806-015"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Oliveira Araújo",
+        "zipcode": "64806-020"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Vila Militar",
+        "zipcode": "64806-025"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Travessa Cruzeiro do Sul",
+        "zipcode": "64806-030"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Santo Antônio",
+        "zipcode": "64806-890"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Canoas",
+        "street": "Rua Pedro Rodrigues dos Santos",
+        "zipcode": "64804-750"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Francisca Trindade",
+        "zipcode": "64806-880"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Loteamento Princesinha",
+        "zipcode": "64806-875"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Marques da Rocha",
+        "zipcode": "64806-870"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Augusto Rocha",
+        "zipcode": "64800-016"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Um (Lot Princesinha)",
+        "zipcode": "64806-860"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Dois (Lot Princesinha)",
+        "zipcode": "64806-855"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Quatro (Lot Princesinha)",
+        "zipcode": "64806-845"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Cinco (Lot Princesinha)",
+        "zipcode": "64806-840"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Oito (Lot Princesinha)",
+        "zipcode": "64806-830"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Sete (Lot Princesinha)",
+        "zipcode": "64806-825"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Francisca Trindade",
+        "zipcode": "64806-810"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Santo Antônio",
+        "zipcode": "64806-800"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Quatorze de Abril",
+        "zipcode": "64806-790"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Paulo Martins",
+        "zipcode": "64806-780"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Ulisses Guimarães",
+        "zipcode": "64806-775"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Afonso Gil",
+        "zipcode": "64806-770"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Avenida Papa João Paulo II",
+        "zipcode": "64806-760"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Raimundo Cardoso de Melo",
+        "zipcode": "64806-755"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Álvaro de Sousa Mendes",
+        "zipcode": "64806-750"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "64806-745"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Eduardo Rodrigues de Freitas",
+        "zipcode": "64806-735"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Hosternes da Costa Osório",
+        "zipcode": "64806-730"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Germina Soares",
+        "zipcode": "64806-725"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Marques da Rocha",
+        "zipcode": "64806-720"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Dom Edilberto Dikemborg",
+        "zipcode": "64806-785"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Travessa Senador Dirceu Arcoverde",
+        "zipcode": "64806-705"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Travessa Fernando Marques",
+        "zipcode": "64806-695"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Projetada I",
+        "zipcode": "64806-690"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "64806-685"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Vereador Deusdete Pereira Filho",
+        "zipcode": "64806-680"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Francisca Lima",
+        "zipcode": "64806-675"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Fernando Marques",
+        "zipcode": "64806-665"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua José Tavares da Nóbrega",
+        "zipcode": "64806-660"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua São Domingos",
+        "zipcode": "64806-655"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua José Irineu Osório",
+        "zipcode": "64806-650"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Projetada 184",
+        "zipcode": "64806-645"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Major Carlindo Nunes",
+        "zipcode": "64806-640"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64806-635"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Comandante Oliveira",
+        "zipcode": "64806-035"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Travessa Marques da Rocha",
+        "zipcode": "64806-040"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Antônio Luis Reis",
+        "zipcode": "64806-045"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64806-055"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua José Monteiro da Silva",
+        "zipcode": "64806-065"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Francisca Lima",
+        "zipcode": "64806-060"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Padre Uchoa",
+        "zipcode": "64806-070"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Raimundo de Castro",
+        "zipcode": "64806-075"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Marques da Rocha",
+        "zipcode": "64806-080"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Cruzeiro do Sul",
+        "zipcode": "64806-085"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Fernando Marques",
+        "zipcode": "64806-090"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Castro Alves",
+        "zipcode": "64806-095"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Castro Alves",
+        "zipcode": "64806-100"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Severiano Silva",
+        "zipcode": "64806-805"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Alberto Drumont",
+        "zipcode": "64806-105"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Rufina Santos",
+        "zipcode": "64806-110"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Raimunda Filomena",
+        "zipcode": "64806-115"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Comandante Oliveira",
+        "zipcode": "64806-120"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Projetada 126",
+        "zipcode": "64806-125"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Maria Venância",
+        "zipcode": "64806-130"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Anália Moura",
+        "zipcode": "64806-135"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Antônio Osório Pitombeira",
+        "zipcode": "64806-140"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Castro Silva",
+        "zipcode": "64806-145"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua São Miguel",
+        "zipcode": "64806-150"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Manoel Lapa",
+        "zipcode": "64806-155"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Benjamin Reis",
+        "zipcode": "64806-160"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Travessa São Miguel II",
+        "zipcode": "64806-170"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Travessa Benjamin Reis II",
+        "zipcode": "64806-175"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Travessa Benjamin Reis III",
+        "zipcode": "64806-180"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Projetada 117",
+        "zipcode": "64806-185"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Delson Fonseca",
+        "zipcode": "64806-190"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Delson Fonseca",
+        "zipcode": "64806-195"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua José Miguel",
+        "zipcode": "64806-200"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Rua Antônio Neto",
+        "zipcode": "64806-205"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Alcebíades Costa",
+        "zipcode": "64806-210"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Godofredo Messias II",
+        "zipcode": "64806-215"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Projetada 128",
+        "zipcode": "64806-220"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Antônio Neto",
+        "zipcode": "64806-225"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Furtuoso Pacheco",
+        "zipcode": "64806-230"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Delson Fonseca",
+        "zipcode": "64806-245"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua São Miguel",
+        "zipcode": "64806-260"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Benjamin Reis IV",
+        "zipcode": "64806-265"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Júlio Guimarães",
+        "zipcode": "64806-270"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Júlio Guimarães",
+        "zipcode": "64806-275"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Benjamin Reis",
+        "zipcode": "64806-280"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64806-630"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Desembargador Freitas",
+        "zipcode": "64806-620"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua José Irineu Osório",
+        "zipcode": "64806-610"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua São Paulo",
+        "zipcode": "64806-605"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Praça do Catumbí",
+        "zipcode": "64806-250"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Otília Miranda",
+        "zipcode": "64806-600"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Travessa Alberto Drumont",
+        "zipcode": "64806-595"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua José Amâncio Cavalcante",
+        "zipcode": "64806-590"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Castro Alves",
+        "zipcode": "64806-585"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Newton Bajonas",
+        "zipcode": "64806-580"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Alberto Drumont",
+        "zipcode": "64806-575"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Projetada 124",
+        "zipcode": "64806-565"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Travessa Anália Moura",
+        "zipcode": "64806-560"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Travessa Antônio Osório Pitombeira",
+        "zipcode": "64806-555"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Antônio Osório Pitombeira",
+        "zipcode": "64806-550"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Anália Moura",
+        "zipcode": "64806-545"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua José Tavares da Nóbrega",
+        "zipcode": "64806-540"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Castro Silva",
+        "zipcode": "64806-535"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua São Miguel",
+        "zipcode": "64806-530"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Luiz Meireles",
+        "zipcode": "64806-525"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Major Carlindo Nunes",
+        "zipcode": "64806-520"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Raimundo Nonato Ferreira",
+        "zipcode": "64806-515"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64806-510"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Bela Vista",
+        "zipcode": "64806-500"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Antônio Melo",
+        "zipcode": "64806-495"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Projetada 12",
+        "zipcode": "64806-490"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua João Gonçalves Filho",
+        "zipcode": "64806-485"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Dantas Florinda II",
+        "zipcode": "64806-480"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Projetada 175",
+        "zipcode": "64806-475"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Edson Barros",
+        "zipcode": "64806-470"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Projetada 19",
+        "zipcode": "64806-465"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Projetada 18",
+        "zipcode": "64806-460"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Castro Silva",
+        "zipcode": "64806-455"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Eleutério Resende",
+        "zipcode": "64806-450"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Francisco Sanches",
+        "zipcode": "64806-445"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Lourival Campos",
+        "zipcode": "64806-440"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Dantas Florinda",
+        "zipcode": "64806-430"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Raimundo Nonato Ferreira",
+        "zipcode": "64806-425"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Mariano Pereira",
+        "zipcode": "64806-420"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Almir Pires de Carvalho",
+        "zipcode": "64806-415"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Júlia Soares",
+        "zipcode": "64806-405"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Travessa Dantas Florinda",
+        "zipcode": "64806-400"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Manoel Gonçalves",
+        "zipcode": "64806-395"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Valentim Leão",
+        "zipcode": "64806-385"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Raimundo Pereira",
+        "zipcode": "64806-380"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Furtuoso Pacheco",
+        "zipcode": "64806-285"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Godofredo Messias",
+        "zipcode": "64806-295"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Godofredo Messias I",
+        "zipcode": "64806-300"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Avenida Bucar Neto",
+        "zipcode": "64806-305"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua da Independência",
+        "zipcode": "64806-310"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Major Carlindo Nunes",
+        "zipcode": "64806-315"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Luiz Meireles",
+        "zipcode": "64806-320"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Raimundo Nonato Ferreira",
+        "zipcode": "64806-340"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua José Reis Neto",
+        "zipcode": "64806-345"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua João Amâncio Cavalcante",
+        "zipcode": "64806-350"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64806-355"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64806-360"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Alcides Costa",
+        "zipcode": "64806-365"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Travessa Valentim Leão",
+        "zipcode": "64806-370"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua José Dorneles",
+        "zipcode": "64806-375"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Idelfonso Sanches",
+        "zipcode": "64808-450"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 16 (Res A Lira)",
+        "zipcode": "64801-426"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 15 (Res A Lira)",
+        "zipcode": "64801-424"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 12 (Res A Lira)",
+        "zipcode": "64801-418"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Quadra H (Cj S Borja)",
+        "zipcode": "64808-323"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 11 (Res A Lira)",
+        "zipcode": "64801-416"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 10 (Res A Lira)",
+        "zipcode": "64801-414"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 9 (Res A Lira)",
+        "zipcode": "64801-412"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 5 (Res A Lira)",
+        "zipcode": "64801-406"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 3 (Res A Lira)",
+        "zipcode": "64801-404"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 2 (Res A Lira)",
+        "zipcode": "64801-402"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 7 (Cj Caiçara)",
+        "zipcode": "64809-030"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Canoas",
+        "street": "Rua Laura Rodrigues do Carmo",
+        "zipcode": "64804-760"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 14 (Res A Lira)",
+        "zipcode": "64801-422"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Praça da Bandeira",
+        "zipcode": "64800-136"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Paraíso",
+        "zipcode": "64806-410"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Zé Bezerro",
+        "zipcode": "64806-325"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Rua Solon Miranda",
+        "zipcode": "64804-385"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 17 (Res A Lira)",
+        "zipcode": "64801-428"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Honorato Drumond",
+        "zipcode": "64808-442"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua José Barreto Parente",
+        "zipcode": "64803-282"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Maria Vieira",
+        "zipcode": "64808-445"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra 10 (Cj Caiçara)",
+        "zipcode": "64809-055"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rodovia BR",
+        "zipcode": "64809-070"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra V (Cj N Retiro)",
+        "zipcode": "64808-885"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Hermano Brandão",
+        "zipcode": "64800-118"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Assad Kalume",
+        "zipcode": "64800-046"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Bento Leão",
+        "zipcode": "64800-062"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Padre Uchoa",
+        "zipcode": "64800-106"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Silva Jardim",
+        "zipcode": "64800-142"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Fernando Marques",
+        "zipcode": "64800-150"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bosque Santa Teresinha",
+        "street": "Rua Bento Leão",
+        "zipcode": "64800-162"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua José Monteiro da Silva",
+        "zipcode": "64800-220"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Manguinha",
+        "street": "Rua José Nogueira Paranaguá",
+        "zipcode": "64800-285"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Avenida Eurípedes de Aguiar",
+        "zipcode": "64800-370"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá I",
+        "street": "Rua Projetada 132",
+        "zipcode": "64800-410"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Travessa José Nogueira Paranaguá",
+        "zipcode": "64800-440"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Rua Antônio Wilson",
+        "zipcode": "64800-580"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Irapuá II",
+        "street": "Avenida Eurípedes de Aguiar",
+        "zipcode": "64800-690"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua José Nogueira Paranaguá",
+        "zipcode": "64809-200"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Rede Nova",
+        "street": "Rua Pedra Redonda",
+        "zipcode": "64809-100"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Rua Benedito Belo da Silva",
+        "zipcode": "64808-860"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra M (Cj N Retiro)",
+        "zipcode": "64808-850"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Fauzer Bucar",
+        "zipcode": "64800-840"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Félix Pacheco",
+        "zipcode": "64800-880"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua Aluísio Ribeiro",
+        "zipcode": "64801-030"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Travessa Hermano Brandão",
+        "zipcode": "64801-070"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Cristóvão",
+        "street": "Rua da Costa e Silva",
+        "zipcode": "64801-120"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua José Afonso",
+        "zipcode": "64801-180"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua João Ferreira da Cruz",
+        "zipcode": "64801-290"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Rua Antonino Freire",
+        "zipcode": "64801-350"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra J (Cj N Retiro)",
+        "zipcode": "64808-815"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra E (Cj N Retiro)",
+        "zipcode": "64808-785"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra B (Cj N Retiro)",
+        "zipcode": "64808-765"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Quadra Y (Cj F F Castro)",
+        "zipcode": "64808-730"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Rua Projetada 37",
+        "zipcode": "64808-595"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 10 (Cj G Kalume)",
+        "zipcode": "64801-520"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Nicolau Waquim",
+        "zipcode": "64803-005"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Coelho Rodrigues",
+        "zipcode": "64803-030"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Ibiapaba",
+        "street": "Rua Cinco",
+        "zipcode": "64803-075"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Matadouro",
+        "street": "Avenida da Integração (BR 230)",
+        "zipcode": "64803-100"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Hermes Pacheco",
+        "street": "Quadra D (Cj H Pacheco)",
+        "zipcode": "64808-560"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Adelina Monteiro",
+        "zipcode": "64808-500"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Campo Velho",
+        "street": "Rua Fábio Herbert Soares",
+        "zipcode": "64808-465"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Francisco Urquiza Machado",
+        "zipcode": "64808-420"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tamboril",
+        "street": "Rua Projetada 63",
+        "zipcode": "64808-380"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Velha",
+        "street": "Rua Padre Acelino",
+        "zipcode": "64803-185"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua Francisca de Sousa Lima",
+        "zipcode": "64803-270"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Cruz",
+        "street": "Rua da Professora",
+        "zipcode": "64803-325"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Rua da Professora",
+        "zipcode": "64803-355"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra C (Cj Juá)",
+        "zipcode": "64803-395"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra H (Cj Juá)",
+        "zipcode": "64803-420"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Quadra C (Cj S Borja)",
+        "zipcode": "64808-300"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Luis Carlos Prestes",
+        "zipcode": "64808-280"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "São Borja",
+        "street": "Rua Djalma Nunes",
+        "zipcode": "64808-225"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Rua Wilton Bajonas",
+        "zipcode": "64808-165"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Morro do Tiro",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "64808-140"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Quadra D (Cj Paraíso)",
+        "zipcode": "64808-110"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra K (Cj Juá)",
+        "zipcode": "64803-435"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Juá",
+        "street": "Quadra P (Cj Juá)",
+        "zipcode": "64803-460"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Riacho Fundo",
+        "street": "Travessa Treze de Maio",
+        "zipcode": "64803-490"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Rua José Mendes Batista",
+        "zipcode": "64803-630"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra C (Cj P Sambaíba)",
+        "zipcode": "64803-740"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra G (Cj P Sambaíba)",
+        "zipcode": "64803-780"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra L (Cj P Sambaíba)",
+        "zipcode": "64803-830"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Planalto Sambaíba",
+        "street": "Quadra N (Cj P Sambaíba)",
+        "zipcode": "64803-850"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Paraíso",
+        "street": "Rua José Demes",
+        "zipcode": "64808-075"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pedro Simplício",
+        "street": "Quadra M (Cj P Simplício)",
+        "zipcode": "64808-036"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Francelina Dias",
+        "zipcode": "64807-520"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cajueiro II",
+        "street": "Rua Francisco Rodrigues da Massa",
+        "zipcode": "64807-450"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Vila Leão",
+        "street": "Quadra 5 (Res V Leão)",
+        "zipcode": "64804-040"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Viana de Carvalho",
+        "zipcode": "64804-110"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Sambaíba Nova",
+        "street": "Rua Heitor Leão",
+        "zipcode": "64804-250"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Avenida Doutor José Ribamar Pacheco",
+        "zipcode": "64804-335"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Travessa Nossa Senhora da Guia",
+        "zipcode": "64807-400"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Travessa São Pio",
+        "zipcode": "64807-340"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua São Pio",
+        "zipcode": "64807-320"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua João Batista dos Santos",
+        "zipcode": "64807-300"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Nossa Senhora da Guia",
+        "street": "Rua Manoel da Guia",
+        "zipcode": "64807-230"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curtume",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64807-160"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Rua Vereador Issa Mazuad",
+        "zipcode": "64807-090"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Alto da Guia",
+        "street": "Avenida Calisto Lobo (PI",
+        "zipcode": "64807-050"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Cancela",
+        "street": "Travessa Doutor José Ribamar Pacheco",
+        "zipcode": "64804-410"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "64804-560"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Florência Maria da Conceição",
+        "zipcode": "64804-590"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 5 (Cj A Procópio)",
+        "zipcode": "64804-640"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Quadra 12 (Cj A Procópio)",
+        "zipcode": "64804-710"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Canoas",
+        "street": "Rua Valmir Ribeiro Amorim",
+        "zipcode": "64804-800"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Santa Rita",
+        "street": "Rua Francisca das Chagas Alves de Oliveira",
+        "zipcode": "64806-885"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Três (Lot Princesinha)",
+        "zipcode": "64806-850"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Agostinho de Sousa Neto",
+        "zipcode": "64806-820"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Raimundo Pereira dos Santos",
+        "zipcode": "64806-765"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Princesa do Sul",
+        "street": "Rua Joaquina Osório de Carvalho",
+        "zipcode": "64806-740"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Marques da Rocha",
+        "zipcode": "64806-710"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua João Vitor Santos de Barros",
+        "zipcode": "64806-670"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Caixa DAgua",
+        "street": "Rua Francisco Pereira dos Santos",
+        "zipcode": "64806-050"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Curador",
+        "street": "Travessa Benjamin Reis I",
+        "zipcode": "64806-165"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Júlio Guimarães",
+        "zipcode": "64806-235"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Antônio Neto",
+        "zipcode": "64806-240"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Daniel Sá Piauilino",
+        "zipcode": "64806-255"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Avenida Senador Dirceu Arcoverde",
+        "zipcode": "64806-615"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Pau Ferrado",
+        "street": "Rua Maria Venância",
+        "zipcode": "64806-570"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Desembargador Freitas",
+        "zipcode": "64806-505"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Raimundo Nunes de Almeida",
+        "zipcode": "64806-435"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Tiberão",
+        "street": "Rua Tiago Roque de Araújo",
+        "zipcode": "64806-390"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Rua Godofredo Messias",
+        "zipcode": "64806-290"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Catumbí",
+        "street": "Travessa Miguel III",
+        "zipcode": "64806-330"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Via Azul",
+        "street": "Rua Jane Lopes",
+        "zipcode": "64806-700"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Meladão",
+        "street": "Travessa Francisco Soares",
+        "zipcode": "64808-753"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 6 (Res A Lira)",
+        "zipcode": "64801-408"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra 1 (Res A Lira)",
+        "zipcode": "64801-398"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Bom Lugar",
+        "street": "Rua Raimundo Nonato Pereira",
+        "zipcode": "64804-595"
+    },
+    {
+        "city": "Floriano",
+        "state": "PI",
+        "district": "Taboca",
+        "street": "Quadra E (Res S Clara)",
+        "zipcode": "64801-178"
+    }
+]

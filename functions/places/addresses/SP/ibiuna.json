@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Ibiúna",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Osvaldo Cruz 15",
+        "zipcode": "18150-970"
+    },
+    {
+        "city": "Ibiúna",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Municipal",
+        "zipcode": "18150-994"
+    },
+    {
+        "city": "Ibiúna",
+        "state": "SP",
+        "district": null,
+        "street": null,
+        "zipcode": "18150-000"
+    },
+    {
+        "city": "Ibiúna",
+        "state": "SP",
+        "district": "Jardim Disneylandia",
+        "street": "Rua Amazonas",
+        "zipcode": "18150-971"
+    },
+    {
+        "city": "Ibiúna",
+        "state": "SP",
+        "district": null,
+        "street": "Rua L",
+        "zipcode": "18150-993"
+    },
+    {
+        "city": "Ibiúna",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Elídio Domingues",
+        "zipcode": "18155-990"
+    }
+]

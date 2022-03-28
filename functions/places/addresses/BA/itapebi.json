@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Itapebi",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Valfrides Santana Silva s/n",
+        "zipcode": "45855-970"
+    },
+    {
+        "city": "Itapebi",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45855-000"
+    },
+    {
+        "city": "Itapebi",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Valfrides Santana Silva",
+        "zipcode": "45855-991"
+    },
+    {
+        "city": "Itapebi",
+        "state": "BA",
+        "district": "Ventania",
+        "street": "Praça Umberto Cardoso s/n",
+        "zipcode": "45855-971"
+    },
+    {
+        "city": "Itapebi",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Silvio Tosta Júnior",
+        "zipcode": "45855-990"
+    }
+]

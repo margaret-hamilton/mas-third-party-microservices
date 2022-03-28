@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Lagoa Nova",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua Doutor Sílvio B. de Melo 279",
+        "zipcode": "59390-970"
+    },
+    {
+        "city": "Lagoa Nova",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59390-000"
+    },
+    {
+        "city": "Lagoa Nova",
+        "state": "RN",
+        "district": "Povoado Barro Branco",
+        "street": "Rua Principal s/n",
+        "zipcode": "59390-974"
+    },
+    {
+        "city": "Lagoa Nova",
+        "state": "RN",
+        "district": "Sitio Manoel Domingo",
+        "street": "Rua Principal s/n",
+        "zipcode": "59390-972"
+    },
+    {
+        "city": "Lagoa Nova",
+        "state": "RN",
+        "district": "Sítio de Dentro",
+        "street": "Sítio de Dentro s/n Loja Telemar",
+        "zipcode": "59390-971"
+    },
+    {
+        "city": "Lagoa Nova",
+        "state": "RN",
+        "district": "Buraco de Lagoa",
+        "street": "Sítio Buraco de Lagoa s/n Loja Telemar",
+        "zipcode": "59390-973"
+    }
+]

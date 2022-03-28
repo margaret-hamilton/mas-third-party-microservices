@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Jacarezinho",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Willy Davis",
+        "zipcode": "86400-990"
+    },
+    {
+        "city": "Jacarezinho",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 849",
+        "zipcode": "86400-970"
+    },
+    {
+        "city": "Jacarezinho",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86400-000"
+    }
+]

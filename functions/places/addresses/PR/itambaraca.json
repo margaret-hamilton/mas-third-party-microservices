@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Itambaracá",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Interventor Manoel Ribas 7",
+        "zipcode": "86375-970"
+    },
+    {
+        "city": "Itambaracá",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86375-000"
+    },
+    {
+        "city": "Itambaracá",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Constâncio Jussiani",
+        "zipcode": "86378-990"
+    }
+]

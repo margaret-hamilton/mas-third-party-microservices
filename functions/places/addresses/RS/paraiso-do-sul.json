@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Paraíso do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Max Retzlaff",
+        "zipcode": "96530-970"
+    },
+    {
+        "city": "Paraíso do Sul",
+        "state": "RS",
+        "district": "Vila Paraíso",
+        "street": "Avenida Barão Von Kahlden s/n",
+        "zipcode": "96530-971"
+    },
+    {
+        "city": "Paraíso do Sul",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "96530-000"
+    }
+]

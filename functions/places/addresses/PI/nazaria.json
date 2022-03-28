@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nazária",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rodovia PI 130 km 26",
+        "zipcode": "64415-970"
+    },
+    {
+        "city": "Nazária",
+        "state": "PI",
+        "district": "",
+        "street": "",
+        "zipcode": "64415-000"
+    },
+    {
+        "city": "Nazária",
+        "state": "PI",
+        "district": null,
+        "street": "Estrada Povoado Lagoa Nova",
+        "zipcode": "64415-990"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Porto Firme",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Juquinha Moreira 26",
+        "zipcode": "36576-970"
+    },
+    {
+        "city": "Porto Firme",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "36576-000"
+    },
+    {
+        "city": "Porto Firme",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "36568-000"
+    },
+    {
+        "city": "Porto Firme",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Juquinha Moreira 26  AC Porto Firme",
+        "zipcode": "36568-970"
+    }
+]

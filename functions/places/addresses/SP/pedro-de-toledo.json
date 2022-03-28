@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Pedro de Toledo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida São José 384",
+        "zipcode": "11790-970"
+    },
+    {
+        "city": "Pedro de Toledo",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Municipal dos Marianos",
+        "zipcode": "11790-990"
+    },
+    {
+        "city": "Pedro de Toledo",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Municipal",
+        "zipcode": "11790-991"
+    },
+    {
+        "city": "Pedro de Toledo",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Municipal",
+        "zipcode": "11790-992"
+    },
+    {
+        "city": "Pedro de Toledo",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "11790-000"
+    }
+]

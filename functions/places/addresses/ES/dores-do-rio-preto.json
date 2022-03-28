@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Dores do Rio Preto",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Manoel Fernandes Ornelas 30",
+        "zipcode": "29580-970"
+    },
+    {
+        "city": "Dores do Rio Preto",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29580-000"
+    },
+    {
+        "city": "Dores do Rio Preto",
+        "state": "ES",
+        "district": null,
+        "street": "Estrada Principal do Pico da Bandeira",
+        "zipcode": "29588-990"
+    }
+]

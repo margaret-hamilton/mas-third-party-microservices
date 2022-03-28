@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Diamantina",
+        "state": "MG",
+        "district": "Maria Nunes",
+        "street": "Praça Nossa Senhora Auxiliadora s/n",
+        "zipcode": "39100-974"
+    },
+    {
+        "city": "Diamantina",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39100-000"
+    },
+    {
+        "city": "Diamantina",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Correa Rabelo 93",
+        "zipcode": "39100-970"
+    },
+    {
+        "city": "Diamantina",
+        "state": "MG",
+        "district": "Largo Dom João",
+        "street": "Rua Padre Bartolomeu Sipolis 112",
+        "zipcode": "39100-971"
+    }
+]

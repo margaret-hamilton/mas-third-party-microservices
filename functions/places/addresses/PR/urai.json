@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Uraí",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua José de Oliveira Borges",
+        "zipcode": "86280-970"
+    },
+    {
+        "city": "Uraí",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86280-000"
+    },
+    {
+        "city": "Uraí",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "86280-990"
+    }
+]

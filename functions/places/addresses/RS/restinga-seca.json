@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Restinga Seca",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "97200-971"
+    },
+    {
+        "city": "Restinga Seca",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Horácio Borges",
+        "zipcode": "97200-970"
+    },
+    {
+        "city": "Restinga Seca",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "97200-000"
+    },
+    {
+        "city": "Restinga Seca",
+        "state": "RS",
+        "district": null,
+        "street": "BR 287",
+        "zipcode": "97200-990"
+    }
+]

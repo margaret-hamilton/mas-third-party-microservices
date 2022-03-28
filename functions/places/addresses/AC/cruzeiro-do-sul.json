@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Cruzeiro do Sul",
+        "state": "AC",
+        "district": "Centro",
+        "street": "Rua Rego Barros 73",
+        "zipcode": "69980-970"
+    },
+    {
+        "city": "Cruzeiro do Sul",
+        "state": "AC",
+        "district": "Comunidade Santa Luzia",
+        "street": "Rodovia BR",
+        "zipcode": "69980-971"
+    },
+    {
+        "city": "Cruzeiro do Sul",
+        "state": "AC",
+        "district": "",
+        "street": "",
+        "zipcode": "69980-000"
+    }
+]

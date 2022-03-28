@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Mercedes",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua João Inácio 470",
+        "zipcode": "85998-970"
+    },
+    {
+        "city": "Mercedes",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida João XXIII",
+        "zipcode": "85998-972"
+    },
+    {
+        "city": "Mercedes",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85998-000"
+    }
+]

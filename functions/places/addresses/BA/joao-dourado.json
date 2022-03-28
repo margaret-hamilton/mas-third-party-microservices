@@ -1,0 +1,23 @@
+[
+    {
+        "city": "João Dourado",
+        "state": "BA",
+        "district": "Gameleira dos Crentes",
+        "street": "Rua da Caixa DÁgua s/n",
+        "zipcode": "44920-971"
+    },
+    {
+        "city": "João Dourado",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Joaquim Augusto Dourado 212",
+        "zipcode": "44920-970"
+    },
+    {
+        "city": "João Dourado",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44920-000"
+    }
+]

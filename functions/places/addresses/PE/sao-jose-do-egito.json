@@ -1,0 +1,37 @@
+[
+    {
+        "city": "São José do Egito",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56700-000"
+    },
+    {
+        "city": "São José do Egito",
+        "state": "PE",
+        "district": "Distrito Riacho do Meio",
+        "street": "Rua Antonio Apolonio s/n",
+        "zipcode": "56705-970"
+    },
+    {
+        "city": "São José do Egito",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Central",
+        "zipcode": "56710-970"
+    },
+    {
+        "city": "São José do Egito",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua João Pessoa 4",
+        "zipcode": "56700-970"
+    },
+    {
+        "city": "São José do Egito",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Antônio Apolônio",
+        "zipcode": "56705-990"
+    }
+]

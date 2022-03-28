@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Cantagalo",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28500-000"
+    },
+    {
+        "city": "Cantagalo",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Miguel de Carvalho 35",
+        "zipcode": "28500-970"
+    },
+    {
+        "city": "Cantagalo",
+        "state": "RJ",
+        "district": null,
+        "street": "AGC Cantagalo",
+        "zipcode": "28525-990"
+    }
+]

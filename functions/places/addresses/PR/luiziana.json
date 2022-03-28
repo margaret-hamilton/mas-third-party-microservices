@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Luiziana",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Liberdade",
+        "zipcode": "87290-970"
+    },
+    {
+        "city": "Luiziana",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87290-000"
+    },
+    {
+        "city": "Luiziana",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "87290-990"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Paudalho",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55825-000"
+    },
+    {
+        "city": "Paudalho",
+        "state": "PE",
+        "district": "Distrito Nova Guadalajara",
+        "street": "Rua Um",
+        "zipcode": "55825-972"
+    },
+    {
+        "city": "Paudalho",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Doutor Antônio Montenegro 12",
+        "zipcode": "55825-970"
+    },
+    {
+        "city": "Paudalho",
+        "state": "PE",
+        "district": null,
+        "street": "Rua do Cinema",
+        "zipcode": "55825-990"
+    }
+]

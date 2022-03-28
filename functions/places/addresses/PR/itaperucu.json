@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Itaperuçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida São Pedro 348",
+        "zipcode": "83560-970"
+    },
+    {
+        "city": "Itaperuçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Principal",
+        "zipcode": "83560-972"
+    },
+    {
+        "city": "Itaperuçu",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83560-000"
+    },
+    {
+        "city": "Itaperuçu",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Alcides Gomes da Silva",
+        "zipcode": "83560-990"
+    },
+    {
+        "city": "Itaperuçu",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Industrial",
+        "zipcode": "83560-991"
+    },
+    {
+        "city": "Itaperuçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Estrada de Açungui do Meio",
+        "zipcode": "83560-971"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Caiva (Campo Largo)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "83645-970"
+    },
+    {
+        "city": "Caiva (Campo Largo)",
+        "state": "PR",
+        "district": null,
+        "street": "Estrada do Cerne",
+        "zipcode": "83645-990"
+    },
+    {
+        "city": "Caiva (Campo Largo)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83645-000"
+    }
+]

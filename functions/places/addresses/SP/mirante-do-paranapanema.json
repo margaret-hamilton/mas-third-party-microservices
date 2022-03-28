@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Mirante do Paranapanema",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Comendador Zenji Hida",
+        "zipcode": "19260-970"
+    },
+    {
+        "city": "Mirante do Paranapanema",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19260-000"
+    },
+    {
+        "city": "Mirante do Paranapanema",
+        "state": "SP",
+        "district": null,
+        "street": "Posto de Saúde Familiar",
+        "zipcode": "19260-990"
+    }
+]

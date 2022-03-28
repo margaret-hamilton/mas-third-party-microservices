@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Apiacá",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Doutor Manoel da Silva Araujo",
+        "zipcode": "29455-990"
+    },
+    {
+        "city": "Apiacá",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Jerônimo Monteiro 09",
+        "zipcode": "29450-970"
+    },
+    {
+        "city": "Apiacá",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Jacy Lopes Theodoro",
+        "zipcode": "29458-990"
+    },
+    {
+        "city": "Apiacá",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29450-000"
+    }
+]

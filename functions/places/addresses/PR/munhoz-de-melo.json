@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Munhoz de Melo",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas 322",
+        "zipcode": "86760-970"
+    },
+    {
+        "city": "Munhoz de Melo",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86760-000"
+    }
+]

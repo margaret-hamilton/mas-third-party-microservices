@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Minas Novas",
+        "state": "MG",
+        "district": "Cruzinha",
+        "street": "Praça Olímpio Esteves da Paixão",
+        "zipcode": "39650-975"
+    },
+    {
+        "city": "Minas Novas",
+        "state": "MG",
+        "district": "Baixa Quente",
+        "street": "Rua Principal",
+        "zipcode": "39650-974"
+    },
+    {
+        "city": "Minas Novas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39650-000"
+    },
+    {
+        "city": "Minas Novas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Sebastião L. do Prado 67",
+        "zipcode": "39650-970"
+    }
+]

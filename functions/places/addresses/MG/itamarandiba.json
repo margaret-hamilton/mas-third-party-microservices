@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Itamarandiba",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Padre João Afonso 43",
+        "zipcode": "39670-970"
+    },
+    {
+        "city": "Itamarandiba",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39670-000"
+    },
+    {
+        "city": "Itamarandiba",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Santa Joana s/n",
+        "zipcode": "39670-972"
+    }
+]

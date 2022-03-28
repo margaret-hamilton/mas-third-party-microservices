@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Sapucaia",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada de Santo Antonio da Vista Alegre",
+        "zipcode": "25882-991"
+    },
+    {
+        "city": "Sapucaia",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Manoel de Souza Jesus",
+        "zipcode": "25882-990"
+    },
+    {
+        "city": "Sapucaia",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "25880-000"
+    },
+    {
+        "city": "Sapucaia",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Mauricio de Abreu 21",
+        "zipcode": "25880-970"
+    }
+]

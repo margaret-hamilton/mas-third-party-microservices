@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Lavras",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Raul Soares 159",
+        "zipcode": "37200-970"
+    },
+    {
+        "city": "Lavras",
+        "state": "MG",
+        "district": "Ouro Preto",
+        "street": "Rua Professor Alberto Carvalho 750",
+        "zipcode": "37200-974"
+    },
+    {
+        "city": "Lavras",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Doutor Francisco Sales 343 Lojas 3 e 4",
+        "zipcode": "37200-973"
+    },
+    {
+        "city": "Lavras",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37200-000"
+    }
+]

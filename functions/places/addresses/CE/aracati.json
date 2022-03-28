@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Aracati",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Coronel Alexanzito 1192",
+        "zipcode": "62800-970"
+    },
+    {
+        "city": "Aracati",
+        "state": "CE",
+        "district": "Canoa Quebrada",
+        "street": "Rua Dragão do Mar 1999",
+        "zipcode": "62800-976"
+    },
+    {
+        "city": "Aracati",
+        "state": "CE",
+        "district": "Quixaba",
+        "street": "Praça Nossa Senhora Auxiliadora 70",
+        "zipcode": "62800-974"
+    },
+    {
+        "city": "Aracati",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62800-000"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Saudades",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Brasil 108",
+        "zipcode": "89868-970"
+    },
+    {
+        "city": "Saudades",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89868-000"
+    },
+    {
+        "city": "Saudades",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "89868-990"
+    }
+]

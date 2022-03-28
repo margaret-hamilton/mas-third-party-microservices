@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Mirinzal",
+        "state": "MA",
+        "district": null,
+        "street": "Povoado Gurutil",
+        "zipcode": "65265-990"
+    },
+    {
+        "city": "Mirinzal",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Governador Antônio Dino 197",
+        "zipcode": "65265-970"
+    },
+    {
+        "city": "Mirinzal",
+        "state": "MA",
+        "district": "",
+        "street": "",
+        "zipcode": "65265-000"
+    }
+]

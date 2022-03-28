@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Prado Ferreira",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua São Paulo",
+        "zipcode": "86618-970"
+    },
+    {
+        "city": "Prado Ferreira",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86618-000"
+    }
+]

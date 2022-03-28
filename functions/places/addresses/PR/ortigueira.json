@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Ortigueira",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Brasil 684",
+        "zipcode": "84350-970"
+    },
+    {
+        "city": "Ortigueira",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "84391-970"
+    },
+    {
+        "city": "Ortigueira",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Sete de Setembro",
+        "zipcode": "84350-990"
+    },
+    {
+        "city": "Ortigueira",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "84350-000"
+    },
+    {
+        "city": "Ortigueira",
+        "state": "PR",
+        "district": "Bairro dos França",
+        "street": "Rua Principal",
+        "zipcode": "84381-970"
+    }
+]

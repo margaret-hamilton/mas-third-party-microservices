@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Lagoa Formosa",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38720-000"
+    },
+    {
+        "city": "Lagoa Formosa",
+        "state": "MG",
+        "district": "Limeira de Minas",
+        "street": "Praça Nossa Senhora Abadia s/n",
+        "zipcode": "38720-972"
+    },
+    {
+        "city": "Lagoa Formosa",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Zuza Fonseca 102",
+        "zipcode": "38720-970"
+    }
+]

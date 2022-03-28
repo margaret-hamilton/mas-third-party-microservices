@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Três Cachoeiras",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua José Rolim de Matos 59 Loja 5",
+        "zipcode": "95580-970"
+    },
+    {
+        "city": "Três Cachoeiras",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95580-000"
+    },
+    {
+        "city": "Três Cachoeiras",
+        "state": "RS",
+        "district": null,
+        "street": "Rodovia BR",
+        "zipcode": "95580-992"
+    },
+    {
+        "city": "Três Cachoeiras",
+        "state": "RS",
+        "district": "Santo Anjo da Guarda",
+        "street": "Rodovia BR",
+        "zipcode": "95580-974"
+    },
+    {
+        "city": "Três Cachoeiras",
+        "state": "RS",
+        "district": null,
+        "street": "Rua da Igreja",
+        "zipcode": "95580-991"
+    },
+    {
+        "city": "Três Cachoeiras",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Morro Azul",
+        "zipcode": "95580-990"
+    }
+]

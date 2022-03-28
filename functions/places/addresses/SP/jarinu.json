@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Jarinu",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Dezessete de abril",
+        "zipcode": "13240-970"
+    },
+    {
+        "city": "Jarinu",
+        "state": "SP",
+        "district": "Maracanã",
+        "street": "Avenida Dinhah de Barros 60",
+        "zipcode": "13240-971"
+    },
+    {
+        "city": "Jarinu",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13240-000"
+    },
+    {
+        "city": "Jarinu",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Manuel G. Navarro",
+        "zipcode": "13240-990"
+    }
+]

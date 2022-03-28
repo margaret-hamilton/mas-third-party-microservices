@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Iguatu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Centenário s/n",
+        "zipcode": "85423-970"
+    },
+    {
+        "city": "Iguatu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida 7 de Setembro 210",
+        "zipcode": "85423-971"
+    },
+    {
+        "city": "Iguatu",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Doze de Outubro",
+        "zipcode": "85423-990"
+    },
+    {
+        "city": "Iguatu",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85423-000"
+    }
+]

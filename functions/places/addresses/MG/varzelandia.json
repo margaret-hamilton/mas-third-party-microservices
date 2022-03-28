@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Varzelândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua São Paulo 340",
+        "zipcode": "39450-970"
+    },
+    {
+        "city": "Varzelândia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39450-000"
+    },
+    {
+        "city": "Varzelândia",
+        "state": "MG",
+        "district": "Brejo do Mutambal",
+        "street": "Rua Miguel Arcanjo Lopes 45",
+        "zipcode": "39450-973"
+    }
+]

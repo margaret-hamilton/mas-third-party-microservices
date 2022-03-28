@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Itamonte",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas 142",
+        "zipcode": "37466-970"
+    },
+    {
+        "city": "Itamonte",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37466-000"
+    },
+    {
+        "city": "Itamonte",
+        "state": "MG",
+        "district": null,
+        "street": "Rod. BR",
+        "zipcode": "37466-990"
+    }
+]

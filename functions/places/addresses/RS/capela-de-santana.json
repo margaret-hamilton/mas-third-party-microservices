@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Capela de Santana",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Coronel Orestes Lucas 2170",
+        "zipcode": "95745-970"
+    },
+    {
+        "city": "Capela de Santana",
+        "state": "RS",
+        "district": null,
+        "street": "RS 240",
+        "zipcode": "95745-990"
+    },
+    {
+        "city": "Capela de Santana",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95745-000"
+    }
+]

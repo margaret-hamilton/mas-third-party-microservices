@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Mombuca",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13375-000"
+    },
+    {
+        "city": "Mombuca",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua XV de Novembro 125  AC Mombuca",
+        "zipcode": "13375-970"
+    },
+    {
+        "city": "Mombuca",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua XV de Novembro",
+        "zipcode": "13380-970"
+    },
+    {
+        "city": "Mombuca",
+        "state": "SP",
+        "district": null,
+        "street": null,
+        "zipcode": "13380-000"
+    }
+]

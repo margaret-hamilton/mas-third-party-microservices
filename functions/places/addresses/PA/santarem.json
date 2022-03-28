@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santarem",
+        "state": "PA",
+        "district": "Aparecida",
+        "street": "Travessa Clementino De Assis",
+        "zipcode": "68040-570"
+    },
+    {
+        "city": "Santarem",
+        "state": "PA",
+        "district": "Nova Republica",
+        "street": "Rua Castanheira",
+        "zipcode": "68025-240"
+    },
+    {
+        "city": "Santarem",
+        "state": "PA",
+        "district": "Aparecida",
+        "street": "Avenida Borges Leal",
+        "zipcode": "68040-080"
+    },
+    {
+        "city": "Santarem",
+        "state": "PA",
+        "district": "Centro",
+        "street": "Travessa Quinze De Agosto",
+        "zipcode": "68005-300"
+    }
+]

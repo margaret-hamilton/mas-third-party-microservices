@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pitanga",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua João G. Padilha",
+        "zipcode": "85200-970"
+    },
+    {
+        "city": "Pitanga",
+        "state": "PR",
+        "district": "Vila Nova",
+        "street": "Rua Principal s/n",
+        "zipcode": "85218-970"
+    },
+    {
+        "city": "Pitanga",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85200-000"
+    },
+    {
+        "city": "Pitanga",
+        "state": "PR",
+        "district": "Barra Bonita",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "85200-973"
+    }
+]

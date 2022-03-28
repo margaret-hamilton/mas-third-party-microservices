@@ -1,0 +1,30 @@
+[
+    {
+        "city": "João Câmara",
+        "state": "RN",
+        "district": null,
+        "street": "Escola Municipal Saramandaia",
+        "zipcode": "59550-992"
+    },
+    {
+        "city": "João Câmara",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua Tabelião Francisco Ataliba 335",
+        "zipcode": "59550-970"
+    },
+    {
+        "city": "João Câmara",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59550-000"
+    },
+    {
+        "city": "João Câmara",
+        "state": "RN",
+        "district": null,
+        "street": "Localidade Morada Nova",
+        "zipcode": "59550-990"
+    }
+]

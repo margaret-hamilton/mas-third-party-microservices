@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bela Vista da Caroba",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Rio Grande do Sul s/n  AC Bela Vista da Caroba",
+        "zipcode": "85745-971"
+    },
+    {
+        "city": "Bela Vista da Caroba",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Rio Grande do Sul",
+        "zipcode": "85745-990"
+    },
+    {
+        "city": "Bela Vista da Caroba",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85745-000"
+    },
+    {
+        "city": "Bela Vista da Caroba",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Rio Grande do Sul 107  AGC Bela Vista da Caroba",
+        "zipcode": "85745-970"
+    }
+]

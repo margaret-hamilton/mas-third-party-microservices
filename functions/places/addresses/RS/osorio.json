@@ -1,0 +1,65 @@
+[
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": "Laranjeiras",
+        "street": "Estrada RS 30 3435",
+        "zipcode": "95520-972"
+    },
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": "Atlântida Sul (Distrito)",
+        "street": "Avenida Leme 673",
+        "zipcode": "95520-974"
+    },
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Júlio de Castilhos 711",
+        "zipcode": "95520-970"
+    },
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Júlio de Castilhos 711",
+        "zipcode": "95520-975"
+    },
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95520-000"
+    },
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": null,
+        "street": "Rodovia RS",
+        "zipcode": "95520-992"
+    },
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Carlos Bruno Fett",
+        "zipcode": "95520-990"
+    },
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada do Palmital",
+        "zipcode": "95520-991"
+    },
+    {
+        "city": "Osório",
+        "state": "RS",
+        "district": null,
+        "street": "Rodovia RS",
+        "zipcode": "95520-993"
+    }
+]

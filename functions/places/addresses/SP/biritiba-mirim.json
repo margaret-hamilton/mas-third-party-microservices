@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Biritiba-Mirim",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Gildo Sevalli",
+        "zipcode": "08940-970"
+    },
+    {
+        "city": "Biritiba-Mirim",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "08940-000"
+    },
+    {
+        "city": "Biritiba-Mirim",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada do Eroy nº 315 Bairro Rio Acima",
+        "zipcode": "08940-991"
+    }
+]

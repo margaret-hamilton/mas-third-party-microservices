@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Bacuriti (Cafelândia)",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Santo Antonio 222",
+        "zipcode": "16520-970"
+    },
+    {
+        "city": "Bacuriti (Cafelândia)",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "16520-000"
+    },
+    {
+        "city": "Bacuriti (Cafelândia)",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Doze de Outubro",
+        "zipcode": "16520-991"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Luiz Alves",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89128-000"
+    },
+    {
+        "city": "Luiz Alves",
+        "state": "SC",
+        "district": "Vila do Salto",
+        "street": "Rua Paulo Kraisch 44",
+        "zipcode": "89115-970"
+    },
+    {
+        "city": "Luiz Alves",
+        "state": "SC",
+        "district": null,
+        "street": null,
+        "zipcode": "89115-000"
+    },
+    {
+        "city": "Luiz Alves",
+        "state": "SC",
+        "district": "Vila do Salto",
+        "street": "Rua Paulo Kraisch 44",
+        "zipcode": "89128-970"
+    }
+]

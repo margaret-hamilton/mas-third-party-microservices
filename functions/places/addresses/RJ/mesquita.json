@@ -1,0 +1,6939 @@
+[
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Tanya",
+        "zipcode": "26587-855"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua da Volta",
+        "zipcode": "26556-515"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Guarapora",
+        "zipcode": "26554-710"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Marquesa de Grizelda",
+        "zipcode": "26553-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Frutuoso",
+        "zipcode": "26587-005"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Boa Esperança",
+        "zipcode": "26587-007"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Alexandre Fleming (Cont no Mun de Nova Iguaçu)",
+        "zipcode": "26550-820"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Área Rural de Mesquita",
+        "street": "Área Rural",
+        "zipcode": "26599-899"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Esperança",
+        "zipcode": "26554-720"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Marquesa de Grizelda",
+        "zipcode": "26553-291"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Goiás",
+        "zipcode": "26553-971"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Mauro Silva",
+        "zipcode": "26582-530"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Arizona",
+        "zipcode": "26585-550"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Paraná",
+        "zipcode": "26553-377"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Mariza",
+        "zipcode": "26585-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Tatuí",
+        "zipcode": "26562-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Tambu",
+        "zipcode": "26562-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rodovia Presidente Dutra",
+        "zipcode": "26574-751"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Muller",
+        "zipcode": "26582-550"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Irmãos Maurício",
+        "zipcode": "26557-660"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Estela",
+        "zipcode": "26551-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada A (Ac R M Carvalho 625)",
+        "zipcode": "26587-023"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Particular (Ac R Dr Godoy 39)",
+        "zipcode": "26587-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Projetada A (Ac R E Alvarenga 497)",
+        "zipcode": "26587-740"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada B (Ac R E Alvarenga 455)",
+        "zipcode": "26587-730"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Jacutinga",
+        "zipcode": "26572-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Jovial",
+        "zipcode": "26554-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Marciano",
+        "zipcode": "26562-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Nilza Gurgel",
+        "zipcode": "26551-271"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Abel",
+        "zipcode": "26551-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Crispim",
+        "zipcode": "26551-301"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua da Fábrica",
+        "zipcode": "26551-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Rita Araújo Silva",
+        "zipcode": "26564-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Aurora",
+        "zipcode": "26553-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Carmem",
+        "zipcode": "26553-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Cordura",
+        "zipcode": "26553-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Miraflor",
+        "zipcode": "26574-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Recife",
+        "zipcode": "26553-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Paulo",
+        "zipcode": "26551-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Caetano Martins",
+        "zipcode": "26551-552"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Presidente Costa e Silva",
+        "zipcode": "26553-295"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Fátima Goulart",
+        "zipcode": "26551-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Ciríaco",
+        "zipcode": "26551-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Ciríaco",
+        "zipcode": "26551-481"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Alpinos",
+        "zipcode": "26554-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "26553-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Travessa Carmo",
+        "zipcode": "26553-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Camboatá",
+        "zipcode": "26551-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua do Acesso",
+        "zipcode": "26551-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Etelvina Tomaz Souza",
+        "zipcode": "26551-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Vila Cascudo",
+        "zipcode": "26551-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Zeferino",
+        "zipcode": "26551-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Florianópolis",
+        "zipcode": "26553-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Romildo Souza Bastos",
+        "zipcode": "26553-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Maria Mendes Vechi",
+        "zipcode": "26553-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Arthur Oliveira Vechi",
+        "zipcode": "26553-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Lemos",
+        "zipcode": "26553-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Papa João XXIII",
+        "zipcode": "26553-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Elza",
+        "zipcode": "26587-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barão de Mesquita",
+        "zipcode": "26553-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua João Pereira Goulart",
+        "zipcode": "26553-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua da Verdade",
+        "zipcode": "26553-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barão de Salusse",
+        "zipcode": "26553-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barão de Salusse",
+        "zipcode": "26553-211"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Virtude",
+        "zipcode": "26553-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Mercúrio",
+        "zipcode": "26553-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Vênus",
+        "zipcode": "26553-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Maceió",
+        "zipcode": "26553-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "26553-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Serra",
+        "zipcode": "26554-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Serra",
+        "zipcode": "26554-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Casulo",
+        "zipcode": "26554-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Netuno",
+        "zipcode": "26554-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Marte",
+        "zipcode": "26553-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Júpiter",
+        "zipcode": "26553-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Engenheiro Henrique Lussack",
+        "zipcode": "26553-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Parreira",
+        "zipcode": "26582-560"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Bebeto",
+        "zipcode": "26582-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Praça Brasil",
+        "zipcode": "26553-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Travessa Carioca",
+        "zipcode": "26557-690"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Carlinda",
+        "zipcode": "26556-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Góis",
+        "zipcode": "26554-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Henrique Dias",
+        "zipcode": "26554-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Travessa Graúna",
+        "zipcode": "26554-660"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Caimirim",
+        "zipcode": "26554-760"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Tesouro",
+        "zipcode": "26554-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Carlinhos",
+        "zipcode": "26554-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Dom Jaime Câmara",
+        "zipcode": "26554-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Vidal de Negreiros",
+        "zipcode": "26554-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Horácio Lemos",
+        "zipcode": "26554-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua João Piloto",
+        "zipcode": "26554-780"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Graúna",
+        "zipcode": "26554-790"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Manoel Ferreira Chaves",
+        "zipcode": "26554-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Dentista",
+        "zipcode": "26554-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Orestes",
+        "zipcode": "26554-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Guaporé",
+        "zipcode": "26554-690"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Vitória",
+        "zipcode": "26554-740"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Presidente Eurico Gaspar Dutra",
+        "zipcode": "26554-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Fazenda",
+        "zipcode": "26554-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Empírico",
+        "zipcode": "26554-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Macola",
+        "zipcode": "26554-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Travessa Raul Rodrigues",
+        "zipcode": "26554-530"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Araripe",
+        "zipcode": "26554-540"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Guarapari",
+        "zipcode": "26554-570"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Guarapari",
+        "zipcode": "26554-580"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Travessa Caimirim",
+        "zipcode": "26554-640"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Jalo",
+        "zipcode": "26556-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Campestre",
+        "zipcode": "26556-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Pompílio",
+        "zipcode": "26556-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Quito",
+        "zipcode": "26556-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Paraíso",
+        "zipcode": "26554-730"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Arrozal",
+        "zipcode": "26556-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Javali",
+        "zipcode": "26556-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Escada",
+        "zipcode": "26556-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Manaus",
+        "zipcode": "26556-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua do Sítio",
+        "zipcode": "26556-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Fruteiras",
+        "zipcode": "26556-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Belém",
+        "zipcode": "26556-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Sergipe",
+        "zipcode": "26556-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Seriema",
+        "zipcode": "26556-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua São Salvador",
+        "zipcode": "26556-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Vitória",
+        "zipcode": "26556-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Ceará",
+        "zipcode": "26556-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Alagoas",
+        "zipcode": "26556-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Caruari",
+        "zipcode": "26556-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Bahia",
+        "zipcode": "26556-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Travessa da Cascata",
+        "zipcode": "26557-600"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Caruso",
+        "zipcode": "26557-650"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Socorro",
+        "zipcode": "26554-670"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Norival Chaves",
+        "zipcode": "26562-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Paulo Emílio Correa",
+        "zipcode": "26564-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Policarpo",
+        "zipcode": "26562-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Procópio",
+        "zipcode": "26560-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tropia",
+        "zipcode": "26572-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Canário",
+        "zipcode": "26582-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Lírio",
+        "zipcode": "26582-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Barros Peixoto",
+        "zipcode": "26564-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Ana Peixoto",
+        "zipcode": "26564-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Travessa Santa Branca",
+        "zipcode": "26557-630"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Rufino",
+        "zipcode": "26560-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Rufino",
+        "zipcode": "26562-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Tauá",
+        "zipcode": "26560-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Macário",
+        "zipcode": "26560-561"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Macário",
+        "zipcode": "26562-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Albérico Gomes Pereira",
+        "zipcode": "26562-011"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Guido",
+        "zipcode": "26560-570"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Bráulio",
+        "zipcode": "26560-580"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Bráulio",
+        "zipcode": "26562-021"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Bráulio",
+        "zipcode": "26562-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Antônio Borges",
+        "zipcode": "26562-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Cesário",
+        "zipcode": "26562-421"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Josefina",
+        "zipcode": "26560-541"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Josefina",
+        "zipcode": "26560-540"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Josefina",
+        "zipcode": "26560-543"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Verônica",
+        "zipcode": "26562-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Licínio",
+        "zipcode": "26562-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Aurora Boreal",
+        "zipcode": "26562-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Taóca",
+        "zipcode": "26562-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Tartana",
+        "zipcode": "26562-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Simara",
+        "zipcode": "26562-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua João Rodrigues",
+        "zipcode": "26562-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa João Rodrigues",
+        "zipcode": "26562-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Marco Schinaider",
+        "zipcode": "26562-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Santo Elias",
+        "zipcode": "26562-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Particular",
+        "zipcode": "26562-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Travessa Jairo",
+        "zipcode": "26562-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Padre Nino Miraldi",
+        "zipcode": "26562-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Tamaru",
+        "zipcode": "26564-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Guarani",
+        "zipcode": "26564-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Marina",
+        "zipcode": "26564-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Tupinambá",
+        "zipcode": "26564-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Caramuru",
+        "zipcode": "26564-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Viriato Emílio Correa",
+        "zipcode": "26564-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Augusto Severo",
+        "zipcode": "26564-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Florita de Jesus",
+        "zipcode": "26564-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Ângela",
+        "zipcode": "26564-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Tereza",
+        "zipcode": "26564-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Dona Francisca Mathias da Costa",
+        "zipcode": "26572-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Dora",
+        "zipcode": "26585-590"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Idalina Almeida Blun",
+        "zipcode": "26572-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Inar Figueiredo",
+        "zipcode": "26572-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua José Bonifácio",
+        "zipcode": "26572-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Projetada",
+        "zipcode": "26564-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Cachoeira",
+        "zipcode": "26572-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Voltaire",
+        "zipcode": "26570-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Borges",
+        "zipcode": "26564-530"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Belmira Sampaio",
+        "zipcode": "26564-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Beco Bons Amigos",
+        "zipcode": "26564-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Travessa Peixoto Júnior",
+        "zipcode": "26570-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Ana Lúcia de Oliveira",
+        "zipcode": "26564-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Silva",
+        "zipcode": "26570-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Três",
+        "zipcode": "26572-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Dona Júlia",
+        "zipcode": "26564-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Zizinho",
+        "zipcode": "26564-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Travessa Tulipa",
+        "zipcode": "26570-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Vitória",
+        "zipcode": "26564-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Manacá",
+        "zipcode": "26570-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Praça Guaco",
+        "zipcode": "26570-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Jequitinhonha",
+        "zipcode": "26570-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Iran",
+        "zipcode": "26564-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Jane",
+        "zipcode": "26570-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Icaraí",
+        "zipcode": "26585-610"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Dunga",
+        "zipcode": "26582-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua São Paulo",
+        "zipcode": "26572-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Dois",
+        "zipcode": "26572-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "26564-580"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Albino Seixas",
+        "zipcode": "26564-600"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Beco Machado",
+        "zipcode": "26570-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua José Mach Tauvinsk",
+        "zipcode": "26572-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua João Silva",
+        "zipcode": "26572-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Travessa Riachuelo",
+        "zipcode": "26572-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Travessa Paz",
+        "zipcode": "26572-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Dona Amélia",
+        "zipcode": "26570-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Ana Peixoto",
+        "zipcode": "26570-031"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Veréa",
+        "zipcode": "26562-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Maurícia Borges",
+        "zipcode": "26570-021"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Cândida Braga",
+        "zipcode": "26564-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Juraci",
+        "zipcode": "26570-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Bicuíba",
+        "zipcode": "26570-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Maria Ângela",
+        "zipcode": "26564-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Mastruço",
+        "zipcode": "26570-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Pedro Reis",
+        "zipcode": "26564-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Itapemirim",
+        "zipcode": "26570-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Eugênio Ferreira",
+        "zipcode": "26570-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Professor João Ribeiro Filho",
+        "zipcode": "26570-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Sossego",
+        "zipcode": "26564-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Haroldo Alves",
+        "zipcode": "26564-590"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Vicente",
+        "zipcode": "26570-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Belmira Sampaio",
+        "zipcode": "26564-560"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Apolo",
+        "zipcode": "26574-540"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Dias Leme",
+        "zipcode": "26574-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Travessa Celso Peçanha",
+        "zipcode": "26574-395"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Ermelinda",
+        "zipcode": "26572-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Gemini",
+        "zipcode": "26574-550"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Guimbu",
+        "zipcode": "26572-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Laminação",
+        "zipcode": "26574-630"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Laura Gonçalves Machado",
+        "zipcode": "26572-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Leda",
+        "zipcode": "26574-670"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Vereador Carlos Carvalho",
+        "zipcode": "26580-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Magalhães Pinto",
+        "zipcode": "26572-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Maria Amélia",
+        "zipcode": "26574-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Mequinho",
+        "zipcode": "26574-580"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Mirabela",
+        "zipcode": "26574-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Mirassol",
+        "zipcode": "26574-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Mônaco",
+        "zipcode": "26574-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Maria Helena",
+        "zipcode": "26574-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Quatro",
+        "zipcode": "26572-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua São Francisco de Assis",
+        "zipcode": "26572-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tompson Flores",
+        "zipcode": "26572-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Treze de Maio",
+        "zipcode": "26574-650"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Trípoli",
+        "zipcode": "26574-700"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tobias Moscoso",
+        "zipcode": "26572-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Avenida Coelho da Rocha",
+        "zipcode": "26574-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Avenida Coelho da Rocha",
+        "zipcode": "26574-391"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tilda",
+        "zipcode": "26572-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Celso Peçanha",
+        "zipcode": "26574-780"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Tibiriça",
+        "zipcode": "26574-760"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Ivo Miranda Montes",
+        "zipcode": "26574-770"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Astória",
+        "zipcode": "26585-570"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Orlando de Almeida",
+        "zipcode": "26572-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Nova Jerusalém",
+        "zipcode": "26572-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Travessa Dona Perpétua",
+        "zipcode": "26574-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Raul Santos",
+        "zipcode": "26574-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Josinete",
+        "zipcode": "26574-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Zeferino",
+        "zipcode": "26580-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Meriti",
+        "zipcode": "26572-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Tiradentes",
+        "zipcode": "26574-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Souza Filho",
+        "zipcode": "26574-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Araújo",
+        "zipcode": "26574-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "26574-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Henrique Lages",
+        "zipcode": "26574-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Júlio Dantas",
+        "zipcode": "26574-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Carnaúba",
+        "zipcode": "26574-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Simão Bolivar",
+        "zipcode": "26574-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Faraó",
+        "zipcode": "26574-600"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Barros Peixoto",
+        "zipcode": "26574-711"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Ciríaco",
+        "zipcode": "26580-011"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Egídio II",
+        "zipcode": "26580-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Vila São Jerônimo",
+        "zipcode": "26580-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua São Pedro",
+        "zipcode": "26580-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Kiel",
+        "zipcode": "26572-540"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Antônio José de Carvalho",
+        "zipcode": "26582-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Bernardino Borges dos Reis",
+        "zipcode": "26582-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Avenida da Eternidade",
+        "zipcode": "26580-205"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Carlos Frahia",
+        "zipcode": "26582-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Casuarinas",
+        "zipcode": "26582-224"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Extremosas",
+        "zipcode": "26582-228"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Projetada A",
+        "zipcode": "26584-035"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua de Vila 1",
+        "zipcode": "26580-377"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Cordura",
+        "zipcode": "26584-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Isaura Quintela",
+        "zipcode": "26580-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Paulo Rogério Mussi",
+        "zipcode": "26582-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Plácido",
+        "zipcode": "26580-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Projetada",
+        "zipcode": "26580-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Saul Bernardino Pedro",
+        "zipcode": "26582-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Vila Franca de Xira",
+        "zipcode": "26582-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Vila Velha",
+        "zipcode": "26582-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Luiz Felipe Campos Fraga",
+        "zipcode": "26582-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Márcia Vasconcelos",
+        "zipcode": "26580-690"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Elpídio",
+        "zipcode": "26580-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Elpídio",
+        "zipcode": "26580-121"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Crispim",
+        "zipcode": "26580-281"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Ricardo Rocha",
+        "zipcode": "26582-590"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Sabiás",
+        "zipcode": "26582-630"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Tafarel",
+        "zipcode": "26582-640"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Vila Tulipas",
+        "zipcode": "26582-660"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Carlos Pinto",
+        "zipcode": "26582-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Colibris",
+        "zipcode": "26582-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Biron",
+        "zipcode": "26582-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Gregório Costa",
+        "zipcode": "26582-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Silvia Cordoniz",
+        "zipcode": "26582-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Amendoeiras",
+        "zipcode": "26582-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Quaresmeira",
+        "zipcode": "26582-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Andorinha",
+        "zipcode": "26582-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Vila São José",
+        "zipcode": "26580-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua São Paulo",
+        "zipcode": "26580-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Vila São João",
+        "zipcode": "26580-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Vila Heloísa",
+        "zipcode": "26580-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Caetano Martins",
+        "zipcode": "26580-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Prefeito José Montes Paixão",
+        "zipcode": "26584-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Prefeito José Montes Paixão",
+        "zipcode": "26584-021"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Avenida Dona Flaviana",
+        "zipcode": "26580-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Ambrósio",
+        "zipcode": "26580-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua José Alves",
+        "zipcode": "26580-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Oswaldo Prado",
+        "zipcode": "26580-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Ari Camargo",
+        "zipcode": "26580-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Luiz José Ramos",
+        "zipcode": "26580-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Plácido",
+        "zipcode": "26582-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Mariana",
+        "zipcode": "26582-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Ouro Preto",
+        "zipcode": "26582-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua São João Del Rey",
+        "zipcode": "26582-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua George Costa",
+        "zipcode": "26582-700"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Aquidauana",
+        "zipcode": "26585-540"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Assu",
+        "zipcode": "26585-560"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Aurora",
+        "zipcode": "26585-710"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Aurora",
+        "zipcode": "26585-711"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Cordura",
+        "zipcode": "26584-041"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Luci Flores",
+        "zipcode": "26584-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Minerva",
+        "zipcode": "26585-770"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Orminda",
+        "zipcode": "26585-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Praça da Revolução",
+        "zipcode": "26584-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Santo Amaro",
+        "zipcode": "26585-650"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Sarapuí",
+        "zipcode": "26585-640"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Satélite",
+        "zipcode": "26584-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Lafaiete",
+        "zipcode": "26587-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Venâncio",
+        "zipcode": "26585-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Itaqui",
+        "zipcode": "26585-620"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Júlio Macedo",
+        "zipcode": "26585-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Coronel França Leite",
+        "zipcode": "26585-021"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Eliseu de Alvarenga",
+        "zipcode": "26585-031"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Doutor Godoy",
+        "zipcode": "26585-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Eliseu de Alvarenga",
+        "zipcode": "26585-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Izaíra",
+        "zipcode": "26585-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Edson Passos",
+        "zipcode": "26585-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada A",
+        "zipcode": "26585-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Roldão Gonçalves",
+        "zipcode": "26585-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Aparecida",
+        "zipcode": "26585-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Campos Sales",
+        "zipcode": "26585-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Dona Rosa",
+        "zipcode": "26585-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Fábio",
+        "zipcode": "26585-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Marcílio Rizzo",
+        "zipcode": "26585-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Quatro de Maio",
+        "zipcode": "26585-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Terezinha Borges",
+        "zipcode": "26585-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Bernardino de Oliveira",
+        "zipcode": "26585-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Doutor Godoy",
+        "zipcode": "26585-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Faustino Pacheco",
+        "zipcode": "26585-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Lúcia",
+        "zipcode": "26585-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua São Jerônimo",
+        "zipcode": "26585-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Venâncio",
+        "zipcode": "26585-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Nelson Ramos",
+        "zipcode": "26584-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Lídia",
+        "zipcode": "26587-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Almirante Batista das Neves",
+        "zipcode": "26585-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Manuel Afonso",
+        "zipcode": "26585-761"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Roldão Gonçalves",
+        "zipcode": "26585-051"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Paulo de Macedo",
+        "zipcode": "26584-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Travessa Projetada A",
+        "zipcode": "26584-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Travessa Projetada B",
+        "zipcode": "26584-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Zetti",
+        "zipcode": "26582-670"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Paulo Jorge",
+        "zipcode": "26585-730"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Abaeté",
+        "zipcode": "26585-740"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Amaral",
+        "zipcode": "26587-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Avenida Brasil",
+        "zipcode": "26556-005"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "26564-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Eldorado",
+        "zipcode": "26587-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Guimarães",
+        "zipcode": "26587-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Guiomar de Azevedo",
+        "zipcode": "26587-580"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Maria Elizabete",
+        "zipcode": "26587-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Marli",
+        "zipcode": "26587-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Ondina Cardoso",
+        "zipcode": "26587-690"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Wilma",
+        "zipcode": "26587-760"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Riachuelo",
+        "zipcode": "26587-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Nelly",
+        "zipcode": "26587-670"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Maria Braga",
+        "zipcode": "26587-640"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Mucuri",
+        "zipcode": "26587-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Castro Alves",
+        "zipcode": "26587-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua José de Alencar",
+        "zipcode": "26587-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Elias Donni",
+        "zipcode": "26572-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Eliseu de Alvarenga",
+        "zipcode": "26587-780"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Jeremias",
+        "zipcode": "26551-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Antônio Conselheiro",
+        "zipcode": "26551-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Manoel Pereira Reis",
+        "zipcode": "26584-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Izidório Dias",
+        "zipcode": "26587-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Diamante",
+        "zipcode": "26587-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Rio Sarapuí",
+        "zipcode": "26587-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Rufino",
+        "zipcode": "26587-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Joaquim Aristides Timóteo",
+        "zipcode": "26587-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Maria das Graças",
+        "zipcode": "26587-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Bahia",
+        "zipcode": "26587-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua João Quintino dos Santos",
+        "zipcode": "26553-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Humberto Augusto",
+        "zipcode": "26587-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Projetada D",
+        "zipcode": "26587-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Santa Rosa",
+        "zipcode": "26587-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Tupiara",
+        "zipcode": "26587-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Dois Mil",
+        "zipcode": "26587-550"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa José de Alencar",
+        "zipcode": "26587-610"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada Alvarenga",
+        "zipcode": "26587-710"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Conceição",
+        "zipcode": "26587-770"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Cipriano Martins",
+        "zipcode": "26554-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Aldair",
+        "zipcode": "26582-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Uruguai",
+        "zipcode": "26556-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Canavial",
+        "zipcode": "26556-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua José Clemente",
+        "zipcode": "26570-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Romão Santos",
+        "zipcode": "26580-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Sotero",
+        "zipcode": "26560-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Áurea da Silva",
+        "zipcode": "26562-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Josué Farias",
+        "zipcode": "26562-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Roldão Gonçalves",
+        "zipcode": "26587-801"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça João Luiz do Nascimento",
+        "zipcode": "26551-530"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Gaspar Martins",
+        "zipcode": "26564-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada E",
+        "zipcode": "26587-331"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Amazonas",
+        "zipcode": "26556-215"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Carioca",
+        "zipcode": "26556-455"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Alameda Tambaqui",
+        "zipcode": "26560-495"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Itacy",
+        "zipcode": "26550-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Alba",
+        "zipcode": "26585-530"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Carolina Méier",
+        "zipcode": "26553-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Catilina",
+        "zipcode": "26553-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Cordura",
+        "zipcode": "26553-221"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Dona Rosina",
+        "zipcode": "26585-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Magno de Carvalho",
+        "zipcode": "26587-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Praça Porto Alegre",
+        "zipcode": "26553-333"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Soares Couto",
+        "zipcode": "26554-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Tânia",
+        "zipcode": "26587-820"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Tupã",
+        "zipcode": "26554-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Eleoni",
+        "zipcode": "26587-850"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Mister Watkins",
+        "zipcode": "26553-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Higino de Oliveira",
+        "zipcode": "26550-720"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Bandeira de Melo",
+        "zipcode": "26550-780"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Elpídio",
+        "zipcode": "26551-061"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Doutor Godoy",
+        "zipcode": "26587-810"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Doutor Godoy",
+        "zipcode": "26587-811"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Libânia",
+        "zipcode": "26551-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Capitão Teles",
+        "zipcode": "26551-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Júlia Viana Steinbruck",
+        "zipcode": "26551-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Vila Mussum",
+        "zipcode": "26551-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Goiás",
+        "zipcode": "26553-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua José Alves Carneiro",
+        "zipcode": "26553-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Prefeito José Montes Paixão",
+        "zipcode": "26553-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Maria das Graças",
+        "zipcode": "26587-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Legionário",
+        "zipcode": "26587-620"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Saturno",
+        "zipcode": "26553-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Paulo Macedo",
+        "zipcode": "26587-840"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa União",
+        "zipcode": "26554-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Chalet",
+        "zipcode": "26554-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Sílvio Soares",
+        "zipcode": "26554-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Poligonal",
+        "zipcode": "26554-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Aurélia",
+        "zipcode": "26553-495"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua José do Nascimento",
+        "zipcode": "26554-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Jurupoca",
+        "zipcode": "26554-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Guarata",
+        "zipcode": "26554-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua das Oficinas",
+        "zipcode": "26554-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Luanda",
+        "zipcode": "26554-770"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Patativa",
+        "zipcode": "26554-650"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua José Dias Guimarães",
+        "zipcode": "26556-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Minas Gerais",
+        "zipcode": "26556-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Domingos Barbosa",
+        "zipcode": "26551-570"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Wirton Sambonha",
+        "zipcode": "26580-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Cesário",
+        "zipcode": "26570-442"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Avenida Getúlio de Moura",
+        "zipcode": "26551-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Hipólito",
+        "zipcode": "26551-491"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Ipês",
+        "zipcode": "26582-525"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Antônio Rodrigues Oliveira",
+        "zipcode": "26556-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Manoel Afonso",
+        "zipcode": "26551-550"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Araripe",
+        "zipcode": "26554-680"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Inácio Serra",
+        "zipcode": "26587-590"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Juliana",
+        "zipcode": "26562-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Nestor",
+        "zipcode": "26560-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Olívia de Brito",
+        "zipcode": "26564-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Riachuelo",
+        "zipcode": "26572-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Ricardo",
+        "zipcode": "26560-550"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua São Salvador",
+        "zipcode": "26572-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Antônio Bernardo",
+        "zipcode": "26570-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Governador Celso Peçanha",
+        "zipcode": "26570-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua José Menezes Duarte",
+        "zipcode": "26564-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Travessa Serrano",
+        "zipcode": "26570-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Praça Antônio dos Santos",
+        "zipcode": "26564-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Alberto",
+        "zipcode": "26564-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Travessa Piaçava",
+        "zipcode": "26570-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Itaparica",
+        "zipcode": "26570-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Egídio",
+        "zipcode": "26580-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Sabará",
+        "zipcode": "26582-620"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Angelina Dones",
+        "zipcode": "26572-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Vila Henrique Dias",
+        "zipcode": "26572-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Vitalino Felipe",
+        "zipcode": "26572-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Travessa Riachão",
+        "zipcode": "26572-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Jorge de Andrade Queiroz",
+        "zipcode": "26572-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Dona Perpétua",
+        "zipcode": "26574-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Carolina Pereira",
+        "zipcode": "26564-550"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Jeanete",
+        "zipcode": "26574-084"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Lisboa",
+        "zipcode": "26574-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Espírito Santo",
+        "zipcode": "26556-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Avenida Doutor Carvalhães",
+        "zipcode": "26572-530"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Sarapuí",
+        "zipcode": "26574-610"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Avenida Robert Kennedy",
+        "zipcode": "26574-640"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Bela",
+        "zipcode": "26574-680"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Rufino",
+        "zipcode": "26562-411"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Macário",
+        "zipcode": "26560-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Albérico Gomes Pereira",
+        "zipcode": "26560-563"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Guido",
+        "zipcode": "26560-571"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Guido",
+        "zipcode": "26562-001"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Canuto",
+        "zipcode": "26562-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Visconde do Rio Branco",
+        "zipcode": "26562-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Aratu",
+        "zipcode": "26562-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Marco Schneider",
+        "zipcode": "26562-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Maurícia Borges",
+        "zipcode": "26564-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Galvão",
+        "zipcode": "26564-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Durvani",
+        "zipcode": "26564-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Peixoto",
+        "zipcode": "26564-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua da Vila",
+        "zipcode": "26564-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Machado",
+        "zipcode": "26570-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Travessa Itapemirim",
+        "zipcode": "26570-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Roldão Gonçalves",
+        "zipcode": "26585-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida São Paulo",
+        "zipcode": "26553-045"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Icléia",
+        "zipcode": "26550-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Arlove Freitas",
+        "zipcode": "26580-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Celestino",
+        "zipcode": "26551-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Cosmorama",
+        "zipcode": "26582-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua José Clemente Hofmeister",
+        "zipcode": "26582-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Magno de Carvalho",
+        "zipcode": "26584-211"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Nereu",
+        "zipcode": "26550-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Ribeira",
+        "zipcode": "26574-570"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Rosemary Saddi",
+        "zipcode": "26582-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Vila Rica",
+        "zipcode": "26582-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Virgílio",
+        "zipcode": "26550-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Zinho",
+        "zipcode": "26582-680"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Mafalda",
+        "zipcode": "26550-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Edgar de Azevedo",
+        "zipcode": "26550-770"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Maurílio",
+        "zipcode": "26551-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Hercília",
+        "zipcode": "26580-131"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Eliseu de Alvarenga",
+        "zipcode": "26585-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Elpídio",
+        "zipcode": "26551-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Egídio",
+        "zipcode": "26551-071"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada B",
+        "zipcode": "26585-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Tenente Aldir Soares Adriano",
+        "zipcode": "26551-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Antônio Pinto",
+        "zipcode": "26585-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Celedino Carneiro Dias",
+        "zipcode": "26585-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Heron Domingues",
+        "zipcode": "26585-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Crispim",
+        "zipcode": "26580-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Manoel Pereira Reis",
+        "zipcode": "26584-121"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Topázio",
+        "zipcode": "26587-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Castanheiras",
+        "zipcode": "26582-222"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Projetada B",
+        "zipcode": "26584-037"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Avenida Getúlio de Moura",
+        "zipcode": "26550-970"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Avenida Getúlio de Moura",
+        "zipcode": "26550-971"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Avenida Getúlio de Moura",
+        "zipcode": "26550-973"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Goiás",
+        "zipcode": "26553-972"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Raí",
+        "zipcode": "26582-580"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Ronaldo",
+        "zipcode": "26582-610"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Vila Três",
+        "zipcode": "26582-650"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Cafu",
+        "zipcode": "26582-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Dois",
+        "zipcode": "26582-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Jorge",
+        "zipcode": "26582-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Marcelino Fagundes",
+        "zipcode": "26580-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Mazinho",
+        "zipcode": "26582-540"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Sombreiros",
+        "zipcode": "26582-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Professora Rakel Rechuem",
+        "zipcode": "26580-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Vila Renato Alexandre",
+        "zipcode": "26580-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Vila Nova Famalição",
+        "zipcode": "26582-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Brasil",
+        "zipcode": "26553-064"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Brasil",
+        "zipcode": "26553-065"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Aluísio Pinto de Barros",
+        "zipcode": "26553-375"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Cordura",
+        "zipcode": "26554-065"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Avenida União",
+        "zipcode": "26554-155"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Botafogo",
+        "zipcode": "26585-580"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Aurora",
+        "zipcode": "26553-451"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Manoel Duarte",
+        "zipcode": "26553-281"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Manoel Duarte",
+        "zipcode": "26553-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Avenida Manoel Duarte",
+        "zipcode": "26554-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Caetano Martins",
+        "zipcode": "26551-551"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Travessa Magno de Carvalho",
+        "zipcode": "26587-755"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Caroem",
+        "zipcode": "26553-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Carolina",
+        "zipcode": "26585-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua João Bittencourt",
+        "zipcode": "26585-660"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua João Bittencourt",
+        "zipcode": "26585-661"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Leila",
+        "zipcode": "26585-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Vereador Carlos Carvalho",
+        "zipcode": "26551-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Magno de Carvalho",
+        "zipcode": "26587-021"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Vera Lúcia",
+        "zipcode": "26551-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Plaza",
+        "zipcode": "26585-630"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Suzana",
+        "zipcode": "26553-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Coronel França Leite",
+        "zipcode": "26587-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Eliseu de Alvarenga",
+        "zipcode": "26587-781"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa São José",
+        "zipcode": "26585-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Sônia",
+        "zipcode": "26585-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Maria da Conceição Ribeiro",
+        "zipcode": "26551-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Baronesa de Mesquita",
+        "zipcode": "26551-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Machado",
+        "zipcode": "26587-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Elizabeth Paixão",
+        "zipcode": "26553-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Heitor da Costa Val",
+        "zipcode": "26553-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Riachão",
+        "zipcode": "26587-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Judith",
+        "zipcode": "26587-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Campo Chão",
+        "zipcode": "26587-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Miguel Abend",
+        "zipcode": "26587-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Orlando",
+        "zipcode": "26587-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Pedro Martins",
+        "zipcode": "26587-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Dilma Pinto do Amaral",
+        "zipcode": "26587-570"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Luiza",
+        "zipcode": "26587-630"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Itabaiana de Oliveira",
+        "zipcode": "26554-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Guaraporanga",
+        "zipcode": "26554-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa da Pedra",
+        "zipcode": "26554-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Guarani",
+        "zipcode": "26554-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Praça João Pontes",
+        "zipcode": "26554-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Estrada do Sítio",
+        "zipcode": "26554-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Lenilda",
+        "zipcode": "26554-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Professor Anselmo",
+        "zipcode": "26554-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Caviana",
+        "zipcode": "26556-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Travessa da Vala",
+        "zipcode": "26556-017"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Natal",
+        "zipcode": "26556-213"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Paz e Amor",
+        "zipcode": "26560-507"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Ana Nunes Fagundes",
+        "zipcode": "26572-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Aracaju",
+        "zipcode": "26556-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Areia Branca",
+        "zipcode": "26564-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Carolina Machado",
+        "zipcode": "26557-670"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Célio de Azevedo",
+        "zipcode": "26572-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Ricardo",
+        "zipcode": "26562-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Ricardo",
+        "zipcode": "26562-031"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Roberto Figueira",
+        "zipcode": "26574-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Bela",
+        "zipcode": "26572-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Liberdade",
+        "zipcode": "26572-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Coelho da Rocha",
+        "zipcode": "26572-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Versalhes",
+        "zipcode": "26570-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Tulipa",
+        "zipcode": "26570-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Hermelinda Ramos",
+        "zipcode": "26564-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Leonor",
+        "zipcode": "26570-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Ana Rosa de Oliveira",
+        "zipcode": "26564-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Guaporana",
+        "zipcode": "26554-700"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Aimoré",
+        "zipcode": "26564-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Mariza",
+        "zipcode": "26585-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Itaci",
+        "zipcode": "26554-610"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Travessa das Flores",
+        "zipcode": "26572-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Cisneiros",
+        "zipcode": "26556-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Cuiabá",
+        "zipcode": "26556-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Travessa Tulipa",
+        "zipcode": "26556-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Carolina Pereira",
+        "zipcode": "26574-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Carolina Pereira",
+        "zipcode": "26574-021"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Carolina Pereira",
+        "zipcode": "26564-551"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Armandina",
+        "zipcode": "26574-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "26556-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Afrânio Peixoto",
+        "zipcode": "26574-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Japuiba",
+        "zipcode": "26556-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Mocota",
+        "zipcode": "26574-620"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Barros Peixoto",
+        "zipcode": "26564-061"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Barros Peixoto",
+        "zipcode": "26570-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Ana Peixoto",
+        "zipcode": "26570-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Rufino",
+        "zipcode": "26560-461"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Guido",
+        "zipcode": "26562-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Donato",
+        "zipcode": "26562-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Maria das Graças",
+        "zipcode": "26562-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Solange Aguiar",
+        "zipcode": "26562-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Tangará",
+        "zipcode": "26562-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Maurícia Borges",
+        "zipcode": "26564-021"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Avenida Antônio Borges",
+        "zipcode": "26564-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Terezinha",
+        "zipcode": "26564-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Piaçava",
+        "zipcode": "26570-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa São João",
+        "zipcode": "26564-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Carijós",
+        "zipcode": "26570-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua João Menezes Duarte",
+        "zipcode": "26570-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Estela",
+        "zipcode": "26584-125"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Lídia",
+        "zipcode": "26587-003"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Paulo",
+        "zipcode": "26580-135"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Adolfo de Albuquerque",
+        "zipcode": "26585-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Amadeu Rodrigues Campos Fraga",
+        "zipcode": "26582-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Arnaldo dos Santos",
+        "zipcode": "26582-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Carlos Bitar",
+        "zipcode": "26582-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua José Salomão",
+        "zipcode": "26585-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Magno de Carvalho",
+        "zipcode": "26584-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Avenida das Oliveiras",
+        "zipcode": "26574-690"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Paulo de Oliveira Pinto",
+        "zipcode": "26580-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Rodolpho Pessoa",
+        "zipcode": "26582-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Sérgio Cunha",
+        "zipcode": "26582-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Vila Real",
+        "zipcode": "26582-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Hercília",
+        "zipcode": "26580-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Coronel França Leite",
+        "zipcode": "26585-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Coronel França Leite",
+        "zipcode": "26587-111"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Egídio",
+        "zipcode": "26580-111"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Doutor Godoy",
+        "zipcode": "26585-061"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Elpídio",
+        "zipcode": "26551-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Vila Edson Passos",
+        "zipcode": "26585-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Júlio Macedo Gate",
+        "zipcode": "26585-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Alberto Brigagão",
+        "zipcode": "26585-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Carolina",
+        "zipcode": "26585-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Toneleiro",
+        "zipcode": "26585-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Baronesa de Mesquita",
+        "zipcode": "26582-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Manoel Pereira Reis",
+        "zipcode": "26585-681"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa João Raimundo",
+        "zipcode": "26587-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Paulina",
+        "zipcode": "26587-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Beneditino",
+        "zipcode": "26587-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Barão de Salusse",
+        "zipcode": "26584-031"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Travessa Rio Sarapuí",
+        "zipcode": "26584-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Alberto Lopes de Lima",
+        "zipcode": "26554-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Duartinha",
+        "zipcode": "26582-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Márcio Santos",
+        "zipcode": "26582-520"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Caribe",
+        "zipcode": "26582-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Capivari",
+        "zipcode": "26554-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Branco",
+        "zipcode": "26582-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Murilo dos Santos Conceição",
+        "zipcode": "26572-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Avenida Doutor Carvalhães",
+        "zipcode": "26574-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Barros Peixoto",
+        "zipcode": "26574-710"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Ana Peixoto",
+        "zipcode": "26574-720"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Ciríaco",
+        "zipcode": "26580-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Maria Helena",
+        "zipcode": "26580-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua David José Furtado",
+        "zipcode": "26580-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua João Petená",
+        "zipcode": "26580-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Luiz Machado",
+        "zipcode": "26580-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Marcial",
+        "zipcode": "26550-800"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua José Costa de Oliveira",
+        "zipcode": "26572-282"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Avenida Coelho da Rocha",
+        "zipcode": "26572-015"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Carlos Marques Rollo",
+        "zipcode": "26550-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Celso de Azevedo",
+        "zipcode": "26587-560"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Gervásio",
+        "zipcode": "26550-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Vereador Carlos Carvalho",
+        "zipcode": "26551-461"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "26584-170"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Marques Canário",
+        "zipcode": "26587-650"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Medeia",
+        "zipcode": "26587-830"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Nossa Senhora do Monte Serrat",
+        "zipcode": "26587-680"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Odilio de Medeiros",
+        "zipcode": "26587-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Pastor Nicolau Antônio Pinto",
+        "zipcode": "26572-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Sérgio Delamare",
+        "zipcode": "26574-410"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Coelho da Rocha",
+        "zipcode": "26572-481"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Praça Antônio Freitas Quintela",
+        "zipcode": "26570-320"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Eugênio Soares",
+        "zipcode": "26550-007"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Liberdade",
+        "zipcode": "26550-730"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Hercília",
+        "zipcode": "26551-041"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Roldão Gonçalves",
+        "zipcode": "26587-800"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Avenida Manoel Duarte",
+        "zipcode": "26554-161"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Presidente Costa e Silva",
+        "zipcode": "26584-001"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Celestino",
+        "zipcode": "26560-590"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Vila Setenta e Dois",
+        "zipcode": "26551-540"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Prefeito José Montes Paixão",
+        "zipcode": "26553-161"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Professor Samuel de Souza Maciel",
+        "zipcode": "26551-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Projetada A",
+        "zipcode": "26585-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Vila Sarapo",
+        "zipcode": "26551-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Estrada Feliciano Sodré",
+        "zipcode": "26553-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Tim Maia",
+        "zipcode": "26587-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Coronel Azevedo Júnior",
+        "zipcode": "26587-340"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Rio Sarapuí",
+        "zipcode": "26587-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "26556-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Romário",
+        "zipcode": "26582-600"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Juruju",
+        "zipcode": "26554-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Severino Pereira",
+        "zipcode": "26572-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Cristóvão",
+        "zipcode": "26564-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Travessa Flausina de Oliveira Alves",
+        "zipcode": "26572-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Paraguai",
+        "zipcode": "26556-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Ana Peixoto",
+        "zipcode": "26574-721"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Aurora",
+        "zipcode": "26556-480"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Albérico Gomes Pereira",
+        "zipcode": "26560-560"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Albérico Gomes Pereira",
+        "zipcode": "26562-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Maurícia Borges",
+        "zipcode": "26570-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Leandro Rosa",
+        "zipcode": "26564-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Domingos Inácio",
+        "zipcode": "26551-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Isidoro",
+        "zipcode": "26550-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Amazonas",
+        "zipcode": "26572-090"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Bruno",
+        "zipcode": "26550-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Fortunato",
+        "zipcode": "26550-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Itabuçu",
+        "zipcode": "26550-180"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua João Bittencourt",
+        "zipcode": "26584-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua João José Santana",
+        "zipcode": "26587-600"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Ladislau",
+        "zipcode": "26550-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Leôncio",
+        "zipcode": "26551-560"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Santa Bárbara",
+        "zipcode": "26585-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Caimirim B",
+        "zipcode": "26554-655"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Travessa São José",
+        "zipcode": "26584-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Zoé",
+        "zipcode": "26550-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Soledade",
+        "zipcode": "26574-590"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Santos Dumont",
+        "zipcode": "26574-750"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Ipanema",
+        "zipcode": "26570-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Natália",
+        "zipcode": "26550-060"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua João Teles",
+        "zipcode": "26550-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Cirilo",
+        "zipcode": "26550-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Maria Sá Carvalho",
+        "zipcode": "26550-740"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Gustavo",
+        "zipcode": "26550-760"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Romano Dallari",
+        "zipcode": "26550-790"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua José Cerca",
+        "zipcode": "26551-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Hercília",
+        "zipcode": "26551-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Hercília",
+        "zipcode": "26551-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Egídio",
+        "zipcode": "26551-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Guilherme Maza",
+        "zipcode": "26585-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Istambul",
+        "zipcode": "26585-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Cesário",
+        "zipcode": "26562-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Avenida Getúlio de Moura",
+        "zipcode": "26550-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Hipólito",
+        "zipcode": "26580-051"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Bouganville",
+        "zipcode": "26582-515"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Jorge Lima",
+        "zipcode": "26551-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Aracati",
+        "zipcode": "26551-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Nelson Ramos",
+        "zipcode": "26585-670"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Manoel Pereira Reis",
+        "zipcode": "26585-680"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Durvalina",
+        "zipcode": "26587-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Marques Canário",
+        "zipcode": "26587-660"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Travessa Carolina Méier",
+        "zipcode": "26553-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Hélio Mendes do Amaral",
+        "zipcode": "26554-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Jardinópolis",
+        "zipcode": "26554-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Areial",
+        "zipcode": "26554-550"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Guararema",
+        "zipcode": "26554-590"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Jutaí",
+        "zipcode": "26556-240"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Ana Peixoto",
+        "zipcode": "26564-051"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Piauí",
+        "zipcode": "26556-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Bráulio",
+        "zipcode": "26560-581"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa João de Souza Dias",
+        "zipcode": "26564-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Severino Dias Correia",
+        "zipcode": "26572-284"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Bispo",
+        "zipcode": "26574-660"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Miradouro",
+        "zipcode": "26574-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Amorim",
+        "zipcode": "26570-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Silvério",
+        "zipcode": "26550-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Dagmar de Assis",
+        "zipcode": "26550-750"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Egídio",
+        "zipcode": "26551-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Bagre",
+        "zipcode": "26551-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Libânia I",
+        "zipcode": "26551-120"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Guiné",
+        "zipcode": "26551-150"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Tenente Rodrigo de Melo Vilázio",
+        "zipcode": "26551-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Nelson Ramos",
+        "zipcode": "26585-671"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Nelson Ramos",
+        "zipcode": "26584-141"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Jorcelina",
+        "zipcode": "26587-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Projetada C",
+        "zipcode": "26587-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Zeferino",
+        "zipcode": "26551-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Sem Nome",
+        "zipcode": "26587-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Beco Unidos",
+        "zipcode": "26587-530"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Jatuba",
+        "zipcode": "26554-100"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Marquesa de Grizelda",
+        "zipcode": "26584-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Marquesa de Grizelda",
+        "zipcode": "26584-011"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Gilmar",
+        "zipcode": "26582-470"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Pedregosa",
+        "zipcode": "26554-630"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Travessa Vitalino Felipe",
+        "zipcode": "26572-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Vera Lúcia",
+        "zipcode": "26574-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Fausto",
+        "zipcode": "26580-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Santa Branca",
+        "zipcode": "26557-620"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Jorge Oliveira Bezerra",
+        "zipcode": "26564-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Particular (Ac Cel A Júnior 1100)",
+        "zipcode": "26587-700"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Avenida Epitácio Pessoa",
+        "zipcode": "26574-495"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Eva",
+        "zipcode": "26553-190"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Flamboyant",
+        "zipcode": "26582-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua da Chaminé",
+        "zipcode": "26574-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Epitácio",
+        "zipcode": "26550-810"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Brucedo",
+        "zipcode": "26556-460"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Avenida Epitácio Pessoa",
+        "zipcode": "26574-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Estrada Feliciano Sodré",
+        "zipcode": "26553-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Cordura",
+        "zipcode": "26554-073"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Celestino",
+        "zipcode": "26551-161"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Avenida Nilo Peçanha",
+        "zipcode": "26574-530"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Castilho França",
+        "zipcode": "26557-720"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Mário Pedrosa",
+        "zipcode": "26551-220"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Simplício",
+        "zipcode": "26551-228"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Guaraúna",
+        "zipcode": "26554-600"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Soares Seco",
+        "zipcode": "26574-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua São Luiz",
+        "zipcode": "26557-640"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Vila Sem Nome",
+        "zipcode": "26551-580"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Braulina",
+        "zipcode": "26587-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Pindorama",
+        "zipcode": "26570-420"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Travessa Ipu",
+        "zipcode": "26574-705"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Industrial",
+        "street": "Avenida Epitácio Pessoa",
+        "zipcode": "26575-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada B (Ac R M Carvalho 548)",
+        "zipcode": "26587-022"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada B (Ac R M Carvalho 2083)",
+        "zipcode": "26587-024"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Particular (Ac R R Gonçalves 215)",
+        "zipcode": "26587-440"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Projetada A (Ac R Magno de Carvalho)",
+        "zipcode": "26587-720"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Fortaleza",
+        "zipcode": "26553-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Magno de Carvalho",
+        "zipcode": "26585-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Coronel Azevedo Júnior",
+        "zipcode": "26587-335"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Raul",
+        "zipcode": "26580-125"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Carlos Marques Rollo",
+        "zipcode": "26550-795"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Antônio Rodrigues Oliveira",
+        "zipcode": "26553-055"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Antônio Rodrigues Oliveira",
+        "zipcode": "26556-205"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Cristiano",
+        "zipcode": "26580-137"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Fátima Goulart",
+        "zipcode": "26551-208"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Oscar Soares",
+        "zipcode": "26550-160"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Abel de Alvarenga",
+        "zipcode": "26585-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Alaíde",
+        "zipcode": "26564-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Travessa Alegre",
+        "zipcode": "26554-560"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Alfredo Schwartz",
+        "zipcode": "26582-280"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Travessa Aracaju",
+        "zipcode": "26556-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Carlos Peixoto",
+        "zipcode": "26556-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Cascata",
+        "zipcode": "26557-700"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Celestino",
+        "zipcode": "26550-051"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Doutor Álvaro Lessa",
+        "zipcode": "26572-510"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Japeri",
+        "zipcode": "26585-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua João Bittencourt",
+        "zipcode": "26584-161"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Vereador Carlos Carvalho",
+        "zipcode": "26580-061"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Minerva",
+        "zipcode": "26553-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Minerva",
+        "zipcode": "26553-231"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Minerva",
+        "zipcode": "26585-771"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Otávio Braga",
+        "zipcode": "26587-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Ricardo",
+        "zipcode": "26560-551"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Santa Bárbara",
+        "zipcode": "26587-750"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tranqüilidade",
+        "zipcode": "26572-450"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Wilson Frahia",
+        "zipcode": "26582-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Rua Gimele",
+        "zipcode": "26574-560"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Travessa Uranos",
+        "zipcode": "26570-290"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Ana Peixoto",
+        "zipcode": "26564-380"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Fidélis",
+        "zipcode": "26550-710"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Turumbi",
+        "zipcode": "26550-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Governador Celso Peçanha",
+        "zipcode": "26551-200"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Abel Alvarenga",
+        "zipcode": "26585-141"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Getúlio Vargas",
+        "zipcode": "26585-230"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Nilza Gurgel",
+        "zipcode": "26551-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Crispim",
+        "zipcode": "26551-300"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Baronesa de Mesquita",
+        "zipcode": "26580-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Havaí",
+        "zipcode": "26587-080"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Otacílio Tavares",
+        "zipcode": "26587-130"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Edson Passos",
+        "street": "Rua Barão de Salusse",
+        "zipcode": "26584-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Quinze de Novembro",
+        "zipcode": "26587-540"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Barão de Quissamã",
+        "zipcode": "26554-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Leonardo",
+        "zipcode": "26582-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Travessa Paulo Sérgio",
+        "zipcode": "26582-570"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Augusto Cardoso",
+        "zipcode": "26556-030"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Vaterlô da Silva",
+        "zipcode": "26572-390"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Travessa Canavial",
+        "zipcode": "26556-140"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Jorge",
+        "zipcode": "26574-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Maranhão",
+        "zipcode": "26556-260"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Elazir Vieira Laranja",
+        "zipcode": "26574-110"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Avenida Doutor Carvalhães",
+        "zipcode": "26574-461"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Barros Peixoto",
+        "zipcode": "26570-041"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Cândido Viana",
+        "zipcode": "26580-430"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Macário",
+        "zipcode": "26562-400"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Luciano",
+        "zipcode": "26562-070"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Francisca Borges",
+        "zipcode": "26562-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Avenida Dona Delfina Borges",
+        "zipcode": "26564-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Projetada",
+        "zipcode": "26585-121"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Cristino",
+        "zipcode": "26574-730"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Travessa Manuel Gonçalves",
+        "zipcode": "26551-500"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Goiás",
+        "zipcode": "26556-270"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Aluísio Pinto de Barros",
+        "zipcode": "26553-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Avenida Brasil",
+        "zipcode": "26556-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Natal",
+        "zipcode": "26556-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Travessa da Vala",
+        "zipcode": "26556-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Carioca",
+        "zipcode": "26557-680"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Avenida da Eternidade",
+        "zipcode": "26582-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Lídia",
+        "zipcode": "26587-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Coronel Azevedo Júnior",
+        "zipcode": "26587-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Paraná",
+        "zipcode": "26553-020"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Paz e Amor",
+        "zipcode": "26562-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Avenida São Paulo",
+        "zipcode": "26553-360"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Coréia",
+        "street": "Rua Amazonas",
+        "zipcode": "26556-010"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Alameda Tambaqui",
+        "zipcode": "26562-040"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Avenida União",
+        "zipcode": "26554-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Dulce Peixoto",
+        "zipcode": "26564-250"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Antônio Borges",
+        "zipcode": "26564-370"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Raul",
+        "zipcode": "26551-210"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua José Costa de Oliveira..",
+        "zipcode": "26572-281"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Celestino",
+        "zipcode": "26550-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Doutor Carvalhães",
+        "zipcode": "26572-145"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Coronel Bernardino de Melo",
+        "zipcode": "26557-710"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Haroldo Alves",
+        "zipcode": "26574-740"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "26550-115"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Almirante Batista das Neves",
+        "zipcode": "26587-791"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Almirante Batista das Neves",
+        "zipcode": "26587-790"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Rua Almirante Batista das Neves",
+        "zipcode": "26585-041"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Banco de Areia",
+        "street": "Rua Cesário",
+        "zipcode": "26570-441"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Hipólito",
+        "zipcode": "26551-490"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Hipólito",
+        "zipcode": "26580-050"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santo Elias",
+        "street": "Rua Josefina",
+        "zipcode": "26560-542"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Manuel Afonso",
+        "zipcode": "26585-760"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Manuel Afonso",
+        "zipcode": "26554-351"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Santa Terezinha",
+        "street": "Rua Manuel Afonso",
+        "zipcode": "26554-350"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Zeferino",
+        "zipcode": "26580-091"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cruzeiro do Sul",
+        "street": "Rua Zeferino",
+        "zipcode": "26551-081"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua Caetano Martins",
+        "zipcode": "26580-291"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Filadélfia",
+        "zipcode": "26585-750"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Avenida Doutor Mário de Abreu",
+        "zipcode": "26580-375"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Shimano",
+        "zipcode": "26572-045"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua da Vila",
+        "zipcode": "26580-255"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Cosmorama",
+        "street": "Rua Pinheiros",
+        "zipcode": "26582-226"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Carvalho",
+        "zipcode": "26587-025"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Plaza",
+        "zipcode": "26585-635"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Pedro Alves de Almeida",
+        "zipcode": "26585-015"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Alto Uruguai",
+        "street": "Rua Caimirim A",
+        "zipcode": "26554-075"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "BNH",
+        "street": "Travessa Java",
+        "zipcode": "26574-703"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Vila Emil",
+        "street": "Rua de Vila 2",
+        "zipcode": "26580-378"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Epitácio Pessoa",
+        "zipcode": "26572-330"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Juscelino",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "26557-610"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Cristiano",
+        "zipcode": "26551-310"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Maria Aliete de Melo",
+        "zipcode": "26587-105"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Helen",
+        "zipcode": "26585-047"
+    },
+    {
+        "city": "Mesquita",
+        "state": "RJ",
+        "district": "Chatuba",
+        "street": "Travessa Júnior",
+        "zipcode": "26585-045"
+    }
+]

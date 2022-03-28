@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santo Antônio da Platina",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "86430-970"
+    },
+    {
+        "city": "Santo Antônio da Platina",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Rui Barbosa 1189",
+        "zipcode": "86430-981"
+    },
+    {
+        "city": "Santo Antônio da Platina",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86430-000"
+    },
+    {
+        "city": "Santo Antônio da Platina",
+        "state": "PR",
+        "district": "Platina",
+        "street": "Rua Águas Marinhas",
+        "zipcode": "86430-971"
+    }
+]

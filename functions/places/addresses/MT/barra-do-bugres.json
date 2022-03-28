@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Barra do Bugres",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Avenida Castelo Branco 546",
+        "zipcode": "78390-970"
+    },
+    {
+        "city": "Barra do Bugres",
+        "state": "MT",
+        "district": "Nova Fernandopolis",
+        "street": "Rua Principal",
+        "zipcode": "78393-970"
+    },
+    {
+        "city": "Barra do Bugres",
+        "state": "MT",
+        "district": "",
+        "street": "",
+        "zipcode": "78390-000"
+    }
+]

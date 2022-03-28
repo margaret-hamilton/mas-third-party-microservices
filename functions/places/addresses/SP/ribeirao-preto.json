@@ -1,0 +1,478 @@
+[
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Planalto Verde",
+        "street": "Rua A",
+        "zipcode": "14056-035"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Iracema",
+        "street": "Rua Sem Denominacao",
+        "zipcode": "14078-607"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Iracema",
+        "street": "Rua Dez",
+        "zipcode": "14078-605"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Iraja",
+        "street": "Rua Adolfo Serra",
+        "zipcode": "14020-263"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Sao Luiz",
+        "street": "Praça Luiz Sampaio",
+        "zipcode": "14020-189"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Seixas",
+        "street": "Praça Cardeal Agnelo Rossi",
+        "zipcode": "14020-389"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Praça Engenheiro Armindo Paione",
+        "zipcode": "14025-198"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Jose Da Silva",
+        "zipcode": "14090-040"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Itapura",
+        "zipcode": "14090-080"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Iguape",
+        "zipcode": "14090-090"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Guaruja",
+        "zipcode": "14090-100"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Cravinhos",
+        "zipcode": "14090-110"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Seixas",
+        "street": "Rua Jose Beschizza",
+        "zipcode": "14015-150"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Parque Dos Pinus",
+        "street": "Rua Projetada",
+        "zipcode": "14062-238"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Elisa",
+        "street": "Rua Tiete",
+        "zipcode": "14075-180"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Santa Cruz Do Jose Jacques",
+        "street": "Rua Ignacio Ferrero",
+        "zipcode": "14020-740"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Tiberio",
+        "street": "Rua Nemesio Ferreira Vianna",
+        "zipcode": "14050-020"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Santa Cruz Do Jose Jacques",
+        "street": "Travessa Maria Gomes De Souza",
+        "zipcode": "14020-509"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Elisa",
+        "street": "Rua Igarapava",
+        "zipcode": "14075-160"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Piratininga",
+        "street": "Rua Julia Lopes",
+        "zipcode": "14030-178"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Elisa",
+        "street": "Rua Sertaozinho",
+        "zipcode": "14075-200"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Cesario Motta",
+        "zipcode": "14090-050"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Elisa",
+        "street": "Rua Ituverava",
+        "zipcode": "14075-170"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Anhanguera",
+        "street": "Rua Isaias Jose Ferreira",
+        "zipcode": "14092-180"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Joquei Clube",
+        "street": "Rua Elis Regina",
+        "zipcode": "14079-520"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulistano",
+        "street": "Rua Wenceslau Braz",
+        "zipcode": "14090-020"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulistano",
+        "street": "Rua Jacomo Rossi",
+        "zipcode": "14090-030"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Piratininga",
+        "street": "Praça Joao Batista Ferreira",
+        "zipcode": "14030-179"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Elisa",
+        "street": "Rua Araras",
+        "zipcode": "14075-150"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Praça Aristophanes Prudente Correa",
+        "zipcode": "14090-279"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Joquei Clube",
+        "street": "Rua Najla Bittar Jorge",
+        "zipcode": "14079-510"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paschoal Innecchi",
+        "street": "Rua Vinte E Quatro",
+        "zipcode": "14078-677"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Interlagos",
+        "street": "Praça Adib Ristum",
+        "zipcode": "14093-079"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Sesi",
+        "street": "Rua Palmira Bonetti Panico",
+        "zipcode": "14090-650"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Praça Octavio Golfeto",
+        "zipcode": "14030-259"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paschoal Innecchi",
+        "street": "Rua Hermindo Moraes",
+        "zipcode": "14079-524"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Conj Habit Jardim Das Palmeiras",
+        "street": "Rua Joao Meneguci",
+        "zipcode": "14094-114"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paschoal Innecchi",
+        "street": "Rua Sebastiao Ferreira Souto",
+        "zipcode": "14078-675"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Parque Dos Lagos",
+        "street": "Rua B",
+        "zipcode": "14090-017"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Residencial Parque Dos Servidores",
+        "street": "Avenida Quatro",
+        "zipcode": "14094-232"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Anhanguera",
+        "street": "Rua Jose Arigo",
+        "zipcode": "14092-170"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Residencial Parque Dos Servidores",
+        "street": "Avenida Quatro",
+        "zipcode": "14094-233"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Residencial Parque Dos Servidores",
+        "street": "Avenida Tres",
+        "zipcode": "14094-220"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Sesi",
+        "street": "Rua Joao Malagoli",
+        "zipcode": "14090-670"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Helena",
+        "street": "Rua Um",
+        "zipcode": "14094-124"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Residencial Parque Dos Servidores",
+        "street": "Avenida Tres",
+        "zipcode": "14094-218"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Avenida Meira Junior",
+        "zipcode": "14090-000"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Laguna",
+        "zipcode": "14090-060"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Itapira",
+        "zipcode": "14090-120"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Seixas",
+        "street": "Travessa Guilherme De Almeida",
+        "zipcode": "14015-070"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Seixas",
+        "street": "Praça Salvador Spadoni",
+        "zipcode": "14025-709"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Joquei Clube",
+        "street": "Avenida Orestes Lopes De Camargo",
+        "zipcode": "14079-500"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Heitor Rigon",
+        "street": "Rua Trinta E Cinco",
+        "zipcode": "14062-036"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulistano",
+        "street": "Travessa Vanderci Mattiusso",
+        "zipcode": "14090-099"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Santa Cruz Do Jose Jacques",
+        "street": "Travessa Freitas",
+        "zipcode": "14020-387"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Elisa",
+        "street": "Praça Alberto Santos Dumont",
+        "zipcode": "14075-519"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Parque Dos Bandeirantes",
+        "street": "Praça Expedicionarios Brasileiros",
+        "zipcode": "14090-239"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Parque Industrial Lagoinha",
+        "street": "Avenida Engenheiro Joaquim Desiderio De Mattos",
+        "zipcode": "14095-010"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Diva Tarla De Carvalho",
+        "street": "Rua Onze",
+        "zipcode": "14079-401"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Elisa",
+        "street": "Praça Comendador Antonio Lopes Balau",
+        "zipcode": "14075-049"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Santa Cruz Do Jose Jacques",
+        "street": "Rua Fiorigio Casilo",
+        "zipcode": "14020-388"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Parque Residencial Candido Portinari",
+        "street": "Rua Vinte E Sete",
+        "zipcode": "14093-581"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Praça Clovis Bevilacqua",
+        "zipcode": "14020-049"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Sesi",
+        "street": "Avenida Engenheiro Joaquim Desiderio De Mattos",
+        "zipcode": "14090-720"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Elisa",
+        "street": "Rua Sao Joaquim",
+        "zipcode": "14075-190"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Interlagos",
+        "street": "Praça Hildebrando Tiraboschi",
+        "zipcode": "14093-049"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Jardim Paulistano",
+        "street": "Praça Papa Joao Paulo I",
+        "zipcode": "14090-049"
+    },
+    {
+        "city": "Ribeirao Preto",
+        "state": "SP",
+        "district": "Vila Monte Alegre",
+        "street": "Rodovia Anel Viario (Contorno Norte)",
+        "zipcode": "14040-800"
+    }
+]

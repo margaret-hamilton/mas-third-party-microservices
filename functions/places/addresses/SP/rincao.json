@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Rincão",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro 152",
+        "zipcode": "14830-970"
+    },
+    {
+        "city": "Rincão",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "14830-000"
+    },
+    {
+        "city": "Rincão",
+        "state": "SP",
+        "district": null,
+        "street": "Bairro do Taquaral",
+        "zipcode": "14830-990"
+    },
+    {
+        "city": "Rincão",
+        "state": "SP",
+        "district": "Taquaral",
+        "street": "Rua João Candido Gonçalves s/n",
+        "zipcode": "14830-971"
+    }
+]

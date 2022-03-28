@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Carapebus",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Nicolau Zulo 43",
+        "zipcode": "27998-970"
+    },
+    {
+        "city": "Carapebus",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Getúlio Vargas 480",
+        "zipcode": "27998-971"
+    },
+    {
+        "city": "Carapebus",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Manoel Francisco Pinto",
+        "zipcode": "27998-990"
+    },
+    {
+        "city": "Carapebus",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "27998-000"
+    }
+]

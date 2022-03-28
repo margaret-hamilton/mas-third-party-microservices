@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Serrania",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37136-000"
+    },
+    {
+        "city": "Serrania",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37143-000"
+    },
+    {
+        "city": "Serrania",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Zeca Moreira",
+        "zipcode": "37143-970"
+    },
+    {
+        "city": "Serrania",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Zeca Moreira 661 Loja B",
+        "zipcode": "37136-970"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Rio Bonito",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua João do Carmo 15",
+        "zipcode": "28800-970"
+    },
+    {
+        "city": "Rio Bonito",
+        "state": "RJ",
+        "district": "Bazílio",
+        "street": "Rua Antônio Lopes Campos Filho 24",
+        "zipcode": "28800-971"
+    },
+    {
+        "city": "Rio Bonito",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Doutor Francisco de Souza 187",
+        "zipcode": "28800-972"
+    },
+    {
+        "city": "Rio Bonito",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28800-000"
+    }
+]

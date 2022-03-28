@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Boa Saúde",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59260-000"
+    },
+    {
+        "city": "Boa Saúde",
+        "state": "RN",
+        "district": "Guarani",
+        "street": "Rua Principal s/n",
+        "zipcode": "59260-971"
+    },
+    {
+        "city": "Boa Saúde",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua Theodorico Bezerra 11",
+        "zipcode": "59260-970"
+    },
+    {
+        "city": "Boa Saúde",
+        "state": "RN",
+        "district": "Rua do Fogo",
+        "street": "Rua Principal s/n",
+        "zipcode": "59260-973"
+    },
+    {
+        "city": "Boa Saúde",
+        "state": "RN",
+        "district": "Riacho dos Pinheiros",
+        "street": "Rua Principal s/n",
+        "zipcode": "59260-972"
+    }
+]

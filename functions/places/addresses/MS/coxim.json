@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Coxim",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Avenida Luiz Gonzaga",
+        "zipcode": "79400-971"
+    },
+    {
+        "city": "Coxim",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Avenida Virgínia Ferreira 1405",
+        "zipcode": "79400-972"
+    },
+    {
+        "city": "Coxim",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Antonio João 111",
+        "zipcode": "79400-970"
+    },
+    {
+        "city": "Coxim",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79400-000"
+    },
+    {
+        "city": "Coxim",
+        "state": "MS",
+        "district": null,
+        "street": "Av. Gonzaga",
+        "zipcode": "79400-990"
+    }
+]

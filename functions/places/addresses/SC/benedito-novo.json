@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Benedito Novo",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89124-000"
+    },
+    {
+        "city": "Benedito Novo",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Leopoldo Koprowski",
+        "zipcode": "89124-992"
+    },
+    {
+        "city": "Benedito Novo",
+        "state": "SC",
+        "district": "Barra São João",
+        "street": "Rua Ministro Luiz Galotti",
+        "zipcode": "89124-971"
+    },
+    {
+        "city": "Benedito Novo",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Ministro Luiz Galotti",
+        "zipcode": "89124-991"
+    },
+    {
+        "city": "Benedito Novo",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Quirino Longo",
+        "zipcode": "89124-970"
+    }
+]

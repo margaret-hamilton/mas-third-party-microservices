@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Costa Marques",
+        "state": "RO",
+        "district": "Centro",
+        "street": "Rodovia BR",
+        "zipcode": "76937-971"
+    },
+    {
+        "city": "Costa Marques",
+        "state": "RO",
+        "district": "Centro",
+        "street": "Avenida Limoeiro",
+        "zipcode": "76937-970"
+    },
+    {
+        "city": "Costa Marques",
+        "state": "RO",
+        "district": "",
+        "street": "",
+        "zipcode": "76937-000"
+    },
+    {
+        "city": "Costa Marques",
+        "state": "RO",
+        "district": null,
+        "street": "Sub",
+        "zipcode": "76937-990"
+    }
+]

@@ -1,0 +1,6099 @@
+[
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Avenida A",
+        "zipcode": "12610-195"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Albano José",
+        "zipcode": "12607-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Mário Prudente de Aquino Filho",
+        "zipcode": "12605-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Caetano Mena",
+        "zipcode": "12603-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Antonino Rosa Júnior",
+        "zipcode": "12602-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Athaíde Villela de Oliveira Marcondes",
+        "zipcode": "12604-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Barão de Castro Lima",
+        "zipcode": "12600-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Bernardo José de Lorena",
+        "zipcode": "12600-470"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Suíça",
+        "zipcode": "12608-738"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Argentina",
+        "zipcode": "12608-753"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dom Bosco",
+        "zipcode": "12600-970"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Avenida Oswaldo Aranha",
+        "zipcode": "12600-971"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Professor Adolfo José Pereira Rios",
+        "zipcode": "12601-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua General Góes Monteiro",
+        "zipcode": "12606-490"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Travessa Antônio Silva Tavares",
+        "zipcode": "12601-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Atílio Junchetti",
+        "zipcode": "12600-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Pemy B Silva",
+        "zipcode": "12607-530"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Noruega",
+        "zipcode": "12608-801"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Mmdc",
+        "zipcode": "12600-520"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Cardeal Dom Carlos Carmello de Vasconcelos Motta",
+        "zipcode": "12605-575"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Castro Alves",
+        "zipcode": "12606-560"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Comendador Custódio Vieira",
+        "zipcode": "12600-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Conselheiro João Henrique",
+        "zipcode": "12608-620"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Conselheiro Rodrigues Alves",
+        "zipcode": "12600-490"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Avenida Coronel José Vicente",
+        "zipcode": "12609-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Demosthenes Rangel Velloso",
+        "zipcode": "12610-470"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Joaquim Inácio",
+        "zipcode": "12600-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor José Machado Coelho de Castro",
+        "zipcode": "12600-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Avenida Doutor Peixoto de Castro",
+        "zipcode": "12606-580"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Rodrigues de Azevedo",
+        "zipcode": "12600-005"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Francisco de Paula Vaz",
+        "zipcode": "12607-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Hepacare",
+        "zipcode": "12600-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça João Pessoa",
+        "zipcode": "12600-610"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua José Antônio Almeida Gonzaga",
+        "zipcode": "12606-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa José Antônio Vieira",
+        "zipcode": "12600-500"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua José Coppio",
+        "zipcode": "12608-635"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Major Oliveira Borges",
+        "zipcode": "12600-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Avenida Mantiqueira",
+        "zipcode": "12611-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Miguel Nicolau Samahá",
+        "zipcode": "12604-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Nossa Senhora da Piedade",
+        "zipcode": "12600-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Nove de Julho",
+        "zipcode": "12600-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Pastor José Martins de Freitas",
+        "zipcode": "12607-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Professor Antonio Azevedo Castilho",
+        "zipcode": "12602-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Professor Frederico da Silva Ramos",
+        "zipcode": "12600-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Vila Rosa",
+        "zipcode": "12600-580"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Rosalina",
+        "zipcode": "12602-610"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Avenida Major Hermenegildo Antônio Aquino (Horto Florestal)",
+        "zipcode": "12605-610"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Jerônimo Araújo",
+        "zipcode": "12600-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rodovia Osvaldo Junqueira Ortiz Monteiro",
+        "zipcode": "12605-590"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Avenida de Aurora Aquino Passos",
+        "zipcode": "12604-470"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Nilton Prado Leite",
+        "zipcode": "12610-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Antônio José de Almeida",
+        "zipcode": "12603-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Antônio Marcondes Romeiro",
+        "zipcode": "12605-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Capitão Alcyr Fillizzola",
+        "zipcode": "12603-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua David Raphael",
+        "zipcode": "12604-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Domingo Malerba",
+        "zipcode": "12605-600"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Dona Hermelita Coppola Marotta",
+        "zipcode": "12602-650"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Doutor Francisco Azevedo Nunes",
+        "zipcode": "12604-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Padre Carlos Leôncio da Silva",
+        "zipcode": "12602-440"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Edwirges Luís dos Santos",
+        "zipcode": "12604-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Ema Salomão",
+        "zipcode": "12602-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Francisco de Paula Franco",
+        "zipcode": "12605-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Alameda Geraldo Ferraz de Oliveira",
+        "zipcode": "12605-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Gerônimo Lorena",
+        "zipcode": "12605-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Irmã Maria Benedita Machado",
+        "zipcode": "12602-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Joaquim Cardoso Machado",
+        "zipcode": "12604-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Joaquim Lino",
+        "zipcode": "12605-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua José Bonifácio",
+        "zipcode": "12605-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua José Marcondes de Almeida",
+        "zipcode": "12604-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Paulo Roberto Tavares",
+        "zipcode": "12601-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Jovino Balbino da Silva",
+        "zipcode": "12603-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Horácio Vítor Bastos",
+        "zipcode": "12603-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Praça Capitão José Areco",
+        "zipcode": "12610-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Venino Moraes",
+        "zipcode": "12607-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Luiz Monteiro",
+        "zipcode": "12602-630"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Major Faustino César",
+        "zipcode": "12602-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Praça Major Francisco Marques de Oliveira",
+        "zipcode": "12602-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Mestre Francisco Silva",
+        "zipcode": "12605-670"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Mmdc",
+        "zipcode": "12605-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Monsenhor Dagoberto Palmeira DAzevedo",
+        "zipcode": "12602-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Avenida Padre Hugo Grecco",
+        "zipcode": "12602-600"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Avenida Papa João XXIII",
+        "zipcode": "12602-530"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Pedro Alves Bonfim",
+        "zipcode": "12603-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Pedro Branco",
+        "zipcode": "12604-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Pedro Prudente",
+        "zipcode": "12602-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Piagui",
+        "zipcode": "12605-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Professor Arnóbio Aquino Marques",
+        "zipcode": "12605-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Professor Augusto Ribeiro de Souza",
+        "zipcode": "12605-535"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Professor Francisco Prudente de Aquino",
+        "zipcode": "12602-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Professor Joaquim Lorena",
+        "zipcode": "12603-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Professor Jovino de Aquino",
+        "zipcode": "12603-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Professora Laura Chagas",
+        "zipcode": "12605-560"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Avenida Salesianos do Brasil",
+        "zipcode": "12605-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Santa Lucrécia",
+        "zipcode": "12605-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Praça Santo Antonio",
+        "zipcode": "12608-500"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Senador Teotônio Vilela",
+        "zipcode": "12605-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Tenente Argemiro Pereira Marcondes",
+        "zipcode": "12603-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Adelina Alves Ferraz",
+        "zipcode": "12604-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua João Cardoso Machado",
+        "zipcode": "12604-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Avenida Tiradentes",
+        "zipcode": "12602-720"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Rua Pedro Luna",
+        "zipcode": "12602-730"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "12602-800"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Rua Antônio da Silva Tavares",
+        "zipcode": "12602-840"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Jornalista José M. Ribeiro",
+        "zipcode": "12604-460"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Área Rural de Lorena",
+        "street": "Área Rural",
+        "zipcode": "12614-899"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Alício Solano Bastos",
+        "zipcode": "12607-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Amâncio Lemes Figueiredo",
+        "zipcode": "12608-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Avenida Brasil",
+        "zipcode": "12609-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Candelária Ferreira",
+        "zipcode": "12600-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Avenida Capitão Messias Ribeiro",
+        "zipcode": "12607-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Vila Coelho",
+        "zipcode": "12608-575"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Coronel José Antunes Azevedo",
+        "zipcode": "12608-510"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Ipiranga",
+        "zipcode": "12602-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Avenida Coronel José Vicente",
+        "zipcode": "12608-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Praça Dona Maria Bulgarelli Cabral",
+        "zipcode": "12607-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "12600-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Elízio Antônio dos Santos",
+        "zipcode": "12606-500"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Francisco de Paula Reis",
+        "zipcode": "12610-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Gastão Vidigal",
+        "zipcode": "12600-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Travessa Gonçalves Dias",
+        "zipcode": "12606-452"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Hermano Borges",
+        "zipcode": "12607-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua João Batista Azevedo",
+        "zipcode": "12608-645"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua João Gonçalves da Costa",
+        "zipcode": "12609-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Joaquim Azevedo Figueira",
+        "zipcode": "12606-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Jordelina Bartelega Mendes",
+        "zipcode": "12607-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Machado de Assis",
+        "zipcode": "12606-511"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Marechal João Batista Mascarenhas de Moraes",
+        "zipcode": "12606-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Maria José dos Santos",
+        "zipcode": "12608-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Colômbia",
+        "zipcode": "12608-762"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Monsenhor José Arthur de Moura",
+        "zipcode": "12608-630"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Monte Castelo",
+        "zipcode": "12606-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "12607-520"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Estrada Municipal Santa Terezinha",
+        "zipcode": "12608-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Padre Carlos Pereto",
+        "zipcode": "12608-605"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Padre Manoel Teotônio Castro",
+        "zipcode": "12600-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Vila Peralta",
+        "zipcode": "12607-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Potiguara",
+        "zipcode": "12608-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Quatro de Novembro",
+        "zipcode": "12610-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Rio Grande do Norte",
+        "zipcode": "12609-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Rufino Torres",
+        "zipcode": "12607-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua São Benedito",
+        "zipcode": "12600-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Vila São Benedito",
+        "zipcode": "12608-347"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua São Francisco",
+        "zipcode": "12606-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "12606-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Sílvio Costa",
+        "zipcode": "12609-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Tapuias",
+        "zipcode": "12608-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Tenente Manoel Barbosa",
+        "zipcode": "12606-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Avenida Tomaz Alves de Figueiredo",
+        "zipcode": "12608-346"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Trinta de Abril",
+        "zipcode": "12608-685"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rodovia Washington Luiz",
+        "zipcode": "12610-490"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Victor dos Santos",
+        "zipcode": "12610-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Eunice Bastos Galvão",
+        "zipcode": "12609-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Henrique Marcondes de Moura",
+        "zipcode": "12605-690"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Avenida Doutor Pedro Vicente de Azevedo",
+        "zipcode": "12606-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Major Teófilo de Castro",
+        "zipcode": "12607-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua São Paulo",
+        "zipcode": "12609-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Paulo F. Chagas",
+        "zipcode": "12610-155"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Victor Mayer",
+        "zipcode": "12610-435"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Beti M. de Freitas",
+        "zipcode": "12608-442"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Padre Gabriel Hiron de Oliveira (Núcleo Habitacional)",
+        "zipcode": "12610-241"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Tereza Luiz Moreira Marcondes",
+        "zipcode": "12610-543"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Luiz Henrique de Carvalho",
+        "zipcode": "12610-612"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Aldair José da Cruz Silva",
+        "zipcode": "12610-627"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Aleixo Pereira",
+        "zipcode": "12600-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Antônio Marton Neto",
+        "zipcode": "12603-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Barão de Bocaina",
+        "zipcode": "12600-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Baronesa de Santa Eulália",
+        "zipcode": "12600-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Bernardino de Campos",
+        "zipcode": "12600-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Capitão João Inácio",
+        "zipcode": "12600-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Conde de Sarzedas",
+        "zipcode": "12602-490"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Praça Conde de Moreira Lima",
+        "zipcode": "12607-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Bráulio Moreira Lima",
+        "zipcode": "12600-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Vieira",
+        "zipcode": "12600-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dezenove de Novembro",
+        "zipcode": "12600-550"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dona Noêmia Areco",
+        "zipcode": "12600-460"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Doutor Arnolfo de Azevedo",
+        "zipcode": "12600-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua José Euzébio Filho",
+        "zipcode": "12600-639"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua Prefeito Carlos Eugênio Marcondes",
+        "zipcode": "12600-648"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua Luiz Gonzaga Corrêa Sobrinho",
+        "zipcode": "12600-651"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua Adelina de Azevedo Mendes",
+        "zipcode": "12600-654"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Venezuela",
+        "zipcode": "12608-747"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Chile",
+        "zipcode": "12608-777"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Odila Rodrigues",
+        "zipcode": "12601-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Azevedo de Castro",
+        "zipcode": "12600-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Carlos Autran",
+        "zipcode": "12600-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Doutor Paulo Cardoso",
+        "zipcode": "12602-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Doze de Outubro",
+        "zipcode": "12602-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Erendy Novaes Ferreira",
+        "zipcode": "12600-440"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua José Antônio",
+        "zipcode": "12602-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua José Malerba",
+        "zipcode": "12610-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Maestro João Evangelista",
+        "zipcode": "12600-430"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Manoel Prudente",
+        "zipcode": "12600-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Maria Bissoli Campos",
+        "zipcode": "12608-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Marton",
+        "zipcode": "12600-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Olímpio Catão",
+        "zipcode": "12602-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Vila São José",
+        "zipcode": "12600-570"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida São José",
+        "zipcode": "12600-560"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Beco São José",
+        "zipcode": "12600-600"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Sérvulo Gonçalves",
+        "zipcode": "12602-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Silveiras",
+        "zipcode": "12605-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "12600-540"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Praça Tenente Jorge Onófrio Bezerra de Menezes",
+        "zipcode": "12602-391"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Viscondessa de Castro Lima",
+        "zipcode": "12600-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Vila Julieta",
+        "zipcode": "12600-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Professor Francisco Marques de Oliveira Júnior",
+        "zipcode": "12602-640"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Orlando Justino da Silva",
+        "zipcode": "12600-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Rua João Rodrigues",
+        "zipcode": "12602-750"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Arthur de Freitas Castro",
+        "zipcode": "12603-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Bento Rodrigues Caldeira",
+        "zipcode": "12602-480"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Avenida Bernardino de Campos",
+        "zipcode": "12602-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Domingos Antônio Florenzano",
+        "zipcode": "12602-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Doutor Alcides da Costa Vidigal",
+        "zipcode": "12602-430"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Doutor André Serra de Andrade",
+        "zipcode": "12602-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Eugênio Campos",
+        "zipcode": "12603-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Expedicionário Sebastião Ribeiro Guimarães",
+        "zipcode": "12603-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Fábio Villela Nunes",
+        "zipcode": "12602-460"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Fausto Ferreira dos Reis",
+        "zipcode": "12602-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Avenida Francisco de Paula Brasil",
+        "zipcode": "12603-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Francisco Velloso",
+        "zipcode": "12603-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Francisco Xavier DAlessandro",
+        "zipcode": "12602-520"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua João de Aquino",
+        "zipcode": "12605-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Frederica Sacilotti",
+        "zipcode": "12603-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Geraldo Luiz dos Santos",
+        "zipcode": "12602-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "12602-680"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Guadalajara",
+        "zipcode": "12603-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Jair Jannuzzelli",
+        "zipcode": "12603-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua José Dias",
+        "zipcode": "12602-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua José Gemelli",
+        "zipcode": "12602-590"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua José Leopoldo Cordeiro",
+        "zipcode": "12603-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua José Molinari",
+        "zipcode": "12602-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Lino Calda Campos",
+        "zipcode": "12603-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Luiz Vezaro",
+        "zipcode": "12602-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Major Clementino Moreira César",
+        "zipcode": "12602-580"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Avenida Marechal Teixeira Lott",
+        "zipcode": "12603-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua José Mendes da Silva",
+        "zipcode": "12601-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua José Coelho Nunes",
+        "zipcode": "12601-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua de Leonel C Medeiros",
+        "zipcode": "12601-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Maria da Glória Barroso Lintz",
+        "zipcode": "12603-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Mário Pinto Gonçalves",
+        "zipcode": "12603-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Martinho Marotta",
+        "zipcode": "12602-660"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Praça Maria Conceição de Oliveira",
+        "zipcode": "12602-670"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Locutor Bichari Boueri",
+        "zipcode": "12607-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Selma Aparecida Garcia",
+        "zipcode": "12605-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Mestre Antonio Cunha Faria",
+        "zipcode": "12603-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Otacílio Prudente",
+        "zipcode": "12602-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Pascoal Del Mônaco",
+        "zipcode": "12602-540"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Pedro da Costa Colaço",
+        "zipcode": "12602-500"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Avenida Presidente Eurico Gaspar Dutra",
+        "zipcode": "12603-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Severino Fittipaldi",
+        "zipcode": "12602-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Tenente Anacleto Ferreira Pinto",
+        "zipcode": "12602-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Tenente Luna",
+        "zipcode": "12602-450"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua São Sebastião",
+        "zipcode": "12602-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Treze de Outubro",
+        "zipcode": "12602-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Dolores Florenzano Vidal",
+        "zipcode": "12603-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Francisco Di Domenico",
+        "zipcode": "12603-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua José Ferreira Moraes",
+        "zipcode": "12602-690"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Rua Vital Brasil",
+        "zipcode": "12602-760"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Travessa das Piraquaras",
+        "zipcode": "12602-770"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Rua Tereza Cristina",
+        "zipcode": "12602-790"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Alfredo Luiz dos Santos",
+        "zipcode": "12604-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Avenida Ângelo Molinari",
+        "zipcode": "12604-095"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Antônio Escada",
+        "zipcode": "12604-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Antônio Pelúcio",
+        "zipcode": "12604-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Alameda Armênio Gomes",
+        "zipcode": "12605-470"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Aziz Eluani",
+        "zipcode": "12604-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Benedito de Aquino Passos",
+        "zipcode": "12605-051"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Avenida Caetano Cartolano",
+        "zipcode": "12605-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Avenida Carlino Luiz dos Santos",
+        "zipcode": "12604-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Dona Maria José Junqueira",
+        "zipcode": "12604-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Doutor Daniel Chain",
+        "zipcode": "12604-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Doutor João Pinto Antunes",
+        "zipcode": "12604-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Eduardo Marques Peralta",
+        "zipcode": "12603-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Expedicionário Teófilo Pedroso",
+        "zipcode": "12603-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Francisca Addeo Canettieri",
+        "zipcode": "12605-430"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Galante Giuseppe",
+        "zipcode": "12604-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Gentil de Azevedo Nunes",
+        "zipcode": "12604-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Herminio Sverberi",
+        "zipcode": "12605-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua João Galvão de Franco Rangel",
+        "zipcode": "12604-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Joaquim Matias Ramos",
+        "zipcode": "12605-440"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua José Avelino Telles",
+        "zipcode": "12603-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua José Bellini",
+        "zipcode": "12603-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua José Benedito Ferrari",
+        "zipcode": "12605-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua José de Alencar Villela Nunes",
+        "zipcode": "12605-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Estrada Velha Lorena Piquete",
+        "zipcode": "12602-820"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua José dos Santos",
+        "zipcode": "12605-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua José Pereira Penque",
+        "zipcode": "12605-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua José Rodrigues Alves",
+        "zipcode": "12604-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Juvenal Pinto dos Santos",
+        "zipcode": "12605-460"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Lucília Peres",
+        "zipcode": "12605-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Luís Gonçalves",
+        "zipcode": "12604-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Luiz Guatura",
+        "zipcode": "12605-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Maria Geralda Guatura",
+        "zipcode": "12605-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Mário Ferreira Reis",
+        "zipcode": "12605-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Natalino Reis",
+        "zipcode": "12605-450"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "12606-540"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Paraitinga",
+        "zipcode": "12605-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Avenida Passos",
+        "zipcode": "12605-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Estrada Líbero Laurindo",
+        "zipcode": "12602-710"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Roberto de Miranda Alves",
+        "zipcode": "12603-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Praça Rosendo Pereira Leite",
+        "zipcode": "12604-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "12605-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Saturnino de Braga",
+        "zipcode": "12605-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Alameda Sigefredo Ferrari",
+        "zipcode": "12605-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Tenente José Alves Pinto",
+        "zipcode": "12604-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Tenente José Gomes",
+        "zipcode": "12604-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Teófilo de Freitas Castro Júnior",
+        "zipcode": "12604-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Tupiniquins",
+        "zipcode": "12608-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Vicente Costa",
+        "zipcode": "12603-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "12605-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Luiz Filipini",
+        "zipcode": "12605-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Churchil",
+        "zipcode": "12606-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Sebastião Lopes Araújo",
+        "zipcode": "12604-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua dos Orietta G. Santos",
+        "zipcode": "12604-450"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Avenida Lorena",
+        "zipcode": "12610-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Altimo Eid Salomi",
+        "zipcode": "12605-605"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Amélia Pereira",
+        "zipcode": "12606-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Artelino Barreto",
+        "zipcode": "12607-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Aurora Ferraz",
+        "zipcode": "12605-495"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Carlos Chagas",
+        "zipcode": "12607-510"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "12606-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Travessa Castro Alves",
+        "zipcode": "12606-570"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Delfin Bitencourt",
+        "zipcode": "12607-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Beco Dom Pedro II",
+        "zipcode": "12606-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Domingos Adolpho Vilela",
+        "zipcode": "12605-500"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Dona Carolina Spotti de Castro Pinto",
+        "zipcode": "12605-680"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Emídio Nascimento",
+        "zipcode": "12605-580"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Travessa Expedicionário Genésio Valentim Correa",
+        "zipcode": "12606-440"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Fábio Faria Colombi",
+        "zipcode": "12605-585"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Francisco Villela Nunes",
+        "zipcode": "12607-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Avenida Godoy Neto",
+        "zipcode": "12607-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Beco Gonçalves Dias",
+        "zipcode": "12606-460"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Gonçalves Dias",
+        "zipcode": "12606-450"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Henriqueta Vieira Lorena",
+        "zipcode": "12605-505"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Ivo Ferreira de Souza",
+        "zipcode": "12605-710"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Jairo de Aquino Martins",
+        "zipcode": "12605-615"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Joaquim Luís Bastos",
+        "zipcode": "12606-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Avenida José Giordani",
+        "zipcode": "12605-640"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua José Magalhães",
+        "zipcode": "12605-685"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua José Maria da Silva",
+        "zipcode": "12605-705"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua José Miguel",
+        "zipcode": "12605-520"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua José Pedro da Rocha",
+        "zipcode": "12606-530"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Rua Napoleão Laureano",
+        "zipcode": "12611-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Leopoldo Marcondes",
+        "zipcode": "12607-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Lulu Meyer",
+        "zipcode": "12606-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Machado de Assis",
+        "zipcode": "12606-510"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Madame Curie",
+        "zipcode": "12606-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Major Rodrigo Luiz",
+        "zipcode": "12607-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Maria Victória Brandão",
+        "zipcode": "12605-635"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Estrada Municipal",
+        "zipcode": "12605-715"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Orlando de Oliveira",
+        "zipcode": "12605-700"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Avenida Oswaldo Aranha",
+        "zipcode": "12606-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Padre João Renaudin",
+        "zipcode": "12607-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Paulino Chagas",
+        "zipcode": "12607-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Paulo Silva",
+        "zipcode": "12605-550"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Pedro Rosa",
+        "zipcode": "12605-675"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Presidente Roosevelt",
+        "zipcode": "12606-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Vila Sacilotti",
+        "zipcode": "12606-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Santa Inez",
+        "zipcode": "12606-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua São Miguel",
+        "zipcode": "12606-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Avenida São Pedro",
+        "zipcode": "12607-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Scylla Thomé de Souza",
+        "zipcode": "12605-540"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Travessa Tenente Manoel Barbosa",
+        "zipcode": "12606-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Avenida Tenente Vicente Antônio Bevilacqua",
+        "zipcode": "12605-655"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Travessa da Usina",
+        "zipcode": "12606-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Moacir Margarido Lacerda",
+        "zipcode": "12605-660"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Antônio da Silva Gurpilhares",
+        "zipcode": "12605-570"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Rodolfo Junchetti",
+        "zipcode": "12607-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Pastor Cícero Canuto de Lima",
+        "zipcode": "12606-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Amélio Silva",
+        "zipcode": "12607-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua América",
+        "zipcode": "12608-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Antônio Carlos Lopes",
+        "zipcode": "12608-695"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Antônio Haddad",
+        "zipcode": "12608-675"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Bartolomeu Gusmão",
+        "zipcode": "12607-480"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Carijós",
+        "zipcode": "12608-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Coronel Aquiles Pederneiras",
+        "zipcode": "12608-600"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Avenida Coronel Marciano",
+        "zipcode": "12608-570"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Avenida Doutor Eugênio Borges",
+        "zipcode": "12608-595"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Francisco de Paula Ferraz",
+        "zipcode": "12608-615"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Francisco Moreira",
+        "zipcode": "12608-540"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Francisco Xavier de Almeida",
+        "zipcode": "12608-650"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Goitacazes",
+        "zipcode": "12608-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Guaicurus",
+        "zipcode": "12608-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Guaianazes",
+        "zipcode": "12608-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Guararapes",
+        "zipcode": "12608-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Henrique Dias",
+        "zipcode": "12607-500"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Ilydio Moura da Silva",
+        "zipcode": "12607-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua João Leite Pereira",
+        "zipcode": "12608-625"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua João Rodrigues Novaes",
+        "zipcode": "12607-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Joaquim Galvão",
+        "zipcode": "12607-550"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Joaquim Nabuco",
+        "zipcode": "12608-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua José Antunes Macedo",
+        "zipcode": "12608-530"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua José Gomes da Silva",
+        "zipcode": "12607-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua José Guimarães",
+        "zipcode": "12607-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua José Oswaldo Barbosa",
+        "zipcode": "12607-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua José Oswaldo Del Mônaco",
+        "zipcode": "12607-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Lorena",
+        "zipcode": "12608-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Mantiqueira",
+        "zipcode": "12608-690"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Moacyr Severino Silva",
+        "zipcode": "12607-430"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Nesralla Rubez",
+        "zipcode": "12607-440"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Pedro Vieira",
+        "zipcode": "12608-660"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Raul Rios",
+        "zipcode": "12608-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Salgado Filho",
+        "zipcode": "12607-540"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Santo Antonio",
+        "zipcode": "12608-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Avenida São João",
+        "zipcode": "12608-680"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Suécia",
+        "zipcode": "12608-735"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Líbano",
+        "zipcode": "12608-741"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Equador",
+        "zipcode": "12608-744"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Avenida São Paulo",
+        "zipcode": "12608-715"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Avenida São Thomaz",
+        "zipcode": "12608-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Tenente Frederico Ferreira",
+        "zipcode": "12608-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Teófilo Braga",
+        "zipcode": "12608-640"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Tomaz Alves de Figueiredo",
+        "zipcode": "12608-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Treze de Maio",
+        "zipcode": "12608-580"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Tupi",
+        "zipcode": "12608-345"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Vinte e Seis de Agosto",
+        "zipcode": "12608-710"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Xavantes",
+        "zipcode": "12608-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Zanin",
+        "zipcode": "12608-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Conselheiro João Alfredo",
+        "zipcode": "12608-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Miguel Tomaz Arantes",
+        "zipcode": "12606-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Vinte e Quatro de Abril",
+        "zipcode": "12607-470"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Alexandre Domingues Pereira",
+        "zipcode": "12608-480"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "12608-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Vila Amaral",
+        "zipcode": "12600-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Amazonas",
+        "zipcode": "12609-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Aspirante Eduardo Roberto Areco",
+        "zipcode": "12609-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Beco Batista",
+        "zipcode": "12608-470"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Caetés",
+        "zipcode": "12609-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Capitão",
+        "zipcode": "12600-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Avenida Carrolton",
+        "zipcode": "12609-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Ceará",
+        "zipcode": "12609-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Doutor Pedro de Alcântara",
+        "zipcode": "12608-655"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Expedicionário Genésio Valentim Correa",
+        "zipcode": "12606-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Francisco de Paula Vicente de Azevedo",
+        "zipcode": "12602-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Geraldo de Paula Aquino",
+        "zipcode": "12605-555"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua João Francisco de Campos",
+        "zipcode": "12609-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua José Monteiro de Andrade",
+        "zipcode": "12609-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Lydia de Aquino Vieira",
+        "zipcode": "12609-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Maranhão",
+        "zipcode": "12609-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Marechal Mallet",
+        "zipcode": "12600-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Maria Moreira Lorena",
+        "zipcode": "12609-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Minas Gerais",
+        "zipcode": "12609-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Moacir Ferreira da Costa",
+        "zipcode": "12609-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Estrada Municipal Santa Terezinha",
+        "zipcode": "12609-167"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Paraíba",
+        "zipcode": "12609-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Pernambuco",
+        "zipcode": "12609-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Professor Antonio Pádua",
+        "zipcode": "12606-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Alameda Professora Durvalina Ferraz Coutinho de Castro",
+        "zipcode": "12605-475"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Professora Placídia Romeiro Fernandes",
+        "zipcode": "12604-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Regina Bartelega C. M. O. Monteiro",
+        "zipcode": "12605-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "12609-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua São Judas Tadeu",
+        "zipcode": "12609-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Grécia",
+        "zipcode": "12608-759"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua França",
+        "zipcode": "12608-783"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Monsenhor João Messias",
+        "zipcode": "12608-670"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Dinamarca",
+        "zipcode": "12608-771"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Marrocos",
+        "zipcode": "12608-789"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Alameda das Palmeiras Imperiais",
+        "zipcode": "12609-162"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Sergipe",
+        "zipcode": "12609-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Wenceslau Braz",
+        "zipcode": "12609-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Armindo Faustino",
+        "zipcode": "12609-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Santa Izabel",
+        "zipcode": "12608-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Bispo César Dacorso Filho",
+        "zipcode": "12609-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Jornalista Araken Aquino",
+        "zipcode": "12609-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Bélgica",
+        "zipcode": "12608-795"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua João Vieira de Azevedo",
+        "zipcode": "12608-520"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Travessa Doutor João Batista de Miranda Alves",
+        "zipcode": "12608-490"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Ivo S. de Carvalho",
+        "zipcode": "12610-135"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Messias A Ferreira",
+        "zipcode": "12610-165"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Dante Ballerini",
+        "zipcode": "12610-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Polidorio S. Camarinha",
+        "zipcode": "12610-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Capitão Oscar Santos Bitencourt",
+        "zipcode": "12602-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Celso Baldi Pelucio",
+        "zipcode": "12610-480"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Coronel João Carlos Guedes",
+        "zipcode": "12603-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Doutor Adhemar de Barros",
+        "zipcode": "12602-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Doutor Cícero de Souza",
+        "zipcode": "12603-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Expedicionário João Soares Farias",
+        "zipcode": "12602-510"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Francisco Canettieri",
+        "zipcode": "12602-700"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Francisco Guatura",
+        "zipcode": "12602-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Francisco Rodrigues Alves",
+        "zipcode": "12610-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Irmã Maria da Glória Monteclaro",
+        "zipcode": "12610-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Irmã Zoraide Vieira da Silva",
+        "zipcode": "12600-450"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua João Almeida Pereira",
+        "zipcode": "12602-470"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua João Batista Ribeiro Luz",
+        "zipcode": "12610-440"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua José Antônio Mena",
+        "zipcode": "12603-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua José de Alencar",
+        "zipcode": "12602-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua José dos Santos Barbosa",
+        "zipcode": "12603-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Gonçalves Vasconcellos",
+        "zipcode": "12600-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Luiz Salomão",
+        "zipcode": "12602-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Maria Vieira de Azevedo",
+        "zipcode": "12600-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Matilde Denis",
+        "zipcode": "12610-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Nestor Villela Nunes",
+        "zipcode": "12603-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Onofre Gemelli",
+        "zipcode": "12602-560"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Padre Pedro Sacilotti",
+        "zipcode": "12600-620"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Professor Joaquim de Castro Neto",
+        "zipcode": "12610-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rinero Ferretti",
+        "zipcode": "12600-590"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Rômulo de Almeida Lima",
+        "zipcode": "12610-460"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Santos Dumont",
+        "zipcode": "12602-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Sérgio Antônio Carneiro Castro",
+        "zipcode": "12610-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Vinte e Um de Abril",
+        "zipcode": "12600-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua José Gomes Bezerra",
+        "zipcode": "12610-420"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Avenida Mantiqueira",
+        "zipcode": "12602-740"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Rua Pautília de Castro Tavares",
+        "zipcode": "12602-830"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Portugal",
+        "street": "Rua D Chácaras Reunidas Portugal",
+        "zipcode": "12602-870"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Milton C de Medeiros",
+        "zipcode": "12610-205"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Benedito A. de Carvalho",
+        "zipcode": "12610-235"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santa Lucrécia",
+        "street": "Estrada Chiquito de Aquino",
+        "zipcode": "12612-550"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Aterrado",
+        "street": "Rua Dois",
+        "zipcode": "12610-506"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua General Homero Florenzano",
+        "zipcode": "12607-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Praça São Sebastião",
+        "zipcode": "12602-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Benedito José de Almeida",
+        "zipcode": "12610-527"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Professor Sinésio de Castro (Conjunto Habitacional Lorena A",
+        "zipcode": "12610-227"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Avenida Braz P. de Olivas",
+        "zipcode": "12610-215"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Finlândia",
+        "zipcode": "12608-807"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Nelson A. Cabral",
+        "zipcode": "12610-265"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Otávio Cândido Ribeiro",
+        "zipcode": "12610-275"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Luiz Carlos Filippini",
+        "zipcode": "12610-445"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Gabriel L. Nunes",
+        "zipcode": "12610-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua David Vellenche",
+        "zipcode": "12610-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua João Augusto Ferreira Leite",
+        "zipcode": "12610-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Bichara José Salomão",
+        "zipcode": "12610-280"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários II",
+        "street": "Rua Guilherme de Campos",
+        "zipcode": "12610-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Praça Prefeito Jorge Santiago Maciel",
+        "zipcode": "12608-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Praça Lindolfo L dos Santos",
+        "zipcode": "12610-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Sotirius C. Ghinis",
+        "zipcode": "12610-255"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Samuel R. dos Santos",
+        "zipcode": "12610-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Travessa Alvorada",
+        "zipcode": "12606-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Antônio Cartolano",
+        "zipcode": "12607-570"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Argemiro Ribeiro de Castro",
+        "zipcode": "12607-450"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Bororós",
+        "zipcode": "12608-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Capitão Gregório José dos Santos",
+        "zipcode": "12605-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Cecília Aquino Marques",
+        "zipcode": "12605-490"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Dalmo Alves",
+        "zipcode": "12604-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Demerval Domingues Arneiro",
+        "zipcode": "12603-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "12607-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Alice Pereira Lima",
+        "zipcode": "12604-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "12607-560"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Beco Expedicionário Genésio Valentim Correa",
+        "zipcode": "12606-430"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Francisco Renato Coutinha de Castro",
+        "zipcode": "12605-645"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Ivan de Souza Araújo",
+        "zipcode": "12604-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Alameda João Augusto Lima",
+        "zipcode": "12605-465"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Alameda Capitão João Moreira de Almeida",
+        "zipcode": "12605-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua João Miguel dos Santos",
+        "zipcode": "12607-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Jovem Agostinho de Aquino",
+        "zipcode": "12606-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Laurindo Luiz Santos",
+        "zipcode": "12604-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Travessa Major João Tourino de Moraes",
+        "zipcode": "12606-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Mamede Campos",
+        "zipcode": "12607-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Avenida Marechal Argolo",
+        "zipcode": "12604-440"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Margarida Ferreira Leite",
+        "zipcode": "12607-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Mestre José Luiz Pereira",
+        "zipcode": "12607-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Nicolas Mackai",
+        "zipcode": "12607-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Avenida Nossa Senhora de Fátima",
+        "zipcode": "12606-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Travessa Olavo Bilac",
+        "zipcode": "12606-550"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Oswaldo Cruz",
+        "zipcode": "12606-271"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Padre Justino José de Lorena",
+        "zipcode": "12605-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Avenida Papa João XXIII",
+        "zipcode": "12604-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "12607-490"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Professor Ciro Areco",
+        "zipcode": "12607-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Alameda Professor João Malafronte",
+        "zipcode": "12605-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Professor José Marques de Oliveira",
+        "zipcode": "12605-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Rita Maria Monteiro",
+        "zipcode": "12605-695"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "12606-470"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Subtenente Pedro de Oliveira",
+        "zipcode": "12605-510"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rodovia Presidente Dutra",
+        "zipcode": "12605-467"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Santa Catarina",
+        "zipcode": "12608-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Antônio Leite Sobrinho",
+        "zipcode": "12601-260"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Avenida Osiro Dias",
+        "zipcode": "12610-542"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Jovino Benedito Pereira",
+        "zipcode": "12610-536"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Rua Pedro Luna",
+        "zipcode": "12611-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Estrada Municipal do Campinho",
+        "zipcode": "12602-810"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "12611-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Jovino Luís dos Santos",
+        "zipcode": "12604-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Um",
+        "zipcode": "12604-430"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Maria José Gomes",
+        "zipcode": "12605-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Alagoas",
+        "zipcode": "12609-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Vila Alice",
+        "zipcode": "12600-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Sapé",
+        "street": "Rua Nina Fabiano Miguel",
+        "zipcode": "12612-523"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Benedito Pimentel",
+        "zipcode": "12604-410"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Vila Esperança (Horto Florestal)",
+        "zipcode": "12605-630"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Anna Pereira de Lacerda",
+        "zipcode": "12609-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Brasil",
+        "zipcode": "12608-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Capitão Joaquim Lauro Montes Claro",
+        "zipcode": "12608-610"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Lauriano Leite",
+        "zipcode": "12608-665"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua César S. de Carvalho",
+        "zipcode": "12610-450"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Avenida Deputado Aurélio Campos",
+        "zipcode": "12610-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Dois de Novembro",
+        "zipcode": "12608-585"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Travessa Guararapes",
+        "zipcode": "12608-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua João Pessoa",
+        "zipcode": "12608-590"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua José Marcelo Carneiro",
+        "zipcode": "12608-440"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Luiz Gonçalo Miguel",
+        "zipcode": "12610-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Nelson Victor Bastos",
+        "zipcode": "12610-430"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Pará",
+        "zipcode": "12609-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Paraná",
+        "zipcode": "12609-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Piauí",
+        "zipcode": "12609-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Professor Joaquim Ferreira Pedro",
+        "zipcode": "12602-570"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Avenida Professora Luiza Chagas",
+        "zipcode": "12610-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Rubens Domingues AQuila",
+        "zipcode": "12609-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Tabajaras",
+        "zipcode": "12608-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Rua Tiradentes",
+        "zipcode": "12609-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Virgulino Pinto Cabral",
+        "zipcode": "12608-250"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Vinte e Três de Abril",
+        "zipcode": "12608-705"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Hortêncio Campos Melo",
+        "zipcode": "12608-550"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Travessa das Piraquaras",
+        "zipcode": "12611-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Ponte Nova",
+        "street": "Rua Napoleão Laureano",
+        "zipcode": "12602-780"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários II",
+        "street": "Rua José Carlos de Carvalho Viana",
+        "zipcode": "12610-175"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Antônio José de Carvalho",
+        "zipcode": "12610-125"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Raulino da Silva Cabral",
+        "zipcode": "12610-145"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Uruguai",
+        "zipcode": "12608-750"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Portugal",
+        "zipcode": "12608-765"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua José Rodrigues da Silva",
+        "zipcode": "12608-677"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Aterrado",
+        "street": "Rua Mestre Hiran",
+        "zipcode": "12610-505"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Tenente Wlademar Junquetti",
+        "zipcode": "12610-225"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Antônio Malerba",
+        "zipcode": "12610-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Lindsley A. Marton",
+        "zipcode": "12610-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Portal das Palmeiras",
+        "street": "Rua Bispo Dom Hipólito de Moraes",
+        "zipcode": "12610-113"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Portal das Palmeiras",
+        "street": "Rua Genoíno Batista Gomes Junior",
+        "zipcode": "12610-116"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua João Paulo Tavares",
+        "zipcode": "12610-545"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Doutor João Aldo Nassif",
+        "street": "Rua Onofre Moreira Brandão",
+        "zipcode": "12610-559"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Avenida Doutor Léo de Affonseca Netto",
+        "zipcode": "12605-720"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Rua Tereza Cristina",
+        "zipcode": "12611-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Ana Luzia Pereira",
+        "zipcode": "12610-524"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Gilberto Monteiro",
+        "zipcode": "12610-539"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Alemanha",
+        "zipcode": "12608-723"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Austrália",
+        "zipcode": "12608-804"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Doutor João Aldo Nassif",
+        "street": "Rua Darci Alves Sampaio",
+        "zipcode": "12610-565"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Bíblia",
+        "zipcode": "12602-541"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Núcleo Habitacional Padre Gabriel H L de Oliveira",
+        "zipcode": "12610-245"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Berenice Moure de Moura",
+        "zipcode": "12610-547"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Egito",
+        "zipcode": "12608-780"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Sapé",
+        "street": "Rua Hélio Chagas de Macedo",
+        "zipcode": "12612-520"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Avenida Tiradentes",
+        "zipcode": "12611-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua José Ferraz Mondesir",
+        "zipcode": "12609-165"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Costa Rica",
+        "zipcode": "12608-729"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Doutor João Aldo Nassif",
+        "street": "Rua Benedito Travezani",
+        "zipcode": "12610-556"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Doutor João Aldo Nassif",
+        "street": "Rua João Quirino de Souza",
+        "zipcode": "12610-562"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Ricardo Marcondes Junior",
+        "zipcode": "12610-549"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Residencial Campos dos Ipês",
+        "street": "Rua Pau Brasil",
+        "zipcode": "12610-580"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Residencial Campos dos Ipês",
+        "street": "Rua Jacarandá",
+        "zipcode": "12610-583"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Residencial Campos dos Ipês",
+        "street": "Rua Embaúba",
+        "zipcode": "12610-586"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Residencial Campos dos Ipês",
+        "street": "Rua Jatobá",
+        "zipcode": "12610-589"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Residencial Campos dos Ipês",
+        "street": "Rua Cerejeira",
+        "zipcode": "12610-592"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Residencial Campos dos Ipês",
+        "street": "Rua Castanheira",
+        "zipcode": "12610-595"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Residencial Campos dos Ipês",
+        "street": "Rua dos Ipês",
+        "zipcode": "12610-597"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Êxito Alves",
+        "zipcode": "12610-606"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Zumira Maria de Souza",
+        "zipcode": "12610-615"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Geraldo Rodrigues Alves",
+        "zipcode": "12610-621"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Noêmia bento Ramos",
+        "zipcode": "12610-624"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Beato Antonio Frederico Ozanan",
+        "zipcode": "12610-609"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Casio Nunes de Azevedo",
+        "zipcode": "12605-665"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Tufferha Eliazar Saloni",
+        "zipcode": "12605-525"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Praça São Roque",
+        "zipcode": "12601-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua General Eduardo Areco",
+        "zipcode": "12604-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Nico Rosa",
+        "zipcode": "12601-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Capitão Manoel Valentin Bastos",
+        "zipcode": "12601-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Padre Pedro Vaz Machado",
+        "zipcode": "12601-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua São Vicente de Paula",
+        "zipcode": "12601-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Professora Virgilina Aquino Marques",
+        "zipcode": "12601-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Capitão Leovigildo Areco",
+        "zipcode": "12601-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários I",
+        "street": "Rua Domingos S. Gilio Lopes",
+        "zipcode": "12610-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Firmino Borges Escada",
+        "zipcode": "12600-480"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Marília",
+        "zipcode": "12606-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua José Carrera Rodrigues",
+        "zipcode": "12601-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Francisco Moraes",
+        "zipcode": "12601-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Fausto Marcondes de Almeida",
+        "zipcode": "12601-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Subtenente Lins",
+        "zipcode": "12606-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua General Fleury",
+        "zipcode": "12604-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Nova Zelândia",
+        "zipcode": "12608-810"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Rua Leon Zephir Denis",
+        "zipcode": "12604-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Sargento Camargo",
+        "zipcode": "12606-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua São Roque",
+        "zipcode": "12601-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Doutor Epitácio Santiago",
+        "zipcode": "12600-530"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua General Homero de Aquino Marques",
+        "zipcode": "12605-620"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua General de Brigada Geraldo de Alencar Aquino",
+        "zipcode": "12609-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Benedito Marcondes Moura Sobrinho",
+        "zipcode": "12601-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Santa Cecília",
+        "zipcode": "12601-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cecap",
+        "street": "Rua Otávio M de Godoy",
+        "zipcode": "12610-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Vieira de Azevedo",
+        "zipcode": "12600-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Oracílio de Souza Werneck",
+        "zipcode": "12605-515"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Antônio Gonçalves Carvalho Júnior",
+        "zipcode": "12607-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Francisco de Salles Dias",
+        "zipcode": "12604-423"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Praça Professor Luís de Castro Pinto",
+        "zipcode": "12606-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila São Roque",
+        "street": "Rua Victal Alves Freitas",
+        "zipcode": "12601-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua do Ipê",
+        "zipcode": "12606-480"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Maria Meyer",
+        "zipcode": "12606-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Geraldo Prudente de Aquino",
+        "zipcode": "12600-201"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Portugal",
+        "street": "Rua Engenheiro Zoltán Rácz Chácaras Reunidas Portugal",
+        "zipcode": "12602-850"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Praça Padre José Pereira Neto",
+        "zipcode": "12607-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Mariza Helena de Almeida Figueira Castro",
+        "zipcode": "12608-450"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Santa Cruz",
+        "zipcode": "12602-620"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Vinte e Dois de Maio",
+        "zipcode": "12605-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua Décio Dangelo",
+        "zipcode": "12607-460"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua Pedro Alberto Cavalca",
+        "zipcode": "12600-636"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua Hélio Araújo Braga",
+        "zipcode": "12600-645"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Portal das Palmeiras",
+        "street": "Loteamento Portal das Palmeiras",
+        "zipcode": "12610-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Portal das Palmeiras",
+        "street": "Rua Antônieta Moreira",
+        "zipcode": "12610-101"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Maria Zila Romeiro Aquino",
+        "zipcode": "12610-618"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Portal das Palmeiras",
+        "street": "Rua Doutor Messias José de Melo e Souza",
+        "zipcode": "12610-119"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua Doutor Carlos Alberto Barbosa de Almeida",
+        "zipcode": "12610-603"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Portal das Palmeiras",
+        "street": "Rua Francisco de Assis Ribeiro",
+        "zipcode": "12610-104"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Portal das Palmeiras",
+        "street": "Rua Athaide Antero da Silva",
+        "zipcode": "12610-107"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Maria Gabriela Bernardes",
+        "zipcode": "12610-540"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Doutor João Aldo Nassif",
+        "street": "Rua Vicentina de Souza Jiunchetti",
+        "zipcode": "12610-568"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Brisas do Campo",
+        "street": "Rua José Freire",
+        "zipcode": "12610-600"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Portal das Palmeiras",
+        "street": "Rua Doutor Laércio Lincon Figueira",
+        "zipcode": "12610-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dom Bosco",
+        "zipcode": "12606-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "12606-381"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Prof. Augusto Ribeiro De Souza",
+        "zipcode": "12612-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Scylla Thome De Souza",
+        "zipcode": "12612-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Jose Miguel",
+        "zipcode": "12612-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Zelia",
+        "street": "Avenida Nossa Senhora De Fatima",
+        "zipcode": "12606-341"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Matadouro Velho",
+        "street": "Praça Mmdc",
+        "zipcode": "12601-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Maria Victoria Brandao",
+        "zipcode": "12613-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Aterrado",
+        "street": "Rua Nazira Elias Muhamad",
+        "zipcode": "12610-517"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Maria De Lourdes",
+        "street": "Travessa Machado De Assis",
+        "zipcode": "12606-520"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dr Rodrigues De Azevedo",
+        "zipcode": "12606-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua Tenente Elias Pinto dos Santos",
+        "zipcode": "12600-642"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Tabatinga",
+        "street": "Rua Exped. Genesio Valentim Correa",
+        "zipcode": "12607-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Simao",
+        "street": "Avenida Major Hermenegildo Antonio Aquino",
+        "zipcode": "12612-360"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Fabiano",
+        "street": "Rua General Homero De Aquino Marques",
+        "zipcode": "12612-490"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Matadouro Velho",
+        "street": "Travessa Jose Antonio Vieira",
+        "zipcode": "12601-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Maria De Lourdes",
+        "street": "Rodovia Presidente Dutra (Br116)",
+        "zipcode": "12606-590"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Maria De Lourdes",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "12606-541"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Simao",
+        "street": "Rua Fabio Faria Colombi",
+        "zipcode": "12612-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Madre Mazzarelo",
+        "street": "Rua Geraldo De Paula Aquino",
+        "zipcode": "12612-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Simao",
+        "street": "Rua Emidio Nascimento",
+        "zipcode": "12612-300"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Simao",
+        "street": "Rua Jairo De Aquino Martins",
+        "zipcode": "12612-370"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Aterrado",
+        "street": "Rua Pedro Américo de Oliveira",
+        "zipcode": "12610-500"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Buck",
+        "street": "Avenida Sao Jose",
+        "zipcode": "12608-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Márcio Augusto Fleury de Azevedo",
+        "zipcode": "12606-451"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Geny",
+        "street": "Avenida Angelo Molinari",
+        "zipcode": "12604-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Tufferha Eliazar Saloni",
+        "zipcode": "12612-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Maria De Lourdes",
+        "street": "Avenida Oswaldo Aranha",
+        "zipcode": "12606-001"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Esperanca",
+        "street": "Rua Um",
+        "zipcode": "12612-510"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Buck",
+        "street": "Vila Rosa",
+        "zipcode": "12608-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Aterrado",
+        "street": "Rua dos Maçons",
+        "zipcode": "12610-508"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Madre Mazzarelo",
+        "street": "Rua Paulo Silva",
+        "zipcode": "12612-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dezenove De Novembro",
+        "zipcode": "12606-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Madre Mazzarelo",
+        "street": "Rua Prof. Laura Chagas",
+        "zipcode": "12612-200"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Simao",
+        "street": "Rua Lauro De Aquino Martins",
+        "zipcode": "12612-330"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Madre Mazzarelo",
+        "street": "Rua Card. Dom Carlos Carmello De Vasc. Motta",
+        "zipcode": "12612-230"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Maria De Lourdes",
+        "street": "Avenida Dr Peixoto De Castro",
+        "zipcode": "12606-581"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Madre Mazzarelo",
+        "street": "Rua Antonio Da Silva Gurpilhares",
+        "zipcode": "12612-220"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Matadouro Velho",
+        "street": "Avenida Dr Epitacio Santiago",
+        "zipcode": "12601-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Matadouro Velho",
+        "street": "Rua Fadua Salomao (Dona Bela Salomao)",
+        "zipcode": "12601-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Tenente Manoel Barbosa",
+        "zipcode": "12606-401"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Abdias José Correa",
+        "zipcode": "12604-290"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Aterrado",
+        "street": "Rua Abílio Pereira Leite",
+        "zipcode": "12610-510"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Adelaide Maria de Paula",
+        "zipcode": "12605-545"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Afrodízio de Mattos",
+        "zipcode": "12602-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Rua Agnaldo Pereira Leite",
+        "zipcode": "12603-310"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Aldo Ferretti",
+        "zipcode": "12602-400"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Aldo Herminio Zanin",
+        "zipcode": "12600-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Alexandre Ferreira Pedro Filho",
+        "zipcode": "12602-550"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Alferes José Pedro Lorena",
+        "zipcode": "12609-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Margarida",
+        "street": "Rua Alfredo Antônio dos Santos",
+        "zipcode": "12604-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Rua Almancina Betti Canettieri",
+        "zipcode": "12605-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Antônio Galvão F. Rangel",
+        "zipcode": "12602-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rua Antônio Rufino de Amorim",
+        "zipcode": "12609-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Rua Arlindo de Paula e Silva",
+        "zipcode": "12603-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Caetano Gomes da Silva",
+        "zipcode": "12605-650"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Caetés",
+        "zipcode": "12608-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dom Bosco",
+        "zipcode": "12600-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Euclides Marcondes de Aquino",
+        "zipcode": "12605-565"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Alameda Gil Inácio de Andrade",
+        "zipcode": "12605-485"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Nova Lorena",
+        "street": "Rua Henriqueta de Carvalho Ferrari",
+        "zipcode": "12602-390"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Olaria",
+        "street": "Rua José Eugênio de Paula Paixão",
+        "zipcode": "12607-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Alameda Gil Inacio De Andrade",
+        "zipcode": "12612-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Cecilia Aquino Marques",
+        "zipcode": "12612-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Coronel Aquiles Pederneiras",
+        "zipcode": "12610-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Francisco De Paula Ferraz",
+        "zipcode": "12610-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Jose Maria Da Silva",
+        "zipcode": "12613-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Vila Coelho",
+        "zipcode": "12610-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Jose Coppio",
+        "zipcode": "12610-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Orlando De Oliveira",
+        "zipcode": "12613-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Neide",
+        "street": "Avenida Coronel Marciano",
+        "zipcode": "12610-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Caetano Gomes Da Silva",
+        "zipcode": "12613-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Pedro Rosa",
+        "zipcode": "12613-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Praça Alberto Tisseo",
+        "zipcode": "12609-131"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Simao",
+        "street": "Rua Domingo Malerba",
+        "zipcode": "12612-340"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Aurora Ferraz",
+        "zipcode": "12612-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Alameda Armenio Gomes",
+        "zipcode": "12612-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Padre Carlos Pereto",
+        "zipcode": "12610-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Madre Mazzarelo",
+        "street": "Rua Adelaide Maria De Paula",
+        "zipcode": "12612-170"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Ivo Ferreira De Souza",
+        "zipcode": "12613-150"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Domingos Adolpho Vilela",
+        "zipcode": "12612-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Buck",
+        "street": "Beco Sao Jose",
+        "zipcode": "12608-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Mestre Francisco Silva",
+        "zipcode": "12613-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Jose Magalhaes",
+        "zipcode": "12613-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Anézio Augusto Ferreira",
+        "zipcode": "12608-460"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Avenida Tomaz Alves De Figueiredo",
+        "zipcode": "12609-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Frnacisco Renato Coutinha De Castro",
+        "zipcode": "12613-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rodovia Presidente Dutra (Br 116)",
+        "zipcode": "12609-180"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Estrada Municipal",
+        "zipcode": "12613-160"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Buck",
+        "street": "Rua Padre Pedro Sacillotti",
+        "zipcode": "12608-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Dona Carolina Spotti De Castro Pinto",
+        "zipcode": "12613-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Joao Pessoa",
+        "zipcode": "12611-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Buck",
+        "street": "Rua Rinero Ferretti",
+        "zipcode": "12608-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Treze De Maio",
+        "zipcode": "12610-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Alameda Joao Augusto Lima",
+        "zipcode": "12612-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Jose Antero Dos Santos",
+        "zipcode": "12612-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Rita Maria Monteiro",
+        "zipcode": "12613-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Dois De Novembro",
+        "zipcode": "12610-030"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Passos",
+        "street": "Travessa Maria de Franca Mota",
+        "zipcode": "12605-061"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Monte Líbano",
+        "zipcode": "12602-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Rua Nair Pereira Marton",
+        "zipcode": "12606-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Professora Maria Antonieta Castro Andrade",
+        "zipcode": "12604-380"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Avenida Tomaz Alves de Figueiredo",
+        "zipcode": "12609-166"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Brito",
+        "street": "Avenida Presidente Juscelino Kubitschek de Oliveira",
+        "zipcode": "12603-240"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Portugal",
+        "street": "Rua B Chácaras Reunidas Portugal",
+        "zipcode": "12602-860"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários II",
+        "street": "Rua Professora Therezinha de P Ferrari Andrade",
+        "zipcode": "12610-185"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Santa Edwiges",
+        "street": "Rua Ramiro Marino de Meirelles",
+        "zipcode": "12604-425"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila dos Comerciários II",
+        "street": "Rua Subtenente José Domingos Jofre",
+        "zipcode": "12610-190"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua Vereador Milton Ballerini",
+        "zipcode": "12600-630"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Village das Palmeiras",
+        "street": "Rua Lea de Andrade Ribeiro",
+        "zipcode": "12600-633"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Avenida México",
+        "zipcode": "12608-720"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Canadá",
+        "zipcode": "12608-726"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Paraná",
+        "zipcode": "12608-732"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Itália",
+        "zipcode": "12608-756"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Israel",
+        "zipcode": "12608-774"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Portugal",
+        "street": "Rua Rosa Travezani de Aquino (Chácaras Reunidas Portugal)",
+        "zipcode": "12602-855"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Portugal",
+        "street": "Beco Rosa Travezani de Aquino (Chácaras Reunidas Portugal)",
+        "zipcode": "12602-857"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Mondesir",
+        "street": "Rodovia Presidente Dutra",
+        "zipcode": "12605-530"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "12606-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Maria De Lourdes",
+        "street": "Rua General Goes Monteiro",
+        "zipcode": "12606-491"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Matadouro Velho",
+        "street": "Rua Conselheiro Rodrigues Alves",
+        "zipcode": "12601-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Avenida Dr Eugenio Borges",
+        "zipcode": "12610-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Buck",
+        "street": "Praça Joao Pessoa",
+        "zipcode": "12608-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Conselheiro Joao Henrique",
+        "zipcode": "12610-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Simao",
+        "street": "Rodovia Osvaldo Junqueira Ortiz Monteiro",
+        "zipcode": "12612-320"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Henriqueta Vieira Lorena",
+        "zipcode": "12612-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Alameda Capitao Joao Moreira De Almeida",
+        "zipcode": "12612-130"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Madre Mazzarelo",
+        "street": "Rua Euclides Marcondes De Aquino",
+        "zipcode": "12612-210"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cidade Industrial",
+        "street": "Estrada Municipal Santa Terezinha",
+        "zipcode": "12609-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Avenida Tenente Vicente Antonio Bevilacqua",
+        "zipcode": "12613-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Moacir Margarido Lacerda",
+        "zipcode": "12613-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cabelinha",
+        "street": "Rua Manoel Prudente",
+        "zipcode": "12602-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Zelia",
+        "street": "Rua Oswaldo Cruz",
+        "zipcode": "12606-270"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Buck",
+        "street": "Vila Sao Jose",
+        "zipcode": "12608-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Avenida Jose Giordani",
+        "zipcode": "12613-010"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Fabiano",
+        "street": "Rua Jose Sebastiao Da Silva",
+        "zipcode": "12612-500"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Oracilio De Souza Werneck",
+        "zipcode": "12612-100"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Henrique Marcondes De Moura",
+        "zipcode": "12613-110"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Campinho",
+        "street": "Estrada do Campinho",
+        "zipcode": "12602-871"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cida",
+        "street": "Rua Capitao Joaquim Lauro Montes Claro",
+        "zipcode": "12610-070"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Avenida José Moreira Miguel",
+        "zipcode": "12610-521"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Simao",
+        "street": "Rua Altimo Eid Salomi",
+        "zipcode": "12612-350"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Hepacare",
+        "street": "Rua Aldo de Moura Rangel",
+        "zipcode": "12608-120"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dona Constância Augusta Azevedo",
+        "zipcode": "12600-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Doutor João Aldo Nassif",
+        "street": "Rua Francisco Canindé da Costa",
+        "zipcode": "12610-553"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Sebastião Gomes da Silva",
+        "zipcode": "12610-530"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Rua João Rodrigues",
+        "zipcode": "12611-040"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Rua Doutor João Batista de Miranta Alves",
+        "zipcode": "12608-430"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Nunes",
+        "street": "Avenida Targino Vilella Nunes",
+        "zipcode": "12603-000"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Vila Cristina",
+        "street": "Rua Vital Brasil",
+        "zipcode": "12611-050"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua Lauro de Aquino Martins",
+        "zipcode": "12605-595"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Polônia",
+        "zipcode": "12608-798"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Espanha",
+        "zipcode": "12608-768"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Alameda Prof. Durvalina Ferraz Coutinho De Castro",
+        "zipcode": "12612-020"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Casio Nunes De Azevedo",
+        "zipcode": "12613-060"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Praça Ministro Francisco Dalle Coutinho",
+        "zipcode": "12608-560"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Pádua Salomão",
+        "zipcode": "12600-510"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rua Sub",
+        "zipcode": "12612-090"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Holanda",
+        "zipcode": "12608-792"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Doutor João Aldo Nassif",
+        "street": "Rua Georgina de Almeida Ribeiro",
+        "zipcode": "12610-550"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque Das Rodovias",
+        "street": "Rodovia Presidente Dutra (Br 116)",
+        "zipcode": "12612-140"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Aterrado",
+        "street": "Rua Miguel Rodrigues Santiago",
+        "zipcode": "12610-520"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Residencial Vila Rica",
+        "street": "Rua Inglaterra",
+        "zipcode": "12608-786"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Cruz",
+        "street": "Praça Doutor Gama Rodrigues",
+        "zipcode": "12606-080"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua José Sebastião da Silva",
+        "zipcode": "12605-625"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Santo Antônio",
+        "street": "Travessa Marcílio Marton",
+        "zipcode": "12608-441"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Loteamento Jardim Primavera",
+        "street": "Rua Therezinha Braga de Menezes",
+        "zipcode": "12610-533"
+    },
+    {
+        "city": "Lorena",
+        "state": "SP",
+        "district": "Parque das Rodovias",
+        "street": "Rua José Antero dos Santos",
+        "zipcode": "12605-480"
+    }
+]

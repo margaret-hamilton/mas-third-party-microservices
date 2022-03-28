@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Coluna",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Arsino Lopes 48",
+        "zipcode": "39770-970"
+    },
+    {
+        "city": "Coluna",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39770-000"
+    }
+]

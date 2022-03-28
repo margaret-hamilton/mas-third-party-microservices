@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Tramandaí",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Ruben Berta 1544",
+        "zipcode": "95590-970"
+    },
+    {
+        "city": "Tramandaí",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Militão de Almeida",
+        "zipcode": "95590-975"
+    },
+    {
+        "city": "Tramandaí",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95590-000"
+    },
+    {
+        "city": "Tramandaí",
+        "state": "RS",
+        "district": null,
+        "street": "Rua 02 nº 184",
+        "zipcode": "95590-991"
+    },
+    {
+        "city": "Tramandaí",
+        "state": "RS",
+        "district": null,
+        "street": "Av Interpraias",
+        "zipcode": "95590-992"
+    },
+    {
+        "city": "Tramandaí",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Minas Gerais",
+        "zipcode": "95590-990"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Cabeceira Grande",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Central 400",
+        "zipcode": "38625-972"
+    },
+    {
+        "city": "Cabeceira Grande",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38625-000"
+    }
+]

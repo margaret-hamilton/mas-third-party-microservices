@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Catuji",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Rio Bahia 11",
+        "zipcode": "39816-972"
+    },
+    {
+        "city": "Catuji",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39816-000"
+    }
+]

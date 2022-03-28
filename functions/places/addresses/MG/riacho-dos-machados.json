@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Riacho dos Machados",
+        "state": "MG",
+        "district": "Venda Nova",
+        "street": "Rua Augusto Alves 26",
+        "zipcode": "39529-970"
+    },
+    {
+        "city": "Riacho dos Machados",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39529-000"
+    },
+    {
+        "city": "Riacho dos Machados",
+        "state": "MG",
+        "district": "Vila Bem Querer",
+        "street": "Praça da Matriz 164",
+        "zipcode": "39529-971"
+    }
+]

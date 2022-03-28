@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Diamante do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Juscelino Kubitschek",
+        "zipcode": "85408-970"
+    },
+    {
+        "city": "Diamante do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Juscelino Kubitschek",
+        "zipcode": "85408-990"
+    },
+    {
+        "city": "Diamante do Sul",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85408-000"
+    },
+    {
+        "city": "Diamante do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Desembargador Antônio Francisco Ferreira da Costa",
+        "zipcode": "85408-971"
+    }
+]

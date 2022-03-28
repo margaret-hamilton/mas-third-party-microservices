@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Joaíma",
+        "state": "MG",
+        "district": "Giru",
+        "street": "Rua Dionísio Ferreira s/n",
+        "zipcode": "39890-972"
+    },
+    {
+        "city": "Joaíma",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39890-000"
+    },
+    {
+        "city": "Joaíma",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Olinto Martins 142",
+        "zipcode": "39890-970"
+    }
+]

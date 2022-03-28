@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Mariana",
+        "state": "MG",
+        "district": "Vila do Carmo",
+        "street": "Avenida Nossa Senhora do Carmo 190",
+        "zipcode": "35420-973"
+    },
+    {
+        "city": "Mariana",
+        "state": "MG",
+        "district": "Águas Claras",
+        "street": "Rua São Luiz s/n",
+        "zipcode": "35420-974"
+    },
+    {
+        "city": "Mariana",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35420-000"
+    },
+    {
+        "city": "Mariana",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Tancredo Neves 111",
+        "zipcode": "35420-970"
+    }
+]

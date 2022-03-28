@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Angelândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Vicente Pego 44",
+        "zipcode": "39685-971"
+    },
+    {
+        "city": "Angelândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Antônio Dias s/n",
+        "zipcode": "39685-970"
+    },
+    {
+        "city": "Angelândia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39685-000"
+    }
+]

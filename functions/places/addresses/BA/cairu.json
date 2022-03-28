@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Cairu",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Dois de Março 6",
+        "zipcode": "45420-970"
+    },
+    {
+        "city": "Cairu",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45420-000"
+    },
+    {
+        "city": "Cairu",
+        "state": "BA",
+        "district": null,
+        "street": "Rua da Rainha",
+        "zipcode": "45420-990"
+    }
+]

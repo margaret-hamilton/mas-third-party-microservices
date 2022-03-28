@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Serro",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Alferes Luiz Pinto 72",
+        "zipcode": "39150-970"
+    },
+    {
+        "city": "Serro",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39150-000"
+    }
+]

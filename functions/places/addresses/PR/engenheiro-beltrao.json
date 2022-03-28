@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Engenheiro Beltrão",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Clotário Portugal",
+        "zipcode": "87270-970"
+    },
+    {
+        "city": "Engenheiro Beltrão",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87270-000"
+    },
+    {
+        "city": "Engenheiro Beltrão",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Principal",
+        "zipcode": "87272-990"
+    }
+]

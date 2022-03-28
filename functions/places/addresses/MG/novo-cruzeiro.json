@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Novo Cruzeiro",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua David Mussi 166",
+        "zipcode": "39820-970"
+    },
+    {
+        "city": "Novo Cruzeiro",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39820-000"
+    }
+]

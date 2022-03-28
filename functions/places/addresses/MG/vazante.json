@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Vazante",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua João Cláudio 400",
+        "zipcode": "38780-970"
+    },
+    {
+        "city": "Vazante",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Paracatu 666 Loja 01",
+        "zipcode": "38780-971"
+    },
+    {
+        "city": "Vazante",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38780-000"
+    }
+]

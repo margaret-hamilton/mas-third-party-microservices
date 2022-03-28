@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Balneário Barra do Sul",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Amandio Cabral 889",
+        "zipcode": "89247-970"
+    },
+    {
+        "city": "Balneário Barra do Sul",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89247-000"
+    },
+    {
+        "city": "Balneário Barra do Sul",
+        "state": "SC",
+        "district": null,
+        "street": "Avenida Jaraguá do Sul",
+        "zipcode": "89247-990"
+    }
+]

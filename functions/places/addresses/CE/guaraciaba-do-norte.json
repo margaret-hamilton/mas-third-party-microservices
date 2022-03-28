@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Guaraciaba do Norte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Nove de Janeiro 30",
+        "zipcode": "62380-970"
+    },
+    {
+        "city": "Guaraciaba do Norte",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62380-000"
+    },
+    {
+        "city": "Guaraciaba do Norte",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62388-990"
+    },
+    {
+        "city": "Guaraciaba do Norte",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "62385-990"
+    }
+]

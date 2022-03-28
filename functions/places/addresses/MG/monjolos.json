@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Monjolos",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Limoeiro 10",
+        "zipcode": "39215-971"
+    },
+    {
+        "city": "Monjolos",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39215-000"
+    },
+    {
+        "city": "Monjolos",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Vereador Walmiro de Souza 29",
+        "zipcode": "39215-972"
+    }
+]

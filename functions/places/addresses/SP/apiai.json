@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Apiaí",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Leopoldo Lemes Werneck 323",
+        "zipcode": "18320-970"
+    },
+    {
+        "city": "Apiaí",
+        "state": "SP",
+        "district": "Palmitalzinho",
+        "street": "Avenida Palmitalzinho 150",
+        "zipcode": "18320-972"
+    },
+    {
+        "city": "Apiaí",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18320-000"
+    },
+    {
+        "city": "Apiaí",
+        "state": "SP",
+        "district": null,
+        "street": "Via Itapeva",
+        "zipcode": "18323-990"
+    },
+    {
+        "city": "Apiaí",
+        "state": "SP",
+        "district": "Lageado",
+        "street": "Rua da Escola 9",
+        "zipcode": "18320-971"
+    }
+]

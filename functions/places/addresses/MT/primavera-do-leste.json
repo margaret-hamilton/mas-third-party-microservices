@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Primavera do Leste",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Paranatinga 159",
+        "zipcode": "78850-970"
+    },
+    {
+        "city": "Primavera do Leste",
+        "state": "MT",
+        "district": "Jardim Riva",
+        "street": "Avenida David Riva 1215",
+        "zipcode": "78850-971"
+    },
+    {
+        "city": "Primavera do Leste",
+        "state": "MT",
+        "district": "",
+        "street": "",
+        "zipcode": "78850-000"
+    }
+]

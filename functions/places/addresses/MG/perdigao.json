@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Perdigão",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35545-000"
+    },
+    {
+        "city": "Perdigão",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Doutor Geraldo Caetano Brandão 254  AC Perdigão",
+        "zipcode": "35545-970"
+    },
+    {
+        "city": "Perdigão",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Doutor Geraldo Caetano Brandão 254",
+        "zipcode": "35515-970"
+    },
+    {
+        "city": "Perdigão",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35515-000"
+    }
+]

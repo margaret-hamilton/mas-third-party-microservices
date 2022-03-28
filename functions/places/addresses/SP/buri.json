@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Buri",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Licínio 416",
+        "zipcode": "18290-970"
+    },
+    {
+        "city": "Buri",
+        "state": "SP",
+        "district": "Indaiatuba/Matão",
+        "street": "Estrada Municipal s/n",
+        "zipcode": "18290-971"
+    },
+    {
+        "city": "Buri",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18290-000"
+    },
+    {
+        "city": "Buri",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Carlos Riedel",
+        "zipcode": "18295-990"
+    }
+]

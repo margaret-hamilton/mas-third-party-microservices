@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Palmares do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Luis Silveira",
+        "zipcode": "95540-970"
+    },
+    {
+        "city": "Palmares do Sul",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95540-000"
+    },
+    {
+        "city": "Palmares do Sul",
+        "state": "RS",
+        "district": "Casa Velha",
+        "street": "",
+        "zipcode": "95546-000"
+    },
+    {
+        "city": "Palmares do Sul",
+        "state": "RS",
+        "district": "Granja Vargas",
+        "street": "Rua Divisa de Palmares",
+        "zipcode": "95540-974"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Barra do Rocha",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Otávio Mangabeira 01",
+        "zipcode": "45560-970"
+    },
+    {
+        "city": "Barra do Rocha",
+        "state": "BA",
+        "district": null,
+        "street": "Rua G",
+        "zipcode": "45560-990"
+    },
+    {
+        "city": "Barra do Rocha",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45560-000"
+    },
+    {
+        "city": "Barra do Rocha",
+        "state": "BA",
+        "district": null,
+        "street": "Praça Idelbrando Ribeiro",
+        "zipcode": "45560-991"
+    }
+]

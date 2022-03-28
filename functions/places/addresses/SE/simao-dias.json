@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Simão Dias",
+        "state": "SE",
+        "district": "Centro",
+        "street": "Avenida Coronel Loyola 19",
+        "zipcode": "49480-970"
+    },
+    {
+        "city": "Simão Dias",
+        "state": "SE",
+        "district": "",
+        "street": "",
+        "zipcode": "49480-000"
+    },
+    {
+        "city": "Simão Dias",
+        "state": "SE",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "49480-990"
+    }
+]

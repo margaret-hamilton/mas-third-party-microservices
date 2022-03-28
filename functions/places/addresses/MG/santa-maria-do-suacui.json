@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Santa Maria do Suaçuí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Nacib Raydan 176",
+        "zipcode": "39780-970"
+    },
+    {
+        "city": "Santa Maria do Suaçuí",
+        "state": "MG",
+        "district": "Brejo de Minas",
+        "street": "Rua Ouro Branco s/n",
+        "zipcode": "39780-971"
+    },
+    {
+        "city": "Santa Maria do Suaçuí",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39780-000"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Gramadinho (Itapetininga)",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Elias Jorge Daniel 56",
+        "zipcode": "18218-970"
+    },
+    {
+        "city": "Gramadinho (Itapetininga)",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18218-000"
+    },
+    {
+        "city": "Gramadinho (Itapetininga)",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Elias Jorge Daniel",
+        "zipcode": "18218-990"
+    }
+]

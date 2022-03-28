@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Orlândia",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Quatro 351",
+        "zipcode": "14620-970"
+    },
+    {
+        "city": "Orlândia",
+        "state": "SP",
+        "district": "Jardim Boa Vista",
+        "street": "Rua Quatro 707",
+        "zipcode": "14620-971"
+    },
+    {
+        "city": "Orlândia",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "14620-000"
+    },
+    {
+        "city": "Orlândia",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Doze",
+        "zipcode": "14620-972"
+    }
+]

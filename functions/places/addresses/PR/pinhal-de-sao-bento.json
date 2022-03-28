@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pinhal de São Bento",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida São Roque",
+        "zipcode": "85727-970"
+    },
+    {
+        "city": "Pinhal de São Bento",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Mato Grosso 106",
+        "zipcode": "85727-971"
+    },
+    {
+        "city": "Pinhal de São Bento",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85727-000"
+    },
+    {
+        "city": "Pinhal de São Bento",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida São Roque",
+        "zipcode": "85727-990"
+    }
+]

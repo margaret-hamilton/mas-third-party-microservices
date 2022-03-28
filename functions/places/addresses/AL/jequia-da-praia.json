@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Jequiá da Praia",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57255-000"
+    },
+    {
+        "city": "Jequiá da Praia",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Travessa Boa Vista 423  AC Jequiá da Praia",
+        "zipcode": "57255-970"
+    },
+    {
+        "city": "Jequiá da Praia",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Travessa Boa Vista 423",
+        "zipcode": "57244-970"
+    },
+    {
+        "city": "Jequiá da Praia",
+        "state": "AL",
+        "district": null,
+        "street": null,
+        "zipcode": "57244-000"
+    }
+]

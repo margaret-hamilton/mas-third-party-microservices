@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Rancho Alegre dOeste",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Porto Alegre",
+        "zipcode": "87395-970"
+    },
+    {
+        "city": "Rancho Alegre dOeste",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Porto Alegre",
+        "zipcode": "87395-971"
+    },
+    {
+        "city": "Rancho Alegre dOeste",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Porto Alegre",
+        "zipcode": "87395-990"
+    },
+    {
+        "city": "Rancho Alegre dOeste",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87395-000"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Tapiraí",
+        "state": "SP",
+        "district": "Turvo",
+        "street": "Avenida Anthemo Victório Pilan 170",
+        "zipcode": "18180-971"
+    },
+    {
+        "city": "Tapiraí",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Santa Catarina 190",
+        "zipcode": "18180-970"
+    },
+    {
+        "city": "Tapiraí",
+        "state": "SP",
+        "district": null,
+        "street": null,
+        "zipcode": "18180-000"
+    },
+    {
+        "city": "Tapiraí",
+        "state": "SP",
+        "district": null,
+        "street": "Avenida José Garcia de Salles",
+        "zipcode": "18180-990"
+    }
+]

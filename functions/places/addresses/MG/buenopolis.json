@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Buenópolis",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida JK 353",
+        "zipcode": "39230-970"
+    },
+    {
+        "city": "Buenópolis",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39230-000"
+    }
+]

@@ -1,0 +1,5371 @@
+[
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Catarina Maria Passos",
+        "zipcode": "35300-299"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Alfredo Teixeira de Siqueira",
+        "zipcode": "35300-512"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua José Horácio Alves",
+        "zipcode": "35304-019"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Barro Branco",
+        "street": "Rua Carlos Eduardo de Almeida Lopes",
+        "zipcode": "35302-701"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Adair Lourenço da Silva",
+        "zipcode": "35300-470"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa Ramilo Caetano",
+        "zipcode": "35303-207"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Itaúna",
+        "street": "Rua João Silvestre Gomes",
+        "zipcode": "35300-409"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Alameda Matinha",
+        "zipcode": "35305-014"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Sapucaia",
+        "zipcode": "35302-455"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Vila G",
+        "zipcode": "35301-012"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Alcides Fernandes Oliveira",
+        "zipcode": "35300-438"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Acesso para AABB",
+        "zipcode": "35305-022"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Área Rural de Caratinga",
+        "street": "Área Rural",
+        "zipcode": "35309-899"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Amélia Godinho",
+        "zipcode": "35300-002"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Francisco de Assis",
+        "zipcode": "35300-003"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Correa Matos",
+        "zipcode": "35300-001"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Getúlio Vargas",
+        "zipcode": "35300-034"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Praça Padre Colombo",
+        "zipcode": "35300-186"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Alceu Cristiano da Silva",
+        "zipcode": "35300-231"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Avenida Ernestino Gomes Costa",
+        "zipcode": "35300-254"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Antônio da Silva",
+        "zipcode": "35300-032"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Herculano Leite de Matos",
+        "zipcode": "35300-052"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Arnaldo da Silva Fernandes",
+        "zipcode": "35300-015"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Deputado José Augusto Ferreira Filho",
+        "zipcode": "35300-016"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua João Pinheiro",
+        "zipcode": "35300-037"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Dona Osmira Muniz",
+        "zipcode": "35300-138"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua João Batista da Cruz",
+        "zipcode": "35300-165"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Jaguanharo da Silveira",
+        "zipcode": "35300-215"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua João Pipote",
+        "zipcode": "35300-219"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua José Augusto Prais",
+        "zipcode": "35300-260"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Major Carlos Teixeira",
+        "zipcode": "35300-051"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Vila Sebastião Lino Santana",
+        "zipcode": "35300-082"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Sargento Alcino",
+        "zipcode": "35300-122"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Lúcio Antônio Tomé",
+        "zipcode": "35300-132"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Petrina de Souza Barros",
+        "zipcode": "35300-192"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Pedro Batista do Nascimento",
+        "zipcode": "35300-229"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Lamartine",
+        "zipcode": "35300-244"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa Margarida Teixeira",
+        "zipcode": "35300-023"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Maria do Carmo Ribeiro",
+        "zipcode": "35300-027"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Hott",
+        "zipcode": "35300-043"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Gardoni",
+        "zipcode": "35300-064"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Almeida Ferreira",
+        "zipcode": "35300-077"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila João Venâncio",
+        "zipcode": "35300-081"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa Bahia",
+        "zipcode": "35300-094"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa Portes",
+        "zipcode": "35300-080"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Travessa do Comércio",
+        "zipcode": "35300-133"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa Egídio Gregório de Freitas",
+        "zipcode": "35300-142"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Rezende Fernandes",
+        "zipcode": "35300-088"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Vasconcelos",
+        "zipcode": "35300-041"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Vorondon",
+        "zipcode": "35300-146"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Modesto",
+        "zipcode": "35300-079"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "35300-085"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Benito Porcaro",
+        "zipcode": "35300-117"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Córrego da Matinha",
+        "zipcode": "35300-356"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Spínola",
+        "zipcode": "35300-383"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Pedro Martins",
+        "zipcode": "35300-040"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Lázaro do Val",
+        "zipcode": "35300-060"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Raimundo Brum",
+        "zipcode": "35300-134"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Oliveira Lopes",
+        "zipcode": "35300-148"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Jorge Teixeira Siqueira",
+        "zipcode": "35300-218"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Antônio de Assis",
+        "zipcode": "35300-268"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Antônia Vieira de Oliveira",
+        "zipcode": "35300-326"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Moacir de Matos",
+        "zipcode": "35300-396"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Avenida João Caetano Nascimento",
+        "zipcode": "35300-500"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Avenida João Caetano Nascimento",
+        "zipcode": "35300-521"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-543"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Olegário Maciel",
+        "zipcode": "35300-365"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-601"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Inspetor Danilo Capela",
+        "zipcode": "35300-280"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua Joaquim Teixeira",
+        "zipcode": "35300-346"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Jequitibá",
+        "zipcode": "35300-410"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua José de Oliveira Cunha",
+        "zipcode": "35300-417"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Embaúbas",
+        "zipcode": "35300-440"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Auro José da Mata",
+        "zipcode": "35300-450"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Doutor Jamir Alves Pontes",
+        "zipcode": "35301-005"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Cristiano Teixeira do Carmo",
+        "zipcode": "35300-135"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua José Alves Pereira",
+        "zipcode": "35300-187"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Frei Carlos Fratini",
+        "zipcode": "35300-334"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua João Carlos Caetano",
+        "zipcode": "35302-208"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Tomaz Cimini",
+        "zipcode": "35300-279"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Vereador Orestes Paiva",
+        "zipcode": "35300-258"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Zemira Augusta Gomes",
+        "zipcode": "35300-265"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Sebastião Armando dos Santos",
+        "zipcode": "35300-488"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Laudelina Maria de Jesus",
+        "zipcode": "35302-007"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Juvenato Vidal de Sousa",
+        "zipcode": "35302-216"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Sebastião Cirilo Veloso",
+        "zipcode": "35302-248"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Rua Juca Lopes",
+        "zipcode": "35302-258"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Vila Dona Tunica",
+        "zipcode": "35300-287"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Vila Nossa Senhora Aparecida",
+        "zipcode": "35300-354"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa João Sérgio Lopes",
+        "zipcode": "35300-519"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa Sidenil Ferreira",
+        "zipcode": "35301-018"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila José Belegard",
+        "zipcode": "35301-310"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa Ramiro Caetano",
+        "zipcode": "35300-156"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila Lacerda",
+        "zipcode": "35300-171"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Vila Geraldo Cevidames",
+        "zipcode": "35300-257"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Vila Joana Fernandes",
+        "zipcode": "35300-338"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Santo Expedito",
+        "zipcode": "35300-322"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Vicente Vieira da Cunha",
+        "zipcode": "35300-487"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua do Santuário",
+        "zipcode": "35300-267"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Geraldo Canova",
+        "zipcode": "35300-387"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa Benvindo José da Silveira",
+        "zipcode": "35300-391"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Lacyl Peres Rodrigues",
+        "zipcode": "35302-203"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Carlos Frantini",
+        "zipcode": "35302-204"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila José",
+        "zipcode": "35302-241"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Escadaria Gastão Corrêa Coelho",
+        "zipcode": "35303-080"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Escadaria José Vergílio de Oliveira",
+        "zipcode": "35303-201"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Álvaro da Silveira Neres",
+        "zipcode": "35304-050"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Praça Antônio Rodrigues",
+        "zipcode": "35304-601"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Praça Manoel Ribeiro Sobrinho",
+        "zipcode": "35300-269"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-574"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Izaltino Silveira da Mata",
+        "street": "Rua André de Oliveira Valadão",
+        "zipcode": "35300-751"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Rua Geraldo Assis Barreto",
+        "zipcode": "35302-274"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Rubens Gomes",
+        "zipcode": "35302-405"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Pinheiro",
+        "zipcode": "35302-440"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila São Pedro",
+        "zipcode": "35302-540"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Travessa Waldemiro Moreira da Silva",
+        "zipcode": "35302-370"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua Mariana da Silva Araújo Lisbôa",
+        "zipcode": "35302-630"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Francisca de Souza Rezende",
+        "zipcode": "35303-002"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua José Simeão",
+        "zipcode": "35303-035"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Alvorada (Santo Antônio)",
+        "street": "Rua Verotides Sebastião de Andrade",
+        "zipcode": "35303-095"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Olinto Augusto Barbosa",
+        "zipcode": "35303-113"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua João Isabel da Silva",
+        "zipcode": "35303-416"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Waldevino Alexandre da Silva",
+        "zipcode": "35303-440"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Leonídia Isabel Dutra",
+        "zipcode": "35304-057"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua José P. Timóteo",
+        "zipcode": "35304-428"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Maria Augusta de Matos",
+        "zipcode": "35304-621"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Itaipava",
+        "zipcode": "35304-627"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Raimundo Ambrósio",
+        "zipcode": "35304-633"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Deiza Raimunda Elias",
+        "zipcode": "35304-648"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua João Etiene Arreguy",
+        "zipcode": "35305-007"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua José Alamar Brandão",
+        "zipcode": "35305-050"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Travessa Adolfo Balbino",
+        "zipcode": "35300-175"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Travessa Padre Raul Mota de Oliveira",
+        "zipcode": "35300-176"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua do Seminário",
+        "zipcode": "35300-266"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua Raimundo Pereira da Cruz",
+        "zipcode": "35300-977"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Maria Gabriela de Jesus",
+        "zipcode": "35302-214"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Travessa Bouganville",
+        "zipcode": "35302-462"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua José Gonçalves Rodrigues",
+        "zipcode": "35303-401"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Maria Alice de Paula",
+        "zipcode": "35304-430"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Moacyr da Silva Fernandes",
+        "zipcode": "35302-468"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Alvorada (Santo Antônio)",
+        "street": "Rua Maria Rodrigues Gomes",
+        "zipcode": "35303-092"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Monte Líbano",
+        "street": "Rua J",
+        "zipcode": "35303-132"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Carlos Eduardo de Almeida Lopes",
+        "zipcode": "35303-405"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Vila José Silvério",
+        "zipcode": "35304-030"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila João Caetano",
+        "zipcode": "35301-360"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua Fernando da Silva Araújo",
+        "zipcode": "35302-614"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Monsenhor Rocha",
+        "zipcode": "35300-370"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Praça Calógeras",
+        "zipcode": "35300-004"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Oiti",
+        "zipcode": "35300-422"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua O",
+        "zipcode": "35303-029"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa Viçosa",
+        "zipcode": "35303-210"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Benedito Valadares",
+        "zipcode": "35300-035"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-101"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-102"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Ladeira Maria Felícia",
+        "zipcode": "35300-061"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Escada Joaquim Mota",
+        "zipcode": "35300-073"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Praça Marta Carlli",
+        "zipcode": "35300-184"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Monte Líbano",
+        "street": "Rua B",
+        "zipcode": "35303-103"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora das Graças",
+        "street": "Avenida Geraldo Ribeiro de Sá",
+        "zipcode": "35300-355"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Adolfo de Matos",
+        "zipcode": "35300-168"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Doutor Maninho",
+        "zipcode": "35300-019"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Juquinha Maria",
+        "zipcode": "35300-013"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Raul Soares",
+        "zipcode": "35300-020"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua H",
+        "zipcode": "35303-021"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Vila Batista",
+        "zipcode": "35300-006"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Vila Heroína",
+        "zipcode": "35300-017"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Vila Nossa Senhora das Graças",
+        "zipcode": "35300-018"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Coronel Antônio Salim",
+        "zipcode": "35300-010"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Lalato Maria",
+        "zipcode": "35300-012"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Antônio Catuca",
+        "zipcode": "35300-014"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Q",
+        "zipcode": "35304-647"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Cedro",
+        "zipcode": "35302-444"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Otávio Rezende",
+        "zipcode": "35300-026"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Maria Eugênia da Silva",
+        "zipcode": "35300-150"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Maria Catarina Cimini",
+        "zipcode": "35300-030"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Antônio Cimini",
+        "zipcode": "35300-275"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Antônio de Medeiros",
+        "zipcode": "35300-293"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Avenida Monsenhor Aristides Rocha",
+        "zipcode": "35300-344"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Moacir de Matos",
+        "zipcode": "35300-399"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Praça da Madeira",
+        "zipcode": "35300-437"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Avenida José Orlando Cotta",
+        "zipcode": "35300-484"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Maria Catarina Cimini",
+        "zipcode": "35300-397"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-545"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Passagem de Pedestres Wilson Ferreira dos Santos",
+        "zipcode": "35302-040"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Praça Geraldo Godinho",
+        "zipcode": "35302-280"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Antônio Genelhu Corrêa",
+        "zipcode": "35302-492"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Praça Willaim Klepper Wutke",
+        "zipcode": "35303-050"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Antônio Boaventura de Carvalho",
+        "zipcode": "35304-615"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Avenida José Ferreira",
+        "zipcode": "35305-002"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-576"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Breno Mourão",
+        "zipcode": "35300-118"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Coronel Antônio Saturnino",
+        "zipcode": "35300-124"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Arnout Monteiro",
+        "zipcode": "35300-131"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Coronel Chiquinho",
+        "zipcode": "35300-202"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Almiro de Freitas Valadares",
+        "zipcode": "35300-130"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Ângelo Porcaro",
+        "zipcode": "35300-207"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Aldegundes de Araújo Nunes",
+        "zipcode": "35300-301"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Arnando Corrêa de Faria",
+        "zipcode": "35304-021"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Avenida João Caetano Nascimento",
+        "zipcode": "35300-503"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Agenor Evaristo do Nascimento",
+        "zipcode": "35302-015"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Praça Matriz",
+        "zipcode": "35305-001"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua D",
+        "zipcode": "35300-240"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Dois",
+        "zipcode": "35300-305"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Major José Belegard",
+        "zipcode": "35300-055"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa Nenen Silva",
+        "zipcode": "35300-068"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Quatro",
+        "zipcode": "35300-307"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila São João Batista",
+        "zipcode": "35300-044"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Córrego Seco",
+        "zipcode": "35300-357"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Silvestre da Cruz",
+        "zipcode": "35300-317"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "35300-057"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Três",
+        "zipcode": "35300-306"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Um",
+        "zipcode": "35300-304"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua José Blegard",
+        "zipcode": "35301-009"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Belvedere",
+        "zipcode": "35304-450"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua E",
+        "zipcode": "35303-013"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua B",
+        "zipcode": "35303-017"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua I",
+        "zipcode": "35303-023"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua L",
+        "zipcode": "35303-027"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Lindolfo Soares de Carvalho",
+        "zipcode": "35303-003"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Osmira Muniz",
+        "zipcode": "35301-303"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Manhumirim",
+        "zipcode": "35303-230"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Sargento Sebastião Nivaldo Amaro",
+        "zipcode": "35300-099"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Dom Pedro II",
+        "zipcode": "35300-033"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Amós Batista Carlos",
+        "zipcode": "35300-031"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Cesário Alvim",
+        "zipcode": "35300-036"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Moacir de Matos",
+        "zipcode": "35300-047"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Abre Campo",
+        "zipcode": "35300-227"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Praça Coronel Rafael Silva Araújo",
+        "zipcode": "35300-255"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Moacir de Matos",
+        "zipcode": "35300-394"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Escadaria Alcides Leite de Matos",
+        "zipcode": "35300-395"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-541"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-573"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Avenida Professor Armando da Silva",
+        "zipcode": "35302-403"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Escadaria Monsenhor Chiquinho",
+        "zipcode": "35304-018"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Escada Amare Emílio",
+        "zipcode": "35304-040"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Avenida João Caetano Nascimento",
+        "zipcode": "35300-523"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel José Pinto Correia",
+        "zipcode": "35300-095"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Cabo Geraldo",
+        "zipcode": "35300-114"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Dona Julica",
+        "zipcode": "35300-038"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Ignácio Thomé",
+        "zipcode": "35300-062"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Antônio Neves",
+        "zipcode": "35300-213"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Dona Leleca",
+        "zipcode": "35300-214"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Comunitário Conquista III",
+        "street": "Rua Divina das Dores Carvalho",
+        "zipcode": "35300-708"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua José Fulgêncio",
+        "zipcode": "35302-414"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Aroeira",
+        "zipcode": "35302-435"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Moçambique",
+        "zipcode": "35300-066"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Mariquinha Silva Araújo",
+        "zipcode": "35300-113"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Miguel de Castro",
+        "zipcode": "35300-028"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Leandro Martins Costa",
+        "zipcode": "35300-107"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila José Ligeiro",
+        "zipcode": "35300-025"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Travessa Omar Coutinho",
+        "zipcode": "35300-056"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Barros",
+        "zipcode": "35300-067"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa Jorge Coura Filho",
+        "zipcode": "35300-071"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Guarany",
+        "zipcode": "35300-084"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Mesquita",
+        "zipcode": "35300-200"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila Nossa Senhora do Rosário",
+        "zipcode": "35300-263"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Paulo Afonso",
+        "zipcode": "35300-078"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Jussara Maria",
+        "zipcode": "35300-021"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-976"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-571"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Vila Frei Carlos",
+        "zipcode": "35302-202"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Jatobá",
+        "zipcode": "35302-453"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Ponte Geraldo Ribeiro de Sá",
+        "zipcode": "35305-024"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa Sebastião Nestor",
+        "zipcode": "35301-010"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Crioula",
+        "zipcode": "35302-401"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua D",
+        "zipcode": "35304-618"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Bálsamo",
+        "zipcode": "35302-438"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Maçaranduba",
+        "zipcode": "35302-454"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Nadir Pereira Godinho",
+        "zipcode": "35302-476"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa João Pontes",
+        "zipcode": "35303-212"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Bela Vista",
+        "zipcode": "35304-051"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Praça Antônio Rodrigues",
+        "zipcode": "35303-410"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Doutora Iza de Souza Lucas",
+        "zipcode": "35300-141"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Emília Mota",
+        "zipcode": "35300-178"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua José Neto Pagy",
+        "zipcode": "35300-190"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua João Tiola",
+        "zipcode": "35300-204"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Diógenes Vidigal",
+        "zipcode": "35300-225"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Diamantina",
+        "zipcode": "35300-232"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua dos Operários",
+        "zipcode": "35300-245"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Rua Frei Venâncio",
+        "zipcode": "35300-251"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Hilda Coelho Guimarães",
+        "zipcode": "35300-270"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Paraná",
+        "zipcode": "35300-300"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Eliane Tiola",
+        "zipcode": "35300-157"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Nestor Leite de Matos",
+        "zipcode": "35300-050"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Vereador Lindolfo Soares Carvalho",
+        "zipcode": "35300-140"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Leontina Fernandes",
+        "zipcode": "35300-180"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Juca Vasconcelos",
+        "zipcode": "35300-193"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua José Trindade Bento",
+        "zipcode": "35300-197"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Maria Conceição Teixeira",
+        "zipcode": "35300-206"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua José Silvério Vieira",
+        "zipcode": "35300-230"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Padre Vigilato",
+        "zipcode": "35300-249"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Santo Antônio",
+        "zipcode": "35300-145"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Militar",
+        "zipcode": "35300-151"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Carlos Alberto de Matos",
+        "zipcode": "35300-086"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Espínola",
+        "zipcode": "35300-087"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Nascimento",
+        "zipcode": "35300-090"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Onze",
+        "zipcode": "35300-100"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Vila N",
+        "zipcode": "35300-110"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa Tatão Nestor",
+        "zipcode": "35300-119"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Agapito",
+        "zipcode": "35300-042"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa João Coutinho",
+        "zipcode": "35300-058"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Dom Carloto",
+        "zipcode": "35300-083"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Vila do Russo",
+        "zipcode": "35300-108"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa José Vítor da Silva",
+        "zipcode": "35300-128"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa Juca Muniz",
+        "zipcode": "35300-143"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Travessa Ipanema",
+        "zipcode": "35300-169"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila Francisco Teodolino de Oliveira",
+        "zipcode": "35300-179"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Cristo Redentor",
+        "zipcode": "35300-209"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Barroso",
+        "zipcode": "35300-222"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Olga",
+        "zipcode": "35300-242"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Travessa São Geraldo",
+        "zipcode": "35300-246"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Oliveira Lopes",
+        "zipcode": "35300-320"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Travessa José Amâncio",
+        "zipcode": "35300-174"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Espera Feliz",
+        "zipcode": "35300-185"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Valentim",
+        "zipcode": "35300-065"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Silveira",
+        "zipcode": "35300-201"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Wladimir Silva Araújo",
+        "zipcode": "35300-239"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa JK",
+        "zipcode": "35300-096"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Doutor Maninho",
+        "zipcode": "35300-188"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "35300-340"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Polivalente",
+        "zipcode": "35300-123"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Córrego do Aeroporto",
+        "zipcode": "35300-358"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Travessa Ernestino Gomes da Costa",
+        "zipcode": "35300-164"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Leonardo da Costa",
+        "zipcode": "35303-270"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa Maria Madalena",
+        "zipcode": "35303-428"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Vila Aparecida",
+        "zipcode": "35305-008"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa Filomena Gardoni",
+        "zipcode": "35300-059"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Joaquim Araújo Torres",
+        "zipcode": "35300-216"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Cabiúna",
+        "zipcode": "35303-221"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Escada José F. Maia",
+        "zipcode": "35301-307"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Jornalista Leonel Fontoura",
+        "zipcode": "35300-120"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Capitão Paiva",
+        "zipcode": "35300-125"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Doutor José de Paula Maciel",
+        "zipcode": "35300-029"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua João Cavati Sobrinho",
+        "zipcode": "35300-194"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Eurico Ladeira Loures",
+        "zipcode": "35300-223"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Doutor João Gomes Valadares Filho",
+        "zipcode": "35300-276"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Guilhermon E. Nascimento",
+        "zipcode": "35300-277"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Francisco Alves",
+        "zipcode": "35300-285"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua Joaquim José Botelho",
+        "zipcode": "35300-348"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Carlos Drumond de Andrade",
+        "zipcode": "35300-367"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Guaribú",
+        "zipcode": "35300-413"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Braúna",
+        "zipcode": "35300-416"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Francisco Ciríaco de Carvalho",
+        "zipcode": "35300-234"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Augusto Prais",
+        "zipcode": "35300-259"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "35300-074"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Raimunda Lopes da Cunha",
+        "zipcode": "35300-106"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Professora Mariana Azevedo Leitão",
+        "zipcode": "35300-170"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Luiz Antônio Bastos Cortes",
+        "zipcode": "35300-274"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Tupy",
+        "zipcode": "35300-282"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Pedro Mourão",
+        "zipcode": "35300-292"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Zeferino Ferreira Neto",
+        "zipcode": "35300-294"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Prachedes do Nascimento",
+        "zipcode": "35300-298"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Pedro Faiçal",
+        "zipcode": "35300-303"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Maria Ignez de Araújo Abreu",
+        "zipcode": "35300-308"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Paulina Miranda",
+        "zipcode": "35300-323"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Maria Cimini",
+        "zipcode": "35300-325"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Sinfrônio Miranda",
+        "zipcode": "35300-336"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Taguatinga",
+        "zipcode": "35300-261"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Onofre Barbosa",
+        "zipcode": "35300-332"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "35300-342"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Nossa Senhora do Rosário",
+        "zipcode": "35300-045"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Matipó",
+        "zipcode": "35300-220"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Garcia",
+        "zipcode": "35300-330"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Travessa Joaquim Vieira",
+        "zipcode": "35300-350"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Paiva",
+        "zipcode": "35300-381"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Lolo",
+        "zipcode": "35300-153"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila José Onofre",
+        "zipcode": "35300-160"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Miranda",
+        "zipcode": "35300-182"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Adelaide",
+        "zipcode": "35300-210"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Travessa Jair Fraga Galofante",
+        "zipcode": "35300-253"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Salomão",
+        "zipcode": "35300-313"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Silvério",
+        "zipcode": "35300-318"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Vila Souza",
+        "zipcode": "35300-256"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Soares",
+        "zipcode": "35300-337"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Paulo VI",
+        "zipcode": "35300-155"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Maria Rosa",
+        "zipcode": "35300-281"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Quincas Carroceiro",
+        "zipcode": "35300-316"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Ibisco",
+        "zipcode": "35300-425"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Andrade",
+        "zipcode": "35300-385"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Maria Celestina de Jesus",
+        "zipcode": "35302-494"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Washington Ferreira",
+        "zipcode": "35300-272"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Praça Felipe M. Caldas",
+        "zipcode": "35302-001"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Almiro Cristiano Alves",
+        "zipcode": "35303-412"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Francisco Geraldo da Silva",
+        "zipcode": "35300-162"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Generoso Cevidanes",
+        "zipcode": "35300-195"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Januário Luiz Soares",
+        "zipcode": "35300-203"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Coronel Fabriciano",
+        "zipcode": "35300-224"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua José André do Nascimento",
+        "zipcode": "35300-228"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua João da Silva Araújo",
+        "zipcode": "35300-238"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua José Martins Teixeira",
+        "zipcode": "35302-207"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Wanderley de Souza",
+        "zipcode": "35300-054"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Rua Moacir Maria",
+        "zipcode": "35300-163"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Tuffi Chalabi",
+        "zipcode": "35300-191"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Vereador Raimundo Nonato",
+        "zipcode": "35300-208"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Rua Rita Viana Fernandes",
+        "zipcode": "35300-252"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Santinho de Souza",
+        "zipcode": "35300-496"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Manoel Vitorino",
+        "zipcode": "35301-007"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua José Teixeira de Siqueira",
+        "zipcode": "35300-152"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Josefina Dorotéia Nunes",
+        "zipcode": "35302-009"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Santa Luzia",
+        "zipcode": "35302-245"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Sebastião Anacleto Miranda",
+        "zipcode": "35302-260"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Rua Nenem Silva",
+        "zipcode": "35302-270"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Rua Maria Raimunda Soares Pimenta",
+        "zipcode": "35302-273"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Rua Sebastião Lourenço",
+        "zipcode": "35302-276"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Paixão",
+        "zipcode": "35302-409"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Pau Brasil",
+        "zipcode": "35302-439"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Raymundo Cimini",
+        "zipcode": "35302-465"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa José Santana",
+        "zipcode": "35300-092"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa Jaider Matias",
+        "zipcode": "35300-111"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa Capitão Inhote",
+        "zipcode": "35300-115"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Almeida Soares",
+        "zipcode": "35300-069"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Galileu Almeida Coutinho",
+        "zipcode": "35300-070"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Lajinha",
+        "zipcode": "35300-183"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa José Mota",
+        "zipcode": "35300-212"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Travessa Gameleira",
+        "zipcode": "35300-431"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Travessa Olinto",
+        "zipcode": "35301-318"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Rama Oito",
+        "zipcode": "35300-097"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua Raimundo Pereira da Cruz",
+        "zipcode": "35300-352"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Costa",
+        "zipcode": "35300-361"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Mansur",
+        "zipcode": "35300-389"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Silvestre Pereira da Cruz",
+        "zipcode": "35302-201"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua José Miranda",
+        "zipcode": "35302-220"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua São José",
+        "zipcode": "35303-019"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua G",
+        "zipcode": "35304-061"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Maria Aparecida da Silva",
+        "zipcode": "35304-063"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua K",
+        "zipcode": "35304-065"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Edmea Mendes",
+        "zipcode": "35304-071"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa Antônio",
+        "zipcode": "35301-021"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Geraldo Cevidanes",
+        "zipcode": "35302-256"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Amélia Pereira Azevedo",
+        "zipcode": "35302-424"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Copaíba",
+        "zipcode": "35302-446"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Boa Vista",
+        "zipcode": "35304-611"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Tiradentes",
+        "zipcode": "35300-144"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Delfim Azevedo",
+        "zipcode": "35302-430"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua C",
+        "zipcode": "35304-053"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Antônio Alves",
+        "zipcode": "35300-243"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Engenheiro Herbert",
+        "zipcode": "35300-273"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Áurea Rezende Coutinho",
+        "zipcode": "35300-291"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Jorcelino Miranda",
+        "zipcode": "35300-324"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua José Caetano Filho",
+        "zipcode": "35300-449"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Delvair de Paula Junqueira",
+        "zipcode": "35300-801"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua João Vieira Loures",
+        "zipcode": "35300-349"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua João Silvestre Gomes",
+        "zipcode": "35300-456"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Dalila Porto da Silva",
+        "zipcode": "35300-506"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Geraldo Pereira de Sousa",
+        "zipcode": "35300-562"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Rita de Cássia Tassar",
+        "zipcode": "35300-296"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Laudelina de Moura Matos",
+        "zipcode": "35300-444"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Zane Conceição Paula Maia de Araújo",
+        "zipcode": "35300-446"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Laura de Melo Cesário",
+        "zipcode": "35300-490"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Miguel Arcanjo Ferreira",
+        "zipcode": "35300-508"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Tapajós",
+        "zipcode": "35300-283"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Márcia de Souza Moreira Santos",
+        "zipcode": "35300-335"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Wander Lélis",
+        "zipcode": "35300-341"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Marçal de Almeida Soares",
+        "zipcode": "35300-480"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Urbano Mattos",
+        "zipcode": "35300-494"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Alves",
+        "zipcode": "35300-247"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Travessa Taguatinga",
+        "zipcode": "35300-262"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Francisco Lopes",
+        "zipcode": "35300-329"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Ana Fernandes",
+        "zipcode": "35300-376"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Travessa Jacarandá",
+        "zipcode": "35300-428"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Travessa Mariana Capela",
+        "zipcode": "35300-460"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Cabo Noé Comemorável",
+        "zipcode": "35300-486"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Travessa José Antônio da Silva",
+        "zipcode": "35300-550"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Travessa Antônio Pereira de Assis",
+        "zipcode": "35301-330"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa Santa Fé",
+        "zipcode": "35300-154"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Vila Roberto Neves Matos",
+        "zipcode": "35301-014"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila São Jorge",
+        "zipcode": "35300-374"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila São Francisco",
+        "zipcode": "35300-566"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Ventura",
+        "zipcode": "35302-209"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Placides",
+        "zipcode": "35303-409"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Vila Maria Pimenta",
+        "zipcode": "35300-319"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua João F. Silva",
+        "zipcode": "35301-305"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Elcina Costa Arreguy",
+        "zipcode": "35300-368"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Travessa José Ataíde de Oliveira",
+        "zipcode": "35300-559"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Dorcelina Rosa de Sá",
+        "zipcode": "35302-205"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Padre Bruno Conrado List",
+        "zipcode": "35303-012"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Roberto Alves de Sousa",
+        "zipcode": "35303-110"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Geraldo Lomeu Bastos",
+        "zipcode": "35303-125"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Vila Nogueira",
+        "zipcode": "35304-201"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Aldo Fernandes Júnior",
+        "zipcode": "35304-214"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Travessa Hélio Azevedo",
+        "zipcode": "35302-422"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Sucupira",
+        "zipcode": "35302-460"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Isabel",
+        "zipcode": "35303-226"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Professor Colombo Etienne Arreguy",
+        "zipcode": "35300-172"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Joaquim Paulo dos Santos",
+        "zipcode": "35303-422"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Ozanã",
+        "zipcode": "35303-406"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Um",
+        "zipcode": "35303-414"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Antônio Monteiro de Rezende",
+        "zipcode": "35300-105"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Escadaria Sebastião Garcia Neto",
+        "zipcode": "35302-213"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Andiróba",
+        "zipcode": "35302-433"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Praça Keila Cristina Alves",
+        "zipcode": "35303-402"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Praça das Flores",
+        "zipcode": "35300-564"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Coronel Galdino Pires",
+        "zipcode": "35300-048"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Augusto de Morais",
+        "zipcode": "35300-127"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Deuzina Fagundes da Silva",
+        "zipcode": "35302-006"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Francisca Cândida da Silva",
+        "zipcode": "35302-050"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Cezalpino Viana de Sousa",
+        "zipcode": "35302-264"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Flávio Elias Barbosa",
+        "zipcode": "35302-306"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua João Raimundo de Sousa",
+        "zipcode": "35302-310"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Cleuza Maria",
+        "zipcode": "35302-419"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Reverendo Boanerges de Almeida Leitão",
+        "zipcode": "35302-003"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Travessa Antônio Fernandes",
+        "zipcode": "35300-008"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Maria Olímpia",
+        "zipcode": "35300-022"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Regina da Silva Longo",
+        "zipcode": "35303-005"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila São Dimas",
+        "zipcode": "35303-006"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Pedro Pontes",
+        "zipcode": "35303-250"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila Santa Luzia",
+        "zipcode": "35302-530"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Travessa Antonio Miguel Bárbara",
+        "zipcode": "35302-350"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Travessa do Povo",
+        "zipcode": "35302-360"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Madalena Júlia Gomes",
+        "zipcode": "35302-486"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Wantuil Dutra de Carvalho",
+        "zipcode": "35302-496"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila Cruzeiro",
+        "zipcode": "35302-520"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua Doutor José Lucca Cimini",
+        "zipcode": "35302-620"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua José Geraldo da Silva Araújo",
+        "zipcode": "35302-640"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua Francisco da Silva Assis",
+        "zipcode": "35302-650"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua Marcelo Moreira Rezende de Araújo",
+        "zipcode": "35302-660"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa Oliveira Miranda",
+        "zipcode": "35303-001"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Cremildo Salva Terra",
+        "zipcode": "35303-007"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Irmã Rosa da Silveira Costa",
+        "zipcode": "35303-014"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa Santa Luzia",
+        "zipcode": "35303-060"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Elvira Maria Soares",
+        "zipcode": "35303-070"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Helena Mageste Nunes",
+        "zipcode": "35303-117"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua João Bosco Rodrigues",
+        "zipcode": "35303-128"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Adão Liberato",
+        "zipcode": "35303-430"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Jardim Francisco Pena",
+        "street": "Rua Areclides Martins",
+        "zipcode": "35303-460"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila José Inácio de Jesus",
+        "zipcode": "35304-042"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Bom Pastor",
+        "street": "Rua Trajano Avelino",
+        "zipcode": "35304-069"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Jardim Floresta",
+        "zipcode": "35304-629"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua P",
+        "zipcode": "35304-645"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Nair Gomes da Silva",
+        "zipcode": "35304-651"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua Santa Beatriz",
+        "zipcode": "35305-003"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Vila Otília Sabadine",
+        "zipcode": "35305-015"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua José Geraldo da Silva",
+        "zipcode": "35300-582"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Moacir Cimini",
+        "zipcode": "35302-470"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Túlio da Silva Farias",
+        "zipcode": "35304-055"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua José Alex Botelho",
+        "zipcode": "35305-019"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Cerejeira",
+        "zipcode": "35302-442"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Francisco Pontes",
+        "zipcode": "35303-202"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Afrânio Vieira Coimbra",
+        "zipcode": "35301-322"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Francisco Gualberto do Nascimento",
+        "zipcode": "35300-109"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua José Carlos Pereira",
+        "zipcode": "35300-129"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Deputado Dênio Moreira de Carvalho",
+        "zipcode": "35300-181"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Doutor Aluízio Muniz",
+        "zipcode": "35300-297"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Dona Zeca Chagas",
+        "zipcode": "35300-278"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Francisco Januário Lopes",
+        "zipcode": "35300-333"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Radialista Hamilton Macedo",
+        "zipcode": "35300-121"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "35300-189"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Nossa Senhora de Lourdes",
+        "zipcode": "35300-290"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Manoel Gonçalves de Castro",
+        "zipcode": "35300-321"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila Elvira",
+        "zipcode": "35300-264"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Maria das Dores Cimini",
+        "zipcode": "35300-364"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Nora Cimini Carvalho",
+        "zipcode": "35302-008"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Maria Cevidanes Gonçalves",
+        "zipcode": "35302-206"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa Coronel Santos Mestre",
+        "zipcode": "35300-089"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa José da Bia",
+        "zipcode": "35300-116"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Bibia",
+        "zipcode": "35300-046"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Vila Regina",
+        "zipcode": "35300-039"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Santa Luzia",
+        "zipcode": "35300-126"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Tereza da Silva Oliveira",
+        "zipcode": "35303-404"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Quirino Eugênio",
+        "zipcode": "35300-205"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Paulo Roberto Duarte",
+        "zipcode": "35300-482"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Professor Olinto",
+        "zipcode": "35300-166"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Bibiano Francisco da Rocha",
+        "zipcode": "35300-343"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua Sylvio da Silva Araújo",
+        "zipcode": "35302-612"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa Guardião das Palmeiras",
+        "zipcode": "35303-214"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa Maria Tereza Fernandes",
+        "zipcode": "35303-240"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Flor do Campo",
+        "zipcode": "35304-059"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Joana Alves Moreira",
+        "zipcode": "35304-066"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Vila Joaquim Abílio da Silva",
+        "zipcode": "35304-410"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Jairo Breder",
+        "zipcode": "35304-429"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Durvalina de Almeida Gomes",
+        "zipcode": "35304-432"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua José Carlos Maduro",
+        "zipcode": "35304-638"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua José Eduardo Ferreira",
+        "zipcode": "35304-640"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa Coronel Ferreira Santos",
+        "zipcode": "35300-024"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila Jacy Alves da Costa Ventura",
+        "zipcode": "35301-350"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Laércio de Oliveira Lopes",
+        "zipcode": "35302-320"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Sebastião Maximiano Genelhu",
+        "zipcode": "35302-472"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua José Fernandes Genelhu",
+        "zipcode": "35302-478"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Henrique Gonçalves",
+        "zipcode": "35302-484"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Evandro Coelho Pinto",
+        "zipcode": "35303-099"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Escadaria Sebastião Paulino",
+        "zipcode": "35303-420"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Antônio Rosa de Oliveira",
+        "zipcode": "35303-501"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua L",
+        "zipcode": "35304-067"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Maria Corrêa de Faria",
+        "zipcode": "35302-474"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Nadyr de Faria Paiva",
+        "zipcode": "35302-480"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Maria da Silva Fernandes",
+        "zipcode": "35302-482"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Navantino Dias de Oliveira",
+        "zipcode": "35302-490"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Antônio Januário",
+        "zipcode": "35304-636"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua Norma Cimini Batista",
+        "zipcode": "35302-601"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Rafael José de Lima",
+        "street": "Rua Sebastião Carmo Ribeiro",
+        "zipcode": "35302-610"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Agenor Amaro do Nascimento",
+        "zipcode": "35300-295"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Antônio Joaquim Pereira",
+        "zipcode": "35302-005"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Antônia Maria Resende Fernandes",
+        "zipcode": "35300-011"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Geraldo Alves Pinto",
+        "zipcode": "35300-049"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Antônio da Silva",
+        "zipcode": "35300-975"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Coronel José Maria Fernandes",
+        "zipcode": "35300-007"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Major Etienne Arreguy",
+        "zipcode": "35300-075"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Sebastiana Maria de Jesus",
+        "zipcode": "35300-173"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa Alfredo Teixeira de Siqueira",
+        "zipcode": "35301-015"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Sinfrônio Saturnino Gomes",
+        "zipcode": "35300-217"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Sebastião Alves Batista",
+        "zipcode": "35300-363"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Paraíba",
+        "zipcode": "35302-020"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Travessa João Mendes",
+        "zipcode": "35300-236"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Vila Jorge Cury",
+        "zipcode": "35300-271"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Vila Augusto José Lopes",
+        "zipcode": "35300-314"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Joviano José Pereira",
+        "zipcode": "35300-248"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Unida",
+        "zipcode": "35300-198"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Vila Rayane Cristian Barroso",
+        "zipcode": "35304-670"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Tadeu",
+        "zipcode": "35300-158"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Geraldo de Assis Barreto",
+        "zipcode": "35300-226"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Travessa 28 de Abril",
+        "zipcode": "35301-321"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Jurandir Fernandes da Silva",
+        "zipcode": "35302-013"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Francisco Florentino da Costa",
+        "zipcode": "35303-011"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa Orlando Policarpo Sampaio",
+        "zipcode": "35303-038"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Alvorada (Santo Antônio)",
+        "street": "Rua Jair Guilherme Batista",
+        "zipcode": "35303-093"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Alvorada (Santo Antônio)",
+        "street": "Rua Maria Rodrigues Andrade",
+        "zipcode": "35303-094"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Alvorada (Santo Antônio)",
+        "street": "Rua Divina Martins Viana",
+        "zipcode": "35303-096"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Alvorada (Santo Antônio)",
+        "street": "Rua Maria Luzia Júnior",
+        "zipcode": "35303-098"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Jovercino Lopes da Silva",
+        "zipcode": "35303-503"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Pedro Muniz Fagundes",
+        "zipcode": "35303-507"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Luiz Balalaica",
+        "zipcode": "35304-423"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua João Batista Alves",
+        "zipcode": "35304-625"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Roberto Magestes Caldas",
+        "zipcode": "35304-639"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Travessa Antonio Pedro de Amorim",
+        "zipcode": "35304-660"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua José Alexandrino Campos",
+        "zipcode": "35305-011"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua João Galdino de Freitas",
+        "zipcode": "35305-040"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Manoel Marques Valente",
+        "zipcode": "35300-149"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua João Horácio Alves",
+        "zipcode": "35300-235"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Rua Inácio Novais Fonseca",
+        "zipcode": "35300-250"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Travessa João Sabino",
+        "zipcode": "35300-351"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Thereza Assad Breder",
+        "zipcode": "35300-803"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila Gerson Pinheiro de Paiva",
+        "zipcode": "35301-314"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Ivan do Val Filho",
+        "zipcode": "35302-018"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Ipê Amarelo",
+        "zipcode": "35302-451"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua José Felisberto",
+        "zipcode": "35304-017"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Travessa Manoel de Paula",
+        "zipcode": "35304-623"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Major José Belegard",
+        "zipcode": "35300-167"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Pedro Martins",
+        "zipcode": "35300-970"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Maria Tereza Fernandes",
+        "zipcode": "35303-423"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Praça Francisco Moreira de Carvalho",
+        "zipcode": "35300-112"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Praça Frei Arcanjo Ruzzi",
+        "zipcode": "35300-237"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Alexandre Etienne Arreguy Silva",
+        "zipcode": "35303-090"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Algeny Salomé de Jesus",
+        "zipcode": "35300-807"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Iapu",
+        "zipcode": "35300-199"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Francisca Rosa",
+        "zipcode": "35300-284"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Geraldo Ribeiro de Carvalho",
+        "zipcode": "35300-492"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Eduardo Otávio Boy",
+        "zipcode": "35300-360"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Rua Cota Silva",
+        "zipcode": "35302-272"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Manoel Ribeiro Sobrino",
+        "street": "Rua Raimundo Brum",
+        "zipcode": "35300-053"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Manoel Bandeira",
+        "zipcode": "35300-241"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua São Carlos",
+        "zipcode": "35300-315"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Lucindo Carli",
+        "zipcode": "35300-327"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa Ana Corrêa da Silva",
+        "zipcode": "35300-489"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Murilo Martins do Carmo",
+        "zipcode": "35302-340"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Travessa do Português",
+        "zipcode": "35300-091"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Arnaldo Gonçalves Andrade",
+        "zipcode": "35300-093"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Travessa Pio Burgarelle",
+        "zipcode": "35300-177"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Arlindo Luiz",
+        "zipcode": "35300-328"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila José Soares de Amorim",
+        "zipcode": "35300-331"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Vila Geraldo Schetine Viana",
+        "zipcode": "35300-516"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Pentecostal",
+        "zipcode": "35300-076"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Vila São Raimundo",
+        "zipcode": "35300-286"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Travessa Geraldo Ferreira de Almeida",
+        "zipcode": "35301-016"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Travessa José Silvério Vieira",
+        "zipcode": "35300-353"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Morro Escorpião",
+        "street": "Vila José Lopes Teixeira",
+        "zipcode": "35300-609"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Marcelo Miranda",
+        "zipcode": "35302-212"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Rua Sebastião Benevenuto da Rocha",
+        "zipcode": "35302-268"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Travessa Lord Manga",
+        "zipcode": "35302-278"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila Nossa Senhora Aparecida",
+        "zipcode": "35302-600"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa Edith Dias Muniz",
+        "zipcode": "35303-040"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Monte Líbano",
+        "street": "Rua Kluck Fernandes de Oliveira",
+        "zipcode": "35303-100"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua José Gomes de Vasconcelos",
+        "zipcode": "35303-106"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Maria da Glória",
+        "street": "Rua Sargento Secundino de Souza",
+        "zipcode": "35303-120"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Travessa Fernandes Maria Olímpia",
+        "zipcode": "35303-204"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua José Onofre Rodrigues",
+        "zipcode": "35303-418"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Rua Juiz de Paz Dico Anselmo",
+        "zipcode": "35304-038"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Bom Pastor",
+        "street": "Travessa Geraldo Condé de Oliveira",
+        "zipcode": "35304-072"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Comunitário Conquista III",
+        "street": "Rua José Lopes Martins",
+        "zipcode": "35300-701"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Wilman Vieira de Faria",
+        "zipcode": "35300-805"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Cabiúna",
+        "zipcode": "35302-461"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Lair Levindo do Nascimento",
+        "zipcode": "35303-511"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Travessa Rocha",
+        "zipcode": "35300-233"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila João Antunes da Silva",
+        "zipcode": "35302-590"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Dinorah Campos Arregny",
+        "zipcode": "35303-403"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Alice Manacés Muniz",
+        "zipcode": "35303-509"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Jovina Mendes Dutra",
+        "zipcode": "35302-488"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Alvorada (Santo Antônio)",
+        "street": "Rua João Vitor Fagundes",
+        "zipcode": "35303-097"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Tãozinho Vilela",
+        "street": "Rua Giovani Maimoni Filho",
+        "zipcode": "35303-505"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua J",
+        "zipcode": "35303-025"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Rua Alberto Vieira Campos",
+        "zipcode": "35300-009"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Avenida Ana Pena de Faria",
+        "zipcode": "35300-103"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Escadaria Dona Maria Luiza Pereira",
+        "zipcode": "35300-288"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida João Caetano Nascimento",
+        "zipcode": "35300-392"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Antenor Miliano de Souza",
+        "zipcode": "35300-483"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Escada Raimundo Francisco Alves",
+        "zipcode": "35300-499"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Avenida Comendador Rafael José de Lima",
+        "zipcode": "35301-003"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Avenida Adolfo Martins",
+        "zipcode": "35301-000"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora das Graças",
+        "street": "Avenida Reverendo Uriel de Almeida Leitão",
+        "zipcode": "35302-770"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Avenida Áurea Carlos Leite de Matos",
+        "zipcode": "35303-136"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Ladeira Afonso Gomes",
+        "zipcode": "35304-212"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Avenida Miguel Resende",
+        "zipcode": "35300-347"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Antônio Araújo Cortes",
+        "zipcode": "35301-019"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Francisca Trindade de Jesus",
+        "zipcode": "35300-442"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Comunitário Conquista III",
+        "street": "Rua Israel Lopes Cassiano",
+        "zipcode": "35300-712"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Edésio Sebastião de Barros ( Pernambuco )",
+        "zipcode": "35302-262"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Pastor Edwy Melo",
+        "zipcode": "35300-309"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Travessa José Martins Guimarães",
+        "zipcode": "35300-139"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Comunitário Conquista III",
+        "street": "Rua Sebastião Inácio Fernandes",
+        "zipcode": "35300-703"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rua Niterói",
+        "zipcode": "35300-345"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Comunitário Conquista III",
+        "street": "Rua Maria Lopes de Freitas",
+        "zipcode": "35300-710"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Nelcy Alves Baia",
+        "zipcode": "35302-210"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Sebastião Gonçalves de Castro",
+        "zipcode": "35302-211"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Nilson Marinho de Souza",
+        "zipcode": "35302-215"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Travessa Doutor José Augusto",
+        "zipcode": "35300-005"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Travessa São Vicente de Paula",
+        "zipcode": "35300-196"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Vila Geraldo Magela da Silva",
+        "zipcode": "35300-481"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila Maria Moreira de Oliveira",
+        "zipcode": "35301-312"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila do Ivo",
+        "zipcode": "35301-316"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Vila Rodrigues",
+        "zipcode": "35300-159"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Santa Inêz",
+        "zipcode": "35300-393"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Sebastião Rodrigues Frade",
+        "zipcode": "35300-495"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Ubá",
+        "zipcode": "35300-221"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Santa Teresa DÁvila",
+        "zipcode": "35300-366"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Vila Raimundo Ângelo de Sales",
+        "zipcode": "35300-497"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Vila São Sebastião",
+        "zipcode": "35302-542"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Avenida Feliciano Miguel Abdalla",
+        "zipcode": "35300-434"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Vila Ubaldo José da Silva",
+        "zipcode": "35300-464"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Vila Itaúna",
+        "zipcode": "35302-290"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Escadaria Antônio Neves Baião",
+        "zipcode": "35303-036"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Maria Bonfim Teixeira",
+        "zipcode": "35303-228"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Vila Machado",
+        "zipcode": "35304-208"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Nova Conquista",
+        "zipcode": "35304-613"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Zacarias",
+        "street": "Rua Gil Comissário dos Reis",
+        "zipcode": "35305-100"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Salatiel",
+        "street": "Rua Jaider da Fonseca Frutuoso",
+        "zipcode": "35300-544"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Juca Procópio",
+        "zipcode": "35302-025"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Anápolis",
+        "street": "Praça Santa Luzia",
+        "zipcode": "35304-068"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dário Grossi",
+        "street": "Avenida Dário de Anunciação Grossi",
+        "zipcode": "35304-210"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Hermínio do Nascimento Pereira",
+        "zipcode": "35302-060"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Avenida Carlos Leite de Mattos",
+        "zipcode": "35303-399"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esperança",
+        "street": "Rua Radialista Nailton Gomes",
+        "zipcode": "35303-424"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Floresta",
+        "street": "Rua Parajú",
+        "zipcode": "35300-419"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Vila Eugênia da Silva",
+        "zipcode": "35303-004"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Raimundo Vicente Bonfim",
+        "zipcode": "35300-063"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Cruz",
+        "street": "Rua Agenário da Silva",
+        "zipcode": "35300-211"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Nossa Senhora da Conceição",
+        "zipcode": "35300-072"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Avenida João Caetano Nascimento",
+        "zipcode": "35300-104"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Ana Maria Marques de Souza",
+        "zipcode": "35300-136"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Rua Antônio Mafra",
+        "zipcode": "35300-161"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Graça",
+        "street": "Rodovia BR",
+        "zipcode": "35300-359"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Olegário Maciel",
+        "zipcode": "35300-398"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Limoeiro",
+        "street": "Praça Jones de Oliveira Pena",
+        "zipcode": "35301-001"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Márcia de Souza Moreira Santos",
+        "zipcode": "35302-390"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "35300-580"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santa Zita",
+        "street": "Rua Inspetor Danilo Capela",
+        "zipcode": "35300-310"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Vale do Sol",
+        "street": "Rua Francisco Vítor de Assis",
+        "zipcode": "35300-312"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Comunitário Conquista III",
+        "street": "Rua Ernestina Domingos de Lana",
+        "zipcode": "35300-705"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua Francisco Gomes da Luz",
+        "zipcode": "35300-147"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "José Moyses Nacif",
+        "street": "Rua Sebastião Azeredo Campos",
+        "zipcode": "35300-390"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Euclydes Etiene Arreguy Filho",
+        "zipcode": "35300-372"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Vila Pedro Rodrigues Teixeira",
+        "zipcode": "35300-098"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Ramon Augusto e Silva",
+        "zipcode": "35300-137"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Dos Rodoviários",
+        "street": "Rua Artur da Silva Araújo",
+        "zipcode": "35300-302"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Vila Gilson Antonio da Silva",
+        "zipcode": "35301-340"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Loteamento Alvorada (Santo Antônio)",
+        "street": "Rua Custódia Alves da Silva",
+        "zipcode": "35303-091"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Doutor Eduardo Daladier Pereira",
+        "street": "Rua Francisco Condé de Oliveira",
+        "zipcode": "35304-649"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Santo Antônio",
+        "street": "Rua G",
+        "zipcode": "35303-015"
+    },
+    {
+        "city": "Caratinga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Olegario Maciel",
+        "zipcode": "35300-000"
+    }
+]

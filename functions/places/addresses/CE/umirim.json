@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Umirim",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Carlos Antônio Sales 259",
+        "zipcode": "62660-970"
+    },
+    {
+        "city": "Umirim",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62660-000"
+    },
+    {
+        "city": "Umirim",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "62663-990"
+    }
+]

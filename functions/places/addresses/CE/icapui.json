@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Icapuí",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62810-000"
+    },
+    {
+        "city": "Icapuí",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Ricardo de Holanda",
+        "zipcode": "62813-990"
+    },
+    {
+        "city": "Icapuí",
+        "state": "CE",
+        "district": null,
+        "street": "Rua da Praia",
+        "zipcode": "62810-990"
+    },
+    {
+        "city": "Icapuí",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Biru 1235",
+        "zipcode": "62810-970"
+    }
+]

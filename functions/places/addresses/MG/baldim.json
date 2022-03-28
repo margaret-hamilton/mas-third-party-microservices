@@ -1,0 +1,58 @@
+[
+    {
+        "city": "Baldim",
+        "state": "MG",
+        "district": "Mocambo",
+        "street": "Rua Ambrósio Vieira 33",
+        "zipcode": "35706-971"
+    },
+    {
+        "city": "Baldim",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Emílio de Vasconcelos 185",
+        "zipcode": "35706-970"
+    },
+    {
+        "city": "Baldim",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35706-000"
+    },
+    {
+        "city": "Baldim",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35732-000"
+    },
+    {
+        "city": "Baldim",
+        "state": "MG",
+        "district": "Mocambo",
+        "street": "Rua Ambrósio Vieira 33  AGC Mucambo",
+        "zipcode": "35732-971"
+    },
+    {
+        "city": "Baldim",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Emílio de Vasconcelos 185  AC Baldim",
+        "zipcode": "35732-970"
+    },
+    {
+        "city": "Baldim",
+        "state": "MG",
+        "district": "Vargem Grande",
+        "street": "Praça Sagrada Família s/n  AGC Vargem Grande",
+        "zipcode": "35732-972"
+    },
+    {
+        "city": "Baldim",
+        "state": "MG",
+        "district": "Vargem Grande",
+        "street": "Praça Sagrada Família s/n",
+        "zipcode": "35706-972"
+    }
+]

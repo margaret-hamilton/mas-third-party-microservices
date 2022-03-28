@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bacabal",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco 25",
+        "zipcode": "65700-970"
+    },
+    {
+        "city": "Bacabal",
+        "state": "MA",
+        "district": "",
+        "street": "",
+        "zipcode": "65700-000"
+    },
+    {
+        "city": "Bacabal",
+        "state": "MA",
+        "district": null,
+        "street": "Rua Nova",
+        "zipcode": "65700-990"
+    },
+    {
+        "city": "Bacabal",
+        "state": "MA",
+        "district": null,
+        "street": "Avenida Dom Bosco",
+        "zipcode": "65700-991"
+    }
+]

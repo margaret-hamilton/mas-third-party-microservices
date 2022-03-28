@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Mojuí dos Campos",
+        "state": "PA",
+        "district": "Centro",
+        "street": "Travessa Seis de Janeiro 196",
+        "zipcode": "68120-970"
+    },
+    {
+        "city": "Mojuí dos Campos",
+        "state": "PA",
+        "district": "",
+        "street": "",
+        "zipcode": "68129-000"
+    },
+    {
+        "city": "Mojuí dos Campos",
+        "state": "PA",
+        "district": null,
+        "street": "PA Muju",
+        "zipcode": "68120-990"
+    }
+]

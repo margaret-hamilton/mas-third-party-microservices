@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São José dos Salgados (Carmo do Cajuru)",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35558-000"
+    },
+    {
+        "city": "São José dos Salgados (Carmo do Cajuru)",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua do Comércio 60",
+        "zipcode": "35512-970"
+    },
+    {
+        "city": "São José dos Salgados (Carmo do Cajuru)",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua do Comércio",
+        "zipcode": "35558-970"
+    },
+    {
+        "city": "São José dos Salgados (Carmo do Cajuru)",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35512-000"
+    }
+]

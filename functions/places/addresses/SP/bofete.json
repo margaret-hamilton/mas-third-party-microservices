@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Bofete",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça da Matriz 52",
+        "zipcode": "18590-970"
+    },
+    {
+        "city": "Bofete",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18590-000"
+    },
+    {
+        "city": "Bofete",
+        "state": "SP",
+        "district": null,
+        "street": "Avenida Silvana",
+        "zipcode": "18590-991"
+    },
+    {
+        "city": "Bofete",
+        "state": "SP",
+        "district": null,
+        "street": "Praça Luiz Francisco Vieira",
+        "zipcode": "18590-990"
+    },
+    {
+        "city": "Bofete",
+        "state": "SP",
+        "district": "São Roque Novo",
+        "street": "Praça Luiz Francisco Vieira s/n",
+        "zipcode": "18590-971"
+    }
+]

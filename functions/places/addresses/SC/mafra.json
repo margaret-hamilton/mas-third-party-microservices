@@ -1,0 +1,4328 @@
+[
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89300-000"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "",
+        "street": "Rua Pedro Liebel",
+        "zipcode": "89300-990"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89300-971"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Artur Schableski",
+        "zipcode": "89303-184"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Felipe Schmidt",
+        "zipcode": "89300-074"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Antônio Schweizer",
+        "zipcode": "89304-826"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Bela Vista do Sul",
+        "street": "",
+        "zipcode": "89310-000"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro Daniel Schelbauer",
+        "zipcode": "89306-585"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Benemérito Augusto Schableski",
+        "zipcode": "89303-192"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Águas Claras",
+        "street": "",
+        "zipcode": "89320-000"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Oscar Amadeu Scholze",
+        "zipcode": "89302-514"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Silvino Schultz",
+        "zipcode": "89302-118"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Oscar Amadeu Scholze",
+        "zipcode": "89302-380"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Oscar Amadeu Scholze",
+        "zipcode": "89302-450"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Balduíno Schultz",
+        "zipcode": "89300-216"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneira Clara Schadeck Kundlatsch",
+        "zipcode": "89306-516"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Inácio Schelbauer",
+        "zipcode": "89304-506"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro Carlos Schelbauer",
+        "zipcode": "89306-570"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro Carlos Schelbauer",
+        "zipcode": "89306-670"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneira Augusta Schultz",
+        "zipcode": "89303-138"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua José Schultz",
+        "zipcode": "89302-106"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Daniel Schelbauer",
+        "zipcode": "89304-378"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Alfredo Schade",
+        "zipcode": "89304-398"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Benemérito Ulisses Schelbauer",
+        "zipcode": "89307-270"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérita Tereza Schumacher",
+        "zipcode": "89304-350"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-330"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-489"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Pioneiro Estanislau Schumann Júnior",
+        "zipcode": "89300-387"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-286"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Oscar Amadeu Scholze",
+        "zipcode": "89302-440"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Martim Schafascheck",
+        "zipcode": "89304-590"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Benemérito Aroldo Schermack Peil",
+        "zipcode": "89306-590"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Vereador Walter Schultz",
+        "zipcode": "89300-180"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rodovia BR",
+        "zipcode": "89307-345"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Avenida Industrial Paulo Fleischmann",
+        "zipcode": "89304-362"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rodovia BR",
+        "zipcode": "89306-135"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Autódromo",
+        "street": "Rodovia BR",
+        "zipcode": "89306-140"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Avenida Gralha Azul",
+        "zipcode": "89302-625"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Praça Lauro Muller",
+        "zipcode": "89300-048"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rodovia BR",
+        "zipcode": "89306-660"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-284"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rodovia BR",
+        "zipcode": "89300-440"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Avenida das Torres",
+        "zipcode": "89304-473"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-640"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Área Rural de Mafra",
+        "street": "Área Rural",
+        "zipcode": "89309-899"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Avenida Prefeito Frederico Heyse",
+        "zipcode": "89300-070"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Avenida Prefeito Frederico Heyse",
+        "zipcode": "89300-182"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-486"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rodovia BR",
+        "zipcode": "89307-320"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Avenida Prefeito Frederico Heyse",
+        "zipcode": "89300-072"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Avenida Presidente Nereu Ramos",
+        "zipcode": "89304-322"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Praça Desembargador Flávio Tavares",
+        "zipcode": "89300-272"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Avenida Presidente Nereu Ramos",
+        "zipcode": "89304-005"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-366"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rodovia BR",
+        "zipcode": "89307-340"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Praça Hercílio Luz",
+        "zipcode": "89300-278"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Avenida Presidente Nereu Ramos",
+        "zipcode": "89300-040"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Alfaiate Henrique Liebl",
+        "zipcode": "89307-205"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Álvaro Rumor",
+        "zipcode": "89304-032"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rodovia BR",
+        "zipcode": "89306-665"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Agricultora Frieda Grossl",
+        "zipcode": "89306-575"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Ariolando Becker",
+        "zipcode": "89302-322"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Antonio Kleinmeyer",
+        "zipcode": "89302-320"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-399"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Praça dos Expedicionários",
+        "zipcode": "89300-288"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rodovia BR",
+        "zipcode": "89306-130"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Alfredo do Amaral Matheus",
+        "zipcode": "89304-048"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Antônio Rebelatto",
+        "zipcode": "89300-507"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Avenida Presidente Nereu Ramos",
+        "zipcode": "89300-038"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Basílio Celestino de Oliveira",
+        "zipcode": "89306-000"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Agricultor Engelberto Liebl",
+        "zipcode": "89307-100"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Campo da Lança",
+        "street": "Rodovia BR",
+        "zipcode": "89306-300"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Antônio Abreu",
+        "zipcode": "89302-760"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Avenida das Rosas",
+        "zipcode": "89303-310"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Annies Gualberto",
+        "zipcode": "89300-100"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-643"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Agricultor Segundo Goffi",
+        "zipcode": "89307-305"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rodovia BR",
+        "zipcode": "89307-025"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérita Amanda Von Linsingen Hable",
+        "zipcode": "89304-593"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Antônio Grams",
+        "zipcode": "89304-198"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Aimorés",
+        "zipcode": "89300-222"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Campo da Lança",
+        "street": "Rodovia BR",
+        "zipcode": "89306-380"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Anastácia Grossel",
+        "zipcode": "89304-626"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Benemérita Lucille Carver",
+        "zipcode": "89307-020"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Adilson Xavier",
+        "zipcode": "89304-814"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Alfredo Sprotte",
+        "zipcode": "89304-242"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Agropecuarista Alfredo Herbst",
+        "zipcode": "89304-310"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Basílio Celestino de Oliveira",
+        "zipcode": "89300-092"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rodovia BR",
+        "zipcode": "89306-500"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Antônio Abreu",
+        "zipcode": "89300-240"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérita Maria Socreppa",
+        "zipcode": "89304-587"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Alfredo Marques Pinheiro",
+        "zipcode": "89304-488"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Benemérito Antonio Batista Soares",
+        "zipcode": "89303-084"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Basílio Celestino de Oliveira",
+        "zipcode": "89300-032"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Annies Gualberto",
+        "zipcode": "89300-156"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Alfredo do Amaral Matheus",
+        "zipcode": "89300-008"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua A (Lot Res Coníferas)",
+        "zipcode": "89302-183"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Benemérita Helena Woehl Ferreira",
+        "zipcode": "89304-030"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Antônio Prokopiak",
+        "zipcode": "89300-573"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Antônio Nunes",
+        "zipcode": "89300-670"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Andorinhas",
+        "zipcode": "89302-645"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Alípio Siqueira",
+        "zipcode": "89302-000"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Benemérito Antônio Stoebel",
+        "zipcode": "89306-510"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rodovia BR",
+        "zipcode": "89307-090"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Aloysio Fornek",
+        "zipcode": "89300-477"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Beija",
+        "zipcode": "89302-640"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Benemérito André Liebel",
+        "zipcode": "89307-250"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Campo da Lança",
+        "street": "Rodovia BR",
+        "zipcode": "89306-430"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérita Bertha Eckel Reitmeyer",
+        "zipcode": "89304-509"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Alípio Siqueira",
+        "zipcode": "89300-200"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Alexandre Fleming",
+        "zipcode": "89300-192"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Aldo Sabatke",
+        "zipcode": "89302-195"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Acácia Negra",
+        "zipcode": "89306-097"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Basílio Celestino de Oliveira",
+        "zipcode": "89300-001"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Benemérita Julia Gonçalves",
+        "zipcode": "89300-280"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Paulo Witt",
+        "zipcode": "89304-512"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Campos Sales",
+        "zipcode": "89300-128"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Wiegand Nagel",
+        "zipcode": "89304-246"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Benemérito João Maria Carneiro",
+        "zipcode": "89306-822"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Capitão João Braz",
+        "zipcode": "89302-712"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Nelson Evers",
+        "zipcode": "89304-806"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Silvio Lanski",
+        "zipcode": "89302-324"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Rufino Niencio DAndrade",
+        "zipcode": "89304-884"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Benemérito Ladislau Bicheski",
+        "zipcode": "89303-076"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Canário",
+        "zipcode": "89302-620"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Antônio Hable",
+        "zipcode": "89304-584"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Vitalino Bilobran",
+        "zipcode": "89304-802"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Ernesto Lehmann",
+        "zipcode": "89304-479"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Campos Sales",
+        "zipcode": "89300-044"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Benemérito Pedro Biscaia de Lima",
+        "zipcode": "89307-275"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Benemérito Anselmo Reynaud",
+        "zipcode": "89306-502"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérita Anezia Fernandes Lanski",
+        "zipcode": "89302-342"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Frederico Luckow",
+        "zipcode": "89302-550"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Bruno Custódio dos Santos",
+        "zipcode": "89302-708"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Benemérito João Dorival Auersvaldt",
+        "zipcode": "89302-780"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Comerciante Earoslau Pancheniak",
+        "zipcode": "89304-818"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Miguel Meister",
+        "zipcode": "89304-194"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Campos Sales",
+        "zipcode": "89300-094"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Benemérito Pedro Kuss",
+        "zipcode": "89300-268"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Capitão João Braz",
+        "zipcode": "89300-230"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Brasil",
+        "zipcode": "89306-846"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Castro Alves",
+        "zipcode": "89300-120"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Otavio Stanchack",
+        "zipcode": "89304-218"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Benemérito Ezídia Corrêa Konig",
+        "zipcode": "89303-116"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Olympio Oliveira",
+        "zipcode": "89302-570"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Camarista João Meneghin",
+        "zipcode": "89304-500"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Estanislau Lila",
+        "zipcode": "89302-566"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Francisco Vaneski",
+        "zipcode": "89304-560"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Luis Albrecht",
+        "zipcode": "89304-222"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito José Hable",
+        "zipcode": "89304-596"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Hermes Sprott",
+        "zipcode": "89304-563"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Carlos Chafacheck",
+        "zipcode": "89304-575"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Lindolfo Witt",
+        "zipcode": "89304-585"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Casemiro de Abreu",
+        "zipcode": "89300-132"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Lidio Sprotte",
+        "zipcode": "89304-515"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Henrique Max",
+        "zipcode": "89304-326"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Benemérito Sebastião Ribeiro dos Santos",
+        "zipcode": "89307-310"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Blumenau",
+        "zipcode": "89300-236"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Benemérito Eduardo Pscheidt",
+        "zipcode": "89304-044"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Benemérito Osmar Krüger",
+        "zipcode": "89300-468"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Capitão João Bley",
+        "zipcode": "89303-120"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Bruno Uhlmann",
+        "zipcode": "89304-038"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Benemérito José Tauscheck",
+        "zipcode": "89303-130"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Campos Novos",
+        "zipcode": "89300-068"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Cândido de Oliveira Ramos",
+        "zipcode": "89304-034"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Bento Manoel de Lima",
+        "zipcode": "89300-649"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Benemérito Ramiro Ruthes",
+        "zipcode": "89307-245"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Benemérito Ladislau Bicheski",
+        "zipcode": "89303-010"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Miguel Zatesko",
+        "zipcode": "89304-704"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Cristo Rei",
+        "zipcode": "89306-816"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua do Portão",
+        "zipcode": "89304-620"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Ferroviário Hercílio Castro de Oliveira",
+        "zipcode": "89304-476"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Doutor Tácio Guerreiro",
+        "zipcode": "89300-194"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Desportista Luiz Pascoal Dutra",
+        "zipcode": "89300-226"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua da Caridade",
+        "zipcode": "89304-728"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Domingos Narloch",
+        "zipcode": "89300-208"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Estudante Ricardo Janchkovski Sempko",
+        "zipcode": "89304-708"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "89300-372"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Ferroviário Jorge Dittrich",
+        "zipcode": "89302-882"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Capitão João Braz",
+        "zipcode": "89302-180"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Doutor Fúlvio C Aducci",
+        "zipcode": "89300-190"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Ferroviário Idinor M Siqueira",
+        "zipcode": "89300-256"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro Adolfo Endler",
+        "zipcode": "89306-526"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Dona Francisca",
+        "zipcode": "89302-385"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Ferroviário José Furtado",
+        "zipcode": "89303-188"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Ferroviário Idinor M Siqueira",
+        "zipcode": "89303-102"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Desportista Nilton Irineu Herbst",
+        "zipcode": "89304-298"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua das Acácias",
+        "zipcode": "89300-459"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua das Orquídeas",
+        "zipcode": "89303-334"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Ervino Wilson Buch",
+        "zipcode": "89300-351"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Chrysogno Maia",
+        "zipcode": "89300-378"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Doutor Getúlio Vargas",
+        "zipcode": "89300-210"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua do Peri",
+        "zipcode": "89300-290"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Doutor Ovande Ferreira do Amaral",
+        "zipcode": "89300-453"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Doutor Mathias Piecnick",
+        "zipcode": "89300-170"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua do Portão",
+        "zipcode": "89302-225"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Expedicionário João Liebel Sobrinho",
+        "zipcode": "89304-608"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Ferroviário Euzébio Fritz",
+        "zipcode": "89303-252"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Emílio Evers",
+        "zipcode": "89300-646"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Comerciante José Kaliski",
+        "zipcode": "89304-712"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Engenheiro Agrimensor Márcio Liebl",
+        "zipcode": "89307-095"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Escoteiro Souza Neto",
+        "zipcode": "89300-244"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Emílio Kondlatsch",
+        "zipcode": "89306-506"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Escoteiro Souza Neto",
+        "zipcode": "89302-772"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Ferroviário Augusto dos Passos",
+        "zipcode": "89303-128"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "89300-369"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Escrivão Joaquim Alves de Lima",
+        "zipcode": "89304-040"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Doutor Tácio Guerreiro",
+        "zipcode": "89300-054"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua dos Lírios",
+        "zipcode": "89303-326"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Ferroviário Artur Rechetelo",
+        "zipcode": "89304-798"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Comerciante Nair Weber Sokolski",
+        "zipcode": "89303-082"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua das Violetas",
+        "zipcode": "89303-330"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Comerciante Pedro Jurquevicz",
+        "zipcode": "89304-058"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Comerciante José Kaliski",
+        "zipcode": "89302-260"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua das Palmas",
+        "zipcode": "89303-314"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Doutor José Boiteux",
+        "zipcode": "89300-260"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Estudante Rodrigo dos Passos",
+        "zipcode": "89304-042"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Elzira Bley Maia",
+        "zipcode": "89300-188"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Desportista Adolfo Martins Filho",
+        "zipcode": "89304-794"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua das Camélias",
+        "zipcode": "89303-322"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Estudante Antônio Portela",
+        "zipcode": "89300-252"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua do Amor ao Próximo",
+        "zipcode": "89304-716"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Engenheiro Agrimensor Márcio Liebl",
+        "zipcode": "89307-010"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "89300-124"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Ferroviário Daniel Taborda Ribas",
+        "zipcode": "89302-720"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Doutor José Boiteux",
+        "zipcode": "89303-106"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Gustavo Adolfo Friedrich",
+        "zipcode": "89306-580"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Henrique Lage",
+        "zipcode": "89303-070"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Germano Neudorf",
+        "zipcode": "89304-470"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Frederico Staidel",
+        "zipcode": "89302-326"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Gabriel Dequech",
+        "zipcode": "89300-270"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Germano Neudorf",
+        "zipcode": "89304-342"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Gustavo Adolfo Friedrich",
+        "zipcode": "89302-220"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Governador Jorge Lacerda",
+        "zipcode": "89300-152"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua João Lominskey",
+        "zipcode": "89303-176"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Joaquim Pereira Ramos",
+        "zipcode": "89302-109"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Industrial José Ernestino C Pereira",
+        "zipcode": "89304-306"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Industrial Eugênio Fritsch",
+        "zipcode": "89306-091"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Guaicurús",
+        "zipcode": "89300-224"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Hercílio Taborda Ribas",
+        "zipcode": "89302-340"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Gustavo Adolfo Friedrich",
+        "zipcode": "89304-174"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Industrial Evaldo Uhlmann",
+        "zipcode": "89304-150"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Jorge Sabatke",
+        "zipcode": "89300-106"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Funcionário Donato Alves",
+        "zipcode": "89304-370"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Industrial Reinaldo Herbst",
+        "zipcode": "89304-302"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Guilherme Witt",
+        "zipcode": "89304-599"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Governador Jorge Lacerda",
+        "zipcode": "89300-108"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Ingrácio José Corrêa",
+        "zipcode": "89303-088"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Industrial Affonso Fleischmann",
+        "zipcode": "89304-358"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Joaquim Pereira Ramos",
+        "zipcode": "89300-022"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Florianópolis",
+        "zipcode": "89300-104"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Independência",
+        "zipcode": "89303-090"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua João Cleto Mourão",
+        "zipcode": "89302-314"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua José Bartneck",
+        "zipcode": "89300-456"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Ferroviário Vericundo Fernandes Dias",
+        "zipcode": "89303-260"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Industrial Antonio Licnerski",
+        "zipcode": "89304-068"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Gustavo Adolfo Friedrich",
+        "zipcode": "89304-062"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Izidório Katchan",
+        "zipcode": "89303-180"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Industrial Odair Fanderuff",
+        "zipcode": "89304-050"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua João Licnerski",
+        "zipcode": "89304-115"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Independência",
+        "zipcode": "89300-246"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua João Francisco de Assis",
+        "zipcode": "89300-664"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Jorge José Saliba",
+        "zipcode": "89302-310"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Gustavo Adolfo Friedrich",
+        "zipcode": "89304-491"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua João Kuss",
+        "zipcode": "89303-094"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Governador Jorge Lacerda",
+        "zipcode": "89300-140"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Fiscal Armando Fernandes",
+        "zipcode": "89306-082"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Industrial Ildefonso Cassias Pereira",
+        "zipcode": "89304-318"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua João Batista Pigatto",
+        "zipcode": "89300-474"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Independência",
+        "zipcode": "89300-250"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Guilherme Buch Júnior",
+        "zipcode": "89303-110"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua General Setembrino de Carvalho",
+        "zipcode": "89300-130"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Germano Evers",
+        "zipcode": "89300-576"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Governador Jorge Lacerda",
+        "zipcode": "89302-121"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Guilherme Witt",
+        "zipcode": "89304-226"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Jorge Sabatke",
+        "zipcode": "89300-138"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Intendente Nestor Valério",
+        "zipcode": "89304-046"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Francisco Reitruajez",
+        "zipcode": "89300-206"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Funcionário José Cubas Valério",
+        "zipcode": "89304-110"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Odilon Kruguer",
+        "zipcode": "89300-661"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Pedro Liebl",
+        "zipcode": "89307-200"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89300-084"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Manoel Severiano Maia",
+        "zipcode": "89300-345"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pedro Adélio",
+        "zipcode": "89303-096"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Nicolau Bley Neto",
+        "zipcode": "89300-020"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Nicolau Bley Neto",
+        "zipcode": "89302-005"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Oito de Março",
+        "zipcode": "89300-002"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Leo Jung",
+        "zipcode": "89302-334"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "89300-172"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Órfã Laís Lindamir Ziemermann",
+        "zipcode": "89304-503"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Lúcia Antônia de Farias",
+        "zipcode": "89300-214"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Pioneira Olga Preisler Pereira",
+        "zipcode": "89304-166"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Miguel José Saliba",
+        "zipcode": "89302-332"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Osvaldo Grein",
+        "zipcode": "89303-172"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua José Frosch",
+        "zipcode": "89302-215"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Maria Clara Hack Machado",
+        "zipcode": "89302-562"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Maquinista Henrique Gomes",
+        "zipcode": "89303-240"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneira Maria Gonçalves Stelsener",
+        "zipcode": "89304-386"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89300-168"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Ministro Calógeras",
+        "zipcode": "89303-114"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Juriti",
+        "zipcode": "89302-630"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pastor Jahyr Dittrich",
+        "zipcode": "89302-764"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Oswaldo Cruz",
+        "zipcode": "89303-108"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneira Angelina Pereira Fernandes",
+        "zipcode": "89303-066"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Músico Pedro Liebel",
+        "zipcode": "89304-056"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Lúcia Antônia de Farias",
+        "zipcode": "89300-238"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneira Olga Preisler Pereira",
+        "zipcode": "89304-294"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Jovino Lima",
+        "zipcode": "89300-142"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89300-090"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua José Pedro Cubas Machado",
+        "zipcode": "89302-574"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Motorista Alfredo Maria de Lima",
+        "zipcode": "89302-115"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneira Rodina Endler",
+        "zipcode": "89306-522"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Pasteur",
+        "zipcode": "89300-136"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneira Aracy Elly Endler",
+        "zipcode": "89306-524"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Jovino Lima",
+        "zipcode": "89300-110"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Pioneira Maria Elvira Kruger Custódio",
+        "zipcode": "89302-189"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua José Raun",
+        "zipcode": "89300-114"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89306-034"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Messias Granemann",
+        "zipcode": "89300-471"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Oito de Março",
+        "zipcode": "89304-054"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Músico Valentin Stall",
+        "zipcode": "89304-700"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneira Emília Loth",
+        "zipcode": "89307-015"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneira Dona Vitória Nitz",
+        "zipcode": "89306-834"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua José Reitmeyer",
+        "zipcode": "89300-667"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua José Cassias Pereira",
+        "zipcode": "89304-158"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Adelino Carvalho",
+        "zipcode": "89303-126"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Luiza Crestani Herbst",
+        "zipcode": "89306-094"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Paulo Heyse Filho",
+        "zipcode": "89300-483"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua José Frosch",
+        "zipcode": "89302-776"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Pedro Adélio",
+        "zipcode": "89300-212"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneira Francisca Lisboa",
+        "zipcode": "89303-064"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Pedro Álvaro Cabral",
+        "zipcode": "89300-411"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Pioneiro Emílio Grein",
+        "zipcode": "89303-264"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Pioneiro Jacob Rank",
+        "zipcode": "89307-185"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Arlindo Goldbach",
+        "zipcode": "89304-258"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Antônio Bartneck",
+        "zipcode": "89304-346"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Carlos Urbanitz",
+        "zipcode": "89304-605"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Protógens Vieira",
+        "zipcode": "89300-098"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Pioneiro João Matheus Leick",
+        "zipcode": "89302-445"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro Nivaldo Kundlatsch",
+        "zipcode": "89306-518"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Renato Grossl",
+        "zipcode": "89304-354"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Carlos Mann",
+        "zipcode": "89304-578"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Alvino Liebl",
+        "zipcode": "89304-390"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Heleodoro Arbigaus",
+        "zipcode": "89304-202"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Professor Miguel Dittrich",
+        "zipcode": "89304-230"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro José Max",
+        "zipcode": "89304-330"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Professor José Gribosi",
+        "zipcode": "89302-312"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro Alvino Loth",
+        "zipcode": "89306-813"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Carlos Jorge Paulo Ehrhardt",
+        "zipcode": "89304-382"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Professor Eduardo Buss",
+        "zipcode": "89307-300"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Alfredo Pereira",
+        "zipcode": "89303-122"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Pioneiro Gaspar Liebl",
+        "zipcode": "89307-195"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro José Kundlatsch",
+        "zipcode": "89306-514"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Ricardo Voos",
+        "zipcode": "89302-886"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro José Frisch",
+        "zipcode": "89304-482"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Otto Witt",
+        "zipcode": "89304-394"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Paulo Liebl",
+        "zipcode": "89304-366"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Reinaldo Wilibaldo Geisler",
+        "zipcode": "89304-485"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Rodolfo Buch",
+        "zipcode": "89304-206"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Fernando Kuchler",
+        "zipcode": "89304-334"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Pioneiro Carlos Liebl",
+        "zipcode": "89307-190"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Antônio Ramos",
+        "zipcode": "89303-074"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Pioneiro Leônidas Severo Petters",
+        "zipcode": "89302-066"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro João dos Passos",
+        "zipcode": "89303-136"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Pioneiro Antônio Pereira Cassia",
+        "zipcode": "89304-052"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Pioneiro Germano Zettel",
+        "zipcode": "89300-462"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Luiz Alexandre Siqueira",
+        "zipcode": "89303-132"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Campo da Lança",
+        "street": "Rua Pioneiro Carlos Rank",
+        "zipcode": "89306-475"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro José Albrecht",
+        "zipcode": "89304-602"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Professora Maria Medeiros",
+        "zipcode": "89307-230"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Professora Tereza Buba",
+        "zipcode": "89303-196"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Professora Iraci Bannack",
+        "zipcode": "89304-614"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Pioneiro Doracir Ciso Barbosa",
+        "zipcode": "89304-154"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Marcelino Fritz",
+        "zipcode": "89302-878"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Professor Ernesto Liedcke",
+        "zipcode": "89302-192"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Pioneiro Braz Moreira",
+        "zipcode": "89300-658"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Prefeito Plácido Gaissler",
+        "zipcode": "89304-190"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Pioneiro João Rank",
+        "zipcode": "89307-180"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Professor Wenceslau Muniz",
+        "zipcode": "89304-494"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Henrique Popp",
+        "zipcode": "89304-572"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro Nereu Endler",
+        "zipcode": "89306-520"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Pioneiro Antônio Pereira Cassia",
+        "zipcode": "89300-004"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Pioneiro Erotides Pacheco de Lima",
+        "zipcode": "89304-066"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Professora Etelvina Therezinha Pinto",
+        "zipcode": "89304-822"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Professor Domício Margoti",
+        "zipcode": "89306-740"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Eurides Pereira",
+        "zipcode": "89303-060"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Uruguai",
+        "zipcode": "89300-122"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Tenente Ary Rauen",
+        "zipcode": "89300-026"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Servidor José Zielinski Filho",
+        "zipcode": "89303-086"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Vereador Hercílio Buch",
+        "zipcode": "89302-112"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Sabiá",
+        "zipcode": "89302-635"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Vereador Cyrineo Motta Espesin",
+        "zipcode": "89302-330"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Tiradentes",
+        "zipcode": "89300-339"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Rio Branco",
+        "zipcode": "89306-849"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Servidor José Hilário Bilinski",
+        "zipcode": "89304-732"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Servidor Eurides Carvalho",
+        "zipcode": "89302-558"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Vereador Eurípio Rauem",
+        "zipcode": "89300-024"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Tabelião José Juraszeck",
+        "zipcode": "89304-569"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Ronda Velha",
+        "zipcode": "89302-455"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Servidor Hipólito Arbigaus",
+        "zipcode": "89303-244"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "89300-096"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua São José",
+        "zipcode": "89306-079"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "89300-166"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Tupinambás",
+        "zipcode": "89300-228"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua São José",
+        "zipcode": "89304-036"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Tijucas",
+        "zipcode": "89300-396"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Tenente Ary Rauen",
+        "zipcode": "89302-100"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Ptolomeu de Assis Brasil",
+        "zipcode": "89300-144"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Vereador Gumercindo Marés",
+        "zipcode": "89303-118"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Solidariedade",
+        "zipcode": "89303-338"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Santa Cruz",
+        "zipcode": "89303-080"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Servidor Altino Buch",
+        "zipcode": "89304-214"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Tradicionalista Geraldo Machado",
+        "zipcode": "89302-768"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Vereador Antenor Rauen",
+        "zipcode": "89303-124"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Rufino Mendes",
+        "zipcode": "89300-655"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Teixeira de Freitas",
+        "zipcode": "89300-570"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua São João Maria",
+        "zipcode": "89302-063"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua São João Maria",
+        "zipcode": "89300-116"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "89306-030"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Santos Dumont",
+        "zipcode": "89300-498"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Vereador Evaldo Staidel",
+        "zipcode": "89300-018"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Servidor Ernesto Nitz",
+        "zipcode": "89306-840"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Tenente Geronazzo",
+        "zipcode": "89300-495"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Vereador João Menini Junior",
+        "zipcode": "89302-870"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua São João",
+        "zipcode": "89300-254"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Vereador Hercílio Buch",
+        "zipcode": "89300-066"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua São Vicente de Paula",
+        "zipcode": "89300-414"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Salvador Correa",
+        "zipcode": "89300-504"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua São José",
+        "zipcode": "89300-030"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Servidor Ernesto Martins",
+        "zipcode": "89304-720"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Servidor Ademir Ciszewski",
+        "zipcode": "89304-790"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Tenente Ary Rauen",
+        "zipcode": "89304-060"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua SD 618",
+        "zipcode": "89307-265"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Servidor Alfredo Ortmeier",
+        "zipcode": "89303-268"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Servidor Carlos Reibnitz",
+        "zipcode": "89304-210"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Tenente Ary Rauen",
+        "zipcode": "89300-016"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Ricardo Koenig",
+        "zipcode": "89300-242"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "89300-363"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Valentim Bannach",
+        "zipcode": "89302-554"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Travessa Professora Maria do Espírito Santo",
+        "zipcode": "89300-176"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Travessa Arthur E E Jahn",
+        "zipcode": "89300-158"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua 8 de Setembro",
+        "zipcode": "89300-381"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua 25 de Dezembro",
+        "zipcode": "89306-852"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Travessa SD 2",
+        "zipcode": "89300-258"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Travessa Casas Rede",
+        "zipcode": "89307-255"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua 1º de Janeiro",
+        "zipcode": "89300-348"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua 15 de Novembro",
+        "zipcode": "89300-264"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua 1º de Maio",
+        "zipcode": "89300-336"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Travessa Gaúcha",
+        "zipcode": "89300-234"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Vereador Otavio Licnerski",
+        "zipcode": "89306-073"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua 10 de Dezembro",
+        "zipcode": "89306-837"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Victor Konder",
+        "zipcode": "89300-402"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua 13 de Maio",
+        "zipcode": "89306-831"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Vitorino Bacellar",
+        "zipcode": "89300-274"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Travessa Prefeito Ayres Rauen",
+        "zipcode": "89300-276"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Travessa Leopoldo Mam",
+        "zipcode": "89300-046"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua 10",
+        "zipcode": "89303-280"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Travessa Benemérito Angelo de Colo",
+        "zipcode": "89302-675"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Vital Brasil",
+        "zipcode": "89303-068"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Travessa Benemérito José Grossl",
+        "zipcode": "89304-623"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Vereador Otavio Licnerski",
+        "zipcode": "89304-010"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Travessa Ouro Verde",
+        "zipcode": "89303-112"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Travessa Cruzeiro",
+        "zipcode": "89303-104"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Travessa Bom Coração Alziro Zarur",
+        "zipcode": "89303-164"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua 9",
+        "zipcode": "89303-272"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Travessa Bom Jesus",
+        "zipcode": "89307-260"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua 15 de Novembro",
+        "zipcode": "89303-100"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua 8 de Setembro",
+        "zipcode": "89300-354"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua 7 de Abril",
+        "zipcode": "89306-828"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Rio Preto do Sul",
+        "street": "",
+        "zipcode": "89315-000"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Victor Celestino de Oliveira",
+        "zipcode": "89300-102"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rodovia BR",
+        "zipcode": "89307-225"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rodovia BR",
+        "zipcode": "89307-220"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Avenida Benemérito Alamir Marés",
+        "zipcode": "89303-248"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Avenida Prefeito Frederico Heyse",
+        "zipcode": "89300-184"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Avenida Presidente Nereu Ramos",
+        "zipcode": "89306-076"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Autódromo",
+        "street": "Avenida do Servidor",
+        "zipcode": "89306-155"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rodovia BR",
+        "zipcode": "89307-315"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Autódromo",
+        "street": "Rodovia BR",
+        "zipcode": "89306-250"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rodovia BR",
+        "zipcode": "89300-450"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Campo da Lança",
+        "street": "Rodovia BR",
+        "zipcode": "89306-305"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Campo da Lança",
+        "street": "Rua Expedicionário Engelbert Ranck Sobrinho",
+        "zipcode": "89306-470"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Funcionário João Klapouch",
+        "zipcode": "89302-510"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua José Cassias Pereira",
+        "zipcode": "89304-162"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Alfaiate Ernesto Paulo Von Linsingen",
+        "zipcode": "89302-316"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua das Hortências",
+        "zipcode": "89303-318"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Germano Koch",
+        "zipcode": "89300-232"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Industrial Benedicto Gonçalves Cordeiro",
+        "zipcode": "89307-240"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Eduardo Ganzert",
+        "zipcode": "89304-830"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Doutor Fúlvio C Aducci",
+        "zipcode": "89300-062"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Florianópolis",
+        "zipcode": "89300-154"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Bruno Uhlmann",
+        "zipcode": "89300-196"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Olimpio Simette",
+        "zipcode": "89304-182"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Guilherme Valério",
+        "zipcode": "89300-652"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Estudante Angelita Cassias Pereira",
+        "zipcode": "89304-266"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Jorge Sabatke",
+        "zipcode": "89300-080"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Estanislau Maieski",
+        "zipcode": "89304-178"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Juvêncio Luiz Maria do Valle",
+        "zipcode": "89304-186"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Coletor Tito Espezim",
+        "zipcode": "89302-716"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua João Heyse Sobrinho",
+        "zipcode": "89302-318"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua João Maria do Valle",
+        "zipcode": "89300-492"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérita Clara Bannach Ribovski",
+        "zipcode": "89304-617"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Benemérito Jerônimo Ferigotti",
+        "zipcode": "89300-164"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Anita Garibaldi",
+        "zipcode": "89300-408"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rua Ferroviário José Bergamini",
+        "zipcode": "89300-134"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Dercílio de Oliveira",
+        "zipcode": "89300-384"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Elzira Bley Maia",
+        "zipcode": "89300-064"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Antonio Kvistchal",
+        "zipcode": "89304-497"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Governador Jorge Lacerda",
+        "zipcode": "89300-082"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Engenheiro Alfredo Bredow",
+        "zipcode": "89304-254"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Benemérito Lourival Neidorf",
+        "zipcode": "89306-512"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Basílio Celestino de Oliveira",
+        "zipcode": "89304-000"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Wilson Mendes",
+        "zipcode": "89304-810"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Adão Chermack",
+        "zipcode": "89304-238"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Dona Francisca",
+        "zipcode": "89306-100"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Benemérito Ramiro Ruthes",
+        "zipcode": "89307-235"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua da Boa Vontade",
+        "zipcode": "89304-724"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Antônio Nunes",
+        "zipcode": "89300-501"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Dirceu Buchhorn",
+        "zipcode": "89304-262"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Artesão Alfredo Muller",
+        "zipcode": "89304-880"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Capitão João Braz",
+        "zipcode": "89302-186"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Gustavo Adolfo Friedrich",
+        "zipcode": "89304-374"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Alípio Siqueira",
+        "zipcode": "89300-220"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Comerciante Jamal Mattar",
+        "zipcode": "89300-050"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Agricultora Frieda Grossl",
+        "zipcode": "89304-338"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Ferroviário Júlio Lopes dos Santos",
+        "zipcode": "89303-062"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua do Peri",
+        "zipcode": "89300-300"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Doutor Mathias Piecnick",
+        "zipcode": "89306-038"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Ferroviário Henrique Fanderuf",
+        "zipcode": "89303-256"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Comerciante Elias José Mattar",
+        "zipcode": "89304-250"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Intendente Nestor Valério",
+        "zipcode": "89300-010"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Campos Novos",
+        "zipcode": "89300-186"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Independência",
+        "zipcode": "89300-248"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Benemérito André Rank",
+        "zipcode": "89307-280"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Benemérito Paulo Tavares",
+        "zipcode": "89302-328"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Servidor Argemiro Grein",
+        "zipcode": "89300-058"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89300-970"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua José Stobel",
+        "zipcode": "89306-810"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Pereira Oliveira",
+        "zipcode": "89300-160"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Tenente Ary Rauen",
+        "zipcode": "89300-014"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Ptolomeu de Assis Brasil",
+        "zipcode": "89300-150"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Servidor Evaldo Unger",
+        "zipcode": "89304-234"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Nicolau Bley Neto",
+        "zipcode": "89300-198"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Travessa Benemérito Angelo de Colo",
+        "zipcode": "89302-210"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Pedro Custódio dos Santos",
+        "zipcode": "89303-160"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Tenente Ary Rauen",
+        "zipcode": "89300-052"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneiro Jorge Grossl",
+        "zipcode": "89306-745"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua 25 de Março",
+        "zipcode": "89306-843"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua São João Maria",
+        "zipcode": "89300-056"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua 7 de Setembro",
+        "zipcode": "89300-375"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Professor Ernesto Liedcke",
+        "zipcode": "89302-704"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Carlos Hable",
+        "zipcode": "89304-581"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Travessa Pioneira Erma Shultz Ribeiro",
+        "zipcode": "89303-168"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Padre José Dameck",
+        "zipcode": "89306-088"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Professor Wenceslau Muniz",
+        "zipcode": "89304-518"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro João Baptista da Costa",
+        "zipcode": "89303-078"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Wenceslau Braz",
+        "zipcode": "89300-405"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Campo da Lança",
+        "street": "Rua Vereador Mário Ari Ruthes",
+        "zipcode": "89306-480"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Ptolomeu de Assis Brasil",
+        "zipcode": "89300-357"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Pioneiro Emilio Henning",
+        "zipcode": "89307-175"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua SD",
+        "zipcode": "89300-036"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "89300-042"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Ruy Barbosa",
+        "zipcode": "89300-393"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Vereador Valdemiro Leite Bastos",
+        "zipcode": "89302-338"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Pioneiro Max Langer",
+        "zipcode": "89300-060"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Pioneiro Albino Pietrosck",
+        "zipcode": "89300-465"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Carlos Seidel",
+        "zipcode": "89304-566"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua 12 de Outubro",
+        "zipcode": "89306-825"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua José Frosch",
+        "zipcode": "89302-103"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Madre Inês",
+        "zipcode": "89300-012"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneira Elvira Cassias Henning",
+        "zipcode": "89304-314"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Vereador Aldo Moreira",
+        "zipcode": "89302-336"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua José Cassias Pereira",
+        "zipcode": "89304-290"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Protógens Vieira",
+        "zipcode": "89300-162"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Agostinho do Nascimento",
+        "zipcode": "89303-072"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Músico Valentin Stall",
+        "zipcode": "89302-230"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Jurandir Prudente Pereira",
+        "zipcode": "89300-204"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89300-282"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Restinga",
+        "street": "Rua Vereador Evaldo Staidel",
+        "zipcode": "89302-060"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Formosa",
+        "street": "Rua Pedreiro Américo Imerê Silady",
+        "zipcode": "89304-064"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ferroviária",
+        "street": "Rua Rio Preto",
+        "zipcode": "89300-112"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Travessa Vereador Antônio Marloch",
+        "zipcode": "89300-360"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Francisco Maurer",
+        "zipcode": "89302-874"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua São João",
+        "zipcode": "89303-098"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Travessa Comerciante Airton José Favaro",
+        "zipcode": "89303-134"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Pioneira Claudina Kundlatsch",
+        "zipcode": "89306-508"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro Lauro Witt",
+        "zipcode": "89304-611"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Argentina",
+        "street": "Rodovia BR",
+        "zipcode": "89300-126"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Campo da Lança",
+        "street": "Rodovia BR",
+        "zipcode": "89306-340"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Avenida Coronel José Severiano Maia",
+        "zipcode": "89300-333"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Bruno Uhlmann",
+        "zipcode": "89300-028"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Cândido de Oliveira Ramos",
+        "zipcode": "89300-034"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Doutor Mathias Piecnick",
+        "zipcode": "89300-078"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "89306-070"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Pioneiro Antonio Cordeiro de Oliveira",
+        "zipcode": "89300-292"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila das Flores",
+        "street": "Rua Pioneiro Emílio Nunes de Freitas",
+        "zipcode": "89303-276"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua João Martini Hau",
+        "zipcode": "89300-262"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Nicolau Bley Neto",
+        "zipcode": "89300-202"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Benemérito Paulo Frogel",
+        "zipcode": "89306-504"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneiro Vicente Kriguer",
+        "zipcode": "89302-820"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Doutor Getúlio Vargas",
+        "zipcode": "89300-266"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Casemiro de Abreu",
+        "zipcode": "89300-390"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua José Frosch",
+        "zipcode": "89302-670"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua Industrial Odair Fanderuff",
+        "zipcode": "89300-006"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Espigão do Bugre",
+        "street": "Rua Agricultor José Liebl Sobrinho",
+        "zipcode": "89307-170"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Pioneiro João Matheus Leick",
+        "zipcode": "89304-736"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Travessa São Bento",
+        "zipcode": "89300-218"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim América",
+        "street": "Rua Rivadávia Haymussi",
+        "zipcode": "89300-480"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Felipe Schmidt",
+        "zipcode": "89300-178"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Balduíno Schultz",
+        "zipcode": "89303-092"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Faxinal",
+        "street": "Rua Industrial José Stoebel Filho",
+        "zipcode": "89306-819"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua Benemérito Aroldo Schermack Peil",
+        "zipcode": "89304-402"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro I Baixada",
+        "street": "Rua Professora Maria do Espírito Santo",
+        "zipcode": "89300-174"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua 7 de Setembro",
+        "zipcode": "89300-342"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Jardim do Moinho",
+        "street": "Rua Industrial Pedro Kredens",
+        "zipcode": "89306-085"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Nova",
+        "street": "Rua José Cassias Pereira",
+        "zipcode": "89304-170"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Vila Ivete",
+        "street": "Rua Pioneira Maria Elvira Kruger Custódio",
+        "zipcode": "89302-700"
+    },
+    {
+        "city": "Mafra",
+        "state": "SC",
+        "district": "Centro II Alto de Mafra",
+        "street": "Rua São João Maria",
+        "zipcode": "89300-076"
+    }
+]

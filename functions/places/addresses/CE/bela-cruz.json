@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bela Cruz",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "62570-976"
+    },
+    {
+        "city": "Bela Cruz",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Humaitá s/n",
+        "zipcode": "62570-970"
+    },
+    {
+        "city": "Bela Cruz",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62570-000"
+    },
+    {
+        "city": "Bela Cruz",
+        "state": "CE",
+        "district": null,
+        "street": "Rua da Agência",
+        "zipcode": "62575-990"
+    }
+]

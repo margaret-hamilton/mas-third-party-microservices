@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Lupionópolis",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua São Paulo",
+        "zipcode": "86635-970"
+    },
+    {
+        "city": "Lupionópolis",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86635-000"
+    },
+    {
+        "city": "Lupionópolis",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Vereador José Batista Zaine",
+        "zipcode": "86638-990"
+    }
+]

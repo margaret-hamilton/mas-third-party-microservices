@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Águas de Santa Bárbara",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Pedro Dias Batista 70",
+        "zipcode": "18770-970"
+    },
+    {
+        "city": "Águas de Santa Bárbara",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18770-000"
+    },
+    {
+        "city": "Águas de Santa Bárbara",
+        "state": "SP",
+        "district": null,
+        "street": "Chalé nº 02",
+        "zipcode": "18770-990"
+    }
+]

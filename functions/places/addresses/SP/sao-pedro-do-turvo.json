@@ -1,0 +1,716 @@
+[
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18940-000"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Antonio Guimarães Junior",
+        "zipcode": "18940-013"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua João Pedro Rodrigues Filho",
+        "zipcode": "18940-158"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Água Suja",
+        "street": "Rua Jose Araújo Andrade",
+        "zipcode": "18942-008"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Ferreira da Silva",
+        "zipcode": "18940-035"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Jorge Tomita",
+        "zipcode": "18940-088"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça José Teodoro",
+        "zipcode": "18940-970"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Água Suja",
+        "street": "Rua Benedito Vicente da Silva",
+        "zipcode": "18942-014"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Jose Dias Mendonça",
+        "zipcode": "18940-202"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça José Teodoro",
+        "zipcode": "18940-011"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Alferes Quinzinho",
+        "zipcode": "18940-140"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Argemiro Ferreira",
+        "zipcode": "18940-126"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Avenida João Pinheiro Filho",
+        "zipcode": "18940-090"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Alfredo Theodoro de Souza",
+        "zipcode": "18940-124"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Água Suja",
+        "street": "Rua Alécio Pedroso",
+        "zipcode": "18942-002"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Benjamin Constant",
+        "zipcode": "18940-043"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "18940-015"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Etair Gonçalves de Souza",
+        "zipcode": "18940-190"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Antonio de Souza",
+        "zipcode": "18940-212"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Atílio Roder",
+        "zipcode": "18940-080"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Ribeirão São Pedro",
+        "street": "Rua Danilo Rotiroti Damasceno",
+        "zipcode": "18940-060"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Cabo João Romeu Teixeira",
+        "zipcode": "18940-128"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Jorge Elias",
+        "zipcode": "18940-007"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Boa Vista",
+        "street": "Rua José Maria",
+        "zipcode": "18940-180"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Jorge Tibiriça",
+        "zipcode": "18940-120"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Boa Vista",
+        "street": "Rua Benedito Oliveira Tocaia",
+        "zipcode": "18940-174"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Boa Vista",
+        "street": "Rua Francisco Pedrozo",
+        "zipcode": "18940-178"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua José Francisco de Queiroz",
+        "zipcode": "18940-108"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Coronel Manoel Marques",
+        "zipcode": "18940-102"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Adeilson Jiovanangelo",
+        "zipcode": "18940-206"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Joaquim Pereira de Salles",
+        "zipcode": "18940-110"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Área Rural de São Pedro do Turvo",
+        "street": "Área Rural",
+        "zipcode": "18944-899"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Benedito Moisés Vilas Boas",
+        "zipcode": "18940-150"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Benedito Moisés Vilas Boas",
+        "zipcode": "18940-021"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua José Pedro Becker",
+        "zipcode": "18940-078"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Francisco Paula e Silva",
+        "zipcode": "18940-136"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Antonio Pereira Tavares",
+        "zipcode": "18940-204"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Cabo João Romeu Teixeira",
+        "zipcode": "18940-023"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Fernando Cesar Junior",
+        "zipcode": "18940-025"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Fernando Cesar Junior",
+        "zipcode": "18940-122"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Marques Balbino",
+        "zipcode": "18940-027"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua João Batista Rio Branco Filho",
+        "zipcode": "18940-138"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Isidoro Camargo",
+        "zipcode": "18940-152"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Coronel Marciano Jose Ferreira",
+        "zipcode": "18940-210"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Benedicto Costa Dias",
+        "zipcode": "18940-192"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Professor Osório",
+        "zipcode": "18940-070"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Luiz Pereira da Silva",
+        "zipcode": "18940-072"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rosalino Massafera",
+        "zipcode": "18940-045"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Vereador Oscar Marques de Souza",
+        "zipcode": "18940-100"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Vereador Evaristo Castro Leite",
+        "zipcode": "18940-200"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Paraíso",
+        "street": "Rua Raimundo Pereira da Silva",
+        "zipcode": "18940-194"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Padre José Julianetti",
+        "zipcode": "18940-051"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Vereador Evaristo Castro Leite",
+        "zipcode": "18940-118"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Água Suja",
+        "street": "Rua Pedro Mendes da Costa",
+        "zipcode": "18942-006"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Pedro Cândido",
+        "zipcode": "18940-116"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "18940-053"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Água Suja",
+        "street": "Rua Manoel Adão Novato de Souza",
+        "zipcode": "18942-000"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Matias Antunes",
+        "zipcode": "18940-208"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Tarciso de Carvallho",
+        "zipcode": "18940-142"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Água Suja",
+        "street": "Rua Julio Mendes da Costa",
+        "zipcode": "18942-010"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "18940-041"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Boa Vista",
+        "street": "Rua Paulo Roberto Pinheiro",
+        "zipcode": "18940-172"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Ribeirão São Pedro",
+        "street": "Rua Leonidas Basílio Nogueira",
+        "zipcode": "18940-062"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Lázaro Claudino de Oliveira",
+        "zipcode": "18940-005"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua São Pedro",
+        "zipcode": "18940-049"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Manoel Borges de Oliveira",
+        "zipcode": "18940-009"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Tarciso de Carvallho",
+        "zipcode": "18940-019"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Natal Benetti",
+        "zipcode": "18940-037"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Sami Diba",
+        "zipcode": "18940-106"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Luiz Costa",
+        "zipcode": "18940-017"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Zeferindo Crivelli",
+        "zipcode": "18940-160"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Luiz João de Gouveia",
+        "zipcode": "18940-112"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Soldado Luiz Tavares da Silva",
+        "zipcode": "18940-055"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Água Suja",
+        "street": "Rua Maria Angela Depizol",
+        "zipcode": "18942-012"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Água Suja",
+        "street": "Rua Teodoro Afonso Souto",
+        "zipcode": "18942-004"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Boa Vista",
+        "street": "Rua Waldomiro Pinto",
+        "zipcode": "18940-176"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Vereador João Guilherme de Moura",
+        "zipcode": "18940-084"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Vereador Benedito Carlos de Lima",
+        "zipcode": "18940-144"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Boa Vista",
+        "street": "Rua Renato Oliveira Tocaia",
+        "zipcode": "18940-170"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Vereador Oscar Marques de Souza",
+        "zipcode": "18940-092"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Oscar Cândido de Oliveira",
+        "zipcode": "18940-132"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Jorge Tibiriça",
+        "zipcode": "18940-029"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Frederico Guilherme Englerth",
+        "zipcode": "18940-154"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Benedito Batista Leme",
+        "zipcode": "18940-162"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua José Venâncio Filho",
+        "zipcode": "18940-134"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Lucas Gabriel Damasceno Silva",
+        "zipcode": "18940-164"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua José Pereira Ramos",
+        "zipcode": "18940-114"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Silva Jardim",
+        "zipcode": "18940-003"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Alferes Quinzinho",
+        "zipcode": "18940-031"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Jose Carlos da Silva",
+        "zipcode": "18940-086"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Clóvis Ferreira Dias",
+        "zipcode": "18940-104"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Antonio Soares Sobrinho",
+        "zipcode": "18940-214"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Sebastião Teixeira Coelho",
+        "zipcode": "18940-001"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Professor Osório",
+        "zipcode": "18940-033"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Manoel Gomes Azoia",
+        "zipcode": "18940-082"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Etelvina Martins Tavares",
+        "zipcode": "18940-076"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Cabo Benedito Monteiro da Silva",
+        "zipcode": "18940-047"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua Vereador Anibal Gonçalves Damasceno",
+        "zipcode": "18940-130"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Nova São Pedro",
+        "street": "Rua Celso Benevenuto",
+        "zipcode": "18940-074"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Garcia Braga",
+        "zipcode": "18940-039"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Bom Jesus",
+        "street": "Rua José Paula da Silva",
+        "zipcode": "18940-146"
+    },
+    {
+        "city": "São Pedro do Turvo",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Benedita de Oliveira Branco",
+        "zipcode": "18940-156"
+    }
+]

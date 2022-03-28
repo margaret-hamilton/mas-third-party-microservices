@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Cachoeira Paulista",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "12630-000"
+    },
+    {
+        "city": "Cachoeira Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Ribeiro de Almeida 36",
+        "zipcode": "12630-970"
+    },
+    {
+        "city": "Cachoeira Paulista",
+        "state": "SP",
+        "district": "Alto da Bela Vista",
+        "street": "Rua João Paulo II s/n",
+        "zipcode": "12630-900"
+    },
+    {
+        "city": "Cachoeira Paulista",
+        "state": "SP",
+        "district": "Embaú",
+        "street": "Rua Maria Aparecida Godoy Fleming",
+        "zipcode": "12630-971"
+    }
+]

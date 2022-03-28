@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Rochedo",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Duque De Caxias",
+        "zipcode": "79450-970"
+    },
+    {
+        "city": "Rochedo",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua dos Dourados s/n Lote 19",
+        "zipcode": "79450-971"
+    },
+    {
+        "city": "Rochedo",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79450-000"
+    },
+    {
+        "city": "Rochedo",
+        "state": "MS",
+        "district": null,
+        "street": "Rua dos Dourados",
+        "zipcode": "79450-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Pedreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Alice Moreira 61",
+        "zipcode": "13920-970"
+    },
+    {
+        "city": "Pedreira",
+        "state": "SP",
+        "district": "Vila São José",
+        "street": "Avenida Joaquim Carlos 1427",
+        "zipcode": "13920-971"
+    },
+    {
+        "city": "Pedreira",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13920-000"
+    }
+]

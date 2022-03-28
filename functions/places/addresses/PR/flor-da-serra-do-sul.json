@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Flor da Serra do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Francisco Perondi 341",
+        "zipcode": "85618-972"
+    },
+    {
+        "city": "Flor da Serra do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Rua João Arisi",
+        "zipcode": "85618-990"
+    },
+    {
+        "city": "Flor da Serra do Sul",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85618-000"
+    }
+]

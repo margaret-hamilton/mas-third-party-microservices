@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Gavião Peixoto",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Alameda Gulla 373",
+        "zipcode": "14813-970"
+    },
+    {
+        "city": "Gavião Peixoto",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "14813-000"
+    },
+    {
+        "city": "Gavião Peixoto",
+        "state": "SP",
+        "district": null,
+        "street": "Avenida Araraquarense",
+        "zipcode": "14813-990"
+    }
+]

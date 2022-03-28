@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Monte Formoso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Pinheiro 292",
+        "zipcode": "39893-972"
+    },
+    {
+        "city": "Monte Formoso",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39893-000"
+    }
+]

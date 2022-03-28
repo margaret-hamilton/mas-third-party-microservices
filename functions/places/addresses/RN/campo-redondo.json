@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Campo Redondo",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua Coronel Severino Bezerra 250",
+        "zipcode": "59230-970"
+    },
+    {
+        "city": "Campo Redondo",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59230-000"
+    },
+    {
+        "city": "Campo Redondo",
+        "state": "RN",
+        "district": "Serra do Doutor",
+        "street": "Rua Principal s/n",
+        "zipcode": "59230-972"
+    },
+    {
+        "city": "Campo Redondo",
+        "state": "RN",
+        "district": "Malhada Vermelha",
+        "street": "Rua Principal s/n",
+        "zipcode": "59230-971"
+    },
+    {
+        "city": "Campo Redondo",
+        "state": "RN",
+        "district": null,
+        "street": "Centro Comunitário de Ramal",
+        "zipcode": "59230-990"
+    }
+]

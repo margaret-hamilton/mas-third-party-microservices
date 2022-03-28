@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ipaumirim",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Gustavo Lima 138",
+        "zipcode": "63340-970"
+    },
+    {
+        "city": "Ipaumirim",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Coronel Gustavo Lima",
+        "zipcode": "63340-990"
+    },
+    {
+        "city": "Ipaumirim",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "63340-000"
+    }
+]

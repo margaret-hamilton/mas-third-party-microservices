@@ -1,0 +1,6841 @@
+[
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua da Harmonia",
+        "zipcode": "13238-263"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Prudente de Moraes",
+        "zipcode": "13230-125"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Estrada Atibaia",
+        "zipcode": "13234-100"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Paiol",
+        "street": "Rua Três",
+        "zipcode": "13234-670"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Solange",
+        "street": "Rua Rouxinol",
+        "zipcode": "13236-160"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Diamante",
+        "zipcode": "13232-445"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Hermamm",
+        "zipcode": "13230-280"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Sorocaba",
+        "zipcode": "13238-535"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Atibaia",
+        "zipcode": "13232-111"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Avenida Atibaia",
+        "zipcode": "13232-300"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua José da Silva",
+        "zipcode": "13230-410"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Conrado",
+        "street": "Rua Raimundo Baglio",
+        "zipcode": "13231-092"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Timbara",
+        "street": "Rua Um",
+        "zipcode": "13233-150"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Um",
+        "zipcode": "13234-110"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Wenceslau Brás",
+        "zipcode": "13230-128"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Iara",
+        "zipcode": "13232-352"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Armando Sales de Oliveira",
+        "zipcode": "13230-160"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Alaska",
+        "zipcode": "13231-271"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Maria",
+        "street": "Rua Alcino Delate",
+        "zipcode": "13236-400"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Rua Bari",
+        "zipcode": "13233-101"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Estrada Gabriela Maria da Conceição",
+        "zipcode": "13238-400"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Edmundo Reis Frias Júnior",
+        "zipcode": "13232-255"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua Fausto Betini",
+        "zipcode": "13232-202"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Gerânios",
+        "zipcode": "13232-570"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Guaporé",
+        "zipcode": "13233-320"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Helvécio Paulino",
+        "zipcode": "13232-254"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Holanda",
+        "zipcode": "13232-031"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Avenida Integração",
+        "zipcode": "13233-200"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Rua Jarinu",
+        "zipcode": "13233-261"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Loja da China (Botujuru)",
+        "street": "Avenida José Bonifácio de Andrada e Silva",
+        "zipcode": "13238-600"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Conrado",
+        "street": "Rua Laerte Monteiro de Oliveira",
+        "zipcode": "13231-100"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua das Laranjas",
+        "zipcode": "13233-000"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Maracanã",
+        "zipcode": "13232-353"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Rua Massayuki Kariya",
+        "zipcode": "13230-491"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francisco Miguel",
+        "zipcode": "13230-970"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francisco Miguel",
+        "zipcode": "13231-999"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Avenida Manoel Tavares da Silva",
+        "zipcode": "13230-971"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Bragança Paulista",
+        "zipcode": "13232-367"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Catarina",
+        "street": "Rua Argentina",
+        "zipcode": "13231-050"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Padre Manoel da Nóbrega",
+        "zipcode": "13230-340"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Avenida Dom Pedro I",
+        "zipcode": "13236-000"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Loja da China (Botujuru)",
+        "street": "Rua Presidente Floriano Peixoto",
+        "zipcode": "13238-613"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Pedro Motoya",
+        "zipcode": "13236-262"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua João Pereira Teixeira",
+        "zipcode": "13236-101"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Catanduva",
+        "zipcode": "13238-504"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Jaboticabal",
+        "zipcode": "13238-515"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Borba Gato",
+        "zipcode": "13230-900"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Avenida Alfried Krupp",
+        "zipcode": "13231-900"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila da Conquista",
+        "street": "Rua Onofre Marques de Lima",
+        "zipcode": "13232-325"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Branca",
+        "street": "Rua Agenor Inácio",
+        "zipcode": "13231-440"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Rua Miguel Servet",
+        "zipcode": "13233-410"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Rua Nova Odessa",
+        "zipcode": "13233-281"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim das Palmeiras (Botujuru)",
+        "street": "Rua Cláudio Manoel da Costa",
+        "zipcode": "13238-055"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Águas de Lindóia",
+        "zipcode": "13238-482"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Recanto das Videiras",
+        "street": "Rua Um",
+        "zipcode": "13234-420"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Itobi",
+        "zipcode": "13238-460"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Primeiro de Dezembro",
+        "zipcode": "13231-902"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua Primo Caravieri",
+        "zipcode": "13232-210"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Timbara",
+        "street": "Rua Ipês",
+        "zipcode": "13233-155"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Rio Jundiaí",
+        "zipcode": "13232-060"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Solimões",
+        "zipcode": "13232-132"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Rio Tamanduateí",
+        "zipcode": "13232-081"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua Salvador Di Gioia",
+        "zipcode": "13232-211"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Sebastião Baptista de Oliveira",
+        "zipcode": "13232-272"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Nova Germânia",
+        "street": "Rua Serra dos Pirineus",
+        "zipcode": "13233-172"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Tenente",
+        "zipcode": "13232-284"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via Tietê",
+        "zipcode": "13233-214"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via Tocantins",
+        "zipcode": "13233-222"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Isabel (Botujuru)",
+        "street": "Rua Visconde de Taunay",
+        "zipcode": "13238-410"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Yolanda Rossi Dalbelo",
+        "zipcode": "13236-121"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio São Francisco",
+        "zipcode": "13232-131"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua Coroa de Cristo",
+        "zipcode": "13232-531"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Via Itália",
+        "zipcode": "13233-405"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Bragantina",
+        "zipcode": "13232-099"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Via Alemanha",
+        "zipcode": "13233-400"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Alfried Krupp",
+        "zipcode": "13230-060"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Altinópolis",
+        "zipcode": "13238-483"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Marieta (Botujuru)",
+        "street": "Rua Antônio Gomes de Oliveira",
+        "zipcode": "13238-652"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Avignon",
+        "zipcode": "13233-690"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Botucatu",
+        "zipcode": "13238-494"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Avenida Casa Branca",
+        "zipcode": "13238-450"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Dez",
+        "zipcode": "13234-160"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Dezesseis",
+        "zipcode": "13234-162"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Firenze (Botujuru)",
+        "street": "Rua Domingos Jorge Velho",
+        "zipcode": "13238-661"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Feira de Santana",
+        "zipcode": "13236-520"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Travessa das Flores",
+        "zipcode": "13233-511"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Via Hamburgo",
+        "zipcode": "13233-403"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Mentori Rossi",
+        "zipcode": "13236-232"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vera Regina",
+        "street": "Rua Hugo Sardella",
+        "zipcode": "13236-320"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Jacarandás",
+        "zipcode": "13233-530"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua João Julião Moreira",
+        "zipcode": "13238-470"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Loja da China (Botujuru)",
+        "street": "Rua Joaquim Nabuco",
+        "zipcode": "13238-614"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua José Gabriel de Lima",
+        "zipcode": "13236-280"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Le Mans",
+        "zipcode": "13233-610"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Maria Maiolino de Souza",
+        "zipcode": "13230-020"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Maria",
+        "street": "Rua Marquês de Paranaguá",
+        "zipcode": "13236-412"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Metz",
+        "zipcode": "13233-671"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Miguel Roberto Consentino",
+        "zipcode": "13230-073"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Nossa Senhora do Rosário",
+        "zipcode": "13230-035"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Oito",
+        "zipcode": "13234-150"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Ouro Preto",
+        "zipcode": "13236-522"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara São João",
+        "street": "Rua São João Batista",
+        "zipcode": "13236-812"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Rua Atibaia",
+        "zipcode": "13233-270"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Joaquim Pereira Pinto",
+        "zipcode": "13230-008"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Rio Paraná",
+        "zipcode": "13232-091"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Panorama",
+        "zipcode": "13238-531"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Pinhos",
+        "zipcode": "13233-553"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Quatro",
+        "zipcode": "13234-113"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Quatro de Novembro",
+        "zipcode": "13238-222"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim das Palmeiras (Botujuru)",
+        "street": "Rua Roque Valentim",
+        "zipcode": "13238-050"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasília (Botujuru)",
+        "street": "Rua Rosa Ferreira Varandas",
+        "zipcode": "13238-092"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Santa Maria",
+        "zipcode": "13234-195"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Santo André",
+        "zipcode": "13234-240"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua São Francisco",
+        "zipcode": "13238-254"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Jorge",
+        "zipcode": "13234-181"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Seis",
+        "zipcode": "13234-120"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Fritz (Botujuru)",
+        "street": "Rua Três",
+        "zipcode": "13238-083"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Venerando Humberto Cereser",
+        "zipcode": "13233-630"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Vinte e Cinco de Janeiro",
+        "zipcode": "13238-232"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida dos Emancipadores",
+        "zipcode": "13230-065"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Gonçalo Silvério da Rosa",
+        "zipcode": "13236-260"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Dona Donata Molinari Cereser",
+        "zipcode": "13233-640"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Quatorze",
+        "zipcode": "13234-151"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Altino Arantes",
+        "zipcode": "13230-230"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Imape",
+        "street": "Rua Antônio Patelli",
+        "zipcode": "13231-140"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Arthur Bernardes",
+        "zipcode": "13230-120"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Imape",
+        "street": "Rua Barão de Jundiai",
+        "zipcode": "13231-170"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua João Nicolau Teodoro",
+        "zipcode": "13238-755"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Antônio Faustino Bizetto",
+        "zipcode": "13238-764"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Estados Unidos",
+        "zipcode": "13231-250"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Felício Consentino",
+        "zipcode": "13231-122"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Groelândia",
+        "zipcode": "13231-240"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Domingos",
+        "street": "Rua Joaquim Ferreira dos Santos",
+        "zipcode": "13231-422"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Travessa José de Alencar",
+        "zipcode": "13230-117"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Júlio Prestes",
+        "zipcode": "13230-200"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Laurides Bonamigo",
+        "zipcode": "13231-465"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Domingos",
+        "street": "Rua Manoel Magalhães",
+        "zipcode": "13231-423"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Marechal Deodoro da Fonseca",
+        "zipcode": "13230-130"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Avenida Marginal",
+        "zipcode": "13230-140"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "13230-105"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua dos Morangos",
+        "zipcode": "13233-010"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Nicarágua",
+        "zipcode": "13231-210"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Anna Nunes da Silva",
+        "zipcode": "13238-761"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Imape",
+        "street": "Rua Nove de Julho",
+        "zipcode": "13231-130"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Paulo VI",
+        "zipcode": "13231-121"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Avenida Presidente Washington Luiz",
+        "zipcode": "13230-110"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Domingos",
+        "street": "Rua Quatro",
+        "zipcode": "13231-424"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Recife",
+        "zipcode": "13231-351"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Catarina",
+        "street": "Rua México",
+        "zipcode": "13231-061"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Campo Limpo",
+        "street": "Rua Zeferino Vaz",
+        "zipcode": "13230-510"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Ipê (Botujuru)",
+        "street": "Estrada Vereador Jair Pereira dos Santos",
+        "zipcode": "13238-674"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "13230-080"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Condomínio Cerro Azul",
+        "street": "Rua dos Pássaros",
+        "zipcode": "13234-433"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda do Espigão",
+        "zipcode": "13234-704"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Duartina",
+        "zipcode": "13238-508"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Sérgio Porto",
+        "zipcode": "13231-391"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua José de Alencar",
+        "zipcode": "13230-115"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Vasco Antônio Venchiarutti",
+        "zipcode": "13231-461"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Vicente Devecchi",
+        "zipcode": "13231-462"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Isabel (Botujuru)",
+        "street": "Rua Visconde de Pirajá",
+        "zipcode": "13238-413"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Campo Limpo",
+        "street": "Rua Waldemar Cordtiz",
+        "zipcode": "13230-520"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "13231-380"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Palmas",
+        "zipcode": "13232-523"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Noel Rosa",
+        "zipcode": "13231-410"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Francisco Alves",
+        "zipcode": "13231-390"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Honduras",
+        "zipcode": "13231-220"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Antônio Bonamigo",
+        "zipcode": "13231-467"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Antônio Farina",
+        "zipcode": "13231-200"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua Ariovaldo Afonso Ellia",
+        "zipcode": "13231-484"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Armando Lenhaioli",
+        "zipcode": "13232-261"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Arpuí",
+        "zipcode": "13232-364"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Estrada do Barrocão",
+        "zipcode": "13232-370"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Bento de Lucca",
+        "zipcode": "13232-292"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Caetetuba",
+        "zipcode": "13232-365"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua Carlos Christo",
+        "zipcode": "13232-203"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Curitibanos",
+        "zipcode": "13232-351"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Edson Batista",
+        "zipcode": "13232-290"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Edson Gonçalves do Nascimento",
+        "zipcode": "13232-291"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Elias de Camargo",
+        "zipcode": "13232-262"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Francisco Takashi Yasuda",
+        "zipcode": "13232-252"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua Gonçalo Gerez Navarro",
+        "zipcode": "13231-486"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Inglaterra",
+        "zipcode": "13232-011"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua Irene Belliero Boraldo",
+        "zipcode": "13232-212"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua José Ascoli",
+        "zipcode": "13232-201"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua José Paoli",
+        "zipcode": "13232-214"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua José Valter Pacheco",
+        "zipcode": "13232-263"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua Juvenal Martins de Azevedo",
+        "zipcode": "13231-483"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Lázaro Braggiom",
+        "zipcode": "13232-273"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua Lázaro Franco Gregório",
+        "zipcode": "13231-490"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rafael Zulli",
+        "zipcode": "13232-190"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Amazonas",
+        "zipcode": "13232-141"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Beberibe",
+        "zipcode": "13232-110"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Ipojuca",
+        "zipcode": "13232-151"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Paraíba",
+        "zipcode": "13232-121"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Paranapanema",
+        "zipcode": "13232-130"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua Rubens Zulli",
+        "zipcode": "13232-204"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Praça Geraldo Perez",
+        "zipcode": "13231-337"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila da Conquista",
+        "street": "Rua Luiz Martucci",
+        "zipcode": "13232-324"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Colinas do Pontal (Botujuru)",
+        "street": "Rua Águas de Lindóia",
+        "zipcode": "13238-158"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Domingos",
+        "street": "Rua Padre Salésio",
+        "zipcode": "13231-420"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "13231-471"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Severiano Alves de Jesus",
+        "zipcode": "13230-210"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Serra Morena",
+        "street": "Alameda Serra Morena",
+        "zipcode": "13234-540"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Praça Vitória",
+        "zipcode": "13231-359"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Sebastião Custódio da Rosa",
+        "zipcode": "13232-264"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Taboão",
+        "zipcode": "13232-360"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Grande",
+        "zipcode": "13232-113"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua Flávio de Azevedo Brandão",
+        "zipcode": "13231-487"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Shirley de Almeida Tapias",
+        "zipcode": "13232-296"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Camanducaia",
+        "zipcode": "13232-140"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Rua Várzea Paulista",
+        "zipcode": "13233-280"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Antônio Jeremias",
+        "zipcode": "13232-265"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Mestre Gebin",
+        "zipcode": "13232-350"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua Otávio Agostinho",
+        "zipcode": "13231-482"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Acre",
+        "zipcode": "13233-322"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Angicos",
+        "zipcode": "13233-532"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua Araçás",
+        "zipcode": "13233-050"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada das Cabreúvas",
+        "zipcode": "13233-522"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada das Canelas",
+        "zipcode": "13233-550"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Timbara",
+        "street": "Rua Cinco",
+        "zipcode": "13233-151"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Rua Danúbio",
+        "zipcode": "13233-103"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santhiago",
+        "street": "Rua da Esplanada",
+        "zipcode": "13232-413"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Fernando de Noronha",
+        "zipcode": "13233-340"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua Flor de Maio",
+        "zipcode": "13232-524"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Via Floresta Negra",
+        "zipcode": "13233-412"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Rua Hamburgo",
+        "zipcode": "13233-100"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via Igarapés",
+        "zipcode": "13233-211"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Ipês",
+        "zipcode": "13233-510"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santhiago",
+        "street": "Rua do Itamaraty",
+        "zipcode": "13232-410"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Recanto Campo Verde",
+        "street": "Rua Itatiba",
+        "zipcode": "13233-291"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua João Gabriel de Lima",
+        "zipcode": "13233-321"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada do Lago",
+        "zipcode": "13233-542"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Miosótis",
+        "zipcode": "13232-513"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Via Muchenn",
+        "zipcode": "13233-082"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Via Nova Essen",
+        "zipcode": "13233-402"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada das Palmeiras",
+        "zipcode": "13233-500"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Papoulas",
+        "zipcode": "13232-511"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via Rio Grande",
+        "zipcode": "13233-212"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Via Roma",
+        "zipcode": "13233-404"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Rosas",
+        "zipcode": "13232-521"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Nova Germânia",
+        "street": "Rua Serra da Mantiqueira",
+        "zipcode": "13233-171"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Maria Benedita Souza Pereira",
+        "zipcode": "13232-293"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Pérola",
+        "zipcode": "13232-444"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Via Suíça",
+        "zipcode": "13233-420"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Recanto Campo Verde",
+        "street": "Rua Sumaré",
+        "zipcode": "13233-290"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Estrada Cosimo",
+        "zipcode": "13233-061"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita II",
+        "street": "Rua José Trevisan",
+        "zipcode": "13233-128"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Lilases",
+        "zipcode": "13232-561"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Ernesto Burger",
+        "zipcode": "13236-263"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Ametista",
+        "zipcode": "13232-451"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Rua Itupeva",
+        "zipcode": "13233-262"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Rua Colônia",
+        "zipcode": "13233-102"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Francisca Guerra Braghetto",
+        "zipcode": "13231-125"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Água Marinha",
+        "zipcode": "13232-446"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Margaridas",
+        "zipcode": "13232-512"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Campo Limpo",
+        "street": "Rua Topázio",
+        "zipcode": "13233-451"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua Vitória Régia",
+        "zipcode": "13232-510"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via Xingu",
+        "zipcode": "13233-223"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Amendoins",
+        "zipcode": "13233-540"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Timbara",
+        "street": "Rua Angicos",
+        "zipcode": "13233-153"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santhiago",
+        "street": "Rua do Planalto",
+        "zipcode": "13232-412"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Cinco",
+        "zipcode": "13234-114"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada da Cooperativa",
+        "zipcode": "13234-601"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Dezessete",
+        "zipcode": "13234-152"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Dezoito",
+        "zipcode": "13234-153"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Dijon",
+        "zipcode": "13233-652"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Doze",
+        "zipcode": "13234-142"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Havre",
+        "zipcode": "13233-631"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Lyon",
+        "zipcode": "13233-641"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Malo",
+        "zipcode": "13233-681"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Marselha",
+        "zipcode": "13233-600"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada Moacyr Grandisoli",
+        "zipcode": "13234-600"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Narbona",
+        "zipcode": "13233-612"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Nossa Senhora Aparecida",
+        "zipcode": "13234-191"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Notre Dame",
+        "zipcode": "13233-650"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Onze",
+        "zipcode": "13234-141"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Paris",
+        "zipcode": "13233-621"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Paul Ricard",
+        "zipcode": "13233-620"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Santa Luzia",
+        "zipcode": "13234-221"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Santo Agostinho",
+        "zipcode": "13234-194"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São José",
+        "zipcode": "13234-171"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Luiz",
+        "zipcode": "13234-231"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Vicente",
+        "zipcode": "13234-193"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Sete",
+        "zipcode": "13234-130"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Tarbes",
+        "zipcode": "13233-661"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Três",
+        "zipcode": "13234-112"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada Velha do Pau Arcado",
+        "zipcode": "13234-605"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Versalhes",
+        "zipcode": "13233-680"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Dois",
+        "zipcode": "13234-111"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Santa Clara",
+        "zipcode": "13234-210"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Toulon",
+        "zipcode": "13233-632"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Carlos",
+        "zipcode": "13234-230"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Lázaro",
+        "zipcode": "13234-170"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Treze",
+        "zipcode": "13234-143"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita II",
+        "street": "Rua João Francisco Guerra",
+        "zipcode": "13233-125"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada das Embuias",
+        "zipcode": "13233-523"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada do Bosque",
+        "zipcode": "13233-534"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Nova Germânia",
+        "street": "Rua Serra do Mar",
+        "zipcode": "13233-173"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Recanto do Lago",
+        "street": "Rua do Lago",
+        "zipcode": "13234-440"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Travessa do Bosque",
+        "zipcode": "13233-533"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Travessa dos Jequitibás",
+        "zipcode": "13233-524"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Condomínio Cerro Azul",
+        "street": "Avenida Sílvia Regina",
+        "zipcode": "13234-430"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Praça dos João Manzi",
+        "zipcode": "13233-519"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Condomínio Cerro Azul",
+        "street": "Rua Vanessa",
+        "zipcode": "13234-431"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita",
+        "street": "Rua Dois",
+        "zipcode": "13233-134"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada do Pau DAlho",
+        "zipcode": "13233-543"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Campo Limpo",
+        "street": "Rua Rubi",
+        "zipcode": "13233-461"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Nova Germânia",
+        "street": "Rua Lázaro Gago",
+        "zipcode": "13233-176"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua France",
+        "zipcode": "13233-692"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Azulão",
+        "zipcode": "13236-182"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Canário",
+        "zipcode": "13236-162"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vera Regina",
+        "street": "Rua Carlos Caseli",
+        "zipcode": "13236-340"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Cezar Marquesini",
+        "zipcode": "13236-272"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Conselheiro Lafaiete",
+        "zipcode": "13236-514"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Francisco Mariano",
+        "zipcode": "13236-102"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua das Garças",
+        "zipcode": "13236-190"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Hajime Ogawa",
+        "zipcode": "13236-233"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Avenida Henrique Guanciale",
+        "zipcode": "13236-010"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Herculano Tavares",
+        "zipcode": "13236-292"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Jacutinga",
+        "zipcode": "13236-181"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Jaime Martinelli",
+        "zipcode": "13236-250"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua João Guanciale",
+        "zipcode": "13236-140"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua João Stefani",
+        "zipcode": "13236-282"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua José Bertine",
+        "zipcode": "13236-240"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua José Cintra de Melo",
+        "zipcode": "13234-610"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Juiz de Fora",
+        "zipcode": "13236-515"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Maria José Rodrigues",
+        "zipcode": "13236-200"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Maria Pavanello Bonamigo",
+        "zipcode": "13236-241"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Mário Migotto",
+        "zipcode": "13236-020"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vera Regina",
+        "street": "Rua Mário Pinto",
+        "zipcode": "13236-360"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Maria",
+        "street": "Rua Marquês de Paranapiacaba",
+        "zipcode": "13236-411"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada do Palma",
+        "zipcode": "13234-615"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Sabiá",
+        "zipcode": "13236-180"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Sanhaço",
+        "zipcode": "13236-220"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Sena Madureira",
+        "zipcode": "13236-510"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Sérgio Alexandre Borim",
+        "zipcode": "13236-100"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rodovia Edgard Máximo Zambotto",
+        "zipcode": "13236-145"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Sylvio Guanciale",
+        "zipcode": "13236-110"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Teófilo Otoni",
+        "zipcode": "13236-523"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Vitória da Conquista",
+        "zipcode": "13236-512"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Vitório Mazzuco",
+        "zipcode": "13236-120"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua Dois Km 8",
+        "zipcode": "13234-645"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada Zé Tropeiro",
+        "zipcode": "13234-614"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Afonso Pena",
+        "zipcode": "13236-060"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Colibri",
+        "zipcode": "13236-170"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua São João Del Rey",
+        "zipcode": "13236-513"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Alice Muniz de Oliveira",
+        "zipcode": "13236-231"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vera Regina",
+        "street": "Rua Francisco Moron",
+        "zipcode": "13236-330"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Hilda Koeller Ramos",
+        "zipcode": "13236-290"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Paiol",
+        "street": "Rua Um",
+        "zipcode": "13234-650"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Serra Morena",
+        "street": "Alameda das Araucárias",
+        "zipcode": "13234-520"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Solange",
+        "street": "Rua Quatro",
+        "zipcode": "13236-152"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Solange",
+        "street": "Rua Dois",
+        "zipcode": "13236-150"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita",
+        "street": "Rua Quatro",
+        "zipcode": "13233-140"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita",
+        "street": "Rua José Benedito de Lima",
+        "zipcode": "13233-138"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Paiol",
+        "street": "Rua Dois",
+        "zipcode": "13234-660"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita",
+        "street": "Rua José Domingues Ruiz",
+        "zipcode": "13233-142"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Travessa Condor",
+        "zipcode": "13236-195"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Solange",
+        "street": "Rua Francisca Maria de Almeida",
+        "zipcode": "13236-155"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua José Manoel Rodrigues",
+        "zipcode": "13236-065"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua das Américas",
+        "zipcode": "13238-110"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Santo Expedito",
+        "zipcode": "13238-213"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasília (Botujuru)",
+        "street": "Rua Antônia Maria da Silva",
+        "zipcode": "13238-096"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasília (Botujuru)",
+        "street": "Rua Benedito Ferreira da Rosa",
+        "zipcode": "13238-095"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Cabo Frio",
+        "zipcode": "13236-534"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Campina Grande",
+        "zipcode": "13236-530"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Corumbá",
+        "zipcode": "13231-323"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Costa Rica",
+        "zipcode": "13231-272"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "13238-142"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Damasco",
+        "zipcode": "13238-251"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Fritz (Botujuru)",
+        "street": "Rua Dois",
+        "zipcode": "13238-082"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Engenheiro Mendonça",
+        "zipcode": "13238-231"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Fabiano",
+        "zipcode": "13238-250"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim das Palmeiras (Botujuru)",
+        "street": "Rua Joana Simon",
+        "zipcode": "13238-060"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua João Bizetto",
+        "zipcode": "13238-241"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Fritz (Botujuru)",
+        "street": "Viela Júpiter",
+        "zipcode": "13238-070"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Lígia Bizetto",
+        "zipcode": "13238-240"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasília (Botujuru)",
+        "street": "Rua Mariovaldo Viscaino",
+        "zipcode": "13238-090"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "13230-100"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Rua Prudência Cardoso",
+        "zipcode": "13230-430"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara São João",
+        "street": "Caminho Quatro",
+        "zipcode": "13236-813"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua da República",
+        "zipcode": "13238-143"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Santo Antônio",
+        "zipcode": "13238-260"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua Santos Dumont",
+        "zipcode": "13238-140"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua São João do Meriti",
+        "zipcode": "13236-532"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua São Paulo",
+        "zipcode": "13238-221"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Fritz (Botujuru)",
+        "street": "Viela Saturno",
+        "zipcode": "13238-072"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasília (Botujuru)",
+        "street": "Rua Teodoro Feliciano de Moraes",
+        "zipcode": "13238-094"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua Tiradentes",
+        "zipcode": "13238-100"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara São João",
+        "street": "Caminho Um",
+        "zipcode": "13236-810"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Travessa Um",
+        "zipcode": "13238-201"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Fritz (Botujuru)",
+        "street": "Rua Um",
+        "zipcode": "13238-081"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasília (Botujuru)",
+        "street": "Rua Arnaldo Tanaka",
+        "zipcode": "13238-091"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Fritz (Botujuru)",
+        "street": "Rua Marte",
+        "zipcode": "13238-073"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim das Palmeiras (Botujuru)",
+        "street": "Rua Acácio da Silva Nunes",
+        "zipcode": "13238-030"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Estrada das Rosas",
+        "zipcode": "13236-559"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "13238-144"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Olímpio Baptista",
+        "zipcode": "13230-095"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Wanderley",
+        "zipcode": "13238-255"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Bonsucesso",
+        "street": "Estrada Gabriela Maria da Conceição",
+        "zipcode": "13238-440"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Recanto das Rosas",
+        "street": "Rua Hans Lenk",
+        "zipcode": "13236-600"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Andradina",
+        "zipcode": "13238-485"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Loja da China (Botujuru)",
+        "street": "Rua Assis Chateaubriand",
+        "zipcode": "13238-610"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara São João",
+        "street": "Estrada dos Cristais",
+        "zipcode": "13236-800"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Rua José Spinasse",
+        "zipcode": "13236-561"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Colinas do Pontal (Botujuru)",
+        "street": "Rua Domingos Maiole",
+        "zipcode": "13238-154"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Largo Estação",
+        "zipcode": "13238-209"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Estela Borges Morato",
+        "zipcode": "13238-211"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Avaré",
+        "zipcode": "13238-486"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Barra Bonita",
+        "zipcode": "13238-490"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Bauru",
+        "zipcode": "13238-492"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua dos Beneméritos",
+        "zipcode": "13238-270"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Marieta (Botujuru)",
+        "street": "Rua Cecílio Rodrigues",
+        "zipcode": "13238-650"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada do Cedro",
+        "zipcode": "13233-544"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Loja da China (Botujuru)",
+        "street": "Rua Cornélio Pires",
+        "zipcode": "13238-601"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua Dama da Noite",
+        "zipcode": "13232-522"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Campo Limpo",
+        "street": "Rua David Nasser",
+        "zipcode": "13230-530"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Diogo Álvares Correia",
+        "zipcode": "13238-723"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Dracena",
+        "zipcode": "13238-507"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Duarte da Costa",
+        "zipcode": "13238-720"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Estácio de Sá",
+        "zipcode": "13238-732"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua Eugênio Belliero Boraldo",
+        "zipcode": "13232-213"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Fernão Dias Paes",
+        "zipcode": "13230-390"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Franca",
+        "zipcode": "13238-510"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Rua Francisco Cardoso de Almeida",
+        "zipcode": "13230-440"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Guatemala",
+        "zipcode": "13231-230"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Marieta (Botujuru)",
+        "street": "Rua Maria Cardoso Soares",
+        "zipcode": "13238-654"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Firenze (Botujuru)",
+        "street": "Rua Pascoal Moreira",
+        "zipcode": "13238-662"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Loja da China (Botujuru)",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "13238-611"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Marieta (Botujuru)",
+        "street": "Rua Quatro",
+        "zipcode": "13238-653"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Quintilha Cereser",
+        "zipcode": "13233-670"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Imape",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "13231-150"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Paraguai",
+        "zipcode": "13232-112"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Vidal de Negreiros",
+        "zipcode": "13238-731"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Violetas",
+        "zipcode": "13232-514"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Marieta (Botujuru)",
+        "street": "Rua Wilson Nicola Garcia",
+        "zipcode": "13238-651"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Rua Berlin",
+        "zipcode": "13233-105"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Ivoturucaia",
+        "street": "Estrada do Rossi",
+        "zipcode": "13234-300"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Lagoa Branca",
+        "street": "Avenida João Amato",
+        "zipcode": "13231-620"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Avenida Alfried Krupp",
+        "zipcode": "13232-005"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Avenida Antônio Di Gioia",
+        "zipcode": "13232-200"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Ari Barroso",
+        "zipcode": "13231-371"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Residencial Califórnia",
+        "street": "Rua Benedito de Paula Cordeiro",
+        "zipcode": "13232-205"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Avenida Brasília",
+        "zipcode": "13231-330"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Capivari",
+        "zipcode": "13238-503"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Monte Castelo",
+        "zipcode": "13238-525"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Brás Cubas",
+        "zipcode": "13230-078"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Isabel (Botujuru)",
+        "street": "Rua Visconde de Porto Seguro",
+        "zipcode": "13238-414"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua O Fundador",
+        "zipcode": "13238-261"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Jales",
+        "zipcode": "13238-516"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Isabel (Botujuru)",
+        "street": "Rua Visconde de Mauá",
+        "zipcode": "13238-411"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Conchal",
+        "zipcode": "13238-505"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Isabel (Botujuru)",
+        "street": "Rua Visconde de Ouro Preto",
+        "zipcode": "13238-412"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Firenze (Botujuru)",
+        "street": "Rua Bartolomeu Bueno da Silva",
+        "zipcode": "13238-665"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Isabel (Botujuru)",
+        "street": "Rua Visconde de Barbacena",
+        "zipcode": "13238-415"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua do Padrinho",
+        "zipcode": "13238-530"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Américo Vespúcio",
+        "zipcode": "13238-711"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Campo Largo",
+        "zipcode": "13232-354"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Curitiba",
+        "zipcode": "13231-334"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua João Paulo Ribeiro",
+        "zipcode": "13238-762"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Dinamarca",
+        "zipcode": "13232-051"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua dos Eremitas",
+        "zipcode": "13238-750"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua Francisco Biazzi",
+        "zipcode": "13231-485"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Gaivota",
+        "zipcode": "13236-172"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Guarda Municipal Paulo Benedito de Camargo",
+        "zipcode": "13232-294"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vera Regina",
+        "street": "Rua Joaquim Pinheiro",
+        "zipcode": "13236-370"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Laurindo da Silva Pinto",
+        "zipcode": "13232-271"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Men de Sá",
+        "zipcode": "13238-742"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua dos Monges",
+        "zipcode": "13238-760"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Nelson Manoel",
+        "zipcode": "13232-283"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Fritz (Botujuru)",
+        "street": "Rua Netuno",
+        "zipcode": "13238-080"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Noruega",
+        "zipcode": "13232-033"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Joaquim Juvêncio dos Santos",
+        "zipcode": "13238-763"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Romildo Augusto de Oliveira",
+        "zipcode": "13231-466"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Benedito de Azevedo",
+        "zipcode": "13238-756"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Clarina Alexandrina Silva de Souza",
+        "zipcode": "13238-757"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Sexto Patelli",
+        "zipcode": "13231-360"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Constantino Fermínio",
+        "zipcode": "13238-765"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Avenida das Campanulas",
+        "zipcode": "13232-500"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Avenida Mitiharu Tanaka",
+        "zipcode": "13232-250"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Avinhado",
+        "zipcode": "13236-183"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Tejipió",
+        "zipcode": "13232-100"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua América do Sul",
+        "zipcode": "13231-563"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Firenze (Botujuru)",
+        "street": "Rua Pedro Lobo",
+        "zipcode": "13238-663"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Marília",
+        "zipcode": "13238-522"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Felícia Pereira Pinto",
+        "zipcode": "13230-371"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Praça Ministro Petrônio Portela",
+        "zipcode": "13236-219"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Pero Vaz de Caminha",
+        "zipcode": "13238-721"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Padre Vieira",
+        "zipcode": "13238-730"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Mococa",
+        "zipcode": "13238-524"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Avenida Adherbal da Costa Moreira",
+        "zipcode": "13231-901"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via Amazonas",
+        "zipcode": "13233-213"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Angélicas",
+        "zipcode": "13232-515"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Antúrios",
+        "zipcode": "13232-581"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Via Bohn",
+        "zipcode": "13233-071"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Dourge",
+        "zipcode": "13233-642"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua dos Bulgueiros",
+        "zipcode": "13234-631"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Travessa das Canelas",
+        "zipcode": "13233-551"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Estrada Cassatella",
+        "zipcode": "13233-040"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Cravos",
+        "zipcode": "13232-504"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua dos Crentes",
+        "zipcode": "13234-623"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Ribeirão Preto",
+        "zipcode": "13238-533"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Verbenas",
+        "zipcode": "13232-571"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua África",
+        "zipcode": "13231-560"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Crisântemos",
+        "zipcode": "13232-560"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Conrado",
+        "street": "Rua Vitalino de Oliveira Júnior",
+        "zipcode": "13231-080"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Praça Nossa Senhora do Carmo",
+        "zipcode": "13234-609"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Travessa do Cunha",
+        "zipcode": "13234-612"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Timbara",
+        "street": "Rua dos Jacarandas",
+        "zipcode": "13233-152"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Campo Limpo",
+        "street": "Estrada da Figueira Branca",
+        "zipcode": "13233-450"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Guanabara",
+        "zipcode": "13233-310"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Humberto Cereser",
+        "zipcode": "13233-660"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Rua Iguaçu",
+        "zipcode": "13233-224"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Lorient",
+        "zipcode": "13233-691"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Manacás",
+        "zipcode": "13233-521"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Nove",
+        "zipcode": "13234-140"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Orleans",
+        "zipcode": "13233-700"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada da Paineira",
+        "zipcode": "13233-541"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Primaveras",
+        "zipcode": "13232-550"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Quinze",
+        "zipcode": "13234-161"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Rua Roma",
+        "zipcode": "13233-104"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Rondônia",
+        "zipcode": "13233-331"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Santa Madalena",
+        "zipcode": "13234-180"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Bernardo",
+        "zipcode": "13234-200"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Francisco",
+        "zipcode": "13234-192"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Lucas",
+        "zipcode": "13234-172"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Nova Germânia",
+        "street": "Rua Serra da Cantareira",
+        "zipcode": "13233-170"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Tours",
+        "zipcode": "13233-673"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada das Laranjeiras",
+        "zipcode": "13233-501"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Rua Nazareth Paulista",
+        "zipcode": "13233-282"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Nice",
+        "zipcode": "13233-611"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua do Tanque",
+        "zipcode": "13232-366"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Estrada da Bragantina",
+        "zipcode": "13232-379"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Zequinha de Abreu",
+        "zipcode": "13231-401"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Rio do Peixe",
+        "zipcode": "13232-070"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua João Pessoa",
+        "zipcode": "13231-301"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Benedito Pereira dos Santos",
+        "zipcode": "13238-774"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Avenida Integração",
+        "zipcode": "13233-900"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Almirante Tamandaré",
+        "zipcode": "13236-040"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vera Regina",
+        "street": "Rua Antônio Donati",
+        "zipcode": "13236-350"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Bela Vista",
+        "zipcode": "13238-200"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Brasílio Gonçalves de Souza",
+        "zipcode": "13236-243"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Alameda Campinas",
+        "zipcode": "13236-141"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Caruaru",
+        "zipcode": "13236-531"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara São João",
+        "street": "Caminho Dois",
+        "zipcode": "13236-811"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Falcão",
+        "zipcode": "13236-171"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim das Palmeiras (Botujuru)",
+        "street": "Rua Isaías Rodrigues",
+        "zipcode": "13238-020"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua José Gonçalves Frutuoso",
+        "zipcode": "13232-085"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Núcleo Industrial",
+        "street": "Estrada Santa Quitéria",
+        "zipcode": "13231-500"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua América do Norte",
+        "zipcode": "13231-564"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Europa",
+        "zipcode": "13231-562"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Praça Balthazar Fidélis",
+        "zipcode": "13238-269"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Juriti",
+        "zipcode": "13236-161"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Leonor Righi Santinato",
+        "zipcode": "13236-281"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Enéas Oliveira",
+        "zipcode": "13231-472"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda da Mata",
+        "zipcode": "13234-692"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Solange",
+        "street": "Rua Manoel Jair dos Santos",
+        "zipcode": "13236-153"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Serra Morena",
+        "street": "Alameda do Lago",
+        "zipcode": "13234-530"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Oceania",
+        "zipcode": "13231-561"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Oswaldo Pinto",
+        "zipcode": "13236-111"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Pintassilgo",
+        "zipcode": "13236-221"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vera Regina",
+        "street": "Rua Ramiro Gonçalves Cardoso",
+        "zipcode": "13236-300"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua São João",
+        "zipcode": "13238-212"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasília (Botujuru)",
+        "street": "Rua Tereza Zanella Reis",
+        "zipcode": "13238-093"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Fritz (Botujuru)",
+        "street": "Viela Urano",
+        "zipcode": "13238-071"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Palmeira dos Índios",
+        "zipcode": "13236-511"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua Pedro Álvares Cabral",
+        "zipcode": "13238-141"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Amparo",
+        "zipcode": "13238-484"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua das Cerejas",
+        "zipcode": "13233-020"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Comendador João Cereser",
+        "zipcode": "13233-643"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua da Concórdia",
+        "zipcode": "13238-262"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Delta",
+        "zipcode": "13238-242"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rosalina Tavares da Silva",
+        "zipcode": "13230-030"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Eucaliptos",
+        "zipcode": "13233-552"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Estrada Faustino Bizetto",
+        "zipcode": "13238-300"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Giocondo Cornetto",
+        "zipcode": "13236-242"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Loja da China (Botujuru)",
+        "street": "Rua Hermes da Fonseca",
+        "zipcode": "13238-602"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Rua Antônio Costa Correa",
+        "zipcode": "13236-563"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Alecrins",
+        "zipcode": "13234-700"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Lídia dos Santos Ribeiro",
+        "zipcode": "13238-752"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Guapuruvus",
+        "zipcode": "13234-711"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua Antônio Pires Dias",
+        "zipcode": "13234-630"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda das Cássias",
+        "zipcode": "13234-694"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Cedros",
+        "zipcode": "13234-703"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Guarantãs",
+        "zipcode": "13234-705"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Cândido Mota",
+        "zipcode": "13238-502"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Alexandre de Gusmão",
+        "zipcode": "13238-741"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Ipês",
+        "zipcode": "13234-712"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Avenida Capitão Nivaldo Bonassi",
+        "zipcode": "13236-203"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Manacás",
+        "zipcode": "13234-714"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Maria José da Silva Santos",
+        "zipcode": "13238-751"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda das Quaresmeiras",
+        "zipcode": "13234-697"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Liquidâmbares",
+        "zipcode": "13234-706"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Nova Germânia",
+        "street": "Rua Serra Dourada",
+        "zipcode": "13233-175"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Marieta (Botujuru)",
+        "street": "Rua Licínio Francisco de Arruda",
+        "zipcode": "13238-655"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Lopes de Oliveira",
+        "zipcode": "13238-230"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Paus",
+        "zipcode": "13234-708"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Itápolis",
+        "zipcode": "13238-513"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Rosedás",
+        "zipcode": "13234-715"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda das Suínas",
+        "zipcode": "13234-698"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Waldemar Rossi",
+        "zipcode": "13238-758"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Tupi Paulista",
+        "zipcode": "13238-537"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda do Alto",
+        "zipcode": "13234-701"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Hortências",
+        "zipcode": "13232-532"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Colinas do Pontal (Botujuru)",
+        "street": "Rua Anézio Cordeiro Filho",
+        "zipcode": "13238-152"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Tenente João de Paula",
+        "zipcode": "13238-773"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda do Bosque",
+        "zipcode": "13234-702"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda do Vale",
+        "zipcode": "13234-709"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Timóteo José da Silva",
+        "zipcode": "13238-754"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda das Araucárias",
+        "zipcode": "13234-693"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda do Pau",
+        "zipcode": "13234-707"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Conrado",
+        "street": "Rua Osvaldo Fernandes Chagas",
+        "zipcode": "13231-090"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Cledemiro Silva",
+        "zipcode": "13238-771"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Campo Limpo",
+        "street": "Rua Safira",
+        "zipcode": "13233-480"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Joana Monteiro Bezerra",
+        "zipcode": "13238-753"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Travessa Vidal",
+        "zipcode": "13234-611"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua São Gabriel",
+        "zipcode": "13238-253"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Águas da Prata",
+        "zipcode": "13238-481"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Barra Dourada",
+        "zipcode": "13238-491"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Cafelândia",
+        "zipcode": "13238-501"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua João Ramalho",
+        "zipcode": "13238-710"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Portal da Primavera",
+        "street": "Rua Antônio Procópio Alves",
+        "zipcode": "13236-380"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Portal da Primavera",
+        "street": "Rua Dante Martinelli",
+        "zipcode": "13236-385"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Santa Cecília",
+        "street": "Rua Silvia",
+        "zipcode": "13238-698"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Avenida Casa Branca",
+        "zipcode": "13238-970"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Caçapava",
+        "zipcode": "13238-500"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Catarina",
+        "street": "Rua Venezuela",
+        "zipcode": "13231-051"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Catarina",
+        "street": "Rua Uruguai",
+        "zipcode": "13231-060"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Ângela Lessi Larrubia",
+        "zipcode": "13230-077"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Bélgica",
+        "zipcode": "13232-022"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Campo Limpo",
+        "street": "Rua Brilhante",
+        "zipcode": "13233-490"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Travessa do Cedro",
+        "zipcode": "13233-545"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Duílio Garbatti",
+        "zipcode": "13232-253"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Campo Limpo",
+        "street": "Rua Esmeralda",
+        "zipcode": "13233-470"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vera Regina",
+        "street": "Rua Gregório Muniz",
+        "zipcode": "13236-310"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Guaxinduva",
+        "zipcode": "13232-362"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Haiti",
+        "zipcode": "13231-221"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Hermann",
+        "zipcode": "13230-025"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Narcisos",
+        "zipcode": "13232-572"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Condomínio Cerro Azul",
+        "street": "Rua do Cisne",
+        "zipcode": "13234-432"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Martinópolis",
+        "zipcode": "13238-523"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Colinas do Pontal (Botujuru)",
+        "street": "Rua Maria Bertolini",
+        "zipcode": "13238-155"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Angicos",
+        "zipcode": "13234-710"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Travessa Regente Feijó",
+        "zipcode": "13238-101"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada das Aroeiras",
+        "zipcode": "13233-531"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Alameda das Palmeiras",
+        "zipcode": "13238-210"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Piracaia",
+        "zipcode": "13232-363"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Tocantins",
+        "zipcode": "13232-150"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Joaquim",
+        "zipcode": "13234-220"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Batista Arsênio Rossi",
+        "zipcode": "13230-010"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Borborema",
+        "zipcode": "13238-493"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Praça Mathias Rodrigues da Silva",
+        "zipcode": "13230-109"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Gladiolos",
+        "zipcode": "13232-503"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Timbara",
+        "street": "Rua Pinus",
+        "zipcode": "13233-154"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Serra Morena",
+        "street": "Alameda dos Eucaliptos",
+        "zipcode": "13234-510"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Maria",
+        "street": "Rua Otto Hassmann",
+        "zipcode": "13236-410"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua da Granja",
+        "zipcode": "13234-621"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Orly",
+        "zipcode": "13233-601"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Praça Thomaz Larrubia",
+        "zipcode": "13231-309"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Ipê (Botujuru)",
+        "street": "Rua José Honorato",
+        "zipcode": "13238-670"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Serra Negra",
+        "zipcode": "13238-534"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Núcleo Industrial",
+        "street": "Estrada Faustino Bizetto",
+        "zipcode": "13230-903"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Montes Claros",
+        "zipcode": "13236-521"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Campos Salles",
+        "zipcode": "13230-005"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Sétimo Patelli",
+        "zipcode": "13230-015"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Arapongas",
+        "zipcode": "13236-184"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Imape",
+        "street": "Rua Barão de Mauá",
+        "zipcode": "13231-160"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Via Berlim",
+        "zipcode": "13233-090"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Estrada dos Rochas",
+        "zipcode": "13236-557"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Domingos",
+        "street": "Rua Ermelindo Roque Formaggio",
+        "zipcode": "13231-421"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio II",
+        "street": "Rua Rio Sorocaba",
+        "zipcode": "13232-120"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Presidente Epitácio Pessoa",
+        "zipcode": "13230-090"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Catarina",
+        "street": "Praça Juana Moreno Munhoz",
+        "zipcode": "13231-055"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua São Luiz",
+        "zipcode": "13231-340"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Lucínio Laureano Perrino Lopes",
+        "zipcode": "13231-470"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Ramon Perez",
+        "zipcode": "13232-295"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Petúnias",
+        "zipcode": "13232-535"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Canedos",
+        "zipcode": "13232-361"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Codorna",
+        "zipcode": "13236-173"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada Coronel Victor Antônio Atolino",
+        "zipcode": "13234-613"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua Crista de Galo",
+        "zipcode": "13232-501"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Dálias",
+        "zipcode": "13232-553"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Via Dresden",
+        "zipcode": "13233-070"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Lagoa Branca",
+        "street": "Rodovia Edgard Máximo Zambotto",
+        "zipcode": "13231-700"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua Flor de Noiva",
+        "zipcode": "13232-520"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Francisco da Silva Pinto",
+        "zipcode": "13236-222"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francisco Miguel",
+        "zipcode": "13230-001"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Avenida Geraldo Silva",
+        "zipcode": "13232-280"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Travessa Gonçalo Antônio de Lima",
+        "zipcode": "13231-441"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua João Inácio Velasco",
+        "zipcode": "13230-330"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Job Gonçalves",
+        "zipcode": "13236-130"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua José de Souza Charrua",
+        "zipcode": "13231-481"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada José Olio",
+        "zipcode": "13234-602"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Ásia",
+        "zipcode": "13231-566"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Itatiba",
+        "zipcode": "13238-514"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Alameda do Sabiá",
+        "zipcode": "13234-641"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Guaíra",
+        "zipcode": "13238-511"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Recanto do Sapê",
+        "street": "Alameda dos Sabiás",
+        "zipcode": "13234-411"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua dos Abacates",
+        "zipcode": "13233-001"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Santa Inês",
+        "zipcode": "13234-232"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila da Conquista",
+        "street": "Rua Doutor Edgard Antonio de Souza",
+        "zipcode": "13232-320"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via Marajó",
+        "zipcode": "13233-221"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Troyes",
+        "zipcode": "13233-693"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Santa Bárbara",
+        "zipcode": "13234-222"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua Fiori Morandini",
+        "zipcode": "13236-165"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Lamartine Babo",
+        "zipcode": "13231-370"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Los Angeles",
+        "zipcode": "13231-280"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Maceió",
+        "zipcode": "13231-324"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Maria Joana de Matos",
+        "zipcode": "13232-287"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Olegário Azevedo Brandão",
+        "zipcode": "13230-350"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Marechal Humberto de Alencar Castelo Branco",
+        "zipcode": "13230-040"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Área Industrial",
+        "street": "Estrada Faustino Bizetto",
+        "zipcode": "13230-800"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila da Conquista",
+        "street": "Rua Mário Buckvieser",
+        "zipcode": "13232-321"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Belfort",
+        "zipcode": "13233-694"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua Onofre Machado",
+        "zipcode": "13234-620"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Orestes Barbosa",
+        "zipcode": "13231-411"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Orquídeas",
+        "zipcode": "13232-533"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada dos Pinheirinhos",
+        "zipcode": "13234-604"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Presidente Juscelino Kubitschek",
+        "zipcode": "13231-460"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Avenida São Paulo",
+        "zipcode": "13236-210"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Avenida da Saudade",
+        "zipcode": "13236-070"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Suíça",
+        "zipcode": "13232-040"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Olímpia",
+        "street": "Rua Vicente Celestino",
+        "zipcode": "13231-400"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Victory Savoia",
+        "zipcode": "13230-085"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Manaus",
+        "zipcode": "13231-333"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada da Bragantina",
+        "zipcode": "13234-649"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim São Domingos",
+        "street": "Rua Albino Lourenço de Souza",
+        "zipcode": "13231-425"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Alemanha",
+        "zipcode": "13232-030"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua do Amor",
+        "zipcode": "13232-530"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Praça São Luiz",
+        "zipcode": "13231-349"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "13230-380"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Antônio Raposo Tavares",
+        "zipcode": "13230-360"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Lagoa Branca",
+        "street": "Rua Antônio Rizzato",
+        "zipcode": "13231-610"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Belém",
+        "zipcode": "13231-350"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Bezerra de Menezes",
+        "zipcode": "13230-420"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua Borba Gato",
+        "zipcode": "13230-400"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Canadá",
+        "zipcode": "13231-260"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Espanha",
+        "zipcode": "13232-041"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Rua Felipe Cardoso",
+        "zipcode": "13230-460"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Thomazina",
+        "street": "Rua dos Ferroviários",
+        "zipcode": "13230-370"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Florianópolis",
+        "zipcode": "13231-331"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Fortaleza",
+        "zipcode": "13231-326"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Franca",
+        "zipcode": "13232-012"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Grécia",
+        "zipcode": "13232-032"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Islândia",
+        "zipcode": "13231-270"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Itália",
+        "zipcode": "13232-020"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Rua Maria do Carmo Cardoso",
+        "zipcode": "13230-450"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Rua Maria Rita Lopes",
+        "zipcode": "13230-470"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Natal",
+        "zipcode": "13231-335"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Avenida Niterói",
+        "zipcode": "13231-310"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Porto Alegre",
+        "zipcode": "13231-321"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Natal Rodrigues",
+        "zipcode": "13232-450"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Núcleo Industrial",
+        "street": "Estrada Faustino Bizetto",
+        "zipcode": "13230-902"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Núcleo Industrial",
+        "street": "Estrada Faustino Bizetto",
+        "zipcode": "13230-901"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Berilo",
+        "zipcode": "13232-065"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Sena",
+        "zipcode": "13233-651"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Antenor Tavares",
+        "zipcode": "13232-447"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Portugal",
+        "zipcode": "13232-050"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Primeiro de Dezembro",
+        "zipcode": "13231-300"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Radameris Curtolo",
+        "zipcode": "13232-286"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Rio Branco",
+        "zipcode": "13231-336"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Rio Capiberibe",
+        "zipcode": "13232-090"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Avenida Rio de Janeiro",
+        "zipcode": "13231-320"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Rio Piracicaba",
+        "zipcode": "13232-061"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Estrada Ipês do Moinho",
+        "zipcode": "13236-553"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Amélia Maria de Jesus Panizza",
+        "zipcode": "13231-474"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Avenida Celeste Siqueira da Silva",
+        "zipcode": "13232-009"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Rio Tietê",
+        "zipcode": "13232-080"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Salvador",
+        "zipcode": "13231-325"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Suécia",
+        "zipcode": "13232-034"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Rua Texas",
+        "zipcode": "13231-273"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santhiago",
+        "street": "Rua dos Três Poderes",
+        "zipcode": "13232-411"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Irlanda",
+        "zipcode": "13232-021"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Rua José Fialho",
+        "zipcode": "13230-490"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Estrada do Matão",
+        "zipcode": "13234-603"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Avenida Rio Claro",
+        "zipcode": "13233-260"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Via Breemen",
+        "zipcode": "13233-081"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Camélias",
+        "zipcode": "13232-534"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Cravinas",
+        "zipcode": "13232-551"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "13238-120"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Novo Hamburgo",
+        "street": "Via Essen",
+        "zipcode": "13233-080"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Eugênio Dini",
+        "zipcode": "13236-271"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santhiago",
+        "street": "Estrada do Garcia",
+        "zipcode": "13232-400"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua Girassóis",
+        "zipcode": "13232-540"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Estrada Ivoturucaia",
+        "zipcode": "13233-031"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua das Jaboticabas",
+        "zipcode": "13233-021"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Jasmins",
+        "zipcode": "13232-552"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua dos Lírios",
+        "zipcode": "13232-590"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Maravilhas",
+        "zipcode": "13232-580"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Corcovado",
+        "street": "Rua Maurício Grobman",
+        "zipcode": "13231-480"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via São Francisco",
+        "zipcode": "13233-220"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Tulipas",
+        "zipcode": "13232-536"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Zínias",
+        "zipcode": "13232-554"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Ipê (Botujuru)",
+        "street": "Rua Três",
+        "zipcode": "13238-672"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Piracicaba",
+        "zipcode": "13238-532"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Pedro Gregório",
+        "zipcode": "13236-270"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vista Alegre",
+        "street": "Rua Nova Friburgo",
+        "zipcode": "13236-533"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Ourinhos",
+        "zipcode": "13238-526"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Catarina",
+        "street": "Rua Biagio Marchetti",
+        "zipcode": "13231-070"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça dos Estudantes",
+        "zipcode": "13230-045"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "13231-332"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Alceu de Toledo Pontes",
+        "zipcode": "13231-464"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua dos Conferentes",
+        "zipcode": "13234-622"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Eugênio Lessi",
+        "zipcode": "13230-050"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Branca",
+        "street": "Rua Domingo Araújo Aguiar",
+        "zipcode": "13231-442"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita",
+        "street": "Rua Duílio Balioni",
+        "zipcode": "13233-136"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Cordovil Fernandes Lopes",
+        "zipcode": "13232-443"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antônio I",
+        "street": "Rua Rio Tapajós",
+        "zipcode": "13232-082"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Avenida Brasil",
+        "zipcode": "13232-010"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Francisco Valentim Bonamigo",
+        "zipcode": "13236-080"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Avenida João XXIII",
+        "zipcode": "13231-120"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Trinta",
+        "zipcode": "13232-285"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua das Uvas",
+        "zipcode": "13233-030"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Santa Cecília",
+        "street": "Rua Dantinho",
+        "zipcode": "13238-691"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Santa Cecília",
+        "street": "Rua João Carlos",
+        "zipcode": "13238-695"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Rua dos Jacarandás",
+        "zipcode": "13234-713"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Recanto do Sapê",
+        "street": "Rua Victor Atolino",
+        "zipcode": "13234-400"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Paraíba",
+        "zipcode": "13233-330"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Branca",
+        "street": "Rua Plácido Raguza Neto",
+        "zipcode": "13231-450"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada das Amoreiras",
+        "zipcode": "13233-514"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Antonio Larrubia Filho",
+        "zipcode": "13231-123"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Viela Beija",
+        "zipcode": "13236-198"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Travessa Cardeal",
+        "zipcode": "13236-199"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Alameda dos Direitos Humanos",
+        "zipcode": "13230-068"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Olivérios Salgado de Castro",
+        "zipcode": "13231-338"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Distrito Federal",
+        "zipcode": "13233-335"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James I",
+        "street": "Rua Cannes",
+        "zipcode": "13233-615"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Loire",
+        "zipcode": "13233-675"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Lúcia",
+        "street": "Rua José Maria de Lima",
+        "zipcode": "13236-205"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada Joaquim do Carmo",
+        "zipcode": "13234-198"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Lindaura Alves de Almeida",
+        "zipcode": "13232-052"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Portal da Primavera",
+        "street": "Rua João Batista Passos",
+        "zipcode": "13236-388"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Portal da Primavera",
+        "street": "Rua Odete Aga de Biazzi",
+        "zipcode": "13236-389"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Sítio Ivoturucaia",
+        "street": "Rua Mário Marchetti",
+        "zipcode": "13234-352"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francisco Miguel",
+        "zipcode": "13230-300"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Alfried Krupp",
+        "zipcode": "13231-010"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Bragantina",
+        "zipcode": "13232-000"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conj Habit Sao Jose",
+        "street": "Rua Dois",
+        "zipcode": "13232-260"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Área Rural de Campo Limpo Paulista",
+        "street": "Area Rural",
+        "zipcode": "13239-899"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antonio I",
+        "street": "Rua Agua Marinha",
+        "zipcode": "13232-431"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Dos Estudantes",
+        "zipcode": "13230-249"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Wenceslau Bras",
+        "zipcode": "13230-240"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antonio I",
+        "street": "Rua Antenor Tavares",
+        "zipcode": "13232-440"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Sao Paulo",
+        "street": "Rua Um",
+        "zipcode": "13230-150"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Joao Batista Arsene Rossi",
+        "zipcode": "13230-250"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Eugenio Lessi",
+        "zipcode": "13230-329"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua América Central",
+        "zipcode": "13231-565"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Loteamento Champs Privés",
+        "zipcode": "13234-690"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Travessa Jose De Alencar",
+        "zipcode": "13230-061"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antonio I",
+        "street": "Rua Berilo",
+        "zipcode": "13232-430"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Branca",
+        "street": "Rua José Roberto Mazzei",
+        "zipcode": "13231-446"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Praça Germano Gustavo Grossklauss",
+        "zipcode": "13236-279"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Sao Conrado",
+        "street": "Rua Laerte Monteiro De Oliveira",
+        "zipcode": "13231-031"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santo Antonio I",
+        "street": "Rua Jose Goncalves Frutuoso",
+        "zipcode": "13232-432"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Avenida Wilson Stefani",
+        "zipcode": "13236-115"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Açucenas",
+        "zipcode": "13232-502"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Adamantina",
+        "zipcode": "13238-480"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim América",
+        "street": "Avenida Adherbal da Costa Moreira",
+        "zipcode": "13231-190"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Firenze (Botujuru)",
+        "street": "Rua Agostinho Barbalho",
+        "zipcode": "13238-664"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Estrada Aksel Ernits",
+        "zipcode": "13233-060"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua Pica",
+        "zipcode": "13233-067"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Miguel Roberto Consentino",
+        "zipcode": "13231-021"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua Bem",
+        "zipcode": "13233-065"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dona Rosalina",
+        "zipcode": "13230-310"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Estrada Atibaia",
+        "zipcode": "13234-000"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Ágata",
+        "zipcode": "13232-442"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Marechal Humberto De Alencar Castelo Branco",
+        "zipcode": "13230-009"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marcheti",
+        "street": "Rua Acácio de Oliveira",
+        "zipcode": "13232-441"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Adherbal Da Costa Moreira",
+        "zipcode": "13231-000"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Setimo Patelli",
+        "zipcode": "13230-260"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Colinas do Pontal (Botujuru)",
+        "street": "Rua Adão Francisco de Freitas",
+        "zipcode": "13238-153"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Antonio Larrubia",
+        "zipcode": "13231-009"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Residencial Monte Alegre",
+        "street": "Rua Alberto da Costa",
+        "zipcode": "13231-463"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Loja da China (Botujuru)",
+        "street": "Rua Alcântara Machado",
+        "zipcode": "13238-612"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Almirante Barroso",
+        "zipcode": "13236-050"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Alvorada",
+        "zipcode": "13238-252"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Avenida Alziro Zarur",
+        "zipcode": "13238-700"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Avenida André Garcia",
+        "zipcode": "13232-600"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Campo Limpo",
+        "street": "Rua Aníbal Lopes da Fonseca",
+        "zipcode": "13230-500"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Antônio Benedito de Souza",
+        "zipcode": "13232-251"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Marsola",
+        "street": "Rua Aracaju",
+        "zipcode": "13231-322"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Armindo Gregório Batista",
+        "zipcode": "13236-291"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Imape",
+        "street": "Travessa João Baptista da Silva",
+        "zipcode": "13231-161"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Ville Saint James II",
+        "street": "Rua Bordeu",
+        "zipcode": "13233-672"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Rua Dionísio Braghetto",
+        "zipcode": "13230-480"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Espírito Santo",
+        "zipcode": "13233-300"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Frei Caneca",
+        "zipcode": "13238-745"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Giusseppina Bonini Guanciale",
+        "zipcode": "13236-030"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Chacrinha (Botujuru)",
+        "street": "Rua Independência",
+        "zipcode": "13238-130"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Avenida Manoel Tavares da Silva",
+        "zipcode": "13230-075"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim das Palmeiras (Botujuru)",
+        "street": "Rua Maria Aparecida Casagrande",
+        "zipcode": "13238-040"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Estrada Municipal",
+        "zipcode": "13238-590"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Estrada São Benedito",
+        "zipcode": "13234-190"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância São Paulo",
+        "street": "Travessa São Bernardo",
+        "zipcode": "13234-201"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Sebastião Queiroz",
+        "zipcode": "13236-261"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Tomé de Souza",
+        "zipcode": "13238-724"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Victor José de Almeida",
+        "zipcode": "13232-282"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Martim Afonso de Souza",
+        "zipcode": "13238-722"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Quatorze",
+        "zipcode": "13238-743"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Estrada da Bragantina",
+        "zipcode": "13232-297"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua Tito",
+        "zipcode": "13238-280"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro Das Paineiras (Botujuru)",
+        "street": "Rua Frei Caneca",
+        "zipcode": "13235-742"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Recanto do Sapê",
+        "street": "Rua Ana Paula",
+        "zipcode": "13234-410"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Nova Essen",
+        "street": "Via Áustria",
+        "zipcode": "13233-401"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Praça Armênio da Silveira Machado",
+        "zipcode": "13238-279"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Outeiro das Paineiras (Botujuru)",
+        "street": "Rua Jerônimo de Albuquerque",
+        "zipcode": "13238-740"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua Alice Reis Dias",
+        "zipcode": "13234-640"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Bambus",
+        "zipcode": "13233-502"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Rua Roque Antonio Gonçalves",
+        "zipcode": "13236-551"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Amarilis",
+        "street": "Rua Wanderlino Augusto Martins",
+        "zipcode": "13232-423"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Branca",
+        "street": "Rua Ermelindo Roque Formaggio",
+        "zipcode": "13231-444"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua Um Km 08",
+        "zipcode": "13234-643"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Pau Arcado",
+        "street": "Rua Três Km 8",
+        "zipcode": "13234-647"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Sebastião Pinheiro",
+        "zipcode": "13232-288"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Catarina",
+        "street": "Rua Benedito Rodrigues da Silva",
+        "zipcode": "13231-071"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Dom Pedro I",
+        "zipcode": "13230-070"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Governador Pedro de Toledo Ezzo",
+        "zipcode": "13230-170"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Amarilis",
+        "street": "Rua Adonias Dias",
+        "zipcode": "13232-420"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda das Palmáceas",
+        "zipcode": "13234-696"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Antônio Larrubia",
+        "zipcode": "13230-055"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Solange",
+        "street": "Rua Vereador Manoel Caetano de Almeida",
+        "zipcode": "13236-154"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Estrada Joaquim Antonio Gonçalves",
+        "zipcode": "13236-555"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Edmundo Antônio Pernetti",
+        "zipcode": "13232-281"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada das Perobas",
+        "zipcode": "13233-513"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Rua São Pedro",
+        "zipcode": "13238-220"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita II",
+        "street": "Rua Deocleciano Pereira da Costa",
+        "zipcode": "13233-121"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Dos Emancipadores",
+        "zipcode": "13231-020"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conj Habit Sao Jose",
+        "street": "Rua Tres",
+        "zipcode": "13232-270"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rodovia Sp",
+        "zipcode": "13236-500"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Tavares",
+        "street": "Rua Prudente De Moraes",
+        "zipcode": "13230-201"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Nossa Senhora Do Rosario",
+        "zipcode": "13230-320"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Botujuru (Botujuru)",
+        "street": "Estrada Faustino Dizetto",
+        "zipcode": "13238-000"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Maria Maiolino De Souza",
+        "zipcode": "13230-270"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda Boa Vista",
+        "zipcode": "13234-691"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Estrada Ipês do Moinho",
+        "zipcode": "13236-900"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Moinho",
+        "street": "Rua João Gabriel de Lima",
+        "zipcode": "13236-565"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Cardoso",
+        "street": "Travessa Goncalo Antonio De Lima",
+        "zipcode": "13230-441"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Avenida Americana",
+        "zipcode": "13233-250"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Indaiatuba",
+        "zipcode": "13238-512"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Maria",
+        "street": "Rua Marquês de Itu",
+        "zipcode": "13236-420"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Limeira",
+        "zipcode": "13238-521"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana",
+        "street": "Rua Quatorze",
+        "zipcode": "13238-770"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Travessa Maria de Oliveira da Silva",
+        "zipcode": "13236-081"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Internacional",
+        "street": "Rua das Gardênias",
+        "zipcode": "13232-525"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Nova Germânia",
+        "street": "Rua Serra do Espigão",
+        "zipcode": "13233-174"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda das Paineiras",
+        "zipcode": "13234-695"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Colinas do Pontal (Botujuru)",
+        "street": "Rua Modestino Ailton Mello",
+        "zipcode": "13238-151"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Faustino Egídio Nascimento",
+        "zipcode": "13236-234"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estancia Figueira Branca",
+        "street": "Estrada Do Mirante",
+        "zipcode": "13233-520"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Firenze (Botujuru)",
+        "street": "Rua Manoel Preto",
+        "zipcode": "13238-660"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácara Lagoa Branca",
+        "street": "Avenida Benedito Geraldo Gonçalves",
+        "zipcode": "13231-600"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim das Palmeiras (Botujuru)",
+        "street": "Rua Nelson Rodrigues",
+        "zipcode": "13238-010"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Fazenda Marajoara",
+        "street": "Rua dos Tucanos (Lot. Chac. C. Verde)",
+        "zipcode": "13233-066"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Colinas do Pontal (Botujuru)",
+        "street": "Rua Geni Stefani",
+        "zipcode": "13238-157"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santhiago",
+        "street": "Avenida Rubens de Maio Vellasco",
+        "zipcode": "13232-405"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Laranjal Paulista",
+        "zipcode": "13238-520"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional São José",
+        "street": "Rua Domingas Corneto Pinheiro",
+        "zipcode": "13232-289"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Fábio da Silva Matos",
+        "zipcode": "13238-759"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Chácaras Campo Limpo",
+        "street": "Rua Turmalina",
+        "zipcode": "13233-460"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Iramaia",
+        "street": "Via Iramaia",
+        "zipcode": "13233-210"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Estância Figueira Branca",
+        "street": "Estrada dos Coqueiros",
+        "zipcode": "13233-512"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Sao Paulo",
+        "street": "Rua Governador Pedro De Toledo",
+        "zipcode": "13230-220"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Imape",
+        "street": "Ladeira Luiz Vitorino",
+        "zipcode": "13231-141"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Santana (Botujuru)",
+        "street": "Rua Floresmina de Moraes da Cunha",
+        "zipcode": "13238-772"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Sumaré",
+        "zipcode": "13238-536"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Parque Niágara",
+        "street": "Rua Cisne Negro",
+        "zipcode": "13233-345"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Laura",
+        "street": "Rua Itu",
+        "zipcode": "13233-251"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Vila Constança (Botujuru)",
+        "street": "Rua Descalvado",
+        "zipcode": "13238-506"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Santa Branca",
+        "street": "Rua Maria Larrubia",
+        "zipcode": "13231-448"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Guanciale",
+        "street": "Rua Alda Tanaka",
+        "zipcode": "13236-090"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila da Conquista",
+        "street": "Rua Benedito Aparecido de Abreu",
+        "zipcode": "13232-323"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Colinas do Pontal (Botujuru)",
+        "street": "Rua Adriano Santinato",
+        "zipcode": "13238-156"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Loteamento Champs Privés",
+        "street": "Alameda dos Áceres",
+        "zipcode": "13234-699"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Conjunto Habitacional Vila da Conquista",
+        "street": "Rua Luiz Roberto de Oliveira",
+        "zipcode": "13232-322"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Privê Gramados de Santa Rita",
+        "street": "Rua Campo Limpo",
+        "zipcode": "13233-130"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Jardim Solange",
+        "street": "Rua Waldomiro Lopes de Almeida",
+        "zipcode": "13236-151"
+    },
+    {
+        "city": "Campo Limpo Paulista",
+        "state": "SP",
+        "district": "Núcleo Industrial",
+        "street": "Rua Oswaldo Grandisoli",
+        "zipcode": "13231-520"
+    }
+]

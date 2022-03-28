@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Alambari",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Delfino Antonio de Campos 29",
+        "zipcode": "18220-970"
+    },
+    {
+        "city": "Alambari",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18220-000"
+    },
+    {
+        "city": "Alambari",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada para o Bairro da Capuavinha",
+        "zipcode": "18220-991"
+    },
+    {
+        "city": "Alambari",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Sabiá",
+        "zipcode": "18220-993"
+    }
+]

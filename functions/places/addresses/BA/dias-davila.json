@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Dias DÁvila",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Raimundo da Conceição Tabireza 157",
+        "zipcode": "42850-970"
+    },
+    {
+        "city": "Dias DÁvila",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "42850-000"
+    },
+    {
+        "city": "Dias DÁvila",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Antônio Norberto",
+        "zipcode": "42850-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nova Santa Rita",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "92480-000"
+    },
+    {
+        "city": "Nova Santa Rita",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Santa Rita 826 Sala 110",
+        "zipcode": "92480-970"
+    },
+    {
+        "city": "Nova Santa Rita",
+        "state": "RS",
+        "district": null,
+        "street": "Rua da Praia",
+        "zipcode": "92480-991"
+    }
+]

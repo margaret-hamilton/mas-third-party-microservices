@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Porto Feliz",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco 94",
+        "zipcode": "18540-970"
+    },
+    {
+        "city": "Porto Feliz",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18540-000"
+    },
+    {
+        "city": "Porto Feliz",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Três",
+        "zipcode": "18540-991"
+    },
+    {
+        "city": "Porto Feliz",
+        "state": "SP",
+        "district": "Avecuia do Alto",
+        "street": "Estrada Porto Feliz Km 15",
+        "zipcode": "18540-971"
+    }
+]

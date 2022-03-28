@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Itaúna do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida São Paulo 369",
+        "zipcode": "87980-970"
+    },
+    {
+        "city": "Itaúna do Sul",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "87980-000"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Veranópolis",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Júlio de Castilhos 734",
+        "zipcode": "95330-970"
+    },
+    {
+        "city": "Veranópolis",
+        "state": "RS",
+        "district": "Monte Berico",
+        "street": "Estrada Buarque de Macedo s/n",
+        "zipcode": "95330-974"
+    },
+    {
+        "city": "Veranópolis",
+        "state": "RS",
+        "district": "Lajeadinho",
+        "street": "Estrada Buarque de Macedo 685",
+        "zipcode": "95330-975"
+    },
+    {
+        "city": "Veranópolis",
+        "state": "RS",
+        "district": null,
+        "street": "Bairro Medianeira",
+        "zipcode": "95330-990"
+    },
+    {
+        "city": "Veranópolis",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95330-000"
+    },
+    {
+        "city": "Veranópolis",
+        "state": "RS",
+        "district": null,
+        "street": "Vila Azul",
+        "zipcode": "95330-991"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Ubaitaba",
+        "state": "BA",
+        "district": "Faisqueira",
+        "street": "Rua Pedro Pascoal s/n",
+        "zipcode": "45545-971"
+    },
+    {
+        "city": "Ubaitaba",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45545-000"
+    },
+    {
+        "city": "Ubaitaba",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Álvaro Silva s/n",
+        "zipcode": "45545-970"
+    },
+    {
+        "city": "Ubaitaba",
+        "state": "BA",
+        "district": null,
+        "street": "Avenida Antonio Carlos",
+        "zipcode": "45545-991"
+    },
+    {
+        "city": "Ubaitaba",
+        "state": "BA",
+        "district": null,
+        "street": "Armarinho Celeste Distrito de Faisqueira",
+        "zipcode": "45545-990"
+    }
+]

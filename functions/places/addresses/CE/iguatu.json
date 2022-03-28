@@ -1,0 +1,5490 @@
+[
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua José Márcio Nogueira",
+        "zipcode": "63500-456"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Dona Chichica",
+        "zipcode": "63505-540"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua Esaú Matos Cavalcante",
+        "zipcode": "63507-670"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Francisco Weimar Bezerra",
+        "zipcode": "63504-510"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Francisco Orlandinho Sarmento César",
+        "zipcode": "63507-300"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Poço Comprido",
+        "street": "Rua E (Lot P Comprido)",
+        "zipcode": "63503-630"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Vereador Antônio Ferino da Silva",
+        "zipcode": "63507-250"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Vila Joaquim Carneiro",
+        "zipcode": "63507-210"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Engenheiro Wilton Correia Lima",
+        "zipcode": "63502-105"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Chapadinha",
+        "street": "Rua Sul (Lot Chapadinha)",
+        "zipcode": "63503-785"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua José Inácio da Paz",
+        "zipcode": "63503-320"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua José Alfredo Alves",
+        "zipcode": "63501-165"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Vereador Francisco F. de Lavor",
+        "zipcode": "63504-630"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Marcos Peixoto",
+        "zipcode": "63504-405"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Amélia Cavalcante de Figueiredo",
+        "zipcode": "63505-125"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Avenida Joaquim Ailton Alexandre",
+        "zipcode": "63502-298"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63504-440"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Presbítero Antônio Paulo da Silva",
+        "zipcode": "63505-490"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Avenida Doutor José Holanda Montenegro",
+        "zipcode": "63507-051"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Vereador Raimundo Alves de Araújo",
+        "zipcode": "63503-350"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Maestro Franklin Barreto Assunção",
+        "zipcode": "63501-115"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua João Vicente Alves",
+        "zipcode": "63508-770"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Teixeira de Araújo",
+        "zipcode": "63504-715"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Irmã Creuza Fernandes",
+        "zipcode": "63505-495"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 7 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-749"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Anísio Cardoso de Araújo",
+        "zipcode": "63503-840"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Doutor Vicente Bezerra da Costa",
+        "zipcode": "63500-825"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Avenida Adil Mendonça",
+        "zipcode": "63502-103"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Joaquim Edilmar Amaro",
+        "zipcode": "63501-010"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Adeodato Matos Cavalcante",
+        "zipcode": "63500-632"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rodovia Antônio Adil Mendonça",
+        "zipcode": "63502-705"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua José Ériton Barros Costa",
+        "zipcode": "63504-775"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Valdemiro Bezerra",
+        "zipcode": "63504-195"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Francisco Possidônio de Lacerda",
+        "zipcode": "63504-545"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Avenida Presidente Eurico Dutra",
+        "zipcode": "63502-643"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Edmilson Correia Braga",
+        "zipcode": "63507-260"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Edival Távora",
+        "zipcode": "63500-083"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Promotor Antônio Ribeiro",
+        "zipcode": "63502-495"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua Moacir Torres Bandeira",
+        "zipcode": "63508-292"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Joaquim Daniel de Oliveira",
+        "zipcode": "63508-830"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua 7 (Lot Cajueiro)",
+        "zipcode": "63508-440"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "63504-140"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Professora Júlia Farias",
+        "zipcode": "63505-075"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua Francisco Chagas Felipe",
+        "zipcode": "63508-275"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Sargento João de Sousa",
+        "zipcode": "63505-145"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Guilhardo Gomes de Araújo",
+        "zipcode": "63504-302"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Dona Luzia Moreira",
+        "zipcode": "63504-375"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Governador Plácido Castelo",
+        "zipcode": "63504-353"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Major Pedro Alcântara",
+        "zipcode": "63504-190"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Travessa Porfírio Alves",
+        "zipcode": "63504-400"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Irineu Moreno",
+        "zipcode": "63501-195"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Maria Amaro",
+        "zipcode": "63502-145"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Avenida Doutor José Holanda Montenegro",
+        "zipcode": "63504-392"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua dos Andrade Braga",
+        "zipcode": "63507-055"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Silvio Amaro",
+        "zipcode": "63507-235"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Avenida Prefeito Ari Alexandre Brasil",
+        "zipcode": "63503-880"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Vanderlou Cavalcante",
+        "zipcode": "63502-525"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Jorge L. de Araújo",
+        "zipcode": "63507-280"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Francimary Cavalcante Gurgel",
+        "zipcode": "63501-135"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 2 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-710"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Jarbas de Araújo Mendonça",
+        "zipcode": "63504-215"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Maelete Cortez",
+        "zipcode": "63504-252"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Maelete Cortez",
+        "zipcode": "63504-365"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Doutor Moacir Sousa Rocha",
+        "zipcode": "63504-338"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Alfredo Nogueira",
+        "zipcode": "63504-285"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Travessa João Carlos Lima Verde",
+        "zipcode": "63504-290"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Raul Barbosa",
+        "zipcode": "63504-310"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua João Lima Verde",
+        "zipcode": "63504-325"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Lima Bezerra",
+        "zipcode": "63504-335"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Vinte e Seis de Julho",
+        "zipcode": "63504-200"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Elizeu Alves",
+        "zipcode": "63504-205"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua São Francisco",
+        "zipcode": "63504-385"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Ismael Lima Verde",
+        "zipcode": "63502-390"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Antônio Francisco de Assis",
+        "zipcode": "63502-400"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Maria Alves de Oliveira",
+        "zipcode": "63502-430"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Alzira Bandeira",
+        "zipcode": "63502-440"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Dona Luzia Moreira",
+        "zipcode": "63504-045"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Otaviano Benevides",
+        "zipcode": "63502-415"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Governador Plácido Castelo",
+        "zipcode": "63504-123"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Governador Plácido Castelo",
+        "zipcode": "63504-148"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Professor João Leite",
+        "zipcode": "63502-490"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua José Severo Chaves",
+        "zipcode": "63502-028"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Júlia Farias",
+        "zipcode": "63502-170"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Vila João Trindade",
+        "zipcode": "63500-312"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 9 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-755"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Antônio de Souza Bandeira",
+        "zipcode": "63504-370"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Manoel Valdir Nogueira",
+        "zipcode": "63507-290"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Luiz Alves Bezerra",
+        "zipcode": "63504-760"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua 6 (Lot Jd Oásis)",
+        "zipcode": "63507-295"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Travessa Amélia Cavalcante",
+        "zipcode": "63504-275"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua 6 (Lot Alvorada)",
+        "zipcode": "63507-700"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Vicente Alves",
+        "zipcode": "63500-990"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Jarbas Rolim Cavalcante",
+        "zipcode": "63504-535"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Doutor João Bezerra",
+        "zipcode": "63502-500"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Major Pedro Alcântara",
+        "zipcode": "63502-510"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Major Pedro Alcântara",
+        "zipcode": "63504-080"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua João Rocha",
+        "zipcode": "63502-515"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Cícero Jiló",
+        "zipcode": "63502-520"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Vereador Nelson de Sousa Alencar",
+        "zipcode": "63502-532"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Vereador Nelson de Sousa Alencar",
+        "zipcode": "63504-210"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Silvino Filgueiras",
+        "zipcode": "63504-115"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Vinte e Sete de Novembro",
+        "zipcode": "63502-405"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua São Francisco",
+        "zipcode": "63504-010"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Travessa Lafaiete Teixeira",
+        "zipcode": "63504-020"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua João Monteiro",
+        "zipcode": "63504-055"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Travessa José Euclides Cavalcante",
+        "zipcode": "63504-100"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Rua Antônio Sucupira",
+        "zipcode": "63502-645"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Rua Antônio Matos Cavalcante",
+        "zipcode": "63502-660"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Rua José Alvino C. da Silva",
+        "zipcode": "63502-665"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Travessa José Jaime Maciel",
+        "zipcode": "63502-030"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua João Bosco",
+        "zipcode": "63502-540"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Travessa José Pereira",
+        "zipcode": "63504-075"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63504-225"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Avenida Joaquim Ailton Alexandre",
+        "zipcode": "63504-220"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Rua José Vieira Barbosa",
+        "zipcode": "63502-680"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua São José",
+        "zipcode": "63508-790"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Travessa Raulf Cavalcante",
+        "zipcode": "63504-270"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Travessa Assis Gondim",
+        "zipcode": "63504-105"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Professor Antônio Chaves",
+        "zipcode": "63504-135"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Lourival Correia",
+        "zipcode": "63504-168"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Travessa Lourival Correia",
+        "zipcode": "63504-170"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Alfredo Leopoldo",
+        "zipcode": "63504-185"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Travessa Apulcro Lima Verde",
+        "zipcode": "63502-382"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Travessa João Maia",
+        "zipcode": "63502-340"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Travessa Coronel José Jucá",
+        "zipcode": "63502-355"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Coronel José Jucá",
+        "zipcode": "63502-365"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Antônio Alves",
+        "zipcode": "63502-372"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua Dona Luzia Moreira",
+        "zipcode": "63502-062"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Dona Luzia Moreira",
+        "zipcode": "63502-235"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Otaviano Benevides",
+        "zipcode": "63502-265"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Governador Plácido Castelo",
+        "zipcode": "63502-272"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Francisco Adolfo",
+        "zipcode": "63501-080"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Brigadeiro Eduardo Gomes",
+        "zipcode": "63501-050"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Treze de Maio",
+        "zipcode": "63502-120"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Manoel Alexandre de Sousa",
+        "zipcode": "63502-150"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Beira Rio",
+        "zipcode": "63502-175"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Travessa Dona Luzia Moreira",
+        "zipcode": "63502-230"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Juarez Távora",
+        "zipcode": "63502-240"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63502-535"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Vereador Laureano de Sousa Bernardo",
+        "zipcode": "63504-260"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Adelaide Alves da Silva",
+        "zipcode": "63501-170"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Antônio de Souza Bandeira",
+        "zipcode": "63504-086"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Hilton Gonzaga de Assis",
+        "zipcode": "63502-370"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Raimundo Antonio de Oliveira",
+        "zipcode": "63504-008"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Antônio Holanda Lavor",
+        "zipcode": "63502-475"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Avenida Presidente Eurico Dutra",
+        "zipcode": "63502-593"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Avenida Adil Mendonça",
+        "zipcode": "63502-040"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "63504-012"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua José Pereira",
+        "zipcode": "63504-060"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua José Bezerra Pinheiro",
+        "zipcode": "63502-715"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Antônio Holanda Lavor",
+        "zipcode": "63502-435"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63504-265"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Santo Antônio",
+        "zipcode": "63502-245"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Alzira Bandeira",
+        "zipcode": "63502-290"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua José Amaro",
+        "zipcode": "63501-002"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Francisco Ribeiro Souza",
+        "zipcode": "63502-140"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua José de Alencar",
+        "zipcode": "63500-835"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Coronel José Adolfo Oliveira",
+        "zipcode": "63502-225"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua Coronel José Adolfo Oliveira",
+        "zipcode": "63502-035"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua José Leal Lima Verde",
+        "zipcode": "63501-020"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Eliazar de Carvalho",
+        "zipcode": "63501-025"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Humberto Teixeira",
+        "zipcode": "63501-030"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Teófilo Handam",
+        "zipcode": "63501-035"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Julio Cavalcante",
+        "zipcode": "63500-820"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "63500-830"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua João Monteiro",
+        "zipcode": "63502-255"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua João Jucá",
+        "zipcode": "63502-050"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Lourival Correia",
+        "zipcode": "63502-280"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Alfredo Leopoldo",
+        "zipcode": "63502-285"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua José de Alencar",
+        "zipcode": "63501-005"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua Moreira Filho",
+        "zipcode": "63502-013"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Travessa Wilton Correia Lima",
+        "zipcode": "63502-110"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Francisco Henrique Sobrinho",
+        "zipcode": "63504-025"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Napoleão Holanda",
+        "zipcode": "63502-165"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Pedro Lira Amorim",
+        "zipcode": "63504-028"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua Aldenísio Uchoa Amorim",
+        "zipcode": "63502-020"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Travessa Vinte e Sete de Novembro",
+        "zipcode": "63502-203"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": null,
+        "street": "Vila Chapadinha",
+        "zipcode": "63500-992"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Santos Dumont",
+        "zipcode": "63500-168"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Vinte e Três de Novembro",
+        "zipcode": "63500-158"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Coronel Mendonça",
+        "zipcode": "63500-137"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Agenor Araújo",
+        "zipcode": "63500-113"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Deputado Adail Barreto",
+        "zipcode": "63500-140"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Virgílio Correia",
+        "zipcode": "63500-152"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Pedro Gomes Araújo",
+        "zipcode": "63500-284"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Francisco Adolfo",
+        "zipcode": "63500-790"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Brigadeiro Eduardo Gomes",
+        "zipcode": "63500-785"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Treze de Maio",
+        "zipcode": "63500-144"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Treze de Maio",
+        "zipcode": "63500-163"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Treze de Maio",
+        "zipcode": "63500-308"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Treze de Maio",
+        "zipcode": "63500-750"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Treze de Maio",
+        "zipcode": "63500-773"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Coronel José de Pinho",
+        "zipcode": "63500-240"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Coronel José de Pinho",
+        "zipcode": "63500-300"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Júlia Barreto",
+        "zipcode": "63500-260"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Monsenhor Coelho",
+        "zipcode": "63500-106"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Monsenhor Coelho",
+        "zipcode": "63500-230"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Padre José Marques Chaves",
+        "zipcode": "63502-125"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua José Altamir Bezerra",
+        "zipcode": "63501-200"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Péricles Gomes de Araújo",
+        "zipcode": "63502-128"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Avenida Joaquim Ailton Alexandre",
+        "zipcode": "63502-323"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Hilma Alves Amorim",
+        "zipcode": "63501-210"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Doutor Vicente Bezerra da Costa",
+        "zipcode": "63500-286"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Wilson Roriz",
+        "zipcode": "63502-420"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Francisco Pereira de Araújo",
+        "zipcode": "63502-130"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Jaime Cavalcante de Albuquerque",
+        "zipcode": "63501-155"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Avenida Joaquim Ailton Alexandre",
+        "zipcode": "63502-330"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua Ianne Silva Alexandre",
+        "zipcode": "63502-022"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Francisco Assis Couto",
+        "zipcode": "63501-205"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Travessa São João",
+        "zipcode": "63502-343"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Travessa Adil Mendonça",
+        "zipcode": "63502-045"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José de Alencar",
+        "zipcode": "63500-102"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua José de Alencar",
+        "zipcode": "63500-248"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua José de Alencar",
+        "zipcode": "63500-305"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua José de Alencar",
+        "zipcode": "63508-015"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Doutor João Pessoa",
+        "zipcode": "63500-095"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Francisco de Assis Vasconcelos",
+        "zipcode": "63500-336"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Vila Padre Cícero",
+        "zipcode": "63500-324"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Vila Wilton Correia Filho",
+        "zipcode": "63500-122"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Deocléciano Bezerra",
+        "zipcode": "63500-125"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa José Lobo",
+        "zipcode": "63500-131"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Alverlândia",
+        "zipcode": "63500-170"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Vereador José Luiz Barreto",
+        "zipcode": "63500-116"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Quinze de Novembro",
+        "zipcode": "63500-101"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Dom Quintino",
+        "zipcode": "63500-200"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua José Mendonça",
+        "zipcode": "63500-205"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Ari Barroso",
+        "zipcode": "63500-210"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua João XXIII",
+        "zipcode": "63500-215"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Ari Alexandre Brasil",
+        "zipcode": "63500-235"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Edival Távora",
+        "zipcode": "63500-089"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "63500-098"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Tabelião Célio Nogueira Assunção",
+        "zipcode": "63501-125"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua C (Lot Cajueiro)",
+        "zipcode": "63508-525"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Fenelon Lima",
+        "zipcode": "63500-296"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Juvenal Barreto",
+        "zipcode": "63500-288"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Vila Antônia Carmosa",
+        "zipcode": "63508-047"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Leonnard Bezerra bandeira",
+        "zipcode": "63500-795"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Joana Fernandes César",
+        "zipcode": "63508-458"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua Francisco Deusdedith Teixeira",
+        "zipcode": "63508-294"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Nove de Novembro",
+        "zipcode": "63508-670"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Manoel Bezerra Filho",
+        "zipcode": "63508-680"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Santa Luiza",
+        "zipcode": "63508-690"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Travessa Nossa Senhora Aparecida",
+        "zipcode": "63508-720"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Leonardo Mota",
+        "zipcode": "63508-730"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "63508-740"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Travessa José Caieiras",
+        "zipcode": "63508-125"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua José Paulino de Araújo",
+        "zipcode": "63508-130"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua José Caieira de Araújo",
+        "zipcode": "63508-160"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua Francisco de Assis",
+        "zipcode": "63508-165"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Antônio Miguel Santos",
+        "zipcode": "63508-405"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Paulino José da Silva",
+        "zipcode": "63505-510"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Ubiratan Chaves",
+        "zipcode": "63500-425"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua José Cazemiro Rodrigues",
+        "zipcode": "63508-415"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua 1 (Lot Cajueiro)",
+        "zipcode": "63508-400"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Professor José Maia Filho",
+        "zipcode": "63501-145"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua N (Lot Altiplano)",
+        "zipcode": "63505-515"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Mauro Maia",
+        "zipcode": "63508-452"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Olda Maia Amorim",
+        "zipcode": "63501-140"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua 8 (Lot Cajueiro)",
+        "zipcode": "63508-445"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Doutor Vicente Bezerra da Costa",
+        "zipcode": "63501-110"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Anderson Felix de Araújo",
+        "zipcode": "63501-120"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua José Manoel Aureliano",
+        "zipcode": "63508-750"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": null,
+        "street": "Rua A",
+        "zipcode": "63500-991"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Bevenuto Cavalcante Mendonça",
+        "zipcode": "63508-007"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Bevenuto Cavalcante Mendonça",
+        "zipcode": "63507-185"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Casimiro Pereira",
+        "zipcode": "63508-055"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Pedro Alexandre",
+        "zipcode": "63502-155"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Antônio Mendonça",
+        "zipcode": "63508-050"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Travessa Deoclécio Lima Verde",
+        "zipcode": "63508-085"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Cesário Assunção",
+        "zipcode": "63508-005"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Senhor Amaro",
+        "zipcode": "63501-045"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Avenida Deoclécio Lima Verde",
+        "zipcode": "63508-010"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Julio Cavalcante",
+        "zipcode": "63508-025"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Juvenal Barreto",
+        "zipcode": "63508-045"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Monsenhor Francisco Couto",
+        "zipcode": "63508-065"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua José Custódio da Costa",
+        "zipcode": "63505-170"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua D (Lot Altiplano)",
+        "zipcode": "63505-545"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Irmão Antônio Benvindo",
+        "zipcode": "63505-520"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua J (Lot Cajueiro)",
+        "zipcode": "63508-485"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua Miguel Pedro de Andrade",
+        "zipcode": "63508-245"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua B (Lot Cajueiro)",
+        "zipcode": "63508-520"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Antônio Palácio de Queiroz",
+        "zipcode": "63508-660"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Clara Alves de Oliveira",
+        "zipcode": "63508-040"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua Joaquim Horácio Cavalcante",
+        "zipcode": "63507-665"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua I (Lot Cajueiro)",
+        "zipcode": "63508-480"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua 5 (Lot Jd Oásis)",
+        "zipcode": "63507-430"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua Maria Maia Rocha",
+        "zipcode": "63508-240"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua 11 (Lot Alvorada)",
+        "zipcode": "63507-675"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Luiz Pedro da Silva",
+        "zipcode": "63508-475"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Padre Raimundo Felix Barreto",
+        "zipcode": "63500-798"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua João Idelfonso Neto",
+        "zipcode": "63505-500"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Antônio Vieira",
+        "zipcode": "63501-215"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Travessa Aurélio Lavor",
+        "zipcode": "63504-230"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Santana Montenegro",
+        "zipcode": "63507-015"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Vila José Sabino",
+        "zipcode": "63504-070"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Leonardo M Lima Verde",
+        "zipcode": "63507-315"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Doutor Mano Távora",
+        "zipcode": "63508-035"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Doutor José de Oliveira Gondim",
+        "zipcode": "63507-320"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua José Teixeira de Araújo",
+        "zipcode": "63507-275"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Maria Dolores Bandeira",
+        "zipcode": "63507-450"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Simplício Bezerra Silva",
+        "zipcode": "63507-445"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua 7 (Lot Jd Oásis)",
+        "zipcode": "63507-440"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua B (Lot Altiplano)",
+        "zipcode": "63505-555"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua D (Lot Cajueiro)",
+        "zipcode": "63508-530"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua José Vicente Pereira",
+        "zipcode": "63507-690"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua João Guedes Pereira Sobrinho",
+        "zipcode": "63508-420"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua José Ferreira Lima",
+        "zipcode": "63504-360"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua L (Lot Altiplano)",
+        "zipcode": "63505-525"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Guilherme Moreira",
+        "zipcode": "63502-115"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua A (Lot Cajueiro)",
+        "zipcode": "63508-510"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua E (Lot Cajueiro)",
+        "zipcode": "63508-535"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Senhor Adonias da Bateria",
+        "zipcode": "63505-535"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Contador Joaquim Alves Bezerra",
+        "zipcode": "63505-530"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63508-087"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Chico Graça",
+        "zipcode": "63507-310"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua José Elder de Oliveira",
+        "zipcode": "63507-285"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Antônio Palácio de Queiroz",
+        "zipcode": "63508-425"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Presbítero João Gomes Pinheiro",
+        "zipcode": "63508-450"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua 5 (Lot Iarla)",
+        "zipcode": "63504-678"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63507-230"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua José Márcio Nogueira",
+        "zipcode": "63508-070"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Travessa dos Quixelôs",
+        "zipcode": "63507-695"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Esaú Matos Cavalcante",
+        "zipcode": "63507-255"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Alfredo Gondim",
+        "zipcode": "63507-040"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua João Lourenço Colares",
+        "zipcode": "63507-150"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Deoclécio Lima Verde",
+        "zipcode": "63507-110"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Cesário Assunção",
+        "zipcode": "63507-101"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Agenor Carneiro",
+        "zipcode": "63507-010"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Manoel Epifânio",
+        "zipcode": "63507-145"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "63505-100"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Miguel Dantas",
+        "zipcode": "63505-110"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua José Leal Lima Verde",
+        "zipcode": "63505-120"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Avenida Nicanor Gomes de Araújo",
+        "zipcode": "63505-130"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Braz Papaleo",
+        "zipcode": "63505-150"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Sófocles Lima Verde",
+        "zipcode": "63505-175"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Carlos Colares",
+        "zipcode": "63505-180"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Paulo Brasil",
+        "zipcode": "63505-195"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Avenida Juscelino Kubitschek",
+        "zipcode": "63505-192"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Monsenhor Francisco Couto",
+        "zipcode": "63507-120"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Celso P. de Lima",
+        "zipcode": "63504-645"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Francisco G. Monteiro",
+        "zipcode": "63504-680"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Miguel Holanda Lavor",
+        "zipcode": "63504-610"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Evaristo Alves do Carmo",
+        "zipcode": "63507-330"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Eurico Teixeira",
+        "zipcode": "63504-725"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua José Siebra Barbosa",
+        "zipcode": "63507-240"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Palácio de Oliveira",
+        "zipcode": "63504-650"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Clara Alves de Oliveira",
+        "zipcode": "63507-170"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua João da Mata Bandeira",
+        "zipcode": "63507-425"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Francisco Vieira Sobrinho",
+        "zipcode": "63504-615"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua João Alves Fernandes Lima",
+        "zipcode": "63507-435"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Francisca Alves Dantas",
+        "zipcode": "63507-200"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua 10 (Lot Jd Oásis)",
+        "zipcode": "63507-465"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Pedro Branco Amorim",
+        "zipcode": "63507-245"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua José da Silva",
+        "zipcode": "63507-270"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Vereador José B. Filho",
+        "zipcode": "63504-695"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Custódio da Costa",
+        "zipcode": "63504-733"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Guilhardo Gomes de Araújo",
+        "zipcode": "63505-005"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Doutor Abílio Barreto",
+        "zipcode": "63504-410"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Francisco L. Cavalcante",
+        "zipcode": "63504-640"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 8 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-752"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Francisco Zeno Macedo de Albuquerque",
+        "zipcode": "63504-780"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Amarílio Gomes de Almeida",
+        "zipcode": "63504-785"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua J (Lot Altiplano)",
+        "zipcode": "63505-455"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Travessa Laureano de Sousa Bernado 2",
+        "zipcode": "63504-412"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Vila Varzinha",
+        "zipcode": "63508-032"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Maria Marlene Teixeira",
+        "zipcode": "63504-770"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua José Juca Rodrigues",
+        "zipcode": "63507-653"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Antônio R. de Alencar",
+        "zipcode": "63504-675"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Alcântara",
+        "zipcode": "63504-700"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua Severo Nogueira",
+        "zipcode": "63507-265"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Domingos Matos",
+        "zipcode": "63504-625"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Iaiá Viana de Lucena",
+        "zipcode": "63507-020"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Avenida Maria Hilda H. Oliveira",
+        "zipcode": "63504-665"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Evandro F. Lima",
+        "zipcode": "63504-690"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Francisco A. Macêdo",
+        "zipcode": "63504-635"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Valdemiro José Oliveira",
+        "zipcode": "63505-430"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Paula Alves Ferreira Quintino",
+        "zipcode": "63505-450"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua K (Lot Altiplano)",
+        "zipcode": "63505-460"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua Lauro Lobo de Oliveira",
+        "zipcode": "63507-663"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua 2 (Cj Cohab)",
+        "zipcode": "63504-710"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Edival Távora",
+        "zipcode": "63507-130"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Maria de Lourdes Lima Bezerra",
+        "zipcode": "63505-435"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Rotsenadydil Távora",
+        "zipcode": "63504-475"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Padre Patrício",
+        "zipcode": "63504-485"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Padre Patrício",
+        "zipcode": "63504-500"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Porfírio Alves",
+        "zipcode": "63504-515"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Silvino Filgueiras",
+        "zipcode": "63504-430"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Professora Maria Jucá",
+        "zipcode": "63505-035"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "63505-045"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Monsenhor Pedro Rocha",
+        "zipcode": "63505-165"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Avenida Amália Brasil",
+        "zipcode": "63503-200"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Avenida Amália Brasil",
+        "zipcode": "63503-290"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Souza Alexandre",
+        "zipcode": "63503-292"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Travessa José Pastor",
+        "zipcode": "63504-425"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Boa Vista",
+        "zipcode": "63503-875"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rodovia CE",
+        "zipcode": "63503-790"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Padre Cícero",
+        "zipcode": "63503-825"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua João Duarte Neto",
+        "zipcode": "63503-855"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Cirilo Alves de Oliveira",
+        "zipcode": "63505-140"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Doutor Samuel Barreto",
+        "zipcode": "63505-025"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Antônio Gomes Barreto",
+        "zipcode": "63505-155"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Mônica Teixeira Peixoto",
+        "zipcode": "63504-595"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Radialista Antônio Cavalcante",
+        "zipcode": "63504-755"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua João de Góis Mendonça",
+        "zipcode": "63505-465"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Pedro Celestino Silva",
+        "zipcode": "63503-870"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Itacy Rodovalho de Carvalho",
+        "zipcode": "63504-460"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Doutor Francisco Gondim",
+        "zipcode": "63505-070"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Luiz Alves Bezerra",
+        "zipcode": "63505-030"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua E (Lot Altiplano)",
+        "zipcode": "63505-485"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Mário Bezerra",
+        "zipcode": "63504-465"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63504-435"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua 9 (Lot Altiplano)",
+        "zipcode": "63505-425"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Mundim Teixeira",
+        "zipcode": "63505-415"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Joaquim Manno",
+        "zipcode": "63503-835"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Raimundo de Sena",
+        "zipcode": "63504-720"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua Tomé de Souza",
+        "zipcode": "63503-220"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Travessa Tomé de Souza",
+        "zipcode": "63503-225"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua Manoel Camilo",
+        "zipcode": "63503-230"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua José Frota",
+        "zipcode": "63503-245"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua da Capela",
+        "zipcode": "63503-250"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua São Vicente de Paula",
+        "zipcode": "63505-065"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Antônio Rodrigues Quindere",
+        "zipcode": "63505-160"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Luís Alexandre Pinto",
+        "zipcode": "63503-850"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Maria Alves Q. Lavor",
+        "zipcode": "63504-622"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua José Gomes Martins",
+        "zipcode": "63503-235"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Ferreira Bráz",
+        "zipcode": "63504-692"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Ana Duarte Oliveira",
+        "zipcode": "63503-830"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Ivanilda Alexandra",
+        "zipcode": "63503-845"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Doutor Luídio B. Barbosa",
+        "zipcode": "63504-585"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Porfírio Alves",
+        "zipcode": "63504-752"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Padre Vicente José Ferreira",
+        "zipcode": "63505-060"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua José Edilson de Melo Távora",
+        "zipcode": "63505-182"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Doutor Zózimo Barreto",
+        "zipcode": "63505-040"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Doutor Joaquim Guedes Moreno Alcoforado",
+        "zipcode": "63505-050"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua José Moreno de Melo",
+        "zipcode": "63505-085"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Avenida Afonso Alves Vieira",
+        "zipcode": "63505-095"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Avenida Doutor José Holanda Montenegro",
+        "zipcode": "63504-006"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Radialista Antônio Cavalcante",
+        "zipcode": "63504-580"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua José Pereira",
+        "zipcode": "63503-800"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua José Cesário",
+        "zipcode": "63503-795"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Doutor Humberto de Gouveia Soares",
+        "zipcode": "63504-600"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Papa Paulo VI",
+        "zipcode": "63505-055"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Travessa Doutor Zózimo Bezerra",
+        "zipcode": "63504-450"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Chapadinha",
+        "street": "Travessa Cícero Vieira dos Santos",
+        "zipcode": "63503-775"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Travessa São Gabriel",
+        "zipcode": "63503-335"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Salvador",
+        "zipcode": "63503-345"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua João Rabelo",
+        "zipcode": "63503-375"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua José Sobrinho",
+        "zipcode": "63503-380"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua das Oliveiras",
+        "zipcode": "63500-575"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Vinte e Cinco de Março",
+        "zipcode": "63500-595"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Stênio Medeiros",
+        "zipcode": "63500-630"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Bevenuto Cavalcante Mendonça",
+        "zipcode": "63500-498"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Bevenuto Cavalcante Mendonça",
+        "zipcode": "63500-570"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Brigadeiro Eduardo Gomes",
+        "zipcode": "63500-700"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Casimiro Pereira",
+        "zipcode": "63500-720"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Casimiro Pereira",
+        "zipcode": "63500-518"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Casimiro Pereira",
+        "zipcode": "63500-444"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Antônio Mendonça",
+        "zipcode": "63500-416"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Antônio Mendonça",
+        "zipcode": "63500-745"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Antônio Mendonça",
+        "zipcode": "63500-510"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Professor João Coelho",
+        "zipcode": "63500-486"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Monsenhor Coelho",
+        "zipcode": "63500-474"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Deocléciano Bezerra",
+        "zipcode": "63500-735"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Engenheiro José Barreto",
+        "zipcode": "63500-565"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Edgar Cunha Rola",
+        "zipcode": "63500-420"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Ésio Amaral",
+        "zipcode": "63500-448"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Nogueira Lima",
+        "zipcode": "63504-525"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua José Hilton",
+        "zipcode": "63500-610"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Poço Comprido",
+        "street": "Rua do Chicão II (Lot P Comprido)",
+        "zipcode": "63503-635"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua 3 (Lot Filadelfia)",
+        "zipcode": "63504-540"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Irineu Holanda Sobrinho",
+        "zipcode": "63503-385"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Vila União",
+        "zipcode": "63503-307"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Luiz Rodrigues Quinderé",
+        "zipcode": "63504-505"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Poço Comprido",
+        "street": "Rua D (Lot P Comprido)",
+        "zipcode": "63503-625"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua F (Lot Filadelfia)",
+        "zipcode": "63504-530"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Travessa Antônio Nogueira",
+        "zipcode": "63500-418"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Vila Antônio Correia Lima",
+        "zipcode": "63500-506"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Travessa Armando Correia Lima",
+        "zipcode": "63500-514"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Chapadinha",
+        "street": "Rua F (Lot Chapadinha)",
+        "zipcode": "63503-760"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Poço Comprido",
+        "street": "Rua A (Lot Poço Comprido)",
+        "zipcode": "63503-610"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua 3 (Cj Vila União)",
+        "zipcode": "63503-305"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Travessa Adil Mendonça",
+        "zipcode": "63500-600"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Poço Comprido",
+        "street": "Rua C (Lot P Comprido)",
+        "zipcode": "63503-620"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Francisco D. de Holanda",
+        "zipcode": "63504-565"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Francisco Vieira Filho",
+        "zipcode": "63500-585"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Vereador Silvério F. de Lavor",
+        "zipcode": "63504-597"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Travessa Laureano de Sousa Bernardo 4",
+        "zipcode": "63504-428"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Chapadinha",
+        "street": "Rua E (Lot Chapadinha)",
+        "zipcode": "63503-770"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Alberto de P. Barbosa",
+        "zipcode": "63504-603"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua Pedro Pereira Chaves",
+        "zipcode": "63502-720"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Cleóbolo dos Santos Freire",
+        "zipcode": "63504-568"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Avenida Sabino Antunes da Silva",
+        "zipcode": "63504-550"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Carteiro Domingos Amorim",
+        "zipcode": "63504-555"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Adil Mendonça",
+        "zipcode": "63500-605"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Chapadinha",
+        "street": "Rua Valderi Dantas",
+        "zipcode": "63503-765"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Travessa Laureano de Sousa Bernardo 5",
+        "zipcode": "63504-432"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua D (Lot Filadelfia)",
+        "zipcode": "63504-522"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua José Paulino de Souza",
+        "zipcode": "63504-560"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Poço Comprido",
+        "street": "Rua B (Lot P Comprido)",
+        "zipcode": "63503-615"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 4 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-740"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "63500-470"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "63500-620"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Vila São Vicente",
+        "zipcode": "63500-705"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Travessa Casimiro Pereira",
+        "zipcode": "63500-715"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Travessa Agenor Araújo",
+        "zipcode": "63500-730"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Doze de Outubro",
+        "zipcode": "63500-555"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Doze de Outubro",
+        "zipcode": "63500-478"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Julio Cavalcante",
+        "zipcode": "63500-494"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua José Márcio Nogueira",
+        "zipcode": "63500-682"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Vila Paraná",
+        "zipcode": "63500-675"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Vereador Edite Carneiro Barreto",
+        "zipcode": "63508-825"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Gerânia Maria Lopes de Lima",
+        "zipcode": "63508-808"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua José Enéas Cavalcante",
+        "zipcode": "63508-804"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Valdir Paiva de Macedo",
+        "zipcode": "63504-768"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Santos Dumont",
+        "zipcode": "63500-032"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Vinte e Três de Novembro",
+        "zipcode": "63500-038"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "63500-050"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Avenida Agenor Araújo",
+        "zipcode": "63500-376"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Agenor Araújo",
+        "zipcode": "63500-058"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Agenor Araújo",
+        "zipcode": "63500-063"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Deputado Adail Barreto",
+        "zipcode": "63500-065"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Eduardo Lavor",
+        "zipcode": "63500-068"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Guilhardo Gomes de Araújo",
+        "zipcode": "63504-734"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Esperidião Ferreira Costa",
+        "zipcode": "63503-325"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua José Márcio Nogueira",
+        "zipcode": "63500-552"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Virgovino Manoel Leite",
+        "zipcode": "63503-300"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Poço Comprido",
+        "street": "Rua do Chicão I",
+        "zipcode": "63503-607"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Travessa Paulo Sarasate",
+        "zipcode": "63503-215"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 10 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-758"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua Antônio Alexandre dos Santos",
+        "zipcode": "63503-205"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 6 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-746"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua José Valci Bezerra Cavalcante",
+        "zipcode": "63503-360"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua Oscar Salviano Macedo",
+        "zipcode": "63502-730"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 5 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-743"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Guilhardo Gomes de Araújo",
+        "zipcode": "63506-030"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Virgílio Correia",
+        "zipcode": "63500-035"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Padre Cícero",
+        "zipcode": "63504-150"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Pedro Gomes Araújo",
+        "zipcode": "63500-368"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Gustavo Correia",
+        "zipcode": "63500-029"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Professor João Coelho",
+        "zipcode": "63500-005"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua José de Alencar",
+        "zipcode": "63507-180"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Deocléciano Bezerra",
+        "zipcode": "63500-353"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Manoel Epifânio",
+        "zipcode": "63504-415"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Vila José Severo",
+        "zipcode": "63500-384"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Vila Brasília",
+        "zipcode": "63500-412"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Ésio Amaral",
+        "zipcode": "63500-625"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Vila Cícero Pires",
+        "zipcode": "63500-348"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Travessa Sales Teixeira",
+        "zipcode": "63500-344"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Lúcio",
+        "zipcode": "63500-134"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Ester Dias",
+        "zipcode": "63500-149"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Leonel de Carvalho",
+        "zipcode": "63500-155"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Celso Lima Verde",
+        "zipcode": "63500-086"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Belchior Gomes de Araújo",
+        "zipcode": "63505-405"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63505-190"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisca Alves Dantas",
+        "zipcode": "63500-080"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua José Palácios",
+        "zipcode": "63503-240"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63504-268"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Vereador Henrique de Souza Bandeira",
+        "zipcode": "63503-355"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua José Edilvo Cavalcante Lima",
+        "zipcode": "63503-315"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua José Moura Sobrinho",
+        "zipcode": "63503-365"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Doutor Vicente Bezerra da Costa",
+        "zipcode": "63500-250"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "63500-011"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Senador Pompeu",
+        "zipcode": "63500-074"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Tancredo Neves",
+        "zipcode": "63500-690"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Vereador Luís Barreto",
+        "zipcode": "63500-364"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Jarbas de Araújo Mendonça",
+        "zipcode": "63505-185"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Julio Cavalcante",
+        "zipcode": "63500-380"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Doutor Moacir Sousa Rocha",
+        "zipcode": "63504-483"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Avenida Dário Rabelo",
+        "zipcode": "63504-130"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Tenente",
+        "zipcode": "63505-135"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Padre Patrício",
+        "zipcode": "63504-315"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Doutor João Pessoa",
+        "zipcode": "63500-970"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Doutor João Pessoa",
+        "zipcode": "63500-971"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Doutor João Pessoa",
+        "zipcode": "63500-975"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Iris Amorim Lopes",
+        "zipcode": "63504-762"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Gilson Sampaio de Souza",
+        "zipcode": "63504-757"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Jozefa Tomé de Macedo Silva",
+        "zipcode": "63504-088"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Geraldo Arrais de Sousa",
+        "zipcode": "63504-078"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Sidney Brito Sobreira",
+        "zipcode": "63501-085"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Travessa Doze de Outubro",
+        "zipcode": "63500-590"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Avenida Agenor Araújo",
+        "zipcode": "63500-725"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Padre Cícero",
+        "zipcode": "63502-275"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Estrada do Cruiri",
+        "zipcode": "63501-180"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Padre Cícero",
+        "zipcode": "63502-160"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Orígines Rabelo",
+        "zipcode": "63502-200"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Travessa Orígines Rabelo",
+        "zipcode": "63502-205"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Antônio Mendonça",
+        "zipcode": "63500-775"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Henrique de Sousa Bandeira",
+        "zipcode": "63500-026"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua José Márcio Nogueira",
+        "zipcode": "63500-522"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Doutor José Holanda Montenegro",
+        "zipcode": "63500-013"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua C (Lot Alvorada)",
+        "zipcode": "63507-685"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua José Amaro",
+        "zipcode": "63500-843"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Monsenhor Coelho",
+        "zipcode": "63500-393"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua Souza Alexandre",
+        "zipcode": "63503-255"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Coronel José Adolfo Oliveira",
+        "zipcode": "63502-410"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Engenheiro José Barreto",
+        "zipcode": "63500-482"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Vila Padre Geraldo Vieira",
+        "zipcode": "63500-382"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Helvécio Teixeira",
+        "zipcode": "63500-526"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Espírito Santo",
+        "zipcode": "63503-340"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Isaura Amaro",
+        "zipcode": "63501-040"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "63504-015"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Pastor Francisco Bezerra Filho",
+        "zipcode": "63505-480"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Presbítero José Barbosa da Costa",
+        "zipcode": "63508-455"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Doutor Manoel Batista de Oliveira",
+        "zipcode": "63505-080"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Avenida Alberico Cavalcante Mendonça",
+        "zipcode": "63508-122"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua João A. de Almeida",
+        "zipcode": "63507-460"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Gonçalves de Carvalho",
+        "zipcode": "63500-041"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua dos Quixelôs",
+        "zipcode": "63507-655"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Ricardo L. de Oliveira",
+        "zipcode": "63504-570"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça José Airton Jucá",
+        "zipcode": "63500-020"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Horácio Fernandes Nogueira",
+        "zipcode": "63504-520"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Antônio M. Melo",
+        "zipcode": "63504-685"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Jaime Sabino de Matos",
+        "zipcode": "63504-605"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Alzira Bezerra",
+        "zipcode": "63508-430"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Galeria Gustavo Correia",
+        "zipcode": "63500-053"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Demóstenes de Carvalho",
+        "zipcode": "63500-047"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Fenelon Lima",
+        "zipcode": "63500-805"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Julio Cavalcante",
+        "zipcode": "63501-015"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Juvenal Barreto",
+        "zipcode": "63500-504"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Juvenal Barreto",
+        "zipcode": "63500-408"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Rua Maelete Cortez",
+        "zipcode": "63504-235"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "63504-050"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "63502-485"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Avenida Dário Rabelo",
+        "zipcode": "63502-253"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Avenida Dário Rabelo",
+        "zipcode": "63502-003"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Travessa José Márcio Nogueira",
+        "zipcode": "63500-685"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua Trajano de Medeiros",
+        "zipcode": "63502-025"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Alfredo Leopoldo",
+        "zipcode": "63502-180"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Travessa São José",
+        "zipcode": "63502-337"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Euclides Cavalcante",
+        "zipcode": "63500-815"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Vereador Joaquim Sales Diniz",
+        "zipcode": "63508-834"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Padre Cícero",
+        "zipcode": "63508-710"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Santos Dumont",
+        "zipcode": "63500-146"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Santos Dumont",
+        "zipcode": "63500-195"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "63500-071"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Coronel Mendonça",
+        "zipcode": "63500-056"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Agenor Araújo",
+        "zipcode": "63500-110"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Eduardo Lavor",
+        "zipcode": "63500-220"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Eduardo Lavor",
+        "zipcode": "63500-127"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua José Custódio da Costa",
+        "zipcode": "63504-320"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Governador Plácido Castelo",
+        "zipcode": "63504-340"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Treze de Maio",
+        "zipcode": "63500-225"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Planalto",
+        "street": "Rua Coronel José de Pinho",
+        "zipcode": "63500-780"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Rua Professor Delnivan M. Carlos",
+        "zipcode": "63502-670"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Manoel Carlos Gouveia",
+        "zipcode": "63500-017"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63507-075"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Estrada do Baú",
+        "zipcode": "63506-010"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Professor João Coelho",
+        "zipcode": "63507-004"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Manoela de Souza",
+        "zipcode": "63502-135"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Deocléciano Bezerra",
+        "zipcode": "63500-119"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Deocléciano Bezerra",
+        "zipcode": "63500-360"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Beco dos Carneiros",
+        "zipcode": "63500-328"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Vila São José",
+        "zipcode": "63500-322"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua João Lourenço Colares",
+        "zipcode": "63508-030"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Porfírio Alves",
+        "zipcode": "63504-445"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Agenor Carneiro",
+        "zipcode": "63500-007"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "63500-401"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Moura",
+        "street": "Rua Erasmo Rodovalho de Alencar",
+        "zipcode": "63503-370"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Rosimira Guedes dos Santos",
+        "zipcode": "63508-470"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Margarida de S. Alexandre",
+        "zipcode": "63503-860"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua 3 (Lot Planalto Iguatuense)",
+        "zipcode": "63502-713"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Avenida Alberico Cavalcante Mendonça",
+        "zipcode": "63507-683"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Belchior Gomes de Araújo",
+        "zipcode": "63505-200"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Poço Comprido",
+        "street": "Rodovia Iguatu Icó",
+        "zipcode": "63503-605"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Meton de Alencar Maia",
+        "zipcode": "63504-705"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Rua Silvino Cândido da Silva",
+        "zipcode": "63502-675"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Wilson Roriz",
+        "zipcode": "63502-262"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Luís Cardoso Araújo",
+        "zipcode": "63503-810"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Vereador Luís Barreto",
+        "zipcode": "63500-712"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Vila Ademar Alves",
+        "zipcode": "63500-740"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Rua Francisco Moreira",
+        "zipcode": "63502-010"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Julio Cavalcante",
+        "zipcode": "63500-292"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "63500-255"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Rua Vinte e Sete de Novembro",
+        "zipcode": "63502-228"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Avenida Dário Rabelo",
+        "zipcode": "63504-002"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Luís Chaves da Costa",
+        "zipcode": "63504-380"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Leonardo Araújo de Moura",
+        "zipcode": "63508-796"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua José Maria",
+        "zipcode": "63508-794"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Claydson Bezerra de Araújo",
+        "zipcode": "63507-147"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Valmir de Souza Bandeira (Lot Primavera)",
+        "zipcode": "63506-090"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Antônia Cândido de Oliveira (Lot Primavera)",
+        "zipcode": "63506-080"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Mauriza Gomes da Silva (Lot Primavera)",
+        "zipcode": "63506-075"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Cícero Duca de Oliveira (Lot Primavera)",
+        "zipcode": "63506-070"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Rua Francisco de Sousa Bandeira (Lot Primavera)",
+        "zipcode": "63506-065"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua João de Sousa Bandeira (Lot Primavera)",
+        "zipcode": "63506-055"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Otília Alves Cabral Albuquerque (Lot Primavera)",
+        "zipcode": "63506-050"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua João Gualberto Filho (Lot Primavera)",
+        "zipcode": "63506-045"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Maria de Lourdes Batista Silva (Lot Primavera)",
+        "zipcode": "63506-040"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Rita Dalila de Lavor",
+        "zipcode": "63505-526"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Ademar Gomes Pereira",
+        "zipcode": "63505-518"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Maria Almira Bezerra de Oliveira",
+        "zipcode": "63505-512"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua José Monteiro da Silva",
+        "zipcode": "63505-478"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Maria Cadeira de Oliveira",
+        "zipcode": "63505-475"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua João Cadeira de Oliveira",
+        "zipcode": "63505-468"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Josué Antônio da Silva",
+        "zipcode": "63505-420"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Isaias Antônio da Silva",
+        "zipcode": "63505-417"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Francisca Cipriano da Silva",
+        "zipcode": "63505-408"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Padre Raimundo Guedes Monteiro",
+        "zipcode": "63505-105"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajazeiras",
+        "street": "Rua Joaquim Cardoso Araújo",
+        "zipcode": "63503-820"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Travessa Laureano de Sousa Bernardo 3",
+        "zipcode": "63504-422"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Francisco Monteiro",
+        "zipcode": "63504-300"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Neuma",
+        "street": "Rua Paulo Sarasate",
+        "zipcode": "63503-210"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua José Rosa Matos",
+        "zipcode": "63508-780"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua José Barbosa Siebra",
+        "zipcode": "63502-425"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Brasília",
+        "street": "Rua Adeodato Matos Cavalcante",
+        "zipcode": "63500-673"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Avenida Presidente Eurico Dutra",
+        "zipcode": "63505-562"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Travessa José Caio Sturgt",
+        "zipcode": "63500-424"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63508-120"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Avenida Carlos Roberto Costa",
+        "zipcode": "63507-650"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Agner Gomes de Araújo",
+        "zipcode": "63505-020"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bastiana",
+        "street": "Rua Doutor Mano Távora",
+        "zipcode": "63507-162"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Francisco Alves Sobrinho",
+        "zipcode": "63508-410"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Francisco Joacir Matias Costa",
+        "zipcode": "63508-460"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada I",
+        "street": "Avenida Joaquim Ailton Alexandre",
+        "zipcode": "63502-473"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Prado",
+        "street": "Rua Engenheiro Wilton Correia Lima",
+        "zipcode": "63502-108"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Enéas Bandeira Filho",
+        "zipcode": "63504-612"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Rua José J. Lourenço",
+        "zipcode": "63507-305"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua José Aloisio Moreira",
+        "zipcode": "63508-700"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Vereador Nelson de Sousa Alencar",
+        "zipcode": "63504-356"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Esplanada II",
+        "street": "Rua Professora Santinha Alcântara",
+        "zipcode": "63505-115"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cocobó",
+        "street": "Travessa Vereador Nelson de Sousa Alencar",
+        "zipcode": "63504-212"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cruiri",
+        "street": "Rua Lucas Emannuel Lima (Lot Royal Ville)",
+        "zipcode": "63501-270"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cruiri",
+        "street": "Rua Maria Anete Neves (Lot Royal Ville)",
+        "zipcode": "63501-265"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cruiri",
+        "street": "Rua Mayla Siebra Cavalcante (Lot Royal Ville)",
+        "zipcode": "63501-255"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Epitácio Pessoa",
+        "zipcode": "63500-044"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias II",
+        "street": "Rua Mauro Maia",
+        "zipcode": "63508-270"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Francisco Felipe de Melo",
+        "zipcode": "63508-840"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Área Rural de Iguatu",
+        "street": "Área Rural",
+        "zipcode": "63514-899"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Maria Elizeuda",
+        "zipcode": "63505-470"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Francisco Clidenor Teixeira",
+        "zipcode": "63508-798"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua Keila Cibely Queiroz",
+        "zipcode": "63508-490"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Ismaílson Paulino da Silva",
+        "zipcode": "63505-464"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Vereador Francisco Milton Alencar",
+        "zipcode": "63508-828"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Maria Zulene Medeiros de Araújo",
+        "zipcode": "63508-806"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Vicência Cotinha de Carvalho Valadares",
+        "zipcode": "63504-767"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua Padre José Gonçalves Landim",
+        "zipcode": "63500-484"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Oduvaldo Ferreira Lessa",
+        "zipcode": "63508-836"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Rejane Maria da Silva Nogueira",
+        "zipcode": "63508-832"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Eugedo Cavalcante Costa",
+        "zipcode": "63508-802"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Francisco Pedro Neto (Lot Primavera)",
+        "zipcode": "63506-085"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Ninosa Maria da Conceição (Lot Primavera)",
+        "zipcode": "63506-060"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua João Emanuel Cavalcante Lobo",
+        "zipcode": "63505-522"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua Antônia Soares de Oliveira",
+        "zipcode": "63505-474"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua José Chaves Neto (Lot Primavera)",
+        "zipcode": "63506-095"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Doutor João Pessoa",
+        "zipcode": "63500-092"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Doutor João Pessoa",
+        "zipcode": "63500-023"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua João Maia",
+        "zipcode": "63502-335"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Apulcro Lima Verde",
+        "zipcode": "63502-375"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Travessa Itapuara",
+        "zipcode": "63502-385"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alto do Jucá",
+        "street": "Rua Padre João",
+        "zipcode": "63502-395"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Praça Prefeito Adil Mendonça",
+        "zipcode": "63500-077"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Adeodato Matos Cavalcante",
+        "zipcode": "63500-388"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua Jussiê Correia Lima",
+        "zipcode": "63500-405"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Alvorada",
+        "street": "Rua A (Lot Alvorada)",
+        "zipcode": "63507-660"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Fomento",
+        "street": "Rua Doutor Waldemir de Albuquerque e Sousa",
+        "zipcode": "63502-725"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "João Paulo II",
+        "street": "Rua Padre Marcelino Champagnat",
+        "zipcode": "63508-760"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Pedro Ribeiro de Castro",
+        "zipcode": "63504-620"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Professora Fanny Mascarenhas",
+        "zipcode": "63501-185"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cajueiro",
+        "street": "Rua 10",
+        "zipcode": "63508-435"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Dona Neuza Cândido de Lavor",
+        "zipcode": "63504-575"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Cohabs",
+        "street": "Rua Nicanor Gomes de Araújo",
+        "zipcode": "63504-660"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Padre Cícero",
+        "zipcode": "63504-255"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Taboleiro",
+        "street": "Rua Antônio Mendonça",
+        "zipcode": "63500-340"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Flores",
+        "street": "Rua José de Alencar",
+        "zipcode": "63500-490"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Iguatu",
+        "street": "Rua José de Alencar",
+        "zipcode": "63500-395"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Rua Lauro B. Passos",
+        "zipcode": "63502-650"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Coqueiros",
+        "street": "Rua Aurino de Souza",
+        "zipcode": "63502-655"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Thiago Saraiva Ramos",
+        "zipcode": "63504-790"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Paraná",
+        "street": "Rua Francisco Vieira da Silva",
+        "zipcode": "63500-560"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Centenário",
+        "street": "Rua Alceu Gonçalves dos Reis",
+        "zipcode": "63504-330"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Vereador Laureano de Sousa Bernardo",
+        "zipcode": "63504-420"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Novo Iguatu",
+        "street": "Rua Francisco Alves Teixeira",
+        "zipcode": "63504-765"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Chapadinha",
+        "street": "Rodovia Iguatu Icó",
+        "zipcode": "63503-752"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Rua Alceu Gonçalves dos Reis",
+        "zipcode": "63504-455"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Santo Antônio",
+        "street": "Avenida Adil Mendonça",
+        "zipcode": "63502-220"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Bugi",
+        "street": "Rua Oficial de Justiça José Raimundo do Nascimento",
+        "zipcode": "63501-160"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Jardim Oásis",
+        "street": "Avenida José Maurílio Lima Verde Mendonça",
+        "zipcode": "63507-325"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Industrial",
+        "street": "Rua Porfírio Alves",
+        "zipcode": "63506-015"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Chapadinha",
+        "street": "Rua Cícero Vieira dos Santos",
+        "zipcode": "63503-780"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Areias I",
+        "street": "Rua Manoel Epifânio",
+        "zipcode": "63508-020"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "7 de Setembro",
+        "street": "Rua Vereador Nelson de Sousa Alencar",
+        "zipcode": "63504-113"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Vila Cidao",
+        "street": "Travessa Trajano de Medeiros",
+        "zipcode": "63502-055"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Altiplano",
+        "street": "Rua C (Lot Altiplano)",
+        "zipcode": "63505-550"
+    },
+    {
+        "city": "Iguatu",
+        "state": "CE",
+        "district": "Veneza",
+        "street": "Travessa Laureano de Sousa Bernardo 1",
+        "zipcode": "63504-372"
+    }
+]

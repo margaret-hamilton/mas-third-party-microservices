@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São Sebastião do Oeste",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35567-000"
+    },
+    {
+        "city": "São Sebastião do Oeste",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Primeiro de Março 240",
+        "zipcode": "35506-972"
+    },
+    {
+        "city": "São Sebastião do Oeste",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35506-000"
+    },
+    {
+        "city": "São Sebastião do Oeste",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Primeiro de Março 240",
+        "zipcode": "35567-972"
+    }
+]

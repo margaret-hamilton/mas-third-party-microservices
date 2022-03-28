@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Caiçara",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Brasil",
+        "zipcode": "98440-970"
+    },
+    {
+        "city": "Caiçara",
+        "state": "RS",
+        "district": "Linha Mendes",
+        "street": "Estrada Moraes",
+        "zipcode": "98440-974"
+    },
+    {
+        "city": "Caiçara",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "98440-000"
+    },
+    {
+        "city": "Caiçara",
+        "state": "RS",
+        "district": "Linha Lazzari",
+        "street": "Rua Principal",
+        "zipcode": "98440-975"
+    }
+]

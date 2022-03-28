@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Luislândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Lindolfo Gonçalves 495",
+        "zipcode": "39336-972"
+    },
+    {
+        "city": "Luislândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça da Matriz 333",
+        "zipcode": "39336-971"
+    },
+    {
+        "city": "Luislândia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39336-000"
+    }
+]

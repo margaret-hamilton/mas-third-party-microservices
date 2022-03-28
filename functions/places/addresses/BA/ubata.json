@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Ubatã",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Ministro Barros Barreto s/n",
+        "zipcode": "45550-970"
+    },
+    {
+        "city": "Ubatã",
+        "state": "BA",
+        "district": null,
+        "street": "Avenida Landulfo Alves",
+        "zipcode": "45550-991"
+    },
+    {
+        "city": "Ubatã",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Francisco Xavier",
+        "zipcode": "45550-992"
+    },
+    {
+        "city": "Ubatã",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45550-000"
+    },
+    {
+        "city": "Ubatã",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Félix Londrina",
+        "zipcode": "45550-990"
+    }
+]

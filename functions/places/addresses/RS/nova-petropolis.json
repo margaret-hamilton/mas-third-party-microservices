@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Nova Petrópolis",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Rio Branco 375",
+        "zipcode": "95150-970"
+    },
+    {
+        "city": "Nova Petrópolis",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95150-000"
+    },
+    {
+        "city": "Nova Petrópolis",
+        "state": "RS",
+        "district": null,
+        "street": "Rua das Araucárias",
+        "zipcode": "95150-990"
+    },
+    {
+        "city": "Nova Petrópolis",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Albano Hansen",
+        "zipcode": "95150-991"
+    }
+]

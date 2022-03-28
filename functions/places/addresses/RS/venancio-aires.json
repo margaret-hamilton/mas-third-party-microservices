@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Venâncio Aires",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Tiradentes 556",
+        "zipcode": "95800-970"
+    },
+    {
+        "city": "Venâncio Aires",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Tiradentes 556",
+        "zipcode": "95800-972"
+    },
+    {
+        "city": "Venâncio Aires",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95800-000"
+    },
+    {
+        "city": "Venâncio Aires",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Fernando Manoel Schwingel",
+        "zipcode": "95800-991"
+    },
+    {
+        "city": "Venâncio Aires",
+        "state": "RS",
+        "district": null,
+        "street": "Rua D",
+        "zipcode": "95800-990"
+    }
+]

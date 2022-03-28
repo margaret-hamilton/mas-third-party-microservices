@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Aporá",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Coronel Francelino 301",
+        "zipcode": "48350-970"
+    },
+    {
+        "city": "Aporá",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Coronel Francelino",
+        "zipcode": "48350-990"
+    },
+    {
+        "city": "Aporá",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48350-000"
+    },
+    {
+        "city": "Aporá",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Custódio Batista",
+        "zipcode": "48350-991"
+    }
+]

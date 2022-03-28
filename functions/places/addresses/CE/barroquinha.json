@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Barroquinha",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Onze de Maio 791",
+        "zipcode": "62410-970"
+    },
+    {
+        "city": "Barroquinha",
+        "state": "CE",
+        "district": null,
+        "street": "Rua do Comércio",
+        "zipcode": "62414-990"
+    },
+    {
+        "city": "Barroquinha",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62410-000"
+    },
+    {
+        "city": "Barroquinha",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "62410-975"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Montanha",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Ítalo Benso 15",
+        "zipcode": "29890-970"
+    },
+    {
+        "city": "Montanha",
+        "state": "ES",
+        "district": null,
+        "street": "Estrada Municipal",
+        "zipcode": "29890-993"
+    },
+    {
+        "city": "Montanha",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29890-000"
+    },
+    {
+        "city": "Montanha",
+        "state": "ES",
+        "district": "São Sebastião do Norte",
+        "street": "Rua Principal s/n",
+        "zipcode": "29890-982"
+    }
+]

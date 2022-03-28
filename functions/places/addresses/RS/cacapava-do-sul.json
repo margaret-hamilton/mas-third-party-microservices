@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Caçapava do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "96570-970"
+    },
+    {
+        "city": "Caçapava do Sul",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "96570-000"
+    },
+    {
+        "city": "Caçapava do Sul",
+        "state": "RS",
+        "district": "Minas do Camaquã",
+        "street": "Rua Alexandrino de Paula Leite",
+        "zipcode": "96570-974"
+    },
+    {
+        "city": "Caçapava do Sul",
+        "state": "RS",
+        "district": null,
+        "street": "Av Principal",
+        "zipcode": "96570-990"
+    }
+]

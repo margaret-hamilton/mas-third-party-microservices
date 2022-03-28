@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pirapora do Bom Jesus",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "06550-000"
+    },
+    {
+        "city": "Pirapora do Bom Jesus",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santa Cruz 99",
+        "zipcode": "06550-970"
+    },
+    {
+        "city": "Pirapora do Bom Jesus",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Francisco Misse",
+        "zipcode": "06550-990"
+    },
+    {
+        "city": "Pirapora do Bom Jesus",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Pardal",
+        "zipcode": "06550-991"
+    }
+]

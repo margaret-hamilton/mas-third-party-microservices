@@ -1,0 +1,5357 @@
+[
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dos Invalidos",
+        "zipcode": "20231-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Curicica",
+        "street": "Estrada De Curicica",
+        "zipcode": "22710-550"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Estrada Gabinal",
+        "zipcode": "22760-150"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Jardim Novo Horizonte",
+        "street": "Rua Nove",
+        "zipcode": "23070-005"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Engenheiro Leal",
+        "street": "Rua Sidonio Pais",
+        "zipcode": "21370-670"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Dr Alberto Nepomuceno",
+        "zipcode": "21060-680"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Raimundo Correia",
+        "zipcode": "22040-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Henrique",
+        "zipcode": "21610-180"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Vinte (Cj J Saldanha",
+        "zipcode": "21865-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Dezesseis (Cunha Pedrosa)",
+        "zipcode": "22765-835"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pavuna",
+        "street": "Rua General Jose Joaquim Ferreira",
+        "zipcode": "21521-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Paciencia",
+        "street": "Avenida Cesario De Melo",
+        "zipcode": "23585-127"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Cristovao",
+        "street": "Rua Sao Januario",
+        "zipcode": "20921-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Avenida Portuguesa",
+        "zipcode": "20521-490"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Quarenta (Cj J Saldanha",
+        "zipcode": "21865-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Mangueira",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "20950-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Tres (Cunha Pedrosa)",
+        "zipcode": "22765-827"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Rua Barao De Vassouras",
+        "zipcode": "20510-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sepetiba",
+        "street": "Travessa Sebastiao",
+        "zipcode": "23530-826"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maria Da Graca",
+        "street": "Rua Miguel Angelo",
+        "zipcode": "20785-220"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Travessa Comporta",
+        "zipcode": "20510-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Vinte E Cinco (Cj J Saldanha",
+        "zipcode": "21865-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maria Da Graca",
+        "street": "Rua Domingos De Magalhaes",
+        "zipcode": "20785-351"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maracana",
+        "street": "Rua Almirante Joao Candido Brasil",
+        "zipcode": "20511-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Estrada Gabinal",
+        "zipcode": "22763-152"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Joa",
+        "street": "Estrada Do Joa",
+        "zipcode": "22611-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Magalhaes Bastos",
+        "street": "Estrada Da Agua Branca",
+        "zipcode": "21735-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Conrado",
+        "street": "Estrada Do Joa",
+        "zipcode": "22610-140"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Estrada Do Pau Ferro",
+        "zipcode": "22745-054"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Paciencia",
+        "street": "Rua Solivana",
+        "zipcode": "23587-600"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maria Da Graca",
+        "street": "Rua Domingos De Magalhaes",
+        "zipcode": "20785-350"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Manguinhos",
+        "street": "Avenida Novo Rio",
+        "zipcode": "21041-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Luiz Monte Zuma",
+        "zipcode": "23088-520"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Praia Da Bandeira",
+        "street": "Rua Maris E Barros",
+        "zipcode": "20270-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Miranda Varejao",
+        "zipcode": "21770-180"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Iury Xavier Pereira",
+        "zipcode": "22785-410"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Dr Alberto Nepomuceno",
+        "zipcode": "21030-730"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Elen De Lima",
+        "zipcode": "23095-480"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Rua Flavia Farnese",
+        "zipcode": "21043-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Piedade",
+        "street": "Avenida Suburbana",
+        "zipcode": "21380-006"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Avenida Edson Passos",
+        "zipcode": "20531-071"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Praça Paulo Massa",
+        "zipcode": "22785-490"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Dr Alfredo Barcelos",
+        "zipcode": "21060-690"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Rua Do Mal",
+        "zipcode": "23094-440"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Beco Do Teatro",
+        "zipcode": "20010-190"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Quintino Bocaiuva",
+        "street": "Avenida Suburbana",
+        "zipcode": "21380-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Vila Candida",
+        "zipcode": "21220-677"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Bittencourt Sampaio",
+        "zipcode": "21044-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maria Da Graca",
+        "street": "Avenida Suburbana",
+        "zipcode": "21050-451"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Soldado Elias Dos Santos",
+        "zipcode": "21220-680"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Santa Luzia",
+        "zipcode": "20020-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Araujo Porto Alegre",
+        "zipcode": "20030-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Santa Luzia",
+        "zipcode": "20030-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Senador Dantas",
+        "zipcode": "20031-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Da Conceicao",
+        "zipcode": "20051-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Da Alfandega",
+        "zipcode": "20061-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Da Alfandega",
+        "zipcode": "20070-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Buenos Aires",
+        "zipcode": "20070-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dos Andradas",
+        "zipcode": "20080-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Senador Pompeu",
+        "zipcode": "20080-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Saude",
+        "street": "Rua Sacadura Cabral",
+        "zipcode": "20081-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Marques De Sapucai",
+        "zipcode": "20210-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cidade Nova",
+        "street": "Rua Comandante Mauriti",
+        "zipcode": "20210-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Da America",
+        "zipcode": "20210-590"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Senador Dantas",
+        "zipcode": "20031-201"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Saude",
+        "street": "Avenida Venezuela",
+        "zipcode": "20081-310"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Rua Irati",
+        "zipcode": "20510-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Rua Amaral",
+        "zipcode": "20510-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Praça Varnhagen",
+        "zipcode": "20511-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Isabel",
+        "street": "Rua Padre Champagnat",
+        "zipcode": "20511-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Pereira Nunes",
+        "zipcode": "20511-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Major Avila",
+        "zipcode": "20511-140"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Babilonia",
+        "zipcode": "20511-150"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Praça Celso Da Rocha Miranda",
+        "zipcode": "20511-350"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "20520-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Pedro Alves",
+        "zipcode": "20220-282"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Santo Cristo",
+        "zipcode": "20220-300"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Gamboa",
+        "street": "Rua Da Gamboa",
+        "zipcode": "20220-320"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Gamboa",
+        "street": "Rua Da Gamboa",
+        "zipcode": "20220-321"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Gamboa",
+        "street": "Rua Do Livramento",
+        "zipcode": "20221-190"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barao De Sao Felix",
+        "zipcode": "20221-421"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Washington Luis",
+        "zipcode": "20230-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua General Caldwell",
+        "zipcode": "20230-190"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua General Caldwell",
+        "zipcode": "20230-191"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Gomes Freire",
+        "zipcode": "20231-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Gomes Freire",
+        "zipcode": "20231-011"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Carlos Sampaio",
+        "zipcode": "20231-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Teresa",
+        "street": "Rua Cardeal Dom Sebastiao Leme",
+        "zipcode": "20240-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Teresa",
+        "street": "Rua Monte Alegre",
+        "zipcode": "20240-190"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Teresa",
+        "street": "Rua Almirante Alexandrino",
+        "zipcode": "20241-261"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Teresa",
+        "street": "Rua Almirante Alexandrino",
+        "zipcode": "20241-262"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Estacio",
+        "street": "Rua Haddock Lobo",
+        "zipcode": "20260-131"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Estacio",
+        "street": "Rua Haddock Lobo",
+        "zipcode": "20260-133"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rio Comprido",
+        "street": "Rua Do Bispo",
+        "zipcode": "20261-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rio Comprido",
+        "street": "Rua Do Bispo",
+        "zipcode": "20261-062"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Praca Da Bandeira",
+        "street": "Rua Do Matoso",
+        "zipcode": "20270-130"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rio Comprido",
+        "street": "Rua Do Matoso",
+        "zipcode": "20270-131"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Campos Sales",
+        "zipcode": "20270-211"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Afonso Pena",
+        "zipcode": "20270-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Afonso Pena",
+        "zipcode": "20270-241"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maracana",
+        "street": "Rua General Canabarro",
+        "zipcode": "20271-201"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Gamboa",
+        "street": "Avenida Venezuela",
+        "zipcode": "20220-570"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Do Senado",
+        "zipcode": "20231-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rio Comprido",
+        "street": "Rua Do Bispo",
+        "zipcode": "20261-061"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Rua Pontes Correia",
+        "zipcode": "20510-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Isabel",
+        "street": "Rua Costa Pereira",
+        "zipcode": "20511-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Urbano Duarte",
+        "zipcode": "20520-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Rua Juparana",
+        "zipcode": "20510-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Praça Luiz La Saigne",
+        "zipcode": "20511-360"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dos Invalidos",
+        "zipcode": "20231-042"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Comandante Mauriti",
+        "zipcode": "20220-610"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Do Livramento",
+        "zipcode": "20221-191"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Benjamim Franklin",
+        "zipcode": "20511-160"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Estacio",
+        "street": "Rua Sao Carlos",
+        "zipcode": "20250-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Praça Tenente Horta Barbosa",
+        "zipcode": "20510-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Estacio",
+        "street": "Rua Prof. Lavaquiel Biosque",
+        "zipcode": "20250-210"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maracana",
+        "street": "Praça Niteroi",
+        "zipcode": "20511-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Do Resende",
+        "zipcode": "20231-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maracana",
+        "street": "Rua Santa Luisa",
+        "zipcode": "20511-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Rua Indaiacu",
+        "zipcode": "20510-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Carmela Dutra",
+        "zipcode": "20520-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Grajau",
+        "street": "Avenida Julio Furtado",
+        "zipcode": "20561-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Grajau",
+        "street": "Rua Borda Do Mato",
+        "zipcode": "20561-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Jose Higino",
+        "zipcode": "20520-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Alto Da Boa Vista",
+        "street": "Estrada Das Furnas",
+        "zipcode": "20531-570"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Alto Da Boa Vista",
+        "street": "Estrada Das Furnas",
+        "zipcode": "20531-571"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Isabel",
+        "street": "Rua Barao De Sao Francisco",
+        "zipcode": "20541-370"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Engenho Novo",
+        "street": "Rua Barao Do Bom Retiro",
+        "zipcode": "20715-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Agua Santa",
+        "street": "Rua Dois De Fevereiro",
+        "zipcode": "20745-310"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Avenida Joao Ribeiro",
+        "zipcode": "20750-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Luis De Simoni",
+        "zipcode": "20750-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Soares Meireles",
+        "zipcode": "20750-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Heleodora",
+        "zipcode": "20750-210"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Joao Lisboa",
+        "zipcode": "20750-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Luis De Simoni",
+        "zipcode": "20760-640"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Soares Meireles",
+        "zipcode": "20760-690"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Luis De Castro",
+        "zipcode": "20760-730"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Joao Lisboa",
+        "zipcode": "20760-740"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Inhauma",
+        "street": "Travessa Vaz Da Costa",
+        "zipcode": "20770-009"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Engenho De Dentro",
+        "street": "Rua Jose Dos Reis",
+        "zipcode": "20770-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Del Castilho",
+        "street": "Rua Capitao Sampaio",
+        "zipcode": "20771-620"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cachambi",
+        "street": "Rua Cachambi",
+        "zipcode": "20771-630"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cachambi",
+        "street": "Rua Miguel Angelo",
+        "zipcode": "20785-221"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cachambi",
+        "street": "Rua Sao Gabriel",
+        "zipcode": "20785-290"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maria Da Graca",
+        "street": "Rua Conde De Azambuja",
+        "zipcode": "20785-340"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rocha",
+        "street": "Rua Major Suckow",
+        "zipcode": "20911-160"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rocha",
+        "street": "Rua Bergamo",
+        "zipcode": "20911-170"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Benfica",
+        "street": "Rua Ana Neri",
+        "zipcode": "20911-440"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Cristovao",
+        "street": "Rua Marechal Jardim",
+        "zipcode": "20920-201"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Benfica",
+        "street": "Rua Santo Antonio",
+        "zipcode": "20921-185"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Cristovao",
+        "street": "Rua General Argolo",
+        "zipcode": "20921-391"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Benfica",
+        "street": "Rua Prefeito Olimpio De Melo",
+        "zipcode": "20930-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Caju",
+        "street": "Rua Carlos Seidl",
+        "zipcode": "20931-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Caju",
+        "street": "Rua Carlos Seidl",
+        "zipcode": "20931-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rocha",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "20950-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sampaio",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "20950-002"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sampaio",
+        "street": "Rua Ana Neri",
+        "zipcode": "20960-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sampaio",
+        "street": "Rua Ana Neri",
+        "zipcode": "20960-002"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Gerson Ferreira",
+        "zipcode": "21030-150"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Nossa Senhora Das Gracas",
+        "zipcode": "21031-610"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Barreiros",
+        "zipcode": "21031-750"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Avenida Teixeira De Castro",
+        "zipcode": "21040-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Mario Carpenter",
+        "zipcode": "20755-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Benfica",
+        "street": "Avenida Carlos Matoso Correia",
+        "zipcode": "20930-490"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Francisco Xavier",
+        "street": "Rua Licinio Cardoso",
+        "zipcode": "20911-150"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Meier",
+        "street": "Rua Aquidaba",
+        "zipcode": "20720-290"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Grajau",
+        "street": "Rua Barao Do Bom Retiro",
+        "zipcode": "20540-340"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Cristovao",
+        "street": "Rua Sao Januario",
+        "zipcode": "20921-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Abolicao",
+        "street": "Rua Mario Carpenter",
+        "zipcode": "20755-061"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Grajau",
+        "street": "Rua Grajau",
+        "zipcode": "20561-140"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Bittencourt Sampaio",
+        "zipcode": "21040-180"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Meier",
+        "street": "Rua Aquidaba",
+        "zipcode": "20720-291"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Avenida Edson Passos",
+        "zipcode": "20531-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Grajau",
+        "street": "Rua Araxa",
+        "zipcode": "20561-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Benfica",
+        "street": "Rua Bento Ribeiro",
+        "zipcode": "20911-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Cristovao",
+        "street": "Rua Prefeito Olimpio De Melo",
+        "zipcode": "20930-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Rua Barao De Sao Francisco",
+        "zipcode": "20560-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Sargento Silva Nunes",
+        "zipcode": "21040-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Teixeira Ribeiro",
+        "zipcode": "21040-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Rua Vinte E Nove De Julho",
+        "zipcode": "21040-250"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Teixeira Ribeiro",
+        "zipcode": "21040-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Manguinhos",
+        "street": "Estrada De Manguinhos",
+        "zipcode": "21041-220"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Rua Da Proclamacao",
+        "zipcode": "21042-430"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Rua Vinte E Nove De Julho",
+        "zipcode": "21043-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Sargento Silva Nunes",
+        "zipcode": "21044-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Manguinhos",
+        "street": "Estrada De Manguinhos",
+        "zipcode": "21050-005"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Benfica",
+        "street": "Avenida Suburbana",
+        "zipcode": "21050-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Nossa Senhora Das Gracas",
+        "zipcode": "21060-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Penha",
+        "street": "Avenida Bras De Pina",
+        "zipcode": "21070-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Penha Circular",
+        "street": "Avenida Lobo Junior",
+        "zipcode": "21070-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Olaria",
+        "street": "Rua Antonio Rego",
+        "zipcode": "21073-310"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vicente De Carvalho",
+        "street": "Avenida Vicente De Carvalho",
+        "zipcode": "21210-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Estrada Do Quitungo",
+        "zipcode": "21215-560"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Estrada Do Quitungo",
+        "zipcode": "21215-561"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Kosmos",
+        "street": "Avenida Meriti",
+        "zipcode": "21220-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Major Medeiros",
+        "zipcode": "21220-570"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Toropasso",
+        "zipcode": "21220-580"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Barroso Pereira",
+        "zipcode": "21220-610"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Lucio De Araujo",
+        "zipcode": "21220-620"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Vila Pureza",
+        "zipcode": "21220-675"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vista Alegre",
+        "street": "Avenida Bras De Pina",
+        "zipcode": "21235-600"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vigario Geral",
+        "street": "Avenida Meriti",
+        "zipcode": "21240-730"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Parada De Lucas",
+        "street": "Rua Guadalupe",
+        "zipcode": "21241-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Penha",
+        "street": "Rua Honorio Bicalho",
+        "zipcode": "21020-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Penha Circular",
+        "street": "Avenida Lobo Junior",
+        "zipcode": "21020-121"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Olaria",
+        "street": "Rua Antonio Rego",
+        "zipcode": "21021-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Avenida Guilherme Maxwell",
+        "zipcode": "21042-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maria Da Graca",
+        "street": "Rua Conde De Azambuja",
+        "zipcode": "21050-580"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Alphonsus De Guimaraes",
+        "zipcode": "21220-630"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Parada De Lucas",
+        "street": "Rua Martinica",
+        "zipcode": "21241-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Bezerra De Melo",
+        "zipcode": "21241-380"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Canudos",
+        "zipcode": "21241-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Joaquim Loureiro",
+        "zipcode": "21241-500"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Padre Albuquerque",
+        "zipcode": "21241-510"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Emiliano Felipe",
+        "zipcode": "21241-530"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Goeldi",
+        "zipcode": "21241-535"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Joao Adil De Oliveira",
+        "zipcode": "21231-210"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Manguinhos",
+        "street": "Avenida Novo Rio",
+        "zipcode": "21051-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Jacare",
+        "street": "Rua Viuva Claudio",
+        "zipcode": "20970-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Estrada Da Agua Grande",
+        "zipcode": "21230-350"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Rua Flavia Farmese",
+        "zipcode": "21042-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vigario Geral",
+        "street": "Rodovia Presidente Dutra",
+        "zipcode": "21240-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua General Queiroz Saiao",
+        "zipcode": "21220-650"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Rua Teixeira Ribeiro",
+        "zipcode": "21044-250"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Barao De Jaguari",
+        "zipcode": "21220-600"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Jacare",
+        "street": "Rua Viuva Claudio",
+        "zipcode": "20973-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Jose Azevedo",
+        "zipcode": "21241-390"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Praça Dalva De Oliveira",
+        "zipcode": "21220-760"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Praça Padre Portugal",
+        "zipcode": "21241-480"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Pedro Tenorio",
+        "zipcode": "21241-560"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Capitao Aliatar Martins",
+        "zipcode": "21220-660"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Inhauma",
+        "street": "Rua Joaquim De Queiros",
+        "zipcode": "21062-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Olaria",
+        "street": "Rua Dr Alfredo Barcelos",
+        "zipcode": "21021-420"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Galeao",
+        "street": "Rua Martim Pescador",
+        "zipcode": "21241-790"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Joao Dalton",
+        "zipcode": "21241-545"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Avenida Meriti",
+        "zipcode": "21250-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Da Penha",
+        "street": "Travessa Da Brandura",
+        "zipcode": "21250-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua General Marques De Sousa",
+        "zipcode": "21250-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Alcides Rosa",
+        "zipcode": "21250-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Emilio Miranda",
+        "zipcode": "21250-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Cabo Herculano",
+        "zipcode": "21250-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cordovil",
+        "street": "Rua Bulhoes Marcial",
+        "zipcode": "21250-370"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vigario Geral",
+        "street": "Rua Martinica",
+        "zipcode": "21250-710"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Parada De Lucas",
+        "street": "Rua Maba",
+        "zipcode": "21250-730"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Quintino Bocaiuva",
+        "street": "Rua Clarimundo De Melo",
+        "zipcode": "21311-280"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campinho",
+        "street": "Rua Candido Benicio",
+        "zipcode": "21321-800"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Valqueire",
+        "street": "Rua Das Rosas",
+        "zipcode": "21330-681"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Madureira",
+        "street": "Estrada Intendente Magalhaes",
+        "zipcode": "21341-330"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Madureira",
+        "street": "Rua Sanatorio",
+        "zipcode": "21350-190"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Praça Padre Coutinho",
+        "zipcode": "21241-550"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campinho",
+        "street": "Rua Candido Benicio",
+        "zipcode": "21320-061"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Madureira",
+        "street": "Avenida Ministro Edgard Romero",
+        "zipcode": "21350-300"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Engenheiro Leal",
+        "street": "Rua Sanatorio",
+        "zipcode": "21370-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Engenheiro Leal",
+        "street": "Rua Francisco Vale",
+        "zipcode": "21370-170"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rocha Miranda",
+        "street": "Rua Dos Diamantes",
+        "zipcode": "21510-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rocha Miranda",
+        "street": "Rua Dos Rubis",
+        "zipcode": "21510-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rocha Miranda",
+        "street": "Rua Dos Rubis",
+        "zipcode": "21510-011"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Costa Barros",
+        "street": "Estrada Joao Paulo",
+        "zipcode": "21515-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pavuna",
+        "street": "Rua Vinhedo",
+        "zipcode": "21532-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Turiacu",
+        "street": "Rua Lindoia",
+        "zipcode": "21540-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bento Ribeiro",
+        "street": "Rua Pacheco Da Rocha",
+        "zipcode": "21550-525"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bento Ribeiro",
+        "street": "Rua Pacheco Da Rocha",
+        "zipcode": "21555-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua General Sezefredo",
+        "zipcode": "21715-061"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Do Imperador",
+        "zipcode": "21715-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Do Imperador",
+        "zipcode": "21715-071"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Bernardo De Vasconcelos",
+        "zipcode": "21715-250"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Estrada Do Realengo",
+        "zipcode": "21715-330"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Estrada Da Agua Branca",
+        "zipcode": "21720-160"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Marechal Marciano",
+        "zipcode": "21721-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Barao De Piraquara",
+        "zipcode": "21721-300"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Princesa Leopoldina",
+        "zipcode": "21735-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Marechal Falcao Da Frota",
+        "zipcode": "21735-660"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Jardim Sulacap",
+        "street": "Rua Euzebio De Almeida",
+        "zipcode": "21741-170"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Dez De Agosto",
+        "zipcode": "22785-530"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Honorio Gurgel",
+        "street": "Estrada Joao Paulo",
+        "zipcode": "21512-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Engenheiro Oscar Weischenk",
+        "zipcode": "21250-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Luis Da Veiga",
+        "zipcode": "21250-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Moliere",
+        "zipcode": "21241-440"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cascadura",
+        "street": "Rua Sidonio Pais",
+        "zipcode": "21350-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pavuna",
+        "street": "Rua Elisio Medrado",
+        "zipcode": "21525-820"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vigario Geral",
+        "street": "Rodovia Presidente Dutra",
+        "zipcode": "21535-500"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Costa Barros",
+        "street": "Rua Auta De Sousa",
+        "zipcode": "21352-350"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Oswaldo Cruz",
+        "street": "Rua Andrade Araujo",
+        "zipcode": "21341-310"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pavuna",
+        "street": "Rua Edgar Loureiro Valdetaro",
+        "zipcode": "21525-810"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Vila Nova",
+        "zipcode": "21770-170"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Magalhaes Bastos",
+        "street": "Rua Sao Guilherme",
+        "zipcode": "21750-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Manuel De Oliveira",
+        "zipcode": "21250-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Dos Afonsos",
+        "street": "Avenida Marechal Fontenele",
+        "zipcode": "21740-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Colegio",
+        "street": "Avenida Automovel Clube",
+        "zipcode": "21530-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Turiacu",
+        "street": "Avenida Dos Italianos",
+        "zipcode": "21510-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Magalhaes Bastos",
+        "street": "Rua Sao Dimas",
+        "zipcode": "21750-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Olimpia Esteves",
+        "zipcode": "21775-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Avenida De Santa Cruz",
+        "zipcode": "21810-005"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Avenida Conego De Vasconcelos",
+        "zipcode": "21810-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Francisco Real",
+        "zipcode": "21810-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Doze De Fevereiro",
+        "zipcode": "21810-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Joaquim Mendes Malheiros",
+        "zipcode": "21610-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Pinhal",
+        "zipcode": "21610-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Mambares",
+        "zipcode": "21610-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Luis Oliveira Neto",
+        "zipcode": "21610-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Boipeba",
+        "zipcode": "21610-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Juriari",
+        "zipcode": "21610-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Marapendi",
+        "zipcode": "21610-130"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Cabralia",
+        "zipcode": "21610-140"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Travessa Deodoro",
+        "zipcode": "21610-160"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Travessa Guimaraes",
+        "zipcode": "21610-170"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Beco Das Flores",
+        "zipcode": "21610-630"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Jabiri",
+        "zipcode": "21615-300"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Deodoro",
+        "street": "Avenida Brasil",
+        "zipcode": "21615-330"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Deodoro",
+        "street": "Avenida Brasil",
+        "zipcode": "21615-331"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anchieta",
+        "street": "Estrada Do Engenho Novo",
+        "zipcode": "21635-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anchieta",
+        "street": "Rua Alcobaca",
+        "zipcode": "21645-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pavuna",
+        "street": "Estrada Rio Do Pau",
+        "zipcode": "21650-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anchieta",
+        "street": "Estrada Rio Do Pau",
+        "zipcode": "21655-610"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Deodoro",
+        "street": "Estrada Do Camboata",
+        "zipcode": "21670-510"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Bernardo De Vasconcelos",
+        "zipcode": "21710-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Princesa Leopoldina",
+        "zipcode": "21710-420"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Jardim Sulacap",
+        "street": "Rua Euzebio De Almeida",
+        "zipcode": "21740-460"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Olimpia Esteves",
+        "zipcode": "21775-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Travessa Luis Tavares",
+        "zipcode": "21875-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Figueiredo Magalhaes",
+        "zipcode": "22031-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "22031-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Santa Clara",
+        "zipcode": "22041-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Barao De Ipanema",
+        "zipcode": "22050-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Barata Ribeiro",
+        "zipcode": "22051-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Jacinto Alcides",
+        "zipcode": "21810-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Julio Cesar",
+        "zipcode": "21810-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Julio Cesar",
+        "zipcode": "21810-071"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Prof. Clemente Ferreira",
+        "zipcode": "21810-140"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Silva Cardoso",
+        "zipcode": "21815-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Doze De Fevereiro",
+        "zipcode": "21815-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Jacinto Alcides",
+        "zipcode": "21815-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Rio Da Prata",
+        "zipcode": "21820-091"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Rio Da Prata",
+        "zipcode": "21820-095"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Praça Rodolfo Arena",
+        "zipcode": "21610-680"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Parque Anchieta",
+        "street": "Rua Marcelo Teixeira Brandao",
+        "zipcode": "21620-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Avenida Johann Strauss",
+        "zipcode": "21610-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Magalhaes Bastos",
+        "street": "Rua Sao Lino",
+        "zipcode": "21750-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Magalhaes Bastos",
+        "street": "Rua Sao Caetano",
+        "zipcode": "21750-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Miranda Varejao",
+        "zipcode": "21775-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Beco Santo Antonio",
+        "zipcode": "21610-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Coronel Tamarindo",
+        "zipcode": "21840-445"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Senador Camara",
+        "street": "Estrada Dos Coqueiros",
+        "zipcode": "21843-650"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Coronel Tamarindo",
+        "zipcode": "21843-700"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taua",
+        "street": "Rua Sebastiao Sampaio",
+        "zipcode": "21910-155"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Estrada Do Guandu Do Sena",
+        "zipcode": "21854-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ricardo De Albuquerque",
+        "street": "Largo Do Camboata",
+        "zipcode": "21665-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Maracaipe",
+        "zipcode": "21610-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Estrada Da Agua Branca",
+        "zipcode": "21860-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Estrada Da Agua Branca",
+        "zipcode": "21862-370"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Vigilante Fortunato",
+        "zipcode": "21863-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Doze (Cj 6 De Novembro)",
+        "zipcode": "21864-300"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Treze (Cj 6 De Novembro)",
+        "zipcode": "21864-310"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Tres (Cj 6 De Novembro)",
+        "zipcode": "21864-460"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Dois (Cj 6 De Novembro)",
+        "zipcode": "21864-470"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Onze (Cj J Saldanha",
+        "zipcode": "21865-400"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Oito (Cj J Saldanha",
+        "zipcode": "21865-430"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Coronel Tamarindo",
+        "zipcode": "21870-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Sul America",
+        "zipcode": "21870-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cacuia",
+        "street": "Estrada Do Galeao",
+        "zipcode": "21931-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cacuia",
+        "street": "Estrada Do Galeao",
+        "zipcode": "21931-003"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cacuia",
+        "street": "Estrada Do Galeao",
+        "zipcode": "21931-630"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Barata Ribeiro",
+        "zipcode": "22011-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Ladeira Dos Tabajaras",
+        "zipcode": "22031-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Avenida Nossa Senhora De Copacabana",
+        "zipcode": "22050-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Sul America",
+        "zipcode": "21875-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "21810-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Senador Camara",
+        "street": "Estrada Dos Coqueiros",
+        "zipcode": "21830-510"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Raul Pompeia",
+        "zipcode": "22080-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Teresa",
+        "street": "Estrada Mirante Dona Marta",
+        "zipcode": "22241-340"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Flamengo",
+        "street": "Praia Do Flamengo",
+        "zipcode": "22250-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Ilha Da Gigoia",
+        "zipcode": "22640-310"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Dos Bandeirantes",
+        "zipcode": "22710-104"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Rua Cunha Moreira",
+        "zipcode": "22710-145"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Jacarepagua",
+        "street": "Rua Leny Eversong",
+        "zipcode": "22710-610"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Avenida Nossa Senhora De Copacabana",
+        "zipcode": "22070-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Laranjeiras",
+        "street": "Rua Das Laranjeiras",
+        "zipcode": "22240-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Laranjeiras",
+        "street": "Rua Das Laranjeiras",
+        "zipcode": "22240-002"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Rua Visconde De Silva",
+        "zipcode": "22271-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Rua General Polidoro",
+        "zipcode": "22280-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Rua Real Grandeza",
+        "zipcode": "22281-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Ladeira Dos Tabajaras",
+        "zipcode": "22281-130"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Leblon",
+        "street": "Avenida Borges De Medeiros",
+        "zipcode": "22430-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Leblon",
+        "street": "Avenida Ataulfo De Paiva",
+        "zipcode": "22440-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Curicica",
+        "street": "Rua Ventura",
+        "zipcode": "22710-541"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Cipotanea",
+        "zipcode": "21863-370"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Avenida Nossa Senhora De Copacapana",
+        "zipcode": "22020-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Quarenta E Cinco (Cj J Saldanha",
+        "zipcode": "21865-280"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Catorze (Cj J Saldanha",
+        "zipcode": "21865-210"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Rua Coelho Cintra",
+        "zipcode": "22290-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Galeao",
+        "street": "Estrada Do Galeao",
+        "zipcode": "21941-005"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cocota",
+        "street": "Avenida Paranapua",
+        "zipcode": "21910-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Dezessete ( Cj 6 De Novembro)",
+        "zipcode": "21864-350"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Avenida Paranapua",
+        "zipcode": "21910-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Rua General Polidoro",
+        "zipcode": "22280-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ipanema",
+        "street": "Avenida Vieira Souto",
+        "zipcode": "22420-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Leblon",
+        "street": "Avenida General San Martin",
+        "zipcode": "22441-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vidigal",
+        "street": "Avenida Presidente Joao Goulart",
+        "zipcode": "22450-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Rua Coelho Cintra",
+        "zipcode": "22011-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Cinquenta E Cinco (Cj J Saldanha",
+        "zipcode": "21865-350"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Teresa",
+        "street": "Largo Das Paineiras",
+        "zipcode": "22241-360"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Cinquenta E Um",
+        "zipcode": "21863-500"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Gavea",
+        "street": "Estrada Da Gavea",
+        "zipcode": "22451-261"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bancarios",
+        "street": "Avenida Dr Agenor De Almeida Loyola",
+        "zipcode": "21911-315"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Lagoa",
+        "street": "Avenida Borges De Medeiros",
+        "zipcode": "22470-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Lagoa",
+        "street": "Rua Maria Angelica",
+        "zipcode": "22470-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Comandante Julio De Moura",
+        "zipcode": "22620-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida General Guedes Da Fontoura",
+        "zipcode": "22620-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Joao Carlos Machado",
+        "zipcode": "22620-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Joao Carlos Machado",
+        "zipcode": "22621-220"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Gilberto Amado",
+        "zipcode": "22621-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida General Guedes Da Fontoura",
+        "zipcode": "22621-241"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Comandante Julio De Moura",
+        "zipcode": "22621-250"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Canal De Marapendi",
+        "zipcode": "22631-055"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Grande Canal",
+        "zipcode": "22640-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Estrada Da Barra Da Tijuca",
+        "zipcode": "22641-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Rua Primavera",
+        "zipcode": "22705-085"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Curicica",
+        "street": "Rua Porto Vitoria",
+        "zipcode": "22710-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Curicica",
+        "street": "Rua Areca",
+        "zipcode": "22710-140"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Curicica",
+        "street": "Rua Areca",
+        "zipcode": "22710-141"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Mapua",
+        "zipcode": "22710-265"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Rodrigues Caldas",
+        "zipcode": "22713-370"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Rodrigues Caldas",
+        "zipcode": "22713-371"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Rua A",
+        "zipcode": "22713-640"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Meringuava",
+        "zipcode": "22723-415"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Avenida Das Americas",
+        "zipcode": "22785-210"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Avenida Estado Da Guanabara",
+        "zipcode": "22785-250"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anil",
+        "street": "Avenida Tenente Coronel Muniz De Aragao",
+        "zipcode": "22765-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anil",
+        "street": "Avenida Tenente Coronel Muniz De Aragao",
+        "zipcode": "22765-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Jardim Botanico",
+        "street": "Rua Maria Angelica",
+        "zipcode": "22461-150"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Estrada Do Grumari",
+        "zipcode": "22785-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Fernando Santa Cruz",
+        "zipcode": "22785-350"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Dois (Cunha Pedrosa)",
+        "zipcode": "22765-825"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Lagoa",
+        "street": "Ilha Caicaras",
+        "zipcode": "22471-360"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Dos Servidores",
+        "zipcode": "22785-300"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Gavea",
+        "street": "Estrada Da Gavea",
+        "zipcode": "22451-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Flavio Carvalho Molina",
+        "zipcode": "22785-370"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Avenida Andre Grabois",
+        "zipcode": "22785-480"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Januario Jose Pinto De Oliveira",
+        "zipcode": "22785-430"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Sonia Angel Jones",
+        "zipcode": "22785-470"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Rua Advogado Marino Ramos",
+        "zipcode": "22723-660"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Conrado",
+        "street": "Estrada Da Gavea",
+        "zipcode": "22610-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Ramires Maranhao",
+        "zipcode": "22785-460"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Doze (Cunha Pedrosa)",
+        "zipcode": "22765-832"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Mario Alves",
+        "zipcode": "22785-440"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Projetada B",
+        "zipcode": "22631-053"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Honestino Guimaraes",
+        "zipcode": "22785-390"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Ivan Mota Dias",
+        "zipcode": "22785-420"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pechincha",
+        "street": "Rua Retiro Dos Artistas",
+        "zipcode": "22770-101"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pechincha",
+        "street": "Rua Prof. Henrique Costa",
+        "zipcode": "22770-231"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Ayrton Senna",
+        "zipcode": "22775-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Do Tindiba",
+        "zipcode": "22725-420"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Meringuava",
+        "zipcode": "22725-440"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tanque",
+        "street": "Rua Livio Barreto",
+        "zipcode": "22730-061"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Gilberto Olimpio Maria",
+        "zipcode": "22785-360"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Rua Flamboyants",
+        "zipcode": "22630-380"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Guilherme Gomes Land",
+        "zipcode": "22785-380"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Um (Cunha Pedroso)",
+        "zipcode": "22765-823"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Quatrorze (Cunha Pedrosa)",
+        "zipcode": "22765-834"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Quatro (Cunha Pedrosa)",
+        "zipcode": "22765-829"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Do Tindiba",
+        "zipcode": "22730-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pechincha",
+        "street": "Rua Comendador Siqueira",
+        "zipcode": "22743-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Rua Comandante Rubens Silva",
+        "zipcode": "22745-280"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Rua Tirol",
+        "zipcode": "22750-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Estrada Do Bananal",
+        "zipcode": "22750-011"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Rua Quintanilha",
+        "zipcode": "22763-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Cinco (Cunha Pedrosa)",
+        "zipcode": "22765-830"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Rua C",
+        "zipcode": "22795-770"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Projetada E (Prq Tinguazinho)",
+        "zipcode": "23078-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Projetada B (Lot Araujo)",
+        "zipcode": "23078-250"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Projetada C (Lot Araujo)",
+        "zipcode": "23078-260"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Projetada D (Lot Araujo)",
+        "zipcode": "23078-270"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Caminho Da Pedreira",
+        "zipcode": "23090-005"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Rua E (Prq Nubia)",
+        "zipcode": "23093-640"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Avenida Genaro De Carvalho",
+        "zipcode": "22790-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Rua Cinco",
+        "zipcode": "22795-023"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Avenida Glaucio Gil",
+        "zipcode": "22795-170"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Guaratiba",
+        "street": "Rua Castelo Do Piaui",
+        "zipcode": "23031-101"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Quarenta E Oito (Jd. Nova Guaratiba)",
+        "zipcode": "23047-220"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Curicica",
+        "street": "Estrada Bandeirantes",
+        "zipcode": "22780-082"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Rua Fw",
+        "zipcode": "22795-820"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Isis Dias Oliveira",
+        "zipcode": "22785-400"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Vinte (Cunha Pedrosa)",
+        "zipcode": "22765-839"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pechincha",
+        "street": "Rua Capitao De Mar E Guerra",
+        "zipcode": "22770-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Beco A (Guandu Sape)",
+        "zipcode": "23090-620"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Caminho Do Lameirao",
+        "zipcode": "23092-410"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Estrada Do Lameirao",
+        "zipcode": "23012-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pechincha",
+        "street": "Rua Almirante Jose Isaias De Noronha",
+        "zipcode": "22770-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Estrada Benvindo De Novais",
+        "zipcode": "22783-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Estrada Benvindo De Novais",
+        "zipcode": "22795-710"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Estrada Dos Tres Rios",
+        "zipcode": "22745-003"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Dezessete (Cunha Pedrosa)",
+        "zipcode": "22765-836"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Rua Marina Guimaraes",
+        "zipcode": "22733-236"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Caminho Simao Lobo",
+        "zipcode": "23090-590"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Estrada Benvindo De Novais",
+        "zipcode": "22790-380"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Estrada Dos Bandeirante",
+        "zipcode": "22785-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Dezoito (Cunha Pedrosa)",
+        "zipcode": "22765-837"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Setenta E Um (Jd. Nova Guaratiba)",
+        "zipcode": "23047-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Avenida Cesario De Melo",
+        "zipcode": "23050-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Avenida Cesario De Melo",
+        "zipcode": "23055-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cosmos",
+        "street": "Avenida Cesario De Melo",
+        "zipcode": "23058-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cosmos",
+        "street": "Rua Solivana",
+        "zipcode": "23058-280"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Do Tingui",
+        "zipcode": "23067-550"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Avenida Brasil",
+        "zipcode": "23078-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Aricuri",
+        "zipcode": "23081-330"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Aricuri",
+        "zipcode": "23087-140"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Itanhanga",
+        "street": "Estrada Jacarepagua",
+        "zipcode": "22753-041"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Senador Camara",
+        "street": "Avenida De Santa Cruz",
+        "zipcode": "23010-005"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Avenida Canal Um",
+        "zipcode": "22795-500"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Rua Prof. Camisao",
+        "zipcode": "22760-041"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Praça Ministro Victor Nunes Leal",
+        "zipcode": "22793-065"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Cinquenta (Jd.nova Guaratiba)",
+        "zipcode": "23047-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Praça Dom Joao Bosco",
+        "zipcode": "23093-072"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Nantes",
+        "zipcode": "23090-280"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Cinquenta E Dois (Jd. Nova Guaratiba)",
+        "zipcode": "23047-170"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anil",
+        "street": "Estrada Jacarepagua",
+        "zipcode": "22753-808"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Do Mendanha",
+        "zipcode": "23087-281"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Guandu Do Sape",
+        "zipcode": "23090-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Do Mendanha",
+        "zipcode": "23092-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Oito (Mendanha)",
+        "zipcode": "23092-415"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Rua Teixeira Campos",
+        "zipcode": "23094-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Prefeito Dulcidio Cardoso",
+        "zipcode": "22793-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Guaratiba",
+        "street": "Estrada Do Magarca",
+        "zipcode": "23031-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Avenida Cesario De Melo",
+        "zipcode": "23059-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Do Mendanha",
+        "zipcode": "23087-280"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Do Mendanha",
+        "zipcode": "23095-840"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Rua Teixeira Campos",
+        "zipcode": "23098-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Avenida Isabel",
+        "zipcode": "23510-150"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua Fernanda",
+        "zipcode": "23515-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua General Olimpio",
+        "zipcode": "23515-125"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Avenida Isabel",
+        "zipcode": "23515-160"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sepetiba",
+        "street": "Rua Da Floresta",
+        "zipcode": "23545-410"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua Projetada (Acesso Est Da Comporta)",
+        "zipcode": "23560-015"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Beco Das Flores",
+        "zipcode": "23560-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua Santa Luzia",
+        "zipcode": "23560-055"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Penha Circular",
+        "street": "Rua Augusto Sanoni",
+        "zipcode": "23560-730"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua Felipe Cardoso",
+        "zipcode": "23520-570"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Avenida Isabel",
+        "zipcode": "23550-062"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Rodrigues Ulisses De Carvalho",
+        "zipcode": "23088-510"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Estrada Austin",
+        "zipcode": "23570-360"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Estrada Do Lameirao",
+        "zipcode": "23092-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Projetada Cento E Cinquenta E Tres",
+        "zipcode": "23097-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sepetiba",
+        "street": "Rua Coronel Luis Correia",
+        "zipcode": "23535-550"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rodovia Br",
+        "zipcode": "23075-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cosmos",
+        "street": "Estrada Da Paciencia",
+        "zipcode": "23066-270"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Senador Vasconcelos",
+        "street": "Travessa Tico Tico",
+        "zipcode": "23098-400"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sepetiba",
+        "street": "Rua Dona Maria Fernandes",
+        "zipcode": "23535-410"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Caminho Dos Coqueiros",
+        "zipcode": "23098-590"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Paciencia",
+        "street": "Avenida Brasil",
+        "zipcode": "23575-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Caminho Pau Picado",
+        "zipcode": "23097-015"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Praça Da Balsa",
+        "zipcode": "23560-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Projetada Cento E Ciquenta E Cinco",
+        "zipcode": "23097-460"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Estrada Tres Marias",
+        "zipcode": "23560-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Paulo Roberto Marques",
+        "zipcode": "23093-670"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Beco Joao Mauricio",
+        "zipcode": "23560-025"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Beco Sem Nome (R Vieira Ravasco)",
+        "zipcode": "23520-184"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Praça Guanare",
+        "zipcode": "23520-405"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua Americo Belo",
+        "zipcode": "23555-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Rua Das Laranjeiras",
+        "zipcode": "23094-025"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sepetiba",
+        "street": "Travessa Dona Maria Fernandes",
+        "zipcode": "23535-420"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Rua Dos Sapotizeiros",
+        "zipcode": "23098-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sepetiba",
+        "street": "Travessa Francisco Xavier",
+        "zipcode": "23530-802"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Beco Sao Pedro",
+        "zipcode": "23560-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Rua L (Antiga)",
+        "zipcode": "23098-190"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sepetiba",
+        "street": "Rua General Estilac Leal",
+        "zipcode": "23535-062"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Djalma Costa",
+        "zipcode": "23097-800"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rodovia Br",
+        "zipcode": "23087-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Andarai",
+        "street": "Rua Ladislau Neto",
+        "zipcode": "20510-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Isabel",
+        "street": "Rua Felipe Camarao",
+        "zipcode": "20511-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Isabel",
+        "street": "Rua Ribeiro Guimaraes",
+        "zipcode": "20511-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Isabel",
+        "street": "Rua Dos Artistas",
+        "zipcode": "20511-130"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Engenheiro Enaldo Cravo Peixoto",
+        "zipcode": "20511-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Alfredo Pinto",
+        "zipcode": "20520-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Eduardo Ramos",
+        "zipcode": "20520-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Alzira Brandao",
+        "zipcode": "20520-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Grajau",
+        "street": "Avenida Engenheiro Richard",
+        "zipcode": "20561-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Meier",
+        "street": "Rua Pedro De Carvalho",
+        "zipcode": "20725-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Penha",
+        "street": "Rua Santa Edwiges",
+        "zipcode": "21072-130"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Madureira",
+        "street": "Rua Licurgo",
+        "zipcode": "21362-160"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Arthalides Pisco",
+        "zipcode": "21720-610"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Jose Toledo De Oliveira",
+        "zipcode": "21852-650"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Cinco (Cj Vivendas)",
+        "zipcode": "21862-480"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Tonelero",
+        "zipcode": "22030-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Domingos Ferreira",
+        "zipcode": "22050-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Vila Bela Vista",
+        "zipcode": "23097-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Estacio",
+        "street": "Rua Ademar Barcelos",
+        "zipcode": "20250-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Constante Ramos",
+        "zipcode": "22051-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Avenida Rainha Elizabeth Da Belgica",
+        "zipcode": "22081-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ipanema",
+        "street": "Rua Nascimento Silva",
+        "zipcode": "22421-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Leblon",
+        "street": "Avenida Bartolomeu Mitre",
+        "zipcode": "22431-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Dos Bandeirantes",
+        "zipcode": "22710-113"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Estrada Do Pontal",
+        "zipcode": "22785-560"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Estrada Vereador Alceu De Carvalho",
+        "zipcode": "22785-621"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Projetada A (Lot Araujo)",
+        "zipcode": "23078-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua D (Jd Terra Bela)",
+        "zipcode": "23078-410"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santissimo",
+        "street": "Rua Oswaldo Piragibe",
+        "zipcode": "23093-655"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Penha",
+        "street": "Rua Honorio Bicalho",
+        "zipcode": "21070-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vista Alegre",
+        "street": "Avenida Bras De Pina",
+        "zipcode": "21235-601"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Santa Luzia",
+        "zipcode": "21044-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Simao Lobo",
+        "zipcode": "23090-610"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Praça Jose Vasconcelos Santos",
+        "zipcode": "22785-500"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Araujo Porto Alegre",
+        "zipcode": "20030-011"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dos Andradas",
+        "zipcode": "20051-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Da Alfandega",
+        "zipcode": "20070-002"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Da Conceicao",
+        "zipcode": "20080-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Carmo Neto",
+        "zipcode": "20210-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Marques De Sapucai",
+        "zipcode": "20220-005"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santo Cristo",
+        "street": "Rua Santo Cristo",
+        "zipcode": "20220-301"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Eduardo Collier Filho",
+        "zipcode": "22785-340"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Jacarepagua",
+        "street": "Estrada Velha De Curicica",
+        "zipcode": "22780-320"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vargem Grande",
+        "street": "Rua Paulo Cesar Massa Botelho",
+        "zipcode": "22785-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Avenida Celia Ribeiro Da Silva Mendes",
+        "zipcode": "22780-790"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cidade Nova",
+        "street": "Rua Carmo Neto",
+        "zipcode": "20220-600"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Barao De Sao Felix",
+        "zipcode": "20221-420"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Washington Luis",
+        "zipcode": "20230-021"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Do Senado",
+        "zipcode": "20231-002"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Carlos Sampaio",
+        "zipcode": "20231-081"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Teresa",
+        "street": "Rua Monte Alegre",
+        "zipcode": "20240-191"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rio Comprido",
+        "street": "Rua Do Bispo",
+        "zipcode": "20261-006"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Campos Sales",
+        "zipcode": "20270-210"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Maracana",
+        "street": "Rua General Canabarro",
+        "zipcode": "20271-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Barao De Mesquita",
+        "zipcode": "20540-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Gerson Ferreira",
+        "zipcode": "21031-040"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ramos",
+        "street": "Rua Barreiros",
+        "zipcode": "21031-751"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Avenida Guilherme Maxwell",
+        "zipcode": "21040-210"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Rua Da Proclamacao",
+        "zipcode": "21040-280"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Da Penha",
+        "street": "Avenida Bras De Pina",
+        "zipcode": "21210-670"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Kosmos",
+        "street": "Avenida Meriti",
+        "zipcode": "21220-201"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Gabriel Lisboa",
+        "zipcode": "21220-590"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Floriano De Lemos",
+        "zipcode": "21220-670"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Parada De Lucas",
+        "street": "Rua Maba",
+        "zipcode": "21241-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Coronel Mendes",
+        "zipcode": "21241-540"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Avenida Meriti",
+        "zipcode": "21250-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Padre Manuel Viegas",
+        "zipcode": "21250-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Coronel Nunes Machado",
+        "zipcode": "21250-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Cabo Rocha",
+        "zipcode": "21250-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vigario Geral",
+        "street": "Rua Guadalupe",
+        "zipcode": "21250-720"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Valqueire",
+        "street": "Rua Das Rosas",
+        "zipcode": "21321-380"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Engenheiro Leal",
+        "street": "Rua Francisco Vale",
+        "zipcode": "21350-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua General Sezefredo",
+        "zipcode": "21715-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Barao De Piraquara",
+        "zipcode": "21715-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Beco Barao De Jaguari",
+        "zipcode": "21220-740"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Estacio",
+        "street": "Rua Sao Carlos",
+        "zipcode": "20250-051"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Gervasio Ferreira",
+        "zipcode": "21241-520"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Francisco Real",
+        "zipcode": "21715-420"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Marechal Falcao Da Frota",
+        "zipcode": "21721-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Rua Marechal Marciano",
+        "zipcode": "21735-650"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Magalhaes Bastos",
+        "street": "Estrada Marechal Mallet",
+        "zipcode": "21745-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Vila Nova",
+        "zipcode": "21775-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Silva Cardoso",
+        "zipcode": "21810-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Estrada Do Realengo",
+        "zipcode": "21810-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Avenida Conego De Vasconcelos",
+        "zipcode": "21815-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "21815-140"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Avenida De Santa Cruz",
+        "zipcode": "21830-007"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Vigilante Fortunato",
+        "zipcode": "21860-400"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Quinze (Cj 6 De Novembro)",
+        "zipcode": "21864-330"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Quatro (Cj J Saldanha",
+        "zipcode": "21865-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Oswaldo Cruz",
+        "street": "Rua Andrade Araujo",
+        "zipcode": "21340-460"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Avenida Edson Passos",
+        "zipcode": "20531-072"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vigario Geral",
+        "street": "Rua Bulhoes Marcial",
+        "zipcode": "21241-370"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Praça Inacio Maranhao",
+        "zipcode": "21241-490"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dos Invalidos",
+        "zipcode": "20231-041"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Iraja",
+        "street": "Rua Dr Miguel Dibo",
+        "zipcode": "21220-640"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Vila Do Joao",
+        "zipcode": "21042-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Senador Camara",
+        "street": "Avenida Brasil",
+        "zipcode": "21852-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Marechal Marciano",
+        "zipcode": "21870-310"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cacuia",
+        "street": "Estrada Do Galeao",
+        "zipcode": "21931-002"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Leme",
+        "street": "Avenida Nossa Senhora De Copacabana",
+        "zipcode": "22010-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Rua Barata Ribeiro",
+        "zipcode": "22040-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Copacabana",
+        "street": "Avenida Nossa Senhora De Copacabana",
+        "zipcode": "22060-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Rua Visconde De Caravelas",
+        "zipcode": "22271-030"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Botafogo",
+        "street": "Rua Real Grandeza",
+        "zipcode": "22281-031"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ipanema",
+        "street": "Avenida Epitacio Pessoa",
+        "zipcode": "22411-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Leblon",
+        "street": "Avenida Ataulfo De Paiva",
+        "zipcode": "22440-031"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anil",
+        "street": "Avenida Tenente Coronel Muniz De Aragao",
+        "zipcode": "22765-002"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pechincha",
+        "street": "Rua Prof. Henrique Costa",
+        "zipcode": "22770-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cidade De Deus",
+        "street": "Estrada Marechal Miguel Salazar Mendes De Morais",
+        "zipcode": "22770-332"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Recreio Dos Bandeirantes",
+        "street": "Avenida Glaucio Gil",
+        "zipcode": "22790-175"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Guaratiba",
+        "street": "Rua Castelo Do Piaui",
+        "zipcode": "23031-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Quarenta E Nove (Jd Nova Guaratiba)",
+        "zipcode": "23047-210"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Avenida Cesario De Melo",
+        "zipcode": "23052-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Paciencia",
+        "street": "Estrada Da Paciencia",
+        "zipcode": "23060-370"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Rio",
+        "zipcode": "23075-245"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Senador Vasconcelos",
+        "street": "Rua A (Favela D Nunes)",
+        "zipcode": "23085-020"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Da Posse",
+        "zipcode": "23092-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Estrada Guandu Do Sape",
+        "zipcode": "23095-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua General Olimpio",
+        "zipcode": "23510-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua Fernanda",
+        "zipcode": "23520-130"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sepetiba",
+        "street": "Rua Da Floresta",
+        "zipcode": "23540-158"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Estrada Da Comporta",
+        "zipcode": "23560-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua Sao Jorge Ii",
+        "zipcode": "23560-026"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua Sao Francisco",
+        "zipcode": "23560-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Teresa",
+        "street": "Rua Cardeal Dom Sebastiao Leme",
+        "zipcode": "20240-011"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tijuca",
+        "street": "Rua Jose Higino",
+        "zipcode": "20510-410"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Engenho Novo",
+        "street": "Rua Barao Do Bom Retiro",
+        "zipcode": "20715-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Dezoito (Cj J Saldanha",
+        "zipcode": "21865-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Padre Josino Tavares",
+        "zipcode": "23097-500"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Dezenove (Cj 6 De Novembro)",
+        "zipcode": "21864-280"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Magalhaes Bastos",
+        "street": "Rua Santa Maria Madalena",
+        "zipcode": "21750-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Beco Cento E Sessenta E Nove",
+        "zipcode": "23590-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Encantado",
+        "street": "Rua Dois De Fevereiro",
+        "zipcode": "20730-450"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Avenida Joao Ribeiro",
+        "zipcode": "20750-091"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Luis De Castro",
+        "zipcode": "20750-220"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Del Castilho",
+        "street": "Rua Capitao Sampaio",
+        "zipcode": "20760-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Rua Heleodora",
+        "zipcode": "20760-720"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pilares",
+        "street": "Avenida Joao Ribeiro",
+        "zipcode": "20761-390"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cachambi",
+        "street": "Rua Cachambi",
+        "zipcode": "20775-180"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Cachambi",
+        "street": "Rua Sao Gabriel",
+        "zipcode": "20785-291"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Benfica",
+        "street": "Avenida Suburbana",
+        "zipcode": "20911-290"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Cristovao",
+        "street": "Rua General Argolo",
+        "zipcode": "20921-390"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Cristovao",
+        "street": "Rua Bela",
+        "zipcode": "20930-382"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sampaio",
+        "street": "Rua Ana Neri",
+        "zipcode": "20960-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Penha Circular",
+        "street": "Avenida Lobo Junior",
+        "zipcode": "21020-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bonsucesso",
+        "street": "Avenida Teixeira De Castro",
+        "zipcode": "21040-011"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Da Penha",
+        "street": "Avenida Bras De Pina",
+        "zipcode": "21210-671"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bras De Pina",
+        "street": "Rua Osmundo Pimentel",
+        "zipcode": "21250-070"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Dezenove (Cunha Pedrosa)",
+        "zipcode": "22765-838"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Travessa Treze (Cunha Pedrosa)",
+        "zipcode": "22765-833"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Rua Marcos Mayephofer",
+        "zipcode": "22795-340"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vaz Lobo",
+        "street": "Avenida Monsenhor Felix",
+        "zipcode": "21361-130"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vaz Lobo",
+        "street": "Avenida Vicente De Carvalho",
+        "zipcode": "21371-120"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rocha Miranda",
+        "street": "Rua Dos Diamantes",
+        "zipcode": "21510-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Rocha Miranda",
+        "street": "Avenida Dos Italianos",
+        "zipcode": "21510-101"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pavuna",
+        "street": "Avenida Automovel Clube",
+        "zipcode": "21520-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Acari",
+        "street": "Avenida Automovel Clube",
+        "zipcode": "21530-011"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Turiacu",
+        "street": "Rua Lindoia",
+        "zipcode": "21550-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Massenet",
+        "zipcode": "21610-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Saravata",
+        "zipcode": "21610-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Mipibu",
+        "zipcode": "21610-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Araras",
+        "zipcode": "21610-080"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Verdi",
+        "zipcode": "21610-110"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Rua Carolina Machado",
+        "zipcode": "21610-150"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Marechal Hermes",
+        "street": "Travessa Santo Antonio",
+        "zipcode": "21610-190"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vila Militar",
+        "street": "Estrada Marechal Mallet",
+        "zipcode": "21615-170"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Trinta E Quatro (Cj J Saldanha",
+        "zipcode": "21865-190"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Leblon",
+        "street": "Avenida General San Martin",
+        "zipcode": "22441-011"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Vidigal",
+        "street": "Avenida Presidente Joao Goulart",
+        "zipcode": "22452-695"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Lagoa",
+        "street": "Avenida Epitacio Pessoa",
+        "zipcode": "22471-001"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Estrada Da Barra Da Tijuca",
+        "zipcode": "22611-200"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Gilberto Amado",
+        "zipcode": "22620-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida General Guedes Da Fontoura",
+        "zipcode": "22621-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Avenida Grande Canal",
+        "zipcode": "22631-050"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Barra Da Tijuca",
+        "street": "Estrada Da Barra Da Tijuca",
+        "zipcode": "22641-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Rua Nacional",
+        "zipcode": "22710-090"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Mapua",
+        "zipcode": "22710-261"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Estrada Do Guerengue",
+        "zipcode": "22713-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Rua Dois (Mapua)",
+        "zipcode": "22713-720"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Tanque",
+        "street": "Rua Livio Barreto",
+        "zipcode": "22730-060"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Taquara",
+        "street": "Rua Andre Rocha",
+        "zipcode": "22730-520"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Estrada Do Bananal",
+        "zipcode": "22745-010"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Rua Tirol",
+        "zipcode": "22750-007"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Rua Quintanilha",
+        "zipcode": "22763-005"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Pechincha",
+        "street": "Rua Retiro Dos Artistas",
+        "zipcode": "22770-100"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Campo Grande",
+        "street": "Rua Projetada (Encravados)",
+        "zipcode": "23097-745"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Sao Cristovao",
+        "street": "Rua Capitao Felix",
+        "zipcode": "20920-300"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Inhauma",
+        "street": "Rua Jose Dos Reis",
+        "zipcode": "20770-051"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Rua 32 (Cj Cesarao)",
+        "zipcode": "23505-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Santa Cruz",
+        "street": "Beco Sao Jorge",
+        "zipcode": "23560-003"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anchieta",
+        "street": "Estrada Do Engenho Novo",
+        "zipcode": "21620-240"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Ricardo De Albuquerque",
+        "street": "Rua Alcobaca",
+        "zipcode": "21640-000"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Anchieta",
+        "street": "Estrada Rio Do Pau",
+        "zipcode": "21655-611"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Realengo",
+        "street": "Avenida De Santa Cruz",
+        "zipcode": "21710-230"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Padre Miguel",
+        "street": "Rua Prof. Clemente Ferreira",
+        "zipcode": "21715-415"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Bangu",
+        "street": "Rua Simao Cristino",
+        "zipcode": "21825-490"
+    },
+    {
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "district": "Freguesia",
+        "street": "Estrada Dos Tres Rios",
+        "zipcode": "22755-000"
+    }
+]

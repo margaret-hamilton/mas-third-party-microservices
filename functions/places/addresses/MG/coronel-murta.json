@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Coronel Murta",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Celso Murta 63",
+        "zipcode": "39635-970"
+    },
+    {
+        "city": "Coronel Murta",
+        "state": "MG",
+        "district": "Barra do Salinas",
+        "street": "Avenida Valentim Ferreira 36",
+        "zipcode": "39635-971"
+    },
+    {
+        "city": "Coronel Murta",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39635-000"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Esperantina",
+        "state": "PI",
+        "district": "",
+        "street": "",
+        "zipcode": "64180-000"
+    },
+    {
+        "city": "Esperantina",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Rua Mireta Fortes 78",
+        "zipcode": "64180-970"
+    },
+    {
+        "city": "Esperantina",
+        "state": "PI",
+        "district": null,
+        "street": "Povoado Lagoa Seca",
+        "zipcode": "64180-990"
+    },
+    {
+        "city": "Esperantina",
+        "state": "PI",
+        "district": null,
+        "street": "Estrada do Povoado Sítio Alegre",
+        "zipcode": "64180-991"
+    }
+]

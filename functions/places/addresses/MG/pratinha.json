@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Pratinha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Sete de Setembro 215",
+        "zipcode": "38960-970"
+    },
+    {
+        "city": "Pratinha",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38960-000"
+    }
+]

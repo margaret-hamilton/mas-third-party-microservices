@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Matias Cardoso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Machado de Assis s/n",
+        "zipcode": "39478-973"
+    },
+    {
+        "city": "Matias Cardoso",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39478-000"
+    },
+    {
+        "city": "Matias Cardoso",
+        "state": "MG",
+        "district": "Rio Verde de Minas",
+        "street": "Rua Gado Bravo 136",
+        "zipcode": "39478-972"
+    }
+]

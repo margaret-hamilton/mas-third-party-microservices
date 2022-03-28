@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Guaíra",
+        "state": "PR",
+        "district": "Bela Vista do Oeste",
+        "street": "Avenida dos Pioneiros 260",
+        "zipcode": "85980-972"
+    },
+    {
+        "city": "Guaíra",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida dos Pioneiros",
+        "zipcode": "85980-973"
+    },
+    {
+        "city": "Guaíra",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rodovia PR",
+        "zipcode": "85980-974"
+    },
+    {
+        "city": "Guaíra",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Monjoli 526",
+        "zipcode": "85980-970"
+    },
+    {
+        "city": "Guaíra",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85980-000"
+    },
+    {
+        "city": "Guaíra",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Campo Grande",
+        "zipcode": "85980-990"
+    }
+]

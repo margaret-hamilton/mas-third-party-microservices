@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Terra Rica",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida São Paulo 1571",
+        "zipcode": "87890-970"
+    },
+    {
+        "city": "Terra Rica",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Ubiratã",
+        "zipcode": "87895-990"
+    },
+    {
+        "city": "Terra Rica",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87890-000"
+    }
+]

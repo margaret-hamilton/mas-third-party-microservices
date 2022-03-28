@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Jaguaruana",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Doutor Antônio da Rocha Freitas 1418",
+        "zipcode": "62823-970"
+    },
+    {
+        "city": "Jaguaruana",
+        "state": "CE",
+        "district": null,
+        "street": "Sítio São José",
+        "zipcode": "62835-991"
+    },
+    {
+        "city": "Jaguaruana",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José de Almeida",
+        "zipcode": "62823-975"
+    },
+    {
+        "city": "Jaguaruana",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62823-000"
+    },
+    {
+        "city": "Jaguaruana",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "62835-990"
+    }
+]

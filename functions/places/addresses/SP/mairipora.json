@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Mairiporã",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "07600-000"
+    },
+    {
+        "city": "Mairiporã",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Fagundes",
+        "zipcode": "07600-970"
+    },
+    {
+        "city": "Mairiporã",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua XV de Novembro 56",
+        "zipcode": "07600-971"
+    },
+    {
+        "city": "Mairiporã",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Fagundes",
+        "zipcode": "07600-973"
+    },
+    {
+        "city": "Mairiporã",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Municipal de Mato Dentro",
+        "zipcode": "07600-994"
+    },
+    {
+        "city": "Mairiporã",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Hum",
+        "zipcode": "07600-990"
+    }
+]

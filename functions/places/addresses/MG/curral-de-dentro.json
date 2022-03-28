@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Curral de Dentro",
+        "state": "MG",
+        "district": "Maristela",
+        "street": "Rua Buenos Aires 40",
+        "zipcode": "39569-971"
+    },
+    {
+        "city": "Curral de Dentro",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39569-000"
+    },
+    {
+        "city": "Curral de Dentro",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Miguel Alves dos Santos s/n Loja 166",
+        "zipcode": "39569-970"
+    }
+]

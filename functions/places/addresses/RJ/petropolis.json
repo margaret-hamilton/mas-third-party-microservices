@@ -1,0 +1,548 @@
+[
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Saldanha Marinho",
+        "street": "Rua Demerval De Miranda",
+        "zipcode": "25640-300"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Bingen",
+        "street": "Estrada Do Contorno",
+        "zipcode": "25725-490"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Cascatinha",
+        "street": "Rua Dra Marieta Macachero",
+        "zipcode": "25716-000"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Estrada Da Saudade",
+        "street": "Estrada Da Saudade",
+        "zipcode": "25610-350"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Barao Do Rio Branco",
+        "zipcode": "25680-270"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Prof. Flavio Vieira Maciel",
+        "zipcode": "25715-511"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Itaipava",
+        "street": "Estrada Philuvio Cerqueira Rodrigues",
+        "zipcode": "25745-001"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Itaipava",
+        "street": "Estrada Philuvio Cerqueira Rodrigues",
+        "zipcode": "25745-000"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Servidão Pedras Claras",
+        "zipcode": "25715-490"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quitandinha",
+        "street": "Avenida Getulio Vargas",
+        "zipcode": "25651-071"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Washington Luiz",
+        "zipcode": "25655-003"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Bingen",
+        "street": "Rua Bingen",
+        "zipcode": "25660-001"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Bingen",
+        "street": "Rua Bingen",
+        "zipcode": "25660-002"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Bingen",
+        "street": "Rua Ministro Lucio Meira",
+        "zipcode": "25665-540"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Mosela",
+        "street": "Rua Mosela",
+        "zipcode": "25675-011"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Mosela",
+        "street": "Rua Mosela",
+        "zipcode": "25675-480"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Montecaseros",
+        "zipcode": "25680-002"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Castelanea",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "25645-001"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quarteirao Brasileiro",
+        "street": "Rua Prof. Stroele",
+        "zipcode": "25680-500"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Estrada Da Saudade",
+        "street": "Estrada Da Saudade",
+        "zipcode": "25610-101"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Simeria",
+        "street": "Estrada Presidente Sodre",
+        "zipcode": "25645-021"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Bingen",
+        "street": "Rua Dr Paulo Herve",
+        "zipcode": "25665-006"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Bartolomeu De Gusmao",
+        "street": "Rua Candido R. Da Silva",
+        "zipcode": "25625-240"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Valparaiso",
+        "street": "Rua Sao Norberto",
+        "zipcode": "25655-311"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Simeria",
+        "street": "Estrada Presidente Sodre",
+        "zipcode": "25645-710"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Coronel Veiga",
+        "street": "Rua Coronel Veiga",
+        "zipcode": "25655-154"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Mosela",
+        "street": "Rua Pedras Brancas",
+        "zipcode": "25670-007"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Araras",
+        "street": "Estrada Antonio Pereira De Sa",
+        "zipcode": "25725-450"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quitandinha",
+        "street": "Vila Borre",
+        "zipcode": "25645-341"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Mosela",
+        "street": "Praça Guilherme Kreischer Junior",
+        "zipcode": "25675-031"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quitandinha",
+        "street": "Rua General Rondon",
+        "zipcode": "25650-021"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quissama",
+        "street": "Rua Quissama",
+        "zipcode": "25615-410"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Fernandes Vieira",
+        "zipcode": "25680-380"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quarteirao Ingelhein",
+        "street": "Rua Ingelheim",
+        "zipcode": "25675-194"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Castelanea",
+        "street": "Vila Sao Sebastiao",
+        "zipcode": "25640-520"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Morin",
+        "street": "Avenida General Marciano Magalhaes",
+        "zipcode": "25630-403"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Coronel Veiga",
+        "street": "Rua Coronel Veiga",
+        "zipcode": "25655-155"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Montecaseros",
+        "zipcode": "25685-001"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Felipe Camarao",
+        "zipcode": "25715-010"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quitandinha",
+        "street": "Avenida Getulio Vargas",
+        "zipcode": "25651-073"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Itaipava",
+        "street": "Estrada Das Arcas",
+        "zipcode": "25745-121"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Ladeira Joao Francisco Cacilhas",
+        "zipcode": "25715-022"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Itaipava",
+        "street": "Estrada Uniao E Industria",
+        "zipcode": "25750-221"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Amandio Rodrigues P. Coelho",
+        "zipcode": "25715-000"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Posse",
+        "street": "Estrada Mario M. Guerra",
+        "zipcode": "25770-310"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Morin",
+        "street": "Rua Mato Grosso",
+        "zipcode": "25630-220"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Almeida Pernambuco",
+        "zipcode": "25715-140"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Pedro M Binot",
+        "zipcode": "25715-510"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Duarte Silveira",
+        "street": "Rua Coronel Duarte Da Silveira",
+        "zipcode": "25665-471"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Olciria Aparecida F. De Morais",
+        "zipcode": "25715-480"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Servidão Pedro Carneiro Da Silva",
+        "zipcode": "25715-500"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Capitao Alfredo Justo Silva",
+        "zipcode": "25715-030"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Fernandes Vieira",
+        "zipcode": "25715-440"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Itamarati",
+        "street": "Rua Antonio Fernandes Da Costa",
+        "zipcode": "25710-080"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Servidão Khalil Zarzur",
+        "zipcode": "25715-011"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Correas",
+        "street": "Estrada Mineira",
+        "zipcode": "25720-251"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Joao Soares Dos Santos",
+        "zipcode": "25715-450"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Correas",
+        "street": "Estrada Mineira",
+        "zipcode": "25720-250"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Ferreira Barcellos",
+        "zipcode": "25715-021"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Itaipava",
+        "street": "Estrada Uniao E Industria",
+        "zipcode": "25730-731"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Itaipava",
+        "street": "Estrada Philuvio Cerqueira Rodrigues",
+        "zipcode": "25745-002"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Correas",
+        "street": "Estrada Da Gloria",
+        "zipcode": "25720-263"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Sebastiao Pinho Da Silva",
+        "zipcode": "25715-015"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Correas",
+        "street": "Estrada Do Canavial",
+        "zipcode": "25720-030"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Araras",
+        "street": "Estrada Do Contorno",
+        "zipcode": "25725-060"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Washington Luiz",
+        "zipcode": "25655-004"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Bingen",
+        "street": "Rua Bingen",
+        "zipcode": "25660-000"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Ladeira Nelson Marcelino De Carvalho",
+        "zipcode": "25715-012"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Bingen",
+        "street": "Rua Dr Paulo Herve",
+        "zipcode": "25665-003"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quitandinha",
+        "street": "Rua General Rondon",
+        "zipcode": "25650-020"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Jose Antonio Rabello Junior",
+        "zipcode": "25715-470"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quarteirao Brasileiro",
+        "street": "Rua Prof. Stroele",
+        "zipcode": "25680-171"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quissama",
+        "street": "Rua Quissama",
+        "zipcode": "25615-530"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Valparaiso",
+        "street": "Rua Frei Estanilau Schaette",
+        "zipcode": "25685-151"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Rua Binot",
+        "zipcode": "25715-040"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Quarteirao Ingelhein",
+        "street": "Rua Ingelhein",
+        "zipcode": "25675-190"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Mosela",
+        "street": "Rua Pedras Brancas",
+        "zipcode": "25670-200"
+    },
+    {
+        "city": "Petropolis",
+        "state": "RJ",
+        "district": "Retiro",
+        "street": "Servidão Alcino Jose De Oliveira",
+        "zipcode": "25715-020"
+    }
+]

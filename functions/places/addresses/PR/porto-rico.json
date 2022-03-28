@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Porto Rico",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida João Carraro",
+        "zipcode": "87950-970"
+    },
+    {
+        "city": "Porto Rico",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "87950-000"
+    }
+]

@@ -1,0 +1,695 @@
+[
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Parque Brasil",
+        "street": "Travessa Nove",
+        "zipcode": "12906-301"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Mariana Campos Aires",
+        "zipcode": "12908-140"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Valeria Lima Rodrigues",
+        "zipcode": "12908-160"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Paturi",
+        "street": "Rua Projetada A",
+        "zipcode": "12929-351"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Octaviano Machado",
+        "zipcode": "12919-100"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Dois",
+        "zipcode": "12914-780"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila David",
+        "street": "Rua Sangerard",
+        "zipcode": "12908-130"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Antonio Pires Pimentel",
+        "zipcode": "12900-010"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Joao Franco",
+        "zipcode": "12906-001"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Gilberto Augusto Mendes",
+        "zipcode": "12908-170"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Romeu Campos Vergal",
+        "zipcode": "12908-220"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila David",
+        "street": "Rua Dr Moacir Rodrigues Neto",
+        "zipcode": "12906-240"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Outono",
+        "zipcode": "12908-200"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Novo Mundo",
+        "street": "Rua Dezessete",
+        "zipcode": "12906-410"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Novo Mundo",
+        "street": "Rua Treze",
+        "zipcode": "12906-370"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Novo Mundo",
+        "street": "Rua Argemiro Egidio Goncalves",
+        "zipcode": "12906-400"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Novo Mundo",
+        "street": "Rua Sebastiao Ambrosio De Toledo Junior",
+        "zipcode": "12906-360"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila David",
+        "street": "Rua Capitao Arthur Ribeiro",
+        "zipcode": "12908-120"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Verao",
+        "zipcode": "12908-190"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila Santa Libania",
+        "street": "Avenida Sao Lourenco",
+        "zipcode": "12908-000"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila David",
+        "street": "Rua Francisco Baisi",
+        "zipcode": "12908-100"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Roberto Rodrigues",
+        "zipcode": "12908-171"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Maria Russo",
+        "zipcode": "12906-680"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila Santa Libania",
+        "street": "Rua Alemanha",
+        "zipcode": "12904-280"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila Santa Libania",
+        "street": "Rua Maria Do Carmo Teixeira Galasso",
+        "zipcode": "12904-300"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Matadouro",
+        "street": "Rua Wenceslau Bras",
+        "zipcode": "12912-360"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Alameda Espanha",
+        "zipcode": "12919-350"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Alameda Italia",
+        "zipcode": "12919-490"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Alameda San Marino",
+        "zipcode": "12919-500"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Morumbi",
+        "street": "Rua Jose Dominicci",
+        "zipcode": "12926-040"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Cinco",
+        "zipcode": "12914-760"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Novo Mundo",
+        "street": "Rua Dois",
+        "zipcode": "12908-830"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Itapechinga",
+        "zipcode": "12919-050"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Aparecida Maria De Deus",
+        "zipcode": "12916-480"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila Santa Libania",
+        "street": "Rua Sao Joao Batista",
+        "zipcode": "12910-250"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Expedicionario Jose Capodefeno",
+        "zipcode": "12910-820"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Nova Braganca",
+        "street": "Rua Madre Paulina",
+        "zipcode": "12914-820"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Avenida Dois",
+        "zipcode": "12914-720"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Almeida Senna",
+        "zipcode": "12910-780"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Largo Santa Luzia",
+        "zipcode": "12919-060"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Matadouro",
+        "street": "Rua Peru",
+        "zipcode": "12910-011"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila Aparecida",
+        "street": "Travessa Jose Goncalves",
+        "zipcode": "12912-002"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Inverno",
+        "zipcode": "12908-210"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Paturi",
+        "street": "Rua Projetada B",
+        "zipcode": "12929-352"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Altos De Braganca",
+        "street": "Rua Eugenio Bobadilha",
+        "zipcode": "12914-273"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim California",
+        "street": "Rua Tiradentes",
+        "zipcode": "12919-020"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Antonio Giacomo Jose Zordo",
+        "zipcode": "12919-110"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Jose Da Silva",
+        "zipcode": "12910-800"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Alameda Portugal",
+        "zipcode": "12919-540"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila David",
+        "street": "Rua Roque Siriani",
+        "zipcode": "12908-110"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Residencial Hipica Jaguari",
+        "street": "Praça Saturnino Paccitti",
+        "zipcode": "12910-391"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Julieta Leme De Siqueira",
+        "zipcode": "12919-070"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Felipe Siqueira",
+        "zipcode": "12919-010"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila Aparecida",
+        "street": "Travessa Domingos Ninni",
+        "zipcode": "12912-001"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Jose De Assis Goncalves Junior",
+        "zipcode": "12919-620"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Conj Habit Padre Adolfo Bolini",
+        "street": "Rua Antonio Caldato",
+        "zipcode": "12908-680"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Conj Habit Padre Adolfo Bolini",
+        "street": "Rua Jose Roberto Mantovani",
+        "zipcode": "12908-681"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim California",
+        "street": "Travessa Comendador Payao",
+        "zipcode": "12919-030"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cidade Planejada I",
+        "street": "Rua Francisco J. Lima",
+        "zipcode": "12922-300"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Lincoln Rodrigues Siqueira",
+        "zipcode": "12919-090"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cidade Planejada I",
+        "street": "Rua Antonio Pierotti",
+        "zipcode": "12922-280"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Advogado Joao Alves Da Cunha Lima",
+        "zipcode": "12919-011"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Travessa Paulo De Tarso Franco Rodrigues",
+        "zipcode": "12908-230"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Jose Gomes Da Silva",
+        "zipcode": "12910-750"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Parque Dos Estados",
+        "street": "Rua Deputado Jose Ferreira Keffer",
+        "zipcode": "12908-550"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Vicente Kubtischek Fernandes De Carvalho",
+        "zipcode": "12910-810"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Nova Braganca",
+        "street": "Rua Projetada Municipal",
+        "zipcode": "12914-790"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cidade Planejada I",
+        "street": "Rua Nove",
+        "zipcode": "12922-581"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cidade Planejada I",
+        "street": "Rua Dez",
+        "zipcode": "12922-591"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Conj Habit Padre Adolfo Bolini",
+        "street": "Rua Domingos Leite De Almeida",
+        "zipcode": "12908-682"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Inocencio Salarolli",
+        "zipcode": "12910-830"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Jose Thomazini",
+        "zipcode": "12910-840"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Voluntario Jose Marques Gines",
+        "zipcode": "12910-700"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Paturi",
+        "street": "Rua Projetada C",
+        "zipcode": "12929-353"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Belmiro Ramos Franco",
+        "zipcode": "12908-010"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Primavera",
+        "zipcode": "12908-180"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila Aparecida",
+        "street": "Avenida Santa Isabel",
+        "zipcode": "12912-000"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Antonio Pires Pimentel",
+        "zipcode": "12914-000"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Alameda Franca",
+        "zipcode": "12919-480"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Alameda Alemanha",
+        "zipcode": "12919-510"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Cruzeiro",
+        "street": "Rua Rosana Franco Rodrigues",
+        "zipcode": "12908-150"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila David",
+        "street": "Rua Jose Mauricio Franco Rodrigues",
+        "zipcode": "12906-250"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Avenida Projetada",
+        "zipcode": "12914-830"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Praça Olavo Bilac",
+        "zipcode": "12910-821"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Vila Batista",
+        "street": "Travessa Taboao",
+        "zipcode": "12908-740"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim California",
+        "street": "Rua Olimpio Jose De Oliveira",
+        "zipcode": "12919-040"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Sao Lourenco",
+        "street": "Rua Voluntario Augusto Vasconcellos",
+        "zipcode": "12908-410"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Matadouro",
+        "street": "Rua Vinte E Quatro De Abril",
+        "zipcode": "12910-010"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Capitao Basilio Ribeiro Da Costa",
+        "zipcode": "12910-740"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Sao Cristovao",
+        "street": "Avenida Coronel Daniel Peluso",
+        "zipcode": "12926-000"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Raul Rodrigues De Siqueira",
+        "zipcode": "12919-000"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Matadouro",
+        "street": "Travessa Alberto Santos Dumont",
+        "zipcode": "12910-260"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Nova Braganca",
+        "street": "Rua Capitao Daniel Peluso Junior",
+        "zipcode": "12914-810"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Penha",
+        "street": "Rua Um",
+        "zipcode": "12929-500"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Penha",
+        "street": "Rua Dois",
+        "zipcode": "12929-510"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Novo Mundo",
+        "street": "Rua Antonio Geordano Buzatto Junior",
+        "zipcode": "12906-390"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Laudiceia Coghetto",
+        "zipcode": "12919-001"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Jardim Sao Cristovao",
+        "street": "Avenida Juscelino Kubitschek De Oliveira",
+        "zipcode": "12926-010"
+    },
+    {
+        "city": "Braganca Paulista",
+        "state": "SP",
+        "district": "Berbari Residencial Club",
+        "street": "Rua Quatorze",
+        "zipcode": "12908-772"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Ibitirama",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Edgar Santana Alves 57",
+        "zipcode": "29540-970"
+    },
+    {
+        "city": "Ibitirama",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "29545-990"
+    },
+    {
+        "city": "Ibitirama",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29540-000"
+    },
+    {
+        "city": "Ibitirama",
+        "state": "ES",
+        "district": "São José do Caparaó",
+        "street": "Estrada São José",
+        "zipcode": "29540-971"
+    }
+]

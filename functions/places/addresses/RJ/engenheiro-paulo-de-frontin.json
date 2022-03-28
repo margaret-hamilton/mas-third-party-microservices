@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Engenheiro Paulo de Frontin",
+        "state": "RJ",
+        "district": "Morro Azul do Tinguá",
+        "street": "Estrada RJ",
+        "zipcode": "26650-971"
+    },
+    {
+        "city": "Engenheiro Paulo de Frontin",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada de Sacra Família",
+        "zipcode": "26650-990"
+    },
+    {
+        "city": "Engenheiro Paulo de Frontin",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "26650-000"
+    },
+    {
+        "city": "Engenheiro Paulo de Frontin",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Vereador José Gramático 67",
+        "zipcode": "26650-970"
+    },
+    {
+        "city": "Engenheiro Paulo de Frontin",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Manuel de Lucas",
+        "zipcode": "26650-991"
+    }
+]

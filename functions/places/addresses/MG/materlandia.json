@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Materlândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Argemiro Francisco 171",
+        "zipcode": "39755-973"
+    },
+    {
+        "city": "Materlândia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39755-000"
+    },
+    {
+        "city": "Materlândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "39755-972"
+    }
+]

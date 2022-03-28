@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Paulista",
+        "state": "PB",
+        "district": "",
+        "street": "",
+        "zipcode": "58860-000"
+    },
+    {
+        "city": "Paulista",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Vicente de Franca s/n",
+        "zipcode": "58860-970"
+    },
+    {
+        "city": "Paulista",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua da Telpa s/n",
+        "zipcode": "58860-971"
+    },
+    {
+        "city": "Paulista",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua da Telpa s/n",
+        "zipcode": "58860-972"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Vargem",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Geraldino de Oliveira 249",
+        "zipcode": "12935-970"
+    },
+    {
+        "city": "Vargem",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "12935-000"
+    },
+    {
+        "city": "Vargem",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada entre Serras e Águas",
+        "zipcode": "12935-990"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Presidente Venceslau",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Tiradentes 371",
+        "zipcode": "19400-971"
+    },
+    {
+        "city": "Presidente Venceslau",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19400-000"
+    },
+    {
+        "city": "Presidente Venceslau",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Saldanha da Gama",
+        "zipcode": "19400-973"
+    },
+    {
+        "city": "Presidente Venceslau",
+        "state": "SP",
+        "district": null,
+        "street": "Posto de Saúde do Assentamento Primavera",
+        "zipcode": "19400-990"
+    },
+    {
+        "city": "Presidente Venceslau",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Wenceslau Braz 15",
+        "zipcode": "19400-970"
+    },
+    {
+        "city": "Presidente Venceslau",
+        "state": "SP",
+        "district": null,
+        "street": "Assentamento Tupanciretã",
+        "zipcode": "19400-991"
+    }
+]

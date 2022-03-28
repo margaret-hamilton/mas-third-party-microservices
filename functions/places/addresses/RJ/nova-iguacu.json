@@ -1,0 +1,4489 @@
+[
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Flora",
+        "street": "Rua Proclamacao",
+        "zipcode": "26033-691"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Mister Watkins",
+        "zipcode": "26240-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Jorge Lima",
+        "zipcode": "26235-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Afranio Peixoto",
+        "zipcode": "26232-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Carlos Peixoto",
+        "zipcode": "26251-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Metropole",
+        "street": "Rua Dr Barros Junior",
+        "zipcode": "26015-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Gervasio",
+        "zipcode": "26225-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Gemini",
+        "zipcode": "26231-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Sao Jeronimo",
+        "zipcode": "26246-610"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Sotero",
+        "zipcode": "26230-270"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Marquesa Griselda",
+        "zipcode": "26240-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Sergio Cunha",
+        "zipcode": "26236-270"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jardim Mato Grosso",
+        "street": "Rua Ernesto Regatiere",
+        "zipcode": "26043-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Ouro Preto",
+        "zipcode": "26236-001"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Caroem",
+        "zipcode": "26251-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grajau",
+        "street": "Rua Norberto Catalde",
+        "zipcode": "26030-740"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Travessa Guimaraes",
+        "zipcode": "26251-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Praça Joao Luis Do Nascimento",
+        "zipcode": "26235-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Engenho Pequeno",
+        "street": "Rua Primeiro De Maio",
+        "zipcode": "26011-351"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Avenida Treze De Maio",
+        "zipcode": "26231-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Manuel Afonso",
+        "zipcode": "26245-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Conselheiro Aderbal Louzada Rodrigues",
+        "zipcode": "26250-680"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Juriti",
+        "street": "Rua Oliveiros Rodrigues Alves",
+        "zipcode": "26030-295"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Luiz Felipe Campos Fraga",
+        "zipcode": "26236-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Epitacio Pessoa",
+        "zipcode": "26232-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Juraci",
+        "zipcode": "26232-420"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Josefina",
+        "zipcode": "26226-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Uranos",
+        "zipcode": "26240-511"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Emilio De Menezes",
+        "zipcode": "26040-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Licinio",
+        "zipcode": "26226-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tranquilidade",
+        "zipcode": "26231-610"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Jupiter",
+        "zipcode": "26240-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Vitoria",
+        "zipcode": "26251-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Dona Francisca Mathias Da Costa",
+        "zipcode": "26231-360"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Tulipa",
+        "zipcode": "26251-410"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Dona Mariana",
+        "zipcode": "26236-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Carolina Meier",
+        "zipcode": "26250-650"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Leoncio",
+        "zipcode": "26235-410"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Magno De Carvalho",
+        "zipcode": "26240-470"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jardim Felix",
+        "street": "Rua Dona Carlota Rodrigues",
+        "zipcode": "26035-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Ricardo",
+        "zipcode": "26226-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Dagmar De Assis",
+        "zipcode": "26225-550"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fazenda Da Posse",
+        "street": "Rodovia Presidente Dutra",
+        "zipcode": "26031-490"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Saul Bernardino Pedro",
+        "zipcode": "26236-260"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Sao Teodoro",
+        "street": "Estrada Iguacu",
+        "zipcode": "26023-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jardim Felix",
+        "street": "Rua Alferes",
+        "zipcode": "26035-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Flora",
+        "street": "Alameda Flora",
+        "zipcode": "26040-095"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Temis",
+        "zipcode": "26040-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Borgerth",
+        "street": "Estrada Luis Lemos",
+        "zipcode": "26040-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Morro Agudo",
+        "street": "Rua Tomas Fonseca",
+        "zipcode": "26031-510"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Flora",
+        "street": "Rua Jose Bonifacio",
+        "zipcode": "26033-670"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Camari",
+        "street": "Rua Dr Simao Sucht",
+        "zipcode": "26040-850"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Engenho Pequeno",
+        "street": "Rua Primeiro De Maio",
+        "zipcode": "26011-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Nova America",
+        "street": "Rua Anhambi",
+        "zipcode": "26040-285"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Floresta",
+        "street": "Rua Geni Saraiva",
+        "zipcode": "26032-660"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Quinze De Novembro",
+        "zipcode": "26022-191"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Itabucu",
+        "zipcode": "26225-650"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fazenda Da Posse",
+        "street": "Estrada Ambai",
+        "zipcode": "26033-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Metropole",
+        "street": "Rua Luis Sobral",
+        "zipcode": "26013-735"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "26022-201"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Nossa Senhora Da Conceicao",
+        "street": "Rua Vidal",
+        "zipcode": "26033-620"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Rosario",
+        "street": "Estrada Dr Plinio Casado",
+        "zipcode": "26010-420"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Sueli",
+        "street": "Rua Ramalho",
+        "zipcode": "26010-430"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Nossa Senhora Da Conceicao",
+        "street": "Rua Prof. Augusto Rodrigues",
+        "zipcode": "26033-640"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Jose De Lucca",
+        "zipcode": "26040-045"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Brasilia",
+        "street": "Rua Rainha",
+        "zipcode": "26033-630"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Tobias Barreto",
+        "zipcode": "26040-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Bosco",
+        "street": "Rua Freitas Braga",
+        "zipcode": "26015-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Cruzeiro Do Sul",
+        "street": "Rua Damas Batista",
+        "zipcode": "26011-011"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Sao Gabriel",
+        "street": "Rua Antonio Pacheco",
+        "zipcode": "26040-240"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Quinze De Novembro",
+        "zipcode": "26022-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Miguel Couto",
+        "street": "Avenida Henrique Duque Estrada Meyer",
+        "zipcode": "26030-381"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Marilia",
+        "street": "Rua Luis Galvao",
+        "zipcode": "26040-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Rubem Kaiserman",
+        "zipcode": "26040-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Dr Luis Guimaraes",
+        "zipcode": "26040-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Ceramica",
+        "street": "Rodovia Preside3Ente Dutra",
+        "zipcode": "26030-004"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Prof. Bernarda Galvao",
+        "zipcode": "26040-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Coronel Nilo Teodoro",
+        "zipcode": "26040-441"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Floresta",
+        "street": "Rua Geni Saraiva",
+        "zipcode": "26031-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Metropole",
+        "street": "Avenida Nilo Pecanha",
+        "zipcode": "26015-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Ulisses",
+        "street": "Rua Monte Libano",
+        "zipcode": "26010-751"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jardim Da Posse",
+        "street": "Rodovia Preside3Ente Dutra",
+        "zipcode": "26030-001"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Sueli",
+        "street": "Rua Ramalho",
+        "zipcode": "26010-431"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Camari",
+        "street": "Rua Lourival Tavares De Paula",
+        "zipcode": "26022-171"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jardim Felix",
+        "street": "Rua Caldeira Brandt",
+        "zipcode": "26033-660"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "26022-200"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Telda",
+        "zipcode": "26040-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Estrada Da Guarita",
+        "zipcode": "26040-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Do Encanamento",
+        "zipcode": "26011-370"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Cruzeiro Do Sul",
+        "street": "Rua Damas Batista",
+        "zipcode": "26011-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Medeiros E Albuquerque",
+        "zipcode": "26040-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Guimaraes Natal",
+        "zipcode": "26040-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Ambai",
+        "street": "Rua Ipiranga",
+        "zipcode": "26060-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Nilo Pecanha",
+        "zipcode": "26210-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Otavio Tarquino",
+        "zipcode": "26210-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Otavio Tarquino",
+        "zipcode": "26215-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Francisco Soares",
+        "zipcode": "26216-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Maia",
+        "street": "Rua Figueira",
+        "zipcode": "26065-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Norival Chaves",
+        "zipcode": "26230-220"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Guida",
+        "zipcode": "26226-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dr Barros Junior",
+        "zipcode": "26215-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Alberto De Oliveira",
+        "zipcode": "26040-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Areia Branca",
+        "zipcode": "26230-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Maria Da Luz",
+        "street": "Rua Luis Sobral",
+        "zipcode": "26220-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Canuto",
+        "zipcode": "26226-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Vieira",
+        "street": "Rua A Graziane",
+        "zipcode": "26065-560"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Ambai",
+        "street": "Rua Jose Maria",
+        "zipcode": "26065-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Celestino",
+        "zipcode": "26225-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Dr Barros Junior",
+        "zipcode": "26210-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Peixoto",
+        "street": "Rua Barros Peixoto",
+        "zipcode": "26230-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Hugo",
+        "zipcode": "26226-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Clara",
+        "street": "Rua Braulio",
+        "zipcode": "26226-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Rua Aurora Boreal",
+        "zipcode": "26230-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Paulo Emilio Correa",
+        "zipcode": "26230-145"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Tingua",
+        "street": "Rua Itaquaris",
+        "zipcode": "26065-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Astoria",
+        "zipcode": "26225-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Maurilio",
+        "zipcode": "26225-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Juliana",
+        "zipcode": "26226-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Ambai",
+        "street": "Estrada Ambai",
+        "zipcode": "26040-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Isidoro",
+        "zipcode": "26225-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Rufino",
+        "zipcode": "26226-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Tres Coracoes",
+        "street": "Estrada Da Guarita",
+        "zipcode": "26033-580"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Garcas Das",
+        "zipcode": "26230-151"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Cirilo",
+        "zipcode": "26225-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Aymore",
+        "zipcode": "26230-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Tingua",
+        "street": "Estrada Salgueiro",
+        "zipcode": "26063-580"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Maria Da Luz",
+        "street": "Rua Luis Sobral",
+        "zipcode": "26216-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Olivia De Brito",
+        "zipcode": "26230-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Iguacu Velho",
+        "street": "Estrada Do Tingua",
+        "zipcode": "26062-035"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Estrada Dr Plinio Casado",
+        "zipcode": "26220-410"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Belmira Sampaio",
+        "zipcode": "26230-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Natalia",
+        "zipcode": "26225-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Joao Teles",
+        "zipcode": "26225-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Barao De Guandu",
+        "street": "Estrada Vilar",
+        "zipcode": "26065-400"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Travessa Alaide",
+        "zipcode": "26230-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Silverio",
+        "zipcode": "26225-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Travessa Borges",
+        "zipcode": "26230-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Ladislau",
+        "zipcode": "26225-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Macario",
+        "zipcode": "26226-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Treze De Maio",
+        "zipcode": "26215-530"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Luciano",
+        "zipcode": "26226-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Procopio",
+        "zipcode": "26226-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Zoe",
+        "zipcode": "26225-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Getulio De Moura",
+        "zipcode": "26225-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Nereu",
+        "zipcode": "26225-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Epitacio",
+        "zipcode": "26225-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Donato",
+        "zipcode": "26226-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Peixoto",
+        "street": "Rua Caramuru",
+        "zipcode": "26230-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Viriate Emilio Correa",
+        "zipcode": "26230-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Antonio Borges",
+        "zipcode": "26230-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Rua Cesario",
+        "zipcode": "26230-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fazenda Da Posse",
+        "street": "Rua Dos Deputados",
+        "zipcode": "26221-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Eugenio Soares",
+        "zipcode": "26225-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Ambai",
+        "street": "Avenida Goiania",
+        "zipcode": "26040-205"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Bela",
+        "zipcode": "26231-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Paulo De Frontin",
+        "zipcode": "26231-061"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tompson Flores",
+        "zipcode": "26231-590"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Kiel",
+        "zipcode": "26231-450"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Rua Tamaru",
+        "zipcode": "26230-610"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Inar Figueiredo",
+        "zipcode": "26231-420"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Quatro Irmaos Do Prata",
+        "street": "Travessa Joao Rodrigues",
+        "zipcode": "26230-470"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Jose Bonifacio",
+        "zipcode": "26231-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Coelho Da Rocha",
+        "zipcode": "26231-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Apolo",
+        "zipcode": "26231-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Travessa Marina",
+        "zipcode": "26230-510"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Peixoto",
+        "street": "Travessa Tupinamba",
+        "zipcode": "26230-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Farao",
+        "zipcode": "26231-230"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Mirassol",
+        "zipcode": "26231-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Dois",
+        "zipcode": "26231-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Dias Leme",
+        "zipcode": "26231-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Soledade",
+        "zipcode": "26231-260"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Laura Goncalves Machado",
+        "zipcode": "26231-460"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Rua Paz E Amor",
+        "zipcode": "26230-560"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Guimbu",
+        "zipcode": "26231-390"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Versalhes",
+        "zipcode": "26230-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Gimele",
+        "zipcode": "26231-200"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Toca Grande",
+        "zipcode": "26231-341"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rodovia Presidente Dutra",
+        "zipcode": "26230-570"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tres",
+        "zipcode": "26231-620"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Santa Rosa",
+        "zipcode": "26231-520"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Ana Nunes Fagundes",
+        "zipcode": "26231-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Quatro",
+        "zipcode": "26231-500"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Elias Donni",
+        "zipcode": "26231-370"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Jose Faria",
+        "zipcode": "26230-490"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Chamine",
+        "zipcode": "26231-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Mequinho",
+        "zipcode": "26231-220"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Sao Salvador",
+        "zipcode": "26231-550"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Maria Helena",
+        "zipcode": "26231-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tilda",
+        "zipcode": "26231-560"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Vera Lucia",
+        "zipcode": "26231-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Avenida Epitacio Pessoa",
+        "zipcode": "26231-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Laminacao",
+        "zipcode": "26231-270"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Alberto",
+        "zipcode": "26230-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Sao Paulo",
+        "zipcode": "26231-540"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Cachoeira",
+        "zipcode": "26231-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Oliveiras",
+        "zipcode": "26231-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Miradouro",
+        "zipcode": "26231-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Travessa Teresinha",
+        "zipcode": "26230-660"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Roberto Figueira",
+        "zipcode": "26231-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Monaco",
+        "zipcode": "26231-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Dr Carvalhaes",
+        "zipcode": "26231-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Toroposso",
+        "zipcode": "26231-600"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Idalina Blun",
+        "zipcode": "26231-410"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Liberdade",
+        "zipcode": "26231-470"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Travessa Serrano",
+        "zipcode": "26230-081"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tingui",
+        "zipcode": "26231-570"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Tripoli",
+        "zipcode": "26231-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Henrique Dias",
+        "zipcode": "26231-400"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Amazonas",
+        "zipcode": "26231-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Praça Antonio Dos Santos",
+        "zipcode": "26230-380"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Barao Do Rio Branco",
+        "zipcode": "26230-400"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Sergio Delamare",
+        "zipcode": "26231-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Peixoto",
+        "street": "Rua Dulce Peixoto",
+        "zipcode": "26231-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Pastor Antonio Pinto",
+        "zipcode": "26231-490"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Sarapui",
+        "zipcode": "26231-240"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Policarpo",
+        "zipcode": "26226-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Domingos Inacio",
+        "zipcode": "26235-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Soares Seco",
+        "zipcode": "26232-460"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Vicente",
+        "zipcode": "26232-370"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Capitao Teles",
+        "zipcode": "26235-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Manaca",
+        "zipcode": "26232-260"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Celestino",
+        "zipcode": "26235-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Paulo",
+        "zipcode": "26235-240"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Hercilia",
+        "zipcode": "26235-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Jeanete",
+        "zipcode": "26232-220"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Libania",
+        "zipcode": "26235-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Carijos",
+        "zipcode": "26232-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Simplicio",
+        "zipcode": "26235-470"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Ipanema",
+        "zipcode": "26232-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Raul Santos",
+        "zipcode": "26232-450"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Bicuiba",
+        "zipcode": "26232-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Praça Pindorama",
+        "zipcode": "26232-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Leonor",
+        "zipcode": "26232-430"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Simao Bolivar",
+        "zipcode": "26232-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Mastruco",
+        "zipcode": "26232-270"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Egidio",
+        "zipcode": "26235-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Zizinho",
+        "zipcode": "26232-500"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Jequitinhonha",
+        "zipcode": "26232-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Ademir",
+        "zipcode": "26232-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Araujo",
+        "zipcode": "26232-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Haroldo Alves",
+        "zipcode": "26232-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Teresa",
+        "zipcode": "26232-470"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Piacava",
+        "zipcode": "26232-290"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Aracati",
+        "zipcode": "26235-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Manuel Afonso",
+        "zipcode": "26235-430"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Cristina",
+        "zipcode": "26232-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Eugenio Ferreira",
+        "zipcode": "26232-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Bispo",
+        "zipcode": "26231-640"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Josenete",
+        "zipcode": "26232-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Etelvina Tomaz De Souza",
+        "zipcode": "26235-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Angela",
+        "zipcode": "26232-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Regina",
+        "zipcode": "26235-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Crispim",
+        "zipcode": "26235-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Itapemirim",
+        "zipcode": "26232-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Machado",
+        "zipcode": "26232-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Carolina Pereira",
+        "zipcode": "26232-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Projetada",
+        "zipcode": "26232-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Riachuelo",
+        "zipcode": "26232-510"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Travessa Manuel Goncalves",
+        "zipcode": "26235-220"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Abel",
+        "zipcode": "26235-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Praça Guaco",
+        "zipcode": "26232-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Hipolito",
+        "zipcode": "26235-390"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Tulipa",
+        "zipcode": "26232-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Ciriaco",
+        "zipcode": "26235-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Santos Dumont",
+        "zipcode": "26231-680"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Ciris",
+        "zipcode": "26232-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Voltaire",
+        "zipcode": "26232-490"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Praça Antonio Goncalves",
+        "zipcode": "26232-390"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Ambrosio",
+        "zipcode": "26235-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Julio Dantas",
+        "zipcode": "26232-230"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Leda",
+        "zipcode": "26231-660"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Jose Clemente",
+        "zipcode": "26232-410"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Cristina",
+        "zipcode": "26232-081"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Praça Povo Do",
+        "zipcode": "26232-380"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Noli",
+        "zipcode": "26235-142"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Dona Amelia",
+        "zipcode": "26232-391"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Mirabela",
+        "zipcode": "26231-670"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Prof. Joao Ribeiro Filho",
+        "zipcode": "26232-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Suzana",
+        "zipcode": "26235-460"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Elpidio",
+        "zipcode": "26235-111"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Travessa Libania Segunda",
+        "zipcode": "26235-650"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Ari Camargo",
+        "zipcode": "26236-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Barao Salusse",
+        "zipcode": "26240-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Getulio De Moura",
+        "zipcode": "26235-630"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Vila Sao Paulo",
+        "zipcode": "26235-670"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Brigida",
+        "zipcode": "26235-570"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Avenida Presidente Costa E Silva",
+        "zipcode": "26240-041"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Vila Sao Jose",
+        "zipcode": "26235-590"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Franca De Xira",
+        "zipcode": "26236-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Carlos Frahia",
+        "zipcode": "26236-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Vila Sao Joao",
+        "zipcode": "26235-580"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Wilson Frahia",
+        "zipcode": "26236-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Mario Pedrosa",
+        "zipcode": "26235-710"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Joao Petena",
+        "zipcode": "26236-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Central",
+        "street": "Rua Paulo De Oliveira Pinto",
+        "zipcode": "26235-620"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Praça Dr Manuel Duarte",
+        "zipcode": "26240-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Arthur Oliveira Vecchi",
+        "zipcode": "26240-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Rica",
+        "zipcode": "26236-002"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Mucuri",
+        "zipcode": "26240-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Cosmorama",
+        "zipcode": "26236-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Feliciano Sodre",
+        "zipcode": "26240-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Vila Heloisa",
+        "zipcode": "26235-540"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Antonio Jose De Carvalho",
+        "zipcode": "26236-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Nova De Famalicao",
+        "zipcode": "26236-011"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua George Costa",
+        "zipcode": "26236-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Luis Machado",
+        "zipcode": "26236-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Birom",
+        "zipcode": "26236-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Praça Da Revolucao",
+        "zipcode": "26240-520"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Fabrica",
+        "zipcode": "26235-520"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Travessa Libania Primeira",
+        "zipcode": "26235-640"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Joao Oliveira Pinto",
+        "zipcode": "26236-370"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Placido",
+        "zipcode": "26235-560"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Bernardino Borges Dos Reis",
+        "zipcode": "26236-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Avenida Getulio De Moura",
+        "zipcode": "26240-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Velha",
+        "zipcode": "26236-013"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Otavio Braga",
+        "zipcode": "26240-490"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Medeia",
+        "zipcode": "26240-530"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Arnaldo Santos",
+        "zipcode": "26236-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Candido Viana",
+        "zipcode": "26236-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "26240-460"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Para",
+        "zipcode": "26240-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Adamantina",
+        "zipcode": "26235-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Luis Jose Ramos",
+        "zipcode": "26236-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Niceia",
+        "zipcode": "26240-461"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Osvaldo Prado",
+        "zipcode": "26236-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Parana",
+        "zipcode": "26240-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Nilza Gurgel",
+        "zipcode": "26235-441"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Wirton Sambonha",
+        "zipcode": "26236-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Fortaleza",
+        "zipcode": "26240-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Magno De Carvalho",
+        "zipcode": "26240-471"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Alfredo Swvartz",
+        "zipcode": "26236-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Rodolpho Pessoa",
+        "zipcode": "26236-240"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Real",
+        "zipcode": "26236-012"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Onix",
+        "zipcode": "26240-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Paulo Rogerio Mussi",
+        "zipcode": "26236-220"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Rosemary Sadd",
+        "zipcode": "26236-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Fausto",
+        "zipcode": "26235-530"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Maria Mendes Vecchi",
+        "zipcode": "26240-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Vila Sao Jeronimo",
+        "zipcode": "26235-660"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Goias",
+        "zipcode": "26240-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Dona Flaviana",
+        "zipcode": "26235-510"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Poligonal",
+        "zipcode": "26245-200"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Celestino Carneiro Dias",
+        "zipcode": "26246-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Jose Alves Carneiro",
+        "zipcode": "26240-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Netuno",
+        "zipcode": "26245-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Japuiba",
+        "zipcode": "26245-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Travessa Caimirim",
+        "zipcode": "26245-011"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Maza",
+        "zipcode": "26240-540"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Pedra",
+        "zipcode": "26245-460"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Aurora",
+        "zipcode": "26240-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Serra",
+        "zipcode": "26245-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Venus",
+        "zipcode": "26240-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Avenida Dr Manuel Pereira Reis",
+        "zipcode": "26240-370"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Alegre",
+        "zipcode": "26245-260"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Dr Manuel Duarte",
+        "zipcode": "26240-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Oriental",
+        "zipcode": "26240-380"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Adao",
+        "zipcode": "26240-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Socorro",
+        "zipcode": "26245-241"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Travessa Uniao",
+        "zipcode": "26245-251"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Socorro",
+        "zipcode": "26245-240"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Presidente Eurico Gaspar Dutra",
+        "zipcode": "26245-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Almirante Batista Das Neves",
+        "zipcode": "26246-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Chalet",
+        "zipcode": "26245-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Barao De Mesquita",
+        "zipcode": "26240-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Lemos",
+        "zipcode": "26240-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Eva",
+        "zipcode": "26240-270"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Carlinhos",
+        "zipcode": "26245-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Assu",
+        "zipcode": "26246-005"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Guarani",
+        "zipcode": "26245-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Guararapes",
+        "street": "Rua Dom Jaime Camara",
+        "zipcode": "26245-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Julio Macedo",
+        "zipcode": "26246-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Guararapes",
+        "street": "Rua Itabaiana De Oliveira",
+        "zipcode": "26245-390"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Guararapes",
+        "street": "Rua Soares Couto",
+        "zipcode": "26245-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Idealista",
+        "zipcode": "26245-380"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Silvio Soares",
+        "zipcode": "26245-230"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Casulo",
+        "zipcode": "26245-520"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Tesouro",
+        "zipcode": "26245-550"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Impirico",
+        "zipcode": "26245-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Eliseu De Alvarenga",
+        "zipcode": "26240-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Araripe",
+        "zipcode": "26245-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Aurelia",
+        "zipcode": "26240-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Guararapes",
+        "street": "Rua Vidal De Negreiros",
+        "zipcode": "26245-500"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Satelite",
+        "zipcode": "26240-390"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Jose De Alencar",
+        "zipcode": "26245-450"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Virtude",
+        "zipcode": "26240-240"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Verdade",
+        "zipcode": "26240-230"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Sete Anoes",
+        "zipcode": "26245-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Joao Piloto",
+        "zipcode": "26245-400"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Marte",
+        "zipcode": "26240-290"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Guararapes",
+        "street": "Rua Horacio Lemos",
+        "zipcode": "26245-370"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Mercurio",
+        "zipcode": "26240-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Fazenda",
+        "zipcode": "26245-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Cordura",
+        "zipcode": "26240-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Jardinopolis",
+        "zipcode": "26245-246"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Uniao",
+        "zipcode": "26245-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Jatuba",
+        "zipcode": "26245-530"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Travessa Serra",
+        "zipcode": "26245-211"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Despachantes",
+        "zipcode": "26245-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Juruju",
+        "zipcode": "26245-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Patativa",
+        "zipcode": "26245-540"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Japeri",
+        "zipcode": "26246-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Guararapes",
+        "street": "Rua Dentistas",
+        "zipcode": "26245-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Sarmento",
+        "zipcode": "26240-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Aparecida",
+        "zipcode": "26246-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Minerva",
+        "zipcode": "26240-200"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "K",
+        "street": "Rua Projetada",
+        "zipcode": "26250-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Pompilio",
+        "zipcode": "26251-370"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Alagoas",
+        "zipcode": "26250-420"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Astoria",
+        "zipcode": "26247-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Inacio Serra",
+        "zipcode": "26247-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Ondina Cardoso",
+        "zipcode": "26247-200"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Jose Salomao",
+        "zipcode": "26246-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Dora",
+        "zipcode": "26247-290"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Maria Elizabete",
+        "zipcode": "26246-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Abaete",
+        "zipcode": "26247-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Plaza",
+        "zipcode": "26247-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Travessa Da Vala",
+        "zipcode": "26251-460"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Riachuelo",
+        "zipcode": "26246-600"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Venancio",
+        "zipcode": "26246-680"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Travessa Paulo Jorge",
+        "zipcode": "26246-530"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Aquidauana",
+        "zipcode": "26247-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Carolina",
+        "zipcode": "26246-380"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Guiomar De Azevedo",
+        "zipcode": "26247-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Travessa Rondon Goncalves",
+        "zipcode": "26246-251"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Maranhao",
+        "zipcode": "26251-321"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Rondon Goncalves",
+        "zipcode": "26246-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Prof. Anselmo",
+        "zipcode": "26251-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Travessa Amaral",
+        "zipcode": "26246-360"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Coronel Bernardino De Melo",
+        "zipcode": "26250-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Botafogo",
+        "zipcode": "26247-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Sao Jose",
+        "zipcode": "26246-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Das Oficinas",
+        "zipcode": "26251-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Lidia",
+        "zipcode": "26246-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Travessa Maria Braga",
+        "zipcode": "26247-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Marli",
+        "zipcode": "26246-700"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Leila",
+        "zipcode": "26246-470"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Alba",
+        "zipcode": "26247-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Orminda",
+        "zipcode": "26246-520"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Vilma",
+        "zipcode": "26247-260"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Dona Rosina",
+        "zipcode": "26246-590"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Bahia",
+        "zipcode": "26250-430"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Tonelero",
+        "zipcode": "26247-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Nossa Senhora Do Monte Serrat",
+        "zipcode": "26247-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Edson  Passos",
+        "zipcode": "26246-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Dr Godoi",
+        "zipcode": "26246-400"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Branca",
+        "street": "Rua Aurora",
+        "zipcode": "26251-450"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Rua Jose Dias Guimaraes",
+        "zipcode": "26251-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Quito",
+        "zipcode": "26251-380"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Acu",
+        "zipcode": "26246-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Itaqui",
+        "zipcode": "26247-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Santa Barbara",
+        "zipcode": "26246-630"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Alberto Brigadao",
+        "zipcode": "26246-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Eleoni",
+        "zipcode": "26247-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Sonia",
+        "zipcode": "26246-640"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Lucia",
+        "zipcode": "26246-460"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Santa Barbara",
+        "zipcode": "26246-631"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Praça Brasil",
+        "zipcode": "26251-430"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Pedro Americo",
+        "zipcode": "26246-570"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Uruguai",
+        "zipcode": "26251-420"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Marques Canario",
+        "zipcode": "26247-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Javali",
+        "zipcode": "26251-310"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Natal",
+        "zipcode": "26251-390"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Arizona",
+        "zipcode": "26247-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Castro Alves",
+        "zipcode": "26246-390"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Heron Domingues",
+        "zipcode": "26247-071"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Marisa",
+        "zipcode": "26246-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Siriema",
+        "zipcode": "26250-263"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Posse",
+        "street": "Rodovia Presidente Dutra",
+        "zipcode": "26285-003"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Rua Caviana",
+        "zipcode": "26251-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jardim Nova Era",
+        "street": "Rua Marcia Costa",
+        "zipcode": "26272-360"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Arrozal",
+        "zipcode": "26251-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Branca",
+        "street": "Rua Cascata",
+        "zipcode": "26250-470"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Caruaru",
+        "zipcode": "26251-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "26251-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Manaus",
+        "zipcode": "26251-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Canavial",
+        "zipcode": "26251-251"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Belem",
+        "zipcode": "26251-220"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Caribe",
+        "zipcode": "26250-460"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Sao Paulo",
+        "zipcode": "26250-590"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Morro Agudo",
+        "street": "Rua Tomas Fonseca",
+        "zipcode": "26280-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Recife",
+        "zipcode": "26250-530"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Carmem",
+        "zipcode": "26251-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Feliciano Sodre",
+        "zipcode": "26250-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Rua Carlinda",
+        "zipcode": "26251-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Amazonas",
+        "zipcode": "26251-200"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Travessa Canavial",
+        "zipcode": "26251-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Espirito Santo",
+        "zipcode": "26251-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Sao Luis",
+        "zipcode": "26250-670"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Rua Fruteira",
+        "zipcode": "26251-290"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Augusto Cardoso",
+        "zipcode": "26251-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Castilhos Franca",
+        "zipcode": "26250-450"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Aracaju",
+        "zipcode": "26251-011"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Travessa Cisneiros",
+        "zipcode": "26251-240"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Maceio",
+        "zipcode": "26250-500"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Rua Paraguai",
+        "zipcode": "26251-360"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Piaui",
+        "zipcode": "26250-600"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Cuiaba",
+        "zipcode": "26251-270"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Carolina Machado",
+        "zipcode": "26251-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Minas Gerais",
+        "zipcode": "26251-150"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Sao Salvador",
+        "zipcode": "26251-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Rio Grande Do Sul",
+        "zipcode": "26250-550"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Branca",
+        "street": "Rua Santa Branca",
+        "zipcode": "26250-580"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Luz",
+        "street": "Avenida Abilio Augusto Tavora",
+        "zipcode": "26260-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Mauricio Rodrigues Francisco",
+        "zipcode": "26250-660"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Brasil",
+        "zipcode": "26251-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Praça Porto Alegre",
+        "zipcode": "26250-520"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Travessa Aracaju",
+        "zipcode": "26251-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Teresinha",
+        "street": "Travessa Carioca",
+        "zipcode": "26251-101"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Nilo Pecanha",
+        "zipcode": "26215-510"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Francisco Soares",
+        "zipcode": "26220-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Peixoto",
+        "street": "Rua Guarani",
+        "zipcode": "26230-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Rua Antonio Borges",
+        "zipcode": "26230-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Guerra Junqueiro",
+        "zipcode": "26040-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Bela Vista",
+        "street": "Rua Lucio Goncalves Lafaiete",
+        "zipcode": "26040-230"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Autodromo",
+        "street": "Rua Ernesto Regatiere",
+        "zipcode": "26043-301"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fazenda Da Posse",
+        "street": "Estrada Ambai",
+        "zipcode": "26033-251"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Guarita",
+        "street": "Rua Anhanga",
+        "zipcode": "26040-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Oscar Bueno",
+        "zipcode": "26230-710"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Bruno",
+        "zipcode": "26225-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Veronica",
+        "zipcode": "26226-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Marciano",
+        "zipcode": "26226-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Torotama",
+        "zipcode": "26231-700"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Virgilio",
+        "zipcode": "26225-200"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Flora",
+        "street": "Rua Inconfidentes",
+        "zipcode": "26033-690"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Rua Aurea Da Silva",
+        "zipcode": "26230-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Nossa Senhora Da Conceicao",
+        "street": "Rua Nossa Senhora Da Conceicao",
+        "zipcode": "26033-610"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jardim Nazare",
+        "street": "Rua Iara",
+        "zipcode": "26065-290"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Armandina",
+        "zipcode": "26232-040"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Treze De Maio",
+        "zipcode": "26210-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Tres Coracoes",
+        "street": "Rua Simara",
+        "zipcode": "26035-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jacutinga",
+        "street": "Rua Augusto Severo",
+        "zipcode": "26230-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Peixoto",
+        "street": "Rua Ana Peixoto",
+        "zipcode": "26230-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Barao De Guandu",
+        "street": "Estrada Coqueiro",
+        "zipcode": "26065-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Rua Barao Do Rio Branco",
+        "zipcode": "26230-401"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Cesario",
+        "zipcode": "26226-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Fortunato",
+        "zipcode": "26225-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Anita",
+        "street": "Rua Moderna",
+        "zipcode": "26040-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Clara",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "26230-390"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Marcial",
+        "zipcode": "26225-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Peixoto",
+        "street": "Travessa Gaspar Martins",
+        "zipcode": "26230-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Antonio Bernardo",
+        "zipcode": "26232-000"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Durvani",
+        "zipcode": "26232-400"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Central",
+        "street": "Rua Isaura Quintela",
+        "zipcode": "26235-550"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Coronel Azevedo Junior",
+        "zipcode": "26246-001"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Baronesa De Mesquita",
+        "zipcode": "26235-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Miraflor",
+        "zipcode": "26231-070"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Lafaiete",
+        "zipcode": "26246-690"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Tres Coracoes",
+        "street": "Rua Deolinda",
+        "zipcode": "26035-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Jeremias",
+        "zipcode": "26235-380"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Joao Bittencourt",
+        "zipcode": "26240-510"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Benedito",
+        "street": "Rua Plinio Carneiro Jordao",
+        "zipcode": "26022-301"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Alpinos",
+        "zipcode": "26245-270"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Travessa Dona Rosa",
+        "zipcode": "26246-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Gois",
+        "zipcode": "26245-350"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Travessa Coelho Da Rocha",
+        "zipcode": "26231-021"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Celio De Azevedo",
+        "zipcode": "26231-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Nilo Pecanha",
+        "zipcode": "26231-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Ribeira",
+        "zipcode": "26231-250"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Jovial",
+        "zipcode": "26245-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Cristiano",
+        "zipcode": "26235-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Raul Rodrigues",
+        "zipcode": "26251-400"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Carnauba",
+        "zipcode": "26232-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Ulisses",
+        "street": "Rua Monte Libano",
+        "zipcode": "26010-750"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Luci Flores",
+        "zipcode": "26240-450"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Sousa Filho",
+        "zipcode": "26232-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Conrado",
+        "zipcode": "26235-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Amadeu Rodrigues Fraga",
+        "zipcode": "26236-020"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Ceara",
+        "zipcode": "26251-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Acesso Do",
+        "zipcode": "26225-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Vila Sao Pedro",
+        "zipcode": "26235-680"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Parque Central",
+        "street": "Rua Arlove Freitas",
+        "zipcode": "26235-490"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Magno De Carvalho",
+        "zipcode": "26246-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Vila Maria Helena",
+        "zipcode": "26235-610"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Avenida Robert Kennedy",
+        "zipcode": "26231-290"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Sitios",
+        "zipcode": "26245-220"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Camari",
+        "street": "Rua Lourival Tavares De Paula",
+        "zipcode": "26022-170"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Jardim Nova Era",
+        "street": "Rua Alzira T Coutinho",
+        "zipcode": "26272-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Coronel Franca Leite",
+        "zipcode": "26246-430"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Caimirim",
+        "zipcode": "26245-010"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Santo Amaro",
+        "zipcode": "26246-620"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Lenilda",
+        "zipcode": "26245-430"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Avenida Governador Celso Pecanha",
+        "zipcode": "26232-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Sao Jose",
+        "street": "Travessa Leandro Rosa",
+        "zipcode": "26230-210"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Odilio De Medeiros",
+        "zipcode": "26246-500"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Guaporana",
+        "zipcode": "26245-090"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Grande Rio",
+        "street": "Rua Maria Amelia",
+        "zipcode": "26231-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Celso De Azevedo",
+        "zipcode": "26247-080"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Lisboa",
+        "zipcode": "26232-240"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Guararapes",
+        "street": "Rua Henrique Dias",
+        "zipcode": "26245-245"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Abel De Alvarenga",
+        "zipcode": "26246-340"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Tupa",
+        "zipcode": "26245-490"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Jorge",
+        "zipcode": "26232-200"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Tiradentes",
+        "zipcode": "26232-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Praça Mato Grosso",
+        "zipcode": "26251-330"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Da Perpetua",
+        "zipcode": "26232-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Adolfo Albuquerque",
+        "zipcode": "26247-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Guararapes",
+        "street": "Avenida Dr Manuel Duarte",
+        "zipcode": "26245-510"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Vila Sao Joao Del Rey",
+        "zipcode": "26236-003"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Raul",
+        "zipcode": "26235-260"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Fatima Goulart",
+        "zipcode": "26235-120"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Sarapui",
+        "zipcode": "26245-470"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Liberato",
+        "zipcode": "26235-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Abilio Augusto Tavora",
+        "zipcode": "26255-320"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Santa Catarina",
+        "zipcode": "26240-110"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Magalhaes Pinto",
+        "zipcode": "26231-480"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Sergipe",
+        "zipcode": "26251-180"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Romao Dos Santos",
+        "zipcode": "26236-230"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Lar De Jesus",
+        "zipcode": "26250-620"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Avenida Dr Alvaro Lessa",
+        "zipcode": "26231-650"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Eldorado",
+        "zipcode": "26246-410"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Sao Francisco De Assis",
+        "zipcode": "26231-530"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Campestre",
+        "zipcode": "26251-230"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Estela",
+        "zipcode": "26240-260"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Escada",
+        "zipcode": "26251-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Heitor Da Costa Val",
+        "zipcode": "26240-060"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Tania",
+        "zipcode": "26247-300"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Ermelinda",
+        "zipcode": "26231-380"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Neli",
+        "zipcode": "26247-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Florianopolis",
+        "zipcode": "26240-030"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tropia",
+        "zipcode": "26231-630"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Caruso",
+        "zipcode": "26250-440"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Carioca",
+        "zipcode": "26251-100"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Zeferino",
+        "zipcode": "26235-290"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Engenheiro Henrique Lussac",
+        "zipcode": "26240-360"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Jose Clemente Hufmaistr",
+        "zipcode": "26236-140"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Rua Catilina",
+        "zipcode": "26251-130"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Saturno",
+        "zipcode": "26240-220"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Emilio Guadagny",
+        "zipcode": "26240-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Fabrica De Polvora",
+        "street": "Rua Joao Jose Santana",
+        "zipcode": "26247-190"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Humaita",
+        "street": "Rua Henrique Lage",
+        "zipcode": "26232-160"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Presidente Juscelino",
+        "street": "Travessa Carmo",
+        "zipcode": "26251-050"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Santa Branca",
+        "street": "Avenida Irmaos Mauricio",
+        "zipcode": "26250-490"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "K",
+        "street": "Rua Ingles",
+        "zipcode": "26250-411"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Orestes",
+        "zipcode": "26245-451"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Rocha Sobrinho",
+        "street": "Rua Jacutinga",
+        "zipcode": "26231-430"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Avenida Dr Mario De Abreu",
+        "zipcode": "26236-360"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Silvia Cordoniz",
+        "zipcode": "26236-280"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Mesquita",
+        "street": "Rua Rio De Janeiro",
+        "zipcode": "26250-540"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Paulo Macedo",
+        "zipcode": "26240-500"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Vila Norma",
+        "street": "Rua Tobias Moscoso",
+        "zipcode": "26231-580"
+    },
+    {
+        "city": "Nova Iguacu",
+        "state": "RJ",
+        "district": "Edison Passos",
+        "street": "Rua Carlos Bitar",
+        "zipcode": "26236-090"
+    }
+]

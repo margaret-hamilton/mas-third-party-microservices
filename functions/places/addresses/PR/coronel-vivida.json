@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Coronel Vivida",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Generoso Marques 418",
+        "zipcode": "85550-970"
+    },
+    {
+        "city": "Coronel Vivida",
+        "state": "PR",
+        "district": null,
+        "street": "Rodovia BR",
+        "zipcode": "85550-990"
+    },
+    {
+        "city": "Coronel Vivida",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85550-000"
+    }
+]

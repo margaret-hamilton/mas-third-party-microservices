@@ -1,0 +1,30 @@
+[
+    {
+        "city": "General Carneiro",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Avenida Fernando Correa da Costa",
+        "zipcode": "78620-970"
+    },
+    {
+        "city": "General Carneiro",
+        "state": "MT",
+        "district": "",
+        "street": "",
+        "zipcode": "78620-000"
+    },
+    {
+        "city": "General Carneiro",
+        "state": "MT",
+        "district": "Paredão",
+        "street": "Rua Principal",
+        "zipcode": "78621-970"
+    },
+    {
+        "city": "General Carneiro",
+        "state": "MT",
+        "district": "Sangradouro",
+        "street": "Rua Principal",
+        "zipcode": "78620-971"
+    }
+]

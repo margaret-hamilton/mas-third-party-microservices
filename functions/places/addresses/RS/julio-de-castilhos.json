@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Júlio de Castilhos",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Pinheiro Machado",
+        "zipcode": "98130-970"
+    },
+    {
+        "city": "Júlio de Castilhos",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "98130-000"
+    },
+    {
+        "city": "Júlio de Castilhos",
+        "state": "RS",
+        "district": "Val da Serra",
+        "street": "Rua Principal",
+        "zipcode": "98130-971"
+    },
+    {
+        "city": "Júlio de Castilhos",
+        "state": "RS",
+        "district": "Três Mártires",
+        "street": "Rua Mariano de Freitas",
+        "zipcode": "98130-972"
+    }
+]

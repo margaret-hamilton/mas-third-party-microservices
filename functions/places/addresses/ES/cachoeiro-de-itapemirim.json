@@ -1,0 +1,4013 @@
+[
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Travessa Governador Francisco Alberto Rubim",
+        "zipcode": "29300-018"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora De Lourdes",
+        "street": "Rua Tres",
+        "zipcode": "29304-372"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Derly Machado Brasil",
+        "zipcode": "29312-840"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Mateus Antonio Duarte",
+        "zipcode": "29303-620"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Max Amboss",
+        "zipcode": "29312-140"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Francisco Jacinto Couto",
+        "zipcode": "29312-810"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Duque De Caxias",
+        "zipcode": "29306-620"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Antonio Rodrigues",
+        "zipcode": "29312-246"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Escada Jorge Moises",
+        "zipcode": "29308-000"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Jovelina C.de Paiva",
+        "zipcode": "29306-794"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Richieres Franca",
+        "zipcode": "29313-590"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Paraiso",
+        "street": "Rua Joao Vianna",
+        "zipcode": "29304-350"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Augusto Ribeiro Da Fonseca",
+        "zipcode": "29312-247"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Ana Campos Delorto",
+        "zipcode": "29314-600"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Praça Dr Luiz Tinoco Da Fonseca",
+        "zipcode": "29300-789"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Avenida Sao Jorge (Fundos)",
+        "zipcode": "29300-502"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Gilberto Freyre",
+        "zipcode": "29313-580"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Avenida Geraldo Cortes Fragoso",
+        "zipcode": "29303-600"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Anaja",
+        "zipcode": "29308-146"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Amelia Calassara Passamai",
+        "zipcode": "29302-145"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Auzilhia Greque Lunz",
+        "zipcode": "29306-710"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Rua Dois",
+        "zipcode": "29314-104"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Mauro Toledo Machado",
+        "zipcode": "29300-410"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Rua Jose Cupertino Batista",
+        "zipcode": "29302-760"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Clementina De Jesus",
+        "zipcode": "29313-560"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Euclides Da Rocha",
+        "zipcode": "29305-220"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rodovia Cachoeiro X Monte Libano",
+        "zipcode": "29309-825"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Joao Fortunato Canholato",
+        "zipcode": "29312-310"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Maria De Lurdes Braga Machado",
+        "zipcode": "29308-800"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Rua Piaui",
+        "zipcode": "29300-545"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Arlinda De Souza Cordeiro Amaral",
+        "zipcode": "29312-390"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Edson Zardini Peixoto",
+        "zipcode": "29312-485"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Baiminas",
+        "street": "Beco Angelo Boss",
+        "zipcode": "29305-540"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Romildo Gomes Cazadini",
+        "zipcode": "29312-760"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Avenida Jones Dos Santos Neves",
+        "zipcode": "29312-300"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Octavio Guimaraes",
+        "zipcode": "29303-540"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Laranjeiras",
+        "street": "Rua Amelia Augusta De Rezende",
+        "zipcode": "29317-460"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Milbruges Gomes Da Silva",
+        "zipcode": "29309-210"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Jose Rizzo Moreira Dos Santos",
+        "zipcode": "29305-390"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Idalia Rocha Cordeiro",
+        "zipcode": "29304-460"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Parque Ind Melvim Jones",
+        "zipcode": "29312-302"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Humberto Mignone",
+        "zipcode": "29301-812"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibc",
+        "street": "Travessa Treze",
+        "zipcode": "29312-132"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Quirino Goncalves",
+        "zipcode": "29310-435"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Morro Farias",
+        "street": "Rua Tiete",
+        "zipcode": "29303-691"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Praça Dona Carly",
+        "zipcode": "29308-804"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Morro Farias",
+        "street": "Rua Guaxupe",
+        "zipcode": "29303-690"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Avenida Caicara",
+        "zipcode": "29312-249"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Avenida Jurua",
+        "zipcode": "29308-245"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Beira",
+        "zipcode": "29300-300"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Astor Dillen Dos Santos",
+        "zipcode": "29301-430"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Jose Tres",
+        "zipcode": "29301-441"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Rita Rafael De Freitas",
+        "zipcode": "29301-447"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Arno Herkenhof",
+        "zipcode": "29301-520"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Mileto Louzada",
+        "zipcode": "29301-690"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Etelvina Vivacqua",
+        "zipcode": "29301-700"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Antero Dos Santos Franca",
+        "zipcode": "29301-750"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Emilio Passamai",
+        "zipcode": "29301-795"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Rua Prof. Quintiliano De Azevedo",
+        "zipcode": "29300-803"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Zumbi",
+        "street": "Travessa Cachoeiro",
+        "zipcode": "29302-400"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Rua Pindoba",
+        "zipcode": "29300-575"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Joao Pessoa",
+        "zipcode": "29300-346"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Ademar Medeiros",
+        "zipcode": "29300-012"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Carlos Drumond De Andrade",
+        "zipcode": "29300-032"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Gertrudes Fernandes",
+        "zipcode": "29300-400"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "29300-004"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Joao De Deus Madureira",
+        "zipcode": "29300-435"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Luiz Gonzaga Baiao",
+        "zipcode": "29301-815"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Severino Mathias De Souza",
+        "zipcode": "29300-382"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Da Biblia",
+        "zipcode": "29300-006"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Abilio Ciciliotti",
+        "zipcode": "29301-435"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Francisco Abraao",
+        "zipcode": "29300-360"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Largo Joao Xxiii",
+        "zipcode": "29300-016"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ferroviarios",
+        "street": "Rua Silvio Avidos",
+        "zipcode": "29300-036"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Fernando Demori",
+        "zipcode": "29301-570"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Romildo Ferrari Beiruth",
+        "zipcode": "29301-740"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Santa Margarida",
+        "zipcode": "29301-640"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Joaquim Caiado",
+        "zipcode": "29301-811"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Alameda Alceri Martins",
+        "zipcode": "29300-630"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Cicero Calmon De Aguiar",
+        "zipcode": "29301-790"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Dr Argeu Camargo Teixeira",
+        "zipcode": "29301-810"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Avenida Santa Efigenia",
+        "zipcode": "29300-501"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Nilton Rosa",
+        "zipcode": "29301-680"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Praça Visconde De Matozinhos",
+        "zipcode": "29300-801"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Escada Waldemar Grillo",
+        "zipcode": "29300-761"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Irma Cleusa Carolina Rody",
+        "zipcode": "29300-440"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Rua Virginia",
+        "zipcode": "29300-805"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Jose Lobato",
+        "zipcode": "29301-732"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ferroviarios",
+        "street": "Rua Walter Rodrigues Sabino",
+        "zipcode": "29300-034"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Nelson Borelli",
+        "zipcode": "29301-785"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Rua Mario Pires Martins",
+        "zipcode": "29300-800"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Rua Bricio Mesquita",
+        "zipcode": "29300-750"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Paulo Roberto Campos",
+        "zipcode": "29301-446"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Rua Dionisio Ferreira De Moraes",
+        "zipcode": "29300-760"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Zumbi",
+        "street": "Rua Jose Lobato",
+        "zipcode": "29302-015"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Vila Eugenia",
+        "zipcode": "29300-780"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Sao Joao",
+        "zipcode": "29300-390"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Zumbi",
+        "street": "Rua Manoel Basilio",
+        "zipcode": "29302-402"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Travessa Vinte E Nove De Julho",
+        "zipcode": "29300-804"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Indios Crenaques",
+        "zipcode": "29300-430"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Alameda Antonio Bressan",
+        "zipcode": "29300-504"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Rua Jequiri",
+        "zipcode": "29300-755"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Travessa Gertrudes Fernandes",
+        "zipcode": "29300-405"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Velha Juliana",
+        "zipcode": "29300-014"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Agliberto Rodrigues Moreira",
+        "zipcode": "29304-480"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sumare",
+        "street": "Rua Estrela Do Norte",
+        "zipcode": "29304-490"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Walter De Oliveira",
+        "zipcode": "29303-420"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Jorge Alexandre Marao",
+        "zipcode": "29303-560"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Vera Viana Rios",
+        "zipcode": "29303-580"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Jorge Latuffe",
+        "zipcode": "29303-670"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Rua Aroldo Pastro",
+        "zipcode": "29302-730"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Carmen Prates Freire",
+        "zipcode": "29303-490"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Ibitirama",
+        "zipcode": "29304-720"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Paraiso",
+        "street": "Rua Neuza Da Silva Ferreira",
+        "zipcode": "29304-363"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Francisco Manoel Barcellos Filho",
+        "zipcode": "29303-500"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Rua Antonio Ferreira Da Silva",
+        "zipcode": "29302-830"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Rua Basilio Pimenta",
+        "zipcode": "29302-590"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Felix Abdo Tannure",
+        "zipcode": "29303-570"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Papa Joao Xxiii",
+        "zipcode": "29303-440"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Rua Aristides Costa",
+        "zipcode": "29302-510"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Paraiso",
+        "street": "Escada Eudorico Da Silva Moura",
+        "zipcode": "29304-365"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Lauro Viana",
+        "zipcode": "29303-680"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Aurea Pinto Goncalves",
+        "zipcode": "29303-640"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Avenida Aurea Bispo Depes",
+        "zipcode": "29303-610"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Praça Valentim Soares",
+        "zipcode": "29303-550"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Recanto",
+        "street": "Rua Moyses Altoe",
+        "zipcode": "29302-650"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Marcio Vitor Moura Souza",
+        "zipcode": "29303-520"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Mario Augusto De Moraes",
+        "zipcode": "29303-410"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Hotencias",
+        "zipcode": "29303-625"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Itabira",
+        "zipcode": "29304-730"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Humberto Maitan",
+        "zipcode": "29303-460"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Siqueira Guimaraes",
+        "zipcode": "29303-207"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Alexandre Wencionek",
+        "zipcode": "29303-203"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Praça Portinari",
+        "zipcode": "29303-400"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Recanto",
+        "street": "Rua Anphilophilo Braga",
+        "zipcode": "29303-196"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Augusto Ruschi",
+        "zipcode": "29303-650"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Francisco Valiate",
+        "zipcode": "29304-470"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basileia",
+        "street": "Rua Riachuelo",
+        "zipcode": "29302-866"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Campo Leopoldina",
+        "street": "Rua Joventina Silva",
+        "zipcode": "29302-521"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Rua Aldy Freitas De Moraes",
+        "zipcode": "29302-840"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Dr Antonio Fernandes De Medeiros",
+        "zipcode": "29303-205"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Zumbi",
+        "street": "Rua Candida Baptista Pereira Silva",
+        "zipcode": "29302-405"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Das Orduideas",
+        "zipcode": "29303-621"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Jose Julio",
+        "zipcode": "29303-661"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Sao Paulo",
+        "zipcode": "29303-081"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Rua Jose De Agostini",
+        "zipcode": "29302-681"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basileia",
+        "street": "Rua Elias Mauricio Dos Santos",
+        "zipcode": "29302-852"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Desembargador Jose Cupertino De Castro",
+        "zipcode": "29303-202"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "29303-204"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Juarez Teixeira",
+        "zipcode": "29303-450"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Lair Alvarenga De Souza",
+        "zipcode": "29303-510"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Jaime Santos",
+        "zipcode": "29303-250"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Santa Luzia",
+        "zipcode": "29304-465"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basileia",
+        "street": "Rua Laudelina Louzada",
+        "zipcode": "29302-864"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Beco Antenor Dos Santos",
+        "zipcode": "29306-130"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Hyercem Machado",
+        "zipcode": "29303-480"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Emilia Mendes De Oliveira",
+        "zipcode": "29304-751"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Santos Dumont",
+        "zipcode": "29304-680"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Rubem Braga",
+        "zipcode": "29304-800"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Joelson Athayde Coelho",
+        "zipcode": "29304-802"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Avenida Monte Castelo",
+        "zipcode": "29306-505"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Baiminas",
+        "street": "Rua Dr Deolindo",
+        "zipcode": "29305-440"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Avenida Gumercindo Moura Nunes",
+        "zipcode": "29309-180"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Celia Rezende Salles",
+        "zipcode": "29306-160"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sumare",
+        "street": "Rua Ana Machado",
+        "zipcode": "29304-491"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santa Helena",
+        "street": "Rua Nilo Pecanha",
+        "zipcode": "29306-651"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Malvino Teodoro Dias",
+        "zipcode": "29306-680"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Mario Soares Reis",
+        "zipcode": "29306-180"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Aimore Toledo",
+        "zipcode": "29306-222"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Virgilio Gabriel",
+        "zipcode": "29306-805"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Elmindo Martins Dos Santos",
+        "zipcode": "29305-300"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Rodolfo Fiorio",
+        "zipcode": "29306-670"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Prof. Rosana Salles",
+        "zipcode": "29305-230"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Ozilia Grek Loss",
+        "zipcode": "29306-825"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Baiminas",
+        "street": "Rua Jose Bonifacio",
+        "zipcode": "29305-460"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Itajuba",
+        "zipcode": "29304-705"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Nilton Costa Barbosa",
+        "zipcode": "29306-815"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Jose De Lima Mothe",
+        "zipcode": "29306-720"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Alcaciba Casilha Viana",
+        "zipcode": "29305-320"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Maria De Lurdes Ciciliotte",
+        "zipcode": "29305-250"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Luiz Pinheiro",
+        "zipcode": "29306-140"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Travessa Benjamin Silva",
+        "zipcode": "29306-601"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Alfredo Martins Do Amaral",
+        "zipcode": "29305-200"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Eduardo Silva",
+        "zipcode": "29305-175"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Amilcar Figliuzzi",
+        "zipcode": "29306-210"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Jorge Marcondes De Souza",
+        "zipcode": "29305-030"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Nilton Ultramar",
+        "zipcode": "29304-770"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "C Do Bosque",
+        "street": "Rua Artur Dos Santos Carvalho",
+        "zipcode": "29305-792"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Escada Maria Silva Pedrot",
+        "zipcode": "29306-565"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Cabosalias",
+        "zipcode": "29308-260"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Olimpio Antonio De Souza",
+        "zipcode": "29304-640"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Sebastiao Bueno",
+        "zipcode": "29305-290"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Alvino Moreira De Souza",
+        "zipcode": "29305-330"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Flavio Silva",
+        "zipcode": "29306-200"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Escada Jose Alves Crisanto",
+        "zipcode": "29304-710"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Eurico Sartorio",
+        "zipcode": "29306-000"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Baiminas",
+        "street": "Rua Francisco Alves Lopes",
+        "zipcode": "29305-475"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Jadyr Costa",
+        "zipcode": "29306-170"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Gotardo Carlos De Souza",
+        "zipcode": "29306-700"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Newton Garcia De Mattos",
+        "zipcode": "29306-150"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Adolfo Rodrigues",
+        "zipcode": "29305-310"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Praça Gil Goulart",
+        "zipcode": "29306-640"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Jose Lourenzo Solino",
+        "zipcode": "29304-610"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Da Penha",
+        "street": "Rua Claudio Bueno Rocha",
+        "zipcode": "29307-470"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "C Do Bosque",
+        "street": "Rua Sidney Jorge Figueira",
+        "zipcode": "29305-791"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santa Helena",
+        "street": "Rua Clesio Dos Santos",
+        "zipcode": "29307-140"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Benjamin Silva",
+        "zipcode": "29306-600"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Kleber Franca",
+        "zipcode": "29306-190"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Luiz Gonzaga",
+        "street": "Rua Dr Amilcar Figliuzzi",
+        "zipcode": "29305-780"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ferroviarios",
+        "street": "Rua Anacleto Ramos",
+        "zipcode": "29308-020"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ferroviarios",
+        "street": "Rua Manoel Braga Machado",
+        "zipcode": "29308-780"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Alto Novo Parque",
+        "street": "Vila Amalia De Oliveira",
+        "zipcode": "29309-150"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Presidente Juscelino Kubitschek",
+        "zipcode": "29309-340"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Alto Novo Parque",
+        "street": "Rua E",
+        "zipcode": "29309-052"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Alipio Francisco Moreira",
+        "zipcode": "29309-540"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santa Helena",
+        "street": "Rua Coronel Hermes",
+        "zipcode": "29307-040"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Pedro Bedim",
+        "zipcode": "29308-340"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Joao Marques",
+        "zipcode": "29309-200"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Lino Zanoteli",
+        "zipcode": "29308-078"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Constantino Moreira Da Silva",
+        "zipcode": "29309-160"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Hilario Ribeiro De Medeiros",
+        "zipcode": "29309-690"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ferroviarios",
+        "street": "Rua Antonio Adversi",
+        "zipcode": "29307-310"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Atila Vivacqua",
+        "zipcode": "29309-320"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Presidente Getulio Vargas",
+        "zipcode": "29309-330"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Benedito Abreu",
+        "zipcode": "29312-205"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibitiquara",
+        "street": "Rua Juvenal Pasteli",
+        "zipcode": "29307-380"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Corinto Barbosa Lima",
+        "zipcode": "29309-350"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Adelino Dellabela",
+        "zipcode": "29312-211"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Armando Duarte Cruz",
+        "zipcode": "29308-840"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Demetrio Ultramar",
+        "zipcode": "29311-040"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Joao Natal",
+        "zipcode": "29311-042"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Guarulhos",
+        "zipcode": "29308-390"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibitiquara",
+        "street": "Rua Virgilio Jose Alves",
+        "zipcode": "29307-320"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Lucinia Braga Machado",
+        "zipcode": "29308-190"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Alto Novo Parque",
+        "street": "Rua A",
+        "zipcode": "29309-051"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Antonio Silveira",
+        "zipcode": "29308-801"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Aparecida",
+        "street": "Rua Rosa Barbosa Dias",
+        "zipcode": "29306-780"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Erotildes Albino Damasceno",
+        "zipcode": "29312-215"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Avenida Um",
+        "zipcode": "29312-195"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Jacinta Maria Da Penha",
+        "zipcode": "29309-190"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Carajas",
+        "zipcode": "29308-285"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Orbelio Marchine",
+        "zipcode": "29308-080"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Dulcino Monteiro De Castro",
+        "zipcode": "29308-802"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Tapajos",
+        "zipcode": "29308-255"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibitiquara",
+        "street": "Avenida Cristo Rei",
+        "zipcode": "29307-301"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Parana",
+        "zipcode": "29308-142"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua C",
+        "zipcode": "29309-351"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Mario Reis",
+        "zipcode": "29308-785"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Valao",
+        "street": "Rua Tres",
+        "zipcode": "29309-761"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Alfredo Baptista De Azevedo",
+        "zipcode": "29308-680"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Da Penha",
+        "street": "Rua Amarilho Costa",
+        "zipcode": "29307-392"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Leopoldino Smarzaro",
+        "zipcode": "29310-370"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua General Dutra",
+        "zipcode": "29308-803"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Atilio Vivacqua",
+        "zipcode": "29309-680"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua William Scandar Nemer",
+        "zipcode": "29309-023"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Maria De Araujo Vieira",
+        "zipcode": "29308-590"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua E",
+        "zipcode": "29309-353"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Luis Paulo",
+        "zipcode": "29309-231"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibitiquara",
+        "street": "Rua Wilson Fernandes",
+        "zipcode": "29307-290"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Da Penha",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "29307-390"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Guilherme Eugenio Kley",
+        "zipcode": "29308-805"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Da Penha",
+        "street": "Rua Ovidio Jose De Freitas",
+        "zipcode": "29307-391"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibitiquara",
+        "street": "Ladeira Maria Gertrudes",
+        "zipcode": "29307-330"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Agostinho Simonato",
+        "zipcode": "29311-590"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Joaquim Geraldo De Faria",
+        "zipcode": "29312-253"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Manoel Vieira Machado",
+        "zipcode": "29312-400"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Domingos Lourencini Oliveira",
+        "zipcode": "29312-262"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Eliza Elias Da Silva",
+        "zipcode": "29312-212"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Luiza Barbuth",
+        "zipcode": "29311-030"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Agostinho",
+        "street": "Rua Seis",
+        "zipcode": "29311-261"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Waldir Sebastiao Carreiro",
+        "zipcode": "29312-208"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilson Carone",
+        "street": "Rua Rogelson Machado Nascimento",
+        "zipcode": "29310-505"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Alberto Boreli",
+        "zipcode": "29311-610"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Pedro Calegario",
+        "zipcode": "29311-050"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Marcondes De Souza",
+        "zipcode": "29312-285"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Paulino Vieira Tiradentes",
+        "zipcode": "29312-257"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Tres",
+        "zipcode": "29311-032"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Manoel Manhaes",
+        "zipcode": "29309-530"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Robertino Braga",
+        "zipcode": "29311-190"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Fausto Mercon",
+        "zipcode": "29312-430"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibc",
+        "street": "Rua Vinte E Sete",
+        "zipcode": "29312-111"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Cesar De Brito Portas Filho",
+        "zipcode": "29312-252"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Tres",
+        "zipcode": "29311-262"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibc",
+        "street": "Rua Dezesseis",
+        "zipcode": "29312-031"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Maria Norah",
+        "zipcode": "29312-065"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Godofredo Adverci",
+        "zipcode": "29312-240"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Valdecy Savignon",
+        "zipcode": "29311-081"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Quatro",
+        "zipcode": "29311-031"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Emilia Silva",
+        "zipcode": "29312-320"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Ferreira",
+        "zipcode": "29312-055"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Sebastiao Carreiro",
+        "zipcode": "29312-436"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Joaquim Domingues De Alcantara",
+        "zipcode": "29312-370"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Manoel Belmiro Dos Santos",
+        "zipcode": "29309-234"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Avenida Santa Margarida",
+        "zipcode": "29312-301"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Projetada Ii",
+        "zipcode": "29312-434"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Antonio Cardoso Coelho",
+        "zipcode": "29312-250"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Antonio Ribeiro Sobrinho",
+        "zipcode": "29312-410"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Paulo Ribeiro Da Silva",
+        "zipcode": "29312-275"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Julio Romanelli",
+        "zipcode": "29311-070"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Adhemar De Barros",
+        "zipcode": "29312-251"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jorge Luiz Da Silva",
+        "zipcode": "29312-207"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibc",
+        "street": "Rua Vinte E Seis",
+        "zipcode": "29312-131"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibc",
+        "street": "Rua Felicio Careca",
+        "zipcode": "29312-171"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibc",
+        "street": "Rua Vinte E Cinco",
+        "zipcode": "29312-121"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Joao Firmino Pereira",
+        "zipcode": "29310-430"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Valdemar Stanzani",
+        "zipcode": "29312-261"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Sebastiao Carreiro",
+        "zipcode": "29312-201"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Roque Telles Guimaraes",
+        "zipcode": "29312-120"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Abelardo F Machado",
+        "street": "Rua Maria Dantas De Barros",
+        "zipcode": "29309-256"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Prof. Ana Graca B De Freitas",
+        "zipcode": "29312-170"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibc",
+        "street": "Rua Vinte E Tres",
+        "zipcode": "29312-371"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Escada Projetada",
+        "zipcode": "29312-435"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Adelia Gomes",
+        "zipcode": "29311-561"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Joao Antonio Vasques",
+        "zipcode": "29312-220"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Jose Facunde",
+        "zipcode": "29311-591"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Hilton Medina",
+        "zipcode": "29312-226"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Padre Victor Coelho De Almeida",
+        "zipcode": "29309-233"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Eurico Marchon",
+        "zipcode": "29312-811"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Epaminondas Surrage",
+        "zipcode": "29312-825"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Yunes Depes",
+        "zipcode": "29313-268"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Avenida Jorge Simao",
+        "zipcode": "29313-520"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Eddy Sardenberg Mendes",
+        "zipcode": "29312-821"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Isaac Aguiar",
+        "zipcode": "29312-745"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Wolmar Buzatto",
+        "zipcode": "29312-790"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Antonio Francisco De Barros",
+        "zipcode": "29312-750"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Newton Meirelles",
+        "zipcode": "29312-620"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Maria De Almeida Netto",
+        "zipcode": "29312-730"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Alfredo Pagani",
+        "zipcode": "29313-170"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Joao Carrico De Queiroz",
+        "zipcode": "29312-610"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Ronilson Rodrigues",
+        "zipcode": "29312-295"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Luiz Carreiro",
+        "zipcode": "29313-173"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Baliana",
+        "zipcode": "29312-290"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Raul Nassar",
+        "zipcode": "29313-266"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Dario Cunha",
+        "zipcode": "29312-685"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Fonseca Lima",
+        "zipcode": "29312-571"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Athomir Lucas",
+        "zipcode": "29312-705"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Joaquim Goncalves",
+        "zipcode": "29312-495"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Leontina Sedano Da Costa",
+        "zipcode": "29312-345"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Quatro",
+        "zipcode": "29313-521"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Rua Manoel Pereira Da Silva",
+        "zipcode": "29312-715"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Joao Misse",
+        "zipcode": "29313-169"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Matilde Ahid Assad",
+        "zipcode": "29312-550"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Figueiredo",
+        "zipcode": "29312-480"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Mirella Nolasco Braga",
+        "zipcode": "29312-450"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibc",
+        "street": "Rua Jose Rodrigues",
+        "zipcode": "29313-190"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Vianna De Moraes",
+        "zipcode": "29312-460"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Rua Arlinda Carlos Da Silva",
+        "zipcode": "29312-675"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Elias Aoni Filho",
+        "zipcode": "29312-695"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Vila Santo Antonio",
+        "zipcode": "29313-269"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Delcides Ferreira Carvalho",
+        "zipcode": "29312-660"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Maria Stael De Medeiros Teixeira",
+        "zipcode": "29312-770"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Maria Fortunato Canholato",
+        "zipcode": "29312-315"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jorge Luiz Da Silva",
+        "zipcode": "29312-625"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Alfredo Simoes De Oliveira",
+        "zipcode": "29312-590"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Rua Antonio Cordeiro",
+        "zipcode": "29312-680"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Deolindo Rocha",
+        "zipcode": "29312-731"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Alves Da Silva",
+        "zipcode": "29312-570"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Erenito Resende",
+        "zipcode": "29312-710"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Maria Tereza Brandao",
+        "zipcode": "29313-513"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Valao",
+        "street": "Travessa Antonio Jose De Moraes",
+        "zipcode": "29313-312"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Antonio Roque",
+        "zipcode": "29312-490"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Corintha Gomes Da Silva",
+        "zipcode": "29313-500"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Jose Basilio De Souza",
+        "zipcode": "29312-580"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Miguel Ferreira De Queiroz",
+        "zipcode": "29312-800"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Pacifico Pezzodipani",
+        "zipcode": "29313-165"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "29312-551"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Joaquim Rodrigues Da Silva",
+        "zipcode": "29312-520"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Ruth Almeida Vieira",
+        "zipcode": "29312-360"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Antonio Goncalves Da Cunha",
+        "zipcode": "29312-820"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Antonio Jose Tanure",
+        "zipcode": "29312-530"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Atila De Almeida Miranda",
+        "zipcode": "29313-200"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Nilson Leal",
+        "zipcode": "29314-470"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Decorcino Paterno Vargas",
+        "zipcode": "29313-070"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Abel Cardoso Coelho",
+        "zipcode": "29314-320"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Tome",
+        "zipcode": "29314-280"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Laranjeiras",
+        "street": "Rua Dois",
+        "zipcode": "29314-103"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Hilda Tirello Sechini",
+        "zipcode": "29314-421"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Joao Bosco Fiorio",
+        "zipcode": "29314-107"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "29312-850"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Helena Silverio Roli",
+        "zipcode": "29314-411"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Judas",
+        "zipcode": "29314-230"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Tiago Menor",
+        "zipcode": "29314-260"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Tiago Maior",
+        "zipcode": "29314-270"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Arotildes Maria Da Conceicao",
+        "zipcode": "29314-315"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Joao Luiz Campos Jesus",
+        "zipcode": "29314-350"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Vinte E Dois",
+        "zipcode": "29313-524"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Alameda Prof. Azenath De Moraes Coelho",
+        "zipcode": "29314-360"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Simao",
+        "zipcode": "29314-180"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Nazira Ginaid Felipe",
+        "zipcode": "29312-831"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Jose A Zampiroli",
+        "zipcode": "29313-570"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Izidoro Pessini",
+        "zipcode": "29314-340"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Rua Dez",
+        "zipcode": "29314-102"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Doutor Luiz Tinoco Da Fonseca",
+        "street": "Rua Jose Do Livramento",
+        "zipcode": "29313-191"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Maria Assumpcao Athayde",
+        "zipcode": "29313-600"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Joao Pancini",
+        "zipcode": "29314-450"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Jose Secchim",
+        "zipcode": "29314-460"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Trinta E Tres",
+        "zipcode": "29313-522"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Rua Tres",
+        "zipcode": "29314-122"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Andre",
+        "zipcode": "29314-290"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Ayde De Silveira",
+        "zipcode": "29314-390"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Pedro",
+        "zipcode": "29314-210"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Antonio Moreira Dos Santos",
+        "zipcode": "29314-015"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Rua Oito",
+        "zipcode": "29314-401"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Giovana Menechini",
+        "zipcode": "29314-311"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Matias",
+        "zipcode": "29314-250"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Joao Evangelista",
+        "zipcode": "29314-220"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Bartolomeu",
+        "zipcode": "29314-200"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Avenida Fioravante Cypriano",
+        "zipcode": "29314-410"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Vinte E Quatro",
+        "zipcode": "29313-525"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Uniao",
+        "street": "Avenida Shagrila",
+        "zipcode": "29315-165"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Jose Louzada De Souza",
+        "zipcode": "29313-640"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Santos Francisco Cypriano",
+        "zipcode": "29313-530"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Leopoldino Prates",
+        "zipcode": "29313-172"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Oscar Felipe Chamon",
+        "zipcode": "29313-620"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Alcebiades Jose Sobreira",
+        "zipcode": "29313-090"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Marco Antonio Martins Dos Santos",
+        "zipcode": "29312-845"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Presidente Getulio Vargas",
+        "zipcode": "29314-420"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Doutor Luiz Tinoco Da Fonseca",
+        "street": "Rua Francisco Maria Ferreira",
+        "zipcode": "29313-192"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Nelson Cavachini De Azevedo",
+        "zipcode": "29312-835"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Luiz Carlos Prestes",
+        "zipcode": "29313-540"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Joao Afonso De Miranda",
+        "zipcode": "29314-165"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Avenida Aristoteles Menicucci",
+        "zipcode": "29313-120"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Emilia Lesqueves",
+        "zipcode": "29313-551"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Hilario Mucelini",
+        "zipcode": "29314-430"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Trinta E Seis",
+        "zipcode": "29313-512"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Avenida Dalila Moreira Ferraco",
+        "zipcode": "29313-630"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Anibal Jose De Mello",
+        "zipcode": "29312-830"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Angelo Do Amaral",
+        "zipcode": "29314-380"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Geraldo",
+        "street": "Rua Herculano Santana",
+        "zipcode": "29314-640"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Francisco De Assis",
+        "street": "Rua Santos Passoni",
+        "zipcode": "29317-495"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Boa Vista",
+        "street": "Rua Domingos Ervate Sequine",
+        "zipcode": "29315-640"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Francisco De Assis",
+        "street": "Rua Joaquim Nascimento",
+        "zipcode": "29317-500"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Aloisio Da Silveira",
+        "zipcode": "29314-610"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Uniao",
+        "street": "Rua Ovidio Bertholi",
+        "zipcode": "29315-170"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Uniao",
+        "street": "Rua Otacilio Jose Silveira",
+        "zipcode": "29315-150"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Jose Joao Fiorio",
+        "zipcode": "29314-580"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Francisco De Assis",
+        "street": "Rua Mirta Brugnaro Gioacomelle",
+        "zipcode": "29317-510"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Geraldo",
+        "street": "Rua Jose Passabom",
+        "zipcode": "29314-649"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Uniao",
+        "street": "Rua Aguilar Ferreira Athayde",
+        "zipcode": "29315-240"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Ary Amaral",
+        "zipcode": "29314-620"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Jose Paineiras",
+        "zipcode": "29314-550"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Uniao",
+        "street": "Rua Armando Reis Athaide",
+        "zipcode": "29315-190"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Uniao",
+        "street": "Rodovia Cachoeiro",
+        "zipcode": "29315-200"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Joana Carlete Fiorio",
+        "zipcode": "29314-570"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Sargento Olimpio",
+        "zipcode": "29314-007"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Francisco De Assis",
+        "street": "Rua Santo Cocco",
+        "zipcode": "29315-490"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Gelson Dias Dos Santos",
+        "zipcode": "29314-560"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Jose Callegario",
+        "zipcode": "29314-540"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Jose Barbosa De Sa",
+        "zipcode": "29314-500"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Geraldo",
+        "street": "Escada Jose Quinelato",
+        "zipcode": "29314-644"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Alto Uniao",
+        "street": "Rua Sete",
+        "zipcode": "29315-027"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Alfredo Secco",
+        "zipcode": "29314-530"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Belo",
+        "street": "Rua A",
+        "zipcode": "29315-011"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Geraldo",
+        "street": "Rua Amelia Molinarolli Giro",
+        "zipcode": "29314-645"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Geraldo",
+        "street": "Rua Luiz Boltura",
+        "zipcode": "29314-643"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Alto Uniao",
+        "street": "Rua Quatorze",
+        "zipcode": "29315-024"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Alto Uniao",
+        "street": "Rua Dezesseis",
+        "zipcode": "29315-016"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Avenida Constantino Negrelli",
+        "zipcode": "29314-330"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Amalia Maria Tirello",
+        "zipcode": "29314-370"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Edilio Ribeiro",
+        "zipcode": "29312-029"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Alcebiades Sarmento",
+        "zipcode": "29313-160"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Nossa Senhora Da Penha",
+        "street": "Rua Joaquim Bergamim",
+        "zipcode": "29307-460"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Antonio",
+        "street": "Rua Thome Ferreira De Mattos",
+        "zipcode": "29300-730"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Avenida Casemiro De Abreu",
+        "zipcode": "29312-190"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Aryo Sardemberg",
+        "zipcode": "29312-230"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Aurelio Joao Tofano",
+        "zipcode": "29312-255"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Praça Nilo Moraes Bastos",
+        "zipcode": "29308-085"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santa Helena",
+        "street": "Rua Jose Ribeiro",
+        "zipcode": "29307-150"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Ruth De Almeida Ramos Vieira",
+        "zipcode": "29303-208"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Avenida Rui Pinto Bandeira",
+        "zipcode": "29314-300"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Dom Pedro Ii",
+        "zipcode": "29306-120"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Uniao",
+        "street": "Estrada Da Tijuca",
+        "zipcode": "29315-180"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Cecilia Neves",
+        "zipcode": "29305-280"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Nossa Senhora De Fatima",
+        "zipcode": "29309-170"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Desembargador Ayres Xavier Da Penha",
+        "zipcode": "29303-206"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Nossa Senhora De Fatima",
+        "zipcode": "29300-002"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Felipe",
+        "zipcode": "29314-190"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Avenida Alipio Gomes De Moraes",
+        "zipcode": "29302-550"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Francisco De Assis",
+        "street": "Rua Gustavo Borges De Farias",
+        "zipcode": "29317-505"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Avenida Jeremias Sandoval",
+        "zipcode": "29308-240"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Ponte Nossa Senhora Da Consolacao",
+        "zipcode": "29300-010"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Pedro Pedroza",
+        "zipcode": "29304-780"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Hostilio Borges",
+        "zipcode": "29313-167"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Francisco Cardoso C Junior",
+        "zipcode": "29312-245"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Raimundo Andrade",
+        "zipcode": "29309-590"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Hilda Borges",
+        "zipcode": "29309-510"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Avenida Joao Pereira Dos Santos Filho",
+        "zipcode": "29303-201"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Irma Giovanna Menechini",
+        "zipcode": "29314-310"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Joao Dos Santos Filho",
+        "zipcode": "29304-750"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Rua Valerio Chrisostomo Vargas",
+        "zipcode": "29313-174"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Apostolo Matheus",
+        "zipcode": "29314-240"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Escada Dail Garchagem Saad",
+        "zipcode": "29300-024"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Rua Eugenio Aurelio Brandao Do Vale",
+        "zipcode": "29309-155"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Vicenzo Tedesco",
+        "zipcode": "29312-209"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Maria Das Neves Albuquerque Espindola",
+        "zipcode": "29312-325"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rodovia Parque Rodoviario Itapemerim Grande",
+        "zipcode": "29304-790"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Rua Bernardo Horta",
+        "zipcode": "29300-782"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Papa Joao Paulo I",
+        "zipcode": "29301-405"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Jeronimo Ribeiro",
+        "zipcode": "29304-450"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Samuel Levy",
+        "zipcode": "29308-100"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Gilberto Machado",
+        "zipcode": "29309-310"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Paulo Afonso",
+        "zipcode": "29312-210"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Praça Waldir Furtado Amorim",
+        "zipcode": "29313-267"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Fotografo Guilherme",
+        "zipcode": "29313-550"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rodovia Cachoeiro",
+        "zipcode": "29314-400"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rodovia Ricardo Barbieri",
+        "zipcode": "29314-480"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Elmiro Tirello",
+        "zipcode": "29314-510"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Baiminas",
+        "street": "Rua Clarinda Rodrigues Jordao",
+        "zipcode": "29305-560"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Rui Marcos Facini",
+        "zipcode": "29314-490"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Gercia Ferreira Guimaraes",
+        "zipcode": "29306-690"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Independencia",
+        "street": "Rua Euthimio Dos Anjos",
+        "zipcode": "29306-630"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Escada Agliberto Rodrigues Moreira",
+        "zipcode": "29304-485"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Dr Antonio Cunha",
+        "zipcode": "29304-700"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Pedro Cuevas Junior (Joao Pessoa)",
+        "zipcode": "29300-345"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Francisco Cabral Da Fonseca",
+        "zipcode": "29313-510"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Ruth Vivacqua",
+        "zipcode": "29313-610"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coronel Borges",
+        "street": "Rua Nildo De Athaide Pinheiro",
+        "zipcode": "29306-302"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Jose Garioli Filho",
+        "zipcode": "29300-350"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Coramara",
+        "street": "Rua Trinta E Um",
+        "zipcode": "29313-523"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Waldecy Antonio Savignon",
+        "zipcode": "29311-080"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Novo Parque",
+        "street": "Avenida Jose Rosa Machado",
+        "zipcode": "29309-010"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Bnh",
+        "street": "Avenida Allan Kardec",
+        "zipcode": "29313-220"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Alto Eucalipto",
+        "street": "Rua Joaquim Nascimento",
+        "zipcode": "29307-595"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Jose Farias De Jesus",
+        "zipcode": "29314-440"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Boa Vista",
+        "street": "Rua Maria Ribeiro Da Silva",
+        "zipcode": "29316-040"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Guandu",
+        "street": "Rua Pedro Dias",
+        "zipcode": "29300-802"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Antonio Caetano Goncalves",
+        "zipcode": "29303-470"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Agostinho Madureira",
+        "zipcode": "29303-530"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Francisca Rosa Pereira",
+        "zipcode": "29310-425"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Ruben Rangel",
+        "zipcode": "29301-670"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ibitiquara",
+        "street": "Rua Padre Joaquim Dourado",
+        "zipcode": "29307-144"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Village Da Luz",
+        "street": "Rua Jose Martins Da Costa",
+        "zipcode": "29309-670"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Brahim Antonio Seder",
+        "zipcode": "29300-210"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Coronel Jarbas Athayde Coelho",
+        "zipcode": "29304-801"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Ena Silverio",
+        "zipcode": "29314-590"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Caicara",
+        "street": "Rua Agapito Cola",
+        "zipcode": "29311-650"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Ferroviarios",
+        "street": "Rua Virgilio Jose Alves",
+        "zipcode": "29307-321"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Luiz Satiro Almeida",
+        "zipcode": "29311-352"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Rua Antenor Locatel",
+        "zipcode": "29302-750"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Vila Rica",
+        "street": "Rua Manoel Rocha Soares",
+        "zipcode": "29301-444"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amaral",
+        "street": "Rua Luiz Nemer",
+        "zipcode": "29305-335"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Jose De Souza Fernandes",
+        "zipcode": "29303-630"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Praça Hilda Calazans Dos Santos",
+        "zipcode": "29303-660"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Henrique Kreimer",
+        "zipcode": "29312-600"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Hugo Zago",
+        "zipcode": "29312-815"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Manoel Felipe Sobrinho",
+        "zipcode": "29312-841"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Praça Rotary",
+        "zipcode": "29300-008"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Raul Luiz De Souza",
+        "zipcode": "29312-500"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Trevo",
+        "street": "Rua Alzemira Marques Da Silva",
+        "zipcode": "29312-700"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Alto Uniao",
+        "street": "Rua Vinte E Um",
+        "zipcode": "29315-029"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Sao Geraldo",
+        "street": "Rua Luiz Brandolini",
+        "zipcode": "29314-630"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basileia",
+        "street": "Rua Horacio Leandro",
+        "zipcode": "29302-855"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Quilometro 90",
+        "street": "Rua Frei Antolin Rodrigues",
+        "zipcode": "29301-720"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Antonio Carvalho Sa",
+        "zipcode": "29312-780"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Virgilio Romanelli",
+        "zipcode": "29303-430"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aquidaban",
+        "street": "Rua Nestor Silva",
+        "zipcode": "29308-300"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Projetada F",
+        "zipcode": "29312-432"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Aeroporto",
+        "street": "Rua Ademar Teixeira Dos Santos",
+        "zipcode": "29314-005"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Joao Oliveira Sarandi",
+        "zipcode": "29312-260"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Santo Agostinho",
+        "street": "Rua Tres",
+        "zipcode": "29311-263"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Basilio Pimenta",
+        "street": "Avenida Aristides Campos",
+        "zipcode": "29302-600"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Otton Marins",
+        "street": "Rua Aristoteles Gomes Viana",
+        "zipcode": "29301-760"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Ovidio Gomes",
+        "zipcode": "29312-670"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Eduvaldo Delabella",
+        "zipcode": "29312-440"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Belo",
+        "street": "Rua C",
+        "zipcode": "29315-013"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Paraiso",
+        "street": "Rua Victoria Sartorio Bonadiman",
+        "zipcode": "29304-360"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Waldir Furtado De Amorim",
+        "street": "Rodovia Cachoeiro",
+        "zipcode": "29313-100"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Assumpta Herminia Rizzo",
+        "zipcode": "29312-740"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Uniao",
+        "street": "Praça Jefferson Antonio Volpato",
+        "zipcode": "29315-290"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Alcidio Henrique De Moraes",
+        "zipcode": "29312-445"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Gilberto Machado",
+        "street": "Rua Dinorah De Andrade Machado",
+        "zipcode": "29303-590"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Amarelo",
+        "street": "Rua Jovaci Marcelino Camara",
+        "zipcode": "29304-635"
+    },
+    {
+        "city": "Cachoeiro De Itapemirim",
+        "state": "ES",
+        "district": "Monte Cristo",
+        "street": "Rua Pedro Paulo Luiz Alves",
+        "zipcode": "29312-560"
+    }
+]

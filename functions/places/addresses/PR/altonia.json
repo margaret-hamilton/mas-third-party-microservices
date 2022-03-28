@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Altônia",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Praça Carlos Gomes 87",
+        "zipcode": "87550-970"
+    },
+    {
+        "city": "Altônia",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87550-000"
+    },
+    {
+        "city": "Altônia",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Curitiba",
+        "zipcode": "87552-990"
+    },
+    {
+        "city": "Altônia",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Guaíra",
+        "zipcode": "87553-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Pracinha",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Independência 175",
+        "zipcode": "17790-970"
+    },
+    {
+        "city": "Pracinha",
+        "state": "SP",
+        "district": null,
+        "street": "Rua José Bonifácio",
+        "zipcode": "17790-990"
+    },
+    {
+        "city": "Pracinha",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "17790-000"
+    }
+]

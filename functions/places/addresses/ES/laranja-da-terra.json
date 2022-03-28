@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Laranja da Terra",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Carlos Stabenow 455",
+        "zipcode": "29615-970"
+    },
+    {
+        "city": "Laranja da Terra",
+        "state": "ES",
+        "district": "São Luiz de Miranda",
+        "street": "Estrada ES",
+        "zipcode": "29615-982"
+    },
+    {
+        "city": "Laranja da Terra",
+        "state": "ES",
+        "district": "Vila de Laranja da Terra",
+        "street": "Estrada ES",
+        "zipcode": "29615-984"
+    },
+    {
+        "city": "Laranja da Terra",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Domingos Vieira",
+        "zipcode": "29619-990"
+    },
+    {
+        "city": "Laranja da Terra",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29615-000"
+    },
+    {
+        "city": "Laranja da Terra",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Guilherme Piçarra",
+        "zipcode": "29617-990"
+    }
+]

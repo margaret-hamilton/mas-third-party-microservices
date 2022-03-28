@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Mesquita",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35116-000"
+    },
+    {
+        "city": "Mesquita",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Presidente Getúlio Vargas 155  AC Mesquita",
+        "zipcode": "35116-970"
+    },
+    {
+        "city": "Mesquita",
+        "state": "MG",
+        "district": "Barra Grande",
+        "street": "Rua Tito Anastácio de Oliveira s/n  AGC Barra Grande",
+        "zipcode": "35116-973"
+    },
+    {
+        "city": "Mesquita",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Presidente Getúlio Vargas 155",
+        "zipcode": "35166-970"
+    },
+    {
+        "city": "Mesquita",
+        "state": "MG",
+        "district": "Barra Grande",
+        "street": "Rua Tito Anastácio de Oliveira s/n",
+        "zipcode": "35166-973"
+    },
+    {
+        "city": "Mesquita",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35166-000"
+    }
+]

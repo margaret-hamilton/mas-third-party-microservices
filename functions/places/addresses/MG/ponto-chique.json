@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ponto Chique",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39328-000"
+    },
+    {
+        "city": "Ponto Chique",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua João Ramos 700",
+        "zipcode": "39328-972"
+    },
+    {
+        "city": "Ponto Chique",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Santana s/n",
+        "zipcode": "39328-971"
+    }
+]

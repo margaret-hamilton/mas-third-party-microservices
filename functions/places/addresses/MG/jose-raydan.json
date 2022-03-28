@@ -1,0 +1,23 @@
+[
+    {
+        "city": "José Raydan",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal 411",
+        "zipcode": "39775-971"
+    },
+    {
+        "city": "José Raydan",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39775-000"
+    },
+    {
+        "city": "José Raydan",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Cônego Lafaiete 10",
+        "zipcode": "39775-972"
+    }
+]

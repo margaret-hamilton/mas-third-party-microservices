@@ -1,0 +1,5679 @@
+[
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Bandeiras",
+        "street": "Rua Coelho Neto",
+        "zipcode": "16020-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Hum",
+        "zipcode": "16044-530"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Rua Maris E Barros",
+        "zipcode": "16015-390"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Sao Leopoldo",
+        "zipcode": "16030-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Salgado Filho",
+        "zipcode": "16030-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Jorge Veiga",
+        "zipcode": "16035-590"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Sao Benedito",
+        "zipcode": "16030-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Osvaldo Ribeiro Soares",
+        "zipcode": "16031-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Humaita",
+        "zipcode": "16010-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Jose Falco",
+        "zipcode": "16031-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Morumbi",
+        "street": "Rua Dr Salk",
+        "zipcode": "16020-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua Chile",
+        "zipcode": "16020-420"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Sao Paulo",
+        "street": "Rua Governador Pedro De Toledo",
+        "zipcode": "16015-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Bahia",
+        "zipcode": "16010-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Sergipe",
+        "zipcode": "16010-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Padre Lebret",
+        "zipcode": "16010-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Major Mendonca",
+        "zipcode": "16010-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Higienopolis",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "16010-580"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joao",
+        "street": "Praça Cristovao Colombo",
+        "zipcode": "16010-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua America Do Sul",
+        "zipcode": "16020-540"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Cussy De Almeida Junior",
+        "zipcode": "16015-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua Uruguai",
+        "zipcode": "16020-500"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Rua Amazonas",
+        "zipcode": "16015-175"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Sao Paulo",
+        "street": "Praça Armando Carli",
+        "zipcode": "16015-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joao",
+        "street": "Rua Brasil",
+        "zipcode": "16010-550"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua Paraguai",
+        "zipcode": "16020-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua Benjamin Bruno",
+        "zipcode": "16020-530"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Mato Grosso",
+        "zipcode": "16010-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Brigadeiro Tobias",
+        "zipcode": "16030-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Domingos Mungo",
+        "zipcode": "16030-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua Itapura",
+        "zipcode": "16025-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Sao Paulo",
+        "zipcode": "16010-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Rio De Janeiro",
+        "zipcode": "16010-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Rua Cristiano Olsen",
+        "zipcode": "16015-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Sao Paulo",
+        "street": "Rua Euclides Da Cunha",
+        "zipcode": "16015-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joao",
+        "street": "Praça Cacique Valvim",
+        "zipcode": "16025-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Amador Bueno",
+        "zipcode": "16030-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Estados Unidos",
+        "zipcode": "16030-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Monte Carlo",
+        "street": "Rua Monte Carlo",
+        "zipcode": "16030-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Marques De Abrantes",
+        "zipcode": "16030-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Jose Passarelli",
+        "street": "Rua Jose Candido Ferreira Lobo",
+        "zipcode": "16023-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Verediana Maria De Jesus",
+        "zipcode": "16031-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Jose Saran",
+        "street": "Rua Prof. Jose Raab",
+        "zipcode": "16023-295"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Trevo",
+        "street": "Rodovia Marechal Rondon",
+        "zipcode": "16031-005"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Bandeirante",
+        "street": "Rua Armando Salles De Oliveira",
+        "zipcode": "16010-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Jose Saran",
+        "street": "Rua Celestino Blaya Mendes",
+        "zipcode": "16023-297"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Avenida Ibirapuera",
+        "zipcode": "16030-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Monte Carlo",
+        "street": "Rua Henrique Paupitz",
+        "zipcode": "16030-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Clibas De Almeida Prado",
+        "zipcode": "16030-340"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Rua Joaquim Castilho",
+        "zipcode": "16030-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Tibirica",
+        "zipcode": "16030-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Rosele",
+        "street": "Rua Regina",
+        "zipcode": "16040-420"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Lago Azul",
+        "street": "Rua Luiz Rister",
+        "zipcode": "16022-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Jose Saran",
+        "street": "Rua Verissimo Ferreira Da Costa Filho",
+        "zipcode": "16023-293"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Ipora",
+        "street": "Rua Marco Toquetao",
+        "zipcode": "16021-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Rua Jabaquara",
+        "zipcode": "16030-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Jeronimo De Mello",
+        "zipcode": "16031-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Trevo",
+        "street": "Rua Das Margaridas",
+        "zipcode": "16031-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Beco Sao Jose",
+        "zipcode": "16010-145"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Rua Bahia",
+        "zipcode": "16015-015"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Um",
+        "zipcode": "16031-107"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alto Da Boa Vista",
+        "street": "Avenida Agua Funda",
+        "zipcode": "16031-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua General Manoel Rabello",
+        "zipcode": "16030-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Lago Azul",
+        "street": "Rua Decio Vasconcelos De Alencar",
+        "zipcode": "16022-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Fundador Paulino Gatto",
+        "zipcode": "16031-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua Coelho Neto",
+        "zipcode": "16025-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Cacilda Becker",
+        "zipcode": "16030-330"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Praça Dom Walter Bini",
+        "zipcode": "16030-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Jussara",
+        "street": "Rua America Do Norte",
+        "zipcode": "16021-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Porangaba",
+        "zipcode": "16035-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Carvalho",
+        "street": "Rua Chile",
+        "zipcode": "16025-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Brigadeiro Faria Lima",
+        "zipcode": "16031-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Trevo",
+        "street": "Rua Das Camelias",
+        "zipcode": "16031-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Trevo",
+        "street": "Rua Das Hortencias",
+        "zipcode": "16031-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Montese",
+        "zipcode": "16035-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Praça Emilia Pezica Ruas",
+        "zipcode": "16030-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Rua Luiz Vignoli",
+        "zipcode": "16030-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Oito",
+        "zipcode": "16031-317"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Praça Alvaro Carvalho Santana",
+        "zipcode": "16031-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Praça Angelo Cella",
+        "zipcode": "16035-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Argenor Pimentel Fialho",
+        "zipcode": "16031-207"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Sete",
+        "zipcode": "16031-125"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Avenida Rafael Manarelli",
+        "zipcode": "16031-360"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Geraldo Araujo Bacelar",
+        "zipcode": "16031-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Tres",
+        "zipcode": "16031-355"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Nove",
+        "zipcode": "16031-318"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Fiorigi Bulgarelli",
+        "zipcode": "16031-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Rua Manoel Guimaraes Dias",
+        "zipcode": "16030-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Nair De Lourdes Secolo",
+        "zipcode": "16031-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Rubens Massaroto",
+        "zipcode": "16031-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Canjiro Takebe",
+        "zipcode": "16030-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Trevo",
+        "street": "Rua Das Primaveras",
+        "zipcode": "16031-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Rua Guanabara",
+        "zipcode": "16030-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Pedro Janser",
+        "zipcode": "16030-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Santo Antonio",
+        "zipcode": "16035-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Dezoito",
+        "zipcode": "16031-362"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Rua Jonas Da Mata",
+        "zipcode": "16030-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Rosa Fermino Dos Santos",
+        "zipcode": "16031-185"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Otavio Coelho",
+        "zipcode": "16031-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Ademar De Souza",
+        "zipcode": "16031-105"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Tibirica",
+        "zipcode": "16035-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Renato Da Cunha Nogueira",
+        "zipcode": "16031-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Praça Dr Orlando Ramalho",
+        "zipcode": "16035-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Um",
+        "zipcode": "16031-345"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Sete",
+        "zipcode": "16031-316"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Manoel Antonio Monteiro",
+        "zipcode": "16035-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Travessa Panama",
+        "zipcode": "16035-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Davilson Porfirio De Oliveira",
+        "zipcode": "16031-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Avenida Ibirapuera",
+        "zipcode": "16035-440"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Claudionor Cinti",
+        "zipcode": "16031-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Dezenove",
+        "zipcode": "16031-245"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Cinco",
+        "zipcode": "16031-314"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Abrao Cury",
+        "zipcode": "16035-340"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Pedro Janser",
+        "zipcode": "16035-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Santa Rosalina",
+        "zipcode": "16035-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Domingos Mungo",
+        "zipcode": "16035-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Honduras",
+        "zipcode": "16035-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Quatorze",
+        "zipcode": "16031-213"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Amador Bueno",
+        "zipcode": "16035-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Estados Unidos",
+        "zipcode": "16035-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Sao Gabriel",
+        "zipcode": "16035-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Luiz Nogueira Martins",
+        "zipcode": "16035-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Americo Paulino",
+        "zipcode": "16031-340"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Claudio Fernandes",
+        "zipcode": "16031-195"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Antonio Falcetti",
+        "zipcode": "16031-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Joaquim Nicolau Da Silva",
+        "zipcode": "16031-320"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Milhen Abujamra",
+        "zipcode": "16035-410"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Domingos Pereira Dias",
+        "zipcode": "16031-203"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Praça Vitor Domenico Benez",
+        "zipcode": "16035-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Travessa Ticiano Viol",
+        "zipcode": "16035-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Alfredo Chiantelli",
+        "zipcode": "16031-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Marcelino Stopa",
+        "zipcode": "16031-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Dr Jose Domingos De Almeida",
+        "zipcode": "16035-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Francisco Vieira Leite",
+        "zipcode": "16035-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "16035-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Praça Maria Nunes Dos Santos",
+        "zipcode": "16035-193"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Antonio Panzarini",
+        "zipcode": "16035-730"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Julio Prestes",
+        "zipcode": "16035-490"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Jose Rico Belda",
+        "zipcode": "16035-470"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Almir Rodrigues Bento",
+        "zipcode": "16035-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Bolivia",
+        "zipcode": "16035-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Cacique",
+        "zipcode": "16035-330"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Tv",
+        "street": "Rua Judith Marchareth",
+        "zipcode": "16040-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Brigadeiro Tobias",
+        "zipcode": "16035-380"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Jose Geraldi",
+        "zipcode": "16040-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Jose Bezerra De Lima",
+        "zipcode": "16035-480"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Jose Bezerra De Lima",
+        "zipcode": "16040-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Tv",
+        "street": "Rua Sao Bernardo",
+        "zipcode": "16040-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Tv",
+        "street": "Rua Alberto Conceicao Dos Santos",
+        "zipcode": "16040-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Sao Bento",
+        "zipcode": "16035-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Francisco Cardassi",
+        "zipcode": "16035-390"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Maria Madeu Falco",
+        "zipcode": "16035-500"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Santa Maria",
+        "zipcode": "16040-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Brigadeiro Faria Lima",
+        "zipcode": "16036-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Guadalajara",
+        "zipcode": "16040-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Aristides Silva",
+        "zipcode": "16035-370"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Carmem Miranda",
+        "zipcode": "16040-390"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Avenida Dois De Dezembro",
+        "zipcode": "16040-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Praça Do Expedicionario",
+        "zipcode": "16035-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Praça Joao Flavio De Moraes",
+        "zipcode": "16040-047"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Sao Leopoldo",
+        "zipcode": "16035-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Avenida Waldemar Alves",
+        "zipcode": "16040-005"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Sao Carlos",
+        "zipcode": "16040-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Rosele",
+        "street": "Rua General Jair Dantas Ribeiro",
+        "zipcode": "16040-440"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Emilia Santos",
+        "zipcode": "16035-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Dr Alvaro Afonso Do Nascimento",
+        "zipcode": "16035-530"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Rubem Berta",
+        "zipcode": "16040-360"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Travessa Norolar",
+        "zipcode": "16040-035"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Praça Henry Ford",
+        "zipcode": "16040-350"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Iguacu",
+        "zipcode": "16035-710"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Henrique Paupitz",
+        "zipcode": "16035-630"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Jose Cazerta",
+        "zipcode": "16040-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Celestino Dos Santos Esgalha",
+        "zipcode": "16040-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Sao Bernardo",
+        "zipcode": "16035-510"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Joao Laluce",
+        "zipcode": "16035-700"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Praça Jose Meca Dias",
+        "zipcode": "16040-225"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Marcilio Dias",
+        "zipcode": "16040-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Wandenkolk",
+        "zipcode": "16040-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Moema",
+        "street": "Rua Moema",
+        "zipcode": "16036-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Praça Allan Kardec",
+        "zipcode": "16040-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Ari Barroso",
+        "zipcode": "16035-650"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Clibas De Almeida Prado",
+        "zipcode": "16035-750"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Praça Octaciano Viana",
+        "zipcode": "16040-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Tv",
+        "street": "Praça Carlos Soares De Castro",
+        "zipcode": "16040-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Francisco Alves",
+        "zipcode": "16040-340"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Julio Monteagudo Pinheiro",
+        "zipcode": "16035-680"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Presidente Tancredo Neves",
+        "zipcode": "16040-380"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Anisio Luiz Marques",
+        "zipcode": "16035-690"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Orlando Silva",
+        "zipcode": "16035-540"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Procopio Ferreira",
+        "zipcode": "16035-580"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Canjiro Takebe",
+        "zipcode": "16035-640"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Tv",
+        "street": "Avenida Marucci",
+        "zipcode": "16040-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Prof. Rubens Rego Fontao",
+        "zipcode": "16040-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Sao Sebastiao",
+        "zipcode": "16040-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Pedro Grassi",
+        "zipcode": "16040-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Costa Rica",
+        "zipcode": "16040-450"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Ugolino Dall Oca",
+        "zipcode": "16040-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Domingos Boregio",
+        "zipcode": "16035-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Vereador Aldo Campos",
+        "zipcode": "16040-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Cacilda Becker",
+        "zipcode": "16035-670"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Engenheiro Francisco Monlevade",
+        "zipcode": "16040-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Avenida Silvestre Augusto Do Nascimento",
+        "zipcode": "16035-740"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Taiji Ohara",
+        "zipcode": "16035-570"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Noel Rosa",
+        "zipcode": "16040-330"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Praça Joao Trivelato",
+        "zipcode": "16040-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua A",
+        "zipcode": "16040-690"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Jose Franca",
+        "zipcode": "16040-630"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Pixinguinha",
+        "zipcode": "16040-480"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Erlon Chaves",
+        "zipcode": "16040-460"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Agostinho Dos Santos",
+        "zipcode": "16040-470"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Travessa Prefeito Claudemiro Walsh Costa",
+        "zipcode": "16041-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Evaldo Braga",
+        "zipcode": "16040-540"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Maria De Souza E Silva",
+        "zipcode": "16040-590"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Rosele",
+        "street": "Rua Clibas De Almeida Prado",
+        "zipcode": "16040-400"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Maria Maura Rasteiro",
+        "zipcode": "16040-650"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Manoel De Nobrega",
+        "zipcode": "16040-500"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Carolina Gomes Trevisan",
+        "zipcode": "16040-580"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Vicente Correa Da Silva",
+        "zipcode": "16040-660"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Jose Barbos Dos Santos",
+        "zipcode": "16040-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Prof. Maria De Freitas Souza",
+        "zipcode": "16040-680"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Sergio Cardoso",
+        "zipcode": "16040-510"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Beco Da Fonte",
+        "zipcode": "16040-495"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Dois",
+        "zipcode": "16044-540"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Fermino Marques De Brito",
+        "zipcode": "16044-500"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Doze",
+        "zipcode": "16044-730"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Engenheiro Francisco Monlevade",
+        "zipcode": "16041-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Rosele",
+        "street": "Beco Asa Branca",
+        "zipcode": "16040-375"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial Ii",
+        "street": "Rua Brigadeiro Faria Lima",
+        "zipcode": "16044-600"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Paraiso",
+        "street": "Travessa Santo Amaro",
+        "zipcode": "16041-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Petit Trianon",
+        "street": "Rua Agenor Zanoni",
+        "zipcode": "16044-495"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Dezesseis",
+        "zipcode": "16044-670"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Olavo Pereira",
+        "zipcode": "16040-620"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Um",
+        "zipcode": "16044-183"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Treze",
+        "zipcode": "16044-690"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Paraiso",
+        "street": "Rua Santa Cecilia",
+        "zipcode": "16041-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Fernando Fatori",
+        "zipcode": "16041-051"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Felicidade Maria Dos Santos",
+        "zipcode": "16040-570"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Bandeirantes",
+        "street": "Travessa Sao Geraldo",
+        "zipcode": "16041-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Estrada Municipal",
+        "zipcode": "16044-570"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Jose Feliciano Pereira",
+        "zipcode": "16044-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Paraiso",
+        "street": "Travessa Sao Manoel",
+        "zipcode": "16041-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Bandeirantes",
+        "street": "Travessa Sao Vitor",
+        "zipcode": "16041-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Avenida Waldemar Alves",
+        "zipcode": "16041-005"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Jacob Floriano",
+        "zipcode": "16040-670"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Onze",
+        "zipcode": "16044-710"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Nove",
+        "zipcode": "16044-660"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Leila Diniz",
+        "zipcode": "16040-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Olavo Dornellas",
+        "zipcode": "16044-765"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Paraiso",
+        "street": "Travessa Santana",
+        "zipcode": "16041-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Bandeirantes",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "16041-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Agnelo Rodrigues Fernandes",
+        "zipcode": "16040-555"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Pedro Storti",
+        "zipcode": "16041-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Bandeirantes",
+        "street": "Travessa Santa Gertrudes",
+        "zipcode": "16041-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Seis",
+        "zipcode": "16040-615"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Sossego",
+        "street": "Rodovia Caran Rezek",
+        "zipcode": "16041-035"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Alexandre Biagi",
+        "zipcode": "16041-053"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Quatro",
+        "zipcode": "16044-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Oito",
+        "zipcode": "16044-313"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Dez",
+        "zipcode": "16044-680"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Um",
+        "zipcode": "16044-750"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Boa Vista",
+        "street": "Avenida Prestes Maia",
+        "zipcode": "16045-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Tres",
+        "zipcode": "16044-187"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua Danilo Mitidiero",
+        "zipcode": "16044-640"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Dona Amelia",
+        "street": "Rua Pedro Theodoro Bibiano",
+        "zipcode": "16045-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Oito",
+        "zipcode": "16044-757"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Nove",
+        "zipcode": "16044-315"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Edson Yokoo",
+        "zipcode": "16044-213"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Bandeirantes",
+        "street": "Travessa Santo Onofre",
+        "zipcode": "16041-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua C",
+        "zipcode": "16044-430"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Sossego",
+        "street": "Travessa Do Sossego",
+        "zipcode": "16041-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Quatro",
+        "zipcode": "16044-303"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Jose Herculano De A. Ordine",
+        "zipcode": "16044-490"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Afonso Celso",
+        "zipcode": "16045-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Avenida Alexandre Biagi",
+        "zipcode": "16044-620"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Boa Vista",
+        "street": "Rua Julio Cesar Ribeiro",
+        "zipcode": "16045-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Yampei Kikuchi",
+        "zipcode": "16045-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Afranio Francisco Riul",
+        "zipcode": "16044-185"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Perimetral Um",
+        "zipcode": "16044-420"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Seis",
+        "zipcode": "16044-590"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua F",
+        "zipcode": "16044-460"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Sossego",
+        "street": "Travessa Santa Cruz",
+        "zipcode": "16041-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Boa Vista",
+        "street": "Rua Vital Brasil",
+        "zipcode": "16045-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Paraiso",
+        "street": "Rua Barao Do Triunfo",
+        "zipcode": "16045-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Dona Amelia",
+        "street": "Travessa Itamarati",
+        "zipcode": "16045-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Antonio Corbucci",
+        "zipcode": "16045-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Paraiso",
+        "street": "Rua Wandenkolk",
+        "zipcode": "16045-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Antonio Joaquim Dos Santos",
+        "zipcode": "16045-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Residencial Aeroporto",
+        "street": "Rua Antonio Landre",
+        "zipcode": "16046-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Humberto Bergamaschi",
+        "zipcode": "16045-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua E",
+        "zipcode": "16044-450"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Petit Trianon",
+        "street": "Rua Felix Candido De Freitas",
+        "zipcode": "16044-487"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Petit Trianon",
+        "street": "Via Etelvino Pereira Dos Santos",
+        "zipcode": "16044-400"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua G",
+        "zipcode": "16044-470"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Sete",
+        "zipcode": "16044-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Guia Lopes",
+        "zipcode": "16045-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Praça Pio Xi",
+        "zipcode": "16045-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Jose De Castro Alves",
+        "zipcode": "16045-340"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Acesso Sebastiao De Oliveira Mello",
+        "zipcode": "16044-215"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Avenida Waldemar Alves",
+        "zipcode": "16045-005"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Manoel De Souza",
+        "zipcode": "16044-195"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Santo Giamusso",
+        "zipcode": "16045-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Paraiso",
+        "street": "Rua Santo Antonio Maria Claret",
+        "zipcode": "16045-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Antonio Pires Do Rio",
+        "zipcode": "16045-330"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Jorge Quintiliano",
+        "zipcode": "16045-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Paraiso",
+        "street": "Praça Joao Xxiii",
+        "zipcode": "16045-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Francisco Coqueiro",
+        "zipcode": "16044-197"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Julio Cerato",
+        "zipcode": "16044-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Boa Vista",
+        "street": "Rua Aloisio De Azevedo",
+        "zipcode": "16045-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Rodovia Eliezer Montenegro Magalhaes",
+        "zipcode": "16044-410"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Sao Fidelis",
+        "zipcode": "16045-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Engenheiro Francisco Monlevade",
+        "zipcode": "16045-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Paraiso",
+        "street": "Rua Paraiso",
+        "zipcode": "16045-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Oito",
+        "zipcode": "16044-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Petit Trianon",
+        "street": "Rua Carmino Barbosa De Almeida",
+        "zipcode": "16044-485"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Tres",
+        "zipcode": "16044-323"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Ademar Rodrigues Aguiar",
+        "zipcode": "16046-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Waldomiro Novaes Dos Santos",
+        "zipcode": "16045-370"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Pastor Henrique Correa",
+        "zipcode": "16046-660"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Jose Colaferro",
+        "zipcode": "16046-780"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Orlando De Luca",
+        "zipcode": "16046-690"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Presidente Costa E Silva",
+        "zipcode": "16046-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Angelo Capelo",
+        "zipcode": "16046-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Joao Antonio Vasconcelos",
+        "zipcode": "16045-320"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Residencial Aeroporto",
+        "street": "Rua Prof. Zeferino Vaz",
+        "zipcode": "16046-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Para",
+        "zipcode": "16060-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Jardim Brasil",
+        "zipcode": "16050-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Ascencao Dias Vasconcelos",
+        "zipcode": "16046-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Praça Da Amizade",
+        "zipcode": "16045-390"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Via Etelvino Pereira Dos Santos",
+        "zipcode": "16046-800"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Antonio Dos Santos Ribeiro",
+        "zipcode": "16046-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Ipanema",
+        "street": "Avenida Prestes Maia",
+        "zipcode": "16046-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Danti De Conti",
+        "zipcode": "16046-590"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Radialista Jose Dias",
+        "zipcode": "16046-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Paraiso",
+        "street": "Rua Saldanha Marinho",
+        "zipcode": "16045-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Jose Nery",
+        "zipcode": "16046-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Joaquim De Almeida",
+        "zipcode": "16045-380"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Bertolino Cunha",
+        "zipcode": "16045-350"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Amazonas",
+        "zipcode": "16060-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Joao Pucci",
+        "zipcode": "16046-540"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Nevio Camargo",
+        "zipcode": "16046-530"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Adolfo Finuch",
+        "zipcode": "16046-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Contabilista Antonio De Souza Lima",
+        "zipcode": "16046-580"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Dona Amelia",
+        "street": "Avenida Dois De Dezembro",
+        "zipcode": "16050-570"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Pablo Neruda",
+        "zipcode": "16046-600"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Tabajaras",
+        "zipcode": "16060-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Engenheiro Francisco Monlevade",
+        "zipcode": "16050-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Manoel De Souza Bonfim",
+        "zipcode": "16046-700"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Alziro Deletezze",
+        "zipcode": "16046-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Ilmer Borghi",
+        "zipcode": "16046-670"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Rua Cristiano Olsen",
+        "zipcode": "16060-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Coronel Celso Guilherme De Souza",
+        "zipcode": "16045-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Residencial Aeroporto",
+        "street": "Rua Celestino Dos Santos Esgalha",
+        "zipcode": "16046-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Paraiso",
+        "street": "Rua Andre Risolia",
+        "zipcode": "16050-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Praça Ernesto Pedro Paro",
+        "zipcode": "16046-734"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Anor Costa",
+        "zipcode": "16046-550"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Jose Da Cruz Pimentel",
+        "zipcode": "16046-640"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Paulo Roberto Ferreira",
+        "zipcode": "16046-740"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Francisco Jorge Guimaraes",
+        "zipcode": "16046-620"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Dr Manoel Francisco Pedroso Filho",
+        "zipcode": "16046-680"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Residencial Aeroporto",
+        "street": "Rua Dr Antonio Cajado De Lemos",
+        "zipcode": "16046-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Residencial Aeroporto",
+        "street": "Rua Presidente Joao Goulart",
+        "zipcode": "16046-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Cleo De Lourdes Santos",
+        "zipcode": "16046-770"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Paraiso",
+        "street": "Praça Geremias Lunardelli",
+        "zipcode": "16050-450"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Guilherme Marques Prazeres",
+        "zipcode": "16046-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Rua Bahia",
+        "zipcode": "16060-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Lindolpho Freitas",
+        "zipcode": "16046-760"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Amacio Mazaropi",
+        "zipcode": "16046-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Newton Prado",
+        "zipcode": "16055-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Dirceu Pereira Dos Santos",
+        "zipcode": "16046-790"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Castro Alves",
+        "zipcode": "16055-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Silva Manoel",
+        "zipcode": "16055-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Praça Da Paz",
+        "zipcode": "16046-505"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Emilio Bidoia",
+        "zipcode": "16046-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Santa Luzia",
+        "zipcode": "16060-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Jose Zucon",
+        "zipcode": "16050-595"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Vereador Silva Grota",
+        "zipcode": "16055-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Borba Gato",
+        "zipcode": "16055-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Dr Luiz De Almeida",
+        "zipcode": "16055-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Benedita Fernandes",
+        "zipcode": "16055-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "16060-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Travessa Uniao",
+        "zipcode": "16060-225"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Joao Gonzales Munhoz",
+        "zipcode": "16060-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Marlene Magalhaes Do Nascimento",
+        "zipcode": "16062-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Eugenio Anastacio",
+        "zipcode": "16062-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Rua Guararapes",
+        "zipcode": "16060-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Nucleo Nossa Senhora Aparecida",
+        "street": "Travessa Turiuba",
+        "zipcode": "16056-555"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Paraiso",
+        "street": "Rua Junqueira Freire",
+        "zipcode": "16050-550"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Antonio Gomes Do Amaral",
+        "zipcode": "16055-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Nucleo Nossa Senhora Aparecida",
+        "street": "Rua Sud Menuci",
+        "zipcode": "16056-590"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Cicero Tomaz Matheus",
+        "zipcode": "16062-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Rua Lavinia",
+        "zipcode": "16060-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Acre",
+        "zipcode": "16060-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Rua Mirandopolis",
+        "zipcode": "16060-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Antonio De Freitas Menezes",
+        "zipcode": "16055-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Praça Diogo Junior",
+        "zipcode": "16055-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Pedro Alvares Cabral",
+        "zipcode": "16050-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Nucleo Nossa Senhora Aparecida",
+        "street": "Rua Promissao",
+        "zipcode": "16056-509"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Argemiro Batista Ramos",
+        "zipcode": "16062-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Rua Rubiacea",
+        "zipcode": "16060-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Praça Sao Benedito",
+        "zipcode": "16055-235"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Aviacao",
+        "street": "Rua Tenente Alcides Theodoro Dos Santos",
+        "zipcode": "16055-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Aviacao",
+        "street": "Rua Capitao Alberto Mendes Junior",
+        "zipcode": "16055-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Do Fico",
+        "zipcode": "16055-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Antonio Pagan",
+        "street": "Rua Onze",
+        "zipcode": "16056-595"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Doze De Outubro",
+        "zipcode": "16055-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Conselheiro Oscar Rodrigues Alves",
+        "zipcode": "16060-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Dona Ida",
+        "zipcode": "16055-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Dos Fundadores",
+        "zipcode": "16062-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Livre",
+        "zipcode": "16055-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Bastos Cordeiro",
+        "zipcode": "16055-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Anselmo Manarelli",
+        "zipcode": "16055-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Nucleo Nossa Senhora Aparecida",
+        "street": "Rua Clementina",
+        "zipcode": "16056-507"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Aviacao",
+        "street": "Praça Irma Romea Marcuz",
+        "zipcode": "16055-255"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Aviacao",
+        "zipcode": "16055-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Praça Waldir Lourenco",
+        "zipcode": "16060-164"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Visconde De Taunay",
+        "zipcode": "16055-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Goulart",
+        "zipcode": "16060-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Tiradentes",
+        "zipcode": "16060-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Monterrey",
+        "street": "Rua Jovito Teixeira",
+        "zipcode": "16056-640"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Joaquim Murtinho",
+        "zipcode": "16055-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Paes Leme",
+        "zipcode": "16055-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Nucleo Nossa Senhora Aparecida",
+        "street": "Rua Piacatu",
+        "zipcode": "16056-505"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Manoel Bento Da Cruz",
+        "zipcode": "16055-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Aviacao",
+        "street": "Avenida Dr Alcides Fagundes Chagas",
+        "zipcode": "16055-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Barao De Campinas",
+        "zipcode": "16060-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Matheus Corazza",
+        "zipcode": "16062-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Cesario Mota",
+        "zipcode": "16055-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Thomaz Bomba",
+        "zipcode": "16062-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Avenida Aureliano Valadao Furquim",
+        "zipcode": "16060-135"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Barao De Piracicaba",
+        "zipcode": "16060-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Afonso Pena",
+        "zipcode": "16060-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Aviacao",
+        "street": "Rua Aviacao",
+        "zipcode": "16056-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial Ii",
+        "street": "Rua Dos Buritis",
+        "zipcode": "16062-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Jose Filadelfo Machado Filho",
+        "zipcode": "16062-380"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Vicente De Carvalho",
+        "zipcode": "16063-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Alvaro Giordano",
+        "zipcode": "16062-370"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Investigador Nelson Frare",
+        "zipcode": "16062-420"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Terezinha De Nadai",
+        "zipcode": "16062-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Parana",
+        "zipcode": "16060-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Humberto De Campos",
+        "zipcode": "16062-523"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Dr Pericles Pimentel Salgado",
+        "zipcode": "16063-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Mario Bressan",
+        "zipcode": "16062-430"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Sargento Antonio Alves",
+        "zipcode": "16062-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Dr Keisaburo Fujihara",
+        "zipcode": "16062-390"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Geraldo Alves Ferreira",
+        "zipcode": "16062-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Sarg. Policia Mil. Gilberto Batista De Souza",
+        "zipcode": "16062-525"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Franklin Leal",
+        "zipcode": "16063-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Ind. Maria Isabel Pizza De Al. Prado",
+        "street": "Rua A",
+        "zipcode": "16062-145"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Rodolfo Miranda",
+        "zipcode": "16063-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Silvio Jose Venturolli",
+        "zipcode": "16063-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Manoel Carvalho Santana",
+        "zipcode": "16063-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Avenida Umuarama",
+        "zipcode": "16063-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Antonio Romano",
+        "zipcode": "16062-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Eleno De Souza",
+        "zipcode": "16062-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Gilberto Trivelato",
+        "zipcode": "16063-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Valentim Rodrigues",
+        "zipcode": "16062-535"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Travessa Benedita Bueno De Godoy",
+        "zipcode": "16062-320"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Elpidio Benedetti",
+        "zipcode": "16062-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Aureliano Valadao Furquim",
+        "zipcode": "16063-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Norberto Pagan",
+        "zipcode": "16062-360"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Benedito Mariano",
+        "zipcode": "16062-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Antonio Lucindo Filho",
+        "zipcode": "16062-527"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Dr Angelo Brivio",
+        "zipcode": "16063-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Dr Jose Coelho Junior",
+        "zipcode": "16063-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Joaquim Florentino Da Silva",
+        "zipcode": "16062-540"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Manoel Marques De Souza",
+        "zipcode": "16062-550"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Luiz Pedro Rosseto",
+        "zipcode": "16062-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua F",
+        "zipcode": "16062-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Dr Joaquim Geraldo Correa",
+        "zipcode": "16063-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Luiz Echelon Ortiz",
+        "zipcode": "16062-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Maria Gadioli Fardin",
+        "zipcode": "16062-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Rodolfo Miranda",
+        "zipcode": "16062-507"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Filadelfo Machado Filho",
+        "zipcode": "16062-410"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Joaquim Candido",
+        "zipcode": "16062-515"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Felipe Benante",
+        "zipcode": "16062-565"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Nair Lima Lopes",
+        "zipcode": "16062-505"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Renato Prado",
+        "zipcode": "16063-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Kameo Ussui",
+        "zipcode": "16062-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Armando Vitro",
+        "zipcode": "16062-340"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Silvio Favarim",
+        "zipcode": "16062-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Victor Bombonatti",
+        "zipcode": "16062-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Minami Ugino",
+        "zipcode": "16062-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Vitalino Machado",
+        "zipcode": "16062-510"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Iolanda Dantas Motta",
+        "zipcode": "16062-575"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Joaquim Candido",
+        "zipcode": "16063-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Gaudencio Baptista De Almeida",
+        "zipcode": "16062-545"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Fortunata Belisario Spessoto",
+        "zipcode": "16062-350"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Travessa Jose Decio Castanheira",
+        "zipcode": "16062-547"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Vereador Ruy Berriel Campos",
+        "zipcode": "16062-440"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Duque De Caxias",
+        "zipcode": "16065-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Ricieri Punhalli",
+        "zipcode": "16065-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Praça Lino Sversut",
+        "zipcode": "16065-713"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Panorama",
+        "street": "Rua Cairbar Schutel",
+        "zipcode": "16063-790"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Joao Lacal",
+        "zipcode": "16065-720"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Geraldo Sampaio",
+        "zipcode": "16065-680"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Clovis Bevilaqua",
+        "zipcode": "16063-730"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Travessa Laura Candida Couto Moraes",
+        "zipcode": "16065-550"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Praça Rotary Club",
+        "zipcode": "16065-483"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Praça Joao Risolia",
+        "zipcode": "16063-685"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Rio Grande Do Norte",
+        "zipcode": "16065-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua David Moraes",
+        "zipcode": "16065-750"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Avenida Odorindo Perenha",
+        "zipcode": "16063-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Dr Antonio Prudente",
+        "zipcode": "16065-650"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Sebastiao Guimaraes Correa",
+        "zipcode": "16063-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Pedro Walter Ramos",
+        "zipcode": "16065-760"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Natal",
+        "zipcode": "16065-730"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Caigangs",
+        "zipcode": "16065-670"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Zeinedine Younes Zaher",
+        "zipcode": "16065-540"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Uruguaiana",
+        "zipcode": "16063-770"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Homero Giron",
+        "zipcode": "16065-710"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Epitacio Pessoa",
+        "zipcode": "16065-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Jose Guimaraes Marques De Oliveira",
+        "zipcode": "16065-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Panorama",
+        "street": "Rua Itarare",
+        "zipcode": "16063-720"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Panorama",
+        "street": "Rua Gaspar De Lemos",
+        "zipcode": "16063-800"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Pedro Americo",
+        "zipcode": "16065-620"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Travessa Xavantes",
+        "zipcode": "16065-450"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Baguacu",
+        "zipcode": "16063-700"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Mem De Sa",
+        "zipcode": "16065-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Pedro Corazza",
+        "zipcode": "16065-660"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Vicente De Carvalho",
+        "zipcode": "16062-530"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Alvaro Fonseca",
+        "zipcode": "16063-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Jose Dionisio",
+        "zipcode": "16065-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Campus Universitario",
+        "street": "Rodovia Marechal Rondon",
+        "zipcode": "16065-800"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Quintino Bocaiuva",
+        "zipcode": "16065-600"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Estacio De Sa",
+        "zipcode": "16065-055"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Panorama",
+        "zipcode": "16063-680"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua N",
+        "zipcode": "16065-505"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Sebastiao De Carvalho",
+        "zipcode": "16062-570"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Fabriciano Juncal",
+        "zipcode": "16065-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Dirceu Goncalves Dos Santos",
+        "zipcode": "16063-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Miguel Sanches Filho",
+        "zipcode": "16063-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Praça Charles Miller",
+        "zipcode": "16063-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Jordano Gottardi",
+        "zipcode": "16065-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Aristides Rocha",
+        "zipcode": "16065-570"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Eca De Queiroz",
+        "zipcode": "16063-690"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Dr Aristides Troncoso Peres",
+        "zipcode": "16063-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Prof. Jorge Correa",
+        "zipcode": "16065-480"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Alvorada",
+        "zipcode": "16066-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Paul Harris",
+        "zipcode": "16065-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Avenida Brasilia",
+        "zipcode": "16065-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Ipiranga",
+        "zipcode": "16065-630"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Republica",
+        "zipcode": "16065-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Panorama",
+        "street": "Rua Santa Izabel",
+        "zipcode": "16063-740"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Sao Caetano",
+        "zipcode": "16063-780"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua D",
+        "zipcode": "16065-510"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Anze Molize",
+        "zipcode": "16063-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua F",
+        "zipcode": "16065-485"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Rio Grande Do Sul",
+        "zipcode": "16065-015"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Dr Francisco Aguiar Ribeiro",
+        "zipcode": "16065-470"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Tropical",
+        "street": "Rua Um",
+        "zipcode": "16077-107"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Tobias Barreto",
+        "zipcode": "16066-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Eca De Queiroz",
+        "zipcode": "16066-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Martin Luther King",
+        "zipcode": "16065-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Marisa",
+        "street": "Rua Ramiro Penna Ramos",
+        "zipcode": "16065-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Edgar Jardim Bastos",
+        "zipcode": "16065-410"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Praça Das Criancas",
+        "zipcode": "16065-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Compadre Joao Bertani",
+        "zipcode": "16065-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Jose Do Patrocinio",
+        "zipcode": "16065-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Conselheiro Crispiniano",
+        "zipcode": "16066-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Marisa",
+        "street": "Rua Elias Baracat",
+        "zipcode": "16065-340"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Paula Souza",
+        "zipcode": "16066-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Oito De Dezembro",
+        "zipcode": "16065-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Catanduva",
+        "zipcode": "16065-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Joaquim Fernandes",
+        "zipcode": "16065-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Florencio De Abreu",
+        "zipcode": "16066-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Travessa Agnaldo Ferraz",
+        "zipcode": "16066-215"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Noroeste",
+        "zipcode": "16066-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Travessa Guatambu",
+        "zipcode": "16066-280"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Monteiro",
+        "street": "Rua Sete",
+        "zipcode": "16077-213"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Frederico Grandisoli",
+        "zipcode": "16065-700"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Praça Santo Agostinho",
+        "zipcode": "16065-490"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Duarte Da Costa",
+        "zipcode": "16065-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Monteiro",
+        "street": "Rua Nove",
+        "zipcode": "16077-217"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Maestro Zico Seabra",
+        "zipcode": "16065-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Travessa Guaicara",
+        "zipcode": "16066-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Orlando Ribeiro Mazzei",
+        "zipcode": "16065-430"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Pio Xii",
+        "zipcode": "16066-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Ramos De Azevedo",
+        "zipcode": "16066-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Monteiro",
+        "street": "Rua Tres",
+        "zipcode": "16077-205"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Tropical",
+        "street": "Rua Quatro",
+        "zipcode": "16077-115"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Uruguaiana",
+        "zipcode": "16066-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Marisa",
+        "street": "Rua Pedro Ferrari",
+        "zipcode": "16065-320"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Travessa Santa Catarina",
+        "zipcode": "16065-590"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Candido Portinari",
+        "zipcode": "16065-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Tropical",
+        "street": "Rua Tres",
+        "zipcode": "16077-113"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Graca Aranha",
+        "zipcode": "16065-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Raposo Tavares",
+        "zipcode": "16065-400"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Travessa A",
+        "zipcode": "16066-137"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Travessa Marques De Itu",
+        "zipcode": "16066-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Anhanguera",
+        "zipcode": "16065-390"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Monteiro",
+        "street": "Rua Seis",
+        "zipcode": "16077-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Avenida Paulista",
+        "zipcode": "16065-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Senador Assis Chateaubriand",
+        "zipcode": "16065-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Xavier De Toledo",
+        "zipcode": "16066-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial Iii",
+        "street": "Rua Francisco Vilela",
+        "zipcode": "16063-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Avenida Waldir Felizola De Moraes",
+        "zipcode": "16015-185"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Praça Nametala Rezek",
+        "zipcode": "16035-400"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Quinze",
+        "zipcode": "16044-740"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Rua Alphio Marchetti",
+        "zipcode": "16030-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Luiz Toquetao",
+        "zipcode": "16031-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Duque Estrada",
+        "zipcode": "16045-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Almir Rodrigues Bento",
+        "zipcode": "16030-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Benedito Lopes Soares",
+        "zipcode": "16046-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Tres",
+        "zipcode": "16044-763"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Augusto Keller",
+        "zipcode": "16045-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Praça Sete De Setembro",
+        "zipcode": "16035-450"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Paraiso",
+        "street": "Rua Vereador Aldo Campos",
+        "zipcode": "16045-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Clarimundo De Melo",
+        "zipcode": "16030-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Praça Dr Jaime De Oliveira",
+        "zipcode": "16010-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Moema",
+        "street": "Rodovia Eliezer Montenegro Magalhaes",
+        "zipcode": "16036-005"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Mendonca",
+        "street": "Rua Vereador Silva Grota",
+        "zipcode": "16010-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Prof. Joao Evangelista Da Costa",
+        "zipcode": "16040-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Antonio De Godoy",
+        "zipcode": "16040-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rodovia Eliezer Montenegro Magalhaes",
+        "zipcode": "16031-115"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua Anhanguera",
+        "zipcode": "16020-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Eurico Rosa Junior",
+        "zipcode": "16031-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Ari Barroso",
+        "zipcode": "16030-310"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Jose Rico Belda",
+        "zipcode": "16040-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Clovis Valentin Picolotto",
+        "street": "Rua Vitalino Correia Dos Santos",
+        "zipcode": "16022-340"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Petit Trianon",
+        "street": "Rua Mauro Cesar Santana",
+        "zipcode": "16044-493"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joao",
+        "street": "Rua Conde Francisco Matarazzo",
+        "zipcode": "16010-570"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Oito",
+        "zipcode": "16044-650"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Trevo",
+        "street": "Rua Do Trevo",
+        "zipcode": "16031-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Marcilio Dias",
+        "zipcode": "16045-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Rua Stelio Machado Loureiro",
+        "zipcode": "16020-510"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Aprigio Cardoso",
+        "zipcode": "16046-230"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Quatorze",
+        "zipcode": "16044-720"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Ziembinski",
+        "zipcode": "16040-530"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Pedro Martinez Marin",
+        "zipcode": "16045-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Americo Brasiliense",
+        "zipcode": "16030-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Emilia Santos",
+        "zipcode": "16040-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Cinco",
+        "zipcode": "16044-580"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Boa Vista",
+        "street": "Rua Tome De Souza",
+        "zipcode": "16045-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Antonio Pagan",
+        "zipcode": "16030-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Saudade",
+        "street": "Avenida Cafe Filho",
+        "zipcode": "16020-550"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Cassiano Soares",
+        "zipcode": "16035-550"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joao",
+        "street": "Praça Sao Joao",
+        "zipcode": "16025-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Joao Soares Gomes",
+        "zipcode": "16031-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Dr Areobaldo Lima",
+        "zipcode": "16046-510"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Trevo",
+        "street": "Rua Dos Jasmins",
+        "zipcode": "16031-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Humberto Bergamaschi",
+        "zipcode": "16040-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Da Amizade",
+        "street": "Rua Antonio Bonilha Filho",
+        "zipcode": "16045-360"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Catulo Da Paixao Cearense",
+        "zipcode": "16035-320"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Izamar",
+        "zipcode": "16040-320"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Darcy Fontanelli",
+        "zipcode": "16035-360"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Rua Vicente Celestino",
+        "zipcode": "16035-660"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Prado",
+        "street": "Rua Frei Veloso",
+        "zipcode": "16025-360"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Rua Belo Da Fonte",
+        "zipcode": "16035-515"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Rosele",
+        "street": "Rua Almirante Silvio Mota",
+        "zipcode": "16040-430"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Das Palmeiras",
+        "street": "Avenida Dr Luiz Curti",
+        "zipcode": "16035-720"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Imaculado Coracao De Maria",
+        "zipcode": "16045-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Praça Geni Rico",
+        "zipcode": "16040-057"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Boa Vista",
+        "street": "Travessa Polido",
+        "zipcode": "16045-149"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Avenida Waldemar Alves",
+        "zipcode": "16035-325"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Santo Andre",
+        "zipcode": "16040-110"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Marechal Mascarenhas De Moraes",
+        "zipcode": "16040-370"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial Ii",
+        "street": "Rua Clibas De Almeida Prado",
+        "zipcode": "16044-510"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Alba",
+        "street": "Rua Jose Nogara",
+        "zipcode": "16046-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Rua Alfredo Castilho",
+        "zipcode": "16060-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Joao Batista Botelho",
+        "zipcode": "16063-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Aracatuba",
+        "zipcode": "16066-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Josefina Mungo",
+        "zipcode": "16063-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Espirito Santo",
+        "zipcode": "16065-580"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Vereador Manoel Joaquim Gomes",
+        "zipcode": "16062-330"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Manoel Rodrigues Gomes",
+        "zipcode": "16062-533"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Engenheiro Gilberto Goncalves",
+        "zipcode": "16062-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Manoel Joaquim De Souza",
+        "zipcode": "16046-650"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Ind. Maria Isabel Pizza De Al. Prado",
+        "street": "Rua B",
+        "zipcode": "16062-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Monte Castelo",
+        "zipcode": "16035-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Barao De Limeira",
+        "zipcode": "16060-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Quatro",
+        "zipcode": "16031-365"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Fernando De Noronha",
+        "zipcode": "16065-640"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Dina Ferraz De Oliveira Lima",
+        "zipcode": "16065-440"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Waldir Lopes",
+        "zipcode": "16065-500"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Zenio Barbosa Moreira",
+        "zipcode": "16031-205"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Sao Roque",
+        "zipcode": "16035-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Humberto De Campos",
+        "zipcode": "16063-020"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Campus Universitario",
+        "street": "Avenida Prof. Carlos Aldrovandi",
+        "zipcode": "16066-840"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Rua Tres Lagoas",
+        "zipcode": "16060-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Prof. Ariostina Pinheiro",
+        "zipcode": "16062-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Custodio Rafael De Almeida",
+        "zipcode": "16031-193"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Jose Felipe Cordeiro",
+        "zipcode": "16031-350"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Guadalajara",
+        "zipcode": "16035-460"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Dez",
+        "zipcode": "16031-319"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Herculano Theodoro Rodrigues",
+        "zipcode": "16065-740"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Julia De Oliveira Carvalho",
+        "zipcode": "16065-690"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Guatemala",
+        "zipcode": "16035-260"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Luiz Delfino",
+        "zipcode": "16066-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Affonso Paula De Souza",
+        "zipcode": "16062-500"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Farmaceutico Antonio De Souza Lima",
+        "zipcode": "16066-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Sao Domingos",
+        "zipcode": "16060-300"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Neil Armstrong",
+        "zipcode": "16035-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Joao Roberto Batagelo",
+        "zipcode": "16062-513"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Mao Divina I",
+        "street": "Rua Seis",
+        "zipcode": "16031-315"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Clovis Bevilaqua",
+        "zipcode": "16066-160"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Quinze",
+        "zipcode": "16031-235"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Travessa Municipal",
+        "zipcode": "16066-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Avenida Dos Estados",
+        "zipcode": "16060-070"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Pinheiros",
+        "street": "Rua Dr Rui Castro Ferreira",
+        "zipcode": "16062-400"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Rua Aclimacao",
+        "zipcode": "16035-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Baguacu",
+        "street": "Rua Jose Do Couto Moraes",
+        "zipcode": "16065-530"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Serviliano Silva Junior",
+        "zipcode": "16031-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Dra Clea F Sacramento",
+        "zipcode": "16062-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Alagoas",
+        "zipcode": "16060-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Monteiro",
+        "street": "Rua Oito",
+        "zipcode": "16077-215"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Marco Antonio Cazerta Fidelles",
+        "zipcode": "16046-710"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Urupes",
+        "zipcode": "16065-460"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Industrial",
+        "street": "Rua Sao Benedito",
+        "zipcode": "16035-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Celio Rodrigues De Araujo Cintra",
+        "zipcode": "16063-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Felipe Garcia Aldana",
+        "zipcode": "16062-517"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Tv",
+        "street": "Rua Fundador Orestes Bertachini",
+        "zipcode": "16040-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Ernesto Bergamaschi Sobrinho",
+        "zipcode": "16046-570"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Jose Caetano Ruas",
+        "zipcode": "16030-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Maua",
+        "zipcode": "16066-040"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Marcelo Cazerta Fidelles",
+        "zipcode": "16046-720"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Antonio Pagan",
+        "street": "Rua Cinquenta E Tres",
+        "zipcode": "16056-520"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Osvaldo De Andrade",
+        "zipcode": "16065-150"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Oswaldo Patrizzi",
+        "zipcode": "16040-610"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Parque Industrial",
+        "street": "Rua Jose Xavier Couto",
+        "zipcode": "16040-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Dos Fundadores",
+        "zipcode": "16060-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Nucleo Nossa Senhora Aparecida",
+        "street": "Rua Penapolis",
+        "zipcode": "16056-503"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Maestro Villa Lobos",
+        "zipcode": "16065-100"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Danilo Mitidiero",
+        "zipcode": "16041-052"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Paraiso",
+        "street": "Travessa Sao Daniel",
+        "zipcode": "16041-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Praça Dos Rotarianos",
+        "zipcode": "16065-285"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Manoel Pires",
+        "street": "Rua Manoel Clemente Goncalves",
+        "zipcode": "16040-640"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua D",
+        "zipcode": "16044-440"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Paulista",
+        "street": "Rua Jose Bonifacio",
+        "zipcode": "16060-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Capistrano De Abreu",
+        "zipcode": "16065-330"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Rua Valparaiso",
+        "zipcode": "16060-220"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rodovia Senador Teotonio Vilela",
+        "zipcode": "16063-810"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Fernando Fatori",
+        "zipcode": "16044-320"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Arco",
+        "street": "Rua Tres",
+        "zipcode": "16044-550"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Vila Panorama",
+        "street": "Praça Dr Bezerra De Menezes",
+        "zipcode": "16063-750"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Paraiso",
+        "street": "Praça Joao Mardegan",
+        "zipcode": "16050-035"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Sao Lazaro",
+        "zipcode": "16063-710"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Ind. Maria Isabel Pizza De Al. Prado",
+        "street": "Rua Prof. Joaquim Vieira Pinheiro",
+        "zipcode": "16055-225"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Vicente",
+        "street": "Rua Antonio Joaquim Dos Santos",
+        "zipcode": "16050-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Praça Pastor Joaquim Lopes Viana",
+        "zipcode": "16046-750"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Etheocle Turrini",
+        "street": "Rua Jose Andre Minari",
+        "zipcode": "16046-730"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Praça Antonio Silvia Villela",
+        "zipcode": "16065-240"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras De Recreio Tropical",
+        "street": "Rua Perimetral",
+        "zipcode": "16077-105"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Nossa Senhora Do Rosario",
+        "zipcode": "16065-420"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Mauricio De Nassau",
+        "zipcode": "16055-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Dos Fundadores",
+        "zipcode": "16055-000"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Brigadeiro Faria Lima",
+        "zipcode": "16041-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Paraiso",
+        "street": "Travessa Sao Lucas",
+        "zipcode": "16041-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Jose Mazzariolli",
+        "zipcode": "16044-207"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Santana",
+        "street": "Rua Marcondes Salgado",
+        "zipcode": "16055-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Rosele",
+        "street": "Rodovia Eliezer Montenegro Magalhaes",
+        "zipcode": "16040-850"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Baldissera Morozini",
+        "zipcode": "16055-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Rua Prof. Dr Sergio Manoel Moretti Vieira",
+        "zipcode": "16062-503"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Alice Santiago Zago",
+        "zipcode": "16044-480"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Oscar Zaiden De Menezes",
+        "zipcode": "16065-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Joao Cruz E Souza",
+        "zipcode": "16065-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Maua",
+        "zipcode": "16063-670"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Ind. Maria Isabel Pizza De Al. Prado",
+        "street": "Rua Cinco",
+        "zipcode": "16044-305"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Rosa Cury",
+        "zipcode": "16055-035"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Manoel Balthazar Sobrinho",
+        "zipcode": "16063-190"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Umuarama",
+        "street": "Rua Angelino Cardoso",
+        "zipcode": "16063-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Joao Batista Botelho",
+        "street": "Rua Candido De Freitas Santos",
+        "zipcode": "16062-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Tv",
+        "street": "Travessa Maiza Matarazzo",
+        "zipcode": "16040-490"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Jose Marcos Trevelin",
+        "zipcode": "16062-080"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Sao Joaquim",
+        "street": "Rua Cabo Francisco De Alencar Rocha",
+        "zipcode": "16055-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Chacaras Versalhes",
+        "street": "Rua Seis",
+        "zipcode": "16044-755"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Plinio Salgado",
+        "zipcode": "16065-270"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Miguel Rodrigues De Araujo",
+        "zipcode": "16062-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sumare",
+        "street": "Rua Para",
+        "zipcode": "16015-180"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Marco Antonio Pace",
+        "zipcode": "16031-103"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Joao Madrid Gimene",
+        "zipcode": "16035-430"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Jose Caetano Ruas",
+        "zipcode": "16035-620"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Paraiso",
+        "street": "Rua Rogaciano Nolasco",
+        "zipcode": "16050-560"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Sao Luiz",
+        "zipcode": "16045-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Praça Marcelo Yuzo Ussui",
+        "zipcode": "16065-235"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Albino Negri",
+        "zipcode": "16065-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Aclimacao",
+        "street": "Praça Uirapuru",
+        "zipcode": "16030-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Juvenal Rodrigues Dias",
+        "zipcode": "16046-630"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Edmundo Carvalho Dos Santos",
+        "zipcode": "16031-330"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Presidente",
+        "street": "Rua Dolores Duran",
+        "zipcode": "16035-600"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Helvecio Neris De Souza",
+        "zipcode": "16041-054"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Residencial Aeroporto",
+        "street": "Rua Dr Caio De Paula E Silva",
+        "zipcode": "16046-060"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Eliana Viana Martinez",
+        "zipcode": "16062-140"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Distrito Industrial Alexandre Biagi",
+        "street": "Rua Helvecio Neris De Souza",
+        "zipcode": "16044-307"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Dr Dirceu De Moraes",
+        "zipcode": "16035-350"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Ezequiel Barbosa",
+        "zipcode": "16046-500"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Quirino Jose De Souza",
+        "zipcode": "16031-175"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Novo Umuarama",
+        "street": "Praça Francisco Von Dreiffus",
+        "zipcode": "16060-170"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Joao Peres Marques",
+        "zipcode": "16035-420"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Brasilia",
+        "street": "Avenida Joaquim Pompeu De Toledo",
+        "zipcode": "16025-250"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Travessa Ermindo Antonio Mansalvarga",
+        "zipcode": "16062-549"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Maurilio Corazza",
+        "zipcode": "16062-120"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Rosele",
+        "street": "Rua Lamartine Babo",
+        "zipcode": "16040-410"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Rafael",
+        "street": "Rua Antonio Ribeiro De Araujo",
+        "zipcode": "16044-193"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Dona Amelia",
+        "street": "Avenida Dois De Dezembro",
+        "zipcode": "16045-400"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Travessa Timbiras",
+        "zipcode": "16066-210"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Vicente Luiz Grosso",
+        "street": "Rua Joaquim Pedro Da Silva",
+        "zipcode": "16062-010"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Praça Elias Nemer Elias",
+        "zipcode": "16065-290"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Joseph Smith Junior",
+        "zipcode": "16031-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Nova Iorque",
+        "street": "Rua Victor Meirelles",
+        "zipcode": "16065-610"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Do Trevo",
+        "street": "Rua Das Rosas",
+        "zipcode": "16031-030"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Petit Trianon",
+        "street": "Rua Elza Almeida Lemos",
+        "zipcode": "16044-483"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Casa Nova",
+        "street": "Rua Vicente Celestino",
+        "zipcode": "16030-320"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Jussara",
+        "street": "Rua Atilio Pinholi",
+        "zipcode": "16021-090"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Deodato Izique",
+        "zipcode": "16031-130"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Industrial",
+        "street": "Rua Comendador Etore Carazza",
+        "zipcode": "16035-610"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim America",
+        "street": "Rua Naur Antonio Santos",
+        "zipcode": "16030-050"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Hilda Mandarino",
+        "street": "Travessa Jose Minassion Filho",
+        "zipcode": "16062-562"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Jardim Bandeirante",
+        "street": "Rua Luiz Pereira Barreto",
+        "zipcode": "16015-200"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Ezequiel Barbosa",
+        "street": "Rua Quatro",
+        "zipcode": "16031-135"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Parque Ind. Maria Isabel Pizza De Al. Prado",
+        "street": "Rua Rubens Stringueta",
+        "zipcode": "16044-770"
+    },
+    {
+        "city": "Aracatuba",
+        "state": "SP",
+        "district": "Conj Habit Doutor Antonio Villela Silva",
+        "street": "Rua Jose Zeferino Silva",
+        "zipcode": "16046-610"
+    }
+]

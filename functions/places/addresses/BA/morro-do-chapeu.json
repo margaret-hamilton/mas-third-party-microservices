@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Morro do Chapéu",
+        "state": "BA",
+        "district": "Fedegoso",
+        "street": "Rua Juaquim Valois s/n",
+        "zipcode": "44850-971"
+    },
+    {
+        "city": "Morro do Chapéu",
+        "state": "BA",
+        "district": null,
+        "street": "Praça Doutor Muniz",
+        "zipcode": "44850-990"
+    },
+    {
+        "city": "Morro do Chapéu",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Coronel Dias Coelho 209",
+        "zipcode": "44850-970"
+    },
+    {
+        "city": "Morro do Chapéu",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44850-000"
+    },
+    {
+        "city": "Morro do Chapéu",
+        "state": "BA",
+        "district": null,
+        "street": "Praça Ovídio de Carvalho",
+        "zipcode": "44850-991"
+    }
+]

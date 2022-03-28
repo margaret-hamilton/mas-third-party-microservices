@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Terra de Areia",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Teotônio Vilela 3713 Sala 01/02",
+        "zipcode": "95535-970"
+    },
+    {
+        "city": "Terra de Areia",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95535-000"
+    },
+    {
+        "city": "Terra de Areia",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Osmani Veras",
+        "zipcode": "95535-990"
+    }
+]

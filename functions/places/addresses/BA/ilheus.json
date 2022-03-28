@@ -1,0 +1,688 @@
+[
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Travessa Canavieiras",
+        "zipcode": "45652-390"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Boa Vista",
+        "street": "Conjunto Habitacional",
+        "zipcode": "45652-550"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Almirante Barroso",
+        "zipcode": "45650-500"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Cidade Nova",
+        "street": "Rua Siridiao Durval",
+        "zipcode": "45652-580"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Barreira",
+        "street": "Avenida Acesso A Barreira",
+        "zipcode": "45655-130"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Barra",
+        "street": "Rua Marcilio Dias",
+        "zipcode": "45658-050"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Itabuna",
+        "zipcode": "45650-530"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Rua Do Sossego",
+        "zipcode": "45651-600"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Cidade Nova",
+        "street": "Rua Quatorze De Agosto",
+        "zipcode": "45652-080"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Artur Bernardes",
+        "zipcode": "45650-630"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Avenida Brasil",
+        "zipcode": "45650-650"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Basilio",
+        "street": "Avenida Itabuna",
+        "zipcode": "45651-001"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Rua Nova Esperanca",
+        "zipcode": "45651-760"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Jose Marcelino",
+        "zipcode": "45653-030"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Jardim Atlantico",
+        "street": "Conjunto Jardim Atlantico",
+        "zipcode": "45655-160"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Princesa Isabel",
+        "street": "Rua Alto Socorro",
+        "zipcode": "45653-670"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Pontal",
+        "street": "Conjunto Sapetinga",
+        "zipcode": "45654-040"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Princesa Isabel",
+        "street": "Rua Quinta Travessa",
+        "zipcode": "45653-720"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Ladeira Do Gameleiro",
+        "zipcode": "45650-010"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Sao Jose",
+        "zipcode": "45652-430"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Travessa Cafe Filho",
+        "zipcode": "45650-610"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Pontal",
+        "street": "Loteamento Jardim Pontal",
+        "zipcode": "45654-010"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Gilberto Levita",
+        "zipcode": "45650-560"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Boa Vista",
+        "street": "Alto Da Bela Vista",
+        "zipcode": "45652-590"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Cidade Nova",
+        "street": "Rua Teixeira De Freitas",
+        "zipcode": "45652-100"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Baixa Fria",
+        "street": "Rua Napoleao Laureano",
+        "zipcode": "45652-380"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Sao Jose",
+        "zipcode": "45650-690"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Amelia Nunes",
+        "zipcode": "45653-620"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Cidade Nova",
+        "street": "Rua Manoel Dorea",
+        "zipcode": "45652-070"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Dom Eduardo",
+        "zipcode": "45653-320"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Travessa Brasil",
+        "zipcode": "45650-680"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Avenida Uberlandia",
+        "zipcode": "45651-260"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Travessa Santa Clara",
+        "zipcode": "45650-670"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Dom Manoel De Paiva",
+        "zipcode": "45652-290"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Ladeira Da Vitoria",
+        "zipcode": "45653-420"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Avenida Antonio Carlos Magalhaes",
+        "zipcode": "45651-621"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Princesa Isabel",
+        "street": "Avenida Princesa Isabel",
+        "zipcode": "45653-660"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Pontal",
+        "street": "Rua Nova Brasilia",
+        "zipcode": "45654-550"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Cidade Nova",
+        "street": "Praça Guadalajara",
+        "zipcode": "45652-060"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Visconde De Ouro Preto",
+        "zipcode": "45650-720"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Barra",
+        "street": "Rua Nossa Senhora De Lourdes",
+        "zipcode": "45658-040"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Jardim Atlantico",
+        "street": "Conjunto Sitio Sao Paulo",
+        "zipcode": "45655-150"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Rua Conselheiro Antonio Francisco Badaro",
+        "zipcode": "45651-250"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Araujo Pinho",
+        "zipcode": "45650-510"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "45650-005"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Princesa Isabel",
+        "street": "Rua Alto Formoso",
+        "zipcode": "45653-680"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Travessa Posto Florestal",
+        "zipcode": "45651-740"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Cidade Nova",
+        "street": "Rua Teodoro Sampaio",
+        "zipcode": "45652-090"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Cidade Nova",
+        "street": "Avenida Antonio Carlos Magalhaes",
+        "zipcode": "45652-030"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Rua Ipanema",
+        "zipcode": "45651-330"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Travessa Artur Bernardes",
+        "zipcode": "45650-620"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Travessa Bandeirante",
+        "zipcode": "45652-310"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Teotonio Vilela",
+        "street": "Loteamento Teotonio Vilela",
+        "zipcode": "45657-000"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Jardim Atlantico",
+        "street": "Loteamento Jardim Atlantico",
+        "zipcode": "45655-170"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Ana Nery",
+        "zipcode": "45653-630"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Barra",
+        "street": "Travessa Alto Da Soledade",
+        "zipcode": "45658-070"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Sao Francisco",
+        "street": "Rua Sucupira",
+        "zipcode": "45655-010"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Barreira",
+        "street": "Rua A",
+        "zipcode": "45655-030"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Sao Sebastiao",
+        "street": "Rua Da Frente",
+        "zipcode": "45653-100"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Sao Sebastiao",
+        "street": "Rua Muniz Sodre",
+        "zipcode": "45653-070"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Sao Francisco",
+        "street": "Avenida Posto Pontal",
+        "zipcode": "45655-020"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Sao Sebastiao",
+        "street": "Travessa Da Liberdade",
+        "zipcode": "45653-060"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Barra",
+        "street": "Rua Sao Miguel",
+        "zipcode": "45658-140"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Vila Nazare",
+        "street": "Vila Vila Nazare",
+        "zipcode": "45657-010"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Barra",
+        "street": "Rua Nossa Senhora Da Conceicao",
+        "zipcode": "45658-030"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Princesa Isabel",
+        "street": "Rua Santa Ines",
+        "zipcode": "45653-700"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Jardim Atlantico",
+        "street": "Loteamento Santa Felicidade",
+        "zipcode": "45655-180"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Vereador Jose Andry",
+        "zipcode": "45653-730"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Visconde De Maua",
+        "zipcode": "45653-260"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Dois De Julho",
+        "zipcode": "45653-040"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Sao Francisco",
+        "street": "Loteamento Gabriela",
+        "zipcode": "45655-190"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Do Cadete",
+        "zipcode": "45653-080"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Sao Sebastiao",
+        "street": "Rua Leite Mendes",
+        "zipcode": "45653-110"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Alto Do Cano",
+        "zipcode": "45658-020"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Soares Lopes",
+        "zipcode": "45652-000"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Canavieiras",
+        "zipcode": "45652-400"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Epitacio Pessoa",
+        "zipcode": "45653-050"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Ladeira Dos Bispo",
+        "zipcode": "45652-320"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Santa Clara",
+        "zipcode": "45650-660"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Coronel Pessoa",
+        "zipcode": "45653-370"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Princesa Isabel",
+        "street": "Rua Rambudo De Baixo",
+        "zipcode": "45653-710"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Cidade Nova",
+        "street": "Rua Almiro Vinhais",
+        "zipcode": "45652-110"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Tapera",
+        "street": "Ladeira Da Conceicao",
+        "zipcode": "45651-070"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Elisio Farias",
+        "zipcode": "45650-640"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Princesa Isabel",
+        "street": "Rua Anisio Pereira",
+        "zipcode": "45653-690"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Sao Francisco",
+        "street": "Rua Sao Francisco",
+        "zipcode": "45655-110"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Das Flores",
+        "zipcode": "45650-426"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Esperanca",
+        "street": "Rua Esperanca",
+        "zipcode": "45658-620"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Tereza Cristina",
+        "zipcode": "45653-090"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Rua Cano Do Esperanto",
+        "zipcode": "45658-010"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Rua Clemente Mariano",
+        "zipcode": "45651-320"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Avenida Itabuna",
+        "zipcode": "45651-000"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Joana Angelica",
+        "zipcode": "45653-640"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Nelson Costa",
+        "street": "Conjunto Senhor Dos Passos",
+        "zipcode": "45656-120"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Malhado",
+        "street": "Alto Nova Esperanca",
+        "zipcode": "45651-770"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Cafe Filho",
+        "zipcode": "45650-600"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Conquista",
+        "street": "Rua Do Filtro",
+        "zipcode": "45650-020"
+    },
+    {
+        "city": "Ilheus",
+        "state": "BA",
+        "district": "Esperanca",
+        "street": "Conjunto Moradas Do Bosque",
+        "zipcode": "45658-550"
+    }
+]

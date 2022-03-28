@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Caiuá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Presidente Kennedy 59",
+        "zipcode": "19450-970"
+    },
+    {
+        "city": "Caiuá",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19450-000"
+    },
+    {
+        "city": "Caiuá",
+        "state": "SP",
+        "district": "",
+        "street": "Estrada Vicinal Presidente Epitácio",
+        "zipcode": "19450-992"
+    },
+    {
+        "city": "Caiuá",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Dois",
+        "zipcode": "19450-990"
+    },
+    {
+        "city": "Caiuá",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Um",
+        "zipcode": "19450-991"
+    },
+    {
+        "city": "Caiuá",
+        "state": "SP",
+        "district": "Núcleo do Assentamento da Agrovila III",
+        "street": "Rua Três s/n",
+        "zipcode": "19450-971"
+    }
+]

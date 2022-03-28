@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Presidente Kennedy",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Atila Vivacqua 21",
+        "zipcode": "29350-970"
+    },
+    {
+        "city": "Presidente Kennedy",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29350-000"
+    },
+    {
+        "city": "Presidente Kennedy",
+        "state": "ES",
+        "district": "Praia de Marobá",
+        "street": "Rua Principal s/n",
+        "zipcode": "29350-984"
+    },
+    {
+        "city": "Presidente Kennedy",
+        "state": "ES",
+        "district": "Praia das Neves",
+        "street": "Rua Principal s/n",
+        "zipcode": "29350-983"
+    }
+]

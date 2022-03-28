@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Vitorino",
+        "state": "PR",
+        "district": "",
+        "street": "Rua Mato Grosso  CPC Araucária Parque I",
+        "zipcode": "85520-990"
+    },
+    {
+        "city": "Vitorino",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Brasil Argentina 886",
+        "zipcode": "85520-970"
+    },
+    {
+        "city": "Vitorino",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85520-000"
+    },
+    {
+        "city": "Vitorino",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida das Araucárias",
+        "zipcode": "85520-991"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Serra dos Aimorés",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida São Francisco 574",
+        "zipcode": "39868-970"
+    },
+    {
+        "city": "Serra dos Aimorés",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "39868-972"
+    },
+    {
+        "city": "Serra dos Aimorés",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39868-000"
+    }
+]

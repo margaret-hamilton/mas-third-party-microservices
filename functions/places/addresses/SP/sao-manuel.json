@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São Manuel",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18650-000"
+    },
+    {
+        "city": "São Manuel",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Sete de Setembro 505",
+        "zipcode": "18650-970"
+    },
+    {
+        "city": "São Manuel",
+        "state": "SP",
+        "district": "Tancredo Neves",
+        "street": "Rua José Sávio 11",
+        "zipcode": "18650-971"
+    },
+    {
+        "city": "São Manuel",
+        "state": "SP",
+        "district": "Parque Albatroz",
+        "street": "Via Carlos Denucci s/n",
+        "zipcode": "18650-972"
+    }
+]

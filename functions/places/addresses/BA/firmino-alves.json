@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Firmino Alves",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Pompílio Céo 15",
+        "zipcode": "45720-970"
+    },
+    {
+        "city": "Firmino Alves",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45720-000"
+    },
+    {
+        "city": "Firmino Alves",
+        "state": "BA",
+        "district": null,
+        "street": "Praça Duque de Caxias",
+        "zipcode": "45720-993"
+    }
+]

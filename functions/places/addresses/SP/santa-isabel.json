@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Santa Isabel",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Manoel Ferraz de Campos Sales",
+        "zipcode": "07500-970"
+    },
+    {
+        "city": "Santa Isabel",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada do Monte Negro Km 8",
+        "zipcode": "07500-991"
+    },
+    {
+        "city": "Santa Isabel",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "07500-000"
+    },
+    {
+        "city": "Santa Isabel",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Horácio José do Prado nº 471",
+        "zipcode": "07500-990"
+    },
+    {
+        "city": "Santa Isabel",
+        "state": "SP",
+        "district": null,
+        "street": "Via das Perobas nº 176",
+        "zipcode": "07500-992"
+    }
+]

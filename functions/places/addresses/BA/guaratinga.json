@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Guaratinga",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Alberto Costa Lima 467",
+        "zipcode": "45840-970"
+    },
+    {
+        "city": "Guaratinga",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45840-000"
+    },
+    {
+        "city": "Guaratinga",
+        "state": "BA",
+        "district": "Monte Alegre",
+        "street": "Praça Sidnei Chaves s/n",
+        "zipcode": "45840-971"
+    },
+    {
+        "city": "Guaratinga",
+        "state": "BA",
+        "district": "São João do Sul",
+        "street": "Rua Guaratinga s/n",
+        "zipcode": "45840-973"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Porto Barreiro",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85345-000"
+    },
+    {
+        "city": "Porto Barreiro",
+        "state": "PR",
+        "district": "Loteamento das Flores",
+        "street": "Avenida das Flores",
+        "zipcode": "85345-971"
+    },
+    {
+        "city": "Porto Barreiro",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Principal",
+        "zipcode": "85345-970"
+    },
+    {
+        "city": "Porto Barreiro",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Principal",
+        "zipcode": "85345-990"
+    }
+]

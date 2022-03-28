@@ -1,0 +1,5245 @@
+[
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": null,
+        "street": null,
+        "zipcode": "93600-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Ruy Barbosa",
+        "zipcode": "93600-260"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Sagres",
+        "zipcode": "93609-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Werno Campani",
+        "zipcode": "93610-450"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Nereu Ramos",
+        "zipcode": "93600-810"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Guilherme Blauth Filho",
+        "zipcode": "93610-760"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua São João",
+        "zipcode": "93608-470"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Luiz Gama",
+        "zipcode": "93615-320"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua da Serraria",
+        "zipcode": "93614-740"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua José de Alencar",
+        "zipcode": "93610-650"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Passarela das Rosas",
+        "zipcode": "93610-320"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Avenida Campo Grande",
+        "zipcode": "93613-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Adão Ibirubá",
+        "zipcode": "93614-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua das Marrecas",
+        "zipcode": "93617-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93616-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua D",
+        "zipcode": "93611-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Caramuru",
+        "zipcode": "93614-560"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Lindolfo Hélio Schimidt",
+        "zipcode": "93615-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Lorena Bittencourt da Silva",
+        "zipcode": "93608-860"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Jorge Bauermann",
+        "zipcode": "93610-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua dos Antúrios",
+        "zipcode": "93611-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Holanda",
+        "zipcode": "93612-630"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Portão",
+        "zipcode": "93615-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Saturnino de Brito",
+        "zipcode": "93614-550"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Santo Angelo",
+        "zipcode": "93609-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Cristóvão",
+        "zipcode": "93609-620"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Lucas",
+        "zipcode": "93609-670"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Porto Alegre",
+        "zipcode": "93612-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Sezefredo Mattes",
+        "zipcode": "93614-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Egon Schimitzhaus",
+        "zipcode": "93615-650"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Avenida Campo Grande",
+        "zipcode": "93616-090"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Bom Jesus",
+        "zipcode": "93616-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Timbaúva",
+        "zipcode": "93610-470"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Pedro Loredo da Costa",
+        "zipcode": "93610-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "93612-460"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Ereda Petry",
+        "zipcode": "93612-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Travessa Quatro",
+        "zipcode": "93612-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "93615-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua São José do Hortêncio",
+        "zipcode": "93616-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Gramado",
+        "zipcode": "93616-760"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Parobé",
+        "zipcode": "93618-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Visconde de Cairu",
+        "zipcode": "93608-480"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Vidal Viganigo da Silva",
+        "zipcode": "93609-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Pedro Américo",
+        "zipcode": "93608-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Visconde de Ouro Preto",
+        "zipcode": "93608-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Nivaldo Winter",
+        "zipcode": "93611-580"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Alemanha",
+        "zipcode": "93612-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Guarany",
+        "zipcode": "93614-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Travessa Capivaras",
+        "zipcode": "93614-760"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Passarela dos Bem",
+        "zipcode": "93617-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Armendio Ferraz de Abreu",
+        "zipcode": "93610-840"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Júlio de Castilhos",
+        "zipcode": "93615-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Pedro Juvenal Rodrigues da Silva",
+        "zipcode": "93615-760"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Siriema",
+        "zipcode": "93617-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Valência",
+        "zipcode": "93609-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Pedro Juvenal Rodrigues da Silva",
+        "zipcode": "93614-010"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Minuano",
+        "zipcode": "93614-590"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Werno Theno Schaeffer",
+        "zipcode": "93615-750"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Independência",
+        "zipcode": "93600-120"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Avenida Quatorze de Julho",
+        "zipcode": "93600-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Avenida dos Municípios",
+        "zipcode": "93602-480"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Alcides Maia",
+        "zipcode": "93607-560"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93607-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Albino Carlos Menno Metz",
+        "zipcode": "93610-010"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Aimoré",
+        "zipcode": "93610-730"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Acerola",
+        "zipcode": "93609-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Eça de Queiroz",
+        "zipcode": "93600-430"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Cecília Meirelles",
+        "zipcode": "93607-590"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Quatorze de Julho",
+        "zipcode": "93600-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93600-760"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Avenida dos Açores",
+        "zipcode": "93608-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua da Laje",
+        "zipcode": "93609-460"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Alceu Wamosy",
+        "zipcode": "93610-110"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Achinelo Graebin",
+        "zipcode": "93610-130"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "93610-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Ernesto Gerhardt Mattes",
+        "zipcode": "93610-720"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Aimoré",
+        "zipcode": "93610-810"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Aldivo Klaus",
+        "zipcode": "93611-670"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93601-640"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Águas",
+        "street": "Rodovia BR",
+        "zipcode": "93606-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Carlos Betega",
+        "zipcode": "93608-760"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93610-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Joaquim Nabuco",
+        "zipcode": "93600-130"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua João XXIII",
+        "zipcode": "93608-510"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Adálias",
+        "zipcode": "93611-330"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua João Alfredo",
+        "zipcode": "93608-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Sérgio Luiz Kolling",
+        "zipcode": "93600-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Matheus",
+        "zipcode": "93609-630"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Sandro Henrique Muller",
+        "zipcode": "93612-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Sebaldo Júlio Dietrich",
+        "zipcode": "93612-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93608-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua A",
+        "zipcode": "93611-550"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Avenida Amandio Francisco Johann",
+        "zipcode": "93608-640"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Amantino Costa",
+        "zipcode": "93609-020"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Albino Conrado Dietrich",
+        "zipcode": "93601-820"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Germano Leuck",
+        "zipcode": "93608-850"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Fruta",
+        "zipcode": "93609-330"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Rua Theobaldo Hoch",
+        "zipcode": "93604-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Pernambuco",
+        "zipcode": "93607-120"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Rua Treze de Maio",
+        "zipcode": "93604-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Oscar Evaldo Becker",
+        "zipcode": "93600-800"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Avenida dos Açores",
+        "zipcode": "93609-345"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93609-780"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93603-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Pedras",
+        "street": "Avenida dos Municípios",
+        "zipcode": "93606-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Avenida dos Açores",
+        "zipcode": "93608-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Osvaldo Aranha",
+        "zipcode": "93601-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93615-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Avenida Quatorze de Julho",
+        "zipcode": "93601-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Avenida Quatorze de Julho",
+        "zipcode": "93601-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Adão Walter Schuck",
+        "zipcode": "93601-570"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua A (R Pres Lucena)",
+        "zipcode": "93602-440"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Prolongamento do Parque",
+        "zipcode": "93604-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Passarela Pedro Tisian",
+        "zipcode": "93600-730"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rodovia BR",
+        "zipcode": "93607-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Maranhão",
+        "zipcode": "93607-130"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Mato Grosso",
+        "zipcode": "93607-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Alecrim",
+        "zipcode": "93609-010"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Acácia Mimosa",
+        "zipcode": "93609-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Avenida Europa",
+        "zipcode": "93612-850"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Adolfo Dietrich",
+        "zipcode": "93615-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Passarela Arthur Jung",
+        "zipcode": "93615-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Albino Alfredo Einsfeldt",
+        "zipcode": "93602-120"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Ceará",
+        "zipcode": "93607-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Alagoas",
+        "zipcode": "93607-480"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rodovia BR",
+        "zipcode": "93608-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Adelmo Selomar Altenhofen",
+        "zipcode": "93608-800"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Corumbá",
+        "zipcode": "93612-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Cuiabá",
+        "zipcode": "93612-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Claudio Fleck",
+        "zipcode": "93612-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Albano Wobeto",
+        "zipcode": "93602-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Afrânio Peixoto",
+        "zipcode": "93610-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Piratini",
+        "zipcode": "93610-780"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Avenida Pedro Torres",
+        "zipcode": "93608-560"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Estrada de Acesso ao TRCUL",
+        "zipcode": "93613-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua André Rebouças",
+        "zipcode": "93615-360"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Antonio Selivio Ermel",
+        "zipcode": "93615-620"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Aroeiras",
+        "zipcode": "93616-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Amanda Immich",
+        "zipcode": "93615-630"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Arsilda Trein",
+        "zipcode": "93615-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Aluízio de Azevedo",
+        "zipcode": "93607-610"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Arlindo Ernesto Hommerding",
+        "zipcode": "93611-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Azaléia",
+        "zipcode": "93611-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Amor Perfeito",
+        "zipcode": "93611-460"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Aracaju",
+        "zipcode": "93612-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Áustria",
+        "zipcode": "93612-830"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Ameixa",
+        "zipcode": "93609-385"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Anito Aldino Rihl",
+        "zipcode": "93611-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Álvares de Azevedo",
+        "zipcode": "93600-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93613-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Almirante Barroso",
+        "zipcode": "93615-110"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Arlindo Ernesto Cassel",
+        "zipcode": "93615-610"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Pará",
+        "zipcode": "93607-110"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Piauí",
+        "zipcode": "93607-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Alexandre Fleming",
+        "zipcode": "93614-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Albino Pehls",
+        "zipcode": "93600-480"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Tocantins",
+        "zipcode": "93607-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Avenida Europa",
+        "zipcode": "93613-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Avenida Campo Grande",
+        "zipcode": "93615-770"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Passarela Guaranis",
+        "zipcode": "93614-580"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Caneleiro",
+        "zipcode": "93617-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Casemiro Moreira",
+        "zipcode": "93607-810"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua da Fé",
+        "zipcode": "93608-790"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Cascais",
+        "zipcode": "93609-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Claudir Zeno Schmiedel",
+        "zipcode": "93610-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Curitiba",
+        "zipcode": "93612-480"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Carlos Augusto Pires",
+        "zipcode": "93614-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "93614-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "93615-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Castro Alves",
+        "zipcode": "93615-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua das Figueiras",
+        "zipcode": "93616-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Cardeal",
+        "zipcode": "93617-260"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Pedras",
+        "street": "Rua Alberto Gewehr",
+        "zipcode": "93606-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Canela",
+        "zipcode": "93616-750"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Dalira Bündchen",
+        "zipcode": "93601-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Cereja",
+        "zipcode": "93609-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Casemiro de Abreu",
+        "zipcode": "93610-670"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Ari Grade",
+        "zipcode": "93614-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Antônio João",
+        "zipcode": "93615-020"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Balduino Bündchen",
+        "zipcode": "93615-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Felipe Wendelino Veit",
+        "zipcode": "93615-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Coimbra",
+        "zipcode": "93609-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Carlos Antônio Bender",
+        "zipcode": "93610-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua da Paz",
+        "zipcode": "93610-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua F",
+        "zipcode": "93611-720"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Elma Cecília Kessler",
+        "zipcode": "93611-740"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Goiania",
+        "zipcode": "93612-330"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Fortaleza",
+        "zipcode": "93612-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua França",
+        "zipcode": "93612-640"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Belarmino Quadros",
+        "zipcode": "93608-590"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Espanha",
+        "zipcode": "93612-720"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Frederico Dienstmann",
+        "zipcode": "93614-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua General Osório",
+        "zipcode": "93614-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Frei Caneca",
+        "zipcode": "93615-370"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Arlindo Almiro Frank",
+        "zipcode": "93611-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Antonio Kolling",
+        "zipcode": "93601-850"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Emiliano Ferraz de Abreu",
+        "zipcode": "93613-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Felipe dos Santos",
+        "zipcode": "93615-430"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Arno Kirschner",
+        "zipcode": "93601-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua André Kolling Filho",
+        "zipcode": "93601-670"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Arthur Leopoldo Ritter",
+        "zipcode": "93600-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Angico",
+        "zipcode": "93601-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Arlindo Frantz",
+        "zipcode": "93601-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Avelino Dutra de Godoy",
+        "zipcode": "93601-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Castro Alves",
+        "zipcode": "93600-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Antonio Gonzaga",
+        "zipcode": "93600-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Helmuth Lampert",
+        "zipcode": "93612-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua da Conquista",
+        "zipcode": "93616-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Barão de Cotegipe",
+        "zipcode": "93608-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Bahia",
+        "zipcode": "93607-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Belém",
+        "zipcode": "93612-340"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Pedras",
+        "street": "Rodovia BR",
+        "zipcode": "93606-550"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Dois Irmãos",
+        "zipcode": "93616-790"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua dos Cardeais",
+        "zipcode": "93617-330"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua das Pombas",
+        "zipcode": "93617-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Doutor Hildebrand",
+        "zipcode": "93607-580"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua dos Alpes",
+        "zipcode": "93609-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua dos Alpes",
+        "zipcode": "93609-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua dos Gerânios",
+        "zipcode": "93611-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Camélias",
+        "zipcode": "93611-320"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua dos Crisântemos",
+        "zipcode": "93611-340"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Itália",
+        "zipcode": "93612-810"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Edgar Peider",
+        "zipcode": "93601-430"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Humaitá",
+        "zipcode": "93615-130"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Isolde Hass",
+        "zipcode": "93615-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Henrique Dias",
+        "zipcode": "93615-260"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Jatobá",
+        "zipcode": "93616-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua das Paineiras",
+        "zipcode": "93616-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Eça de Queiroz",
+        "zipcode": "93600-360"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Henrique Beckmann",
+        "zipcode": "93610-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Guido Mário Torres",
+        "zipcode": "93610-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Jasmim",
+        "zipcode": "93611-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua H",
+        "zipcode": "93611-540"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua José Francisco Costa",
+        "zipcode": "93612-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Irlanda",
+        "zipcode": "93612-620"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua José Bonifácio",
+        "zipcode": "93615-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Januário Rodrigues da Silva Sobrinho",
+        "zipcode": "93614-120"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Hulda Dientsmann",
+        "zipcode": "93614-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Emílio Albano Fell",
+        "zipcode": "93608-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Framboesa",
+        "zipcode": "93610-260"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Grandiúva",
+        "zipcode": "93610-460"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Fernando Marmitt",
+        "zipcode": "93611-270"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Elmo Henrique Prade",
+        "zipcode": "93611-480"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Gladis da Silva",
+        "zipcode": "93611-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Joaquim Nabuco",
+        "zipcode": "93615-270"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Eduardo Metz",
+        "zipcode": "93602-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Graciliano Ramos",
+        "zipcode": "93610-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua dos Pinhais",
+        "zipcode": "93616-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Figueira",
+        "zipcode": "93601-020"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Flores da Cunha",
+        "zipcode": "93600-780"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Edwino Leuck",
+        "zipcode": "93601-540"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Hungria",
+        "zipcode": "93612-840"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Feliz",
+        "zipcode": "93616-730"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua dos Beija",
+        "zipcode": "93617-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua dos Canários",
+        "zipcode": "93617-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua dos Ipês",
+        "zipcode": "93610-480"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Emerson Teixeira",
+        "zipcode": "93610-370"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Ivo Kiewel",
+        "zipcode": "93612-550"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua dos Municípios",
+        "zipcode": "93616-680"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua dos Biguás",
+        "zipcode": "93617-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Arthur Moura",
+        "zipcode": "93610-430"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Guajuviras",
+        "zipcode": "93616-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua dos Girassóis",
+        "zipcode": "93611-120"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua dos Cravos",
+        "zipcode": "93611-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Japão",
+        "zipcode": "93614-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Lima e Silva",
+        "zipcode": "93615-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "93600-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua José Albino Dilkin",
+        "zipcode": "93600-850"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua João XXIII",
+        "zipcode": "93608-460"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Guido Mário Torres",
+        "zipcode": "93609-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Lina Erna Cassel",
+        "zipcode": "93611-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua João Pessoa",
+        "zipcode": "93608-540"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Heitor Vila Lobos",
+        "zipcode": "93608-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Luiz de Camões",
+        "zipcode": "93610-090"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Portão",
+        "zipcode": "93615-010"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Pinto Bandeira",
+        "zipcode": "93615-440"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Pedras",
+        "street": "Rua Dona Amélia",
+        "zipcode": "93606-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Jacob Guilherme Dientsmann",
+        "zipcode": "93610-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Jorge Ildo Ledur",
+        "zipcode": "93616-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua E",
+        "zipcode": "93603-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Jacob Pedro Oscar Becker",
+        "zipcode": "93602-070"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Guarda",
+        "zipcode": "93609-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Gustaf Nordlund",
+        "zipcode": "93608-720"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Porto Velho",
+        "zipcode": "93612-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Portão",
+        "zipcode": "93612-860"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua João Pessoa",
+        "zipcode": "93612-320"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Machado de Assis",
+        "zipcode": "93610-680"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Odilo Adolfo Franke",
+        "zipcode": "93612-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Maceió",
+        "zipcode": "93612-440"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "93614-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Marcílio Dias",
+        "zipcode": "93615-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Mathias de Albuquerque",
+        "zipcode": "93615-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Nova Petrópolis",
+        "zipcode": "93616-780"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua José de Quadros",
+        "zipcode": "93608-450"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Padre Antonio Vieira",
+        "zipcode": "93610-070"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Oito",
+        "zipcode": "93612-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Otto Bauermann",
+        "zipcode": "93612-610"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Manoel José Ferraz de Abreu",
+        "zipcode": "93616-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Goiás",
+        "zipcode": "93607-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Frederico Leuck",
+        "zipcode": "93601-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Farroupilha",
+        "zipcode": "93600-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua João Metz",
+        "zipcode": "93600-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua José Ataliba Torres",
+        "zipcode": "93608-440"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Patrike Marotzky Moraes",
+        "zipcode": "93610-770"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Fridolino Edmundo Becker",
+        "zipcode": "93601-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Macapá",
+        "zipcode": "93612-450"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Luiz Tisian",
+        "zipcode": "93613-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Pedro Loredo da Costa",
+        "zipcode": "93610-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Marajó",
+        "zipcode": "93612-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Manaus",
+        "zipcode": "93612-510"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Liani Fátima Zanotelli Padilha",
+        "zipcode": "93617-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Maçarico",
+        "zipcode": "93617-340"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Maria Erna Schneider",
+        "zipcode": "93615-640"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Jacarandá",
+        "zipcode": "93616-270"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Rua Luiz Cansi Filho",
+        "zipcode": "93604-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Luiz Clodoveu da Silva",
+        "zipcode": "93608-110"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Lisboa",
+        "zipcode": "93609-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Luis Peteffi",
+        "zipcode": "93608-820"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Riachuelo",
+        "zipcode": "93615-120"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Lindolfo Collor",
+        "zipcode": "93601-580"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Portão",
+        "zipcode": "93615-740"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Lobo da Costa",
+        "zipcode": "93601-550"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Porto Lucena",
+        "zipcode": "93609-090"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Rincão",
+        "zipcode": "93609-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Rosangela de Almeida Soares Foscarini",
+        "zipcode": "93609-285"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Pedro Loredo da Costa",
+        "zipcode": "93609-340"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93610-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93610-610"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93611-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Porto",
+        "zipcode": "93609-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Pitanga",
+        "zipcode": "93609-335"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Santo Antonio",
+        "zipcode": "93609-680"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Joaquim",
+        "zipcode": "93609-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Renato Robinson",
+        "zipcode": "93610-440"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Recife",
+        "zipcode": "93612-370"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Salvador",
+        "zipcode": "93612-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Rio Branco",
+        "zipcode": "93612-470"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Luis Gonzaga",
+        "zipcode": "93609-640"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Raquel Barthou",
+        "zipcode": "93611-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Santarém",
+        "zipcode": "93612-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Rosário",
+        "zipcode": "93616-590"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Mário Brochier",
+        "zipcode": "93608-810"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Osmar Rodrigues Loreto",
+        "zipcode": "93608-630"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Manaca",
+        "zipcode": "93609-355"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Mimo de Venus",
+        "zipcode": "93609-365"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Monte Alegre",
+        "zipcode": "93609-510"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Rua Olivio Dhein",
+        "zipcode": "93604-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Minas Gerais",
+        "zipcode": "93607-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Manoel Bandeira",
+        "zipcode": "93607-620"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Maria Cândida Torres",
+        "zipcode": "93608-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Parobé",
+        "zipcode": "93609-610"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Pedras",
+        "street": "Rua Florianópolis",
+        "zipcode": "93606-450"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Osvaldo Aranha",
+        "zipcode": "93600-790"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Santa Rosa",
+        "zipcode": "93609-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Miguel",
+        "zipcode": "93609-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Marcio André Koch",
+        "zipcode": "93602-130"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Miguel Tostes",
+        "zipcode": "93607-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Sebastião",
+        "zipcode": "93609-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Recife",
+        "zipcode": "93612-560"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Pau Brasil",
+        "zipcode": "93616-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Rincão",
+        "zipcode": "93608-610"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Olivia Dilkin",
+        "zipcode": "93614-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua João Quaresma da Silva",
+        "zipcode": "93611-730"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua José Francisco Costa",
+        "zipcode": "93611-850"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua São Pedro",
+        "zipcode": "93600-370"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Portão",
+        "zipcode": "93600-970"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua São Luiz",
+        "zipcode": "93601-560"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua São Geraldo",
+        "zipcode": "93602-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua Sirmar Abilio de Moura",
+        "zipcode": "93603-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "93607-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "93607-260"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Raul Pompéia",
+        "zipcode": "93607-550"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Raymundo Corrêa",
+        "zipcode": "93600-720"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Rosendo Rangel da Rosa",
+        "zipcode": "93608-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Renato Robinson",
+        "zipcode": "93610-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Sebastião dos Reis",
+        "zipcode": "93610-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Suíça",
+        "zipcode": "93612-820"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Teresinha Sueli da Silva",
+        "zipcode": "93612-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Serafim Fernandes",
+        "zipcode": "93608-580"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Wilibaldo Brandt",
+        "zipcode": "93610-820"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Theobaldo Puvi Strey",
+        "zipcode": "93612-570"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Vereador Darci Gomes",
+        "zipcode": "93612-650"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Terezina",
+        "zipcode": "93612-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Vitória",
+        "zipcode": "93612-430"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Weleda Gertrudes Hommerling",
+        "zipcode": "93614-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Tiaraju",
+        "zipcode": "93614-780"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Treze de Maio",
+        "zipcode": "93615-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Vasconcelos Jardim",
+        "zipcode": "93615-340"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Victor Meirelles",
+        "zipcode": "93615-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Veranópolis",
+        "zipcode": "93616-870"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Trinca",
+        "zipcode": "93617-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Tucano",
+        "zipcode": "93617-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Valência",
+        "zipcode": "93609-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Wilson Pacini",
+        "zipcode": "93610-120"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Waldemar Nicolau Monaco",
+        "zipcode": "93610-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Werno Theno Schaeffer",
+        "zipcode": "93614-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Walter Costa",
+        "zipcode": "93615-330"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Otto Fillmann",
+        "zipcode": "93601-860"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua Hélio Fraga da Cunha",
+        "zipcode": "93603-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua Treze de Maio",
+        "zipcode": "93603-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Paraná",
+        "zipcode": "93607-270"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Vital Brasil",
+        "zipcode": "93608-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Tobias Barreto",
+        "zipcode": "93600-460"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Padre Luiz Weber",
+        "zipcode": "93601-090"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Ottomar Schneider",
+        "zipcode": "93600-840"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "93601-590"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Pedro Moacir Beys",
+        "zipcode": "93601-650"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Sevilha",
+        "zipcode": "93609-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Vinte de Setembro",
+        "zipcode": "93615-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Tupi",
+        "zipcode": "93614-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Pedro Rodrigues Machado",
+        "zipcode": "93601-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Mário de Miranda Quintana",
+        "zipcode": "93614-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Remídio Dietrich",
+        "zipcode": "93602-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Inglaterra",
+        "zipcode": "93612-730"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "93615-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Portão",
+        "zipcode": "93600-080"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Siro Fernandes Mattos",
+        "zipcode": "93601-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Portão",
+        "zipcode": "93600-090"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Rua Solange Maria Backes",
+        "zipcode": "93604-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Sergipe",
+        "zipcode": "93607-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Leopoldo",
+        "zipcode": "93609-080"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua São Luiz",
+        "zipcode": "93612-360"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Cristóvão",
+        "zipcode": "93609-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Portão",
+        "zipcode": "93614-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Jorge Amado",
+        "zipcode": "93614-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua São Cristóvão",
+        "zipcode": "93608-870"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Emilio Waldemar Scherer",
+        "zipcode": "93607-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Travessa Três",
+        "zipcode": "93612-670"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Santos Dumont",
+        "zipcode": "93614-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Pedras Altas",
+        "zipcode": "93616-880"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Trajano Nunes Cardoso",
+        "zipcode": "93618-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Avenida Adolfo Otto Koch",
+        "zipcode": "93602-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Visconde de Mauá",
+        "zipcode": "93608-430"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Willy Fleck",
+        "zipcode": "93610-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Lirio Pedro Fisch",
+        "zipcode": "93618-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93601-830"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Zulmira Kleinkauf",
+        "zipcode": "93602-080"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Águas",
+        "street": "Rua Três (Lot C. Lencina)",
+        "zipcode": "93606-770"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Wendelino Schuster",
+        "zipcode": "93607-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Vicente de Carvalho",
+        "zipcode": "93607-540"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Travessa Dois Irmãos",
+        "zipcode": "93603-510"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Paraíba",
+        "zipcode": "93607-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Venâncio Aires",
+        "zipcode": "93607-510"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Travessa Alfredo Koste",
+        "zipcode": "93608-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Theodomiro Porto da Fonseca",
+        "zipcode": "93600-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Marcolina Garcia da Silva",
+        "zipcode": "93601-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "93600-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Emilio Christiano Winter",
+        "zipcode": "93600-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vidal de Negreiros",
+        "zipcode": "93600-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Fortaleza",
+        "zipcode": "93612-680"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Lindolfo Hélio Schimidt",
+        "zipcode": "93614-130"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua São Francisco de Paula",
+        "zipcode": "93616-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Águas",
+        "street": "Rua Um (Lot C. Lencina)",
+        "zipcode": "93606-780"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Wilma Leuck",
+        "zipcode": "93608-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Vereador Arno Mentz",
+        "zipcode": "93611-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Tulipa",
+        "zipcode": "93609-325"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Ivoti",
+        "zipcode": "93616-800"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Miguel Couto",
+        "zipcode": "93614-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Valéria Henrichs",
+        "zipcode": "93615-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Francisco Alves",
+        "zipcode": "93615-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Uruguaiana",
+        "zipcode": "93616-550"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Travessa A",
+        "zipcode": "93617-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Guabiju",
+        "zipcode": "93616-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Brasília",
+        "zipcode": "93607-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua do Parque",
+        "zipcode": "93615-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua dos Sabiás",
+        "zipcode": "93617-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua das Codornas",
+        "zipcode": "93617-370"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua da Hidráulica",
+        "zipcode": "93614-730"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93604-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Carolina Elisa Nabinger",
+        "zipcode": "93611-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Violetas",
+        "zipcode": "93611-450"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Copo de Leite",
+        "zipcode": "93611-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Caxias do Sul",
+        "zipcode": "93616-740"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua do Parque",
+        "zipcode": "93614-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua dos Eucaliptos",
+        "zipcode": "93614-270"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua do Tanino",
+        "zipcode": "93603-010"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Candido Portinari",
+        "zipcode": "93608-370"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua José Miguel Aires dos Santos",
+        "zipcode": "93609-295"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua José Francisco Costa",
+        "zipcode": "93611-440"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Primaveras",
+        "zipcode": "93611-130"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93611-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Porto Alegre",
+        "zipcode": "93611-510"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Edvino Rodrigues da Silva",
+        "zipcode": "93614-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Alfredo Gustavo Wilke",
+        "zipcode": "93614-770"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Avenida Bento Gonçalves",
+        "zipcode": "93614-800"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Antônio Prado",
+        "zipcode": "93616-670"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Arthur Rodembusch",
+        "zipcode": "93614-720"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Avenida Brasil",
+        "zipcode": "93614-810"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Alvarenga Peixoto",
+        "zipcode": "93608-840"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Brasil",
+        "zipcode": "93610-080"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Bento Gonçalves",
+        "zipcode": "93610-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Aloisio Senger",
+        "zipcode": "93611-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Flávio José Pereira",
+        "zipcode": "93611-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Amantino Ferraz de Abreu",
+        "zipcode": "93612-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Galópolis",
+        "zipcode": "93616-770"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Germano Dientsmann",
+        "zipcode": "93612-540"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua das Saracuras",
+        "zipcode": "93617-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Estrada Vicinal dos Bauermann",
+        "zipcode": "93618-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Maurício Cardoso",
+        "zipcode": "93601-680"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Euclides Monteiro",
+        "zipcode": "93608-020"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Novo Hamburgo",
+        "zipcode": "93609-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Zeno Schmiedel",
+        "zipcode": "93600-820"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Oscar Evaldo Becker",
+        "zipcode": "93601-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Zeno Schmiedel",
+        "zipcode": "93601-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Humberto de Campos",
+        "zipcode": "93600-680"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Palmas",
+        "zipcode": "93611-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Affonso Utzig",
+        "zipcode": "93612-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Avenida Brasil",
+        "zipcode": "93615-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Avenida Campo Grande",
+        "zipcode": "93616-650"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua Arthur Pedrinho Santarini",
+        "zipcode": "93603-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Campo Grande",
+        "zipcode": "93612-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Irena Helma Winter",
+        "zipcode": "93611-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93600-510"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Avenida Tiradentes",
+        "zipcode": "93600-740"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "93600-340"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93600-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Eça de Queiroz",
+        "zipcode": "93600-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Chuva de Ouro",
+        "zipcode": "93609-360"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua A (R E Weber)",
+        "zipcode": "93609-870"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Estrada Vicinal Lauro Luiz Mattje",
+        "zipcode": "93604-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua das Palmeiras",
+        "zipcode": "93609-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "93601-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua dos Guararapes",
+        "zipcode": "93600-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua José de Alencar",
+        "zipcode": "93600-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Humberto de Campos",
+        "zipcode": "93600-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Castelo Branco",
+        "zipcode": "93600-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua C (R Pres Lucena)",
+        "zipcode": "93602-460"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Henrique Dias",
+        "zipcode": "93600-110"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua João Lourenço",
+        "zipcode": "93608-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua João Inácio Lanius",
+        "zipcode": "93609-790"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "93600-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93600-320"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Plinio Posada",
+        "zipcode": "93600-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Petry",
+        "zipcode": "93602-470"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "93603-020"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Pedro Loredo da Costa",
+        "zipcode": "93609-370"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Arnoldo Sander",
+        "zipcode": "93610-360"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Avenida Amandio Francisco Johann",
+        "zipcode": "93608-650"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Esperança",
+        "zipcode": "93608-780"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Ereda Weber",
+        "zipcode": "93610-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Magdalena de Quadros Bittencourt",
+        "zipcode": "93608-680"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Nélio Bertusso",
+        "zipcode": "93602-450"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua Olivio Dhein",
+        "zipcode": "93603-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Brasil",
+        "zipcode": "93600-010"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Auxiliadora",
+        "zipcode": "93600-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Balduino Weber",
+        "zipcode": "93600-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Theodomiro Porto da Fonseca",
+        "zipcode": "93600-070"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "93600-330"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Casemiro de Abreu",
+        "zipcode": "93600-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Gregório de Mattos",
+        "zipcode": "93600-440"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Machado de Assis",
+        "zipcode": "93600-450"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Guajuvira",
+        "zipcode": "93601-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Avelino Antônio dos Reis",
+        "zipcode": "93600-750"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Adolfo Mattes",
+        "zipcode": "93600-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Pitangueira",
+        "zipcode": "93601-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Amora",
+        "zipcode": "93609-315"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Adriano de Quadros Bittencourt",
+        "zipcode": "93608-770"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Roque",
+        "zipcode": "93609-650"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Alceny Lorena Scheeffer",
+        "zipcode": "93611-680"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua das Gaivotas",
+        "zipcode": "93617-360"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93603-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Prolongamento da Adriano de Quadros Bittencourt",
+        "zipcode": "93607-720"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Carlos Chagas",
+        "zipcode": "93608-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Carlos Antônio Bender",
+        "zipcode": "93610-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Cravinas",
+        "zipcode": "93611-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Walter Klein",
+        "zipcode": "93610-860"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Leopoldo Albino Hermann",
+        "zipcode": "93614-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua da Igreja",
+        "zipcode": "93617-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua das Perdizes",
+        "zipcode": "93617-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua José Francisco Costa",
+        "zipcode": "93612-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua José Ataliba Torres",
+        "zipcode": "93608-670"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Luiz Pedro dos Reis",
+        "zipcode": "93617-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua São Cristóvão",
+        "zipcode": "93608-070"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93610-560"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua São Cristóvão",
+        "zipcode": "93609-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua São Marcos",
+        "zipcode": "93608-500"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Rudy Benno Kruse",
+        "zipcode": "93610-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Rua Armindo Luiz Trein",
+        "zipcode": "93615-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Flamboyant",
+        "zipcode": "93616-260"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Emilio Waldemar Scherer",
+        "zipcode": "93607-490"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Tobias Barreto",
+        "zipcode": "93610-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Bento Gonçalves",
+        "zipcode": "93610-850"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Araçá",
+        "zipcode": "93609-305"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Germano Dauernheimer",
+        "zipcode": "93610-800"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Norma Winter",
+        "zipcode": "93618-340"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Germano Leuck",
+        "zipcode": "93608-010"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Jaci Odete Torres Godoy",
+        "zipcode": "93608-080"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Fernandes Vieira",
+        "zipcode": "93600-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Otilia Olinda Grawer",
+        "zipcode": "93608-130"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Bom Sucesso",
+        "zipcode": "93608-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "93608-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua João Lopes Ferreira",
+        "zipcode": "93616-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Amazonas",
+        "zipcode": "93607-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Manoel Américo Stricker",
+        "zipcode": "93614-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Wilibaldo Brandt",
+        "zipcode": "93614-750"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua São Gabriel",
+        "zipcode": "93616-570"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Rua Henrique Konrad Filho",
+        "zipcode": "93604-090"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua José Joaquim Rodrigues",
+        "zipcode": "93611-590"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Gerberas",
+        "zipcode": "93611-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Rua Bento Orni Kleinkauf",
+        "zipcode": "93603-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Taquara",
+        "zipcode": "93616-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Louro",
+        "zipcode": "93601-010"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Setúbal",
+        "zipcode": "93609-480"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Travessa da Emancipação",
+        "zipcode": "93608-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Anita Garibaldi",
+        "zipcode": "93600-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Passarela Felipe Nery Hoch",
+        "zipcode": "93610-350"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Carlos Koch",
+        "zipcode": "93602-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "93610-750"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Avenida Adolfo Otto Koch",
+        "zipcode": "93601-840"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Farroupilha",
+        "zipcode": "93600-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Área Rural de Estância Velha",
+        "street": "Área Rural",
+        "zipcode": "93619-899"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Avenida Vicente Jorge da Silva",
+        "zipcode": "93608-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Almirante Tamandaré",
+        "zipcode": "93615-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Carlito Hugentobler",
+        "zipcode": "93601-630"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Alfredo Robinson",
+        "zipcode": "93608-120"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Carambola",
+        "zipcode": "93609-320"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Caju",
+        "zipcode": "93610-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Margaridas",
+        "zipcode": "93611-370"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua C",
+        "zipcode": "93611-560"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Alfredo Hansen",
+        "zipcode": "93611-570"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Dez",
+        "zipcode": "93612-040"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Avenida Walter Klein",
+        "zipcode": "93612-280"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Dinamarca",
+        "zipcode": "93612-740"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Petúnias",
+        "zipcode": "93611-470"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua do Bosque",
+        "zipcode": "93614-260"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Águas",
+        "street": "Rua Dois (Lot C. Lencina)",
+        "zipcode": "93606-790"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua David Canabarro",
+        "zipcode": "93600-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Campos Salles",
+        "zipcode": "93607-520"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Alta Tensão",
+        "zipcode": "93609-110"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Bragança",
+        "zipcode": "93609-170"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Braga",
+        "zipcode": "93609-180"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Butiá",
+        "zipcode": "93610-270"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Boa Vista",
+        "zipcode": "93612-200"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Hortências",
+        "zipcode": "93611-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Butiá",
+        "zipcode": "93609-395"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Fagundes Varela",
+        "zipcode": "93600-470"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Aloísio Schwaab",
+        "zipcode": "93601-080"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Aloisio Birck",
+        "zipcode": "93608-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Alfredo Osvino Noé",
+        "zipcode": "93610-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Carlos Antônio Bender",
+        "zipcode": "93610-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Alfredo Gustavo Wilke",
+        "zipcode": "93610-700"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Almêndio Américo Ferreira",
+        "zipcode": "93610-830"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Avenida Walter Klein",
+        "zipcode": "93612-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Alfredo Juchem",
+        "zipcode": "93601-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Aloisio Pedro Seger",
+        "zipcode": "93610-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Avenida Walter Klein",
+        "zipcode": "93614-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Felipe Camarão",
+        "zipcode": "93600-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Orquídeas",
+        "zipcode": "93611-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Brasilino Mendes Fogaça",
+        "zipcode": "93608-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Carlos André Dauernheimer",
+        "zipcode": "93611-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Roseiras",
+        "zipcode": "93611-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Lidia Meurer Lottermann",
+        "zipcode": "93602-090"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Hugo Metz",
+        "zipcode": "93600-020"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Hildegard Becker",
+        "zipcode": "93600-830"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Lauro Oscar Diefenthaeler",
+        "zipcode": "93610-330"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Lauro Normélio Konrath",
+        "zipcode": "93610-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Hugo Brandt",
+        "zipcode": "93610-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua José Miguel Aires dos Santos",
+        "zipcode": "93610-510"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Jacob Bauer Sobrinho",
+        "zipcode": "93611-290"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua I",
+        "zipcode": "93611-530"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Imperatriz Leopoldina",
+        "zipcode": "93608-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Fátima",
+        "zipcode": "93609-160"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Hermes José Pozza",
+        "zipcode": "93610-020"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Leandro Trespach",
+        "zipcode": "93611-110"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Jacob Balduino Dhein",
+        "zipcode": "93601-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93602-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Prefeito Renato Ênio Trein",
+        "zipcode": "93608-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "93608-620"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Herta Hilda da Silva",
+        "zipcode": "93608-830"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Quinze (R Araçá)",
+        "zipcode": "93609-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Laureano Harz",
+        "zipcode": "93610-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Quaresmeira",
+        "zipcode": "93609-375"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Ernesto Zimmer",
+        "zipcode": "93608-090"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Evaristo José Fernandes",
+        "zipcode": "93608-570"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Evaldo Pires",
+        "zipcode": "93611-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Inácio Wunibaldo Schneider",
+        "zipcode": "93611-660"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Erna Luisa Nabinger",
+        "zipcode": "93611-260"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Espírito Santo",
+        "zipcode": "93607-470"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Ervino Teobaldo Von Mühlen",
+        "zipcode": "93602-110"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Nory Torres de Moraes",
+        "zipcode": "93608-550"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Porto Xavier",
+        "zipcode": "93609-070"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Oito de Setembro",
+        "zipcode": "93608-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "93600-540"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "93600-650"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "93600-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Nelson Roque Bach",
+        "zipcode": "93601-070"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Liberato Salzano Vieira da Cunha",
+        "zipcode": "93600-770"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Lauri Metz",
+        "zipcode": "93602-430"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão da Saudade",
+        "street": "Rua Homero dos Santos Machado",
+        "zipcode": "93604-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua José Lins do Rego",
+        "zipcode": "93607-570"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Ereda Weber",
+        "zipcode": "93609-860"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Evaldo Metz",
+        "zipcode": "93602-210"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Floresta",
+        "street": "Rua Felipe Konrath",
+        "zipcode": "93600-670"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Portugal",
+        "zipcode": "93609-230"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Ijuí",
+        "zipcode": "93609-590"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Passarela Santa Catarina",
+        "zipcode": "93607-190"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Passarela dos Charruas",
+        "zipcode": "93614-570"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua Caldas Júnior",
+        "zipcode": "93607-600"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Carlos Graef",
+        "zipcode": "93608-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Avenida dos Açores",
+        "zipcode": "93609-100"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua das Bromélias",
+        "zipcode": "93611-360"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua dos Lírios",
+        "zipcode": "93611-430"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão Gaúcho",
+        "street": "Rua São Paulo",
+        "zipcode": "93607-460"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Ananá",
+        "zipcode": "93609-405"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "93610-790"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Frederico Hugo Hengelmann",
+        "zipcode": "93614-020"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Arthur Leopoldo Ritter",
+        "zipcode": "93600-270"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Germano Dauernheimer",
+        "zipcode": "93610-740"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Jabuticaba",
+        "zipcode": "93609-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua Ana Gabriela Ramme",
+        "zipcode": "93611-710"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Bagé",
+        "zipcode": "93616-560"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Ana Rech",
+        "zipcode": "93616-720"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Camaquã",
+        "zipcode": "93609-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Carlos Barbosa",
+        "zipcode": "93600-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua do Tanino",
+        "zipcode": "93601-620"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Alta Tensão",
+        "zipcode": "93609-570"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Avenida Independência",
+        "zipcode": "93615-300"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Alegrete",
+        "zipcode": "93616-580"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Quintas",
+        "street": "Avenida Primeiro de Maio",
+        "zipcode": "93615-860"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Albino Koch",
+        "zipcode": "93600-030"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "93600-400"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Colinas Verdes",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "93603-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Adriano de Quadros Bittencourt",
+        "zipcode": "93608-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Avenida Piratini",
+        "zipcode": "93614-790"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua do Parque",
+        "zipcode": "93615-060"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua dos Buritis",
+        "zipcode": "93616-250"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "93616-860"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Leopoldo Luiz Ávila",
+        "zipcode": "93616-420"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Bela Vista",
+        "street": "Rua Luiz Pasteur",
+        "zipcode": "93614-540"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua José Ataliba Torres",
+        "zipcode": "93608-240"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua João Lourenço",
+        "zipcode": "93608-360"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Lauro de Barros",
+        "zipcode": "93608-690"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Encosta do Sol",
+        "street": "Rua João Quaresma da Silva",
+        "zipcode": "93611-310"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Israel Rodrigues Machado",
+        "zipcode": "93612-070"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Rua Raymundo Ferraz de Abreu",
+        "zipcode": "93616-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Portão",
+        "zipcode": "93600-971"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Portugal",
+        "zipcode": "93609-470"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Bartolomeu de Gusmão",
+        "zipcode": "93608-220"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua José Rui Siqueira de Camargo",
+        "zipcode": "93612-410"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Industrial",
+        "street": "Rua Portão",
+        "zipcode": "93613-000"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Campo Grande",
+        "street": "Travessa Ildefonso de Londres",
+        "zipcode": "93617-150"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rincão dos Ilhéus",
+        "street": "Rua Vereador Antônio Centeno",
+        "zipcode": "93608-140"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Rosas",
+        "street": "Rua Presidente Lucena",
+        "zipcode": "93601-610"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Rua Renato Robinson",
+        "zipcode": "93610-340"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "União",
+        "street": "Avenida Arlindo Schreiner",
+        "zipcode": "93610-380"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lago Azul",
+        "street": "Rua Porto Alegre",
+        "zipcode": "93612-050"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Sol Nascente",
+        "street": "Rua Novo Hamburgo",
+        "zipcode": "93609-580"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Henrique Konrad Filho",
+        "zipcode": "93615-390"
+    },
+    {
+        "city": "Estância Velha",
+        "state": "RS",
+        "district": "Lira",
+        "street": "Rua Anchieta",
+        "zipcode": "93615-190"
+    }
+]

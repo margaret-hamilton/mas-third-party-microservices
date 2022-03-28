@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Araçaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Ulisses Batista 59",
+        "zipcode": "35777-970"
+    },
+    {
+        "city": "Araçaí",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35777-000"
+    },
+    {
+        "city": "Araçaí",
+        "state": "MG",
+        "district": "",
+        "street": "Rua Joaquim Pereira Moura",
+        "zipcode": "35777-990"
+    },
+    {
+        "city": "Araçaí",
+        "state": "MG",
+        "district": null,
+        "street": "Rua Pai José",
+        "zipcode": "35777-991"
+    }
+]

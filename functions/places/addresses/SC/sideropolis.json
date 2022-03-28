@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Siderópolis",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Siderúrgica",
+        "zipcode": "88860-970"
+    },
+    {
+        "city": "Siderópolis",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88860-000"
+    },
+    {
+        "city": "Siderópolis",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Bela Vista",
+        "zipcode": "88860-990"
+    },
+    {
+        "city": "Siderópolis",
+        "state": "SC",
+        "district": "Vila São Jorge",
+        "street": "Rua Bela Vista",
+        "zipcode": "88860-971"
+    }
+]

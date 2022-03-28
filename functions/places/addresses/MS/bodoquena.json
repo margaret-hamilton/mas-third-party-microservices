@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bodoquena",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Avenida Manoel Rodrigues de Oliveira",
+        "zipcode": "79390-970"
+    },
+    {
+        "city": "Bodoquena",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79390-000"
+    },
+    {
+        "city": "Bodoquena",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "79390-991"
+    },
+    {
+        "city": "Bodoquena",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "79390-971"
+    }
+]

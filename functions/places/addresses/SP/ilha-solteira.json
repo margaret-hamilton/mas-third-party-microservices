@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ilha Solteira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Alameda São Paulo 193",
+        "zipcode": "15385-970"
+    },
+    {
+        "city": "Ilha Solteira",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "15385-000"
+    },
+    {
+        "city": "Ilha Solteira",
+        "state": "SP",
+        "district": null,
+        "street": "Alameda das Hortencias",
+        "zipcode": "15385-990"
+    }
+]

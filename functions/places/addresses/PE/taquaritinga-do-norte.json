@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Taquaritinga do Norte",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Professor Luiz Carlos 68",
+        "zipcode": "55790-970"
+    },
+    {
+        "city": "Taquaritinga do Norte",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55790-000"
+    },
+    {
+        "city": "Taquaritinga do Norte",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Padre Pedro José de Moraes",
+        "zipcode": "55790-990"
+    }
+]

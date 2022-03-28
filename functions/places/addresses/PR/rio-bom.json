@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Rio Bom",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Apucarana 331",
+        "zipcode": "86830-970"
+    },
+    {
+        "city": "Rio Bom",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86830-000"
+    }
+]

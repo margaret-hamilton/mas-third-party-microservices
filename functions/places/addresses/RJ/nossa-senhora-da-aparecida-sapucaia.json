@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nossa Senhora da Aparecida (Sapucaia)",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua José Fernandes de Souza 29",
+        "zipcode": "25886-970"
+    },
+    {
+        "city": "Nossa Senhora da Aparecida (Sapucaia)",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "25886-000"
+    },
+    {
+        "city": "Nossa Senhora da Aparecida (Sapucaia)",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Carmélio Raposo",
+        "zipcode": "25886-990"
+    }
+]

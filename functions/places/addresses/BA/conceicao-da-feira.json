@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Conceição da Feira",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Alfredo Mascarenhas 72",
+        "zipcode": "44320-970"
+    },
+    {
+        "city": "Conceição da Feira",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44320-000"
+    },
+    {
+        "city": "Conceição da Feira",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Santa Rita",
+        "zipcode": "44320-990"
+    }
+]

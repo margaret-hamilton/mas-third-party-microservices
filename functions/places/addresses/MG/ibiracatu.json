@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Ibiracatu",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua do Comércio 150",
+        "zipcode": "39455-972"
+    },
+    {
+        "city": "Ibiracatu",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39455-000"
+    }
+]

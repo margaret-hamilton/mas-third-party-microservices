@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Almenara",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Avelino Nascimento 11",
+        "zipcode": "39900-970"
+    },
+    {
+        "city": "Almenara",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Avelino Nascimento 11",
+        "zipcode": "39900-972"
+    },
+    {
+        "city": "Almenara",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39900-000"
+    }
+]

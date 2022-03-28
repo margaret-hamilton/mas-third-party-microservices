@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Aliança",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Siqueira Campos 127",
+        "zipcode": "55890-970"
+    },
+    {
+        "city": "Aliança",
+        "state": "PE",
+        "district": "Upatininga",
+        "street": "Rua Dom Moura 39",
+        "zipcode": "55896-970"
+    },
+    {
+        "city": "Aliança",
+        "state": "PE",
+        "district": "Distrito Macuje",
+        "street": "Rua Epitácio Moreira 88  AGC Macuje",
+        "zipcode": "55898-970"
+    },
+    {
+        "city": "Aliança",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Bolívia",
+        "zipcode": "55890-991"
+    },
+    {
+        "city": "Aliança",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Santa Luzia",
+        "zipcode": "55890-990"
+    },
+    {
+        "city": "Aliança",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55890-000"
+    },
+    {
+        "city": "Aliança",
+        "state": "PE",
+        "district": "Tupaoca",
+        "street": "Rua do Sol 37",
+        "zipcode": "55895-970"
+    }
+]

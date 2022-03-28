@@ -1,0 +1,44 @@
+[
+    {
+        "city": "São Bento Abade",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37407-000"
+    },
+    {
+        "city": "São Bento Abade",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Miguel Nassar 160",
+        "zipcode": "37414-971"
+    },
+    {
+        "city": "São Bento Abade",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Miguel Nassar 71",
+        "zipcode": "37414-972"
+    },
+    {
+        "city": "São Bento Abade",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37414-000"
+    },
+    {
+        "city": "São Bento Abade",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Miguel Nassar",
+        "zipcode": "37407-971"
+    },
+    {
+        "city": "São Bento Abade",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Miguel Nassar",
+        "zipcode": "37407-972"
+    }
+]

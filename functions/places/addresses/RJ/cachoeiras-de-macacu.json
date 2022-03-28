@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Cachoeiras de Macacu",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Governador Roberto Silveira 114",
+        "zipcode": "28680-970"
+    },
+    {
+        "city": "Cachoeiras de Macacu",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28680-000"
+    },
+    {
+        "city": "Cachoeiras de Macacu",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Virtulino José Moraes",
+        "zipcode": "28680-990"
+    }
+]

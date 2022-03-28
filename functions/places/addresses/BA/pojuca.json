@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Pojuca",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48120-000"
+    },
+    {
+        "city": "Pojuca",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Raulino Jorge Dias Aquino",
+        "zipcode": "48120-992"
+    },
+    {
+        "city": "Pojuca",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Lauro de Freitas 105",
+        "zipcode": "48120-970"
+    },
+    {
+        "city": "Pojuca",
+        "state": "BA",
+        "district": null,
+        "street": "Loteamento Jardim Los Angeles",
+        "zipcode": "48120-991"
+    },
+    {
+        "city": "Pojuca",
+        "state": "BA",
+        "district": null,
+        "street": "Módulo Esportivo do Retiro",
+        "zipcode": "48120-990"
+    }
+]

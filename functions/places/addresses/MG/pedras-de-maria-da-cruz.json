@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Pedras de Maria da Cruz",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Principal s/n",
+        "zipcode": "39492-972"
+    },
+    {
+        "city": "Pedras de Maria da Cruz",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Montes Claros 360",
+        "zipcode": "39492-973"
+    },
+    {
+        "city": "Pedras de Maria da Cruz",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39492-000"
+    }
+]

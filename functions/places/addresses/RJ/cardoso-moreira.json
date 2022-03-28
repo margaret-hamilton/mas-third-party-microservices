@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Cardoso Moreira",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28180-000"
+    },
+    {
+        "city": "Cardoso Moreira",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Joel Reis 190/194",
+        "zipcode": "28180-970"
+    },
+    {
+        "city": "Cardoso Moreira",
+        "state": "RJ",
+        "district": "Outeiro",
+        "street": "Rua José Jorge Brito 75",
+        "zipcode": "28190-970"
+    },
+    {
+        "city": "Cardoso Moreira",
+        "state": "RJ",
+        "district": "São Joaquim",
+        "street": "Rua Major Corrêa s/n",
+        "zipcode": "28180-972"
+    },
+    {
+        "city": "Cardoso Moreira",
+        "state": "RJ",
+        "district": "Doutor Matos",
+        "street": "Estrada Doutor Matos s/n",
+        "zipcode": "28180-971"
+    }
+]

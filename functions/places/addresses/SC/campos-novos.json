@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Campos Novos",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano Peixoto 237",
+        "zipcode": "89620-970"
+    },
+    {
+        "city": "Campos Novos",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89620-000"
+    },
+    {
+        "city": "Campos Novos",
+        "state": "SC",
+        "district": "Guarani",
+        "street": "Estrada Geral do distrito de Guarani",
+        "zipcode": "89620-972"
+    },
+    {
+        "city": "Campos Novos",
+        "state": "SC",
+        "district": "Encruzilhada",
+        "street": "Rodovia Campos Novos s/n",
+        "zipcode": "89620-971"
+    }
+]

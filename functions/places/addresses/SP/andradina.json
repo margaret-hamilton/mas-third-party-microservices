@@ -1,0 +1,5399 @@
+[
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua B",
+        "zipcode": "16904-013"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Ceará",
+        "zipcode": "16900-410"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Feltrini",
+        "street": "Rua Itararé",
+        "zipcode": "16900-433"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Regente Feijo",
+        "zipcode": "16901-260"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sao Pedro",
+        "street": "Rua B",
+        "zipcode": "16901-399"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Paraguassu",
+        "zipcode": "16900-117"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada H",
+        "zipcode": "16902-718"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Santa Ângela",
+        "zipcode": "16900-072"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua Fortunato Previato",
+        "zipcode": "16904-030"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte",
+        "zipcode": "16900-715"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Passeio A",
+        "zipcode": "16903-065"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua José Lopes de Oliveira",
+        "zipcode": "16905-210"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua Sales Zique Zar",
+        "zipcode": "16905-220"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada J",
+        "zipcode": "16902-722"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Empresarial",
+        "street": "Rua 1",
+        "zipcode": "16901-883"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Arco Verde",
+        "zipcode": "16902-703"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua Luiz Obici",
+        "zipcode": "16902-172"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Alpina",
+        "street": "Rua Amiens",
+        "zipcode": "16900-580"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Antônio Modesto Filho",
+        "zipcode": "16901-830"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Bahia",
+        "zipcode": "16901-326"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "16901-001"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "16902-133"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santo Antônio",
+        "street": "Rua Cuiabá",
+        "zipcode": "16901-200"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Dezessete",
+        "zipcode": "16900-622"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Dinamarca",
+        "zipcode": "16903-030"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua Doutor José Ferraz do Amaral",
+        "zipcode": "16900-453"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Espanha",
+        "zipcode": "16903-007"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Evandro Brembati Calvoso",
+        "zipcode": "16901-020"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Homero Rodrigues Silva",
+        "zipcode": "16901-125"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Iguassu",
+        "zipcode": "16901-165"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua João Miguel Loureiro",
+        "zipcode": "16900-625"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua José Vasques de Freitas",
+        "zipcode": "16900-610"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Urubupungá",
+        "street": "Rua Kaiti Takebe",
+        "zipcode": "16901-215"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Avenida Lisboa",
+        "zipcode": "16903-063"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Manoel José Gomes",
+        "zipcode": "16900-489"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "16901-011"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "16901-028"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua Monsenhor Vítor Assuite",
+        "zipcode": "16900-467"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Nápolis",
+        "zipcode": "16903-083"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Noruega",
+        "zipcode": "16903-093"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Paes Leme",
+        "zipcode": "16901-110"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Paulo Afonso",
+        "zipcode": "16901-175"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Presidente Juscelino Kubitschek de Oliveira",
+        "zipcode": "16900-653"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas",
+        "zipcode": "16901-026"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Doutor Orensy Rodrigues da Silva",
+        "zipcode": "16901-435"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Regente Feijó",
+        "zipcode": "16901-308"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Romeu Mariani",
+        "zipcode": "16901-820"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "16902-075"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "16901-440"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "16902-043"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Trinta e Dois",
+        "zipcode": "16900-657"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Trinta e Seis",
+        "zipcode": "16900-644"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Trinta e Um",
+        "zipcode": "16900-613"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Urubupungá",
+        "zipcode": "16903-077"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Vinte e Três",
+        "zipcode": "16900-669"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Espírito Santo",
+        "zipcode": "16901-407"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Avenida Moura Andrade",
+        "zipcode": "16902-020"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Avenida José Garcia de Freitas",
+        "zipcode": "16902-160"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Campos Sales",
+        "zipcode": "16901-393"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Passeio C",
+        "zipcode": "16903-069"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Guanabara",
+        "zipcode": "16901-000"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "16900-970"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "16900-900"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Paranapanema",
+        "zipcode": "16901-313"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Nicolau Abud Neto",
+        "zipcode": "16901-852"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Pedro Gardin",
+        "zipcode": "16901-857"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Avenida Doutor Pedro Bentivoglio Filho",
+        "zipcode": "16902-700"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Ceará",
+        "zipcode": "16900-077"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua F",
+        "zipcode": "16905-250"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "16900-040"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Goiás",
+        "zipcode": "16900-062"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Guaporé",
+        "zipcode": "16900-076"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Itália",
+        "zipcode": "16903-013"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Itararé",
+        "zipcode": "16900-107"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Jesus Trujillo",
+        "zipcode": "16900-052"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Augusto de Carvalho",
+        "zipcode": "16900-013"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua José Bonifácio",
+        "zipcode": "16900-054"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Bonifácio",
+        "zipcode": "16900-035"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Bonifácio",
+        "zipcode": "16900-008"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua José Megid",
+        "zipcode": "16903-137"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Josino Canoa de Oliveira",
+        "zipcode": "16900-083"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rodovia Marechal Rondon",
+        "zipcode": "16901-240"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Mato Grosso",
+        "zipcode": "16901-090"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Mato Grosso",
+        "zipcode": "16901-470"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Nove de Julho",
+        "zipcode": "16900-030"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Onze de Julho",
+        "zipcode": "16900-074"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Paes Leme",
+        "zipcode": "16900-010"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Delmond",
+        "street": "Rua Passeio",
+        "zipcode": "16900-475"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Alpina",
+        "street": "Rua Pigalli",
+        "zipcode": "16900-570"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Professor Adejar Vieira de Faria",
+        "zipcode": "16903-153"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "16900-043"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Riachuelo",
+        "zipcode": "16900-073"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Riachuelo",
+        "zipcode": "16900-020"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Avenida Rio Grande do Sul",
+        "zipcode": "16900-063"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santos Dumont",
+        "zipcode": "16900-016"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Tamandaré",
+        "zipcode": "16900-114"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Um",
+        "zipcode": "16903-170"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador José Gonçalves Gonzaga",
+        "zipcode": "16905-060"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Vereador Manoel Teixeira de Freitas",
+        "zipcode": "16900-022"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Vinte e Um",
+        "zipcode": "16903-189"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Vinte e Um de Abril",
+        "zipcode": "16900-079"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Waldemar Cese",
+        "zipcode": "16900-055"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Manoel Gomes da Costa",
+        "zipcode": "16900-053"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Oito de Maio",
+        "zipcode": "16900-050"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Particular",
+        "zipcode": "16900-046"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Guiomar Soares de Andrade",
+        "zipcode": "16900-064"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Viela I",
+        "zipcode": "16900-419"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua C",
+        "zipcode": "16902-185"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Alpina",
+        "street": "Rua Padre Adriano Rodrigues da Silva",
+        "zipcode": "16900-567"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Cristóvam Colombo",
+        "zipcode": "16901-391"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Passeio D",
+        "zipcode": "16903-070"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Alagoas",
+        "zipcode": "16900-408"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Alcides Fernandes Paiva",
+        "zipcode": "16900-207"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Alexandre Salomão",
+        "zipcode": "16900-407"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Morumbi",
+        "street": "Rua B",
+        "zipcode": "16900-169"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Ricardo Pegoraro",
+        "street": "Rua C",
+        "zipcode": "16900-183"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Lourival Rabelo dos Santos",
+        "street": "Rua Valdir José Storti",
+        "zipcode": "16900-486"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Paulo Marin",
+        "zipcode": "16900-418"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Caramuru",
+        "zipcode": "16900-212"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Celso Caprioglio",
+        "zipcode": "16900-493"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Chisho Sinzato",
+        "zipcode": "16900-633"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Cinco",
+        "zipcode": "16900-560"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Dois",
+        "zipcode": "16900-624"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Águas",
+        "street": "Rua Dom Bosco",
+        "zipcode": "16900-140"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Pedrina",
+        "street": "Rua Domingos Antunes de Souza",
+        "zipcode": "16900-173"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Lourival Rabelo dos Santos",
+        "street": "Rua Eid Melhem Abboud",
+        "zipcode": "16900-487"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Hermelindo Félix da Silva",
+        "zipcode": "16900-618"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua Ernestina Passarelli Mazzaro",
+        "zipcode": "16900-462"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Feltrini",
+        "street": "Rua Euclide da Cunha",
+        "zipcode": "16900-437"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua Felício Geraldo",
+        "zipcode": "16900-465"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Goiás",
+        "zipcode": "16900-490"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Via João Roque",
+        "zipcode": "16900-205"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Joaquim Pedro de Araújo",
+        "zipcode": "16900-616"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Joaquim Pereira da Rocha",
+        "zipcode": "16900-623"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua José Martins Rodrigues",
+        "zipcode": "16900-629"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua José Pizzo",
+        "zipcode": "16900-463"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Nove de Julho",
+        "zipcode": "16900-415"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Pedro Celestino Oliveira",
+        "zipcode": "16900-492"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Piauí",
+        "zipcode": "16900-416"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Feltrini",
+        "street": "Rua Presidente Vargas",
+        "zipcode": "16900-443"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Feltrini",
+        "street": "Rua Rio Grande do Norte",
+        "zipcode": "16900-445"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Avenida Rio Grande do Sul",
+        "zipcode": "16900-474"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Alpina",
+        "street": "Avenida Rio Grande do Sul",
+        "zipcode": "16900-600"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Águas",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "16900-143"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Santa Maria",
+        "zipcode": "16900-550"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua São Francisco",
+        "zipcode": "16900-411"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Feltrini",
+        "street": "Rua Sebastião Arantes",
+        "zipcode": "16900-435"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Seis",
+        "zipcode": "16900-557"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Morumbi",
+        "street": "Rua Tietê",
+        "zipcode": "16900-165"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Morumbi",
+        "street": "Rua Malvina Biazon Roque",
+        "zipcode": "16900-163"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Vinte e Um",
+        "zipcode": "16900-619"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Alpina",
+        "street": "Rua Bowllevard",
+        "zipcode": "16900-573"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Espírito Santo",
+        "zipcode": "16900-414"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Quatro",
+        "zipcode": "16900-626"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "16900-198"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Chisho Sinzato",
+        "zipcode": "16900-555"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Antônio Gusmão",
+        "zipcode": "16900-608"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Ricardo Pegoraro",
+        "street": "Rua B",
+        "zipcode": "16900-185"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Aquidauana",
+        "zipcode": "16901-190"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Aquidauana",
+        "zipcode": "16901-128"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Bahia",
+        "zipcode": "16901-150"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "16901-014"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Campo Grande",
+        "zipcode": "16901-123"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Corumbá",
+        "zipcode": "16901-118"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Dezoito",
+        "zipcode": "16900-673"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Humberto Campos",
+        "zipcode": "16901-031"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "16901-030"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Homero Rodrigues Silva",
+        "zipcode": "16901-025"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Iguassu",
+        "zipcode": "16901-103"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Augusto de Carvalho",
+        "zipcode": "16901-015"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Júlio Francisco dos Santos",
+        "zipcode": "16900-637"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Peliciari",
+        "street": "Rua Maranhão",
+        "zipcode": "16901-037"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Mato Grosso",
+        "zipcode": "16901-013"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Onze de Julho",
+        "zipcode": "16902-137"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Paes Leme",
+        "zipcode": "16901-010"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Paraíba",
+        "zipcode": "16901-032"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Paraná",
+        "zipcode": "16901-155"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Paraná",
+        "zipcode": "16901-093"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Peliciari",
+        "street": "Rua Passeio",
+        "zipcode": "16901-039"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Paulo Afonso",
+        "zipcode": "16901-113"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Presidente Jânio da Silva Quadros",
+        "zipcode": "16900-646"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Princesa Izabel",
+        "zipcode": "16901-133"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "16901-135"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Regente Feijó",
+        "zipcode": "16901-027"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "16901-006"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "16901-017"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua São Paulo",
+        "zipcode": "16901-009"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua São Paulo",
+        "zipcode": "16901-024"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Treze",
+        "zipcode": "16900-675"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Trinta",
+        "zipcode": "16900-659"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Trinta e Cinco",
+        "zipcode": "16900-647"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Salim Haddad",
+        "zipcode": "16900-643"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Vasco Mariane",
+        "zipcode": "16900-635"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Vinte e Nove",
+        "zipcode": "16900-664"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Vinte e Oito",
+        "zipcode": "16900-663"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Vinte e Quatro",
+        "zipcode": "16900-667"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Vinte e Seis",
+        "zipcode": "16900-665"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Vitório Guaraciaba",
+        "zipcode": "16901-021"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Amazonas",
+        "zipcode": "16901-160"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Amazonas",
+        "zipcode": "16901-098"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Avenida Guanabara",
+        "zipcode": "16901-100"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Aquidauana",
+        "zipcode": "16901-323"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Arco Verde",
+        "zipcode": "16902-127"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Armando Sales",
+        "zipcode": "16902-070"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua José Mendes Júnior",
+        "zipcode": "16901-333"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua José Ramalho",
+        "zipcode": "16901-417"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Elétrico Bracale",
+        "zipcode": "16901-235"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Bahia",
+        "zipcode": "16901-303"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Avenida Bandeirantes",
+        "zipcode": "16901-445"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "16902-047"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Campo Grande",
+        "zipcode": "16901-320"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Cuiabá",
+        "zipcode": "16901-224"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua D",
+        "zipcode": "16904-017"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "16902-130"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Domingos",
+        "zipcode": "16901-420"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Doutor Alberto Coutinho de Souza",
+        "zipcode": "16901-415"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Salim Haddad",
+        "zipcode": "16900-612"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Jamil Fayad",
+        "zipcode": "16900-620"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Gabriel Teixeira de Barros",
+        "zipcode": "16901-227"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Gil Esteves",
+        "zipcode": "16901-230"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Urubupungá",
+        "street": "Rua Hassan Ale Jaruche",
+        "zipcode": "16901-217"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Iguassu",
+        "zipcode": "16901-310"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Joaquim Antônio Proença",
+        "zipcode": "16901-330"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua José Palmares",
+        "zipcode": "16901-835"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Minas Gerais",
+        "zipcode": "16901-300"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "16902-060"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Urubupungá",
+        "street": "Rua Orlando Marinho",
+        "zipcode": "16901-213"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Padre Anchieta",
+        "zipcode": "16902-055"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Paraíba",
+        "zipcode": "16901-309"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Paraná",
+        "zipcode": "16901-305"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santo Antônio",
+        "street": "Rua Pasquale Lupo",
+        "zipcode": "16901-210"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Passeio",
+        "zipcode": "16901-409"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Paulo Afonso",
+        "zipcode": "16901-315"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "16901-304"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Princesa Izabel",
+        "zipcode": "16901-325"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Santa Amália",
+        "zipcode": "16902-025"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Santa Amália",
+        "zipcode": "16901-447"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Botega",
+        "street": "Rua Santo Emílio",
+        "zipcode": "16901-805"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua São Ângelo",
+        "zipcode": "16901-825"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Botega",
+        "street": "Rua São Mário",
+        "zipcode": "16901-807"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua São Paulo",
+        "zipcode": "16901-450"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua São Paulo",
+        "zipcode": "16902-035"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Botega",
+        "street": "Rua São Pedro",
+        "zipcode": "16901-803"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Urbano Trujillo",
+        "zipcode": "16901-823"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Vicente Char",
+        "zipcode": "16902-010"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Espírito Santo",
+        "zipcode": "16901-319"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Passeio",
+        "zipcode": "16901-321"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Amazonas",
+        "zipcode": "16901-307"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Bartolomeu de Gusmão",
+        "zipcode": "16902-065"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Viela Mineira",
+        "zipcode": "16901-328"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua dos Bancários",
+        "zipcode": "16902-157"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Belfast",
+        "zipcode": "16903-080"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Bélgica",
+        "zipcode": "16903-033"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Dez",
+        "zipcode": "16903-165"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Doze",
+        "zipcode": "16903-169"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Estrada Emérito Castilho Gimenez",
+        "zipcode": "16903-079"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Emílio Ribas",
+        "zipcode": "16902-150"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte e Quatro",
+        "zipcode": "16900-723"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Escócia",
+        "zipcode": "16903-095"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Santo Antônio",
+        "street": "Rua Feres Cury",
+        "zipcode": "16900-067"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua França",
+        "zipcode": "16903-010"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Guiomar Soares de Andrade",
+        "zipcode": "16903-000"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua H",
+        "zipcode": "16904-025"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Inglaterra",
+        "zipcode": "16903-020"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Irlanda",
+        "zipcode": "16903-017"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Iugoslávia",
+        "zipcode": "16903-090"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Jean Bernard",
+        "zipcode": "16903-050"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua José Antonini",
+        "zipcode": "16902-163"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Londres",
+        "zipcode": "16903-060"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Doutor Eduardo Ramalho",
+        "zipcode": "16901-008"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Deraldo Vieira Lima",
+        "zipcode": "16903-155"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte e Cinco",
+        "zipcode": "16900-725"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Paulo Marin",
+        "zipcode": "16901-324"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Madri",
+        "zipcode": "16903-075"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Manoel Antônio dos Santos",
+        "zipcode": "16903-157"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Minas Gerais",
+        "zipcode": "16901-475"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Mônaco",
+        "zipcode": "16903-073"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Newton Montefusco de Campos",
+        "zipcode": "16903-139"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Oito",
+        "zipcode": "16903-168"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Passeio",
+        "zipcode": "16901-465"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Pedro Álvares Cabral",
+        "zipcode": "16902-145"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Polônia",
+        "zipcode": "16903-023"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Portugal",
+        "zipcode": "16903-005"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "16900-056"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Raposo Tavares",
+        "zipcode": "16903-135"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Santos Dumont",
+        "zipcode": "16900-061"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Sete",
+        "zipcode": "16903-163"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Suíça",
+        "zipcode": "16903-035"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "16900-037"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "16900-012"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Provido Bernardoni",
+        "street": "Rua Vereador José Gorayeb",
+        "zipcode": "16903-110"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada I",
+        "zipcode": "16902-720"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Avenida Astrogilda Bacelar de Mattos",
+        "zipcode": "16903-180"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Auromir Vieira de Albuquerque",
+        "zipcode": "16905-010"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua C",
+        "zipcode": "16904-015"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Dezesseis",
+        "zipcode": "16900-677"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Dezesseis",
+        "zipcode": "16905-075"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Dezesseis",
+        "zipcode": "16903-195"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Mato Grosso",
+        "zipcode": "16901-903"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "16900-901"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Dois",
+        "zipcode": "16903-190"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua Doutor Sílvio Lima Marinho",
+        "zipcode": "16900-452"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Edson Fernando do Nascimento",
+        "zipcode": "16902-210"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Armando Salles",
+        "zipcode": "16902-199"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Arthur Donatoni",
+        "zipcode": "16902-187"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Álvares Cabral",
+        "zipcode": "16901-394"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "16903-143"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Vivaldo Miller",
+        "zipcode": "16902-227"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Ricardo Pegoraro",
+        "street": "Rua E",
+        "zipcode": "16900-181"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua E",
+        "zipcode": "16905-240"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Gallerano Sanita",
+        "zipcode": "16900-627"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Guararapes",
+        "zipcode": "16900-109"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Jesus Trujillo",
+        "zipcode": "16900-417"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua João Moro",
+        "zipcode": "16905-090"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua José Ferreira de Souza",
+        "zipcode": "16900-640"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua K",
+        "zipcode": "16904-033"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua Miguel Amado",
+        "zipcode": "16900-464"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Estrada Nemeizão Souza Pereira",
+        "zipcode": "16905-235"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Bruno Gusson",
+        "zipcode": "16902-195"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua Everardo de Souza Prado",
+        "zipcode": "16904-040"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua José Paulino dos Santos",
+        "zipcode": "16902-193"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Ozório dos Santos",
+        "zipcode": "16902-223"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Avenida Moura Andrade",
+        "zipcode": "16902-197"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Nazuque Isabel de Oliveira",
+        "zipcode": "16902-183"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua José Manoel de Souza",
+        "zipcode": "16902-217"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua Geraldo Scarmelote",
+        "zipcode": "16905-225"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Droumont Cândido Barbosa",
+        "zipcode": "16902-181"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Oscar Rodrigues Alves",
+        "zipcode": "16900-196"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Estrada da Pantera",
+        "zipcode": "16900-660"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Águas",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "16900-155"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Feltrini",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "16900-440"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Professora Cynira de Azevedo Ferraz do Amaral",
+        "zipcode": "16903-179"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua Professora Wanda Yarid Castaldi",
+        "zipcode": "16905-215"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Quatorze",
+        "zipcode": "16903-185"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Quinze",
+        "zipcode": "16903-193"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Quinze",
+        "zipcode": "16905-070"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Rafael Moreno",
+        "zipcode": "16903-177"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Silva Jardim",
+        "zipcode": "16900-110"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Lourival Rabelo dos Santos",
+        "street": "Rua Tiradentes",
+        "zipcode": "16900-485"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Treze",
+        "zipcode": "16903-183"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Trinta e Quatro",
+        "zipcode": "16900-649"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Hermógenes Palmiro Couvre",
+        "zipcode": "16905-025"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Horácio Pereira",
+        "zipcode": "16905-030"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador João Ribeiro Novaes",
+        "zipcode": "16905-055"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador José Antônio Mariani",
+        "zipcode": "16905-065"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Vinte",
+        "zipcode": "16900-670"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Sebastião Arantes",
+        "zipcode": "16900-209"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Dezenove",
+        "zipcode": "16900-611"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Morumbi",
+        "street": "Rua Doutor Dirceu Gimenez",
+        "zipcode": "16900-167"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Altino Pires de Santana",
+        "zipcode": "16905-040"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Joel Soares Leitão",
+        "zipcode": "16905-045"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Bandeirantes",
+        "zipcode": "16901-007"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Bandeirantes",
+        "zipcode": "16901-019"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua Beatriz Rodrigues Citro",
+        "zipcode": "16902-165"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "16901-910"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Orensy Rodrigues da Silva",
+        "zipcode": "16901-900"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Guanabara",
+        "zipcode": "16901-901"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Augusto de Carvalho",
+        "zipcode": "16900-902"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Mato Grosso",
+        "zipcode": "16901-906"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Paes Leme",
+        "zipcode": "16901-907"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Regente Feijó",
+        "zipcode": "16901-908"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Benjamin Constant",
+        "zipcode": "16901-029"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Benjamin Constant",
+        "zipcode": "16901-311"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Corumbá",
+        "zipcode": "16901-317"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Urubupungá",
+        "street": "Rua Doutor Eduardo Ramalho",
+        "zipcode": "16901-220"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Orquídeas",
+        "street": "Rua Hermelinda Sapaterra Marin",
+        "zipcode": "16901-487"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Orquídeas",
+        "street": "Rua José Ramalho",
+        "zipcode": "16901-484"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Humberto Campos",
+        "zipcode": "16901-012"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Engenheiro Sylvio Seiji Shimizu",
+        "zipcode": "16901-140"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Fernando Costa",
+        "zipcode": "16902-135"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Fernando Prado",
+        "zipcode": "16902-015"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "16901-130"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua H",
+        "zipcode": "16905-255"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua José Augusto de Carvalho",
+        "zipcode": "16901-115"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua José Clemente de Lima",
+        "zipcode": "16902-119"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Luiz Canisso",
+        "zipcode": "16902-117"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Minas Gerais",
+        "zipcode": "16901-145"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Passeio",
+        "zipcode": "16902-079"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "16901-022"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Piauí",
+        "zipcode": "16901-322"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Presidente Dutra",
+        "zipcode": "16902-125"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Presidente Vargas",
+        "zipcode": "16901-306"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Orensy Rodrigues da Silva",
+        "zipcode": "16901-003"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Orensy Rodrigues da Silva",
+        "zipcode": "16901-016"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Doutor Orensy Rodrigues da Silva",
+        "zipcode": "16902-045"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua São Francisco",
+        "zipcode": "16901-403"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua São Francisco",
+        "zipcode": "16901-316"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua São José",
+        "zipcode": "16901-827"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Apolinário Lourenço da Silva",
+        "zipcode": "16900-565"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Vinte e Dois",
+        "zipcode": "16903-172"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Vitório Guaraciaba",
+        "zipcode": "16901-302"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua Hermenegildo Passarelli",
+        "zipcode": "16902-155"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua José Iarossi",
+        "zipcode": "16901-860"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Sueyoshi Miyamoto",
+        "zipcode": "16901-863"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Adayr Jacob",
+        "zipcode": "16901-867"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Seis",
+        "zipcode": "16901-868"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Água Viva",
+        "street": "Rua Santa Amália",
+        "zipcode": "16902-240"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Água Viva",
+        "street": "Rua Avelino Xavier de Macedo",
+        "zipcode": "16902-242"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Água Viva",
+        "street": "Rua Um",
+        "zipcode": "16902-245"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Água Viva",
+        "street": "Rua Dois",
+        "zipcode": "16902-247"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Água Viva",
+        "street": "Rua Quatro",
+        "zipcode": "16902-252"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Água Viva",
+        "street": "Rua Cinco",
+        "zipcode": "16902-255"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Emilio Ribas",
+        "zipcode": "16902-653"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua João Soriano",
+        "zipcode": "16902-657"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "16900-999"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Augusto de Oliveira da Costa",
+        "zipcode": "16900-217"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Ceará",
+        "zipcode": "16900-025"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Chipre",
+        "zipcode": "16903-071"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua D",
+        "zipcode": "16905-230"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "16900-003"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Finlândia",
+        "zipcode": "16903-040"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Sinval Rodrigues da Mata",
+        "zipcode": "16900-605"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Provido Bernardoni",
+        "street": "Rua Marcelino Olímpio",
+        "zipcode": "16903-097"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Antonio Roque",
+        "zipcode": "16903-202"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Guararapes",
+        "zipcode": "16900-017"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Holanda",
+        "zipcode": "16903-015"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua I",
+        "zipcode": "16905-260"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Jesus Trujillo",
+        "zipcode": "16900-033"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua L",
+        "zipcode": "16905-249"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Manoel dos Santos Alves Júnior",
+        "zipcode": "16900-645"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "16901-455"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Onze",
+        "zipcode": "16903-167"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Paes Leme",
+        "zipcode": "16900-119"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "16900-005"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Seis",
+        "zipcode": "16903-160"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Silva Jardim",
+        "zipcode": "16903-145"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Suécia",
+        "zipcode": "16903-087"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte e Um",
+        "zipcode": "16900-717"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Praça José Máximo da Silva",
+        "zipcode": "16900-409"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Vereador Olindo Pereira dos Santos",
+        "zipcode": "16902-225"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Tiradentes",
+        "zipcode": "16900-060"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Emil Alexandre Salomão",
+        "zipcode": "16905-020"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador João Felizardo de Souza",
+        "zipcode": "16905-050"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Vinte e Três",
+        "zipcode": "16903-173"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Avenida Grécia",
+        "zipcode": "16903-025"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Jairo Leme Cardoso",
+        "zipcode": "16905-035"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "16900-413"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Provido Bernardoni",
+        "street": "Rua Tancredo Neves",
+        "zipcode": "16903-100"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Avenida Guanabara",
+        "zipcode": "16905-205"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "16902-200"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Antenor Gasparelo",
+        "zipcode": "16902-662"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua José Castanheira Pedrosa",
+        "zipcode": "16902-667"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Mariza Pires Mendonça",
+        "zipcode": "16902-668"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Projetada I",
+        "zipcode": "16902-670"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Felicio Xavier de Mendonça",
+        "zipcode": "16902-673"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Ernesto Geraldo",
+        "zipcode": "16902-675"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Margarida Morelli Pedrosa",
+        "zipcode": "16902-677"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Shigueyoshi Suzuki",
+        "zipcode": "16902-678"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Osmar José Paro",
+        "zipcode": "16902-680"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Vereador Alfredo Potumati",
+        "zipcode": "16902-682"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada C",
+        "zipcode": "16902-710"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada D",
+        "zipcode": "16902-712"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada E",
+        "zipcode": "16902-713"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada G",
+        "zipcode": "16902-717"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua I",
+        "zipcode": "16904-027"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Francisco de Assis Almeida",
+        "zipcode": "16903-210"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Praça José Vieira",
+        "zipcode": "16901-163"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Oduvaldo Casagrande",
+        "zipcode": "16903-212"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Silvério Placco",
+        "zipcode": "16903-208"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Walter Ramalho Miranda",
+        "zipcode": "16901-002"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Augusto Rosa",
+        "zipcode": "16903-206"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Vereador Dirceu Regazini",
+        "zipcode": "16902-229"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Izabel dos Santos Knecht",
+        "zipcode": "16902-211"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Adib do Nascimento",
+        "zipcode": "16903-214"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Tereza Canisso Barreto",
+        "zipcode": "16903-216"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Francisco Chagas",
+        "zipcode": "16905-080"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Avelino Xavier de Macedo",
+        "zipcode": "16902-215"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Avenida Lázaro Batista do Amaral",
+        "zipcode": "16903-150"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "16902-033"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rodovia Marechal Rondon",
+        "zipcode": "16904-000"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Provido Bernardoni",
+        "street": "Rua Matheus Munhoz Ruiz",
+        "zipcode": "16903-105"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Presidente Roosevelt",
+        "zipcode": "16902-140"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Botega",
+        "street": "Rua São Benedito",
+        "zipcode": "16901-800"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Kaiti Yamamoto",
+        "zipcode": "16900-082"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua Antônio Modesto Filho",
+        "zipcode": "16904-045"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Antônio Brito Vieira",
+        "zipcode": "16905-005"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Paranapanema",
+        "zipcode": "16901-108"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Projetada P",
+        "zipcode": "16902-663"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Avenida Edson Ramos da Silva",
+        "zipcode": "16901-866"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Presidente Roosevelt",
+        "zipcode": "16902-652"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Empresarial",
+        "street": "Rua Gildásio Couto",
+        "zipcode": "16901-882"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Santa Catarina",
+        "zipcode": "16901-318"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Biaggio Felipe",
+        "zipcode": "16902-050"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Santa Catarina",
+        "zipcode": "16900-412"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Orensy Rodrigues da Silva",
+        "zipcode": "16901-905"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rodovia Marechal Rondon",
+        "zipcode": "16901-340"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua N",
+        "zipcode": "16905-200"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Presidente Kennedy",
+        "zipcode": "16900-059"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Professor Hélio Perecin",
+        "zipcode": "16900-210"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua G",
+        "zipcode": "16904-023"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Morumbi",
+        "street": "Rua São Sebastião",
+        "zipcode": "16900-160"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "16900-027"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "16900-001"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Delmond",
+        "street": "Rua Santos Dumont",
+        "zipcode": "16900-014"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "16900-002"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Treze de Maio",
+        "zipcode": "16901-018"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Engenheiro José Arnaldo Ramires Leão",
+        "zipcode": "16900-197"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Bairro São Francisco",
+        "street": "Avenida José Batista Sobrinho",
+        "zipcode": "16901-904"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Orquídeas",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "16901-480"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Orquídeas",
+        "street": "Viela Um",
+        "zipcode": "16901-485"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Águas",
+        "street": "Rua Pernambuco",
+        "zipcode": "16900-148"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Stélio Machado Loureiro",
+        "zipcode": "16900-004"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Arlindo Monteverde",
+        "zipcode": "16902-190"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Nove",
+        "zipcode": "16900-701"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Treze",
+        "zipcode": "16900-709"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "16900-972"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Quinze",
+        "zipcode": "16900-713"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Nova Esperança",
+        "street": "Rua Ceará",
+        "zipcode": "16900-540"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Tulipas",
+        "street": "Rua Bahia",
+        "zipcode": "16901-600"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Antonio Feitosa",
+        "zipcode": "16902-213"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Orquídeas",
+        "street": "Rua Doutor Humberto Campos",
+        "zipcode": "16901-482"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Morada do Sol",
+        "street": "Residencial Morada do Sol",
+        "zipcode": "16901-050"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Provido Bernardoni",
+        "street": "Estrada da Figueira",
+        "zipcode": "16903-130"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte e Três",
+        "zipcode": "16900-721"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "16900-058"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua José Augusto de Carvalho",
+        "zipcode": "16900-115"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Maranhão",
+        "zipcode": "16900-078"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Santo Antônio",
+        "street": "Rua Urubupungá",
+        "zipcode": "16900-065"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Veneza",
+        "zipcode": "16903-085"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua João Miguel Amorim",
+        "zipcode": "16900-203"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Ricardo Pegoraro",
+        "street": "Rua D",
+        "zipcode": "16900-180"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua das Flores",
+        "zipcode": "16900-108"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Orensy Rodrigues da Silva",
+        "zipcode": "16901-902"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Botega",
+        "street": "Rua Amazonas",
+        "zipcode": "16901-909"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Empresarial",
+        "street": "Rua 3",
+        "zipcode": "16901-887"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Empresarial",
+        "street": "Rua 4",
+        "zipcode": "16901-888"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Emídio Cláudio",
+        "zipcode": "16905-015"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Nelson Malheiro",
+        "zipcode": "16900-215"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Paraíba",
+        "zipcode": "16900-406"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Campo Grande",
+        "zipcode": "16901-185"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Doze",
+        "zipcode": "16900-707"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Urubupungá",
+        "street": "Rua Gil Esteves",
+        "zipcode": "16901-218"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Alpina",
+        "street": "Via Felício Attuy",
+        "zipcode": "16900-604"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Alpina",
+        "street": "Rua Paris",
+        "zipcode": "16900-575"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte e Seis",
+        "zipcode": "16900-727"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua José Lopes de Oliveira",
+        "zipcode": "16901-301"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Praça João Leite",
+        "zipcode": "16901-312"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Corumbá",
+        "zipcode": "16901-180"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Trinta e Três",
+        "zipcode": "16900-655"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Paranapanema",
+        "zipcode": "16901-170"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Isabel Santos Knecht",
+        "zipcode": "16902-080"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Marta Luiza",
+        "zipcode": "16902-085"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua G",
+        "zipcode": "16905-245"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Quatro",
+        "zipcode": "16903-149"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "16900-081"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "16900-080"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua Manoel Messias dos Santos",
+        "zipcode": "16901-335"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Princesa Izabel",
+        "zipcode": "16901-195"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Cuiabá",
+        "zipcode": "16901-327"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Piauí",
+        "zipcode": "16901-410"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Quatro",
+        "zipcode": "16901-842"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Um",
+        "zipcode": "16901-853"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Santa Catarina",
+        "zipcode": "16901-405"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Nova Esperança",
+        "street": "Rua Jesuino Lima",
+        "zipcode": "16900-538"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "16901-392"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Onze",
+        "zipcode": "16901-858"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Empresarial",
+        "street": "Rodovia Marechal Rondon",
+        "zipcode": "16901-880"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Três",
+        "zipcode": "16901-843"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Projetada C",
+        "zipcode": "16902-683"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Carlos Gomes",
+        "zipcode": "16902-715"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada A",
+        "zipcode": "16902-705"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Cinco",
+        "zipcode": "16901-870"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Água Viva",
+        "street": "Rua Três",
+        "zipcode": "16902-250"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Osvaldo Rodrigues Batalha",
+        "zipcode": "16902-655"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Oito",
+        "zipcode": "16900-699"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "16901-396"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Japão",
+        "zipcode": "16900-019"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Quatorze",
+        "zipcode": "16900-711"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Europa",
+        "street": "Rua Passeio B",
+        "zipcode": "16903-067"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Aparecida Nunes Soriano",
+        "zipcode": "16902-658"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Mauro Moreira",
+        "zipcode": "16902-660"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Roberto Castanheira Pedrosa",
+        "zipcode": "16902-672"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Projetada B",
+        "zipcode": "16902-708"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Treze",
+        "zipcode": "16901-855"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "16902-650"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Empresarial",
+        "street": "Rua 2",
+        "zipcode": "16901-885"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Nabil Abud",
+        "zipcode": "16901-850"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Quinta das Castanheiras",
+        "street": "Rua Doutor Eliezer Teles de Menezes",
+        "zipcode": "16902-665"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Dezessete",
+        "zipcode": "16900-697"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordao",
+        "street": "Rua Joao Miguel Amorim",
+        "zipcode": "16900-170"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Morumbi",
+        "street": "Rua Tiete",
+        "zipcode": "16900-147"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Antonio Silvio Da Cunha Bueno",
+        "street": "Rua Santa Catarina",
+        "zipcode": "16900-470"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Onze",
+        "zipcode": "16900-705"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Santos Dumont",
+        "zipcode": "16900-100"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Jose Bonifacio",
+        "zipcode": "16900-090"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Guiomar Soares De Andrade",
+        "zipcode": "16900-123"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Maranhao",
+        "zipcode": "16900-047"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Quintino Bocaiuva",
+        "zipcode": "16900-125"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Delmond",
+        "street": "Rua Acre",
+        "zipcode": "16900-483"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Tulipas",
+        "street": "Rua Dois",
+        "zipcode": "16901-602"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Sete",
+        "zipcode": "16900-695"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Quinze De Novembro",
+        "zipcode": "16901-055"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Treze De Maio",
+        "zipcode": "16901-250"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "16901-255"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Morumbi",
+        "street": "Rua Sao Sebastiao",
+        "zipcode": "16900-145"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Kaiti Yamamoto",
+        "zipcode": "16900-045"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Peliciari",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "16901-060"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Jose Augusto De Carvalho",
+        "zipcode": "16900-135"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Vinte E Um",
+        "zipcode": "16900-687"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Peliciari",
+        "street": "Avenida Bandeirantes",
+        "zipcode": "16901-065"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordao",
+        "street": "Rua Sebastiao Arantes",
+        "zipcode": "16900-177"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Paes Leme",
+        "zipcode": "16900-137"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordao",
+        "street": "Rua Alcides Fernandes Paiva",
+        "zipcode": "16900-175"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Tiradentes",
+        "zipcode": "16900-093"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Tamandare",
+        "zipcode": "16900-157"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Dos Estudantes",
+        "zipcode": "16901-054"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Ermelindo Felix Da Silva",
+        "zipcode": "16900-685"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santos Dumont",
+        "zipcode": "16900-425"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Guararapes",
+        "zipcode": "16900-130"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Antonio Silvio Da Cunha Bueno",
+        "street": "Rua Alagoas",
+        "zipcode": "16900-455"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Trinta E Um",
+        "zipcode": "16900-621"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Vinte E Nove",
+        "zipcode": "16900-680"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli I",
+        "street": "Rua Jose Martins Rodrigues",
+        "zipcode": "16900-630"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Dr Eduardo Ramalho",
+        "zipcode": "16901-070"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Antonio Silvio Da Cunha Bueno",
+        "street": "Rua Paraiba",
+        "zipcode": "16900-450"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Área Rural de Andradina",
+        "street": "Área Rural",
+        "zipcode": "16914-899"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Floriano Peixoto",
+        "zipcode": "16900-127"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Vitorio Guaraciaba",
+        "zipcode": "16901-253"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Jose Bonifacio",
+        "zipcode": "16900-420"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Antonio Silvio Da Cunha Bueno",
+        "street": "Rua Sao Francisco",
+        "zipcode": "16900-460"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordao",
+        "street": "Rua Oscar Rodrigues Alves",
+        "zipcode": "16900-150"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Nove De Julho",
+        "zipcode": "16900-085"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Delmond",
+        "street": "Rua Piaui",
+        "zipcode": "16900-480"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Goias",
+        "zipcode": "16900-103"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "16901-275"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Bandeirantes",
+        "zipcode": "16901-277"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "16901-283"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Treze De Maio",
+        "zipcode": "16901-350"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Pereira Barreto",
+        "zipcode": "16901-360"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Alagoas",
+        "zipcode": "16901-560"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Ricardo Pegoraro",
+        "street": "Rua A",
+        "zipcode": "16900-187"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua Abrão Buchala",
+        "zipcode": "16900-459"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Acácio e Silva",
+        "zipcode": "16901-005"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Acácio e Silva",
+        "zipcode": "16901-105"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Regente Feijo",
+        "zipcode": "16901-370"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua Jose Antonini",
+        "zipcode": "16902-113"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Trinta E Nove",
+        "zipcode": "16900-617"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Peliciari",
+        "street": "Rua Sao Paulo",
+        "zipcode": "16901-075"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Piaui",
+        "zipcode": "16901-585"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Santa Catarina",
+        "zipcode": "16901-570"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Passeio",
+        "zipcode": "16901-583"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Paranapanema",
+        "zipcode": "16901-525"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Praça Joao Leite",
+        "zipcode": "16901-519"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Das Aguas",
+        "street": "Rua Pernambuco",
+        "zipcode": "16900-200"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Dezenove",
+        "zipcode": "16900-690"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Paulo Marin",
+        "zipcode": "16901-413"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Quarenta",
+        "zipcode": "16900-615"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Amazonas",
+        "zipcode": "16901-515"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Provido Bernardoni",
+        "street": "Rua Tancredo Neves",
+        "zipcode": "16903-043"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Vitorio Guaraciaba",
+        "zipcode": "16901-355"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "16901-080"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Alagoas",
+        "zipcode": "16901-400"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Alagoas",
+        "zipcode": "16901-314"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Alexandre Salomão",
+        "zipcode": "16900-075"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Alexandre Salomão",
+        "zipcode": "16900-023"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Allan Kardec",
+        "zipcode": "16905-085"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Antônio Pinese",
+        "zipcode": "16903-187"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Brasil",
+        "street": "Rua Aquidauana",
+        "zipcode": "16901-810"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli I",
+        "street": "Rua Artur Humberto de Araújo",
+        "zipcode": "16900-650"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Avenida Bandeirantes",
+        "zipcode": "16902-040"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque Santo Antônio",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "16900-070"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "16901-430"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Feltrini",
+        "street": "Rua Benjamin Constant",
+        "zipcode": "16900-447"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua das Camélias",
+        "zipcode": "16903-147"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dom Bosco",
+        "zipcode": "16900-007"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Sao Paulo",
+        "zipcode": "16901-280"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Princesa Izabel",
+        "zipcode": "16901-550"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua Hermenegildo Passarelli",
+        "zipcode": "16902-105"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Benjamim Constant",
+        "zipcode": "16901-263"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Piscina",
+        "street": "Rua Paraiba",
+        "zipcode": "16901-265"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Corumba",
+        "zipcode": "16901-535"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Avenida Orensy Rodrigues Da Silva",
+        "zipcode": "16902-120"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Barao Do Rio Branco",
+        "zipcode": "16901-270"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Cuiaba",
+        "zipcode": "16901-555"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sao Pedro",
+        "street": "Rua Paulo Fanhani",
+        "zipcode": "16901-395"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Minas Gerais",
+        "zipcode": "16901-500"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sao Pedro",
+        "street": "Rua Boiadeira",
+        "zipcode": "16901-397"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Espirito Santo",
+        "zipcode": "16901-575"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Parana",
+        "zipcode": "16901-510"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dr Humberto Campos",
+        "zipcode": "16901-285"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Aquidauana",
+        "zipcode": "16901-545"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Avenida Jose Garcia De Freitas",
+        "zipcode": "16902-110"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Benjamim Constant",
+        "zipcode": "16901-375"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua Dos Bancarios",
+        "zipcode": "16902-107"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Paraiba",
+        "zipcode": "16901-380"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Doutor Humberto Campos",
+        "zipcode": "16901-460"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Doutor Humberto Campos",
+        "zipcode": "16902-030"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Peliciari",
+        "street": "Rua Engenheiro Sylvio Seiji Shimizu",
+        "zipcode": "16901-040"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rua Eulina Neves Musolino",
+        "zipcode": "16900-195"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Evandro Brembati Calvoso",
+        "zipcode": "16900-112"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Evandro Brembati Calvoso",
+        "zipcode": "16900-015"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Stella Maris",
+        "street": "Rua Evandro Brembati Calvoso",
+        "zipcode": "16901-120"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Ricardo Pegoraro",
+        "street": "Rua F",
+        "zipcode": "16900-182"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua F",
+        "zipcode": "16904-020"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua Fernando Morimoto",
+        "zipcode": "16900-457"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Benfica",
+        "street": "Rua Vereador Manoel Teixeira de Freitas",
+        "zipcode": "16900-405"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rua Henrique Mourão",
+        "zipcode": "16902-090"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santo Antônio",
+        "street": "Rua Manoel Juvêncio dos Santos",
+        "zipcode": "16901-207"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Nove de Julho",
+        "zipcode": "16900-051"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Peliciari",
+        "street": "Rua Quintino Bocaiúva",
+        "zipcode": "16901-035"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Vereador Alfredo Esteves de Freitas",
+        "zipcode": "16905-000"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordão",
+        "street": "Rodovia Municipal ADD",
+        "zipcode": "16900-220"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Goiás",
+        "zipcode": "16900-049"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Presidente Vargas",
+        "zipcode": "16901-457"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Das Aguas",
+        "street": "Avenida Rio Grande Do Sul",
+        "zipcode": "16900-430"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Antônio Silvio da Cunha Bueno",
+        "street": "Rua São Francisco",
+        "zipcode": "16900-903"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas",
+        "zipcode": "16901-257"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Quinze De Novembro",
+        "zipcode": "16901-273"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Mato Grosso",
+        "zipcode": "16901-287"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas",
+        "zipcode": "16901-365"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Osvalte Paro",
+        "zipcode": "16903-200"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Antonio Silvio Da Cunha Bueno",
+        "street": "Rua Espirito Santo",
+        "zipcode": "16900-473"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Dois",
+        "zipcode": "16900-693"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Delmond",
+        "street": "Estrada Municipal Sebastião Lourenço da Silva",
+        "zipcode": "16900-530"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Tulipas",
+        "street": "Alameda dos Princípios",
+        "zipcode": "16901-604"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Tiradentes",
+        "zipcode": "16900-423"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Nova Esperança",
+        "street": "Rua A",
+        "zipcode": "16900-534"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Antonio Joaquim De Moura Andrade",
+        "zipcode": "16901-059"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sanches",
+        "street": "Rua Evandro Brembati Calvoso",
+        "zipcode": "16900-133"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Avenida Rio Grande Do Sul",
+        "zipcode": "16900-105"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Alvorada",
+        "street": "Rua Jesus Trujillo",
+        "zipcode": "16900-087"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Sao Francisco",
+        "zipcode": "16901-565"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Alto dos Ipês",
+        "street": "Rua Professor Aracy Ventura Gomes",
+        "zipcode": "16901-845"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordao",
+        "street": "Rua Nelson Malheiro",
+        "zipcode": "16900-190"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Francisco Vicente Máximo",
+        "zipcode": "16903-204"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Jose Yarid",
+        "zipcode": "16901-279"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecilia",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "16902-053"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordao",
+        "street": "Rua Augusto De Oliveira Da Costa",
+        "zipcode": "16900-193"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Santa Cecília",
+        "street": "Rodovia Euclides de Oliveira Figueiredo",
+        "zipcode": "16902-000"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Campo Grande",
+        "zipcode": "16901-540"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Pereira Jordao",
+        "street": "Rua Euclides Da Cunha",
+        "zipcode": "16900-153"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Bahia",
+        "zipcode": "16901-505"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Alvaro Gasparelli Ii",
+        "street": "Rua Joaquim Pedro De Araujo",
+        "zipcode": "16900-683"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Iguassu",
+        "zipcode": "16901-520"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rua Beatriz Rodrigues Citro",
+        "zipcode": "16902-115"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Sao Pedro",
+        "street": "Rua Jose Basaglia",
+        "zipcode": "16901-390"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dr Humberto Campos",
+        "zipcode": "16901-085"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Provido Bernardoni",
+        "street": "Rua Vereador Jose Gorayeb",
+        "zipcode": "16903-047"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Nova Esperança",
+        "street": "Rua José Bonifácio",
+        "zipcode": "16900-546"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Avenida Doutor Pedro Bentivoglio Filho",
+        "zipcode": "16902-170"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Parque São Gabriel",
+        "street": "Rua Kazumoto Misu",
+        "zipcode": "16901-223"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Álvaro Gasparelli II",
+        "street": "Rua Quarenta e Três",
+        "zipcode": "16900-607"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "16901-398"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Das Aguas",
+        "street": "Rua Goias",
+        "zipcode": "16900-427"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rica",
+        "street": "Rua Acre",
+        "zipcode": "16901-590"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Belmiro Brunello",
+        "street": "Rua Antônio Vieira",
+        "zipcode": "16903-171"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Rondon",
+        "street": "Rua Antônio Sacco",
+        "zipcode": "16904-010"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Nova Esperança",
+        "street": "Rua Nove de Julho",
+        "zipcode": "16900-542"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Andradina F",
+        "street": "Rua Afonso Minholi",
+        "zipcode": "16903-218"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte e Oito",
+        "zipcode": "16900-735"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Bairro São Francisco",
+        "street": "Avenida José Batista Sobrinho",
+        "zipcode": "16901-911"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça José Yarid",
+        "zipcode": "16901-023"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim das Tulipas",
+        "street": "Rua Itar Takatsu",
+        "zipcode": "16901-601"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Distrito Industrial",
+        "street": "Rodovia Euclides de Oliveira Figueiredo",
+        "zipcode": "16902-175"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Nova Esperança",
+        "street": "Rua Jesus Trujillo",
+        "zipcode": "16900-544"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Passarelli",
+        "street": "Rua Vinte E Um De Abril",
+        "zipcode": "16900-057"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Antônio Joaquim de Moura Andrade",
+        "zipcode": "16901-004"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte e Sete",
+        "zipcode": "16900-729"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Vinte e Dois",
+        "zipcode": "16900-719"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Residencial Nova Canaã",
+        "street": "Rua Dez",
+        "zipcode": "16900-703"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Mineira",
+        "street": "Rua Paulo Afonso",
+        "zipcode": "16901-530"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Vereador Doutor José Cardoso das Neves",
+        "zipcode": "16902-209"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Sebastião Santos de Oliveira",
+        "zipcode": "16902-203"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Evaristo Recco",
+        "zipcode": "16901-337"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conj Habit Provido Bernardoni",
+        "street": "Rua Matheus Munhoz Ruiz",
+        "zipcode": "16903-045"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Bairro São Francisco",
+        "street": "Avenida José Batista Sobrinho",
+        "zipcode": "16901-342"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Conjunto Habitacional Bonfiglio Barbarotto",
+        "street": "Rua Liberata Felícia Ormachi de Lima",
+        "zipcode": "16900-563"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila São João",
+        "street": "Rua Heros Sebastião Pagnani",
+        "zipcode": "16903-140"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Messias",
+        "street": "Rua Alessandra Andrade Dias",
+        "zipcode": "16905-265"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Loteamento Residencial Nova Esperança",
+        "street": "Rua Padre Adriano Rodrigues da Silva",
+        "zipcode": "16900-548"
+    },
+    {
+        "city": "Andradina",
+        "state": "SP",
+        "district": "Vila Delmond",
+        "street": "Condomínio Residencial Jacarandá",
+        "zipcode": "16900-532"
+    }
+]

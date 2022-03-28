@@ -1,0 +1,58 @@
+[
+    {
+        "city": "Camaquã",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Olavo Moraes 837",
+        "zipcode": "96180-970"
+    },
+    {
+        "city": "Camaquã",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Bento Gonçalves 1320",
+        "zipcode": "96180-971"
+    },
+    {
+        "city": "Camaquã",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "96180-000"
+    },
+    {
+        "city": "Camaquã",
+        "state": "RS",
+        "district": null,
+        "street": "Centro Comunitário",
+        "zipcode": "96180-990"
+    },
+    {
+        "city": "Camaquã",
+        "state": "RS",
+        "district": null,
+        "street": "Engenho I",
+        "zipcode": "96180-991"
+    },
+    {
+        "city": "Camaquã",
+        "state": "RS",
+        "district": "Capela Santo Antônio",
+        "street": "Estrada Principal",
+        "zipcode": "96180-974"
+    },
+    {
+        "city": "Camaquã",
+        "state": "RS",
+        "district": "Capela São Pedro",
+        "street": "Rua Principal",
+        "zipcode": "96180-976"
+    },
+    {
+        "city": "Camaquã",
+        "state": "RS",
+        "district": "Bandeirinha",
+        "street": "Avenida Principal",
+        "zipcode": "96180-975"
+    }
+]

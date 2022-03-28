@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Querência do Norte",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Porto Alegre 896",
+        "zipcode": "87930-970"
+    },
+    {
+        "city": "Querência do Norte",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "87930-000"
+    },
+    {
+        "city": "Querência do Norte",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Principal",
+        "zipcode": "87935-990"
+    },
+    {
+        "city": "Querência do Norte",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Principal",
+        "zipcode": "87940-990"
+    }
+]

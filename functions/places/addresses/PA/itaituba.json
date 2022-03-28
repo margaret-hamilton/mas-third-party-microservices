@@ -1,0 +1,1766 @@
+[
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Rua Quarta",
+        "zipcode": "68182-030"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Oitava",
+        "zipcode": "68180-580"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Vigésima Oitava",
+        "zipcode": "68180-350"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Quinta",
+        "zipcode": "68182-080"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Freijó (Cj Res Vle Piracanã)",
+        "zipcode": "68181-629"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Rua Terceira",
+        "zipcode": "68182-020"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Décima Segunda",
+        "zipcode": "68182-150"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Décima Oitava",
+        "zipcode": "68180-470"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Passagem Gledson Borges do Vale",
+        "zipcode": "68180-100"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Rua Primeira",
+        "zipcode": "68182-000"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Décima Segunda",
+        "zipcode": "68180-310"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Beco Inajá",
+        "zipcode": "68181-483"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Rua Haroldo Veloso",
+        "zipcode": "68181-030"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Travessa João Pessoa",
+        "zipcode": "68180-630"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Travessa Justo Chermont",
+        "zipcode": "68180-620"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida Maranhão",
+        "zipcode": "68180-410"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Avenida Marechal Rondon",
+        "zipcode": "68181-010"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Vila Nova",
+        "zipcode": "68180-170"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Rua Nova Avenida",
+        "zipcode": "68181-020"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Quarta",
+        "zipcode": "68181-080"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Quinta",
+        "zipcode": "68181-090"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Segunda",
+        "zipcode": "68181-060"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Terceira",
+        "zipcode": "68181-070"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Avenida Manfredo Barata",
+        "zipcode": "68181-005"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Boa Esperança",
+        "street": "Travessa Sagrado Coração de Jesus",
+        "zipcode": "68182-201"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Primeira",
+        "zipcode": "68182-300"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Rua da Paz",
+        "zipcode": "68183-330"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa São Paulo",
+        "zipcode": "68181-486"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Avenida Doutor Hugo de Mendonça",
+        "zipcode": "68181-970"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Antão Ferreira do Valle",
+        "zipcode": "68180-970"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Décima",
+        "zipcode": "68181-360"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Estrada DNER",
+        "zipcode": "68181-460"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "68181-477"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Décima",
+        "zipcode": "68181-140"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Beco das Flores",
+        "zipcode": "68181-482"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Rua Antônio de Pádua Gomes",
+        "zipcode": "68180-120"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Avenida Belém",
+        "zipcode": "68180-090"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Vila Caçula",
+        "zipcode": "68180-180"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida Carleto Bemerguy",
+        "zipcode": "68180-400"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Passagem Cláudio Couto",
+        "zipcode": "68180-160"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Avenida Getúlio Vargas",
+        "zipcode": "68180-020"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Avenida Governador Fernando Guilhon",
+        "zipcode": "68180-110"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Rua Juvenal Lima",
+        "zipcode": "68180-140"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Travessa Lauro Sodré",
+        "zipcode": "68180-633"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Nossa Senhora do Bom Remédio",
+        "zipcode": "68180-380"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Passagem Paes de Carvalho",
+        "zipcode": "68180-060"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Décima Primeira",
+        "zipcode": "68182-140"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Primeira",
+        "zipcode": "68182-040"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Décima Terceira",
+        "zipcode": "68182-160"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida Santa Catarina",
+        "zipcode": "68180-210"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida São José",
+        "zipcode": "68180-080"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Sexta",
+        "zipcode": "68181-100"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida Transamazônica",
+        "zipcode": "68180-230"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Rodovia Transamazônica",
+        "zipcode": "68180-010"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Ricardo José Ferreira",
+        "zipcode": "68180-440"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Décima Primeira",
+        "zipcode": "68180-300"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida Rotary",
+        "zipcode": "68180-390"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Raimundo Preto",
+        "zipcode": "68180-292"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Leopoldo Menezes Lobato",
+        "zipcode": "68180-293"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Julião Galúcio Pereira",
+        "zipcode": "68180-295"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Rui Rebelo",
+        "zipcode": "68180-296"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Boa Esperança",
+        "street": "Travessa José Ribeiro dos Anjos",
+        "zipcode": "68182-200"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Jardim do Éden",
+        "zipcode": "68183-322"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa São Matheus",
+        "zipcode": "68183-318"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Rosa de Maio",
+        "zipcode": "68183-316"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Tapajós",
+        "zipcode": "68183-312"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Primavera",
+        "zipcode": "68183-310"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa da Floresta",
+        "zipcode": "68183-302"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Nossa Senhora do Bom Remédio",
+        "zipcode": "68180-971"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Treze de Maio",
+        "zipcode": "68180-722"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Rui Rebelo",
+        "zipcode": "68180-718"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Raimundo Preto",
+        "zipcode": "68180-714"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Quinze de Agosto",
+        "zipcode": "68180-712"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Leopoldo M. Lobato",
+        "zipcode": "68180-708"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Lauro Sodré",
+        "zipcode": "68180-706"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Justo Chermont",
+        "zipcode": "68180-704"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa João Pessoa",
+        "zipcode": "68180-698"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Rotary",
+        "zipcode": "68180-692"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Maranhão",
+        "zipcode": "68180-682"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa Bom Sossego",
+        "zipcode": "68181-474"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Terceira",
+        "zipcode": "68181-290"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Sexta",
+        "zipcode": "68181-320"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Terceira",
+        "zipcode": "68182-060"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Quarta",
+        "zipcode": "68182-070"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Décima Quarta",
+        "zipcode": "68182-170"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Segunda",
+        "zipcode": "68182-050"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Oitava",
+        "zipcode": "68182-110"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Sétima",
+        "zipcode": "68182-100"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Travessa Terceira",
+        "zipcode": "68181-200"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Travessa Segunda",
+        "zipcode": "68181-390"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Travessa Quinta",
+        "zipcode": "68181-420"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa Segunda",
+        "zipcode": "68181-465"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa Vitória",
+        "zipcode": "68181-471"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Travessa Segunda",
+        "zipcode": "68181-190"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Travessa Quarta",
+        "zipcode": "68181-210"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Primeira",
+        "zipcode": "68181-270"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Rua Aeroporto Velho",
+        "zipcode": "68181-040"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Décima",
+        "zipcode": "68180-290"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Décima Quinta",
+        "zipcode": "68180-420"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Edivaldo Macedo",
+        "zipcode": "68180-240"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Homero Gomes de Castro",
+        "zipcode": "68180-250"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Nona",
+        "zipcode": "68180-280"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Primeira",
+        "zipcode": "68181-050"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Rua Segunda",
+        "zipcode": "68182-010"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Décima Nona",
+        "zipcode": "68180-480"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Sexta",
+        "zipcode": "68182-090"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Francisco Macedo",
+        "zipcode": "68180-360"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Antônio Gomes Bilby",
+        "zipcode": "68180-260"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Travessa Carlos Sarmento",
+        "zipcode": "68180-291"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Segunda",
+        "zipcode": "68182-301"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Quarta",
+        "zipcode": "68182-304"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Nossa Senhora do Perpétuo Socorro",
+        "street": "Passagem Clodson Borges do Vale",
+        "zipcode": "68182-320"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Aramanahy Couto",
+        "zipcode": "68180-664"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Antão F. Vale",
+        "zipcode": "68180-656"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Felipe Rodrigues Gomes",
+        "zipcode": "68180-654"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Riomar Tapajós Virgulino Lages",
+        "zipcode": "68180-650"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Nossa Senhora do Bom Remédio",
+        "zipcode": "68180-648"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Fortunato Carneiro",
+        "zipcode": "68180-646"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Hilda Ferreira Braga",
+        "zipcode": "68180-644"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Everaldo Martins",
+        "zipcode": "68180-640"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Julião Galúcio Ferreira",
+        "zipcode": "68180-700"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Carleto Bemerguy",
+        "zipcode": "68180-668"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Acampamento Bruno Juarez",
+        "zipcode": "68180-666"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Cassiporé Couto",
+        "zipcode": "68180-642"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Taparaiz Couto",
+        "zipcode": "68180-660"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida Eça de Queirós Lages de Mesquita",
+        "zipcode": "68180-220"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Avenida Eça de Queirós Lages de Mesquita",
+        "zipcode": "68180-282"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Santa Clara",
+        "zipcode": "68181-250"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua São Paulo",
+        "zipcode": "68181-260"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Décima Primeira",
+        "zipcode": "68181-370"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Travessa Oitava",
+        "zipcode": "68181-450"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa Primeira",
+        "zipcode": "68181-464"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa Pará",
+        "zipcode": "68181-473"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Rua Paredão",
+        "zipcode": "68181-475"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Rua Tricolor",
+        "zipcode": "68181-479"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Sétima",
+        "zipcode": "68181-110"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Quarta",
+        "zipcode": "68181-300"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Travessa Quarta",
+        "zipcode": "68181-410"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Travessa Sétima",
+        "zipcode": "68181-440"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Vila Militar",
+        "zipcode": "68181-480"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Primeira",
+        "zipcode": "68180-510"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima",
+        "zipcode": "68180-500"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Nona",
+        "zipcode": "68180-590"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Quadragésima",
+        "zipcode": "68180-600"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Travessa Sexta",
+        "zipcode": "68181-180"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Passagem Antônio de Oliveira",
+        "zipcode": "68180-150"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Vila DNER",
+        "zipcode": "68181-490"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Felipe Rodrigues Gomes",
+        "zipcode": "68180-450"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida Fortunato Carneiro",
+        "zipcode": "68180-370"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Passagem Francisco de Souza Cirino",
+        "zipcode": "68180-040"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida Lauro Figueira de Mendonça",
+        "zipcode": "68180-190"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Rua Lázaro de Almeida Baíma",
+        "zipcode": "68180-130"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Passagem Manoel Miranda",
+        "zipcode": "68180-050"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Avenida Nova de Santana",
+        "zipcode": "68180-030"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Travessa Quinze de Agosto",
+        "zipcode": "68180-610"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Riomar Tapajós Virgulino Lages",
+        "zipcode": "68180-430"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Sétima",
+        "zipcode": "68180-570"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Rodovia Transamazônica",
+        "zipcode": "68182-180"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Sexta",
+        "zipcode": "68180-560"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Quinta",
+        "zipcode": "68180-550"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Quarta",
+        "zipcode": "68180-540"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Travessa Treze de Maio",
+        "zipcode": "68180-635"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Travessa Vítor Campos",
+        "zipcode": "68180-070"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Boa Esperança",
+        "street": "Travessa Doutor Carlos Roberto C. Furtado",
+        "zipcode": "68182-202"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Boa Esperança",
+        "street": "Travessa Manoel Pereira de Souza",
+        "zipcode": "68182-203"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Boa Esperança",
+        "street": "Travessa Jerônimo Belfort Campos",
+        "zipcode": "68182-204"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Terceira",
+        "zipcode": "68182-302"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Paraíso",
+        "zipcode": "68183-314"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Boa Esperança",
+        "zipcode": "68183-308"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Ipê (Cj Res Vle Piracanã)",
+        "zipcode": "68181-633"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Itaúba (Cj Res Vle Piracanã)",
+        "zipcode": "68181-630"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Cupiúba (Cj Res Vle Piracanã)",
+        "zipcode": "68181-627"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Maçaranduba (Cj Res Vle Piracanã)",
+        "zipcode": "68181-624"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Avenida Castanheira (Cj Res Vle Piracanã)",
+        "zipcode": "68181-618"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Avenida Sucupira (Cj Res Vle Piracanã)",
+        "zipcode": "68181-615"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Avenida Jatobá (Cj Res Vle Piracanã)",
+        "zipcode": "68181-612"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Avenida Jacarandá (Cj Res Vle Piracanã)",
+        "zipcode": "68181-609"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Cedro (Cj Res Vle Piracanã)",
+        "zipcode": "68181-603"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Área Rural de Itaituba",
+        "street": "Área Rural",
+        "zipcode": "68187-899"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Boa Vista",
+        "zipcode": "68183-324"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Oitava",
+        "zipcode": "68181-120"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Nona",
+        "zipcode": "68181-130"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Travessa Primeira",
+        "zipcode": "68181-220"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Segunda",
+        "zipcode": "68181-280"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Sétima",
+        "zipcode": "68181-330"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Nona",
+        "zipcode": "68181-350"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Travessa Primeira",
+        "zipcode": "68181-380"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "68181-463"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Estrada do Quinquagésimo Terceiro Bis",
+        "zipcode": "68181-470"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Rua Goiás",
+        "zipcode": "68181-476"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Rua Nossa Senhora das Graças",
+        "zipcode": "68181-478"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Passagem da Iluminação",
+        "zipcode": "68181-484"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Rua Brasil",
+        "zipcode": "68181-485"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Travessa Sétima",
+        "zipcode": "68181-230"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Vigésima Quinta",
+        "zipcode": "68180-320"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Vigésima Sexta",
+        "zipcode": "68180-330"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Décima",
+        "zipcode": "68182-130"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Terceira",
+        "zipcode": "68180-530"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Vigésima Sétima",
+        "zipcode": "68180-340"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Travessa Terceira",
+        "zipcode": "68181-400"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Travessa Sexta",
+        "zipcode": "68181-430"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa Santa Clara",
+        "zipcode": "68181-472"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Rua Doutor Nelson",
+        "zipcode": "68181-461"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa Terceira",
+        "zipcode": "68181-466"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Décima Primeira",
+        "zipcode": "68181-150"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Travessa Quinta",
+        "zipcode": "68181-170"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Travessa Oitava",
+        "zipcode": "68181-240"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Travessa das Flores",
+        "zipcode": "68181-462"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bom Jardim",
+        "street": "Beco Boa Esperança",
+        "zipcode": "68181-481"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Rua Décima Segunda",
+        "zipcode": "68181-160"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Sete de Setembro",
+        "zipcode": "68183-306"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Andiroba (Cj Res Vle Piracanã)",
+        "zipcode": "68181-606"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Rua Modelo",
+        "zipcode": "68183-320"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Liberdade",
+        "street": "Travessa Setenta e Nove",
+        "zipcode": "68181-075"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Mesquitas",
+        "street": "Travessa Nona",
+        "zipcode": "68182-120"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Travessa Oitava",
+        "zipcode": "68180-270"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Trigésima Segunda",
+        "zipcode": "68180-520"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Rua Universitário",
+        "zipcode": "68183-300"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa das Flores",
+        "zipcode": "68183-304"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Travessa Carlos Sarmento",
+        "zipcode": "68180-696"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida José Filho dos Reis",
+        "zipcode": "68180-678"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Bruno Juarez",
+        "zipcode": "68180-658"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Do Bom Remédio",
+        "street": "Avenida Ricardo José Ferreira Lima",
+        "zipcode": "68180-652"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Maria Magdalena",
+        "street": "Travessa Santa Rita",
+        "zipcode": "68183-326"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Pau DArco (Cj Res Vle Piracanã)",
+        "zipcode": "68181-636"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Muiracatiara (Cj Res Vle Piracanã)",
+        "zipcode": "68181-621"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Cumaru (Cj Res Vle Piracanã)",
+        "zipcode": "68181-600"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Boa Esperança",
+        "street": "Rua Rabelo",
+        "zipcode": "68182-210"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Nicolau Varjão",
+        "zipcode": "68180-505"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Jardim das Araras",
+        "street": "Rua Sexta",
+        "zipcode": "68180-285"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Quinta",
+        "zipcode": "68181-310"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Floresta",
+        "street": "Rua Oitava",
+        "zipcode": "68181-340"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Rua Antão Ferreira do Valle",
+        "zipcode": "68180-460"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Avenida Doutor Hugo de Mendonça",
+        "zipcode": "68181-000"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Comércio",
+        "street": "Avenida Doutor Hugo de Mendonça",
+        "zipcode": "68180-005"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Bela Vista",
+        "street": "Avenida João Lourenço Paxiuba",
+        "zipcode": "68180-200"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Travessa Terceira",
+        "zipcode": "68184-022"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Rua Sétima",
+        "zipcode": "68184-014"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Rua Terceira",
+        "zipcode": "68184-006"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Rua Oitava",
+        "zipcode": "68184-016"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Rua Sexta",
+        "zipcode": "68184-012"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Aeroporto Velho",
+        "street": "Avenida Doutor Hugo de Mendonça",
+        "zipcode": "68181-971"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Rua Quarta",
+        "zipcode": "68184-008"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Rua Dallas",
+        "zipcode": "68184-002"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Travessa Quarta",
+        "zipcode": "68184-024"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Piracanã",
+        "street": "Rua Angelim (Cj Res Vle Piracanã)",
+        "zipcode": "68181-608"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Rua Segunda",
+        "zipcode": "68184-004"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Da Paz",
+        "street": "Rua Vinte e Cinco de Março",
+        "zipcode": "68184-220"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Rua Quinta",
+        "zipcode": "68184-010"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "Nova Itaituba",
+        "street": "Avenida João Por Deus de Lima",
+        "zipcode": "68184-308"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Travessa Segunda",
+        "zipcode": "68184-020"
+    },
+    {
+        "city": "Itaituba",
+        "state": "PA",
+        "district": "São Francisco",
+        "street": "Travessa Primeira",
+        "zipcode": "68184-018"
+    }
+]

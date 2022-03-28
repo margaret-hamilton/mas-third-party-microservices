@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Euclides da Cunha Paulista",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Euclides da Cunha 111",
+        "zipcode": "19275-970"
+    },
+    {
+        "city": "Euclides da Cunha Paulista",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19275-000"
+    },
+    {
+        "city": "Euclides da Cunha Paulista",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "19275-991"
+    },
+    {
+        "city": "Euclides da Cunha Paulista",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Dois",
+        "zipcode": "19275-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Itarema",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida João Batista Rios 2404",
+        "zipcode": "62590-970"
+    },
+    {
+        "city": "Itarema",
+        "state": "CE",
+        "district": null,
+        "street": "Rua João Agostinho do Nascimento",
+        "zipcode": "62592-990"
+    },
+    {
+        "city": "Itarema",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62590-000"
+    }
+]

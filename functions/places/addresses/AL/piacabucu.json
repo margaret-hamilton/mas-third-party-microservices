@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Piaçabuçu",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57210-000"
+    },
+    {
+        "city": "Piaçabuçu",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Praça Centenário s/n",
+        "zipcode": "57210-970"
+    },
+    {
+        "city": "Piaçabuçu",
+        "state": "AL",
+        "district": null,
+        "street": "Povoado Pontal do Peba",
+        "zipcode": "57210-990"
+    }
+]

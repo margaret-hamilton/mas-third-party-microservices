@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Campos Altos",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Maria Rita Franco 280",
+        "zipcode": "38970-970"
+    },
+    {
+        "city": "Campos Altos",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38970-000"
+    }
+]

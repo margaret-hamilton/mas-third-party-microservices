@@ -1,0 +1,65 @@
+[
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": null,
+        "street": "Avenida Honório Tenório",
+        "zipcode": "55280-990"
+    },
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55280-000"
+    },
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": "Distrito Vila Santo Antonio",
+        "street": "Rua Antonio de Albuquerque 70",
+        "zipcode": "55280-972"
+    },
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Antônio de Albuquerque",
+        "zipcode": "55280-992"
+    },
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Antônio Siqueira 11",
+        "zipcode": "55280-970"
+    },
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": "Vila São Pedro do Cordeiro",
+        "street": "Rua Joao Galindo s/n",
+        "zipcode": "55280-973"
+    },
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": "Vila Horizonte Alegre",
+        "street": "Avenida Honorio Tenorio s/n",
+        "zipcode": "55280-971"
+    },
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": "Vila Poço do Boi",
+        "street": "Praça Paulo Gouveia de Brito s/n",
+        "zipcode": "55280-974"
+    },
+    {
+        "city": "Pedra",
+        "state": "PE",
+        "district": null,
+        "street": "Praça Paulo Gouveia de Brito",
+        "zipcode": "55280-991"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Paiquerê (Londrina)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86112-000"
+    },
+    {
+        "city": "Paiquerê (Londrina)",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Alcina Alves de Camargo",
+        "zipcode": "86112-990"
+    },
+    {
+        "city": "Paiquerê (Londrina)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Alcino Gomes Camargo",
+        "zipcode": "86112-970"
+    }
+]

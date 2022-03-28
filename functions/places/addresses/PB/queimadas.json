@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Queimadas",
+        "state": "PB",
+        "district": null,
+        "street": "Associação de Produtores Rurais",
+        "zipcode": "58476-991"
+    },
+    {
+        "city": "Queimadas",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Eunice Ribeiro de Araújo 526",
+        "zipcode": "58475-970"
+    },
+    {
+        "city": "Queimadas",
+        "state": "PB",
+        "district": "",
+        "street": "",
+        "zipcode": "58475-000"
+    },
+    {
+        "city": "Queimadas",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Sítio Zumbi s/n",
+        "zipcode": "58475-971"
+    },
+    {
+        "city": "Queimadas",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Sítio Ligeiro s/n",
+        "zipcode": "58475-972"
+    }
+]

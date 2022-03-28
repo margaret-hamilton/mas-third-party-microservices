@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Francisco Badaró",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Direita 179",
+        "zipcode": "39644-970"
+    },
+    {
+        "city": "Francisco Badaró",
+        "state": "MG",
+        "district": "Tocoios de Minas",
+        "street": "Rua Badaró Junior s/n",
+        "zipcode": "39644-972"
+    },
+    {
+        "city": "Francisco Badaró",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39644-000"
+    }
+]

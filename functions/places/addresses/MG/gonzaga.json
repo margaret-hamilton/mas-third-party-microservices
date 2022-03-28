@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Gonzaga",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Presidente Kennedy 170",
+        "zipcode": "39720-970"
+    },
+    {
+        "city": "Gonzaga",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39720-000"
+    }
+]

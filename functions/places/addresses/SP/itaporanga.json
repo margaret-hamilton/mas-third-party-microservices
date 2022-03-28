@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itaporanga",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua XV de Novembro 895",
+        "zipcode": "18480-970"
+    },
+    {
+        "city": "Itaporanga",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18480-000"
+    },
+    {
+        "city": "Itaporanga",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Mato Grosso",
+        "zipcode": "18480-991"
+    },
+    {
+        "city": "Itaporanga",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Gerson de Souza Lima",
+        "zipcode": "18480-990"
+    }
+]

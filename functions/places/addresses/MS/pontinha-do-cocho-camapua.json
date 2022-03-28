@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Pontinha do Cocho (Camapuã)",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "79424-970"
+    },
+    {
+        "city": "Pontinha do Cocho (Camapuã)",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79424-000"
+    },
+    {
+        "city": "Pontinha do Cocho (Camapuã)",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "79424-990"
+    }
+]

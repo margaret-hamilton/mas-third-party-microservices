@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Honório Serpa",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida XVI de Novembro 788 Sala 7",
+        "zipcode": "85548-971"
+    },
+    {
+        "city": "Honório Serpa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua São Francisco",
+        "zipcode": "85548-990"
+    },
+    {
+        "city": "Honório Serpa",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85548-000"
+    }
+]

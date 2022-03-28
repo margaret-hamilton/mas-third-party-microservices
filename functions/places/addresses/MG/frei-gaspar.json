@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Frei Gaspar",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Antônio Alves Benjamim 6",
+        "zipcode": "39840-970"
+    },
+    {
+        "city": "Frei Gaspar",
+        "state": "MG",
+        "district": "Arana",
+        "street": "Rua Santos Batista 148",
+        "zipcode": "39840-971"
+    },
+    {
+        "city": "Frei Gaspar",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39840-000"
+    }
+]

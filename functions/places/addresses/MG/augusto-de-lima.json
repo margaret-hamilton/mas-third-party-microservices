@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Augusto de Lima",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Wenceslau Brandão 514",
+        "zipcode": "39220-970"
+    },
+    {
+        "city": "Augusto de Lima",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39220-000"
+    },
+    {
+        "city": "Augusto de Lima",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39219-000"
+    },
+    {
+        "city": "Augusto de Lima",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Wenceslau Brandão 514",
+        "zipcode": "39219-970"
+    }
+]

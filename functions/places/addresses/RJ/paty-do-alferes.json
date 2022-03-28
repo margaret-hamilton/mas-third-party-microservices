@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Paty do Alferes",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "26950-000"
+    },
+    {
+        "city": "Paty do Alferes",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Capitão Zenóbio da Costa 55",
+        "zipcode": "26950-970"
+    },
+    {
+        "city": "Paty do Alferes",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada da Maravilha",
+        "zipcode": "26950-991"
+    },
+    {
+        "city": "Paty do Alferes",
+        "state": "RJ",
+        "district": null,
+        "street": "Alameda Central",
+        "zipcode": "26950-990"
+    },
+    {
+        "city": "Paty do Alferes",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada do Batatal",
+        "zipcode": "26950-992"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itaipulândia",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Tiradentes 2148",
+        "zipcode": "85880-970"
+    },
+    {
+        "city": "Itaipulândia",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85880-000"
+    },
+    {
+        "city": "Itaipulândia",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "85880-971"
+    },
+    {
+        "city": "Itaipulândia",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Principal",
+        "zipcode": "85880-972"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Casa Branca",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Luiz Piza 141",
+        "zipcode": "13700-970"
+    },
+    {
+        "city": "Casa Branca",
+        "state": "SP",
+        "district": null,
+        "street": "Praça da República",
+        "zipcode": "13700-990"
+    },
+    {
+        "city": "Casa Branca",
+        "state": "SP",
+        "district": null,
+        "street": "Avenida Família Anacleto",
+        "zipcode": "13700-991"
+    },
+    {
+        "city": "Casa Branca",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13700-000"
+    },
+    {
+        "city": "Casa Branca",
+        "state": "SP",
+        "district": "Lagoa Branca",
+        "street": "",
+        "zipcode": "13705-000"
+    },
+    {
+        "city": "Casa Branca",
+        "state": "SP",
+        "district": "Venda Branca",
+        "street": "",
+        "zipcode": "13707-000"
+    }
+]

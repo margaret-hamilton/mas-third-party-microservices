@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Setubinha",
+        "state": "MG",
+        "district": "Palmeiras",
+        "street": "Rua Principal s/n",
+        "zipcode": "39688-972"
+    },
+    {
+        "city": "Setubinha",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39688-000"
+    },
+    {
+        "city": "Setubinha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Carolina Barbosa 63",
+        "zipcode": "39688-973"
+    }
+]

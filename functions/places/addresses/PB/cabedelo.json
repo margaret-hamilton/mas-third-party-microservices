@@ -1,0 +1,5462 @@
+[
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Via Litorânea",
+        "zipcode": "58101-650"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Kirenya",
+        "zipcode": "58105-414"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Maria Helena Monteiro dos Santos",
+        "zipcode": "58108-301"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Travessa do Moinho",
+        "zipcode": "58103-262"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Jandui Dantas do Nascimento",
+        "zipcode": "58100-486"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Vereador Pedro Américo da Silva",
+        "zipcode": "58100-603"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Elizabeth Alves Galvão",
+        "zipcode": "58100-140"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Miguel Silvino Tomaz",
+        "zipcode": "58101-022"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Isaías da Silva Oliveira",
+        "zipcode": "58103-194"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto del Plata",
+        "zipcode": "58105-406"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Hilda Souto Maior de Figueiredo",
+        "zipcode": "58100-730"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Presidente João Pessoa",
+        "zipcode": "58105-077"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Severino Bernadino da Silva",
+        "zipcode": "58103-384"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Rua Vereador Benedito Ribeiro de Araújo",
+        "zipcode": "58101-132"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Professor Salatiel Fernandes de Medeiros",
+        "zipcode": "58105-052"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Antônio Ferreira da Silva",
+        "zipcode": "58108-188"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Monsenhor Antônio Afonso",
+        "zipcode": "58102-838"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Maria das Neves Silva",
+        "zipcode": "58101-660"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Annita Luiza Mello Di Lascio",
+        "zipcode": "58101-770"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "58100-302"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Cervo",
+        "zipcode": "58105-383"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Avenida Santa Paula",
+        "zipcode": "58108-042"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Salinas de Ribamar",
+        "street": "Rua Antônio Francisco de Araújo",
+        "zipcode": "58109-464"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Travessa Professora Dulce Fernandes do Nascimento",
+        "zipcode": "58101-114"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Presidente Washington Luis",
+        "zipcode": "58102-562"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Joana Benjamim de Freitas",
+        "zipcode": "58101-017"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Iraci Costa",
+        "zipcode": "58102-680"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Tércio de Figueiredo Dornelas",
+        "zipcode": "58105-017"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Vila Maria",
+        "zipcode": "58101-208"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Avenida Monsenhor José da Silva Coutinho",
+        "zipcode": "58101-190"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Aureanita Guimarães Siqueira",
+        "zipcode": "58101-632"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Niza",
+        "zipcode": "58105-394"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Beco do Calu",
+        "zipcode": "58101-512"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Avenida Engenheiro Rivaldo de Carvalho",
+        "zipcode": "58100-560"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rodovia BR",
+        "zipcode": "58102-970"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Edson Alves de Lima",
+        "zipcode": "58101-448"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Avenida Araçá",
+        "zipcode": "58106-122"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Avenida Sagrada Família",
+        "zipcode": "58105-738"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Iraci Cardoso dos Santos",
+        "zipcode": "58106-084"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Rainha da Paz",
+        "zipcode": "58105-659"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua São Jorge",
+        "zipcode": "58105-736"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Nossa Senhora de Nazaré",
+        "zipcode": "58105-722"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rodovia BR",
+        "zipcode": "58108-012"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Desembargador Manoel Felício Pinto",
+        "zipcode": "58101-042"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Vicente Vita",
+        "zipcode": "58101-418"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Nova Esperança",
+        "zipcode": "58103-758"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Presidente João Pessoa",
+        "zipcode": "58100-976"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Nossa Senhora da Penha",
+        "zipcode": "58108-368"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Débora Borges Xavier",
+        "zipcode": "58103-405"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Ismael Farias",
+        "zipcode": "58100-233"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Travessa Francisco Serafim",
+        "zipcode": "58100-314"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Augusto Chericate",
+        "zipcode": "58100-355"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua José Francisco da Silva",
+        "zipcode": "58101-033"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Djalma Vilar de Gusmão",
+        "zipcode": "58102-303"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Celeste Miranda",
+        "zipcode": "58108-513"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Cassiano da Cunha Nóbrega",
+        "zipcode": "58101-052"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Tom Jobim",
+        "zipcode": "58105-137"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Travessa Monte Castelo",
+        "zipcode": "58101-065"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua José Elisário da Silva",
+        "zipcode": "58101-105"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Damásio França Macedo",
+        "zipcode": "58100-613"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Macieiras",
+        "zipcode": "58101-658"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Santa Luzia",
+        "zipcode": "58101-055"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Maurílio Alves",
+        "zipcode": "58101-273"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Aline Maria de Vasconcelos Silva",
+        "zipcode": "58100-528"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Herondina Brasiliano Vieira",
+        "zipcode": "58100-611"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Maura Viana Medeiros",
+        "zipcode": "58100-108"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Ayrton Sena",
+        "zipcode": "58108-168"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua José Adailton Moreira",
+        "zipcode": "58108-176"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Edson Ataíde de Lima",
+        "zipcode": "58100-188"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Nicanor Marques de Souza",
+        "zipcode": "58102-286"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Morada Nova",
+        "street": "Travessa Beira Mar",
+        "zipcode": "58109-342"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Sofia",
+        "zipcode": "58108-116"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Ingá",
+        "zipcode": "58106-238"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Meryland Teotônio",
+        "zipcode": "58103-106"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua José Rodrigues de Farias",
+        "zipcode": "58100-172"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa do Moinho",
+        "zipcode": "58103-444"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Dom José Tomaz",
+        "zipcode": "58102-833"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Suape",
+        "zipcode": "58105-428"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua João Clementino Gomes",
+        "zipcode": "58108-088"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Vila João Rocco",
+        "zipcode": "58100-538"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Grimaldi Gonçalves Dantas",
+        "zipcode": "58102-284"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Bento Farias",
+        "zipcode": "58102-577"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Canuto",
+        "zipcode": "58108-077"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Leonor Viana de Souza Carvalho",
+        "zipcode": "58101-462"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Travessa Monsenhor José da Silva Coutinho",
+        "zipcode": "58103-232"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Juarez Távora",
+        "zipcode": "58103-002"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Maria Cordeiro do Nascimento",
+        "zipcode": "58108-242"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Rosa Vieira",
+        "zipcode": "58101-540"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua São Pedro",
+        "zipcode": "58103-132"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua José Antônio de França",
+        "zipcode": "58103-136"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Presidente Juscelino Kubitschek",
+        "zipcode": "58103-171"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Pastor José Ferreira da Silva",
+        "zipcode": "58100-142"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Nila Rocha",
+        "zipcode": "58100-170"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua das Orquídeas",
+        "zipcode": "58108-137"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Primo José Viana",
+        "zipcode": "58100-495"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar Cáspio",
+        "zipcode": "58102-162"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Antônio Genésio de Sousa",
+        "zipcode": "58102-658"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Manoel José da Nóbrega",
+        "zipcode": "58108-370"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Beija",
+        "zipcode": "58101-338"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Alexandre Vieira Nunes",
+        "zipcode": "58108-545"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua das Orquídeas",
+        "zipcode": "58108-543"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Tereza Izidro da Silva",
+        "zipcode": "58108-365"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rodovia BR",
+        "zipcode": "58108-502"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rodovia BR",
+        "zipcode": "58101-595"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua João Castor de Sena",
+        "zipcode": "58103-382"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "2ª Travessa Castelo Branco",
+        "zipcode": "58100-466"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Senador Rui Carneiro",
+        "zipcode": "58105-081"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Capitão Eumenes Gonçalves Martins",
+        "zipcode": "58102-322"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua José Padilha Crispim",
+        "zipcode": "58108-562"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua São José",
+        "zipcode": "58108-511"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Pastor José Alves de Oliveira",
+        "zipcode": "58103-402"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Pompeu Henrique Cavalcante",
+        "zipcode": "58100-590"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Nossa Senhora da Conceição",
+        "zipcode": "58108-357"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Santo Antônio",
+        "zipcode": "58108-537"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Morada Nova",
+        "street": "Rua Antônio Francisco de Araújo",
+        "zipcode": "58109-312"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua da Paz",
+        "zipcode": "58108-248"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Severina Batista da Luz",
+        "zipcode": "58108-317"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua José Messias de Freitas",
+        "zipcode": "58108-628"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Francisco Severiano de Vasconcelos",
+        "zipcode": "58108-531"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Veneza",
+        "zipcode": "58105-408"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua São Miguel Arcanjo",
+        "zipcode": "58108-311"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Salinas de Ribamar",
+        "street": "Travessa Beira Mar",
+        "zipcode": "58109-452"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Salinas de Ribamar",
+        "street": "Rua dos Pescadores",
+        "zipcode": "58109-498"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santo Expedito",
+        "zipcode": "58108-322"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua São Sebastião",
+        "zipcode": "58108-328"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua São Miguel",
+        "zipcode": "58103-212"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Virgínia Maria Nogueira Gadelha Pimentel",
+        "zipcode": "58102-332"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Sammuel Henriques Hardman Norat",
+        "zipcode": "58102-310"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Doutor Antônio Moacir Dantas Cavalcanti",
+        "zipcode": "58108-546"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Antônio Benício de Oliveira",
+        "zipcode": "58103-064"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Presidente Getúlio Vargas",
+        "zipcode": "58108-324"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Avenida José Ferreira de Moraes",
+        "zipcode": "58108-186"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Padre Alfredo Barbosa",
+        "zipcode": "58108-314"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Salinas de Ribamar",
+        "street": "Rua São Pedro",
+        "zipcode": "58109-482"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Diácono Carlos Peixoto de Vasconcelos",
+        "zipcode": "58101-670"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Maria Neide Nóbrega de Oliveira",
+        "zipcode": "58101-472"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Antônio Ferreira da Silva",
+        "zipcode": "58108-542"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Mar de Lincoln",
+        "zipcode": "58102-144"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Salinas de Ribamar",
+        "street": "Rua Engenheiro Franklin Pereira da Silva",
+        "zipcode": "58109-456"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Waldemir Ribeiro Gomes",
+        "zipcode": "58108-359"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua José Gonçalves de Oliveira",
+        "zipcode": "58105-094"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Jair Cunha Cavalcanti",
+        "zipcode": "58106-371"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Liberato José de Miranda",
+        "zipcode": "58100-120"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Morada Nova",
+        "street": "Avenida Presidente Tancredo Neves",
+        "zipcode": "58109-084"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Morada Nova",
+        "street": "Rua Marcos Bezerra de Alencar",
+        "zipcode": "58109-328"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Honduras",
+        "zipcode": "58102-016"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "2ª Travessa Zilda Pessoa Barreto",
+        "zipcode": "58101-258"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Algodão da Praia",
+        "zipcode": "58106-222"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Luiz Bezerra do Nascimento",
+        "zipcode": "58106-446"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua São José",
+        "zipcode": "58108-212"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua das Mangueiras",
+        "zipcode": "58106-542"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Seringueira",
+        "zipcode": "58106-544"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Gameleira",
+        "zipcode": "58106-548"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Clara",
+        "zipcode": "58108-067"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Avenida Vinte e Quatro de Junho",
+        "zipcode": "58108-086"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Cecília",
+        "zipcode": "58108-112"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua José Alves da Nóbrega",
+        "zipcode": "58108-276"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Raul Seixas",
+        "zipcode": "58108-122"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Severino Alves da Cunha",
+        "zipcode": "58108-134"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Ascendino Anselmo Rodrigues",
+        "zipcode": "58108-144"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua José Faustino da Silva Filho",
+        "zipcode": "58108-148"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua José Roberto da Silva Filho",
+        "zipcode": "58108-162"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Severino Maximiano",
+        "zipcode": "58108-164"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua São João Batista",
+        "zipcode": "58108-166"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Graviola",
+        "zipcode": "58106-184"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Cajueiro",
+        "zipcode": "58106-212"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Mangue Vermelho",
+        "zipcode": "58106-216"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santo Antônio",
+        "zipcode": "58108-182"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Boa Esperança",
+        "zipcode": "58108-254"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Jesus de Nazaré",
+        "zipcode": "58108-256"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Ana",
+        "zipcode": "58108-094"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Cascais",
+        "zipcode": "58105-402"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua João Tomaz da Silva",
+        "zipcode": "58101-733"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Avenida José Ferreira de Moraes",
+        "zipcode": "58108-522"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Aparecida",
+        "zipcode": "58108-024"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Luiza Maria da Conceição",
+        "zipcode": "58108-062"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Engenheiro Franklin Pereira da Silva",
+        "zipcode": "58108-578"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Guia",
+        "zipcode": "58108-222"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Morada Nova",
+        "street": "Rua Manoel Valentim dos Santos",
+        "zipcode": "58109-324"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Bernadeth",
+        "zipcode": "58108-036"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Lampemberg Medeiros de Almeida",
+        "zipcode": "58105-014"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Eufrásio Fernandes Barreto",
+        "zipcode": "58108-272"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Luzia",
+        "zipcode": "58108-288"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Maria Cordeiro do Nascimento",
+        "zipcode": "58106-880"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Marta",
+        "zipcode": "58108-034"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "58108-304"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Verônica",
+        "zipcode": "58108-106"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua José Belarmino de Moura",
+        "zipcode": "58108-108"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Monte Alegre",
+        "zipcode": "58108-252"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Ávila",
+        "zipcode": "58108-028"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Mercedes",
+        "zipcode": "58108-038"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Ex",
+        "zipcode": "58103-298"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "58108-022"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Inês",
+        "zipcode": "58108-102"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Santa Aparecida",
+        "zipcode": "58106-890"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Avenida Imbiridiba",
+        "zipcode": "58106-252"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua dos Ipês",
+        "zipcode": "58106-557"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Jatobá",
+        "zipcode": "58106-242"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Jatobá",
+        "zipcode": "58106-546"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Nova Esperança",
+        "zipcode": "58108-156"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Avenida Pôr do Sol",
+        "zipcode": "58106-377"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Murici",
+        "zipcode": "58106-232"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua do Apicum",
+        "zipcode": "58106-234"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Amescla",
+        "zipcode": "58106-246"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Mar do Caribe",
+        "zipcode": "58106-282"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua José de Souza de Oliveira",
+        "zipcode": "58106-294"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Manoel Barbosa de Araujo",
+        "zipcode": "58106-422"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Yeda Albuquerque Gadelha",
+        "zipcode": "58106-434"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Paulo Costa Lima",
+        "zipcode": "58106-442"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Sabino Gomes Rezende",
+        "zipcode": "58103-703"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Antônia Fernandes de Oliveira",
+        "zipcode": "58103-706"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua São Judas Tadeu",
+        "zipcode": "58103-709"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Heriberto de Souza",
+        "zipcode": "58103-722"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Flor de Lis",
+        "zipcode": "58103-744"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua José Lins do Rego",
+        "zipcode": "58105-057"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Castro Alves",
+        "zipcode": "58105-066"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Terezinha da Costa",
+        "zipcode": "58105-069"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Heriberto de Souza",
+        "zipcode": "58105-071"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Petronílio Olímpio de Moura",
+        "zipcode": "58105-074"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "58105-091"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Francisco Aires do Nascimento",
+        "zipcode": "58105-124"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Jorge Amado",
+        "zipcode": "58105-131"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua José Maria de Lucena",
+        "zipcode": "58105-134"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Genova",
+        "zipcode": "58105-412"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Madeira",
+        "zipcode": "58105-434"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Cabedelo",
+        "zipcode": "58105-440"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Arco Íris",
+        "zipcode": "58105-514"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Lírios do Vale",
+        "zipcode": "58105-517"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Pôr do Sol",
+        "zipcode": "58105-576"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Mar Azul",
+        "zipcode": "58105-578"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Avenida Capitão João Maurício Campos de Medeiros",
+        "zipcode": "58105-492"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Professor Cleberto da Silva Fonseca",
+        "zipcode": "58103-716"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto de Marseille",
+        "zipcode": "58105-431"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Itaguai",
+        "zipcode": "58105-443"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Paranaguá",
+        "zipcode": "58105-392"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Frei Damião de Bozzano",
+        "zipcode": "58108-284"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Jaraguá",
+        "zipcode": "58105-452"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Puerto Monte",
+        "zipcode": "58105-422"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Edite Martins Ferreira",
+        "zipcode": "58108-282"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Honório Patrício dos Santos",
+        "zipcode": "58105-084"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Travessa Senador Rui Carneiro",
+        "zipcode": "58105-089"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Mangaba",
+        "zipcode": "58106-171"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Santo Antônio",
+        "zipcode": "58105-508"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "58105-097"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Maria José de Lucena",
+        "zipcode": "58105-104"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Aratu",
+        "zipcode": "58105-436"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Polunos",
+        "zipcode": "58105-388"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Novo Horizonte",
+        "zipcode": "58105-652"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Paraíso",
+        "zipcode": "58105-573"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Ravena",
+        "zipcode": "58105-416"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Mucuripe",
+        "zipcode": "58105-458"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua João Alencar de Assunção",
+        "zipcode": "58108-204"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Lerici",
+        "zipcode": "58105-396"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Travessa Lídia Andrade da Silva",
+        "zipcode": "58105-105"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Lídia Andrade da Silva",
+        "zipcode": "58105-108"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Alfredo Chaves",
+        "zipcode": "58101-582"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Rio Paraíba",
+        "zipcode": "58103-713"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Deolinda Gomes de Araújo",
+        "zipcode": "58105-044"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua das Acácias",
+        "zipcode": "58105-026"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua João Paulo II",
+        "zipcode": "58103-780"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Agente Fiscal Pedro Menezes Filho",
+        "zipcode": "58106-028"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Amélia Pereira das Neves",
+        "zipcode": "58106-034"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Alice Isidro da Silva",
+        "zipcode": "58106-082"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Carine Cristina Monteiro da Silva",
+        "zipcode": "58106-086"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Cavalo Marinho",
+        "zipcode": "58106-044"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Apóstolo São Pedro",
+        "zipcode": "58103-448"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Apóstolo São Tomé",
+        "zipcode": "58103-454"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Apóstolo São Mateus",
+        "zipcode": "58103-456"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Apóstolo São Felipe",
+        "zipcode": "58103-458"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Apóstolo Santo André",
+        "zipcode": "58103-468"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Apóstolo São Judas Tadeu",
+        "zipcode": "58103-472"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Apóstolo São Bartolomeu",
+        "zipcode": "58103-476"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Nossa Senhora das Neves",
+        "zipcode": "58103-478"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua José Marcelino de Souza",
+        "zipcode": "58103-512"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "2ª Travessa Severina Saraiva de Souza",
+        "zipcode": "58103-520"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua Ana Alves de Figueiredo",
+        "zipcode": "58103-554"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Ana Alves de Figueiredo",
+        "zipcode": "58103-556"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Zuila de Araújo Matos",
+        "zipcode": "58103-673"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Nilo Montenegro",
+        "zipcode": "58103-676"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Professora Josenilda do Socorro Vieira",
+        "zipcode": "58103-689"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Nova Floresta",
+        "zipcode": "58103-740"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Dezessete de Abril",
+        "zipcode": "58103-748"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "58103-750"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Novo Horizonte",
+        "zipcode": "58103-756"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Ferroviário",
+        "zipcode": "58103-766"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua João Targino Delgado",
+        "zipcode": "58103-633"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua João Targino Delgado",
+        "zipcode": "58103-642"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Professor Clodoaldo Trigueiro",
+        "zipcode": "58103-666"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Karina Zagel Mendonça",
+        "zipcode": "58103-655"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Avenida Aurélio Guedes Cavalcante",
+        "zipcode": "58103-662"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Ernani Siqueira",
+        "zipcode": "58103-414"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua Ernani Siqueira",
+        "zipcode": "58103-420"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua dos Ipês",
+        "zipcode": "58103-753"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Ivo Souto Maior",
+        "zipcode": "58103-652"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Vila Maria",
+        "zipcode": "58103-322"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua das Orquídeas",
+        "zipcode": "58105-012"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Sol Nascente",
+        "zipcode": "58105-706"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua do Golfinho",
+        "zipcode": "58106-014"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua do Marlim Azul",
+        "zipcode": "58106-026"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Estudante Simone Gomes",
+        "zipcode": "58105-116"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Raimundo Dornelas de Brito",
+        "zipcode": "58105-022"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "58103-775"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "58103-772"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Carmelita Morais de Medeiros",
+        "zipcode": "58105-054"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Deputado José Lira",
+        "zipcode": "58105-121"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Golfo de Campeche",
+        "zipcode": "58101-675"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Yolanda Souza da Costa",
+        "zipcode": "58106-066"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Sebastião Antônio da Silva",
+        "zipcode": "58106-092"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Geraldo Pessoa de Carvalho",
+        "zipcode": "58106-097"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Mangue Seco",
+        "zipcode": "58106-131"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Rio Botafogo",
+        "zipcode": "58106-136"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua General José Araken Rodrigues",
+        "zipcode": "58105-770"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Mangue Branco",
+        "zipcode": "58106-134"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Ovídia Ezidro de Oliveira",
+        "zipcode": "58106-069"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua José Maria Alves Pereira",
+        "zipcode": "58105-712"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Ana Barbosa de Oliveira",
+        "zipcode": "58103-372"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Telma Alves de Melo",
+        "zipcode": "58103-386"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Travessa Telma Alves de Melo",
+        "zipcode": "58103-388"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Clóvis de Holanda Calado",
+        "zipcode": "58102-335"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Glaube Leite do Egito Reekers",
+        "zipcode": "58102-337"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Wogran Robson Vieira Correia",
+        "zipcode": "58102-343"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua José Bartolomeu Cabral",
+        "zipcode": "58102-566"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Presidente Artur Bernardes",
+        "zipcode": "58102-569"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Prefeito Joaquim Pessoa",
+        "zipcode": "58102-573"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Presidente Venceslau Braz",
+        "zipcode": "58102-582"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Severino Luiz de França",
+        "zipcode": "58102-600"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Doutor Américo Cavalcante",
+        "zipcode": "58102-823"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Aldson Gomes Cavalcante",
+        "zipcode": "58102-825"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Travessa Siqueira Campos",
+        "zipcode": "58103-054"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua João Luiz Batista",
+        "zipcode": "58103-060"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Travessa João Luiz Batista",
+        "zipcode": "58103-062"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua José Marcos de Melo Peixoto",
+        "zipcode": "58102-362"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Pastor José Alves de Oliveira",
+        "zipcode": "58103-152"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Cleto Campelo",
+        "zipcode": "58103-290"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Avenida Monsenhor José da Silva Coutinho",
+        "zipcode": "58103-202"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "2ª Travessa Monsenhor José da Silva Coutinho",
+        "zipcode": "58103-236"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua São Miguel",
+        "zipcode": "58103-320"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua São Francisco",
+        "zipcode": "58103-036"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua São Francisco",
+        "zipcode": "58103-342"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua São João",
+        "zipcode": "58103-072"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Vila Imaculada Conceição",
+        "zipcode": "58103-082"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua São Sebastião",
+        "zipcode": "58103-102"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua José Henrique de Miranda",
+        "zipcode": "58103-122"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Antônio Victor Tavares",
+        "zipcode": "58103-126"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Travessa Papa João XXIII",
+        "zipcode": "58103-184"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Papa João XXIII",
+        "zipcode": "58103-282"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "2ª Travessa Papa João XXIII",
+        "zipcode": "58103-286"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Deputado Augusto Ferreira Ramos",
+        "zipcode": "58103-374"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Avenida Monsenhor José da Silva Coutinho",
+        "zipcode": "58103-332"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Isaías da Silva Oliveira",
+        "zipcode": "58103-376"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Doutor Alvin Schimlpfeng",
+        "zipcode": "58102-828"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Ex",
+        "zipcode": "58103-224"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua dos Cajueiros",
+        "zipcode": "58101-653"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Travessa Monsenhor José da Silva Coutinho",
+        "zipcode": "58103-335"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Gonçalo Francisco Crispim de Oliveira",
+        "zipcode": "58103-222"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Doutor Arnaldo Gomes da Silva",
+        "zipcode": "58102-830"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Travessa São Francisco",
+        "zipcode": "58103-344"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Nilo Peçanha",
+        "zipcode": "58102-586"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Travessa Ex",
+        "zipcode": "58103-226"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Milton Herculano de Araújo",
+        "zipcode": "58103-350"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Manoel Araújo do Nascimento",
+        "zipcode": "58103-362"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua José Gomes Ribeiro",
+        "zipcode": "58103-302"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "58103-052"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Avenida Governador Flávio Ribeiro Coutinho",
+        "zipcode": "58102-835"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo da Califórnia",
+        "zipcode": "58102-100"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Cook",
+        "zipcode": "58102-105"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo do Panamá",
+        "zipcode": "58102-054"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Penas",
+        "zipcode": "58102-056"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo do México",
+        "zipcode": "58102-058"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Botínia",
+        "zipcode": "58102-062"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar da Sibéria",
+        "zipcode": "58102-071"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Riga",
+        "zipcode": "58102-072"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo Pérsico",
+        "zipcode": "58102-074"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Sirte",
+        "zipcode": "58102-076"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Salônica",
+        "zipcode": "58102-082"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Biscaia",
+        "zipcode": "58102-084"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Cadis",
+        "zipcode": "58102-086"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar da Irlanda",
+        "zipcode": "58102-091"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Tunis",
+        "zipcode": "58102-096"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Tarento",
+        "zipcode": "58102-098"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar de Coral",
+        "zipcode": "58102-262"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Adauto Henriques de Araújo",
+        "zipcode": "58102-282"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Manoel Nóbrega Filho",
+        "zipcode": "58102-290"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Creuza Josefa Morato",
+        "zipcode": "58102-380"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Avenida Presidente Café Filho",
+        "zipcode": "58102-592"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Avenida Diomar Maia de Sales Pontes",
+        "zipcode": "58102-765"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Francisco Leocádio Ribeiro Coutinho",
+        "zipcode": "58102-750"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de São Jorge",
+        "zipcode": "58102-034"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de São Lourenço",
+        "zipcode": "58102-036"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Lion",
+        "zipcode": "58102-042"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo do Alasca",
+        "zipcode": "58102-044"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Amundsen",
+        "zipcode": "58102-046"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar Negro",
+        "zipcode": "58102-051"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Oceano Atlântico",
+        "zipcode": "58102-252"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar Vermelho",
+        "zipcode": "58102-110"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Veneza",
+        "zipcode": "58102-122"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Valência",
+        "zipcode": "58102-124"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Wash",
+        "zipcode": "58102-128"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Venezuela",
+        "zipcode": "58102-131"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo San Fernando",
+        "zipcode": "58102-138"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar de Behring",
+        "zipcode": "58102-141"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Mar do Norte",
+        "zipcode": "58102-142"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Mar de Salomão",
+        "zipcode": "58102-146"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar da Noruega",
+        "zipcode": "58102-151"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Finlândia",
+        "zipcode": "58102-154"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Guiné",
+        "zipcode": "58102-156"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo da China",
+        "zipcode": "58102-171"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Hortência Helena de Amorim Brito",
+        "zipcode": "58102-660"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Seleno Gomes Maropo",
+        "zipcode": "58102-364"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Hortência Helena de Amorim Brito",
+        "zipcode": "58102-770"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Maurílio Alencar Cavalcante",
+        "zipcode": "58102-552"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Tonquim",
+        "zipcode": "58102-094"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Doutor Anselmo Gomes da Silva",
+        "zipcode": "58102-820"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Nair Ribeiro da Silva",
+        "zipcode": "58103-315"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Travessa Maurílio Alencar Cavalcante",
+        "zipcode": "58102-544"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Bruno Cunha Peixoto",
+        "zipcode": "58102-366"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Elvira Gomes de Oliveira",
+        "zipcode": "58103-312"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Maria das Dores da Silva",
+        "zipcode": "58103-304"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Mar Tirreno",
+        "zipcode": "58102-177"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar das Antilhas",
+        "zipcode": "58102-212"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Oceano Índico",
+        "zipcode": "58102-222"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Oceano Pacífico",
+        "zipcode": "58102-236"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar Mediterrâneo",
+        "zipcode": "58102-256"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rodovia BR",
+        "zipcode": "58101-740"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Santa Cavalcante",
+        "zipcode": "58101-572"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua João Santos Coelho Filho",
+        "zipcode": "58101-415"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Maria do Pace Rócco",
+        "zipcode": "58101-350"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Agostinho Garcia Lobo",
+        "zipcode": "58101-412"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua João Henrique de Miranda",
+        "zipcode": "58101-370"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Max Zagel",
+        "zipcode": "58101-312"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Francisco Pilar",
+        "zipcode": "58101-315"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Benedito Fernandes Vieira",
+        "zipcode": "58101-355"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Julieta Viana",
+        "zipcode": "58101-375"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Maria Fernandes Viana",
+        "zipcode": "58101-380"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Benício de Oliveira Lima",
+        "zipcode": "58101-383"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Raul de Souza Carvalho",
+        "zipcode": "58101-432"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Waldemar Marques Junior",
+        "zipcode": "58101-445"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Alfredo Nóbrega",
+        "zipcode": "58101-452"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Vitorino Cardoso",
+        "zipcode": "58101-510"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Beco da Praia",
+        "zipcode": "58101-514"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Travessa Carolino Cardoso",
+        "zipcode": "58101-516"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Beco Cilaio",
+        "zipcode": "58101-518"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Professora Luiza Vieira Campos da Silva",
+        "zipcode": "58101-520"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Mar da Arábia",
+        "zipcode": "58102-010"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Antônio Neves",
+        "zipcode": "58101-522"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Valdemar Melo de Brito",
+        "zipcode": "58101-525"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Radialista Antônio Assunção de Jesus",
+        "zipcode": "58101-530"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Leonor Viana",
+        "zipcode": "58101-532"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Maria Ramos Carvalho",
+        "zipcode": "58101-534"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Travessa Radialista Antônio Assunção de Jesus",
+        "zipcode": "58101-536"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Rita Maria de Lima",
+        "zipcode": "58101-543"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua General Renato Pires Ferreira",
+        "zipcode": "58101-545"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Maria de Lima Mimosa",
+        "zipcode": "58101-552"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Antônio Marinho Falcão",
+        "zipcode": "58101-630"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Henrique Siqueira",
+        "zipcode": "58101-635"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Travessa Enseada",
+        "zipcode": "58101-638"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Enseada",
+        "zipcode": "58101-640"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Golfo de Coronation",
+        "zipcode": "58101-750"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Costa Bela Vista",
+        "zipcode": "58101-810"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Genova",
+        "zipcode": "58102-013"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Anadyr",
+        "zipcode": "58102-028"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Mar Báltico",
+        "zipcode": "58102-031"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Kiel",
+        "zipcode": "58102-032"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Avenida Oceano Atlântico",
+        "zipcode": "58101-830"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Otávio Novais",
+        "zipcode": "58101-585"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Otávio Novais",
+        "zipcode": "58101-605"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua José Heliodoro do Nascimento",
+        "zipcode": "58101-435"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Rodrigues de Carvalho",
+        "zipcode": "58101-303"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Maria do Carmo Araújo de Lima",
+        "zipcode": "58101-555"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Golfo de Oman",
+        "zipcode": "58101-700"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Miguel Silvano Tomaz",
+        "zipcode": "58101-762"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Francisca Pereira Nóbrega",
+        "zipcode": "58101-465"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Juvêncio Coelho de Carvalho",
+        "zipcode": "58101-352"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Aden",
+        "zipcode": "58102-023"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Mar da Arábia",
+        "zipcode": "58101-860"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Rodrigues de Carvalho",
+        "zipcode": "58101-458"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Jardim Santa Catarina",
+        "zipcode": "58100-655"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Josias de Oliveira",
+        "zipcode": "58100-662"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Severino Teixeira de Oliveira",
+        "zipcode": "58100-665"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Rosa de Lima Passos de Oliveira",
+        "zipcode": "58100-673"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua João Vitaliano",
+        "zipcode": "58100-683"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Marinômio Lopes de Mendonça",
+        "zipcode": "58100-705"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Marinômio Lopes de Mendonça",
+        "zipcode": "58100-708"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Augusto Firmo Paulo",
+        "zipcode": "58101-015"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Rua Estudante Paulo Maia Guimarães",
+        "zipcode": "58101-160"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Rua Tercília de Arruda Luna",
+        "zipcode": "58101-170"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Cassiano da Cunha Nóbrega",
+        "zipcode": "58100-695"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Olga Brito dos Santos",
+        "zipcode": "58101-063"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Solon Lopes de Mendonça",
+        "zipcode": "58101-068"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Severino Laurentino Leite",
+        "zipcode": "58101-072"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua José Messias de Freitas",
+        "zipcode": "58101-075"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Alcides de Almeida",
+        "zipcode": "58101-096"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Maria de Lourdes Duarte de Oliveira",
+        "zipcode": "58101-111"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Travessa Pastor José Alves de Oliveira",
+        "zipcode": "58101-145"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Rua Pastor José Alves de Oliveira",
+        "zipcode": "58101-150"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Rua Pastor José Alves de Oliveira",
+        "zipcode": "58101-232"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Professor Clodoaldo Trigueiro",
+        "zipcode": "58101-288"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Rua Rodrigo Santiago de Brito Pereira",
+        "zipcode": "58101-245"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua São José",
+        "zipcode": "58100-608"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Santo Amaro",
+        "zipcode": "58100-615"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua João Lelis de Luna Freire",
+        "zipcode": "58101-293"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Ivo Souto Maior",
+        "zipcode": "58101-275"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Rua São Sebastião",
+        "zipcode": "58101-140"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Nelson Souto Maior Rosas",
+        "zipcode": "58101-002"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Rua Zilda Pessoa Barreto",
+        "zipcode": "58101-252"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Zilda Pessoa Barreto",
+        "zipcode": "58101-268"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "2ª Travessa Zilda Pessoa Barreto",
+        "zipcode": "58101-262"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Santo Amaro",
+        "zipcode": "58100-617"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "2ª Travessa Santo Amaro",
+        "zipcode": "58100-619"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Pastor José Alves de Oliveira",
+        "zipcode": "58100-724"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Nossa Senhora dos Navegantes",
+        "zipcode": "58100-688"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Vila São José",
+        "zipcode": "58100-734"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Avenida Francisco Porto",
+        "zipcode": "58101-292"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Avenida José Américo de Almeida Filho",
+        "zipcode": "58101-180"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Avenida Tenente Sousa Assis",
+        "zipcode": "58101-283"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Rua Severino Montenegro",
+        "zipcode": "58101-135"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Dulce Fernandes do Nascimento",
+        "zipcode": "58101-115"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Rua Juiz Hamilton de Souza Neves",
+        "zipcode": "58101-242"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Chácara da Praia",
+        "zipcode": "58101-685"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Rodovia BR",
+        "zipcode": "58101-248"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Avenida Monsenhor José da Silva Coutinho",
+        "zipcode": "58101-203"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Joaquim Bento de Santana",
+        "zipcode": "58101-013"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Rua Antônio Leandro de Souza",
+        "zipcode": "58101-175"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Avenida José Américo de Almeida Filho",
+        "zipcode": "58101-212"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Vereador Benedito Ribeiro de Araújo",
+        "zipcode": "58101-120"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Rua Múcio Abílio Peixoto Wanderley",
+        "zipcode": "58101-205"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Benedito Soares da Silva",
+        "zipcode": "58101-085"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Hilda Souto Maior de Figueiredo",
+        "zipcode": "58101-008"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua João Gaudino Barros",
+        "zipcode": "58101-038"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Alexandre Vieira Nunes",
+        "zipcode": "58108-208"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Doutor João Machado",
+        "zipcode": "58100-243"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Monsenhor Walfredo Leal",
+        "zipcode": "58100-248"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Travessa Castelo Branco",
+        "zipcode": "58100-424"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Travessa Miramar",
+        "zipcode": "58100-458"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Travessa Primo José Viana",
+        "zipcode": "58100-464"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Castelo Branco",
+        "zipcode": "58100-472"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "2ª Travessa Primo José Viana",
+        "zipcode": "58100-475"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Olivan Telesse Zerra",
+        "zipcode": "58100-481"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Vereador Eugênio Vale da Silva",
+        "zipcode": "58100-668"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Travessa Santa Catarina",
+        "zipcode": "58100-492"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Santa Catarina",
+        "zipcode": "58100-491"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Maria Benedita da Silva",
+        "zipcode": "58100-214"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Pedro Aleixo de Moura",
+        "zipcode": "58100-216"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua do Cajueiro",
+        "zipcode": "58100-511"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Camilo de Holanda",
+        "zipcode": "58100-515"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Cândida Miranda",
+        "zipcode": "58108-516"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa do Cajueiro",
+        "zipcode": "58100-516"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Camilo de Holanda",
+        "zipcode": "58100-518"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "2ª Travessa Camilo de Holanda",
+        "zipcode": "58100-522"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Manoel Alves Casado",
+        "zipcode": "58100-532"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Hildebrando da Silva",
+        "zipcode": "58100-534"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Primo José Viana",
+        "zipcode": "58100-536"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Miramar",
+        "zipcode": "58100-552"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Solon de Lucena",
+        "zipcode": "58100-570"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "58100-263"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "58100-580"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Mata Atlântica",
+        "zipcode": "58106-532"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Artur Santos Viana",
+        "zipcode": "58100-575"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Nova Descoberta",
+        "zipcode": "58100-592"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua José Rubenildo da Silva",
+        "zipcode": "58108-152"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua das Acácias",
+        "zipcode": "58106-562"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "2ª Travessa Pedro Aleixo de Moura",
+        "zipcode": "58100-218"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Francisco Serafim",
+        "zipcode": "58100-265"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Travessa Santo Antônio",
+        "zipcode": "58108-174"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Coronel José Teles",
+        "zipcode": "58100-503"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Avenida Pôr do Sol",
+        "zipcode": "58106-406"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Primo José Viana",
+        "zipcode": "58100-521"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Pedro Gonzaga de Lima",
+        "zipcode": "58100-740"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Doutor João Machado",
+        "zipcode": "58100-244"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Venâncio Neiva",
+        "zipcode": "58100-246"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Getúlio Vargas",
+        "zipcode": "58100-261"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Avenida Ananias Paulino",
+        "zipcode": "58102-655"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Apóstolo São João",
+        "zipcode": "58103-446"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Feliciano Cabral de Souza",
+        "zipcode": "58100-711"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Joaquim Bento de Santana",
+        "zipcode": "58100-725"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Antônio Dornelas Bezerra",
+        "zipcode": "58100-675"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Estivador Francisco Vicente Leão",
+        "zipcode": "58100-625"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Maria Luiza de França Silva",
+        "zipcode": "58100-715"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Maria Nazaré Jorge de Sena",
+        "zipcode": "58100-595"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Enivaldo Figueiredo de Miranda",
+        "zipcode": "58100-550"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Presidente Getúlio Vargas",
+        "zipcode": "58100-508"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Eribaldo da Silva Araújo",
+        "zipcode": "58100-685"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Enivaldo Figueiredo de Miranda",
+        "zipcode": "58100-460"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua Manoel Moura dos Santos",
+        "zipcode": "58103-462"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Travessa Severina Saraiva de Souza",
+        "zipcode": "58103-466"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Maria Amorim de Andrade",
+        "zipcode": "58103-671"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Artur Gomes Moreira",
+        "zipcode": "58100-185"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Ademar Viana",
+        "zipcode": "58100-193"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Pedro Aleixo de Moura",
+        "zipcode": "58100-210"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "2ª Travessa Francisco Serafim",
+        "zipcode": "58100-316"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Cassiano da Cunha Nóbrega",
+        "zipcode": "58100-422"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Santos Dumont",
+        "zipcode": "58105-126"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Alegre",
+        "zipcode": "58105-400"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Avenida Milton Macedo da Cruz",
+        "zipcode": "58105-565"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Antônio Miguel da Silva",
+        "zipcode": "58103-068"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua João Batista de Melo",
+        "zipcode": "58100-168"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Hilda de Matos Sousa",
+        "zipcode": "58100-174"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Nila Rocha",
+        "zipcode": "58100-176"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Avenida Capitão João Maurício Campos de Medeiros",
+        "zipcode": "58105-502"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Avenida Santa Isabel",
+        "zipcode": "58108-096"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Cleto Campelo",
+        "zipcode": "58100-130"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Francisco Serafim",
+        "zipcode": "58100-312"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Campina da Vila",
+        "zipcode": "58100-195"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Ismael Farias",
+        "zipcode": "58100-202"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Santa Emília de Rodat",
+        "zipcode": "58100-204"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua José Leite Sobrinho",
+        "zipcode": "58105-086"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Heitor Gusmão",
+        "zipcode": "58100-105"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Aderbal Piragibe",
+        "zipcode": "58100-110"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Airton Senna da Silva",
+        "zipcode": "58106-266"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua Nossa Senhora Aparecida",
+        "zipcode": "58103-482"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua João Lelis de Luna Freire",
+        "zipcode": "58103-701"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Manoel Vicente da Silva",
+        "zipcode": "58108-270"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Coronel José Teles",
+        "zipcode": "58100-405"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Juarez Távora",
+        "zipcode": "58100-158"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Márcia Travassos",
+        "zipcode": "58103-718"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua João da Mata",
+        "zipcode": "58100-115"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua João José Viana",
+        "zipcode": "58100-118"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua da Palmeira",
+        "zipcode": "58100-154"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Rio Paraíba",
+        "zipcode": "58106-166"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua das Orquídeas",
+        "zipcode": "58103-762"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "58100-152"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Pau Brasil",
+        "zipcode": "58106-227"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Avenida Joaquim Noberto Ferreira",
+        "zipcode": "58103-142"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Nilson da Silva Bahia",
+        "zipcode": "58101-710"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua das Acácias",
+        "zipcode": "58108-539"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Municipalista Pedro da Silva Coutinho",
+        "zipcode": "58103-077"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Anacleto Vitorino",
+        "zipcode": "58100-113"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Benedito Soares da Silva",
+        "zipcode": "58100-212"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de San Matias",
+        "zipcode": "58102-052"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Roldão José de Oliveira",
+        "zipcode": "58100-163"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Travessa Manoel Araújo do Nascimento",
+        "zipcode": "58103-366"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Via Portuária",
+        "zipcode": "58100-358"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Travessa Beira Mar",
+        "zipcode": "58100-434"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Santa Juliana",
+        "zipcode": "58108-032"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Antônio Elias Pessoa",
+        "zipcode": "58100-178"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Félix Alves de Araújo",
+        "zipcode": "58100-161"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua João Alencar de Assunção",
+        "zipcode": "58108-526"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Coronel Aureliano",
+        "zipcode": "58100-452"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Avenida Engenheiro Rivaldo de Carvalho",
+        "zipcode": "58100-456"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Presidente Getúlio Vargas",
+        "zipcode": "58100-305"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Bengala",
+        "zipcode": "58102-066"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Sidra",
+        "zipcode": "58102-079"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Tailândia",
+        "zipcode": "58102-092"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Nossa Senhora dos Navegantes",
+        "zipcode": "58100-713"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Antônio Moreira Cardoso",
+        "zipcode": "58100-722"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua José Aurélio de Oliveira",
+        "zipcode": "58102-312"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Travessa Estudante Paulo Maia Guimarães",
+        "zipcode": "58101-142"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Presidente José Linhares",
+        "zipcode": "58102-546"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Manoel Alves Casado",
+        "zipcode": "58100-531"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Cassiano da Cunha Nóbrega",
+        "zipcode": "58100-563"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Delfim Moreira",
+        "zipcode": "58102-575"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Rua Cleto Campelo",
+        "zipcode": "58103-242"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Areia Dourada",
+        "street": "Travessa Zilda Pessoa Barreto",
+        "zipcode": "58101-255"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Karina Zagel Mendonça",
+        "zipcode": "58101-278"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Maria do Pace Rócco",
+        "zipcode": "58101-442"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Agostinho Garcia Lobo",
+        "zipcode": "58101-385"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Tenente Antônio Pontes",
+        "zipcode": "58100-645"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Coronel Aureliano",
+        "zipcode": "58100-678"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Avenida Aurélio Guedes Cavalcante",
+        "zipcode": "58101-285"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Avenida Ambrósio Miranda de Araújo",
+        "zipcode": "58108-232"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Doze de Dezembro",
+        "zipcode": "58101-328"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Universitário João Roberto Borges de Souza",
+        "zipcode": "58101-342"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Carolino Cardoso",
+        "zipcode": "58101-502"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Márcia Travassos",
+        "zipcode": "58101-298"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "2ª Travessa Carolino Cardoso",
+        "zipcode": "58101-528"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Travessa Maria Ramos de Carvalho",
+        "zipcode": "58101-538"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Travessa Santa Cavalcante",
+        "zipcode": "58101-558"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camalaú",
+        "street": "Travessa Presidente Juscelino Kubitschek",
+        "zipcode": "58103-172"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Lubeck",
+        "zipcode": "58102-039"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar Vermelho",
+        "zipcode": "58102-120"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Danzig",
+        "zipcode": "58102-133"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Mar Salgado",
+        "zipcode": "58102-149"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar de Timor",
+        "zipcode": "58102-174"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rua Edgar Sales de Miranda Henrique",
+        "zipcode": "58102-790"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Pedro Gonzaga de Lima",
+        "zipcode": "58101-005"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Atum",
+        "zipcode": "58106-024"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Augusta Neves da Silva",
+        "zipcode": "58106-077"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "58105-035"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua José Roberto da Silva",
+        "zipcode": "58105-037"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Avenida Doutora Maria da Luz Vasconcelos Bezerra",
+        "zipcode": "58105-039"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Área Rural de Cabedelo",
+        "street": "Área Rural",
+        "zipcode": "58109-899"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "58105-041"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Guabiraba",
+        "zipcode": "58106-219"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Martim Freire do Nascimento",
+        "zipcode": "58100-513"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Isabel Amélia de Oliveira",
+        "zipcode": "58102-316"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Poço",
+        "street": "Rua Luna Pedrosa",
+        "zipcode": "58101-574"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Galícia",
+        "zipcode": "58105-425"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Travessa Joaquim Bento de Santana",
+        "zipcode": "58100-728"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Guaiaquil",
+        "zipcode": "58102-014"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Otávio de Souza Falcão",
+        "zipcode": "58101-760"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Avenida Mar Adriático",
+        "zipcode": "58102-242"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua José Gerônimo da Silva Filho",
+        "zipcode": "58108-064"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto Santo Julians",
+        "zipcode": "58105-385"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Formosa",
+        "street": "Avenida Joaquim Noberto Ferreira",
+        "zipcode": "58101-173"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua Tenente Wilson Claudino Ferreira",
+        "zipcode": "58103-518"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Jeasi Vale da Silva",
+        "zipcode": "58100-206"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua São Gabriel",
+        "zipcode": "58108-354"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Francisco Moreira dos Santos",
+        "zipcode": "58100-165"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua José Joviniano de Brito",
+        "zipcode": "58100-183"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Pastor José Alves de Oliveira",
+        "zipcode": "58100-222"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua São Francisco de Assis",
+        "zipcode": "58108-286"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Travessa Cleto Campelo",
+        "zipcode": "58100-122"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Nelson Souto Maior Rosas",
+        "zipcode": "58100-770"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Praia do Jacaré",
+        "zipcode": "58105-810"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua das Palmeiras",
+        "zipcode": "58108-535"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Bom Jesus",
+        "zipcode": "58108-258"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Avenida Anália Moraes",
+        "zipcode": "58101-323"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Avenida Xaréu",
+        "zipcode": "58106-006"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Madre Paulina",
+        "zipcode": "58105-657"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Nova Paisagem",
+        "zipcode": "58105-692"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Jair Cunha Cavalcanti",
+        "zipcode": "58105-700"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Deywiane Bezerra Cabral",
+        "zipcode": "58105-703"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Rosemiro Rodrigues de Lima",
+        "zipcode": "58105-714"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Santo Onofre",
+        "zipcode": "58105-731"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Nova Esperança",
+        "zipcode": "58105-656"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Avenida Pôr do Sol",
+        "zipcode": "58105-820"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua da Cioba",
+        "zipcode": "58106-022"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua da Arabaiana",
+        "zipcode": "58106-039"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Avenida Capitão João Maurício Campos de Medeiros",
+        "zipcode": "58106-052"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Antônio Sérgio de Almeida",
+        "zipcode": "58106-094"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Avenida Imbiridiba",
+        "zipcode": "58105-718"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua do Dourado",
+        "zipcode": "58106-017"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua do Mero",
+        "zipcode": "58106-032"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Maria Venâncio de Carvalho",
+        "zipcode": "58106-057"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Marizeiro",
+        "zipcode": "58106-106"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Rio Negro",
+        "zipcode": "58106-155"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Rio Capibaribe",
+        "zipcode": "58106-162"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua João de Souza Rocha",
+        "zipcode": "58105-780"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Doutor Antônio Moacir Dantas Cavalcanti",
+        "zipcode": "58105-860"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua da Garoupa",
+        "zipcode": "58106-012"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Rio Sanhauá",
+        "zipcode": "58106-152"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Severino Barbosa de Lima",
+        "zipcode": "58108-372"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Professora Maria de Lourdes Barbosa Arruda",
+        "zipcode": "58101-725"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Porto Seguro",
+        "zipcode": "58101-678"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Nanci Clarice Tomazoni",
+        "zipcode": "58101-720"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua das Hortênsias",
+        "zipcode": "58108-533"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto de Santos",
+        "zipcode": "58105-375"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Sol Nascente",
+        "zipcode": "58103-743"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua São Sebastião",
+        "zipcode": "58105-032"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Maria do Socorro Santos da Silva",
+        "zipcode": "58105-043"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rodovia BR",
+        "zipcode": "58102-542"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Verde",
+        "street": "Rodovia BR",
+        "zipcode": "58102-800"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rua Augusto José Couto de Faria",
+        "zipcode": "58103-684"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Severino S Silva",
+        "zipcode": "58108-104"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Linha do Trem",
+        "zipcode": "58108-652"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Porto de Palmas",
+        "zipcode": "58105-445"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "2ª Travessa Monsenhor José da Silva Coutinho",
+        "zipcode": "58103-338"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rua Golfo de Gabes",
+        "zipcode": "58102-019"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Agmar Medeiros Bezerra",
+        "zipcode": "58106-437"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rodovia BR",
+        "zipcode": "58103-622"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Camboinha",
+        "street": "Rodovia BR",
+        "zipcode": "58103-692"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rodovia BR",
+        "zipcode": "58105-182"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rodovia BR",
+        "zipcode": "58106-382"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rodovia BR",
+        "zipcode": "58106-402"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Morada Nova",
+        "street": "Rodovia BR",
+        "zipcode": "58109-303"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rodovia BR",
+        "zipcode": "58101-330"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Intermares",
+        "street": "Rodovia BR",
+        "zipcode": "58102-202"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Presidente João Pessoa",
+        "zipcode": "58100-100"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua Antônio Paulino Serrano",
+        "zipcode": "58103-428"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Manguinhos",
+        "street": "Rua Antônio Francisco de Melo",
+        "zipcode": "58103-514"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Luiz Amaro da Costa",
+        "zipcode": "58101-028"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua João Pires de Figueiredo",
+        "zipcode": "58100-255"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Santa Catarina",
+        "street": "Rua Desembargador Onaldo Nóbrega Montenegro",
+        "zipcode": "58100-432"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Matos",
+        "street": "Rua Ernesto Vital da Silva",
+        "zipcode": "58100-733"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Vinícius de Morais",
+        "zipcode": "58105-062"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua João Coelho de Bulhões",
+        "zipcode": "58105-506"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Pastor José Alves de Oliveira",
+        "zipcode": "58101-082"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Camboinha",
+        "street": "Rua Professor Cleberto da Silva Fonseca",
+        "zipcode": "58101-295"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Recanto do Poço",
+        "street": "Rua Airton Senna da Silva",
+        "zipcode": "58105-101"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Parque Esperança",
+        "street": "Rua Antônio Francisco de Araújo",
+        "zipcode": "58108-646"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Renascer",
+        "street": "Rua Margarida Maria Alves",
+        "zipcode": "58108-172"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim América",
+        "street": "Rua Francisco Leocádio Ribeiro Coutinho",
+        "zipcode": "58102-740"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Ponta de Campina",
+        "street": "Rua Major Paulo Francisco de Menezes",
+        "zipcode": "58101-680"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jacaré",
+        "street": "Rua Engenheiro Liedson de Carvalho Lisboa",
+        "zipcode": "58105-825"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Nova Vitória",
+        "zipcode": "58106-059"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Portal do Poço",
+        "street": "Rua Maria Margarida de Andrade",
+        "zipcode": "58106-072"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Monte Castelo",
+        "street": "Rua Júlia Ferreira da Silva",
+        "zipcode": "58101-025"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Amazônia Park",
+        "street": "Rua Doutor Antônio Moacir Dantas Cavalcanti",
+        "zipcode": "58106-454"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua João Edivaldo de Freitas",
+        "zipcode": "58103-396"
+    },
+    {
+        "city": "Cabedelo",
+        "state": "PB",
+        "district": "Jardim Brasília",
+        "street": "Rua Gonçalo Francisco Crispim de Oliveira",
+        "zipcode": "58103-294"
+    }
+]

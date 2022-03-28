@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Porto Vitória",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "84610-000"
+    },
+    {
+        "city": "Porto Vitória",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "84615-000"
+    },
+    {
+        "city": "Porto Vitória",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Pedro Scheidt",
+        "zipcode": "84615-970"
+    },
+    {
+        "city": "Porto Vitória",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Pedro Scheidt",
+        "zipcode": "84610-970"
+    }
+]

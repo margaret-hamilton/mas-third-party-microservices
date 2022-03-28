@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Coração de Jesus",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Luiz Barbosa 1218",
+        "zipcode": "39340-970"
+    },
+    {
+        "city": "Coração de Jesus",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça da Matriz 8454",
+        "zipcode": "39340-971"
+    },
+    {
+        "city": "Coração de Jesus",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39340-000"
+    }
+]

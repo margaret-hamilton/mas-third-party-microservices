@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Seringueiras",
+        "state": "RO",
+        "district": "Centro",
+        "street": "Avenida Flamboyant 183",
+        "zipcode": "76934-970"
+    },
+    {
+        "city": "Seringueiras",
+        "state": "RO",
+        "district": null,
+        "street": "Linha 12",
+        "zipcode": "76934-990"
+    },
+    {
+        "city": "Seringueiras",
+        "state": "RO",
+        "district": null,
+        "street": "Linha 14 Núcleo de Novo Planalto",
+        "zipcode": "76934-991"
+    },
+    {
+        "city": "Seringueiras",
+        "state": "RO",
+        "district": "",
+        "street": "",
+        "zipcode": "76934-000"
+    }
+]

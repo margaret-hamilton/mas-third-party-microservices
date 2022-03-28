@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Goioerê",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Bento Munhoz da Rocha Neto",
+        "zipcode": "87360-971"
+    },
+    {
+        "city": "Goioerê",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Bento Munhoz da Rocha Neto",
+        "zipcode": "87360-970"
+    },
+    {
+        "city": "Goioerê",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87360-000"
+    },
+    {
+        "city": "Goioerê",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "87364-990"
+    }
+]

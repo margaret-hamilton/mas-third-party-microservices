@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Dom Bosco",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Cândido Pereira Campos 740",
+        "zipcode": "38654-973"
+    },
+    {
+        "city": "Dom Bosco",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "38654-972"
+    },
+    {
+        "city": "Dom Bosco",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38654-000"
+    }
+]

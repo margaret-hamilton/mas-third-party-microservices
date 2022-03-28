@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Angical do Piauí",
+        "state": "PI",
+        "district": "Centro",
+        "street": "Avenida João Siqueira Paes",
+        "zipcode": "64410-970"
+    },
+    {
+        "city": "Angical do Piauí",
+        "state": "PI",
+        "district": null,
+        "street": "BR",
+        "zipcode": "64410-990"
+    },
+    {
+        "city": "Angical do Piauí",
+        "state": "PI",
+        "district": "",
+        "street": "",
+        "zipcode": "64410-000"
+    }
+]

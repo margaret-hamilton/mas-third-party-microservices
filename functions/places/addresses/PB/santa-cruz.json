@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santa Cruz",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Central s/n",
+        "zipcode": "58824-972"
+    },
+    {
+        "city": "Santa Cruz",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Iracema s/n",
+        "zipcode": "58824-971"
+    },
+    {
+        "city": "Santa Cruz",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Francisco Fananca 70",
+        "zipcode": "58824-970"
+    },
+    {
+        "city": "Santa Cruz",
+        "state": "PB",
+        "district": "",
+        "street": "",
+        "zipcode": "58824-000"
+    }
+]

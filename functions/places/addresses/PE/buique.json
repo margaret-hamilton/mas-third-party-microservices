@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Buíque",
+        "state": "PE",
+        "district": "Carneiro",
+        "street": "Vila do Carneiro s/n",
+        "zipcode": "56533-970"
+    },
+    {
+        "city": "Buíque",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua São Cristovão s/n",
+        "zipcode": "56537-970"
+    },
+    {
+        "city": "Buíque",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Avenida Jonas Camelo de Almeida s/n",
+        "zipcode": "56520-970"
+    },
+    {
+        "city": "Buíque",
+        "state": "PE",
+        "district": "Guanumbi",
+        "street": "Rua da Conceição s/n",
+        "zipcode": "56535-970"
+    },
+    {
+        "city": "Buíque",
+        "state": "PE",
+        "district": null,
+        "street": "Rua São Cristovão",
+        "zipcode": "56537-990"
+    },
+    {
+        "city": "Buíque",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56520-000"
+    }
+]

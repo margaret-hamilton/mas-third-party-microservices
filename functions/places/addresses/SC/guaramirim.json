@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Guaramirim",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Vinte e Oito de Agosto 2333",
+        "zipcode": "89270-970"
+    },
+    {
+        "city": "Guaramirim",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Angelo Zanluca",
+        "zipcode": "89270-991"
+    },
+    {
+        "city": "Guaramirim",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Marcionilo dos Santos",
+        "zipcode": "89270-990"
+    },
+    {
+        "city": "Guaramirim",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89270-000"
+    }
+]

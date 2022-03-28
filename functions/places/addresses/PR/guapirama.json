@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Guapirama",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Dois de Março",
+        "zipcode": "86465-970"
+    },
+    {
+        "city": "Guapirama",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86465-000"
+    }
+]

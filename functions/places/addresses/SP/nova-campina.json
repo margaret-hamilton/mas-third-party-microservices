@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Nova Campina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Salatiel David Mizel 1431",
+        "zipcode": "18435-970"
+    },
+    {
+        "city": "Nova Campina",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18435-000"
+    },
+    {
+        "city": "Nova Campina",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Municipal do Bairro do Braganceiro",
+        "zipcode": "18435-992"
+    },
+    {
+        "city": "Nova Campina",
+        "state": "SP",
+        "district": null,
+        "street": "Rodovia Luiz José Squário",
+        "zipcode": "18435-991"
+    },
+    {
+        "city": "Nova Campina",
+        "state": "SP",
+        "district": null,
+        "street": "Rodovia João Ferreira da Silva",
+        "zipcode": "18435-990"
+    },
+    {
+        "city": "Nova Campina",
+        "state": "SP",
+        "district": "Itaoca de Cima",
+        "street": "Rua Principal s/n",
+        "zipcode": "18435-971"
+    }
+]

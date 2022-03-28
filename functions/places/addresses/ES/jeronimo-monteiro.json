@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Jerônimo Monteiro",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Doutor José Faráh 6",
+        "zipcode": "29550-970"
+    },
+    {
+        "city": "Jerônimo Monteiro",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29550-000"
+    },
+    {
+        "city": "Jerônimo Monteiro",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Projetada",
+        "zipcode": "29550-992"
+    }
+]

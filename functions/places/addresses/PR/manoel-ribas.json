@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Manoel Ribas",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Ivan Ferreira do Amaral Filho",
+        "zipcode": "85260-970"
+    },
+    {
+        "city": "Manoel Ribas",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "85265-990"
+    },
+    {
+        "city": "Manoel Ribas",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85260-000"
+    }
+]

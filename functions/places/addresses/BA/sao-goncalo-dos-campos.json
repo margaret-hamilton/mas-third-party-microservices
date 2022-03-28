@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São Gonçalo dos Campos",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44330-000"
+    },
+    {
+        "city": "São Gonçalo dos Campos",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Aníbal Pedreira 3",
+        "zipcode": "44330-970"
+    },
+    {
+        "city": "São Gonçalo dos Campos",
+        "state": "BA",
+        "district": null,
+        "street": "Loteamento Jardim Ouro Verde",
+        "zipcode": "44330-990"
+    },
+    {
+        "city": "São Gonçalo dos Campos",
+        "state": "BA",
+        "district": null,
+        "street": "Unidade de Saúde da Família Sinhá",
+        "zipcode": "44330-992"
+    }
+]

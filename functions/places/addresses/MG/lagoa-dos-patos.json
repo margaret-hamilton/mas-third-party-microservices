@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Lagoa dos Patos",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Aristides Batista 74",
+        "zipcode": "39360-970"
+    },
+    {
+        "city": "Lagoa dos Patos",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39360-000"
+    }
+]

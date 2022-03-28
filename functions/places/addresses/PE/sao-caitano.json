@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São Caitano",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Avenida Luiz Coimbra 300",
+        "zipcode": "55130-970"
+    },
+    {
+        "city": "São Caitano",
+        "state": "PE",
+        "district": "Distrito de Manicoba",
+        "street": "Vila Manicoba s/n",
+        "zipcode": "55135-971"
+    },
+    {
+        "city": "São Caitano",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55130-000"
+    },
+    {
+        "city": "São Caitano",
+        "state": "PE",
+        "district": "Povoado de Tapiraim",
+        "street": "Vila de Tapiraim s/n",
+        "zipcode": "55130-972"
+    }
+]

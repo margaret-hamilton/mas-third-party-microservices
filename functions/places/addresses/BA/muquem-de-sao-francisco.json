@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Muquém de São Francisco",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "47115-000"
+    },
+    {
+        "city": "Muquém de São Francisco",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida São Francisco 648",
+        "zipcode": "47115-970"
+    },
+    {
+        "city": "Muquém de São Francisco",
+        "state": "BA",
+        "district": null,
+        "street": "Praça da Rodoviária",
+        "zipcode": "47115-990"
+    },
+    {
+        "city": "Muquém de São Francisco",
+        "state": "BA",
+        "district": "Javi",
+        "street": "Rua Principal s/n",
+        "zipcode": "47115-972"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Bandeirante",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Santo Antônio 1430",
+        "zipcode": "89905-973"
+    },
+    {
+        "city": "Bandeirante",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89905-000"
+    },
+    {
+        "city": "Bandeirante",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral",
+        "zipcode": "89905-990"
+    },
+    {
+        "city": "Bandeirante",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Geral",
+        "zipcode": "89905-971"
+    },
+    {
+        "city": "Bandeirante",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral",
+        "zipcode": "89905-991"
+    },
+    {
+        "city": "Bandeirante",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Estrada Geral",
+        "zipcode": "89905-972"
+    },
+    {
+        "city": "Bandeirante",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral",
+        "zipcode": "89905-992"
+    }
+]

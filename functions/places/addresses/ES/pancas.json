@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pancas",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Treze de Maio 297",
+        "zipcode": "29750-970"
+    },
+    {
+        "city": "Pancas",
+        "state": "ES",
+        "district": null,
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "29755-990"
+    },
+    {
+        "city": "Pancas",
+        "state": "ES",
+        "district": null,
+        "street": "Rua Josino de Paula",
+        "zipcode": "29752-990"
+    },
+    {
+        "city": "Pancas",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29750-000"
+    }
+]

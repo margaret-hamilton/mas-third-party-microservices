@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Taquaral",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "14765-000"
+    },
+    {
+        "city": "Taquaral",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua do Cafezal 693",
+        "zipcode": "14765-970"
+    },
+    {
+        "city": "Taquaral",
+        "state": "SP",
+        "district": null,
+        "street": "Rua do Cafezal",
+        "zipcode": "14765-990"
+    }
+]

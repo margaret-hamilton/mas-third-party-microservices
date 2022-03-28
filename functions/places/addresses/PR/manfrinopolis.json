@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Manfrinópolis",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida São Cristóvão s/n",
+        "zipcode": "85628-970"
+    },
+    {
+        "city": "Manfrinópolis",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida São Cristóvão s/n",
+        "zipcode": "85628-971"
+    },
+    {
+        "city": "Manfrinópolis",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85628-000"
+    },
+    {
+        "city": "Manfrinópolis",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "85628-990"
+    }
+]

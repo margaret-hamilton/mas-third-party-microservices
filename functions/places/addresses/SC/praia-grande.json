@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Praia Grande",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Nereu Ramos 257",
+        "zipcode": "88990-970"
+    },
+    {
+        "city": "Praia Grande",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88990-000"
+    },
+    {
+        "city": "Praia Grande",
+        "state": "SC",
+        "district": "Cachoeira de Fátima",
+        "street": "Estrada Geral Cachoeira de Fátima",
+        "zipcode": "88990-971"
+    }
+]

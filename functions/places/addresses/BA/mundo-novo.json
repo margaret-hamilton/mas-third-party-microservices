@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Mundo Novo",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Adolfo Alves Barreto 16",
+        "zipcode": "44800-970"
+    },
+    {
+        "city": "Mundo Novo",
+        "state": "BA",
+        "district": "Jequitibá",
+        "street": "Rua Povoado de Jequitibá s/n",
+        "zipcode": "44800-971"
+    },
+    {
+        "city": "Mundo Novo",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44800-000"
+    }
+]

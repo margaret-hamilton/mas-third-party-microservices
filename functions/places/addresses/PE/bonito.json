@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bonito",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55680-000"
+    },
+    {
+        "city": "Bonito",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Avenida Doutor Alberto de Oliveira 181",
+        "zipcode": "55680-970"
+    },
+    {
+        "city": "Bonito",
+        "state": "PE",
+        "district": "Distrito Ben",
+        "street": "Rua do Colégio s/n",
+        "zipcode": "55685-971"
+    },
+    {
+        "city": "Bonito",
+        "state": "PE",
+        "district": "Distrito Alto do Bonito",
+        "street": "Rua Capitão Antonio Lourenço s/n",
+        "zipcode": "55685-970"
+    }
+]

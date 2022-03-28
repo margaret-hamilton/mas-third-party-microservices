@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Santa Bárbara do Pará",
+        "state": "PA",
+        "district": "Centro",
+        "street": "Rodovia Augusto Meira Filho",
+        "zipcode": "68798-970"
+    },
+    {
+        "city": "Santa Bárbara do Pará",
+        "state": "PA",
+        "district": null,
+        "street": "Rua da Coleipa",
+        "zipcode": "68798-990"
+    },
+    {
+        "city": "Santa Bárbara do Pará",
+        "state": "PA",
+        "district": "",
+        "street": "",
+        "zipcode": "68798-000"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Carnaúba dos Dantas",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua José Venâncio 605",
+        "zipcode": "59374-970"
+    },
+    {
+        "city": "Carnaúba dos Dantas",
+        "state": "RN",
+        "district": null,
+        "street": "Povoado do Ermo",
+        "zipcode": "59374-990"
+    },
+    {
+        "city": "Carnaúba dos Dantas",
+        "state": "RN",
+        "district": null,
+        "street": "Povoado da Rajada",
+        "zipcode": "59374-991"
+    },
+    {
+        "city": "Carnaúba dos Dantas",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59374-000"
+    },
+    {
+        "city": "Carnaúba dos Dantas",
+        "state": "RN",
+        "district": "Ermo",
+        "street": "Rua Principal s/n",
+        "zipcode": "59374-971"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Urupá",
+        "state": "RO",
+        "district": "Centro",
+        "street": "Avenida Moacir de Paula Vieira 3946",
+        "zipcode": "76929-970"
+    },
+    {
+        "city": "Urupá",
+        "state": "RO",
+        "district": "",
+        "street": "",
+        "zipcode": "76929-000"
+    },
+    {
+        "city": "Urupá",
+        "state": "RO",
+        "district": null,
+        "street": "Núcleo Primavera",
+        "zipcode": "76929-990"
+    }
+]

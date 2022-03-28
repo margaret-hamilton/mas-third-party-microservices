@@ -1,0 +1,19 @@
+{
+	"name": "mas-third-party-microservices",
+	"version": "1.0.0",
+	"private": true,
+	"author": "Grupo Margaret Hamilton",
+	"contributors": [
+		{
+			"name": "Vinícius Ribeiro",
+			"email": "vinicius.vrf@gmail.com"
+		},
+		{
+			"name": "Vitor Bem Silva",
+			"email": "vitorfbs.ti@gmail.com"
+		}
+	],
+	"dependencies": {
+		"busca-cep": "^0.5.0"
+	}
+}

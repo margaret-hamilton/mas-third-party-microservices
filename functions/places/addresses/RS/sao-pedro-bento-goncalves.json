@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São Pedro (Bento Gonçalves)",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rodovia RS",
+        "zipcode": "95714-970"
+    },
+    {
+        "city": "São Pedro (Bento Gonçalves)",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95714-000"
+    },
+    {
+        "city": "São Pedro (Bento Gonçalves)",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada Palmeiro s/nº",
+        "zipcode": "95714-991"
+    },
+    {
+        "city": "São Pedro (Bento Gonçalves)",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada São Miguel",
+        "zipcode": "95714-990"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Alhandra",
+        "state": "PB",
+        "district": "",
+        "street": "",
+        "zipcode": "58320-000"
+    },
+    {
+        "city": "Alhandra",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Presidente João Pessoa 567",
+        "zipcode": "58320-970"
+    },
+    {
+        "city": "Alhandra",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Projetada s/n",
+        "zipcode": "58320-973"
+    },
+    {
+        "city": "Alhandra",
+        "state": "PB",
+        "district": "Povoado",
+        "street": "Rua Renilda Torres Ramos s/n",
+        "zipcode": "58320-972"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Sandovalina",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Manoel Pedro da Silva 946",
+        "zipcode": "19250-970"
+    },
+    {
+        "city": "Sandovalina",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19250-000"
+    },
+    {
+        "city": "Sandovalina",
+        "state": "SP",
+        "district": null,
+        "street": "Centro de Saúde do Assentamento Bom Pastor",
+        "zipcode": "19250-990"
+    }
+]

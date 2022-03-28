@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Amambaí",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Avenida Pedro Manvailler 3103",
+        "zipcode": "79990-970"
+    },
+    {
+        "city": "Amambaí",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Avenida Pedro Manvailler 3388",
+        "zipcode": "79990-972"
+    },
+    {
+        "city": "Amambaí",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Álvaro",
+        "zipcode": "79990-990"
+    },
+    {
+        "city": "Amambaí",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79990-000"
+    }
+]

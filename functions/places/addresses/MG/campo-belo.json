@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Campo Belo",
+        "state": "MG",
+        "district": "Arandutaba",
+        "street": "Avenida São João 290",
+        "zipcode": "37270-971"
+    },
+    {
+        "city": "Campo Belo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Santos Dumont 335",
+        "zipcode": "37270-970"
+    },
+    {
+        "city": "Campo Belo",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Afonso Pena 171",
+        "zipcode": "37270-973"
+    },
+    {
+        "city": "Campo Belo",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37270-000"
+    }
+]

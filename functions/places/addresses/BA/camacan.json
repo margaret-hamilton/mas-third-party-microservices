@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Camacan",
+        "state": "BA",
+        "district": "São João do Panelinha",
+        "street": "Avenida Doutor João Vargens 622",
+        "zipcode": "45880-971"
+    },
+    {
+        "city": "Camacan",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45880-000"
+    },
+    {
+        "city": "Camacan",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida dos Pioneiros 25",
+        "zipcode": "45880-970"
+    },
+    {
+        "city": "Camacan",
+        "state": "BA",
+        "district": null,
+        "street": "Avenida Doutor João Gonzaga",
+        "zipcode": "45880-990"
+    }
+]

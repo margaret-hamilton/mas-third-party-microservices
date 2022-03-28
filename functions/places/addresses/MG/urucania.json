@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Urucânia",
+        "state": "MG",
+        "district": "Cardoso",
+        "street": "Rua Geraldo Marcolino Luna 25",
+        "zipcode": "35380-971"
+    },
+    {
+        "city": "Urucânia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Professor Manoel Rufino 63",
+        "zipcode": "35380-970"
+    },
+    {
+        "city": "Urucânia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35380-000"
+    }
+]

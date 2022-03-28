@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Santa Mônica",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Maringá s/n",
+        "zipcode": "87917-971"
+    },
+    {
+        "city": "Santa Mônica",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Marieta Mocelin 526",
+        "zipcode": "87915-971"
+    },
+    {
+        "city": "Santa Mônica",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Maringá",
+        "zipcode": "87915-991"
+    },
+    {
+        "city": "Santa Mônica",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "87915-000"
+    },
+    {
+        "city": "Santa Mônica",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Quinze de Novembro s/n",
+        "zipcode": "87915-970"
+    },
+    {
+        "city": "Santa Mônica",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Quinze de Novembro",
+        "zipcode": "87915-990"
+    }
+]

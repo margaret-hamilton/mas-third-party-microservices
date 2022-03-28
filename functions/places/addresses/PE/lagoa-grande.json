@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Lagoa Grande",
+        "state": "PE",
+        "district": "Jutai",
+        "street": "Rua do Comercio S/n",
+        "zipcode": "56395-971"
+    },
+    {
+        "city": "Lagoa Grande",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua do Comércio s/n",
+        "zipcode": "56395-972"
+    },
+    {
+        "city": "Lagoa Grande",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Joaquim Nabuco 288",
+        "zipcode": "56395-970"
+    },
+    {
+        "city": "Lagoa Grande",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56395-000"
+    }
+]

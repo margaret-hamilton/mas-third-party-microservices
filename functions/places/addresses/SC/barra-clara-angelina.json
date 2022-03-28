@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Barra Clara (Angelina)",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88465-000"
+    },
+    {
+        "city": "Barra Clara (Angelina)",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral de Barra Clara",
+        "zipcode": "88465-990"
+    },
+    {
+        "city": "Barra Clara (Angelina)",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Geral de Barra Clara",
+        "zipcode": "88465-973"
+    }
+]

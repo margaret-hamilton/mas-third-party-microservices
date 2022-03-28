@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Aurelino Leal",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45675-000"
+    },
+    {
+        "city": "Aurelino Leal",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Presidente Médici 264",
+        "zipcode": "45675-970"
+    },
+    {
+        "city": "Aurelino Leal",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Risoleta Neves",
+        "zipcode": "45675-990"
+    },
+    {
+        "city": "Aurelino Leal",
+        "state": "BA",
+        "district": null,
+        "street": "Praça Mário Reis",
+        "zipcode": "45675-991"
+    }
+]

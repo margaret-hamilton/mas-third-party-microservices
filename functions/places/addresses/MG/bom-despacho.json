@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bom Despacho",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça da Matriz 14",
+        "zipcode": "35600-973"
+    },
+    {
+        "city": "Bom Despacho",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35600-000"
+    },
+    {
+        "city": "Bom Despacho",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Vigário Nicolau 151",
+        "zipcode": "35600-970"
+    },
+    {
+        "city": "Bom Despacho",
+        "state": "MG",
+        "district": "Jardim América",
+        "street": "Avenida Vivalde Brandão 315",
+        "zipcode": "35600-971"
+    }
+]

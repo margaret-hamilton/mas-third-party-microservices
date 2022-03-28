@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Joanésia",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35194-000"
+    },
+    {
+        "city": "Joanésia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35168-000"
+    },
+    {
+        "city": "Joanésia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Joaquim Dias de Moura 07  AC Joanésia",
+        "zipcode": "35194-970"
+    },
+    {
+        "city": "Joanésia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Joaquim Dias de Moura 07",
+        "zipcode": "35168-970"
+    }
+]

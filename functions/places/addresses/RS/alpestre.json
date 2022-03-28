@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Alpestre",
+        "state": "RS",
+        "district": "Barra Grande (Zona Rural)",
+        "street": "Avenida Principal",
+        "zipcode": "98480-971"
+    },
+    {
+        "city": "Alpestre",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Farrapos",
+        "zipcode": "98480-970"
+    },
+    {
+        "city": "Alpestre",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "98480-000"
+    }
+]

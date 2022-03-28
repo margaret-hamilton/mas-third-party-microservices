@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Glorinha",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Pompílio Gomes Sobrinho",
+        "zipcode": "94380-970"
+    },
+    {
+        "city": "Glorinha",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "94380-000"
+    },
+    {
+        "city": "Glorinha",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Otacílio Soares",
+        "zipcode": "94380-990"
+    },
+    {
+        "city": "Glorinha",
+        "state": "RS",
+        "district": null,
+        "street": "Rodovia RS",
+        "zipcode": "94380-992"
+    },
+    {
+        "city": "Glorinha",
+        "state": "RS",
+        "district": "Maracanã",
+        "street": "Rua José Constante",
+        "zipcode": "94380-974"
+    },
+    {
+        "city": "Glorinha",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada Fernando Ferrari",
+        "zipcode": "94380-991"
+    }
+]

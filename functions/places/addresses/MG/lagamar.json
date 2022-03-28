@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Lagamar",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Araguari 34",
+        "zipcode": "38785-970"
+    },
+    {
+        "city": "Lagamar",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38785-000"
+    },
+    {
+        "city": "Lagamar",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n  AGC Retiro da Roça",
+        "zipcode": "38785-972"
+    }
+]

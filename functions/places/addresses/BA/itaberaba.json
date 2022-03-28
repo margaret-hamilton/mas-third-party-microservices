@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itaberaba",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "46880-000"
+    },
+    {
+        "city": "Itaberaba",
+        "state": "BA",
+        "district": null,
+        "street": "Praça J. J. Seabra",
+        "zipcode": "46880-990"
+    },
+    {
+        "city": "Itaberaba",
+        "state": "BA",
+        "district": null,
+        "street": "Praça J. J. Seabra",
+        "zipcode": "46880-991"
+    },
+    {
+        "city": "Itaberaba",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Flávio Silvani 30",
+        "zipcode": "46880-970"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Italva",
+        "state": "RJ",
+        "district": "São Pedro do Paraíso",
+        "street": "Praça São Pedro do Paraíso s/n",
+        "zipcode": "28250-974"
+    },
+    {
+        "city": "Italva",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Olívia Faria 152",
+        "zipcode": "28250-970"
+    },
+    {
+        "city": "Italva",
+        "state": "RJ",
+        "district": "Cimento Paraíso",
+        "street": "Rodovia BR",
+        "zipcode": "28250-973"
+    },
+    {
+        "city": "Italva",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28250-000"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Adrianópolis",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua França Martins 09",
+        "zipcode": "83490-970"
+    },
+    {
+        "city": "Adrianópolis",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83490-000"
+    },
+    {
+        "city": "Adrianópolis",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "83490-972"
+    },
+    {
+        "city": "Adrianópolis",
+        "state": "PR",
+        "district": "Vila Mota",
+        "street": "Rua Principal",
+        "zipcode": "83490-971"
+    }
+]

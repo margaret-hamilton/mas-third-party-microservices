@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Rio das Flores",
+        "state": "RJ",
+        "district": "Formoso",
+        "street": "Rua Doutor Gilberto Garcia da Fonseca 2209",
+        "zipcode": "27660-971"
+    },
+    {
+        "city": "Rio das Flores",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Bolivar",
+        "zipcode": "27660-990"
+    },
+    {
+        "city": "Rio das Flores",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "27660-000"
+    },
+    {
+        "city": "Rio das Flores",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Aniceto de Medeiros Corrêa 3",
+        "zipcode": "27660-970"
+    }
+]

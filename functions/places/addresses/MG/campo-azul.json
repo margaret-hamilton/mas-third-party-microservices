@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Campo Azul",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Luiz Ruas s/n",
+        "zipcode": "39338-972"
+    },
+    {
+        "city": "Campo Azul",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39338-000"
+    }
+]

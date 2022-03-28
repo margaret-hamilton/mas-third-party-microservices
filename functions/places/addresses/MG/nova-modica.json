@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nova Módica",
+        "state": "MG",
+        "district": "Cabeceira dos Henriques",
+        "street": "Rua Manoel Henrique s/n",
+        "zipcode": "35113-972"
+    },
+    {
+        "city": "Nova Módica",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Domingos Antônio Gonçalves 245",
+        "zipcode": "35113-970"
+    },
+    {
+        "city": "Nova Módica",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35113-000"
+    }
+]

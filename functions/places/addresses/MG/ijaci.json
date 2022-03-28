@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Ijaci",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37205-000"
+    },
+    {
+        "city": "Ijaci",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37218-000"
+    },
+    {
+        "city": "Ijaci",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Prefeito Elias A. Filho",
+        "zipcode": "37218-970"
+    },
+    {
+        "city": "Ijaci",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Prefeito Elias A. Filho 145",
+        "zipcode": "37205-970"
+    }
+]

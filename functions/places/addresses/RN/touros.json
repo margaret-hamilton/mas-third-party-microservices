@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Touros",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Avenida Prefeito José Américo 47",
+        "zipcode": "59584-970"
+    },
+    {
+        "city": "Touros",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59584-000"
+    },
+    {
+        "city": "Touros",
+        "state": "RN",
+        "district": "Povoado Boa Cica",
+        "street": "Distrito Boa Cica s/n",
+        "zipcode": "59584-971"
+    },
+    {
+        "city": "Touros",
+        "state": "RN",
+        "district": "Povoado Santa Luzia",
+        "street": "Distrito Santa Luzia s/n",
+        "zipcode": "59584-973"
+    },
+    {
+        "city": "Touros",
+        "state": "RN",
+        "district": "Povoado de Cajueiro",
+        "street": "Distrito de Cajueiro s/n",
+        "zipcode": "59584-972"
+    }
+]

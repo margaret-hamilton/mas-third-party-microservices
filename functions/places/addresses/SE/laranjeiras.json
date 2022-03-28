@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Laranjeiras",
+        "state": "SE",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "49170-971"
+    },
+    {
+        "city": "Laranjeiras",
+        "state": "SE",
+        "district": "",
+        "street": "",
+        "zipcode": "49170-000"
+    },
+    {
+        "city": "Laranjeiras",
+        "state": "SE",
+        "district": null,
+        "street": "Rua da Igreja",
+        "zipcode": "49170-991"
+    },
+    {
+        "city": "Laranjeiras",
+        "state": "SE",
+        "district": "Centro",
+        "street": "Praça Marcolino Ezequiel 159",
+        "zipcode": "49170-970"
+    }
+]

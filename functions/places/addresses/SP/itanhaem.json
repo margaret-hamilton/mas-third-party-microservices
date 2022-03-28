@@ -1,0 +1,72 @@
+[
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": "Vila São Paulo",
+        "street": "Rua Américo Nicolini 160",
+        "zipcode": "11740-971"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Mariano 115",
+        "zipcode": "11740-970"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": "Jardim Oásis",
+        "street": "Rua Emídio de Souza 2600",
+        "zipcode": "11740-975"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "11740-000"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada do Raminho nº 1995",
+        "zipcode": "11740-993"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Doze nº 1452",
+        "zipcode": "11740-994"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": "Jardim Sabaúna",
+        "street": "Avenida Harry Forssell",
+        "zipcode": "11740-972"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Radamés Incontri Filho",
+        "zipcode": "11740-991"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": "Balneário São Jorge",
+        "street": "Avenida Flacides Ferreira",
+        "zipcode": "11740-973"
+    },
+    {
+        "city": "Itanhaém",
+        "state": "SP",
+        "district": "Balneário São Jorge",
+        "street": "Avenida Marginal",
+        "zipcode": "11740-974"
+    }
+]

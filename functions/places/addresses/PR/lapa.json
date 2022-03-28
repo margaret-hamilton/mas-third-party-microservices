@@ -1,0 +1,415 @@
+[
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Água Azul",
+        "street": "Estrada da Água Azul",
+        "zipcode": "83770-970"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83750-993"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Contestado",
+        "street": "Rua Principal s/n",
+        "zipcode": "83760-975"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Passa Dois",
+        "street": "Rua Principal s/n",
+        "zipcode": "83750-973"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Colônia Johanesdorf",
+        "street": "Rua Principal s/n",
+        "zipcode": "83750-974"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Faxinal dos Correias",
+        "street": "Rua Principal s/n",
+        "zipcode": "83750-975"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Núcleo Leiteiro",
+        "street": "Rua Principal s/n",
+        "zipcode": "83750-977"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Pedra Lisa",
+        "street": "Rua Principal s/n",
+        "zipcode": "83750-978"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "São João do Caiva",
+        "street": "Rua Principal s/n",
+        "zipcode": "83751-970"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Alves Cardosos",
+        "street": "Rua Principal s/n",
+        "zipcode": "83751-971"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Barra dos Melos",
+        "street": "Rua Principal s/n",
+        "zipcode": "83760-971"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "São Bento",
+        "street": "Rua Principal s/n",
+        "zipcode": "83760-972"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Feixo do Boteatuva",
+        "street": "Rua Principal s/n",
+        "zipcode": "83760-973"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Restinga",
+        "street": "Rua Principal s/n",
+        "zipcode": "83760-974"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Carqueja",
+        "street": "Rua Principal s/n",
+        "zipcode": "83770-971"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Mato Preto",
+        "street": "Rua Principal s/n",
+        "zipcode": "83770-972"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Rio da Areia",
+        "street": "Rua Principal s/n",
+        "zipcode": "83770-973"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Cento e Doze",
+        "street": "Rua Principal s/n",
+        "zipcode": "83770-974"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Faxinal dos Castilhos",
+        "street": "Rua Principal s/n",
+        "zipcode": "83770-975"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Canoeiros",
+        "street": "Rua Principal s/n",
+        "zipcode": "83773-976"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Butiá",
+        "street": "Rua Principal s/n",
+        "zipcode": "83751-973"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Santo Amaro",
+        "street": "Rua Principal s/n",
+        "zipcode": "83751-974"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Palmital de Baixo",
+        "street": "Rua Principal s/n",
+        "zipcode": "83751-978"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Colônia Municipal",
+        "street": "Rua Principal s/n",
+        "zipcode": "83751-972"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83750-992"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83750-995"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83750-996"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83750-997"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83750-998"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83751-990"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83760-990"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83760-991"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83760-992"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83760-993"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rodovia do Xisto",
+        "zipcode": "83760-994"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83770-990"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83770-991"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83770-992"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83770-993"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83770-994"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83770-995"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83770-996"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83770-997"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83751-994"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83760-995"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83751-995"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83751-997"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83751-996"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco 1355",
+        "zipcode": "83750-970"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Campina",
+        "street": "Rua Principal s/n",
+        "zipcode": "83750-971"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Bonito",
+        "street": "Rua Principal",
+        "zipcode": "83770-977"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Rio da Várzea",
+        "street": "Rua Principal",
+        "zipcode": "83750-976"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Nosso Chão",
+        "street": "Rua Nosso Chão",
+        "zipcode": "83750-979"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Capão Bonito",
+        "street": "Rua Principal",
+        "zipcode": "83750-972"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Alexandre Hornung",
+        "zipcode": "83760-970"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83750-000"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83750-994"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83751-992"
+    },
+    {
+        "city": "Lapa",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83751-993"
+    }
+]

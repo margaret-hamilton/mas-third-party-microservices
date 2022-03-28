@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Itagibá",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Dom Pedro II 47",
+        "zipcode": "45585-970"
+    },
+    {
+        "city": "Itagibá",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45585-000"
+    },
+    {
+        "city": "Itagibá",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Chile",
+        "zipcode": "45585-992"
+    }
+]

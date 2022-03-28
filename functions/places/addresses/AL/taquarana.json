@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Taquarana",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Praça Manoel Rodrigues 72",
+        "zipcode": "57640-970"
+    },
+    {
+        "city": "Taquarana",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57640-000"
+    },
+    {
+        "city": "Taquarana",
+        "state": "AL",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "57640-990"
+    }
+]

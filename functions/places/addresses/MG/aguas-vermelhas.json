@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Águas Vermelhas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua São Vicente 316",
+        "zipcode": "39990-970"
+    },
+    {
+        "city": "Águas Vermelhas",
+        "state": "MG",
+        "district": "Machado Mineiro",
+        "street": "Rua Euclides Costa 155",
+        "zipcode": "39990-976"
+    },
+    {
+        "city": "Águas Vermelhas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39990-000"
+    },
+    {
+        "city": "Águas Vermelhas",
+        "state": "MG",
+        "district": "Campo Novo",
+        "street": "Avenida Águas Vermelhas",
+        "zipcode": "39990-971"
+    },
+    {
+        "city": "Águas Vermelhas",
+        "state": "MG",
+        "district": "Mocó",
+        "street": "Rua Principal s/n",
+        "zipcode": "39990-972"
+    },
+    {
+        "city": "Águas Vermelhas",
+        "state": "MG",
+        "district": "Itamarati",
+        "street": "Rua Principal s/n",
+        "zipcode": "39993-970"
+    }
+]

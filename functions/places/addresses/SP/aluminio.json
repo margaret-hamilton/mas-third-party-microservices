@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Alumínio",
+        "state": "SP",
+        "district": null,
+        "street": null,
+        "zipcode": "18125-000"
+    },
+    {
+        "city": "Alumínio",
+        "state": "SP",
+        "district": null,
+        "street": "Rodovia Raposo Tavares",
+        "zipcode": "18125-990"
+    },
+    {
+        "city": "Alumínio",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Hamilton Morati 66",
+        "zipcode": "18125-970"
+    }
+]

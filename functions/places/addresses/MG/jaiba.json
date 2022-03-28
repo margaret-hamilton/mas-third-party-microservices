@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Jaíba",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39508-000"
+    },
+    {
+        "city": "Jaíba",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Coronel Moacir J. Silva 744",
+        "zipcode": "39508-970"
+    },
+    {
+        "city": "Jaíba",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua I 33",
+        "zipcode": "39508-973"
+    }
+]

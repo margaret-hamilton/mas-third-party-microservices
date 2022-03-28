@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Cafeara",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná 351",
+        "zipcode": "86640-970"
+    },
+    {
+        "city": "Cafeara",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86640-000"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Datas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39130-000"
+    },
+    {
+        "city": "Datas",
+        "state": "MG",
+        "district": "Cachimbo",
+        "street": "Rua Principal s/n",
+        "zipcode": "39130-974"
+    },
+    {
+        "city": "Datas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "39130-975"
+    },
+    {
+        "city": "Datas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Magalhães Pinto s/n",
+        "zipcode": "39130-970"
+    },
+    {
+        "city": "Datas",
+        "state": "MG",
+        "district": "Tombadouro",
+        "street": "Rua São Gonçalo s/n",
+        "zipcode": "39130-976"
+    }
+]

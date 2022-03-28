@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Mauá da Serra",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Ponta Grossa 850 Sala 2",
+        "zipcode": "86828-971"
+    },
+    {
+        "city": "Mauá da Serra",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86828-000"
+    }
+]

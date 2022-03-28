@@ -1,0 +1,23 @@
+[
+    {
+        "city": "São Vicente do Sul",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "97420-000"
+    },
+    {
+        "city": "São Vicente do Sul",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General João Antônio 1459",
+        "zipcode": "97420-970"
+    },
+    {
+        "city": "São Vicente do Sul",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Dr Fernando Pahim",
+        "zipcode": "97420-990"
+    }
+]

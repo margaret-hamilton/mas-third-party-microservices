@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santa Helena de Minas",
+        "state": "MG",
+        "district": "Bom Jesus da Vitória",
+        "street": "Rua Princesa Izabel s/n",
+        "zipcode": "39874-971"
+    },
+    {
+        "city": "Santa Helena de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Belo Horizonte 469",
+        "zipcode": "39874-973"
+    },
+    {
+        "city": "Santa Helena de Minas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39874-000"
+    },
+    {
+        "city": "Santa Helena de Minas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Euclides Silveira Tolentino s/n",
+        "zipcode": "39874-974"
+    }
+]

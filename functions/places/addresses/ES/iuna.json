@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Iúna",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Presidente Getúlio Vargas 406",
+        "zipcode": "29390-970"
+    },
+    {
+        "city": "Iúna",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29390-000"
+    },
+    {
+        "city": "Iúna",
+        "state": "ES",
+        "district": null,
+        "street": "Avenida Professor José Raposo",
+        "zipcode": "29392-990"
+    },
+    {
+        "city": "Iúna",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Presidente Getúlio Vargas 7",
+        "zipcode": "29391-970"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Espírito Santo",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua do Cruzeiro 17",
+        "zipcode": "59180-970"
+    },
+    {
+        "city": "Espírito Santo",
+        "state": "RN",
+        "district": "Sítio Barrocas",
+        "street": "Sítio Barrocas s/n",
+        "zipcode": "59180-972"
+    },
+    {
+        "city": "Espírito Santo",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59180-000"
+    },
+    {
+        "city": "Espírito Santo",
+        "state": "RN",
+        "district": "Sítio Taboca",
+        "street": "Rua Principal s/n",
+        "zipcode": "59180-971"
+    },
+    {
+        "city": "Espírito Santo",
+        "state": "RN",
+        "district": "Retiro",
+        "street": "Rua Principal s/n",
+        "zipcode": "59180-973"
+    },
+    {
+        "city": "Espírito Santo",
+        "state": "RN",
+        "district": null,
+        "street": "Rua do Posto",
+        "zipcode": "59180-990"
+    }
+]

@@ -1,0 +1,2221 @@
+[
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Jenipapeiro",
+        "street": "Vila Moraes Rego Almirante",
+        "zipcode": "65020-020"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Grajau",
+        "zipcode": "65048-150"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Travessa Santa Florencia",
+        "zipcode": "65059-800"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Bequimao",
+        "street": "Avenida Jeronimo De Albuquerque",
+        "zipcode": "65060-642"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cruzeiro Do Anil",
+        "street": "Recanto Santos Dumont",
+        "zipcode": "65062-230"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Desterro",
+        "street": "Praça Do Desterro",
+        "zipcode": "65010-150"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ribeira",
+        "street": "Rua Boa Esperanca",
+        "zipcode": "65095-010"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Conjunto Jardim Sao Cristovao",
+        "zipcode": "65055-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Desterro",
+        "street": "Rua Dr Carlos Reis",
+        "zipcode": "65010-180"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Rua Duzentos E Tres",
+        "zipcode": "65058-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Quinze De Novembro",
+        "zipcode": "65095-640"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Planalto Anil Iii",
+        "zipcode": "65053-502"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Fonte Do Bispo",
+        "street": "Rua Ivar Saldanha",
+        "zipcode": "65015-200"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Da Sociologia",
+        "zipcode": "65078-350"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Planalto Vinhais",
+        "street": "Rua Cento E Tres",
+        "zipcode": "65074-260"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Uniao",
+        "zipcode": "65048-010"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Sítio Sao Pedro",
+        "zipcode": "65055-640"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ingaura",
+        "street": "Rua Sao Joao",
+        "zipcode": "65046-760"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sa Viana",
+        "street": "Vila Izabel",
+        "zipcode": "65080-190"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Areinha",
+        "street": "Rua A",
+        "zipcode": "65030-020"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Santos Dumont",
+        "zipcode": "65046-650"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Joao De Deus",
+        "street": "Rua Sao Camilo",
+        "zipcode": "65059-400"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Rua Vinte E Seis",
+        "zipcode": "65042-170"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Senador Vitorino Freire",
+        "zipcode": "65010-650"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Sao Pantaleao",
+        "zipcode": "65026-200"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Planalto Anil Ii",
+        "zipcode": "65053-501"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Rua Tupissildos Vieira",
+        "zipcode": "65053-170"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Planalto Anil I",
+        "zipcode": "65053-500"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Parque Aurora",
+        "zipcode": "65050-330"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Quadras (Todas)",
+        "zipcode": "65042-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Cinquenta E Cinco",
+        "zipcode": "65042-840"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Rua Ramalho Urtigao",
+        "zipcode": "65051-780"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Turiacu",
+        "zipcode": "65048-320"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohab Anil Iii",
+        "street": "Rua Almir Nina",
+        "zipcode": "65050-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Praça Marcia De Queiroz (27)",
+        "zipcode": "65051-510"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Rua Dos Reis",
+        "zipcode": "65048-280"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Desterro",
+        "street": "Rua Do) Ze Do Le (Precipicio",
+        "zipcode": "65010-830"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Sao Paulo",
+        "zipcode": "65047-160"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Floresta",
+        "street": "Travessa Joaquim Serra",
+        "zipcode": "65035-340"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Sambaiba",
+        "zipcode": "65048-290"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Travessa Sao Jorge",
+        "zipcode": "65046-800"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Vila Conceicao",
+        "zipcode": "65044-340"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Universitario",
+        "street": "Travessa Coelho Neto",
+        "zipcode": "65053-010"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cruzeiro Do Anil",
+        "street": "Rua Dois",
+        "zipcode": "65047-320"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Quarenta E Oito",
+        "zipcode": "65042-730"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Desterro",
+        "street": "Praia Do Desterro",
+        "zipcode": "65010-140"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Avenida Braulino De Carvalho",
+        "zipcode": "65051-220"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Cincoenta E Quatro",
+        "zipcode": "65044-320"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Santa Barbara",
+        "zipcode": "65048-690"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Cinquenta E Tres",
+        "zipcode": "65042-780"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Quarenta E Quatro",
+        "zipcode": "65042-820"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Pedro Ii",
+        "zipcode": "65010-455"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Rancho Dom Luis",
+        "zipcode": "65052-010"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vila Ivar Saldanha",
+        "street": "Conjunto Yolanda Costa E Silva",
+        "zipcode": "65041-740"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Tapindare",
+        "zipcode": "65048-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Lucano Dos Reis",
+        "zipcode": "65015-240"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Floresta",
+        "street": "Rua Recanto Da Floresta",
+        "zipcode": "65035-560"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac",
+        "street": "Conjunto Cohatrac V",
+        "zipcode": "65052-090"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Travessa Santa Luzia",
+        "zipcode": "65048-030"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Jenipapeiro",
+        "street": "Rua Do Navio",
+        "zipcode": "65020-370"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sitio Do Meio",
+        "street": "Vila Sitio Do Meio",
+        "zipcode": "65020-580"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Pao De Acucar",
+        "street": "Rua Magno Bacelar",
+        "zipcode": "65045-750"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sitio Do Meio",
+        "street": "Travessa Do Meio",
+        "zipcode": "65021-060"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Baixinha",
+        "street": "Travessa Caramuru",
+        "zipcode": "65035-080"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Santo Antonio",
+        "street": "Vila Lobao",
+        "zipcode": "65047-430"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Sao Bento",
+        "zipcode": "65048-300"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Joaquim Santos",
+        "zipcode": "65053-350"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Vila Dos Frades",
+        "zipcode": "65044-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Vila Sao Sebastiao",
+        "zipcode": "65044-840"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Rua Dos Viscondes",
+        "zipcode": "65048-340"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Tutoia",
+        "zipcode": "65048-330"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Residencial Granada",
+        "zipcode": "65053-300"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Paulo Afonso",
+        "zipcode": "65048-620"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Areinha",
+        "street": "Avenida Presidente Medici",
+        "zipcode": "65031-410"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Avenida Guajajaras",
+        "zipcode": "65051-070"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Avenida Dos Nobres",
+        "zipcode": "65048-050"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Vila Primavera",
+        "zipcode": "65044-390"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Epitacio Cafeteira Ii",
+        "zipcode": "65048-831"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Residencial Diamantina",
+        "zipcode": "65051-810"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Travessa Santa Quiteria",
+        "zipcode": "65048-360"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Jardim De Fatima",
+        "zipcode": "65053-360"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Filipinho",
+        "street": "Avenida Joao Pessoa",
+        "zipcode": "65040-001"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Osorio Anchieta",
+        "zipcode": "65053-340"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohab Anil Iv",
+        "street": "Avenida Marcelino Barata (05)",
+        "zipcode": "65053-330"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Cajari",
+        "zipcode": "65048-110"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Colinas",
+        "zipcode": "65048-120"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Principal",
+        "zipcode": "65048-260"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vila Itamar",
+        "street": "Rua Primeiro De Maio",
+        "zipcode": "65056-150"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ribeira",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "65056-151"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Vila Botafogo",
+        "zipcode": "65060-065"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Estrada Santa Barbara",
+        "zipcode": "65055-520"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac Iv",
+        "street": "Rua Trinta E Tres",
+        "zipcode": "65056-340"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Conjunto Jardim America Do Norte I",
+        "zipcode": "65058-210"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Parque Sielandia (Cial)",
+        "zipcode": "65055-100"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Alcantara",
+        "zipcode": "65048-080"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cruzeiro Do Anil",
+        "street": "Rua Quatro",
+        "zipcode": "65063-560"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Vila Santa Efigenia",
+        "zipcode": "65058-140"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Angelim",
+        "street": "Rua Tres De Maio",
+        "zipcode": "65062-570"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac I",
+        "street": "Rua A",
+        "zipcode": "65054-360"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Rua Cento E Tres",
+        "zipcode": "65058-030"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Rua Dos Imperadores",
+        "zipcode": "65048-160"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Rua Dos Principes",
+        "zipcode": "65048-270"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Imperatriz",
+        "zipcode": "65048-170"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Dezesseis De Julho",
+        "zipcode": "65057-580"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Primeiro De Novembro",
+        "zipcode": "65048-070"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Estrada Do Sacavem",
+        "zipcode": "65055-500"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac",
+        "street": "Avenida Contorno Sul",
+        "zipcode": "65053-550"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Joao De Deus",
+        "street": "Vila Buna",
+        "zipcode": "65057-050"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Vila Cruzeiro De Santa Barbara",
+        "zipcode": "65058-200"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Rua Vila Botafogo",
+        "zipcode": "65063-830"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac Iv",
+        "street": "Rua Trinta E Quatro",
+        "zipcode": "65056-350"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac Iv",
+        "street": "Avenida Contorno",
+        "zipcode": "65054-370"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Mirador",
+        "zipcode": "65048-210"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Vila Santa Barbara",
+        "zipcode": "65058-190"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Nossa Senhora Da Conceicao",
+        "zipcode": "65055-350"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cruzeiro Do Anil",
+        "street": "Rua Vila Militar",
+        "zipcode": "65063-720"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac",
+        "street": "Conjunto Jardim Aracagy",
+        "zipcode": "65052-060"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Rua Duzentos E Cinco",
+        "zipcode": "65058-060"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Vila Cafeteira",
+        "zipcode": "65058-100"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Joao De Deus",
+        "street": "Rua Portuguses",
+        "zipcode": "65057-290"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Conjunto Residencial Petropolis",
+        "zipcode": "65058-082"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Rua Seis",
+        "zipcode": "65063-250"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Rua Sete",
+        "zipcode": "65063-260"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Parque Guanabara",
+        "zipcode": "65060-220"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Vila Kiola",
+        "zipcode": "65058-180"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Rua Dos Monarcas",
+        "zipcode": "65048-230"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Vila Itamar",
+        "zipcode": "65055-260"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Rua Cento E Um",
+        "zipcode": "65058-020"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Vila Janaina",
+        "zipcode": "65058-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Coqueiro",
+        "zipcode": "65048-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac",
+        "street": "Conjunto Residencial Primavera",
+        "zipcode": "65052-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Conjunto Base Aerea",
+        "zipcode": "65055-040"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Bacabal",
+        "zipcode": "65048-090"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sao Bernardo",
+        "street": "Rua Sao Cristovao",
+        "zipcode": "65056-210"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Bequimao",
+        "street": "Conjunto Jardim Sm Ii",
+        "zipcode": "65060-120"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Conjunto Residencial Sao Luis",
+        "zipcode": "65058-083"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Vila Riod",
+        "zipcode": "65058-120"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Travessa Fecury",
+        "zipcode": "65060-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Mirinzal",
+        "zipcode": "65048-220"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Rua Duzentos E Um",
+        "zipcode": "65058-050"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Rua Sao Gabriel",
+        "zipcode": "65060-570"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Joao De Deus",
+        "street": "Rua Liberdade",
+        "zipcode": "65057-160"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Rua Nova",
+        "zipcode": "65060-390"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Rua Laurindo Ribeiro",
+        "zipcode": "65060-320"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Vila Santa Terezinha",
+        "zipcode": "65058-090"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Rua Dos Lordes",
+        "zipcode": "65048-200"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Palestina",
+        "zipcode": "65048-240"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sao Francisco",
+        "street": "Avenida Ana Jansen",
+        "zipcode": "65076-200"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Doze",
+        "zipcode": "65078-020"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Quatorze",
+        "zipcode": "65078-070"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Quarenta E Cinco",
+        "zipcode": "65078-080"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Quarenta E Sete",
+        "zipcode": "65078-100"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Quarenta E Oito",
+        "zipcode": "65078-120"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Cinquenta E Quatro",
+        "zipcode": "65078-150"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Do Jornalismo",
+        "zipcode": "65078-280"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Da Psicanalise",
+        "zipcode": "65078-310"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Da Psiquiatria",
+        "zipcode": "65078-330"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sao Francisco",
+        "street": "Vila Jaracati",
+        "zipcode": "65076-830"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Calhau",
+        "street": "Conjunto Parque La Ravardiere",
+        "zipcode": "65072-070"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Conjunto Eit",
+        "zipcode": "65080-740"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohab Turu",
+        "street": "Rua Vitoria",
+        "zipcode": "65067-810"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Calhau",
+        "street": "Loteamento Quinta Do Calhau",
+        "zipcode": "65067-460"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Conjunto Planalto Vinhais Iii",
+        "zipcode": "65074-192"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Travessa Lourenco Vieira Da Silva",
+        "zipcode": "65059-770"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Rua Leblon",
+        "zipcode": "65067-530"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Quadra De A A Z",
+        "zipcode": "65085-290"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Santa Florencia",
+        "zipcode": "65059-720"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Avenida Mario Andreazza",
+        "zipcode": "65073-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Turu",
+        "street": "Conjunto Planalto Ii",
+        "zipcode": "65066-510"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac Iii",
+        "street": "Vila Cohabiana",
+        "zipcode": "65070-180"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Rua Projetada",
+        "zipcode": "65067-560"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Travessa Laurindo Ribeiro",
+        "zipcode": "65060-310"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac I",
+        "street": "Rua O",
+        "zipcode": "65072-530"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sao Francisco",
+        "street": "Jardim Sao Francisco",
+        "zipcode": "65076-290"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Sessenta E Cinco",
+        "zipcode": "65078-220"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Vila Flamengo",
+        "zipcode": "65058-110"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Conjunto Jardim Libanes",
+        "zipcode": "65065-220"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Turu",
+        "street": "Conjunto Solar Dos Lusitanos",
+        "zipcode": "65066-400"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Conjunto Barra",
+        "zipcode": "65065-050"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Vila Bom Sucesso",
+        "zipcode": "65085-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cruzeiro Do Anil",
+        "street": "Vila Ideal",
+        "zipcode": "65063-790"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac Iv",
+        "street": "Rua Trinta E Cinco",
+        "zipcode": "65056-360"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Parque Topazio",
+        "zipcode": "65070-590"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Conjunto Penalva",
+        "zipcode": "65059-660"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Sessenta E Sete",
+        "zipcode": "65078-230"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Turu",
+        "street": "Chácara Brasil",
+        "zipcode": "65065-770"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Rua Sao Marcos",
+        "zipcode": "65060-650"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Conjunto Boa Morada",
+        "zipcode": "65070-501"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Turu",
+        "street": "Chácara Chacara Brasil",
+        "zipcode": "65067-360"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Bela Vista",
+        "street": "Rua Seis",
+        "zipcode": "65073-220"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Conjunto Planalto Vinhais I",
+        "zipcode": "65074-190"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Conjunto Jardim Sm I",
+        "zipcode": "65070-560"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Cinquenta E Nove",
+        "zipcode": "65078-190"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Cinquenta E Sete",
+        "zipcode": "65078-170"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Alto Do Calhau",
+        "street": "Conjunto Auto Do Calhau",
+        "zipcode": "65066-170"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Jardim Eldorado",
+        "street": "Rua Santa Quiteria",
+        "zipcode": "65067-390"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Vila Divineia",
+        "zipcode": "65065-540"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Turu",
+        "street": "Jardim Eldorado",
+        "zipcode": "65066-300"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Planalto",
+        "street": "Parque Sao Jose",
+        "zipcode": "65060-590"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Cinquenta E Seis",
+        "zipcode": "65078-160"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Rua Nossa Senhora De Santana",
+        "zipcode": "65064-360"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sao Marcos",
+        "street": "Conjunto Sao Marcos",
+        "zipcode": "65076-300"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac",
+        "street": "Avenida Contorno Norte Sul",
+        "zipcode": "65054-380"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Noventa E Dois",
+        "zipcode": "65078-240"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Vila Cruzado",
+        "zipcode": "65055-690"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohama",
+        "street": "Rua Boa Esperanca",
+        "zipcode": "65073-770"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Planalto Vinhais",
+        "street": "Rua Cento E Dois",
+        "zipcode": "65074-250"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Calhau",
+        "street": "Rua Alto Calhau",
+        "zipcode": "65071-680"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Aurora",
+        "street": "Parque Primavera",
+        "zipcode": "65060-500"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Avenida Da Historia",
+        "zipcode": "65078-400"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Da Biblioteconomia",
+        "zipcode": "65078-410"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Das Ciencias Contabeis",
+        "zipcode": "65078-420"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Planalto",
+        "street": "Rua Nove",
+        "zipcode": "65064-160"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Quarenta E Oito",
+        "zipcode": "65078-110"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ribeira",
+        "street": "Rua Primeiro De Maio",
+        "zipcode": "65095-280"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Dois De Maio",
+        "zipcode": "65095-120"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Maracana",
+        "street": "Vila Maracana",
+        "zipcode": "65099-080"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ribeira",
+        "street": "Praça Da Igreja",
+        "zipcode": "65095-170"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Bacanga",
+        "street": "Avenida Dos Portugueses",
+        "zipcode": "65085-580"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Rio Grande",
+        "street": "Vila Rio Grande",
+        "zipcode": "65099-050"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Bonfim",
+        "street": "Vila Nova",
+        "zipcode": "65085-540"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vila Esperanca",
+        "street": "Rua Oito",
+        "zipcode": "65095-490"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Maracana",
+        "street": "Vila Sarney",
+        "zipcode": "65099-100"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sao Francisco",
+        "street": "Conjunto Jardim Renascenca",
+        "zipcode": "65075-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Oitenta E Tres",
+        "zipcode": "65078-250"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Marco Olimpio",
+        "zipcode": "65095-190"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Vila Tamancao",
+        "zipcode": "65085-710"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Turu",
+        "street": "Conjunto Planalto Iii",
+        "zipcode": "65066-520"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Estiva",
+        "street": "Vila Estiva",
+        "zipcode": "65099-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibirizinho",
+        "street": "Rua Do Campo Tibirizinho",
+        "zipcode": "65095-680"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Maracana",
+        "street": "Rua Nova Republica",
+        "zipcode": "65099-070"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Vila Fumace",
+        "zipcode": "65086-180"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Rua Sao Caetano",
+        "zipcode": "65085-820"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Celso Ribeiro",
+        "zipcode": "65095-100"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Estiva",
+        "street": "Vila Coqueiro",
+        "zipcode": "65099-010"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vila Esperanca",
+        "street": "Rua Oito",
+        "zipcode": "65095-500"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Dezenove De Novembro",
+        "zipcode": "65095-650"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Da Fabrica",
+        "zipcode": "65095-140"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vila Nova",
+        "street": "Sítio Sao Benedito",
+        "zipcode": "65085-640"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Nova Tibiri",
+        "zipcode": "65095-800"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sa Viana",
+        "street": "Vila Dom Luis",
+        "zipcode": "65080-770"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Itapera",
+        "street": "Vila Itapera",
+        "zipcode": "65099-040"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Maracana",
+        "street": "Vila Distrito Industrial",
+        "zipcode": "65099-090"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Quadra Ceit/deit",
+        "zipcode": "65086-120"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ribeira",
+        "street": "Rua Soares Correa",
+        "zipcode": "65095-400"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Funil",
+        "zipcode": "65095-160"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Pedrinhas",
+        "street": "Vila Pedrinhas",
+        "zipcode": "65099-030"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Pedrinhas",
+        "street": "Vila Picarra",
+        "zipcode": "65099-020"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Conjunto Planalto Vinhais Ii",
+        "zipcode": "65074-191"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Conjunto Planalto Anil Iv",
+        "zipcode": "65053-503"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Santa Barbara",
+        "street": "Conjunto Sao Raimundo",
+        "zipcode": "65058-230"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac",
+        "street": "Avenida Norte Sul",
+        "zipcode": "65053-790"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Rua Giordano Mochel",
+        "zipcode": "65045-510"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Avenida Maria Alice",
+        "zipcode": "65065-260"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Olho D Agua",
+        "street": "Conjunto Jardim De Allah",
+        "zipcode": "65065-010"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Alto Da Vitoria",
+        "zipcode": "65085-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Santa Cruz",
+        "street": "3A Tv Epitacio Cafeteira",
+        "zipcode": "65005-402"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Nossa Senhora De Fatima",
+        "zipcode": "65095-220"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Dr Israel",
+        "zipcode": "65055-160"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ribeira",
+        "street": "Estrada Nova Do Colegio Agricola",
+        "zipcode": "65095-240"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohatrac",
+        "street": "Conjunto Jardim Das Margaridas",
+        "zipcode": "65052-050"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cruzeiro Do Anil",
+        "street": "Rua Sao Raimundo",
+        "zipcode": "65063-270"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cruzeiro Do Anil",
+        "street": "Vila Isabel Cafeteira",
+        "zipcode": "65060-110"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Conjunto Cohapam",
+        "zipcode": "65055-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Jardim Eldorado",
+        "street": "Rua Sao Raimundo",
+        "zipcode": "65067-270"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Turu",
+        "street": "Rua Tarquinio Lopes",
+        "zipcode": "65060-720"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Quebra",
+        "street": "Vila Quebra",
+        "zipcode": "65099-060"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Vila Duque De Caxias",
+        "zipcode": "65055-700"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Vila Operaria",
+        "zipcode": "65058-160"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Quarenta E Seis",
+        "zipcode": "65040-640"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vila Vicente Fialho",
+        "street": "Conjunto Cohajoli",
+        "zipcode": "65070-190"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Cinco De Maio",
+        "zipcode": "65095-660"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Nova Sa Viana",
+        "street": "Vila Embratel",
+        "zipcode": "65080-140"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Cinquenta E Um",
+        "zipcode": "65042-740"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ribeira",
+        "street": "Rua Tomas Soares",
+        "zipcode": "65095-410"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Turu",
+        "street": "Conjunto Planalto I",
+        "zipcode": "65066-500"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroado",
+        "street": "Quadra Cinquenta E Dois A",
+        "zipcode": "65042-770"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anjo Da Guarda",
+        "street": "Quadra De 01 A 72",
+        "zipcode": "65085-810"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Quarenta E Seis",
+        "zipcode": "65078-090"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Da Engenharia",
+        "zipcode": "65078-260"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Maria Carrera",
+        "zipcode": "65056-500"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Rua Luis De Camoes",
+        "zipcode": "65060-330"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Recanto Vinhais",
+        "street": "Rua Sao Joao Del Rey",
+        "zipcode": "65078-010"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cantinho Do Ceu",
+        "street": "Travessa Nossa Senhora Das Gracas",
+        "zipcode": "65074-020"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Da Paz",
+        "zipcode": "65059-710"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Conjunto Residencial Ipanema",
+        "zipcode": "65058-084"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cidade Operaria",
+        "street": "Rua Cento E Cinco",
+        "zipcode": "65058-040"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Maiobinha",
+        "street": "Rua Damazio Pinheiro",
+        "zipcode": "65052-120"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tirirical",
+        "street": "Rua Onze De Novembro",
+        "zipcode": "65057-560"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Silvestre Sao",
+        "zipcode": "65048-310"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Da Psicologia",
+        "zipcode": "65078-320"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Avenida Das Comunicacoes",
+        "zipcode": "65078-390"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Da Economia",
+        "zipcode": "65078-440"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cohafuma",
+        "street": "Rua Do Direito",
+        "zipcode": "65078-430"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Pindorama",
+        "street": "Rua Parnarama",
+        "zipcode": "65048-250"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sao Bernardo",
+        "street": "Rua Padre Cicero",
+        "zipcode": "65056-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Cinquenta E Tres",
+        "zipcode": "65078-140"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Fonte Do Bispo",
+        "street": "Rua Fonte Do Bispo",
+        "zipcode": "65015-150"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Sitio Do Meio",
+        "street": "Rua Das Amendoeiras",
+        "zipcode": "65020-030"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Sao Miguel",
+        "zipcode": "65047-650"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Tibiri",
+        "street": "Rua Emanuel",
+        "zipcode": "65095-690"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Travessa Vieira Da Silva",
+        "zipcode": "65048-370"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Recanto Vinhais",
+        "street": "Rua Mercurius",
+        "zipcode": "65070-200"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Travessa Da Jucara",
+        "zipcode": "65048-350"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vila Ivar Saldanha",
+        "street": "Rua Heitor De Almeida",
+        "zipcode": "65040-660"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Planalto",
+        "street": "Travessa (01) Sofia De Sousa",
+        "zipcode": "65053-080"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Calhau",
+        "street": "Conjunto Coelho Neto",
+        "zipcode": "65066-240"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Anil",
+        "street": "Rua Inacio Cunha",
+        "zipcode": "65051-130"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Planalto",
+        "street": "Condomínio Vila Noronha",
+        "zipcode": "65064-060"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Vinhais",
+        "street": "Rua Sessenta E Tres",
+        "zipcode": "65078-200"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Rua Jose De Alencar",
+        "zipcode": "65048-190"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Fatima",
+        "street": "Travessa Hugo Da Cunha Machado",
+        "zipcode": "65030-701"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Cantinho Do Ceu",
+        "street": "Rua Nossa Senhora Das Gracas",
+        "zipcode": "65074-000"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Rua Baroes",
+        "zipcode": "65048-100"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Parque Dos Nobres",
+        "street": "Rua Dos Duques",
+        "zipcode": "65048-140"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Ingaura",
+        "street": "Travessa Da Ingaura",
+        "zipcode": "65045-620"
+    },
+    {
+        "city": "Sao Luis",
+        "state": "MA",
+        "district": "Coroadinho",
+        "street": "Travessa Santo Antonio",
+        "zipcode": "65048-040"
+    }
+]

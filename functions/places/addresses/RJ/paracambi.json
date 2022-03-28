@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Paracambi",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "26600-000"
+    },
+    {
+        "city": "Paracambi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Francisco Dias Raposo 26",
+        "zipcode": "26600-970"
+    },
+    {
+        "city": "Paracambi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Francisco Dias Raposo 26",
+        "zipcode": "26600-972"
+    },
+    {
+        "city": "Paracambi",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada Paracambi",
+        "zipcode": "26600-990"
+    }
+]

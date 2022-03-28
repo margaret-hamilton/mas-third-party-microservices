@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Guararema",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "08900-000"
+    },
+    {
+        "city": "Guararema",
+        "state": "SP",
+        "district": null,
+        "street": "Avenida Francisco Lerário",
+        "zipcode": "08900-990"
+    },
+    {
+        "city": "Guararema",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Lucas Nogueira Garcez",
+        "zipcode": "08900-970"
+    },
+    {
+        "city": "Guararema",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Municipal Antonio Donizete Leite",
+        "zipcode": "08900-992"
+    }
+]

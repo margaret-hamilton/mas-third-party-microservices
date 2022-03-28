@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Garibaldi",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Jacob Ely 498 Sala 03",
+        "zipcode": "95720-970"
+    },
+    {
+        "city": "Garibaldi",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95720-000"
+    },
+    {
+        "city": "Garibaldi",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas 235",
+        "zipcode": "95720-971"
+    },
+    {
+        "city": "Garibaldi",
+        "state": "RS",
+        "district": null,
+        "street": "Linha São Roque Figueira de Melo",
+        "zipcode": "95720-992"
+    },
+    {
+        "city": "Garibaldi",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Teodoro Afonso Peixoto",
+        "zipcode": "95720-994"
+    },
+    {
+        "city": "Garibaldi",
+        "state": "RS",
+        "district": "São José da Costa Real (Distrito)",
+        "street": "Estrada Principal",
+        "zipcode": "95720-973"
+    }
+]

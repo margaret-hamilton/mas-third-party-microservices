@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Presidente Médici",
+        "state": "RO",
+        "district": "Centro",
+        "street": "Rua Nova Brasília 2621",
+        "zipcode": "76916-970"
+    },
+    {
+        "city": "Presidente Médici",
+        "state": "RO",
+        "district": null,
+        "street": "BR 364",
+        "zipcode": "76916-990"
+    },
+    {
+        "city": "Presidente Médici",
+        "state": "RO",
+        "district": null,
+        "street": "Prefeitura do Distrito de Estrela de Rondônia",
+        "zipcode": "76916-991"
+    },
+    {
+        "city": "Presidente Médici",
+        "state": "RO",
+        "district": null,
+        "street": "Posto da EMATER",
+        "zipcode": "76916-992"
+    },
+    {
+        "city": "Presidente Médici",
+        "state": "RO",
+        "district": "",
+        "street": "",
+        "zipcode": "76916-000"
+    }
+]

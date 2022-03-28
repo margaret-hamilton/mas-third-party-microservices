@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Padre Carvalho",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua São Geraldo 40",
+        "zipcode": "39573-972"
+    },
+    {
+        "city": "Padre Carvalho",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39573-000"
+    }
+]

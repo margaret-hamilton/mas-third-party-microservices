@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nova Alvorada",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Vicente Guerra 1314",
+        "zipcode": "95985-970"
+    },
+    {
+        "city": "Nova Alvorada",
+        "state": "RS",
+        "district": "General Cadorna",
+        "street": "Avenida São João 350",
+        "zipcode": "95985-974"
+    },
+    {
+        "city": "Nova Alvorada",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95985-000"
+    }
+]

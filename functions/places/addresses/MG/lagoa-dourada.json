@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Lagoa Dourada",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "36345-000"
+    },
+    {
+        "city": "Lagoa Dourada",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça do Rosário 89",
+        "zipcode": "36345-970"
+    },
+    {
+        "city": "Lagoa Dourada",
+        "state": "MG",
+        "district": "Arame",
+        "street": "Rua José Buzatti Ferreira 151",
+        "zipcode": "36345-974"
+    },
+    {
+        "city": "Lagoa Dourada",
+        "state": "MG",
+        "district": "Catauá",
+        "street": "Praça Santo Antônio s/n",
+        "zipcode": "36345-973"
+    }
+]

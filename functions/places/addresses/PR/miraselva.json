@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Miraselva",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Dona Madalena 231",
+        "zipcode": "86615-970"
+    },
+    {
+        "city": "Miraselva",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86615-000"
+    }
+]

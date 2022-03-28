@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nova Prata",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas 594",
+        "zipcode": "95320-970"
+    },
+    {
+        "city": "Nova Prata",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95320-000"
+    },
+    {
+        "city": "Nova Prata",
+        "state": "RS",
+        "district": null,
+        "street": "Linha Gramado",
+        "zipcode": "95320-991"
+    }
+]

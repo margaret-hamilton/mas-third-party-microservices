@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Nossa Senhora Aparecida (Andirá)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Mauro Cardoso de Oliveira",
+        "zipcode": "86383-970"
+    },
+    {
+        "city": "Nossa Senhora Aparecida (Andirá)",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Antônio Badesso",
+        "zipcode": "86383-990"
+    },
+    {
+        "city": "Nossa Senhora Aparecida (Andirá)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86383-000"
+    }
+]

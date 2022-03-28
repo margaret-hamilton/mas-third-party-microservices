@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santa Bárbara",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44150-000"
+    },
+    {
+        "city": "Santa Bárbara",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Lomanto Júnior 177",
+        "zipcode": "44150-970"
+    },
+    {
+        "city": "Santa Bárbara",
+        "state": "BA",
+        "district": "Sítio das Flores",
+        "street": "Praça Principal s/n",
+        "zipcode": "44156-970"
+    },
+    {
+        "city": "Santa Bárbara",
+        "state": "BA",
+        "district": "São Nicolau",
+        "street": "Praça da Matriz s/n",
+        "zipcode": "44150-971"
+    }
+]

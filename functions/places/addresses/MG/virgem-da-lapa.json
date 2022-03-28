@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Virgem da Lapa",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Brasil 120 Loja 01",
+        "zipcode": "39630-970"
+    },
+    {
+        "city": "Virgem da Lapa",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39630-000"
+    },
+    {
+        "city": "Virgem da Lapa",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "39630-971"
+    }
+]

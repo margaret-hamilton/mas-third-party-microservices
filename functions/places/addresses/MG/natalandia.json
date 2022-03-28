@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Natalândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Unaí",
+        "zipcode": "38658-972"
+    },
+    {
+        "city": "Natalândia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38658-000"
+    }
+]

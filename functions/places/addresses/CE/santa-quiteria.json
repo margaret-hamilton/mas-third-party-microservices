@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santa Quitéria",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Antônio Sabóia 72",
+        "zipcode": "62280-970"
+    },
+    {
+        "city": "Santa Quitéria",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Messias Ramos",
+        "zipcode": "62285-990"
+    },
+    {
+        "city": "Santa Quitéria",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62280-000"
+    },
+    {
+        "city": "Santa Quitéria",
+        "state": "CE",
+        "district": null,
+        "street": "Avenida Pedro Odilon",
+        "zipcode": "62293-990"
+    }
+]

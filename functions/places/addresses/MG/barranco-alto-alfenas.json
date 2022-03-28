@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Barranco Alto (Alfenas)",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Ana Quitéria s/n",
+        "zipcode": "37131-971"
+    },
+    {
+        "city": "Barranco Alto (Alfenas)",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37131-000"
+    },
+    {
+        "city": "Barranco Alto (Alfenas)",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37139-200"
+    },
+    {
+        "city": "Barranco Alto (Alfenas)",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Ana Quitéria s/n",
+        "zipcode": "37139-971"
+    }
+]

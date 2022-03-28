@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Ubajara",
+        "state": "CE",
+        "district": null,
+        "street": "Alameda Amador",
+        "zipcode": "62354-990"
+    },
+    {
+        "city": "Ubajara",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Monsenhor Gonçalo Eufrasio 131",
+        "zipcode": "62350-970"
+    },
+    {
+        "city": "Ubajara",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62350-000"
+    },
+    {
+        "city": "Ubajara",
+        "state": "CE",
+        "district": null,
+        "street": "Rua do Mercado",
+        "zipcode": "62352-990"
+    }
+]

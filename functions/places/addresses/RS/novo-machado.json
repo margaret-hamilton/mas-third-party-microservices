@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Novo Machado",
+        "state": "RS",
+        "district": "Vila Pratos",
+        "street": "Rua Vila Pratos",
+        "zipcode": "98955-975"
+    },
+    {
+        "city": "Novo Machado",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Santa Rosa",
+        "zipcode": "98955-970"
+    },
+    {
+        "city": "Novo Machado",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "98955-000"
+    },
+    {
+        "city": "Novo Machado",
+        "state": "RS",
+        "district": "Esquina Barra Funda",
+        "street": "Rua Principal",
+        "zipcode": "98955-974"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Ubatuba",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Rio Grande do Sul 725",
+        "zipcode": "11680-971"
+    },
+    {
+        "city": "Ubatuba",
+        "state": "SP",
+        "district": "Silop",
+        "street": "Rua Coronel Ernesto de Oliveira 178",
+        "zipcode": "11680-970"
+    },
+    {
+        "city": "Ubatuba",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "11680-000"
+    },
+    {
+        "city": "Ubatuba",
+        "state": "SP",
+        "district": "Picinguaba",
+        "street": "Rua B 8",
+        "zipcode": "11680-972"
+    },
+    {
+        "city": "Ubatuba",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Pasto Grande",
+        "zipcode": "11680-990"
+    }
+]

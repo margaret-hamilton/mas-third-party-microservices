@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bocaiúva",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Domingos Ferreira Pimenta 60",
+        "zipcode": "39390-970"
+    },
+    {
+        "city": "Bocaiúva",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Um 4",
+        "zipcode": "39390-972"
+    },
+    {
+        "city": "Bocaiúva",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Rio de Janeiro 195",
+        "zipcode": "39390-971"
+    },
+    {
+        "city": "Bocaiúva",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39390-000"
+    }
+]

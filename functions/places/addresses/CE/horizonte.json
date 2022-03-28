@@ -1,0 +1,6246 @@
+[
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Francisco Mariano da Silva",
+        "zipcode": "62883-150"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisco de Paiva do Carmo",
+        "zipcode": "62886-390"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 6 (Lot V Jd Horizonte)",
+        "zipcode": "62882-245"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Emídio Pereira de Oliveira",
+        "zipcode": "62883-600"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Estevão Jorge de Matos",
+        "zipcode": "62880-321"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Manoel Honorato da Silva",
+        "zipcode": "62880-650"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua José Lins do Rego Cavalcanti",
+        "zipcode": "62884-760"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Maria Rabelo Saraiva",
+        "zipcode": "62883-170"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Maria Sena da Silva",
+        "zipcode": "62881-165"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Olívia Fortunato do Vale",
+        "zipcode": "62880-225"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua José Augusto da Silva",
+        "zipcode": "62884-330"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Isabel Santiago de Castro",
+        "zipcode": "62887-395"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Estevão Jorge de Matos",
+        "zipcode": "62887-000"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Antônio Gomes Tavares",
+        "zipcode": "62880-270"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 2 (Lot V Jd Horizonte)",
+        "zipcode": "62882-255"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua João Belchior Marques Goulart",
+        "zipcode": "62887-245"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Ministro Valdemar Falcão",
+        "zipcode": "62882-840"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Francisco Antônio do Nascimento",
+        "zipcode": "62880-566"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Delfim Moreira da Costa Ribeiro",
+        "zipcode": "62887-205"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Maria Argentina de Almeida",
+        "zipcode": "62885-300"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Rômulo Rosa da Silva",
+        "zipcode": "62880-745"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Antonio Gonçalves Dias",
+        "zipcode": "62884-610"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Baturité",
+        "zipcode": "62882-000"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Juraci Matos de Sousa",
+        "zipcode": "62886-895"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Alzira de Sousa Matos",
+        "zipcode": "62880-318"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Avenida Coronel Luiz Flávio Nogueira",
+        "zipcode": "62886-530"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua César Onofre de Assis",
+        "zipcode": "62886-670"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62885-570"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Iracema Fernandes de Sousa",
+        "zipcode": "62883-205"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Bela Vista",
+        "zipcode": "62884-225"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Manoel Corrêia de Lima",
+        "zipcode": "62882-135"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Epitácio da Silva Pessoa",
+        "zipcode": "62887-210"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Sargento Cândido Machado Maia",
+        "zipcode": "62880-213"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua A",
+        "zipcode": "62880-586"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Josefa Carneiro",
+        "zipcode": "62880-252"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Adauto Fernandes da Costa",
+        "zipcode": "62887-615"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Alexandrina Maria do Espírito Santo",
+        "zipcode": "62883-615"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "62883-285"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Otacílio Viana de Lima",
+        "zipcode": "62880-420"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62880-972"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Jorge Eusébio da Silva  AGC Catolé",
+        "zipcode": "62880-974"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Oswaldo Cruz",
+        "zipcode": "62887-175"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Otávio Assunção",
+        "zipcode": "62887-620"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Francisco Antônio Santiago",
+        "zipcode": "62887-610"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Lucina Ramos da Silva",
+        "zipcode": "62887-605"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Francisca Alves Soares",
+        "zipcode": "62887-600"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Manuel Eusébio da Silva",
+        "zipcode": "62887-595"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Jessy Rodrigues do Nascimento",
+        "zipcode": "62887-590"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua André Vicente do Nascimento",
+        "zipcode": "62887-585"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Maria Rodrigues da Silva",
+        "zipcode": "62887-580"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Maria Raimunda da Conceição",
+        "zipcode": "62887-570"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Raimunda Martins de Lima",
+        "zipcode": "62887-565"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Maria Fernandes de Sousa",
+        "zipcode": "62887-560"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua José Martins de Sousa",
+        "zipcode": "62887-555"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Josué Gomes da Silva",
+        "zipcode": "62887-550"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Nita Brasilino da Silva",
+        "zipcode": "62887-540"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua José Domingues de Moura",
+        "zipcode": "62887-525"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Doca de Sousa Falcão",
+        "zipcode": "62887-505"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Elcias Pereira Falcão",
+        "zipcode": "62887-500"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Euclides de Souza",
+        "zipcode": "62887-490"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Luiz Severo da Silva",
+        "zipcode": "62887-485"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Maria de Jesus",
+        "zipcode": "62887-475"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Travessa Francisco Ferreira Coelho",
+        "zipcode": "62887-470"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Maria Marta da Conceição",
+        "zipcode": "62887-465"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Francisco Ferreira Coelho",
+        "zipcode": "62887-460"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Manoel Damasceno da Costa",
+        "zipcode": "62887-450"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua João Pereira da Silva",
+        "zipcode": "62887-445"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua João Sena da Silva",
+        "zipcode": "62887-440"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco 4106",
+        "zipcode": "62880-970"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Amazonas",
+        "zipcode": "62880-153"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": null,
+        "street": null,
+        "zipcode": "62880-000"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Avelina Maria da Silva",
+        "zipcode": "62887-430"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Eduardo Severo da Silva",
+        "zipcode": "62887-420"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Jorge Eusébio da Silva",
+        "zipcode": "62887-415"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Manuel Nunes da Silva",
+        "zipcode": "62887-410"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua João Antonio da Silva",
+        "zipcode": "62887-405"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Cacildo Batista Lima",
+        "zipcode": "62887-400"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Eucilia Tavares Falcão",
+        "zipcode": "62887-390"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Francisco Antônio de Castro",
+        "zipcode": "62887-380"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua João de Sousa Falcão",
+        "zipcode": "62887-375"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Antônio Severo da Silva",
+        "zipcode": "62887-355"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua João Eusébio da Silva",
+        "zipcode": "62887-350"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Ana Marques Maia",
+        "zipcode": "62887-305"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Ana Benevina de Sousa",
+        "zipcode": "62887-300"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua José Pereira de Sousa",
+        "zipcode": "62887-295"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Francisco Domingos de Sousa",
+        "zipcode": "62887-290"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Maria Bruno da Silva",
+        "zipcode": "62887-360"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62887-285"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua José Luiz da Silva",
+        "zipcode": "62887-280"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Jânio da Silva Quadros",
+        "zipcode": "62887-270"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Washington Luis Pereira de Sousa",
+        "zipcode": "62887-265"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua João Café Filho",
+        "zipcode": "62887-255"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Carlos Coimbra da Luz",
+        "zipcode": "62887-250"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Ernesto Geisel",
+        "zipcode": "62887-240"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Floriano Vieira Peixoto",
+        "zipcode": "62887-230"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Irineu Evangelista de Sousa",
+        "zipcode": "62887-220"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Avenida Francisco Ivan Feitosa",
+        "zipcode": "62887-215"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Afonso Augusto Moreira Pena",
+        "zipcode": "62887-200"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua José Luiz da Silva",
+        "zipcode": "62887-190"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Domingos da Veiga Cabral",
+        "zipcode": "62887-185"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Maria Leopoldina Josefa de Habsburgo",
+        "zipcode": "62887-180"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua José Carlos do Patrocínio",
+        "zipcode": "62887-170"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "62887-165"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Primeiro de Abril",
+        "zipcode": "62887-155"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Raimundo Rosendo de Oliveira",
+        "zipcode": "62887-150"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Avenida João Lima Costa",
+        "zipcode": "62887-020"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62887-015"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Raimundo Lourenço da Costa",
+        "zipcode": "62887-010"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua João Padre",
+        "zipcode": "62887-005"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Paulo de Matos",
+        "zipcode": "62886-890"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Joaquim Lemos",
+        "zipcode": "62886-875"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Menino Jesus",
+        "zipcode": "62886-870"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Maria Madalena de Sousa",
+        "zipcode": "62886-860"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Adenir Lomônaco",
+        "zipcode": "62886-855"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Valdemar Esteves",
+        "zipcode": "62886-495"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Antônio Padre da Silva",
+        "zipcode": "62886-485"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Cícero Romão Batista",
+        "zipcode": "62886-800"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Francisco Alexandre de Lima",
+        "zipcode": "62886-810"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Manuel Venâncio da Silva",
+        "zipcode": "62886-845"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Raimundo Venâncio da Silva",
+        "zipcode": "62886-830"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Paulinho Pereira",
+        "zipcode": "62886-475"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua A",
+        "zipcode": "62886-470"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Cristina Maria da Conceição",
+        "zipcode": "62886-465"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Claudilson Cândido Bezerra",
+        "zipcode": "62886-460"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimundo Carolino da Silva",
+        "zipcode": "62886-450"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua João Bezerra Lopes",
+        "zipcode": "62886-445"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Travessa Manoel Luiz",
+        "zipcode": "62886-440"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Fernando Saraiva Leão",
+        "zipcode": "62886-435"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua José Tereza de Lima",
+        "zipcode": "62886-430"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Luiz Antônio Rodrigues",
+        "zipcode": "62886-425"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria José Batista",
+        "zipcode": "62886-415"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria das Dores de Lima",
+        "zipcode": "62886-410"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Santiago Sales do Carmo",
+        "zipcode": "62886-405"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Alice Ferreira dos Santos",
+        "zipcode": "62886-400"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Antônio Nonato do Carmo Sousa",
+        "zipcode": "62886-380"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria da Luz Alves",
+        "zipcode": "62886-375"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Osmar Sales do Carmo",
+        "zipcode": "62886-370"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Benedito Sales do Carmo",
+        "zipcode": "62886-365"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Luiz Ferreira Sales",
+        "zipcode": "62886-360"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Antônio Juvino dos Santos",
+        "zipcode": "62886-350"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Sebastião Sales do Carmo",
+        "zipcode": "62886-345"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisco Sales do Carmo",
+        "zipcode": "62886-340"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Avenida Juvenal de Castro",
+        "zipcode": "62886-335"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Estevan da Mata Pereira",
+        "zipcode": "62886-885"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Manuel Matias de Freitas",
+        "zipcode": "62886-395"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Raimundo de Sousa Castro",
+        "zipcode": "62886-865"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimundo Nogueira Lopes",
+        "zipcode": "62886-330"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua São Raimundo",
+        "zipcode": "62886-325"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimundo de Matos Pereira",
+        "zipcode": "62886-185"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Petronilha Maria de Lima",
+        "zipcode": "62886-180"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria dos Anjos da Silva",
+        "zipcode": "62886-170"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisca da Mata Pereira",
+        "zipcode": "62886-165"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria Romana da Mata Pereira",
+        "zipcode": "62886-160"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Alzira Gomes Pereira",
+        "zipcode": "62886-155"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Luiz da Mata",
+        "zipcode": "62886-145"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua José Alves Pereira",
+        "zipcode": "62886-140"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua João Gonzaga da Silva",
+        "zipcode": "62886-135"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Antônio Araújo Câmara",
+        "zipcode": "62886-130"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria Luciana da Silva",
+        "zipcode": "62886-120"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Travessa São João",
+        "zipcode": "62886-110"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Manoel Bento Ferreira",
+        "zipcode": "62886-100"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Avenida Elias Bento Ferreira",
+        "zipcode": "62886-125"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisco Júlio da Silva Filho",
+        "zipcode": "62886-105"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Gervásio de Freitas",
+        "zipcode": "62886-515"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisco João da Silva",
+        "zipcode": "62886-525"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua José de Sousa",
+        "zipcode": "62886-575"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Avenida Enir Santos",
+        "zipcode": "62886-580"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua José Martins",
+        "zipcode": "62886-585"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Aristeu Pereira Teixeira",
+        "zipcode": "62886-595"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Irene Amora",
+        "zipcode": "62886-825"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Antônio Inácio de Queiroz",
+        "zipcode": "62886-820"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Rafael Santos",
+        "zipcode": "62886-520"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Maria Tomáz da Silva",
+        "zipcode": "62886-610"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Maria Fernandes da Rocha",
+        "zipcode": "62886-840"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimundo Teobaldo de Sousa",
+        "zipcode": "62886-085"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimunda Maria de Jesus",
+        "zipcode": "62886-075"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Travessa Raimunda Maria de Freitas",
+        "zipcode": "62886-065"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Valderi Tavares",
+        "zipcode": "62886-060"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Luciano Ferreira Lima",
+        "zipcode": "62886-055"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Antônio de Andrade",
+        "zipcode": "62886-095"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Clóvis Sabóia Alves",
+        "zipcode": "62886-080"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimundo Leandro de Lima",
+        "zipcode": "62886-050"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisco Geraldo dos Reis",
+        "zipcode": "62886-040"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisco Leandro de Lima",
+        "zipcode": "62886-035"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Antônio Agostinho da Silva",
+        "zipcode": "62886-030"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisco Xavier de Freitas",
+        "zipcode": "62886-025"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimunda Pereira do Nascimento",
+        "zipcode": "62886-020"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria de Nazaré Oliveira Araújo",
+        "zipcode": "62886-015"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria de Fátima dos Santos",
+        "zipcode": "62886-010"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua José Maria de Almeida",
+        "zipcode": "62886-005"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Antônio Agostinho da Silva",
+        "zipcode": "62885-670"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Elzenir Maria da Costa",
+        "zipcode": "62885-665"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua das Balbinas",
+        "zipcode": "62885-660"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Francisca Gomes da Silva",
+        "zipcode": "62885-655"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Marcelino Batista da Silva",
+        "zipcode": "62885-650"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Egino Pereira dos Santos",
+        "zipcode": "62885-635"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Justino Batista da Silva",
+        "zipcode": "62885-630"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Jerônimo Batista da Silva",
+        "zipcode": "62885-625"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Charles Rocha da Silveira",
+        "zipcode": "62885-620"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Francisco Xavier de Freitas",
+        "zipcode": "62885-610"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Francisco Wagner de Souza Brito",
+        "zipcode": "62885-605"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Ana Nogueira Lopes",
+        "zipcode": "62885-600"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Maria Estela Nogueira",
+        "zipcode": "62885-595"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua João Moreira de Lima",
+        "zipcode": "62885-590"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Paulo Marques",
+        "zipcode": "62885-645"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Alexandre da Mata Pereira",
+        "zipcode": "62886-625"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua João Padre da Silva",
+        "zipcode": "62886-630"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Francisca Eufrásio de Assis",
+        "zipcode": "62886-660"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Avenida Imaculada da Conceição",
+        "zipcode": "62886-770"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Francisco Helano de Sousa",
+        "zipcode": "62886-650"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Luiz Domingos de Souza",
+        "zipcode": "62886-695"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Henrique Soares",
+        "zipcode": "62885-140"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Maria Augustina da Silva",
+        "zipcode": "62885-155"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Maria Luciana da Silva",
+        "zipcode": "62885-170"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua José Alberto da Silva",
+        "zipcode": "62885-180"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Maria Bento da Silva",
+        "zipcode": "62885-185"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Paulo Ramos",
+        "zipcode": "62885-195"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua José Raimundo Pereira",
+        "zipcode": "62885-200"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua João Sampaio",
+        "zipcode": "62885-205"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Imperador Dom Pedro II",
+        "zipcode": "62885-235"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Imperatriz Tereza Cristina",
+        "zipcode": "62885-240"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua João Batista Messias de Maria",
+        "zipcode": "62885-275"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Francisco Ribeiro da Silva",
+        "zipcode": "62885-280"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Maria Eufrásio do Nascimento",
+        "zipcode": "62886-645"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Tomás Pompeu Lopes Ferreira",
+        "zipcode": "62886-780"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua B (Lot Res Época)",
+        "zipcode": "62885-580"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua A (Lot Res Época)",
+        "zipcode": "62885-575"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "62884-735"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Luis Nunes Saraiva",
+        "zipcode": "62884-730"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Martin Lutero",
+        "zipcode": "62884-725"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Pedro Tavares de Almeida",
+        "zipcode": "62884-720"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Virgínia Perote Zani",
+        "zipcode": "62884-715"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Engracia Figueredo de Almeida",
+        "zipcode": "62884-705"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Otília Tavares de Almeida",
+        "zipcode": "62884-695"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Maria Gomes Bezerra",
+        "zipcode": "62884-690"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua José Braúlio Silveira",
+        "zipcode": "62884-650"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua José Bonifácio de Andrade e Silva",
+        "zipcode": "62884-635"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Q",
+        "zipcode": "62884-640"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua P",
+        "zipcode": "62884-630"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Avenida Sebastião Tavares de Almeida",
+        "zipcode": "62884-625"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Juscelino Kubitschek de Oliveira",
+        "zipcode": "62884-620"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua José Vanderlei Silvério da Silva",
+        "zipcode": "62884-770"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Gelcina Santos",
+        "zipcode": "62884-805"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Luziana Montes da Silva",
+        "zipcode": "62884-850"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Antônio Luciano Filho",
+        "zipcode": "62884-875"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua João Galdino",
+        "zipcode": "62884-810"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Ecília Bento da Silva",
+        "zipcode": "62885-305"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62885-355"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Jane Galdina Ferreira",
+        "zipcode": "62884-880"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Ana Margarida da Silva",
+        "zipcode": "62885-160"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Maria Iraci Ribeiro Melo",
+        "zipcode": "62884-775"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Travessa Maria Maciel Gomes",
+        "zipcode": "62884-820"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Travessa Maria Evangelista Cardoso",
+        "zipcode": "62884-835"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Maria da Conceição de Oliveira",
+        "zipcode": "62884-855"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Vandique Marques de Moura",
+        "zipcode": "62884-870"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Maria Estevam",
+        "zipcode": "62884-895"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Valdemar Silvério da Silva",
+        "zipcode": "62884-785"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua José Lima",
+        "zipcode": "62885-265"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Luiz Nogueira Lopes",
+        "zipcode": "62885-270"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Maria Nazaré de Almeida",
+        "zipcode": "62885-295"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua João Enoque Filho",
+        "zipcode": "62886-655"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Francisca das Chagas",
+        "zipcode": "62885-310"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Raimundo Lopes",
+        "zipcode": "62885-315"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua João Sampaio",
+        "zipcode": "62885-325"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Vinte de Novembro",
+        "zipcode": "62885-330"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Virginia Isabel",
+        "zipcode": "62885-335"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Romão Ramalho da Silva",
+        "zipcode": "62885-345"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua José Alfredo",
+        "zipcode": "62885-360"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Salomão Nogueira Lopes",
+        "zipcode": "62885-125"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Romão Ramalho da Silva",
+        "zipcode": "62885-145"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Vinte e Seis de Maio",
+        "zipcode": "62885-215"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua José Nogueira de Queiroz",
+        "zipcode": "62885-130"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Raimundo Lopes",
+        "zipcode": "62885-210"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "62885-245"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua João Olegário Rodrigues",
+        "zipcode": "62884-605"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Antônio Alves dos Santos",
+        "zipcode": "62884-600"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Manuel Leão",
+        "zipcode": "62884-595"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Eulálio Pires Sales",
+        "zipcode": "62884-590"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Antônio Ramalho",
+        "zipcode": "62884-575"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Avenida Asa Branca",
+        "zipcode": "62884-570"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Avenida Asa Branca",
+        "zipcode": "62884-350"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua 11",
+        "zipcode": "62884-345"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua Vera Cleide Lemos de Sousa",
+        "zipcode": "62884-340"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua 10",
+        "zipcode": "62884-335"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua 7",
+        "zipcode": "62884-320"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua José Basílio Santos",
+        "zipcode": "62884-315"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua 5",
+        "zipcode": "62884-310"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua Olinda Gomes da Silva",
+        "zipcode": "62884-305"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua Herculano Conrado de Sousa",
+        "zipcode": "62884-300"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua Francisco Brindeiro da Silva",
+        "zipcode": "62884-295"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua Marcelino Brindeiro da Silva",
+        "zipcode": "62884-290"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua São Bento",
+        "zipcode": "62884-280"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua José Francisco de Sousa",
+        "zipcode": "62884-270"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua José Sabino Filho",
+        "zipcode": "62884-265"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Maria Estevam de Freitas",
+        "zipcode": "62884-260"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisco Palmeira da Silva",
+        "zipcode": "62884-255"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Luis Costa",
+        "zipcode": "62884-250"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Antônio Joaquim de Andrade",
+        "zipcode": "62884-245"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua João Antero da Silva",
+        "zipcode": "62884-240"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua João Holanda Pereira",
+        "zipcode": "62884-585"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Maria Alves de Melo",
+        "zipcode": "62884-230"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua José Chagas da Silva",
+        "zipcode": "62884-220"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua José Moreira de Lima",
+        "zipcode": "62884-215"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Andre Curcino de Lima",
+        "zipcode": "62884-205"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Ivaney Bandeira",
+        "zipcode": "62884-200"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisca Jorge da Silva",
+        "zipcode": "62884-195"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62884-190"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Maria Etelvina Maia",
+        "zipcode": "62884-185"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Arco",
+        "zipcode": "62884-180"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua São Joaquim",
+        "zipcode": "62884-175"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Valdenice Cristino Monteiro",
+        "zipcode": "62884-170"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Paulo Régulos Neves Freire",
+        "zipcode": "62884-165"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Chico Poró",
+        "zipcode": "62885-100"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Augusto Nogueira",
+        "zipcode": "62885-115"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Antônio Furtuoso da Silva",
+        "zipcode": "62884-780"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Avenida Omar Coelho",
+        "zipcode": "62884-800"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Aprigio Gomes",
+        "zipcode": "62884-845"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua José Francisco de Sousa",
+        "zipcode": "62884-890"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Expedito Alves da Silva",
+        "zipcode": "62885-010"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua José da Silva",
+        "zipcode": "62885-015"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Maria Evangelista Cardoso",
+        "zipcode": "62884-830"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Vinte e Seis de Maio",
+        "zipcode": "62885-220"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Maria Maciel Gomes",
+        "zipcode": "62884-825"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Edson Nogueira Lopes",
+        "zipcode": "62885-105"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Antônio Rodrigues Pitombeira Filho",
+        "zipcode": "62884-155"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Raimundo Nonato de Carvalho",
+        "zipcode": "62884-150"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua João Bento",
+        "zipcode": "62884-145"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Seis de Março",
+        "zipcode": "62884-140"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Karine Pereira da Silva",
+        "zipcode": "62884-135"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Maria Martins Soares",
+        "zipcode": "62884-130"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Cleonice Maia",
+        "zipcode": "62884-125"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisco Bento da Silva",
+        "zipcode": "62884-110"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisca Cecília de Sousa",
+        "zipcode": "62884-105"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua José Pereira Filho",
+        "zipcode": "62884-100"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Paulo Vieira do Vale",
+        "zipcode": "62884-095"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Travessa Francisco Bento da Silva",
+        "zipcode": "62884-090"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisco Carlos Marques",
+        "zipcode": "62884-080"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisca Miguel da Conceição",
+        "zipcode": "62884-075"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisco Trajano Sousa",
+        "zipcode": "62884-070"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua José Evandir Nunes de Sousa",
+        "zipcode": "62884-065"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisco Antônio Filho",
+        "zipcode": "62884-060"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Manuel Pereira Sobrinho",
+        "zipcode": "62884-050"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Regina de Oliveira Lima",
+        "zipcode": "62884-045"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Maria Bezerra de Sousa",
+        "zipcode": "62884-040"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Raimundinha Fontenele Arruda Coelho",
+        "zipcode": "62884-035"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Hilda Susana de Sousa",
+        "zipcode": "62884-025"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "2ª Travessa Luiz Inácio de Sousa",
+        "zipcode": "62884-020"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "1ª Travessa Luiz Inácio de Sousa",
+        "zipcode": "62884-015"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Luiz Inácio de Sousa",
+        "zipcode": "62884-010"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Raimunda Pontes de Andrade",
+        "zipcode": "62884-005"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Tanques",
+        "street": "Rua Celso Silva Assunção",
+        "zipcode": "62883-670"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Tanques",
+        "street": "Rua Dodó Gomes de Almeida",
+        "zipcode": "62883-665"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Tanques",
+        "street": "Rua Clarice Silvestre da Silva",
+        "zipcode": "62883-660"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Regina Maria de Sousa",
+        "zipcode": "62884-120"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua José Américo de Freitas",
+        "zipcode": "62883-650"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Maria Lili Gomes de Almeida",
+        "zipcode": "62883-645"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Jorge Bandeira de Araújo",
+        "zipcode": "62883-635"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Aureliano Emídio Pereira",
+        "zipcode": "62883-625"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Silvestre Cardoso da Silva",
+        "zipcode": "62883-620"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Deoclécia Pereira Lima",
+        "zipcode": "62883-610"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Dodó Gomes de Almeida",
+        "zipcode": "62883-595"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Celso Silva Assunção",
+        "zipcode": "62883-440"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Celso Silva Assunção",
+        "zipcode": "62883-590"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Baturité",
+        "zipcode": "62883-435"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua São Pedro",
+        "zipcode": "62883-430"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua São Paulo",
+        "zipcode": "62883-425"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Santo Antônio",
+        "zipcode": "62883-410"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua José Facundes de Lima",
+        "zipcode": "62883-405"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Santa Maria",
+        "zipcode": "62883-400"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Francisca Valderli Evangelista Pereira",
+        "zipcode": "62883-395"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua José Bandeira de Araújo",
+        "zipcode": "62883-385"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Antônio Rufino de Almeida",
+        "zipcode": "62883-380"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Chico Mendes",
+        "zipcode": "62883-375"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Francisca Rufino de Almeida",
+        "zipcode": "62883-370"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Raimundo Rufino de Almeida",
+        "zipcode": "62883-365"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Antônio Assunção dos Santos",
+        "zipcode": "62883-355"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua José Wilson Assunção",
+        "zipcode": "62883-350"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua João Bandeira de Araújo",
+        "zipcode": "62883-345"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Estelito Emídio Pereira",
+        "zipcode": "62883-340"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Antonio Bezerra da Costa",
+        "zipcode": "62883-330"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Perpétua Lopes da Silva",
+        "zipcode": "62883-325"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Francisco Bento Ribeiro",
+        "zipcode": "62883-320"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua São Bartolomeu",
+        "zipcode": "62883-310"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Benjamin Braz da Rocha",
+        "zipcode": "62883-305"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Manuel Rufino",
+        "zipcode": "62883-295"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Raimundo Pereira de Assunção",
+        "zipcode": "62883-290"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Avenida Horácio Rufino de Almeida",
+        "zipcode": "62883-225"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua João Barroso Ferreira",
+        "zipcode": "62883-220"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Treze de Maio",
+        "zipcode": "62883-215"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua João Pereira de Lima",
+        "zipcode": "62883-210"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Balduino Emídio Pereira",
+        "zipcode": "62883-200"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Antônio Bandeira de Araújo",
+        "zipcode": "62883-195"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Manuel Rufino de Almeida",
+        "zipcode": "62883-185"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua José Pereira de Lima",
+        "zipcode": "62883-175"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Maria Gomes da Anunciação",
+        "zipcode": "62883-165"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Avenida Maria Ester Gomes de Almeida",
+        "zipcode": "62883-155"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Artur da Silva Bernardes",
+        "zipcode": "62883-140"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Avenida João Antonio Silvestre da Silva",
+        "zipcode": "62883-135"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Luiza Pinheiro Soares",
+        "zipcode": "62883-130"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua José Wilson Assunção",
+        "zipcode": "62883-180"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Anderson Pereira Ribeiro",
+        "zipcode": "62883-115"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua José Gomes de Almeida",
+        "zipcode": "62883-630"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Francisco Bandeira de Oliveira",
+        "zipcode": "62883-110"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Baturité",
+        "zipcode": "62883-100"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Avenida Miguel Skeff",
+        "zipcode": "62883-095"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua José Dualdo Silvestre da Silva",
+        "zipcode": "62883-090"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua João Carlos Leitão",
+        "zipcode": "62883-005"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Ministro Juarez Távora",
+        "zipcode": "62883-000"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Margarida Sabóia de Carvalho",
+        "zipcode": "62882-895"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Maria Fernandes Câmpelo",
+        "zipcode": "62882-890"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Antônio Carlos Leitão",
+        "zipcode": "62882-885"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Antônio Salviano",
+        "zipcode": "62882-875"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Carlos Félix de Sousa",
+        "zipcode": "62882-860"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Presidente Costa e Silva",
+        "zipcode": "62882-855"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Sérgio Ivan Gondim Teixeira",
+        "zipcode": "62882-850"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Senador Fernandes Távora",
+        "zipcode": "62882-845"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Lídia Cavalcante Fernandes",
+        "zipcode": "62882-830"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Avenida Martins José Pinheiro",
+        "zipcode": "62882-795"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Luis de França Lino",
+        "zipcode": "62882-790"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Assis Machado",
+        "zipcode": "62882-785"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Clara de Assis",
+        "zipcode": "62882-775"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Valderi Raimundo da Silva",
+        "zipcode": "62882-770"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Ceni Mendes Vale",
+        "zipcode": "62882-765"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Josenias Domingos da Silva",
+        "zipcode": "62882-760"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Luis de França Lima",
+        "zipcode": "62882-755"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Maria Rodrigues da Silva",
+        "zipcode": "62882-750"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua José Martiniano de Alencar",
+        "zipcode": "62882-745"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Avenida Martins José Pinheiro",
+        "zipcode": "62882-706"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Manoel Conrado de Sousa",
+        "zipcode": "62882-702"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua José Vale da silva",
+        "zipcode": "62882-698"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Joaquim Pedro Maciel de Oliveira",
+        "zipcode": "62882-694"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Maria Francisca de Jesus",
+        "zipcode": "62882-690"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Santa Rita",
+        "zipcode": "62882-686"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Cosme e Damião",
+        "zipcode": "62882-682"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua José Anselmo da Cunha",
+        "zipcode": "62882-678"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Dalisa Matias de Lima",
+        "zipcode": "62882-674"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua João Domingos da Silva",
+        "zipcode": "62882-666"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua João Ferreira Gomes",
+        "zipcode": "62882-662"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Marcelino Domingos de Sousa",
+        "zipcode": "62882-658"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Edvirgens Maria da Conceição",
+        "zipcode": "62882-654"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Avenida José Leandro Bezerra Costa",
+        "zipcode": "62882-650"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Avenida São Miguel",
+        "zipcode": "62882-618"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua São Gabriel",
+        "zipcode": "62882-614"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Idelzuite Ferreira dos Santos",
+        "zipcode": "62882-610"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Elias Nicolau de Carvalho",
+        "zipcode": "62882-606"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Raimundo Feliciano de Sousa",
+        "zipcode": "62882-602"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Ernani Martins",
+        "zipcode": "62882-598"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Gilberto Gomes Pereira",
+        "zipcode": "62882-594"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Maria Thamyres Fernandes de Aquino",
+        "zipcode": "62882-586"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua São José",
+        "zipcode": "62882-880"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Francisco Onofre de Assis",
+        "zipcode": "62882-574"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Amanda Ferreira Lima",
+        "zipcode": "62882-570"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Francisco Gomes da Silva",
+        "zipcode": "62882-558"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Rina Alves da Silva",
+        "zipcode": "62882-554"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua José Edgledson da Silva Nunes",
+        "zipcode": "62882-550"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Baturité",
+        "zipcode": "62882-546"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua José Marinho dos Santos",
+        "zipcode": "62882-542"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Professora Zuleide Bezerra de Carvalho",
+        "zipcode": "62882-534"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Santa Edwirges",
+        "zipcode": "62882-530"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Francisco Norberto Teófilo de Sousa",
+        "zipcode": "62882-522"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Bernardo Barnabé Brito",
+        "zipcode": "62882-518"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Iracilda Pinheiro Costa",
+        "zipcode": "62882-514"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Américo Evaristo de Castro",
+        "zipcode": "62882-582"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Francisco Edson Rodrigues da Silva",
+        "zipcode": "62882-562"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Eduardo Moreira da Silva",
+        "zipcode": "62882-538"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Luiz Bezerra da Costa",
+        "zipcode": "62882-510"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Presidente Tancredo Neves",
+        "zipcode": "62882-498"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Deputado Ulisses Guimarães",
+        "zipcode": "62882-494"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Luiz Porfírio de Lima",
+        "zipcode": "62882-490"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua dos Pássaros",
+        "zipcode": "62882-865"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Raimunda de Lourdes da Silva",
+        "zipcode": "62882-486"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Mãe Rainha",
+        "zipcode": "62882-482"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Maria Héli Corrêia Lima",
+        "zipcode": "62882-474"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Leonor Lopes Luz",
+        "zipcode": "62882-470"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Davi Ferreira de Lima",
+        "zipcode": "62882-462"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Raimunda Pereira de Araújo",
+        "zipcode": "62882-458"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Cezário Eduardo de Sousa",
+        "zipcode": "62882-454"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua José Oduvaldo Ferreira Lima",
+        "zipcode": "62882-446"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Olho DÁgua",
+        "zipcode": "62882-442"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Calixto Pereira",
+        "zipcode": "62882-434"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Horácio Inácio de Sousa",
+        "zipcode": "62882-430"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Horácio Inácio de Sousa",
+        "zipcode": "62882-425"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua O (Cj Hab M Janjão)",
+        "zipcode": "62882-420"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua A (Cj Hab M Janjão)",
+        "zipcode": "62882-415"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua B (Cj Hab M Janjão)",
+        "zipcode": "62882-410"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua P (Cj Hab M Janjão)",
+        "zipcode": "62882-395"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Santo Expedito",
+        "zipcode": "62882-390"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Santa Beatriz",
+        "zipcode": "62882-385"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Santo Inácio",
+        "zipcode": "62882-375"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Santa Madalena",
+        "zipcode": "62882-370"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua São Pedro",
+        "zipcode": "62882-365"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Santa Tereza DÁvila",
+        "zipcode": "62882-360"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua São João Bosco",
+        "zipcode": "62882-355"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 7 (Lot V Jd Horizonte)",
+        "zipcode": "62882-230"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua José Teófilo da Silva",
+        "zipcode": "62882-502"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Moreira da Silva",
+        "zipcode": "62882-450"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Maria Martins Soares",
+        "zipcode": "62882-210"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Seis de Março",
+        "zipcode": "62882-205"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Antônio Rodrigues Pitombeira Filho",
+        "zipcode": "62882-200"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua José Lino da Silveira",
+        "zipcode": "62882-195"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua São Padre Pio",
+        "zipcode": "62882-185"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua João Galdino",
+        "zipcode": "62882-180"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua José Sabino Filho",
+        "zipcode": "62882-175"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Francisca Cecília de Sousa",
+        "zipcode": "62882-170"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Francisco Carlos Marques",
+        "zipcode": "62882-155"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 9 (Lot V Jd Horizonte)",
+        "zipcode": "62882-220"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 5 (Lot V Jd Horizonte)",
+        "zipcode": "62882-240"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 8 (Lot V Jd Horizonte)",
+        "zipcode": "62882-225"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 3 (Lot V Jd Horizonte)",
+        "zipcode": "62882-250"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Francisca Miguel da Conceição",
+        "zipcode": "62882-150"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Maria Júlia da Silva",
+        "zipcode": "62882-145"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Raimundo Alves da Silva",
+        "zipcode": "62882-140"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Manuel Rodrigues dos Santos",
+        "zipcode": "62882-130"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Luiz Ferreira de Sousa",
+        "zipcode": "62882-125"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Antônio Miguel de Freitas",
+        "zipcode": "62882-120"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Coronel Gadelha",
+        "zipcode": "62882-115"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Raimundo Deusdedite Xavier",
+        "zipcode": "62882-110"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Inês Eduardo de Lima",
+        "zipcode": "62882-100"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Travessa Domingão",
+        "zipcode": "62882-095"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Manoel Feliciano de Sousa",
+        "zipcode": "62882-090"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Valdomiro de Queiroz",
+        "zipcode": "62882-085"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Maria Estela Almeida Araújo",
+        "zipcode": "62882-075"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Manoel Conrado de Sousa",
+        "zipcode": "62882-070"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Rosália Alves de Sousa",
+        "zipcode": "62882-065"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 1 (Lot V Jd Horizonte)",
+        "zipcode": "62882-265"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua 4 (Lot V Jd Horizonte)",
+        "zipcode": "62882-235"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Antônio Josely Belchior",
+        "zipcode": "62882-050"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua José Rufino de Almeida",
+        "zipcode": "62882-045"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Luiza Romana da Conceição",
+        "zipcode": "62882-040"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Vereador Elias Eduardo",
+        "zipcode": "62882-035"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua José Eduardo de Sousa",
+        "zipcode": "62882-030"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Luiz Porfírio de Lima",
+        "zipcode": "62882-025"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Maria Luiza Noronha",
+        "zipcode": "62882-020"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua João Gomes da Silva",
+        "zipcode": "62882-015"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Israel Corrêia Lima",
+        "zipcode": "62882-005"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Maria do Carmo de Sousa",
+        "zipcode": "62881-435"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua José Agostinho de Oliveira",
+        "zipcode": "62881-430"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Joilton Vieira Assunção",
+        "zipcode": "62881-425"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Baturité",
+        "zipcode": "62881-415"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Celso Silva Assunção",
+        "zipcode": "62881-410"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62881-315"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Maria Muniz Filha",
+        "zipcode": "62881-310"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua José Múcio Ferreira Assunção",
+        "zipcode": "62881-305"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Francisco Pereira de Assunção",
+        "zipcode": "62881-205"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Simião Corrêia Lima",
+        "zipcode": "62881-200"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Araci Melo de Sousa",
+        "zipcode": "62881-195"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Avenida Manoel Severo da Silva",
+        "zipcode": "62881-190"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Manoel Antônio de Sousa",
+        "zipcode": "62881-185"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua João Mariano Lopes",
+        "zipcode": "62881-180"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Francisco Firmino de Sousa",
+        "zipcode": "62881-160"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Joaquim Antônio de Sousa",
+        "zipcode": "62881-170"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua José Lira Soares",
+        "zipcode": "62882-080"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua João Antônio de Sousa",
+        "zipcode": "62881-055"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Avenida General Dutra",
+        "zipcode": "62881-050"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Avenida General Dutra",
+        "zipcode": "62880-880"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62880-875"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Primeiro de Maio",
+        "zipcode": "62880-870"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Valdenir Nunes Ferreira",
+        "zipcode": "62880-865"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Alessandro Nunes Ferreira",
+        "zipcode": "62880-855"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Avenida Vinte e Cinco de Dezembro",
+        "zipcode": "62880-850"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Alaís Jardim de Oliveira",
+        "zipcode": "62880-845"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Luiza Amorim do Nascimento",
+        "zipcode": "62880-840"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Primeiro de Janeiro",
+        "zipcode": "62880-835"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Raimundo Domingos da Silva",
+        "zipcode": "62880-825"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Doze de Outubro",
+        "zipcode": "62880-820"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Isidório Castro da Silva",
+        "zipcode": "62880-815"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Raimundo Ananias Rosa",
+        "zipcode": "62880-810"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Raimunda Alves de Almeida",
+        "zipcode": "62880-800"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua José Araújo da Silva",
+        "zipcode": "62880-795"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Francisco Araújo de Souza",
+        "zipcode": "62880-790"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Maria Roseno da Silva",
+        "zipcode": "62880-785"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua José Domingos da Silva",
+        "zipcode": "62880-780"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Francisca Rosa da Silva",
+        "zipcode": "62880-775"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Manoel Domingos da Silva",
+        "zipcode": "62880-760"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Leocássio Pereira da Silva",
+        "zipcode": "62880-755"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Maria Juvenal de Castro",
+        "zipcode": "62880-750"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Justina Alves de Almeida",
+        "zipcode": "62880-740"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua João Domingos da Silva",
+        "zipcode": "62880-735"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Luiz Gonzaga da Silva",
+        "zipcode": "62880-725"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Pio Rodrigues",
+        "zipcode": "62880-720"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Avenida José Euclides Ferreira Gomes Junior",
+        "zipcode": "62880-670"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Mavel",
+        "zipcode": "62880-665"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua João Honorato da Silva",
+        "zipcode": "62880-660"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Maria Silvia de Almeida",
+        "zipcode": "62880-655"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Tereza Francisca de Sousa",
+        "zipcode": "62880-645"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Baturité",
+        "zipcode": "62880-635"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Maria Natalina Rodrigues Lima",
+        "zipcode": "62880-630"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Maria Pedro de Sousa",
+        "zipcode": "62880-625"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Avenida Rafael Santos",
+        "zipcode": "62880-620"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Maria Silvia de Almeida",
+        "zipcode": "62880-614"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Avenida Rafael Santos",
+        "zipcode": "62880-610"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Tereza Francisca de Sousa",
+        "zipcode": "62880-606"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Vereador Francisco de Assis Conrado",
+        "zipcode": "62880-594"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Francisco Cardoso da Silva",
+        "zipcode": "62880-590"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Gilberto Pereira da Silva",
+        "zipcode": "62880-582"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua José Pereira da Silva",
+        "zipcode": "62880-574"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Lourival Silvestre da Silva",
+        "zipcode": "62880-570"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Raimundo Barbosa Lima",
+        "zipcode": "62880-598"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua B",
+        "zipcode": "62880-578"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Messias Pereira da Silva",
+        "zipcode": "62880-330"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Vital Pereira da Silva",
+        "zipcode": "62880-542"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Venâncio Raimundo de Sousa",
+        "zipcode": "62880-538"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Avenida Manoel Luiz",
+        "zipcode": "62880-534"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Travessa Maria de Lourdes",
+        "zipcode": "62880-530"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua João Batista de Souza",
+        "zipcode": "62880-526"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Travessa Mário Pereira",
+        "zipcode": "62880-522"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Maria de Lourdes da Silva",
+        "zipcode": "62880-518"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Manoel de Castro e Silva",
+        "zipcode": "62880-514"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Ana Conrado de Sousa",
+        "zipcode": "62880-510"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Travessa São Francisco",
+        "zipcode": "62880-506"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua São Francisco",
+        "zipcode": "62880-502"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua José Firmo da Silva",
+        "zipcode": "62880-494"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Alexandre Joca",
+        "zipcode": "62880-490"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Luiza Honorato Silvestre",
+        "zipcode": "62880-486"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Honorato Silvestre da Silva",
+        "zipcode": "62880-482"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua José Cardoso da Silva",
+        "zipcode": "62880-478"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Maria Silvestre da Silva",
+        "zipcode": "62880-474"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua José Gomes dos Reis",
+        "zipcode": "62880-470"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua João Martins",
+        "zipcode": "62880-462"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Maria de Lourdes Batista do Nascimento",
+        "zipcode": "62880-458"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Marcilene Maria da Costa da Silva",
+        "zipcode": "62880-454"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Raimundo Cardoso da Silva",
+        "zipcode": "62880-450"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Vinte e Dois de Agosto",
+        "zipcode": "62880-442"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua José Inácio do Nascimento",
+        "zipcode": "62880-562"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Luiz Joaquim Melo",
+        "zipcode": "62880-554"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Avenida José Euclides Ferreira Gomes Junior",
+        "zipcode": "62880-434"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Manoel Conrado de Sousa",
+        "zipcode": "62880-430"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Manoel Conrado de Sousa",
+        "zipcode": "62880-423"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Alexandre Joca",
+        "zipcode": "62880-417"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José do Vale",
+        "zipcode": "62880-414"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida José Euclides Ferreira Gomes Junior",
+        "zipcode": "62880-411"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Ana Conrado de Sousa",
+        "zipcode": "62880-405"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria de Lourdes da Silva",
+        "zipcode": "62880-399"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua João Batista de Souza",
+        "zipcode": "62880-396"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Manoel Luiz",
+        "zipcode": "62880-393"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Maria Alves da Silva",
+        "zipcode": "62880-390"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Alves da Silva",
+        "zipcode": "62880-387"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62880-384"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62880-381"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Venâncio Raimundo de Sousa",
+        "zipcode": "62880-378"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Salomão Alves de Almeida",
+        "zipcode": "62880-375"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Vital Pereira da Silva",
+        "zipcode": "62880-372"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua César Alves de Almeida",
+        "zipcode": "62880-369"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Beco do Chafariz",
+        "zipcode": "62880-366"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Valdevino Maciel de Oliveira",
+        "zipcode": "62880-360"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Honorato Silvestre da Silva",
+        "zipcode": "62880-408"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Pio Rodrigues",
+        "zipcode": "62880-339"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62880-333"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Manuel Deodoro da Fonseca",
+        "zipcode": "62880-327"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimundo de Sousa Lima",
+        "zipcode": "62880-315"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Matos de Sousa",
+        "zipcode": "62880-312"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Diassis de Sousa",
+        "zipcode": "62880-309"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimundo Lourenço da Costa",
+        "zipcode": "62880-306"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Paulo de Matos Pereira",
+        "zipcode": "62880-303"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Imaculada da Conceição",
+        "zipcode": "62880-300"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Helena da Silva Vasconcelos",
+        "zipcode": "62880-282"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua João Doca da Silva",
+        "zipcode": "62880-276"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Peixoto Lins",
+        "zipcode": "62880-273"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Tomaz Filho",
+        "zipcode": "62880-267"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimunda Amélia Maia",
+        "zipcode": "62880-264"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua João Eufrásio",
+        "zipcode": "62880-258"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Enir Santos",
+        "zipcode": "62880-255"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Rafael Santos",
+        "zipcode": "62880-249"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Luciano Carneiro",
+        "zipcode": "62880-246"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Mafisa de Matos Pereira",
+        "zipcode": "62880-243"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisca Damasceno da Costa",
+        "zipcode": "62880-240"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Zacarias Marcelino de Abreu",
+        "zipcode": "62880-234"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Lourival de Souza",
+        "zipcode": "62880-231"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Castro de Oliveira",
+        "zipcode": "62880-228"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimundo Araújo Lacerda",
+        "zipcode": "62880-222"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Ana Kácia Queiroz de Sousa",
+        "zipcode": "62880-216"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Professora Maria Regiana",
+        "zipcode": "62880-207"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Luís Raimundo de Sousa",
+        "zipcode": "62880-204"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Palmeiras",
+        "zipcode": "62880-201"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco da Costa Filho",
+        "zipcode": "62880-198"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Luiz Caetano de Sousa",
+        "zipcode": "62880-195"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Alzira Madalena de Sousa",
+        "zipcode": "62880-192"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Cabo Eduardo",
+        "zipcode": "62880-189"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Pedro de Sousa",
+        "zipcode": "62880-186"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Luiza Maria Lima da Silva",
+        "zipcode": "62880-013"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Travessa Raimundo Alves da Silva",
+        "zipcode": "62880-028"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62880-031"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Nogueira Lopes de Azevedo",
+        "zipcode": "62880-066"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Hélio Nogueira Lopes",
+        "zipcode": "62880-069"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Moreira de Lima",
+        "zipcode": "62880-072"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Francisco Eudes Ximenes",
+        "zipcode": "62880-078"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Ciro Bilhar",
+        "zipcode": "62880-081"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua João Pereira do Nascimento",
+        "zipcode": "62880-087"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Girlene Nogueira Lopes",
+        "zipcode": "62880-010"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Laurisa Vieira de Lima",
+        "zipcode": "62880-004"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Leonardo Nogueira Martins",
+        "zipcode": "62880-219"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Francisco Tavares de Oliveira",
+        "zipcode": "62880-007"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Pereira de Lima",
+        "zipcode": "62880-090"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Manuel Padre da Silva",
+        "zipcode": "62880-102"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria dos Anjos da Silva",
+        "zipcode": "62880-105"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Sobrinho Corrêia",
+        "zipcode": "62880-108"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisca da Mata Pereira",
+        "zipcode": "62880-114"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Ana Pereira de Lima",
+        "zipcode": "62880-117"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Antônio Agostinho da Silva",
+        "zipcode": "62880-126"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua São Raimundo",
+        "zipcode": "62880-129"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Jair Pereira Mendes",
+        "zipcode": "62880-133"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Conrado de Lima",
+        "zipcode": "62880-135"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Ciro Bilhar",
+        "zipcode": "62880-141"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Raimundo de Sousa",
+        "zipcode": "62880-144"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Nazaré Domingos",
+        "zipcode": "62880-159"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Raimundo da Costa",
+        "zipcode": "62880-177"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimunda do Nascimento",
+        "zipcode": "62880-093"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimundo Rodrigues de Sousa",
+        "zipcode": "62880-156"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Erodite Queiroz da Costa",
+        "zipcode": "62880-165"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Joaquim Domingos Neto",
+        "zipcode": "62880-168"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Cabo Eduardo",
+        "zipcode": "62880-174"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Zacarias da Mata Pereira",
+        "zipcode": "62880-099"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Celso Marcos da Silva",
+        "zipcode": "62880-147"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Marculino da Silva",
+        "zipcode": "62880-022"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua C",
+        "zipcode": "62882-622"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Manoel Nunes",
+        "zipcode": "62880-016"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Alexandre Ferreira",
+        "zipcode": "62880-019"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimundo Alves da Silva",
+        "zipcode": "62880-025"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62880-060"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Pereira de Azevedo",
+        "zipcode": "62880-075"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisco Xavier de Freitas",
+        "zipcode": "62880-084"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Maria Raquel da Conceição",
+        "zipcode": "62880-096"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua João Pessoa Gomes",
+        "zipcode": "62880-111"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua João da Mata",
+        "zipcode": "62880-120"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José da Mata Pereira",
+        "zipcode": "62880-123"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimundo Nogueira Lopes",
+        "zipcode": "62880-132"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Antônia Ferreira de Lima",
+        "zipcode": "62880-138"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Altina Maria de Jesus",
+        "zipcode": "62880-150"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Descanso do Guerreiro",
+        "zipcode": "62884-765"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Avenida Juarez Correia Lima",
+        "zipcode": "62884-795"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Eurico Gaspar Dutra",
+        "zipcode": "62884-840"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua João Cândido Filisberto",
+        "zipcode": "62884-865"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Maria Joana da Conceição",
+        "zipcode": "62884-745"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua São Padre Pio",
+        "zipcode": "62884-885"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Manoel Feliciano da Silva",
+        "zipcode": "62885-005"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Milton Figueiredo",
+        "zipcode": "62885-095"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62885-000"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Pacatuba",
+        "zipcode": "62882-060"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Ana Nogueira Lopes",
+        "zipcode": "62880-063"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Juvenal de Castro",
+        "zipcode": "62880-162"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Natalício Alves de Lima",
+        "zipcode": "62880-180"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua José Raimundo Pereira",
+        "zipcode": "62884-860"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Antônio Evaristo Barbosa",
+        "zipcode": "62885-190"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Conde DEu",
+        "zipcode": "62885-250"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Chico Poró",
+        "zipcode": "62885-350"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Joana Conrado da Silva",
+        "zipcode": "62886-505"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Manoel Luiz",
+        "zipcode": "62886-510"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua João Sena da Silva",
+        "zipcode": "62886-590"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua José Domingues de Moura",
+        "zipcode": "62886-605"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Francisco Sena da Silva",
+        "zipcode": "62886-620"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Manuel Eufrásio de Oliveira",
+        "zipcode": "62886-635"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Jorge da Mata Pereira",
+        "zipcode": "62886-665"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Avenida José Genésio Palhano",
+        "zipcode": "62886-785"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Antônio Vicente Mendes Maciel",
+        "zipcode": "62886-795"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Francisca Ramalho da Silva",
+        "zipcode": "62885-120"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Maria Diogo da Silva",
+        "zipcode": "62885-150"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Izaú Vieira de Freitas",
+        "zipcode": "62885-175"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Marquês de Herval",
+        "zipcode": "62885-255"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Jacó Bento da Silva",
+        "zipcode": "62885-285"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua José Augusto de Lima",
+        "zipcode": "62885-290"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua José Raimundo Pereira",
+        "zipcode": "62885-340"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua São Benedito",
+        "zipcode": "62885-365"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Rafael Santos",
+        "zipcode": "62886-570"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Barão de Ladari",
+        "zipcode": "62885-230"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Joaquim Dias de Carvalho",
+        "zipcode": "62885-320"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Manassés Gadelha Pires",
+        "zipcode": "62880-171"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Antônio Ramalho da Silva",
+        "zipcode": "62885-110"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Antônio Gonçalves da Silva",
+        "zipcode": "62886-805"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Tenente Sebastião Soares Freitas",
+        "zipcode": "62884-815"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Leonília Gomes de Freitas",
+        "zipcode": "62885-135"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Raimunda Alves da Silva",
+        "zipcode": "62885-165"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Paulo Bento da Silva",
+        "zipcode": "62885-260"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Maria Izabel Rodrigues de Oliveira",
+        "zipcode": "62886-640"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Rita Felipe da Silva",
+        "zipcode": "62883-105"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Hermínio Barroso",
+        "zipcode": "62886-775"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Lindalva Mota de Queiroz",
+        "zipcode": "62886-815"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Maria da Mata Pereira",
+        "zipcode": "62886-835"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Maria do Carmo Menezes",
+        "zipcode": "62887-495"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Lauro Leite de Sousa",
+        "zipcode": "62880-183"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Francisco Rocha",
+        "zipcode": "62880-446"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Maria Rufino da Conceição",
+        "zipcode": "62887-575"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Jorge Brasilino da Silva",
+        "zipcode": "62887-545"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Marilene Severo da Silva",
+        "zipcode": "62887-480"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Francisco Batista de Lima",
+        "zipcode": "62887-455"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua João Severo da Silva",
+        "zipcode": "62887-435"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Francisco Severo da Silva",
+        "zipcode": "62887-425"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Francisco Gomes da Silva",
+        "zipcode": "62887-385"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catolé",
+        "street": "Rua Luiz Domingos de Souza",
+        "zipcode": "62887-310"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua José Linhares",
+        "zipcode": "62887-260"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Virgulino Ferreira da Silva",
+        "zipcode": "62887-235"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua João Baptista de Oliveira Figueiredo",
+        "zipcode": "62887-195"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua José Bento Monteiro Lobato",
+        "zipcode": "62887-160"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Três Marias",
+        "zipcode": "62886-880"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Maria do Socorro de Almeida",
+        "zipcode": "62886-490"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Dona Carmelina",
+        "zipcode": "62886-480"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Hélio Bezerra Lopes",
+        "zipcode": "62886-455"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimundo Florêncio Batista",
+        "zipcode": "62886-420"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Francisca Chagas do Carmo",
+        "zipcode": "62886-385"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Mariínha Amora Sales do Carmo",
+        "zipcode": "62886-355"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua João de Matos Pereira",
+        "zipcode": "62886-175"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Neuza de Matos Braga",
+        "zipcode": "62886-150"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua João Batista da Silva",
+        "zipcode": "62886-115"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua José Inácio dos Santos",
+        "zipcode": "62886-090"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua João Davi Alves Freitas",
+        "zipcode": "62886-070"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Buenos Aires",
+        "street": "Rua Raimunda Maria da Conceição",
+        "zipcode": "62886-045"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Raimunda Maria da Conceição",
+        "zipcode": "62885-675"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua José Rafael Santos",
+        "zipcode": "62885-640"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Francisco Geraldo dos Reis",
+        "zipcode": "62885-615"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Gameleira",
+        "street": "Rua Francisca Rodrigues Gurgel",
+        "zipcode": "62885-585"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Manuel Patrício da Silva",
+        "zipcode": "62884-740"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Antônio Firmino da Costa",
+        "zipcode": "62884-710"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Francisco Paulino de Sousa",
+        "zipcode": "62884-645"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Paulino Neto de Sousa",
+        "zipcode": "62884-615"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Henrique Teixeira",
+        "zipcode": "62884-580"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua Genésia Roberta das Chagas Silva",
+        "zipcode": "62884-325"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "São José",
+        "street": "Rua Manoel Conrado de Sousa",
+        "zipcode": "62884-285"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Maria Josefa do Nascimento",
+        "zipcode": "62884-235"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisco Nacílio Moreira da Silva",
+        "zipcode": "62884-210"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisco Werlen Silveira do Amaral",
+        "zipcode": "62884-160"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Álvaro Nóbrega",
+        "zipcode": "62884-115"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Francisco Rodrigues da Silva",
+        "zipcode": "62884-085"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Avenida Lia de Oliveira Corrêia",
+        "zipcode": "62884-055"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Planalto Horizonte",
+        "street": "Rua Raimundo Alves da Silva",
+        "zipcode": "62884-030"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Clarice Silvestre da Silva",
+        "zipcode": "62883-655"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Rua Raimundo Pereira de Lima",
+        "zipcode": "62883-640"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cachoeira",
+        "street": "Avenida Horácio Rufino de Almeida",
+        "zipcode": "62883-605"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua São José",
+        "zipcode": "62883-420"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Antônio Pereira de Assunção",
+        "zipcode": "62883-390"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua José Moreira Gomes",
+        "zipcode": "62883-360"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Luiz Pereira de Lima",
+        "zipcode": "62883-335"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Rua Maria Leda Bezerra da Costa",
+        "zipcode": "62883-300"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Jenipapeiro",
+        "street": "Avenida Horácio Rufino de Almeida",
+        "zipcode": "62883-280"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Conquita Mesquita Marinho",
+        "zipcode": "62883-190"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Raimunda Leocádia de Oliveira",
+        "zipcode": "62883-145"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Moisés Ferreira da Silva",
+        "zipcode": "62883-125"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Olho DÁgua",
+        "street": "Rua Luiz Anselmo de Oliveira",
+        "zipcode": "62883-120"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Avenida Miguel Skeff",
+        "zipcode": "62883-010"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Jeová Campêlo Bessa",
+        "zipcode": "62882-870"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Cícero Brindero",
+        "zipcode": "62882-835"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Joaquim Maria Machado de Assis",
+        "zipcode": "62882-780"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Vertente",
+        "street": "Rua Manoel Conrado de Sousa",
+        "zipcode": "62882-740"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Neuza Sena de Jesus Abreu",
+        "zipcode": "62882-670"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Avenida Miguel Skeff",
+        "zipcode": "62882-646"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Travessa Maria Thamyres Fernandes de Aquino",
+        "zipcode": "62882-590"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua José Alci Pinheiro Mendes",
+        "zipcode": "62882-578"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Professora Maria Ozélia Costa Oliveira",
+        "zipcode": "62882-566"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Francisco Clenilson dos Santos",
+        "zipcode": "62882-526"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Maria de Fátima da Silva",
+        "zipcode": "62882-506"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua Almir Reis da Luz",
+        "zipcode": "62882-466"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Diadema",
+        "street": "Rua José Inácio de Sousa",
+        "zipcode": "62882-438"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua C (Cj Hab M Janjão)",
+        "zipcode": "62882-405"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Santa Bernadete",
+        "zipcode": "62882-380"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua São Bento",
+        "zipcode": "62882-350"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua W (Lot V Jd Horizonte)",
+        "zipcode": "62882-215"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua José Francisco de Sousa",
+        "zipcode": "62882-190"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Isabel Rosa da Silva",
+        "zipcode": "62880-770"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Luiz Inácio de Sousa",
+        "zipcode": "62882-105"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua Cândido Soares de Sousa",
+        "zipcode": "62882-055"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Avenida José Lopes da Silva",
+        "zipcode": "62882-010"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Hermes Silva Assunção",
+        "zipcode": "62881-300"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Maria Izabel da Conceição",
+        "zipcode": "62881-175"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Avenida Costa Lima",
+        "zipcode": "62881-060"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Luiz Emanuel da Silva Lima",
+        "zipcode": "62880-860"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Oito de Março",
+        "zipcode": "62880-830"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Professora Maria Paula",
+        "zipcode": "62880-805"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Rua Liberato Justino Ferreira",
+        "zipcode": "62880-765"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Avenida João Domingos de Sousa",
+        "zipcode": "62880-730"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mal Cozinhado",
+        "street": "Avenida Orisvaldo Salviano",
+        "zipcode": "62880-640"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Baturité",
+        "zipcode": "62880-602"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Antônio Cesário",
+        "zipcode": "62880-546"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Mavel",
+        "zipcode": "62880-498"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Luiz Gadelha",
+        "zipcode": "62880-466"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Mangueiral",
+        "street": "Rua Otacílio Viana de Lima",
+        "zipcode": "62880-438"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Manoel de Castro e Silva",
+        "zipcode": "62880-402"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Rafael Santos",
+        "zipcode": "62880-363"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Orisvaldo Salviano",
+        "zipcode": "62880-342"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62880-336"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Martins de Oliveira",
+        "zipcode": "62880-279"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimunda de Oliveira",
+        "zipcode": "62880-261"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Francisca Rodrigues da Silva",
+        "zipcode": "62880-237"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Manoel Luiz",
+        "zipcode": "62880-210"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Baturité",
+        "zipcode": "62880-001"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Diogo Feijó",
+        "zipcode": "62884-700"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Zumbi",
+        "street": "Rua D",
+        "zipcode": "62882-400"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua Eufrásio Filho",
+        "zipcode": "62886-600"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Rua Brígida Maria da Conceição",
+        "zipcode": "62884-755"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Distrito Industrial",
+        "street": "Avenida Presidente Castelo Branco",
+        "zipcode": "62884-790"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Alto da Estrela",
+        "street": "Rua Argentina Almeida da Costa",
+        "zipcode": "62885-090"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua João Filho",
+        "zipcode": "62886-615"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Lagoinha",
+        "street": "Rua José Quintino da Cunha",
+        "zipcode": "62886-790"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Cajueiro da Malhada",
+        "street": "Rua Manoel Feliciano da Silva",
+        "zipcode": "62885-225"
+    },
+    {
+        "city": "Horizonte",
+        "state": "CE",
+        "district": "Catu",
+        "street": "Rua Nair Pereira da Silva",
+        "zipcode": "62881-420"
+    }
+]

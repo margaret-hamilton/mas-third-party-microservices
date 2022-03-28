@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Santiago",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Independência",
+        "zipcode": "97700-971"
+    },
+    {
+        "city": "Santiago",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas",
+        "zipcode": "97700-970"
+    },
+    {
+        "city": "Santiago",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "97700-000"
+    }
+]

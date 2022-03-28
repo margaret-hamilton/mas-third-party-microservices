@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Jequeri",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Martins de Lima",
+        "zipcode": "35395-971"
+    },
+    {
+        "city": "Jequeri",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35390-000"
+    },
+    {
+        "city": "Jequeri",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Tenente Mol 17",
+        "zipcode": "35390-970"
+    },
+    {
+        "city": "Jequeri",
+        "state": "MG",
+        "district": "Pouso Alegre da Mata",
+        "street": "Rua Principal s/n",
+        "zipcode": "35390-971"
+    }
+]

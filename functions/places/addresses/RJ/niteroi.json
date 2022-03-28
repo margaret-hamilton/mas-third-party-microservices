@@ -1,0 +1,373 @@
+[
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Alameda Flamboyants",
+        "zipcode": "24355-320"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Cubango",
+        "street": "Travessa Petronilha Miranda",
+        "zipcode": "24140-165"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Fonseca",
+        "street": "Travessa M Dos Santos",
+        "zipcode": "24120-097"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Caramujo",
+        "street": "Estrada Do Caramujo",
+        "zipcode": "24140-340"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Mata Paca",
+        "street": "Rua Walter Neves",
+        "zipcode": "24320-560"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Rua Mario Dutra",
+        "zipcode": "24342-120"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Piratininga",
+        "street": "Rua Graca",
+        "zipcode": "24358-010"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Icarai",
+        "street": "Rua Sao Joao",
+        "zipcode": "24020-044"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Maralegre",
+        "street": "Rua Rubens Falcao",
+        "zipcode": "24350-635"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Rua Dr Carlos Guida Risso",
+        "zipcode": "24340-120"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Sao Joao",
+        "zipcode": "24020-043"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Sao Pedro",
+        "zipcode": "24020-051"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Sao Pedro",
+        "zipcode": "24020-052"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Gomes Machado",
+        "zipcode": "24020-062"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Gomes Machado",
+        "zipcode": "24020-063"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Jose Clemente",
+        "zipcode": "24020-100"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Jose Clemente",
+        "zipcode": "24020-101"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida Feliciano Sodre",
+        "zipcode": "24030-010"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Maestro Felicio Toledo",
+        "zipcode": "24030-100"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Luiz Leopoldo Fernandes Pinheiro",
+        "zipcode": "24030-120"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Luiz Leopoldo Fernandes Pinheiro",
+        "zipcode": "24030-122"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Piratininga",
+        "street": "Rua Delfina De Jesus",
+        "zipcode": "24355-040"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Loteamento Jardim Itaipu",
+        "zipcode": "24344-090"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Pendotiba",
+        "street": "Rua E",
+        "zipcode": "24310-030"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Loteamento Jardim Boa Esperanca",
+        "zipcode": "24355-330"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Sao Lourenco",
+        "street": "Travessa Vereador Americo Vaz",
+        "zipcode": "24006-049"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Jurujuba",
+        "street": "Rua Aldeia Do Forte",
+        "zipcode": "24370-430"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Camboinhas",
+        "street": "Rua Canage Malta",
+        "zipcode": "24358-610"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Visconde Do Uruguai",
+        "zipcode": "24030-071"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Loteamento Maravista",
+        "street": "Rua 53",
+        "zipcode": "24342-350"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Loteamento Mar A Vista",
+        "zipcode": "24342-330"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Barreto",
+        "street": "Rua Petronilha Miranda",
+        "zipcode": "24110-663"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Piratininga",
+        "street": "Avenida Celso Kelly",
+        "zipcode": "24358-380"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Visconde Do Uruguai",
+        "zipcode": "24030-074"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Piratininga",
+        "street": "Rua Dante Laginestra",
+        "zipcode": "24358-030"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Barreto",
+        "street": "Travessa Dr Carlos Horman",
+        "zipcode": "24110-696"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Rua Ignes Peixoto",
+        "zipcode": "24346-070"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Caramujo",
+        "street": "Rua Pastor Jose Gomes",
+        "zipcode": "24140-396"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Maria Paula",
+        "street": "Rua Quatro",
+        "zipcode": "24325-110"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Maestro Felicio Toledo",
+        "zipcode": "24030-102"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Piratininga",
+        "street": "Rua Manuel Bandeira",
+        "zipcode": "24355-360"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Sao Pedro",
+        "zipcode": "24020-050"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Gomes Machado",
+        "zipcode": "24020-060"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Gomes Machado",
+        "zipcode": "24020-061"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Coronel Gomes Machado",
+        "zipcode": "24020-064"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Maestro Felicio Toledo",
+        "zipcode": "24030-101"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Engenhoca",
+        "street": "Travessa Quatorze (Da R Crisanto)",
+        "zipcode": "24110-578"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Visconde Do Rio Branco",
+        "zipcode": "24240-006"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Piratininga",
+        "street": "Rua General Bernardino Do Amaral",
+        "zipcode": "24350-550"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Loteamento Fazenda Soter",
+        "zipcode": "24342-270"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Itaipu",
+        "street": "Loteamento Jardim Fluminense",
+        "zipcode": "24344-080"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Piratininga",
+        "street": "Rua Interlagos",
+        "zipcode": "24350-560"
+    },
+    {
+        "city": "Niteroi",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Visconde Do Uruguai",
+        "zipcode": "24030-070"
+    }
+]

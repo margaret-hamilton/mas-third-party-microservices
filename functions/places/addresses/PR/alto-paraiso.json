@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Alto Paraíso",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Pedro Amaro dos Santos",
+        "zipcode": "87528-971"
+    },
+    {
+        "city": "Alto Paraíso",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87528-000"
+    },
+    {
+        "city": "Alto Paraíso",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Pedro Amaro dos Santos",
+        "zipcode": "87528-990"
+    }
+]

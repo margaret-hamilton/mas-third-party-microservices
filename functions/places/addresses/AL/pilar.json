@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Pilar",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Rua Luiz Ramos 131",
+        "zipcode": "57150-970"
+    },
+    {
+        "city": "Pilar",
+        "state": "AL",
+        "district": null,
+        "street": "Povoado Mangabeiras",
+        "zipcode": "57150-990"
+    },
+    {
+        "city": "Pilar",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57150-000"
+    }
+]

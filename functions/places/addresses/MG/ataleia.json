@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ataléia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Governador Valadares 305",
+        "zipcode": "39850-970"
+    },
+    {
+        "city": "Ataléia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "39850-972"
+    },
+    {
+        "city": "Ataléia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39850-000"
+    }
+]

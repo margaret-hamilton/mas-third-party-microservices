@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Areado (São Gabriel do Oeste)",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79492-000"
+    },
+    {
+        "city": "Areado (São Gabriel do Oeste)",
+        "state": "MS",
+        "district": "Areado",
+        "street": "Rua Henriqueta de Jesus",
+        "zipcode": "79492-970"
+    },
+    {
+        "city": "Areado (São Gabriel do Oeste)",
+        "state": "MS",
+        "district": null,
+        "street": "Rua Henriqueta de Jesus",
+        "zipcode": "79492-990"
+    }
+]

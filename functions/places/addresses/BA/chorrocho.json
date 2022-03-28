@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Chorrochó",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Coronel João Sá s/n",
+        "zipcode": "48660-970"
+    },
+    {
+        "city": "Chorrochó",
+        "state": "BA",
+        "district": "São José do Chorrochó",
+        "street": "Rua Coronel João Sá 153",
+        "zipcode": "48660-971"
+    },
+    {
+        "city": "Chorrochó",
+        "state": "BA",
+        "district": "Várzea da Ema",
+        "street": "Rua da Igreja s/n",
+        "zipcode": "48660-972"
+    },
+    {
+        "city": "Chorrochó",
+        "state": "BA",
+        "district": "Caraibas",
+        "street": "Rua Coronel João Sá s/n",
+        "zipcode": "48660-973"
+    },
+    {
+        "city": "Chorrochó",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48660-000"
+    }
+]

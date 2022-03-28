@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Rio Claro",
+        "state": "RJ",
+        "district": "Fazenda da Grama",
+        "street": "Estrada da Vendinha s/n",
+        "zipcode": "27460-971"
+    },
+    {
+        "city": "Rio Claro",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Avenida João Baptista Portugal 266",
+        "zipcode": "27460-970"
+    },
+    {
+        "city": "Rio Claro",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada da Vendinha",
+        "zipcode": "27460-990"
+    },
+    {
+        "city": "Rio Claro",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Nossa Senhora da Conceição",
+        "zipcode": "27465-990"
+    },
+    {
+        "city": "Rio Claro",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "27460-000"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Grão Mogol",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39570-000"
+    },
+    {
+        "city": "Grão Mogol",
+        "state": "MG",
+        "district": "Vale das Cancelas",
+        "street": "Avenida Montes Claros 111",
+        "zipcode": "39570-971"
+    },
+    {
+        "city": "Grão Mogol",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua do Comércio 38",
+        "zipcode": "39570-970"
+    }
+]

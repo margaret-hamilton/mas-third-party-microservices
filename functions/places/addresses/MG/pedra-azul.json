@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Pedra Azul",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39970-000"
+    },
+    {
+        "city": "Pedra Azul",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Netércio de Almeida 101",
+        "zipcode": "39970-970"
+    }
+]

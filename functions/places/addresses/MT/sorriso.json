@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Sorriso",
+        "state": "MT",
+        "district": "",
+        "street": "",
+        "zipcode": "78890-000"
+    },
+    {
+        "city": "Sorriso",
+        "state": "MT",
+        "district": "Caravaggio",
+        "street": "Rodovia Mt 242",
+        "zipcode": "78890-972"
+    },
+    {
+        "city": "Sorriso",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Avenida Tancredo Neves 543 8º Sala",
+        "zipcode": "78890-971"
+    },
+    {
+        "city": "Sorriso",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Eurico Gaspar Dutra",
+        "zipcode": "78890-970"
+    }
+]

@@ -1,0 +1,5063 @@
+[
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13660-000"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Daniel de Oliveira Carvalho",
+        "zipcode": "13660-971"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Avenida Doutor Adhemar de Barros",
+        "zipcode": "13660-200"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Avenida General Álvaro de Goes Valeriani",
+        "zipcode": "13660-230"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Avenida das Acácias",
+        "zipcode": "13662-072"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Botafogo",
+        "street": "Avenida Cristo Redentor",
+        "zipcode": "13665-080"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Avenida Júlio de Oliveira Dorta",
+        "zipcode": "13661-188"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Avenida Cristo Redentor",
+        "zipcode": "13665-052"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Avenida Engenheiro Nicolau de Vergueiro Forjaz",
+        "zipcode": "13660-072"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Avenida Doutor José Ferreira de Azambuja",
+        "zipcode": "13660-166"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Avenida João Martins da Silveira Sobrinho",
+        "zipcode": "13660-092"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Avenida Angelo Baldassa",
+        "zipcode": "13668-041"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Avenida Lázaro José de Araújo",
+        "zipcode": "13665-056"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Ângelo Ramos",
+        "zipcode": "13660-003"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Área Rural de Porto Ferreira",
+        "street": "Área Rural",
+        "zipcode": "13669-899"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Avenida General Álvaro de Goes Valeriani",
+        "zipcode": "13661-288"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Avenida A",
+        "zipcode": "13661-088"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Avenida Doutor Adhemar de Barros",
+        "zipcode": "13660-310"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Avenida Francisco Peripato",
+        "zipcode": "13664-062"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Bela Vista",
+        "street": "Avenida Júlio de Oliveira Dorta",
+        "zipcode": "13661-232"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro Empresarial Ferreirense",
+        "street": "Avenida Júlio de Oliveira Dorta",
+        "zipcode": "13661-350"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Avenida Júlio de Oliveira Dorta",
+        "zipcode": "13661-110"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Marta",
+        "street": "Avenida João Martins da Silveira Sobrinho",
+        "zipcode": "13660-484"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "João Bento da Fonseca",
+        "street": "Avenida João Bento da Fonseca",
+        "zipcode": "13664-232"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Avenida Jean Gabriel Villin",
+        "zipcode": "13662-074"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recanto Salzano",
+        "street": "Avenida Doutor Adhemar de Barros",
+        "zipcode": "13660-148"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Avenida Comendador Assad Taiar",
+        "zipcode": "13663-106"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Avenida Anézio Tofoli",
+        "zipcode": "13665-150"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Avenida Comendador Assad Taiar",
+        "zipcode": "13663-070"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Aeroporto",
+        "street": "Avenida Leopoldo José da Silva",
+        "zipcode": "13661-364"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Desmembramento Vidroporto",
+        "street": "Avenida Júlio de Oliveira Dorta",
+        "zipcode": "13661-200"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Avenida José Verechia",
+        "zipcode": "13665-152"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque dos Laranjais",
+        "street": "Avenida Benedito Bitencourt de Andrade",
+        "zipcode": "13661-370"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Avenida Antonio Menim",
+        "zipcode": "13667-180"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Avenida Comendador Assad Taiar",
+        "zipcode": "13664-220"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Avenida João Martins da Silveira Sobrinho",
+        "zipcode": "13660-112"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Avenida Alberto Suzigan",
+        "zipcode": "13662-220"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Arcyr Giaretta Barcellos",
+        "zipcode": "13660-007"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Seguro",
+        "street": "Avenida Antonio Justiniano",
+        "zipcode": "13662-140"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Avenida Doutor Adhemar de Barros",
+        "zipcode": "13661-264"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Botafogo",
+        "street": "Avenida José Miziara",
+        "zipcode": "13665-081"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Avenida Doutor José Ferreira de Azambuja",
+        "zipcode": "13660-114"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Avenida Jean Gabriel Villin",
+        "zipcode": "13662-102"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Bela Vista",
+        "street": "Avenida General Álvaro de Goes Valeriani",
+        "zipcode": "13661-242"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Rudolf Street",
+        "zipcode": "13660-001"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Ademir Tofolli",
+        "zipcode": "13662-256"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Alfredo Mantovani",
+        "zipcode": "13664-254"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Abílio Ferreira da Silva",
+        "zipcode": "13664-248"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Adylio Barroso da Silva",
+        "zipcode": "13667-036"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Avenida Nicolau Corteze",
+        "zipcode": "13661-096"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Alfredo Bellini",
+        "zipcode": "13661-126"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Avenida Professor Henrique da Motta Fonseca Júnior",
+        "zipcode": "13660-070"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Avenida Professor Henrique da Motta Fonseca Júnior",
+        "zipcode": "13660-158"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Aeroporto",
+        "street": "Avenida Mariano Procópio",
+        "zipcode": "13661-362"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Avenida Santa Cruz",
+        "zipcode": "13665-054"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Seguro",
+        "street": "Rua Alcyr Américo da Silva",
+        "zipcode": "13662-146"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Adélia Servilha Campos Arruda",
+        "zipcode": "13662-210"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Professor Henrique da Motta Fonseca Júnior",
+        "zipcode": "13660-059"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Alfredo Antonini",
+        "zipcode": "13667-020"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Adrelino Augusto do Amaral",
+        "zipcode": "13661-284"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Estrada Municipal Granja Nossa Senhora Aparecida",
+        "zipcode": "13664-074"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância Cuca Fresca",
+        "street": "Avenida Téia Pereira",
+        "zipcode": "13668-274"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Alfredo Américo da Silva",
+        "zipcode": "13660-194"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Avenida Rudolf Street",
+        "zipcode": "13662-068"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Avenida Nicolau Bruno",
+        "zipcode": "13662-060"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância Cuca Fresca",
+        "street": "Avenida Professor Olívio Sommerhalder",
+        "zipcode": "13668-270"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Avenida Totó Ramos",
+        "zipcode": "13665-050"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Praça Alcides Salzano",
+        "zipcode": "13660-168"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância Porto Alegre",
+        "street": "Avenida Nossa Senhora Aparecida",
+        "zipcode": "13664-570"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Botafogo",
+        "street": "Avenida Rodolfo Carandina",
+        "zipcode": "13665-072"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim das Palmeiras",
+        "street": "Rua Alberto Heidorn",
+        "zipcode": "13667-062"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Albina Morais Peres",
+        "zipcode": "13668-034"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Alfredo Vitorino da Silva",
+        "zipcode": "13661-254"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Maximo Fenilli",
+        "zipcode": "13660-029"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recanto Salzano",
+        "street": "Praça Paschoal Salzano",
+        "zipcode": "13660-147"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro Empresarial Ferreirense",
+        "street": "Avenida Um",
+        "zipcode": "13661-354"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Avenida Vicente Zinni",
+        "zipcode": "13660-196"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Praça Paschoal Salzano",
+        "zipcode": "13660-331"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Botafogo",
+        "street": "Avenida Maria Vila Dozzi Tezza",
+        "zipcode": "13665-082"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Albino Alves",
+        "zipcode": "13660-204"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Avenida Professor Henrique da Motta Fonseca Júnior",
+        "zipcode": "13660-159"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Praça Cornélio Procópio",
+        "zipcode": "13660-015"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Remanescente Chácaras Salgueiro",
+        "street": "Avenida Nicolau Bruno",
+        "zipcode": "13662-050"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Desmembramento Milton Moda",
+        "street": "Rua Adylio Barroso da Silva",
+        "zipcode": "13667-040"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Avenida Marginal Jaime Arnoni",
+        "zipcode": "13662-166"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Praça da Biblia",
+        "zipcode": "13660-317"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Avenida Professor Henrique da Motta Fonseca Júnior",
+        "zipcode": "13660-346"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Avenida Marginal Armindo Gonçalves Torres",
+        "zipcode": "13665-140"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa 2",
+        "street": "Rua Abel Trevisan",
+        "zipcode": "13661-198"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Independência",
+        "street": "Rua Alfredo Calicia",
+        "zipcode": "13664-284"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Avenida Redugelo da Paixão",
+        "zipcode": "13665-058"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Adélia Danci Silvestre",
+        "zipcode": "13668-028"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Ângelo Utinetti",
+        "zipcode": "13664-308"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Ana Maria Mantovani Costa",
+        "zipcode": "13668-001"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Las Palmas",
+        "street": "Rua Antonio Silveira Arruda",
+        "zipcode": "13667-252"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim das Palmeiras",
+        "street": "Rua Antonio Ghidini",
+        "zipcode": "13667-064"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Antonia Borelli Thomaz",
+        "zipcode": "13668-032"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Arlindo Martins",
+        "zipcode": "13665-162"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Antonio da Costa Lamellas",
+        "zipcode": "13667-314"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua Antonio Manoel Martins",
+        "zipcode": "13661-184"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Antonio Benedito Borelli",
+        "zipcode": "13661-084"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Las Palmas",
+        "street": "Rua Antonio Martins Filho",
+        "zipcode": "13667-260"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Rua Ângela Murano Marbasci",
+        "zipcode": "13667-172"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Amélia Alvarez Loureiro",
+        "zipcode": "13668-030"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Antonio Rodrigues Ribaldo",
+        "zipcode": "13661-034"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua Antonio Thomaz Pereira",
+        "zipcode": "13662-176"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Areia Branca",
+        "street": "Rua Arcelyno de Azevedo",
+        "zipcode": "13668-738"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Argemiro Gomes",
+        "zipcode": "13667-192"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Antonio Franzoni",
+        "zipcode": "13664-322"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Antonio Manoel Martins",
+        "zipcode": "13661-112"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância Flávia",
+        "street": "Rua Antonio Mantovani",
+        "zipcode": "13668-260"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua Antonio Lacerda",
+        "zipcode": "13668-588"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Américo Mondin",
+        "zipcode": "13661-046"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim das Palmeiras",
+        "street": "Rua André Ruiz Ferreira da Silva",
+        "zipcode": "13667-060"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Ângela Murano Marbasci",
+        "zipcode": "13665-092"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Antonio Heidorn",
+        "zipcode": "13662-200"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Areia Branca",
+        "street": "Rua Alzira Cheffer",
+        "zipcode": "13668-736"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Antonio Miler",
+        "zipcode": "13667-236"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Rua Antonio Stocco",
+        "zipcode": "13667-184"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Antonio Mendonça Salvador",
+        "zipcode": "13665-120"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Aparecida Dias Fernandes",
+        "zipcode": "13667-242"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Américo Sartori",
+        "zipcode": "13662-204"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Antonio Fabiano Rodrigues",
+        "zipcode": "13660-348"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Antonio Otaviano Ferronato",
+        "zipcode": "13664-224"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua Antonio Comin",
+        "zipcode": "13668-043"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Antonio Loureiro Júnior",
+        "zipcode": "13661-048"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Marta",
+        "street": "Rua Antonio Galhardo",
+        "zipcode": "13660-472"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Antonio Rodrigues Loureiro",
+        "zipcode": "13660-320"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Álvaro Américo da Silva",
+        "zipcode": "13667-214"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua Argemiro Ligabo",
+        "zipcode": "13668-584"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Rosário",
+        "street": "Rua Antonio Franzoni",
+        "zipcode": "13664-272"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Antonio Voltarelli",
+        "zipcode": "13664-246"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua Ana Beozo Baccarin",
+        "zipcode": "13668-040"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Antonio Elias",
+        "zipcode": "13661-218"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua Antonio Faria",
+        "zipcode": "13662-162"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Antonio Seidel",
+        "zipcode": "13664-222"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Antonio Pinto Dias",
+        "zipcode": "13661-278"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Antonio Rodrigues Contreiras",
+        "zipcode": "13662-198"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua Amaro da Costa Matoso",
+        "zipcode": "13664-056"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua Antonio Ferreira da Silva Porto",
+        "zipcode": "13664-066"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Antonio Duz",
+        "zipcode": "13664-240"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Aparecido Teixeira da Silva",
+        "zipcode": "13662-212"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua Comendador Clarindo Moretto",
+        "zipcode": "13668-054"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Caetano Arnoni",
+        "zipcode": "13661-122"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Constantino João",
+        "zipcode": "13660-084"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Arthur Bento da Fonseca",
+        "zipcode": "13660-352"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Casemiro Braga",
+        "zipcode": "13667-028"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Bento José de Carvalho",
+        "zipcode": "13660-182"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Botafogo",
+        "street": "Rua Bortolo Corteze",
+        "zipcode": "13665-076"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Atilio Mutinelli",
+        "zipcode": "13665-128"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto dos Ipês",
+        "street": "Rua Benedito Lima",
+        "zipcode": "13662-126"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Benedito Pinheiro",
+        "zipcode": "13664-314"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Desmembramento Milton Moda",
+        "street": "Rua Casemiro Braga",
+        "zipcode": "13667-044"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Batista Arnoni",
+        "zipcode": "13660-322"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa 2",
+        "street": "Rua Arthur Zuzi",
+        "zipcode": "13661-190"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Coronel Procópio de Carvalho",
+        "zipcode": "13660-074"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Clesio Carlos Costa",
+        "zipcode": "13667-290"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Coronel João Procópio",
+        "zipcode": "13660-170"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vytoria",
+        "street": "Rua Armando Sidney Alves Pinto",
+        "zipcode": "13664-355"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque dos Laranjais",
+        "street": "Rua Arthur Pissinatti",
+        "zipcode": "13661-374"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel João Procópio",
+        "zipcode": "13660-037"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Bernardino Iatauro",
+        "zipcode": "13664-296"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Baptista Covre",
+        "zipcode": "13664-306"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Balbina Mendes de Oliveira",
+        "zipcode": "13661-260"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Carlindo Pedroso de Moraes",
+        "zipcode": "13660-252"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Serra Dágua",
+        "street": "Rua Carlos Alberto Tiziani",
+        "zipcode": "13660-220"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Villaggio San Giorgio",
+        "street": "Rua Caetano Ferrari",
+        "zipcode": "13661-002"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Celeste Longo",
+        "zipcode": "13660-254"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Carlos Fenilli",
+        "zipcode": "13661-042"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância Cuca Fresca",
+        "street": "Rua Carlos Roberto Prado",
+        "zipcode": "13668-276"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Polo Comercial José Salomé",
+        "street": "Rua Clarisse Missiato",
+        "zipcode": "13660-496"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Constantino João",
+        "zipcode": "13660-120"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Benedito Leonel",
+        "zipcode": "13664-302"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Bela Vista",
+        "street": "Rua Augusto Cezar do Nascimento",
+        "zipcode": "13661-240"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Cônego Otaviano Antonio Pavesi",
+        "zipcode": "13667-018"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Celso Miranda Salgueiro",
+        "zipcode": "13661-128"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua Celso Miranda Salgueiro",
+        "zipcode": "13661-174"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Avô Albino Uttineti",
+        "zipcode": "13662-242"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Benedito Pedro da Cruz",
+        "zipcode": "13661-094"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Avelino Ribas do Amaral",
+        "zipcode": "13667-206"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Independência",
+        "street": "Rua Benedito Leonel",
+        "zipcode": "13664-288"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Batista Arnoni",
+        "zipcode": "13661-282"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Comendador Agostinho Prada",
+        "zipcode": "13660-051"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Bento José de Carvalho",
+        "zipcode": "13660-055"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio São Lázaro",
+        "street": "Rua C",
+        "zipcode": "13665-190"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Bruna Clemonesi Ferreira",
+        "zipcode": "13667-288"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Benedito Atab Miziara",
+        "zipcode": "13661-036"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua Claudinor Francisco dos Santos",
+        "zipcode": "13668-582"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Cecilio Nicolau",
+        "zipcode": "13667-200"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Polo Comercial José Salomé",
+        "street": "Rua Beatriz Borelli Zuzi",
+        "zipcode": "13660-492"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Claudionor da Silva Borges",
+        "zipcode": "13664-312"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Doutor Hermidio Salzano",
+        "zipcode": "13661-252"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Dezenove de Outubro",
+        "zipcode": "13660-080"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Daniel Pereira",
+        "zipcode": "13664-247"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua Ernesto Botigelli",
+        "zipcode": "13668-052"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Villaggio San Giorgio",
+        "street": "Rua Evaristo Pereira",
+        "zipcode": "13661-006"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua David Zadra",
+        "zipcode": "13660-184"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa 2",
+        "street": "Rua do Café",
+        "zipcode": "13661-195"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Elvira Scarazzatti Mondin",
+        "zipcode": "13668-006"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Rua Doutor Décio Vieira Palma",
+        "zipcode": "13662-114"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua Doutor Antonio Teixeira",
+        "zipcode": "13664-084"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Dezenove de Outubro",
+        "zipcode": "13660-154"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Djalma Onofre Prado",
+        "zipcode": "13662-206"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Dorival Gomes",
+        "zipcode": "13662-196"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Emílio Malaman",
+        "zipcode": "13660-328"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Delmira Tavares",
+        "zipcode": "13660-238"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Jardim Dalva",
+        "street": "Rua Dois",
+        "zipcode": "13668-600"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Doutor Carlindo Valeriani",
+        "zipcode": "13660-076"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Dezenove",
+        "zipcode": "13661-068"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Domingos Russi",
+        "zipcode": "13667-008"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Diogo Parra",
+        "zipcode": "13664-262"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Ellen Margareth Kaisen",
+        "zipcode": "13661-090"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Domingos Lázaro de Oliveira",
+        "zipcode": "13664-243"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Doutor Erlindo Salzano",
+        "zipcode": "13660-124"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Doutor Hermidio Salzano",
+        "zipcode": "13661-272"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Eduarda Leite de Barros",
+        "zipcode": "13664-249"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Dona Rosa Minato Moraes",
+        "zipcode": "13662-190"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Edson Moda",
+        "zipcode": "13667-276"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Dona Balbina",
+        "zipcode": "13660-172"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Escolástica Ribas do Amaral",
+        "zipcode": "13668-008"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Marta",
+        "street": "Rua Damião Arnoni",
+        "zipcode": "13660-476"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua Elias José de Araujo",
+        "zipcode": "13662-084"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Chácaras Aeroporto",
+        "street": "Rua Doutor Hermidio Salzano",
+        "zipcode": "13661-290"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Daniel de Oliveira Carvalho",
+        "zipcode": "13660-110"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Domingos Bruno",
+        "zipcode": "13660-004"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto dos Ipês",
+        "street": "Rua Fausto Antonio Malaman",
+        "zipcode": "13662-122"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Doutor Erlindo Salzano",
+        "zipcode": "13660-152"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Djanira Moraes Costa",
+        "zipcode": "13664-251"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recanto Salzano",
+        "street": "Rua Doutor José de Paula Castro",
+        "zipcode": "13660-140"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Dona Luiza Pinto",
+        "zipcode": "13660-242"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Elza Falco Paschoanelli",
+        "zipcode": "13664-241"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Botafogo",
+        "street": "Rua David Greve",
+        "zipcode": "13665-074"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Carlindo Valeriani",
+        "zipcode": "13660-017"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Ettore Fioravante Marquezelli",
+        "zipcode": "13667-278"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Elvio Provinciatti",
+        "zipcode": "13660-256"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Polo Comercial José Salomé",
+        "street": "Rua Doutor Tharsis Ramos",
+        "zipcode": "13660-494"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Dimas Loureiro",
+        "zipcode": "13667-202"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua Ernesta Maria Russi Borelli",
+        "zipcode": "13668-042"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua Doutor Antonio Teixeira",
+        "zipcode": "13664-058"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Indalécio Rezende",
+        "zipcode": "13660-132"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Gand Seccafe",
+        "zipcode": "13667-244"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francisco Prado",
+        "zipcode": "13660-019"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Georgino Dias da Silva",
+        "zipcode": "13660-324"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Rua Francisco Duarte",
+        "zipcode": "13667-186"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Francisco Prado",
+        "zipcode": "13660-094"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Frederico Puls",
+        "zipcode": "13661-040"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Seguro",
+        "street": "Rua Horácio José",
+        "zipcode": "13662-142"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua Hans Beran",
+        "zipcode": "13661-170"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Haroldo Russi Borelli Filho",
+        "zipcode": "13667-196"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Giovana Fuschini Iatauro",
+        "zipcode": "13668-004"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Fernando Rodrigues",
+        "zipcode": "13660-342"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Francisco Duarte",
+        "zipcode": "13665-102"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Indalécio Rezende",
+        "zipcode": "13660-078"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Geraldo Cozar",
+        "zipcode": "13665-172"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Condomínio Vila das Flores",
+        "street": "Rua Francisco José de Araújo Lima",
+        "zipcode": "13662-090"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Hildebrando Américo da Silva",
+        "zipcode": "13662-226"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Rua Gabriel Ferreira Felippe",
+        "zipcode": "13665-066"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Hugo Carandina",
+        "zipcode": "13665-136"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Fernando Malamam",
+        "zipcode": "13664-320"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Francisco Ignácio de Souza Almeida",
+        "zipcode": "13660-190"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Horminda Mengues Moda",
+        "zipcode": "13667-282"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Fioravante Milanez",
+        "zipcode": "13667-312"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Serra Dágua",
+        "street": "Rua Francisco da Rocha Cupido",
+        "zipcode": "13660-214"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Humberto Ferri",
+        "zipcode": "13667-322"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Bela Vista",
+        "street": "Rua Francisco de Camargo Neves",
+        "zipcode": "13661-236"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Francisco Ignácio de Souza Almeida",
+        "zipcode": "13660-130"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Francisco Denuncci",
+        "zipcode": "13660-236"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Hilário Baptista",
+        "zipcode": "13665-154"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Fernando Passini",
+        "zipcode": "13667-224"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Villaggio San Giorgio",
+        "street": "Rua Genil Maria Rossi Calixto Leal",
+        "zipcode": "13661-000"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Ignácio Pinto Bernardo",
+        "zipcode": "13660-116"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Rua Francisco José de Araújo Lima",
+        "zipcode": "13662-100"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Francisco Gentil",
+        "zipcode": "13661-022"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim das Palmeiras",
+        "street": "Rua Fernando Luis Espírito Santo",
+        "zipcode": "13667-054"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Frederico Puls",
+        "zipcode": "13661-078"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Hermenegildo Mazetto",
+        "zipcode": "13667-292"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Hermenegildo Carrera",
+        "zipcode": "13660-318"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua Francisco Dias de Almeida",
+        "zipcode": "13664-090"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Ignácia Zadra Fonseca",
+        "zipcode": "13668-002"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Indalécio Rezende",
+        "zipcode": "13660-156"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Heráclito Mendonça",
+        "zipcode": "13661-274"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Henrique Rodrigues Ribaldo",
+        "zipcode": "13667-230"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua Francisco Dias de Almeida",
+        "zipcode": "13664-068"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Hans Beran",
+        "zipcode": "13661-114"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Marta",
+        "street": "Rua Francisco Bacarin",
+        "zipcode": "13660-478"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Ignácio de Almeida",
+        "zipcode": "13661-038"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Francisco Prado",
+        "zipcode": "13661-014"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Ignácio Descia",
+        "zipcode": "13665-130"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vytoria",
+        "street": "Rua João Gomes da Silva",
+        "zipcode": "13664-354"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua João Dentello",
+        "zipcode": "13668-044"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Procópio Sobrinho",
+        "zipcode": "13660-033"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua João Batista Filho",
+        "zipcode": "13664-310"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Areia Branca",
+        "street": "Rua João José Attab Miziara",
+        "zipcode": "13668-731"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua João Stefani",
+        "zipcode": "13667-228"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua João Sanaiotte",
+        "zipcode": "13667-296"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua João Salgueiro",
+        "zipcode": "13660-174"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Salgueiro",
+        "zipcode": "13660-043"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua João Zambelli",
+        "zipcode": "13668-050"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua Joaquim Marciliano da Costa",
+        "zipcode": "13661-186"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Independência",
+        "street": "Rua Joaquim Marques Castelhano",
+        "zipcode": "13664-282"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua João Toffoli",
+        "zipcode": "13665-098"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua João Zanatto Machanoquer",
+        "zipcode": "13664-258"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Izaurina Amorin Machado",
+        "zipcode": "13668-024"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Joaquim Miguel Pereira",
+        "zipcode": "13660-240"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua João Biaziolo",
+        "zipcode": "13664-324"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua João Baccarin",
+        "zipcode": "13667-302"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa 2",
+        "street": "Rua João Moreschi",
+        "zipcode": "13661-192"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua Izina Perondi Frattini",
+        "zipcode": "13668-580"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Joaquim Carreira",
+        "zipcode": "13664-253"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância Flávia",
+        "street": "Rua João de Oliveira",
+        "zipcode": "13668-262"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua João Ruy",
+        "zipcode": "13661-210"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Las Palmas",
+        "street": "Rua Izidro Vanin",
+        "zipcode": "13667-258"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua João Pelegrini",
+        "zipcode": "13668-585"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua João Salgueiro Filho",
+        "zipcode": "13661-044"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua João Simão",
+        "zipcode": "13667-006"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua João Luis Roberto Ferreira",
+        "zipcode": "13665-108"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua João Moreschi",
+        "zipcode": "13661-182"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Rua Joaquim de Camargo Neves",
+        "zipcode": "13665-062"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Jacomo Gentil",
+        "zipcode": "13661-030"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua João Bindandi",
+        "zipcode": "13662-240"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua João Dozzi Tezza",
+        "zipcode": "13665-180"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Rua João Pereira Guedes",
+        "zipcode": "13661-276"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua João Fernandes",
+        "zipcode": "13661-116"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua João Strozzi",
+        "zipcode": "13662-222"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua João Fernandes",
+        "zipcode": "13661-212"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Rua João Toffoli",
+        "zipcode": "13667-182"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua João Araújo",
+        "zipcode": "13664-304"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Seguro",
+        "street": "Rua João Gaudêncio Mazzotti",
+        "zipcode": "13662-150"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua Jaci Ferreira da Cunha",
+        "zipcode": "13668-586"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua João Baptista Miotti",
+        "zipcode": "13665-124"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua João Malamam",
+        "zipcode": "13661-262"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua João Mutinelli",
+        "zipcode": "13660-100"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Rua João Colussi",
+        "zipcode": "13662-108"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua João Gonçalves",
+        "zipcode": "13662-164"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua João Bonelli",
+        "zipcode": "13667-220"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Desmembramento Vidroporto",
+        "street": "Rua João Moreschi",
+        "zipcode": "13661-204"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Januário Antonio",
+        "zipcode": "13661-016"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua João Moreschi",
+        "zipcode": "13661-222"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Independência",
+        "street": "Rua José Euripedes de Souza",
+        "zipcode": "13664-280"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua José Fiochi",
+        "zipcode": "13661-104"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua José Antonio Gomes",
+        "zipcode": "13662-254"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua José Geraldo Puelker",
+        "zipcode": "13667-320"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua José Américo da Silva",
+        "zipcode": "13664-082"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua José Antonio Desiderato Vieira",
+        "zipcode": "13662-258"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua José Pires Barboza",
+        "zipcode": "13661-108"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim das Palmeiras",
+        "street": "Rua Joaquim Pinto Cortez",
+        "zipcode": "13667-050"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Jorge João",
+        "zipcode": "13667-010"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua José Francisco Hulm",
+        "zipcode": "13667-246"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua José Rodrigues Ribaldo",
+        "zipcode": "13664-294"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua José Pucci",
+        "zipcode": "13664-244"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua Jocelym de Morais",
+        "zipcode": "13662-076"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua José Manoel da Silva",
+        "zipcode": "13661-100"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua José Mariano de Carvalho",
+        "zipcode": "13667-030"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua José Augusto de Souza",
+        "zipcode": "13667-012"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Polo Comercial José Salomé",
+        "street": "Rua José Artemio Franceschini",
+        "zipcode": "13660-490"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua José da Silva Borges",
+        "zipcode": "13665-094"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua José Marques Castelhano",
+        "zipcode": "13664-076"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vytoria",
+        "street": "Rua José Ramos Filho",
+        "zipcode": "13664-350"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Rosário",
+        "street": "Rua José Bermudes",
+        "zipcode": "13664-270"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua José Gentil",
+        "zipcode": "13661-020"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua José Gomes",
+        "zipcode": "13667-198"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua José Ramos dos Santos Sobrinho",
+        "zipcode": "13660-358"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto dos Ipês",
+        "street": "Rua José Roberto Corrêa Porto",
+        "zipcode": "13662-120"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua José Carlos Schimidt",
+        "zipcode": "13665-134"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto dos Ipês",
+        "street": "Rua José Ferreira da Silva",
+        "zipcode": "13662-128"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto dos Ipês",
+        "street": "Rua José Lourenço da Costa",
+        "zipcode": "13662-124"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Areia Branca",
+        "street": "Rua José da Silva Borges",
+        "zipcode": "13668-730"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua José Astor Fadel",
+        "zipcode": "13662-230"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua José Marques Castelhano",
+        "zipcode": "13664-080"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua José Pedro Machado",
+        "zipcode": "13665-166"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua José Ortiz de Camargo",
+        "zipcode": "13661-102"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua José Calicia",
+        "zipcode": "13662-192"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua José Pavan",
+        "zipcode": "13668-581"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua José João",
+        "zipcode": "13664-052"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Condomínio Residencial Jardim Modelo",
+        "street": "Rua José Nogueira",
+        "zipcode": "13664-330"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua José Teixeira Vilela Pai",
+        "zipcode": "13660-162"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua José Calixto Leal",
+        "zipcode": "13665-132"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vytoria",
+        "street": "Rua José Luis da Silva",
+        "zipcode": "13664-358"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua José Naif",
+        "zipcode": "13662-066"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua José Cardoso",
+        "zipcode": "13661-124"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua José Leme de Souza",
+        "zipcode": "13665-122"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Joaquim Pinto Cortez",
+        "zipcode": "13667-026"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Joaquim Rangel Filho",
+        "zipcode": "13667-208"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Bela Vista",
+        "street": "Rua José Peres Alonso",
+        "zipcode": "13661-234"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua José de Vicencio",
+        "zipcode": "13661-098"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua José Lombardi",
+        "zipcode": "13664-102"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Serra Dágua",
+        "street": "Rua Joaquim Silva",
+        "zipcode": "13660-218"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Teixeira Vilela Pai",
+        "zipcode": "13660-057"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Manuel Miller",
+        "zipcode": "13667-022"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Rua Lázaro Justiniano dos Santos",
+        "zipcode": "13665-064"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Manoel Lourenço Júnior",
+        "zipcode": "13660-192"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Josephina Martins Rezende",
+        "zipcode": "13668-010"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto dos Ipês",
+        "street": "Rua Leonardo Pereira",
+        "zipcode": "13662-130"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Manoel Joaquim Ribeiro",
+        "zipcode": "13664-318"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Josino Ferraz de Barros",
+        "zipcode": "13665-106"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua Leonice Ferreira Dias",
+        "zipcode": "13664-094"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua Manuel Franco do Amaral",
+        "zipcode": "13664-096"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Serra Dágua",
+        "street": "Rua Lúcio Rodrigues de Souza",
+        "zipcode": "13660-222"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Marcela Fernanda Sartori",
+        "zipcode": "13667-298"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Manoel Carlos",
+        "zipcode": "13660-312"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Manoel da Silva Oliveira",
+        "zipcode": "13660-088"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Condomínio Residencial Jardim Modelo",
+        "street": "Rua Luiza Juliani Bosso",
+        "zipcode": "13664-338"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua José Zaniboni",
+        "zipcode": "13665-164"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Marta",
+        "street": "Rua Manoel Tangerino",
+        "zipcode": "13660-470"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Juvenal Alcântara Camargo",
+        "zipcode": "13660-090"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua José Zini",
+        "zipcode": "13661-177"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Manoel Tangerino",
+        "zipcode": "13660-360"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua Luis Terassi",
+        "zipcode": "13668-048"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque dos Laranjais",
+        "street": "Rua Manoel Lopes Coelho",
+        "zipcode": "13661-372"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim das Palmeiras",
+        "street": "Rua Maestro Benedito Sebastião Antonini",
+        "zipcode": "13667-058"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua José Utinetti",
+        "zipcode": "13662-214"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Marta",
+        "street": "Rua Luiz Lanzoni",
+        "zipcode": "13660-482"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Júlio Cheffer",
+        "zipcode": "13661-076"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Lázaro Silveira",
+        "zipcode": "13667-034"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Rua José Simões",
+        "zipcode": "13661-286"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Luiz Pinto Bernardo",
+        "zipcode": "13665-100"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua Manoel Antonio Diniz Anchão",
+        "zipcode": "13664-116"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Manoel Ribaldo",
+        "zipcode": "13660-126"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Manoel Lourenço Júnior",
+        "zipcode": "13660-134"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Marcolino Mariano",
+        "zipcode": "13661-052"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Manoel Mourão",
+        "zipcode": "13661-216"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Luiz Gama",
+        "zipcode": "13660-176"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Júlio Cheffer",
+        "zipcode": "13661-032"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Josepha da Costa Ramos Rezende",
+        "zipcode": "13668-014"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Luciano Rissato",
+        "zipcode": "13667-216"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Luiz Gama",
+        "zipcode": "13660-047"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Leandro Lopes do Prado",
+        "zipcode": "13660-340"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Josefina Sarti Teixeira",
+        "zipcode": "13668-020"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Jutta Kayzer",
+        "zipcode": "13662-238"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Manoel Ribaldo",
+        "zipcode": "13660-188"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua José Zottino",
+        "zipcode": "13662-180"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua Leonildo Braga",
+        "zipcode": "13664-112"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Maria de Thomazi Baccarim",
+        "zipcode": "13667-310"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Miguel Borelli Thomaz",
+        "zipcode": "13661-224"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Magdalena da Silva Falco",
+        "zipcode": "13668-022"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Lydia Tiziani Bosseda",
+        "zipcode": "13668-012"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Botafogo",
+        "street": "Rua Lourenço Caprioglio",
+        "zipcode": "13665-078"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Mathias Cardoso",
+        "zipcode": "13660-027"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Maria Parras Pelissari",
+        "zipcode": "13668-016"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Manoel Diniz",
+        "zipcode": "13660-334"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Luiz Pinto Bernardo",
+        "zipcode": "13665-114"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Areia Branca",
+        "street": "Rua Octávio Vicentini Filho",
+        "zipcode": "13668-733"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Maria Andrade da Silva",
+        "zipcode": "13667-218"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Nalzira Miziara Ignatios",
+        "zipcode": "13668-000"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Condomínio Residencial Jardim Modelo",
+        "street": "Rua Olga Ferronato",
+        "zipcode": "13664-340"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Independência",
+        "street": "Rua Miguel Uchelli",
+        "zipcode": "13664-286"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua Osório Alves",
+        "zipcode": "13662-078"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Areia Branca",
+        "street": "Rua Nazaré Colli",
+        "zipcode": "13668-734"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Nair Zadra Barrozo",
+        "zipcode": "13665-168"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Orlando Oliveira",
+        "zipcode": "13667-318"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Paschoal Destefano",
+        "zipcode": "13660-250"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Mario Borelli Thomaz",
+        "zipcode": "13660-354"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Nadir Mariano",
+        "zipcode": "13664-292"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Las Palmas",
+        "street": "Rua Mauro Fadel",
+        "zipcode": "13667-254"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Padre Capelli",
+        "zipcode": "13660-049"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua Mauro Reducino Lemos",
+        "zipcode": "13664-104"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua Padre Faustino Setargini",
+        "zipcode": "13664-086"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Mariquinha Turca",
+        "zipcode": "13661-080"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Moisés Mendes",
+        "zipcode": "13664-263"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua Octavio Vicentini",
+        "zipcode": "13661-176"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Paschoal Moretto",
+        "zipcode": "13661-106"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Norma Gabriel Zambelli",
+        "zipcode": "13665-096"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Serra Dágua",
+        "street": "Rua Miguel Libertucci",
+        "zipcode": "13660-216"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Paulo Calizto Leal",
+        "zipcode": "13661-120"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Rua Otílio Polatto",
+        "zipcode": "13667-178"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Santa Cruz",
+        "street": "Rua Maria de Lourdes Ramos",
+        "zipcode": "13665-060"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Oriovaldo da Costa",
+        "zipcode": "13662-248"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vytoria",
+        "street": "Rua Nilson Malaman",
+        "zipcode": "13664-360"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Marcolino Mariano",
+        "zipcode": "13661-074"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Modesto Cantero",
+        "zipcode": "13665-158"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Maria Augusta de Souza",
+        "zipcode": "13668-029"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vytoria",
+        "street": "Rua Maria Seraphina Peripato Tofoli",
+        "zipcode": "13664-362"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Areia Branca",
+        "street": "Rua Maria José Meirelles",
+        "zipcode": "13668-732"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Maria Augusta Afonso Borelli",
+        "zipcode": "13668-018"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro Empresarial Ferreirense",
+        "street": "Rua Padre Nestor Cavalcante Maranhão",
+        "zipcode": "13661-352"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Olavo Gonçalves",
+        "zipcode": "13665-178"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Águas Claras",
+        "street": "Rua Osório Thomaz",
+        "zipcode": "13668-046"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Neusa Aparecida Pissinati Oliveira",
+        "zipcode": "13667-304"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Nelson Pereira Lopes",
+        "zipcode": "13660-053"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa 2",
+        "street": "Rua Pedro Tiziani",
+        "zipcode": "13661-196"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Philomena Arnoni de Lara",
+        "zipcode": "13667-286"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Pedro Calixto Leal",
+        "zipcode": "13664-264"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Pedro Fares",
+        "zipcode": "13660-356"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Olímpio Gomes Filho",
+        "zipcode": "13661-280"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua Padre Faustino Setargini",
+        "zipcode": "13664-064"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Professora Leonidia Zadra",
+        "zipcode": "13661-028"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Perondi Iginio",
+        "zipcode": "13660-035"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua Paiaguás",
+        "zipcode": "13664-070"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa 2",
+        "street": "Rua Piracema",
+        "zipcode": "13661-193"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque dos Laranjais",
+        "street": "Rua Paschoal Rippa",
+        "zipcode": "13661-376"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Nelson Pereira Lopes",
+        "zipcode": "13660-160"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Olívio Ferrari",
+        "zipcode": "13665-160"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim das Palmeiras",
+        "street": "Rua Nelson Sebastião Pinto de Freitas",
+        "zipcode": "13667-052"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua Professor Rubens Parada",
+        "zipcode": "13664-060"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Vicente José de Araújo",
+        "zipcode": "13660-031"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Marta",
+        "street": "Rua Reinaldo Massoneto",
+        "zipcode": "13660-480"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Independência",
+        "street": "Rua Paulo Rippa",
+        "zipcode": "13664-281"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Sidney Miotti",
+        "zipcode": "13667-232"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Professora Noraide Mariano",
+        "zipcode": "13660-244"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vytoria",
+        "street": "Rua Sebastião Crippa",
+        "zipcode": "13664-352"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua Roberto Braga Bortolini",
+        "zipcode": "13664-114"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Rua Roberto de Lara",
+        "zipcode": "13661-256"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Paulo Rippa",
+        "zipcode": "13664-298"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Terezinha Xaubet Duz",
+        "zipcode": "13665-173"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Professora Nadir Zadra Ribaldo",
+        "zipcode": "13661-060"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Areia Branca",
+        "street": "Rua Urbaninha Palma",
+        "zipcode": "13668-735"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua Pedro Marival José Aboiata",
+        "zipcode": "13662-168"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Villaggio San Giorgio",
+        "street": "Rua Salvador Zampolo",
+        "zipcode": "13661-004"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Roque Bruno",
+        "zipcode": "13667-002"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Salvador Tomaiolli",
+        "zipcode": "13667-210"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vytoria",
+        "street": "Rua Sebastião de Jesus",
+        "zipcode": "13664-356"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Condomínio Residencial Jardim Modelo",
+        "street": "Rua Sebastião Fiorin",
+        "zipcode": "13664-336"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua Thales Castanho de Andrade",
+        "zipcode": "13662-082"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Professor Mario Fratini",
+        "zipcode": "13661-026"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Vinte",
+        "zipcode": "13661-072"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Sebastião Fonseca",
+        "zipcode": "13665-118"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Sebastião da Rocha Cupido",
+        "zipcode": "13660-248"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Pedro Tiziani",
+        "zipcode": "13661-132"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua São Sebastião",
+        "zipcode": "13660-013"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Serra Dágua",
+        "street": "Rua Vicente José de Araújo",
+        "zipcode": "13660-210"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Professor José Silva Júnior",
+        "zipcode": "13660-332"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Paulo Moreschi",
+        "zipcode": "13667-234"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Viturina Tuao Mazetto",
+        "zipcode": "13667-212"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Vinte e Nove de Julho",
+        "zipcode": "13660-025"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recanto Salzano",
+        "street": "Travessa José Elias Xidieh",
+        "zipcode": "13660-146"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Las Palmas",
+        "street": "Rua Sebastião Inde Arnoni",
+        "zipcode": "13667-250"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Walter de Santis",
+        "zipcode": "13667-204"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Serafim Baccarim",
+        "zipcode": "13667-308"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Chácaras Aeroporto",
+        "street": "Via Syrio Ignatios",
+        "zipcode": "13661-294"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua Zizico Vilela",
+        "zipcode": "13662-080"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Vinte e Nove",
+        "zipcode": "13661-070"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 1",
+        "zipcode": "13668-612"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Tereza Mafalda Teixeira",
+        "zipcode": "13661-012"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Rua Valentim Lopes",
+        "zipcode": "13662-110"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 3",
+        "zipcode": "13668-616"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Urbano Romano Meirelles",
+        "zipcode": "13660-122"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Rua Valentim Fratini",
+        "zipcode": "13667-174"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Sebastião Gonçalves de Lima",
+        "zipcode": "13667-000"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Urbano Romano Meirelles",
+        "zipcode": "13660-186"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa 2",
+        "street": "Rua Sebastião Pereira",
+        "zipcode": "13661-194"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Las Palmas",
+        "street": "Rua Ubaldo Faggeani",
+        "zipcode": "13667-262"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Valentim Fratini",
+        "zipcode": "13665-090"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Serra Dágua",
+        "street": "Travessa Padre Moisés Nora",
+        "zipcode": "13660-212"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa Dona Amélia Barbosa",
+        "zipcode": "13660-045"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Vinte e Nove de Julho",
+        "zipcode": "13660-096"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Waldomira Trevisan",
+        "zipcode": "13667-294"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 7",
+        "zipcode": "13668-624"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Yara Ribaldo de Moraes",
+        "zipcode": "13667-270"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 8",
+        "zipcode": "13668-626"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua Viriato Montenegro",
+        "zipcode": "13662-064"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 6",
+        "zipcode": "13668-622"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Waldemar Ferreira Cardoso",
+        "zipcode": "13665-174"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Vitório Arnoni",
+        "zipcode": "13664-250"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 4",
+        "zipcode": "13668-618"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Waldomiro Zinni",
+        "zipcode": "13664-252"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Wanderlei Bueno Mesquita",
+        "zipcode": "13665-176"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 2",
+        "zipcode": "13668-614"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 9",
+        "zipcode": "13668-610"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Abílio Carandina",
+        "zipcode": "13662-216"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila São Pedro",
+        "street": "Rua Amazilio Milanez",
+        "zipcode": "13664-226"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Avenida Marginal Armando Scheffer",
+        "zipcode": "13662-172"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Avenida Um",
+        "zipcode": "13664-101"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Avenida Rudolf Street",
+        "zipcode": "13664-050"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua Alonso Brasiliense",
+        "zipcode": "13664-072"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua Alfredo Bellini",
+        "zipcode": "13661-172"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "João Bento da Fonseca",
+        "street": "Avenida Comendador Assad Taiar",
+        "zipcode": "13664-230"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Engenheiro Nicolau de Vergueiro Forjaz",
+        "zipcode": "13660-005"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recanto Salzano",
+        "street": "Avenida Professor Henrique da Motta Fonseca Júnior",
+        "zipcode": "13660-141"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Praça Ebe Salzano",
+        "zipcode": "13661-258"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Alcides Ferreira Silva Porto",
+        "zipcode": "13665-138"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Seguro",
+        "street": "Avenida Marginal Armando Scheffer",
+        "zipcode": "13662-144"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância Cuca Fresca",
+        "street": "Avenida Odocílio Pompeu",
+        "zipcode": "13668-272"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Aeroporto",
+        "street": "Avenida Doutor Adhemar de Barros",
+        "zipcode": "13661-270"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Avenida Afonso Moda",
+        "zipcode": "13667-300"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Adriano José Mariano",
+        "zipcode": "13661-050"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bela Vista",
+        "street": "Avenida General Álvaro de Goes Valeriani",
+        "zipcode": "13661-250"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Avenida Antonio Justiniano",
+        "zipcode": "13662-112"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Avenida João Martins da Silveira Sobrinho",
+        "zipcode": "13660-350"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Hugo Girotto",
+        "zipcode": "13661-092"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Bento José de Carvalho",
+        "zipcode": "13660-336"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Dona Balbina",
+        "zipcode": "13660-039"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Procópio de Carvalho",
+        "zipcode": "13660-009"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Botafogo",
+        "street": "Rua Gabriel Ferreira Felippe",
+        "zipcode": "13665-070"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Domiciano Crippa",
+        "zipcode": "13660-338"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Francisco da Rocha Cupido",
+        "zipcode": "13661-082"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Avó Maria Rosária Faria de Oliveira",
+        "zipcode": "13662-244"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Bela Vista",
+        "street": "Rua Horácio de Moraes Dias",
+        "zipcode": "13661-238"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Antonio Tavares",
+        "zipcode": "13660-326"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua Claiton Ernandes Arantes",
+        "zipcode": "13664-100"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Heraldo Machado Filho",
+        "zipcode": "13661-062"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Daniel de Oliveira Carvalho",
+        "zipcode": "13660-164"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Marta",
+        "street": "Rua João de Lima Filho",
+        "zipcode": "13660-474"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Doutor José de Paula Castro",
+        "zipcode": "13660-198"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Enéas Rossi",
+        "zipcode": "13667-032"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Dezenove de Outubro",
+        "zipcode": "13660-128"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua Gisto Paulo Bolzan",
+        "zipcode": "13668-590"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio São Lázaro",
+        "street": "Rua D",
+        "zipcode": "13665-192"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua Francisco José de Araújo Lima",
+        "zipcode": "13662-088"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Ana Maria Tavares",
+        "zipcode": "13667-240"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua Aparecido Zanetti",
+        "zipcode": "13662-170"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Casemiro de Moraes Dias",
+        "zipcode": "13661-018"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Comendador Agostinho Prada",
+        "zipcode": "13660-180"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Antonio Roberto Rizzi",
+        "zipcode": "13662-232"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Ignácio Pinto Bernardo",
+        "zipcode": "13660-086"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Augostinho Colan",
+        "zipcode": "13665-116"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua Israel Miotti",
+        "zipcode": "13664-108"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua João Batista Chiarello",
+        "zipcode": "13662-236"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Isaltina Matoso de Oliveira",
+        "zipcode": "13668-026"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Rua Antonio Desidério do Nascimento",
+        "zipcode": "13662-116"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Antonio Maximiano",
+        "zipcode": "13664-260"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Condomínio Residencial Jardim Modelo",
+        "street": "Rua Fernando Aparecido Crippa",
+        "zipcode": "13664-332"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua David Zadra",
+        "zipcode": "13660-118"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua João Francisco de Lima",
+        "zipcode": "13668-583"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Jaci Pereira da Silva",
+        "zipcode": "13662-250"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Doutor Erlindo Salzano",
+        "zipcode": "13660-082"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Desmembramento Vidroporto",
+        "street": "Rua João Ruy",
+        "zipcode": "13661-202"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Arlindo Pimenta",
+        "zipcode": "13667-194"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua Antonio Liberal",
+        "zipcode": "13662-174"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Carlos Fenilli",
+        "zipcode": "13661-066"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Doutor Américo Montenegro",
+        "zipcode": "13667-226"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua Antonio Ferreira da Silva Porto",
+        "zipcode": "13664-088"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Fioravante Malaman",
+        "zipcode": "13660-234"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Brasilio Ferreira Andrade",
+        "zipcode": "13667-190"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua João Secarini",
+        "zipcode": "13662-202"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Joaquim Miguel Pereira",
+        "zipcode": "13660-330"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Francisco Geraldelli",
+        "zipcode": "13667-004"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Bandeirantes",
+        "street": "Rua Benedito Leonel",
+        "zipcode": "13664-290"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Anhanguera",
+        "street": "Rua João José Attab Miziara",
+        "zipcode": "13668-740"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Rua João Mendonça Salvador",
+        "zipcode": "13667-176"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua José Lázaro de Araújo",
+        "zipcode": "13664-256"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua José Olivieri",
+        "zipcode": "13667-024"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua José Galo",
+        "zipcode": "13667-248"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Josino Ferraz de Barros",
+        "zipcode": "13665-110"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Moacyra Santos Leal Pedroso",
+        "zipcode": "13660-021"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua José dos Santos",
+        "zipcode": "13660-316"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua Maria Luiza Cunha Ribaldo",
+        "zipcode": "13660-232"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Annibal",
+        "street": "Rua Paiaguás",
+        "zipcode": "13664-092"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Joaquim Fernandes Machado",
+        "zipcode": "13667-016"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Rubens Burim",
+        "zipcode": "13667-280"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Juvenal Antonio Rombaldo",
+        "zipcode": "13662-234"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Progresso",
+        "street": "Rua José Augusto Machado",
+        "zipcode": "13660-246"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância dos Granjeiros",
+        "street": "Rua Lino Ribeiro",
+        "zipcode": "13662-104"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Luiz Antonio Tondati",
+        "zipcode": "13667-306"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Bela Vista",
+        "street": "Rua João Vicente de Araújo",
+        "zipcode": "13661-230"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua José Virgílio de Carvalho",
+        "zipcode": "13667-284"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Condomínio Residencial Jardim Modelo",
+        "street": "Rua José Roberto Sobrinho",
+        "zipcode": "13664-342"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua Sebastião Pereira",
+        "zipcode": "13661-178"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Joaquim Miguel Pereira",
+        "zipcode": "13660-206"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Remanescente Chácaras Salgueiro",
+        "street": "Rua Paulo Fadel",
+        "zipcode": "13662-052"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Manoel Lourenço Júnior",
+        "zipcode": "13660-150"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial Las Palmas",
+        "street": "Rua Paulo Montanheiro",
+        "zipcode": "13667-256"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recanto Salzano",
+        "street": "Rua José Carlos Sartori",
+        "zipcode": "13660-142"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua Joaquim Sylos Cintra",
+        "zipcode": "13662-086"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Mutinelli",
+        "zipcode": "13660-041"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Manoel Joaquim Loureiro",
+        "zipcode": "13660-344"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Vinte e Nove de Julho",
+        "zipcode": "13661-010"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua José Rosini",
+        "zipcode": "13665-156"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua José Pirondi Junior",
+        "zipcode": "13664-106"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Chácaras Aeroporto",
+        "street": "Rua Projetada 1",
+        "zipcode": "13661-292"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Onélio Clemonesi",
+        "zipcode": "13662-218"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim São Manoel",
+        "street": "Rua Silvio Arnoni",
+        "zipcode": "13668-592"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim das Palmeiras",
+        "street": "Rua Manoel da Costa",
+        "zipcode": "13667-056"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Waldemar Menin",
+        "zipcode": "13665-170"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Alto da Serra Dágua",
+        "street": "Rua José Manoel da Silva",
+        "zipcode": "13661-180"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Wladimir Augusto Gallo",
+        "zipcode": "13662-228"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Pedro Tiziani",
+        "zipcode": "13661-214"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Travessa Adão Grey",
+        "zipcode": "13661-021"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua Professor Emerson Aparecido Carandina",
+        "zipcode": "13662-178"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Maria Aparecida Silva Pedro",
+        "zipcode": "13667-274"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Paulo Rippa",
+        "zipcode": "13664-300"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Nelson Pereira Lopes",
+        "zipcode": "13660-102"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recanto Salzano",
+        "street": "Travessa Paulo de Araújo Cintra",
+        "zipcode": "13660-144"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Maragildo Mantovani",
+        "zipcode": "13661-086"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Octavio Vicentini",
+        "zipcode": "13661-130"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Tines Antonio Momesso",
+        "zipcode": "13664-316"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Padre Capelli",
+        "zipcode": "13660-178"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Sibylla",
+        "street": "Rua José Américo da Silva",
+        "zipcode": "13664-054"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Novo",
+        "street": "Rua José Silvestre",
+        "zipcode": "13662-062"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Mathias Holits",
+        "zipcode": "13667-222"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Paschoal Salzano",
+        "street": "Rua Marcolino Barboza",
+        "zipcode": "13665-161"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim dos Ipês",
+        "street": "Rua 5",
+        "zipcode": "13668-620"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Valderbrande Carlos Baptista",
+        "zipcode": "13665-126"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Anésia",
+        "street": "Rua Thereza Casali Gentil",
+        "zipcode": "13668-036"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Lagoa Serena",
+        "street": "Rua Antonio Amaru",
+        "zipcode": "13661-118"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Antonio Cesar do Amaral",
+        "zipcode": "13662-252"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Maria",
+        "street": "Rua Vitório Colli",
+        "zipcode": "13660-314"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro Empresarial Ferreirense",
+        "street": "Avenida General Álvaro de Goes Valeriani",
+        "zipcode": "13661-356"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Horácio Martins da Silva",
+        "zipcode": "13665-112"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Avenida Professor Henrique da Motta Fonseca Júnior",
+        "zipcode": "13660-136"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Custódio José Pedroso",
+        "zipcode": "13662-224"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Maestro Alfredo Antonini Filho",
+        "zipcode": "13662-194"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Daniel de Oliveira Carvalho",
+        "zipcode": "13660-104"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Desmembramento Milton Moda",
+        "street": "Rua Naif José",
+        "zipcode": "13667-042"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial do Redentor",
+        "street": "Rua Naif José",
+        "zipcode": "13667-014"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Jardim Dalva",
+        "street": "Rua João José Attab Miziara",
+        "zipcode": "13668-605"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Salgueiro",
+        "street": "Rua Vinte e Nove de Julho",
+        "zipcode": "13661-064"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Condomínio Residencial Jardim Modelo",
+        "street": "Rua Ettore Mutinelli Filho",
+        "zipcode": "13664-334"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua José Eufrozino de Moraes",
+        "zipcode": "13664-245"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Centenário",
+        "street": "Rua Armando Amaral",
+        "zipcode": "13665-117"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Santa Rosa",
+        "street": "Rua Sebastião Pereira",
+        "zipcode": "13661-220"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Lupércio de Freitas",
+        "zipcode": "13667-316"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Residencial dos Jatobás",
+        "street": "Rua Claudomiro Louzada",
+        "zipcode": "13664-110"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Jardim Dalva",
+        "street": "Avenida Pedro Baso",
+        "zipcode": "13668-602"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Porto Seguro",
+        "street": "Rua Joaquim Umbelino de Oliveira",
+        "zipcode": "13662-148"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Vila Real",
+        "street": "Rua Argemiro Gomes",
+        "zipcode": "13667-170"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Djalma Forjaz",
+        "zipcode": "13660-011"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Serra Dágua",
+        "street": "Avenida General Álvaro de Goes Valeriani",
+        "zipcode": "13660-224"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Estância Cuca Fresca",
+        "street": "Rua Martin Birkner",
+        "zipcode": "13668-278"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua João Leodobino da Costa",
+        "zipcode": "13660-023"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Salgueiro",
+        "street": "Rua Professora Nadir Zadra Ribaldo",
+        "zipcode": "13661-024"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Recreio",
+        "street": "Rua Horácio Martins da Silva",
+        "zipcode": "13665-104"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Jandyra",
+        "street": "Rua Sebastião Crippa",
+        "zipcode": "13664-326"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Coronel Procópio de Carvalho",
+        "zipcode": "13660-970"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Sérgio Dornelles de Carvalho",
+        "street": "Rua Bernardino Iatauro",
+        "zipcode": "13664-242"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua Eupídeo Pedroso de Moraes do Carmo",
+        "zipcode": "13662-246"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santo Afonso",
+        "street": "Rua Severino Joaquim Bernardo",
+        "zipcode": "13667-272"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Recreio Aeroporto",
+        "street": "Avenida Júlio de Oliveira Dorta",
+        "zipcode": "13661-360"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Porto Bello",
+        "street": "Rua Eliana Conceição Feliciano Gonçalves de Souza",
+        "zipcode": "13667-238"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Perondi Iginio",
+        "zipcode": "13660-098"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial José Gomes",
+        "street": "Rua João Gaudêncio Mazzotti",
+        "zipcode": "13662-160"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Parque Residencial Santa Luzia",
+        "street": "Rua José Martins de Oliveira",
+        "zipcode": "13662-208"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Daniel",
+        "street": "Rua Alfredo Américo da Silva",
+        "zipcode": "13660-138"
+    },
+    {
+        "city": "Porto Ferreira",
+        "state": "SP",
+        "district": "Vila Nova",
+        "street": "Rua Manoel Diniz",
+        "zipcode": "13660-202"
+    }
+]

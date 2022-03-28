@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Água Boa",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Godinho Sobrinho 143",
+        "zipcode": "39790-970"
+    },
+    {
+        "city": "Água Boa",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Darci Alves de Oliveira 195",
+        "zipcode": "39790-971"
+    },
+    {
+        "city": "Água Boa",
+        "state": "MG",
+        "district": "Palmeiras do Resplendor",
+        "street": "Rua Espírito Santo 104",
+        "zipcode": "39790-972"
+    },
+    {
+        "city": "Água Boa",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39790-000"
+    }
+]

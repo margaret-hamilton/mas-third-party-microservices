@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Salinas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Padre Salustiano 119",
+        "zipcode": "39560-970"
+    },
+    {
+        "city": "Salinas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Salinas 129",
+        "zipcode": "39560-975"
+    },
+    {
+        "city": "Salinas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Mendo Correia 79",
+        "zipcode": "39560-971"
+    },
+    {
+        "city": "Salinas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39560-000"
+    },
+    {
+        "city": "Salinas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Guilhermino Ferreira s/n",
+        "zipcode": "39560-974"
+    }
+]

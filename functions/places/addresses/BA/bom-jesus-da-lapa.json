@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Bom Jesus da Lapa",
+        "state": "BA",
+        "district": "Nova Brasília",
+        "street": "Rua 7 de Setembro 191",
+        "zipcode": "47600-970"
+    },
+    {
+        "city": "Bom Jesus da Lapa",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "47600-000"
+    },
+    {
+        "city": "Bom Jesus da Lapa",
+        "state": "BA",
+        "district": null,
+        "street": "Praça do Comércio",
+        "zipcode": "47600-991"
+    },
+    {
+        "city": "Bom Jesus da Lapa",
+        "state": "BA",
+        "district": null,
+        "street": "Posto Telefônico Setor 33",
+        "zipcode": "47600-990"
+    },
+    {
+        "city": "Bom Jesus da Lapa",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça da Igreja s/n",
+        "zipcode": "47608-970"
+    },
+    {
+        "city": "Bom Jesus da Lapa",
+        "state": "BA",
+        "district": "Formoso",
+        "street": "Praça A",
+        "zipcode": "47600-971"
+    }
+]

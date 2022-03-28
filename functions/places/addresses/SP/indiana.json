@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Indiana",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor João Munhoz 405",
+        "zipcode": "19560-970"
+    },
+    {
+        "city": "Indiana",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19560-000"
+    },
+    {
+        "city": "Indiana",
+        "state": "SP",
+        "district": null,
+        "street": "Centro de Saúde",
+        "zipcode": "19560-990"
+    }
+]

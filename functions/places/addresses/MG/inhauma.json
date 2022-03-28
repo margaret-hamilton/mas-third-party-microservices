@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Inhaúma",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Emílio Vasconcelos Costa",
+        "zipcode": "35763-970"
+    },
+    {
+        "city": "Inhaúma",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35763-000"
+    },
+    {
+        "city": "Inhaúma",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35710-000"
+    },
+    {
+        "city": "Inhaúma",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Emílio Vasconcelos Costa 06",
+        "zipcode": "35710-970"
+    }
+]

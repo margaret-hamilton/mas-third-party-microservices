@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Alagoa Grande",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Rua Apolônio Zenaide 700",
+        "zipcode": "58388-970"
+    },
+    {
+        "city": "Alagoa Grande",
+        "state": "PB",
+        "district": "",
+        "street": "",
+        "zipcode": "58388-000"
+    },
+    {
+        "city": "Alagoa Grande",
+        "state": "PB",
+        "district": "Povoado",
+        "street": "Rua Telesforo Onofre 171",
+        "zipcode": "58388-971"
+    },
+    {
+        "city": "Alagoa Grande",
+        "state": "PB",
+        "district": "Povoado",
+        "street": "Rua Joaquim Carlos 120",
+        "zipcode": "58388-972"
+    }
+]

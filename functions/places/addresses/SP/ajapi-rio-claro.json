@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ajapi (Rio Claro)",
+        "state": "SP",
+        "district": "Distrito de Ferraz",
+        "street": "Rua Cinco 425",
+        "zipcode": "13508-970"
+    },
+    {
+        "city": "Ajapi (Rio Claro)",
+        "state": "SP",
+        "district": "Distrito Ajapi",
+        "street": "Rua Quatro s/n",
+        "zipcode": "13508-971"
+    },
+    {
+        "city": "Ajapi (Rio Claro)",
+        "state": "SP",
+        "district": null,
+        "street": null,
+        "zipcode": "13508-000"
+    }
+]

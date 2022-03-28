@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pinhalzinho",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua João Pessoa 2080 Sala 2",
+        "zipcode": "89870-970"
+    },
+    {
+        "city": "Pinhalzinho",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua João Pessoa",
+        "zipcode": "89870-971"
+    },
+    {
+        "city": "Pinhalzinho",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89870-000"
+    },
+    {
+        "city": "Pinhalzinho",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "89870-991"
+    }
+]

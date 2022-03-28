@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Santa Cruz (Campo Largo)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83643-000"
+    },
+    {
+        "city": "Santa Cruz (Campo Largo)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "83643-970"
+    },
+    {
+        "city": "Santa Cruz (Campo Largo)",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83634-990"
+    }
+]

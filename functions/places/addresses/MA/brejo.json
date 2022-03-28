@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Brejo",
+        "state": "MA",
+        "district": null,
+        "street": "Rua Cândido Mendes",
+        "zipcode": "65520-990"
+    },
+    {
+        "city": "Brejo",
+        "state": "MA",
+        "district": "",
+        "street": "",
+        "zipcode": "65520-000"
+    },
+    {
+        "city": "Brejo",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Luís Rodrigues 159",
+        "zipcode": "65520-970"
+    }
+]

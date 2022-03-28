@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Bom Jardim",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Praça Roberto Silveira 42",
+        "zipcode": "28660-970"
+    },
+    {
+        "city": "Bom Jardim",
+        "state": "RJ",
+        "district": null,
+        "street": "Rodovia RJ 146",
+        "zipcode": "28666-990"
+    },
+    {
+        "city": "Bom Jardim",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "28660-000"
+    },
+    {
+        "city": "Bom Jardim",
+        "state": "RJ",
+        "district": null,
+        "street": "Estrada da Silveira",
+        "zipcode": "28664-991"
+    },
+    {
+        "city": "Bom Jardim",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Júlio C.da Silva",
+        "zipcode": "28662-990"
+    },
+    {
+        "city": "Bom Jardim",
+        "state": "RJ",
+        "district": null,
+        "street": "Praça São Sebastião Gastaldi",
+        "zipcode": "28664-990"
+    }
+]

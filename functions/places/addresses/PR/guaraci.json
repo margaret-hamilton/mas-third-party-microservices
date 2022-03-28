@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Guaraci",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Morilo Cremasco 699",
+        "zipcode": "86620-970"
+    },
+    {
+        "city": "Guaraci",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Paraná",
+        "zipcode": "86625-990"
+    },
+    {
+        "city": "Guaraci",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86620-000"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Imbituba",
+        "state": "SC",
+        "district": "Povoado de Nova Brasília",
+        "street": "Avenida Cônego Itamar Luiz da Costa 1011",
+        "zipcode": "88780-972"
+    },
+    {
+        "city": "Imbituba",
+        "state": "SC",
+        "district": "Araçatuba",
+        "street": "Rodovia SC 434 Km 14",
+        "zipcode": "88780-971"
+    },
+    {
+        "city": "Imbituba",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Santa Catarina 919",
+        "zipcode": "88780-970"
+    },
+    {
+        "city": "Imbituba",
+        "state": "SC",
+        "district": "Ibiraquera",
+        "street": "Estrada Geral de Ibiraquera s/n",
+        "zipcode": "88780-973"
+    },
+    {
+        "city": "Imbituba",
+        "state": "SC",
+        "district": "Alto Arroio",
+        "street": "Estrada Geral",
+        "zipcode": "88780-977"
+    },
+    {
+        "city": "Imbituba",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "88780-000"
+    },
+    {
+        "city": "Imbituba",
+        "state": "SC",
+        "district": null,
+        "street": "Loc Quadra PO 05R",
+        "zipcode": "88780-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ibirataia",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45580-000"
+    },
+    {
+        "city": "Ibirataia",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Amado Raimundo dos Santos 40",
+        "zipcode": "45580-970"
+    },
+    {
+        "city": "Ibirataia",
+        "state": "BA",
+        "district": null,
+        "street": "Alto do Mirante",
+        "zipcode": "45580-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Pedra Preta",
+        "state": "MT",
+        "district": "Garça Branca",
+        "street": "Rua Principal",
+        "zipcode": "78795-971"
+    },
+    {
+        "city": "Pedra Preta",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Avenida Frei Servacio 310",
+        "zipcode": "78795-970"
+    },
+    {
+        "city": "Pedra Preta",
+        "state": "MT",
+        "district": "",
+        "street": "",
+        "zipcode": "78795-000"
+    }
+]

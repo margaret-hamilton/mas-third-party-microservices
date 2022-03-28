@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Boa Esperança do Iguaçu",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85680-000"
+    },
+    {
+        "city": "Boa Esperança do Iguaçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Demétrio Pinzon 16  AGC Boa Esperança do Iguaçu",
+        "zipcode": "85680-970"
+    },
+    {
+        "city": "Boa Esperança do Iguaçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Vereador Valmir Antônio Alexandre 243  AC Boa Esperança do Iguaçu",
+        "zipcode": "85680-971"
+    },
+    {
+        "city": "Boa Esperança do Iguaçu",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Demétrio Pinzon",
+        "zipcode": "85680-990"
+    }
+]

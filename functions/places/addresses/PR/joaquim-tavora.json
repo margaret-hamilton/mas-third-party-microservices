@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Joaquim Távora",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná 965",
+        "zipcode": "86455-970"
+    },
+    {
+        "city": "Joaquim Távora",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86455-000"
+    }
+]

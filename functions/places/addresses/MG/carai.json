@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Caraí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Castelo Branco 384",
+        "zipcode": "39810-970"
+    },
+    {
+        "city": "Caraí",
+        "state": "MG",
+        "district": "Marambainha",
+        "street": "Praça Frei Venceslau 73",
+        "zipcode": "39813-970"
+    },
+    {
+        "city": "Caraí",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39810-000"
+    },
+    {
+        "city": "Caraí",
+        "state": "MG",
+        "district": "Maranhão",
+        "street": "Rua dos Violões s/n",
+        "zipcode": "39813-971"
+    }
+]

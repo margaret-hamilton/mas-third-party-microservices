@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Umburatiba",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida José Ganga 103",
+        "zipcode": "39878-970"
+    },
+    {
+        "city": "Umburatiba",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39878-000"
+    },
+    {
+        "city": "Umburatiba",
+        "state": "MG",
+        "district": "São Pedro",
+        "street": "Rua Zacarias Ferreira de Souza 19",
+        "zipcode": "39878-971"
+    }
+]

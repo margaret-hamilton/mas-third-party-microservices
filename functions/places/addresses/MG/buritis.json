@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Buritis",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Bandeirantes 582",
+        "zipcode": "38660-970"
+    },
+    {
+        "city": "Buritis",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Brasília 554",
+        "zipcode": "38660-972"
+    },
+    {
+        "city": "Buritis",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38660-000"
+    }
+]

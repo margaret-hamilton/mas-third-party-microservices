@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Morro da Garça",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35798-000"
+    },
+    {
+        "city": "Morro da Garça",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39248-000"
+    },
+    {
+        "city": "Morro da Garça",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Renato Azeredo 405",
+        "zipcode": "39248-970"
+    },
+    {
+        "city": "Morro da Garça",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Renato Azeredo 405",
+        "zipcode": "35798-970"
+    }
+]

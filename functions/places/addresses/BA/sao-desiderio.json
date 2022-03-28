@@ -1,0 +1,23 @@
+[
+    {
+        "city": "São Desidério",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "47820-000"
+    },
+    {
+        "city": "São Desidério",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua das Palmeiras 163",
+        "zipcode": "47820-970"
+    },
+    {
+        "city": "São Desidério",
+        "state": "BA",
+        "district": null,
+        "street": "Rua RJ",
+        "zipcode": "47820-996"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Divisa Nova",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "37134-000"
+    },
+    {
+        "city": "Divisa Nova",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37142-000"
+    },
+    {
+        "city": "Divisa Nova",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Presidente Vargas 70/74  AC Divisa Nova",
+        "zipcode": "37142-970"
+    },
+    {
+        "city": "Divisa Nova",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Presidente Vargas 70/74",
+        "zipcode": "37134-970"
+    }
+]

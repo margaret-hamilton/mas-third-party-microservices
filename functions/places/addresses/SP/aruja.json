@@ -1,0 +1,6323 @@
+[
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Lima",
+        "street": "Rua Borba Gato",
+        "zipcode": "07402-125"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua Rio Branco",
+        "zipcode": "07402-260"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Copal",
+        "zipcode": "07428-170"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Renata",
+        "street": "Rua Gentile Pezzoli Santangelo",
+        "zipcode": "07402-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Rubi",
+        "zipcode": "07428-290"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Paulino Maiolino",
+        "zipcode": "07400-645"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Via Dutra",
+        "street": "Rua Presidente Prudente",
+        "zipcode": "07438-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Juriti",
+        "zipcode": "07405-410"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Macuco",
+        "zipcode": "07405-415"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Bem",
+        "zipcode": "07405-420"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Rodrigues Alves",
+        "zipcode": "07400-575"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Maria Helena",
+        "zipcode": "07401-785"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Montevidéo",
+        "zipcode": "07400-450"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pirituba",
+        "street": "Avenida Shinji Hirose",
+        "zipcode": "07420-890"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Arutec",
+        "zipcode": "07428-275"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Belém",
+        "zipcode": "07402-835"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Rua Albuquerque Lins",
+        "zipcode": "07401-360"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Colinas Verdes",
+        "street": "Alameda Papoula",
+        "zipcode": "07414-380"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Maringá",
+        "street": "Avenida Marília",
+        "zipcode": "07429-825"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Ipês",
+        "zipcode": "07435-185"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Acácias",
+        "zipcode": "07435-190"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Pitangueiras",
+        "zipcode": "07435-215"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Camélias",
+        "zipcode": "07435-240"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Figueiras",
+        "zipcode": "07435-255"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Macieiras",
+        "zipcode": "07435-295"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Jacarandás",
+        "zipcode": "07435-300"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Hibiscos",
+        "zipcode": "07435-315"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Quaresmeiras",
+        "zipcode": "07435-320"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Colinas Verdes",
+        "street": "Alameda Agávea",
+        "zipcode": "07414-390"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Laranja Azeda",
+        "street": "Via de Acesso Norte Km 202 (Rod Pres Dutra)",
+        "zipcode": "07430-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Alameda das Siriemas",
+        "zipcode": "07435-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda Crisântemos",
+        "zipcode": "07411-355"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Júpiter",
+        "zipcode": "07436-070"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Satélite",
+        "zipcode": "07436-035"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francisco Ribeiro Musa",
+        "zipcode": "07400-580"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque da Amazônia",
+        "zipcode": "07429-255"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Sítio dos Fernandes",
+        "street": "Rua Julia Serikawa",
+        "zipcode": "07432-700"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Mayekawa",
+        "zipcode": "07428-285"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-640"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Amaro Franco",
+        "zipcode": "07403-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-575"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Padre Atílio Garrone",
+        "zipcode": "07417-455"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra das Araras",
+        "zipcode": "07404-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua Julio Antonio dos Santos",
+        "zipcode": "07402-065"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Santo Antônio",
+        "street": "Avenida Airton dos Santos Heras Galvez",
+        "zipcode": "07407-040"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Deolinda Rosa dos Santos",
+        "zipcode": "07417-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Douglas dos Reis Santos",
+        "zipcode": "07417-245"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Lima",
+        "street": "Praça Bartolomeu Bueno",
+        "zipcode": "07402-130"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Piauí",
+        "zipcode": "07402-150"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Itapeti",
+        "zipcode": "07404-040"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Tupi",
+        "street": "Avenida Tupi",
+        "zipcode": "07431-215"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Artur José Batista",
+        "zipcode": "07400-845"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Avenida Água Marinha",
+        "zipcode": "07428-100"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Renata",
+        "street": "Rua Maria de Lourdes Máximo",
+        "zipcode": "07402-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Sítio dos Fernandes",
+        "street": "Rua Yoshi Sasaoka",
+        "zipcode": "07432-690"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Sítio dos Fernandes",
+        "street": "Rua Katsumi Miyazaka",
+        "zipcode": "07432-720"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Trianon",
+        "zipcode": "07429-250"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Andradita",
+        "zipcode": "07428-180"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Jóia",
+        "street": "Rua Armando Pereira",
+        "zipcode": "07431-280"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Jóia",
+        "street": "Rua Topázio",
+        "zipcode": "07431-285"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Jóia",
+        "street": "Rua Safira",
+        "zipcode": "07431-295"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra Oriental",
+        "zipcode": "07404-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Japi",
+        "zipcode": "07404-030"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida das Acácias",
+        "zipcode": "07434-510"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim das Cerejeiras",
+        "street": "Rua Takehiro Hitomi",
+        "zipcode": "07432-570"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra dos Tinguás",
+        "zipcode": "07404-210"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Rua dos Cajueiros",
+        "zipcode": "07432-430"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua João Godoy",
+        "zipcode": "07400-680"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra da Juréia",
+        "zipcode": "07404-045"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra da Mantiqueira",
+        "zipcode": "07404-055"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Maranguape",
+        "zipcode": "07404-060"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Baturité",
+        "zipcode": "07404-065"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua Rosas",
+        "zipcode": "07434-495"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida dos Eucaliptos",
+        "zipcode": "07434-500"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida Panorâmica",
+        "zipcode": "07434-505"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Carmellino de Jesus",
+        "zipcode": "07401-775"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Mar",
+        "zipcode": "07404-075"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Antonia Manoel Fernandes",
+        "zipcode": "07417-465"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Eduardo da Silva",
+        "zipcode": "07417-470"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Veloso da Silva",
+        "zipcode": "07417-375"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Tuím",
+        "zipcode": "07405-400"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Pintassilgo",
+        "zipcode": "07405-405"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida João Manoel",
+        "zipcode": "07400-605"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida João Manoel",
+        "zipcode": "07400-615"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida João Manoel",
+        "zipcode": "07400-650"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Prestes Maia",
+        "zipcode": "07417-400"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Pedro Leme",
+        "zipcode": "07417-315"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Avenida Antonio Armando Justiça",
+        "zipcode": "07417-325"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Maringá",
+        "street": "Rua das Orquídeas",
+        "zipcode": "07429-800"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Maringá",
+        "street": "Rua dos Jacintos",
+        "zipcode": "07429-805"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Tupi",
+        "street": "Avenida Tibiriçá",
+        "zipcode": "07431-210"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Emília",
+        "street": "Rua Oscar Schiavon",
+        "zipcode": "07432-065"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Emília",
+        "street": "Rua Alice",
+        "zipcode": "07432-070"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Emília",
+        "street": "Rua Dady",
+        "zipcode": "07432-075"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Emília",
+        "street": "Rua Nick",
+        "zipcode": "07432-085"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua das Margaridas",
+        "zipcode": "07436-745"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Praça Uta Yoshikawa",
+        "zipcode": "07411-680"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Avenida Soldado Edson de Paula e Silva",
+        "zipcode": "07417-295"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Maria Isabel de Lima Leme",
+        "zipcode": "07417-330"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Variscita",
+        "zipcode": "07428-295"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida Takara Belmont",
+        "zipcode": "07411-710"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-480"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Pinheiros",
+        "zipcode": "07435-220"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Mangueiras",
+        "zipcode": "07435-225"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Jaboticabeiras",
+        "zipcode": "07435-230"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda Paubrasil",
+        "zipcode": "07435-210"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "São Bento",
+        "street": "Rua Waldomiro Luis Coutinho",
+        "zipcode": "07442-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jaguari",
+        "street": "Estrada Municipal do Jaguari",
+        "zipcode": "07420-885"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua dos Nóbregas",
+        "zipcode": "07436-795"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Ferrara",
+        "zipcode": "07438-565"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua Alegria",
+        "zipcode": "07440-040"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua Acácias",
+        "zipcode": "07440-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Etelvira Martins Guimarães",
+        "zipcode": "07417-300"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Petróleo",
+        "zipcode": "07439-045"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Natal",
+        "zipcode": "07402-840"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Antonio Pedroso Barbosa",
+        "zipcode": "07417-605"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Estrada dos Índios",
+        "zipcode": "07439-060"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Avenida Leocádio Mendonça",
+        "zipcode": "07403-120"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Jade",
+        "zipcode": "07428-230"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pedroso",
+        "street": "Estrada Santa Isabel",
+        "zipcode": "07434-325"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Vincenza",
+        "zipcode": "07438-545"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Monza",
+        "zipcode": "07438-550"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Turim",
+        "zipcode": "07438-555"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Leika",
+        "street": "Rua Negrão",
+        "zipcode": "07432-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Messina",
+        "zipcode": "07438-530"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Limoeiros",
+        "zipcode": "07435-245"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Magnólias",
+        "zipcode": "07435-250"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Abacateiros",
+        "zipcode": "07435-275"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Eucaliptos",
+        "zipcode": "07435-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-660"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Sol",
+        "zipcode": "07436-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua Santa Catarina",
+        "zipcode": "07402-245"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Portão",
+        "street": "Via de Acesso Sul Km 201 (Rod Pres Dutra)",
+        "zipcode": "07411-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda das Rosas",
+        "zipcode": "07411-390"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda das Tulipas",
+        "zipcode": "07411-415"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Mercúrio",
+        "zipcode": "07436-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Estrada Zencuro Tamada",
+        "zipcode": "07401-680"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Bento Antonio dos Santos",
+        "zipcode": "07417-220"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Avenida Benedito Manoel dos Santos",
+        "zipcode": "07428-205"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-715"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Avenida Shiguetoshi Takahashi",
+        "zipcode": "07400-170"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Avenida Pinerollo",
+        "zipcode": "07400-140"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Pico da Neblina",
+        "zipcode": "07429-315"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua dos Girassóis",
+        "zipcode": "07436-740"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "São Bento",
+        "street": "Estrada José Antonio Manoel",
+        "zipcode": "07440-650"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pedroso",
+        "street": "Rua Arnaldo Gomes de Amorim Vaz",
+        "zipcode": "07434-320"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Badi Saleh Riman",
+        "zipcode": "07431-390"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara São José",
+        "street": "Rua Virgílio Antonio dos Ouros",
+        "zipcode": "07402-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Benedito Viana",
+        "zipcode": "07431-420"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Estância Pacaembu",
+        "street": "Avenida Internacional",
+        "zipcode": "07438-720"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua João Rodrigues de Freitas",
+        "zipcode": "07431-375"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Rua Hercélio Mattos de Oliveira",
+        "zipcode": "07400-250"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra da Mata da Corda",
+        "zipcode": "07404-175"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Praça Benedito Ferreira Franco",
+        "zipcode": "07400-503"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Jesuíno José Martins",
+        "zipcode": "07401-787"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Arnaldo Candela",
+        "zipcode": "07400-815"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Pará",
+        "zipcode": "07402-185"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Minas Gerais",
+        "zipcode": "07402-205"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Márcia Poli",
+        "zipcode": "07400-180"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Angelina Augusto Fernandes",
+        "zipcode": "07400-190"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Jacutinga",
+        "zipcode": "07405-440"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Tupi",
+        "street": "Avenida Paraguassú",
+        "zipcode": "07431-230"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Jóia",
+        "street": "Rua Cristal",
+        "zipcode": "07431-305"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-525"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-515"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque da Chapada Diamantina",
+        "zipcode": "07429-330"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara São José",
+        "street": "Rua Marina de Lima Santangelo",
+        "zipcode": "07402-295"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cachoeira",
+        "street": "Rua Benedita Maria do Espírito Santo",
+        "zipcode": "07438-630"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara São José",
+        "street": "Rua Wilson de Alcântara",
+        "zipcode": "07402-300"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Antonia Maria de Paulo Machado",
+        "zipcode": "07400-800"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua João Nepomuceno",
+        "zipcode": "07402-070"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Jóia",
+        "street": "Rua Pérola",
+        "zipcode": "07431-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Jóia",
+        "street": "Rua Diamante",
+        "zipcode": "07431-315"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Estrada Municipal",
+        "zipcode": "07431-370"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim das Cerejeiras",
+        "street": "Rua Sango Matsuzaki",
+        "zipcode": "07432-580"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Georgetow",
+        "zipcode": "07400-375"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Caiena",
+        "zipcode": "07400-390"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Havana",
+        "zipcode": "07400-395"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Assunção",
+        "zipcode": "07400-400"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Martins Fontes",
+        "zipcode": "07400-550"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Elpidio Ferreira Guimarães",
+        "zipcode": "07401-090"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara São José",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "07402-280"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Vanderley Nasser do Prado",
+        "zipcode": "07401-120"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Modelo",
+        "street": "Rua Adhemar de Barros",
+        "zipcode": "07401-290"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Rua Armando Sales de Oliveira",
+        "zipcode": "07401-345"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Rua Carlos de Campos",
+        "zipcode": "07401-365"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Quito",
+        "zipcode": "07400-440"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Rua Campos Sales",
+        "zipcode": "07400-495"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Andorinha",
+        "zipcode": "07405-445"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Gaivota",
+        "zipcode": "07405-450"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Canário",
+        "zipcode": "07405-455"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Perdizes",
+        "zipcode": "07405-465"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-465"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Andaluzita",
+        "zipcode": "07428-175"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Arnaldo Afonso de Lima",
+        "zipcode": "07417-175"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Avenida Armando Colangelo",
+        "zipcode": "07417-365"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Raymundo Fernandes",
+        "zipcode": "07417-335"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Emília",
+        "street": "Rua Clementina",
+        "zipcode": "07432-055"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Emília",
+        "street": "Rua Haroldo",
+        "zipcode": "07432-080"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Portão",
+        "street": "Estrada Adília Barbosa Neves",
+        "zipcode": "07413-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara São José",
+        "street": "Rua Silvino Rodrigues de Ávila",
+        "zipcode": "07402-305"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua Zeferino Barbosa de Souza",
+        "zipcode": "07402-040"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Maranhão",
+        "zipcode": "07402-165"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Paulo MantOku",
+        "zipcode": "07431-380"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua Adelino Lopes Gonçalves",
+        "zipcode": "07402-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-520"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Perová",
+        "street": "Estrada Kaminoya",
+        "zipcode": "07429-485"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Angelina Nicoletti do Carmo",
+        "zipcode": "07400-880"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua Atilio Tinucci",
+        "zipcode": "07402-080"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Lourdes Barbosa Sanches",
+        "zipcode": "07400-805"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua João da Silva Ferraz",
+        "zipcode": "07402-075"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Benedicta Luzia Nóbrega",
+        "zipcode": "07431-400"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Paraná",
+        "zipcode": "07402-210"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Geraldo Barbosa de Almeida",
+        "zipcode": "07400-175"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Hugo Takahashi",
+        "zipcode": "07400-185"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Avenida Getúlio Vargas",
+        "zipcode": "07400-230"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Bogotá",
+        "zipcode": "07400-420"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Rua Santa Cecília",
+        "zipcode": "07411-365"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua da Pedra",
+        "zipcode": "07440-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Sítio dos Fernandes",
+        "street": "Rua Shigueru Nakayama",
+        "zipcode": "07432-710"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Rubelita",
+        "zipcode": "07428-315"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Avenida Hans Ossamu Suzuki",
+        "zipcode": "07403-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-505"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua Onozor Maiolino Marchini",
+        "zipcode": "07402-060"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Lazurita",
+        "zipcode": "07428-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Itaberaba",
+        "zipcode": "07429-220"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Carmo",
+        "zipcode": "07429-210"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Laranja Azeda",
+        "street": "Estrada Laranja Azeda",
+        "zipcode": "07430-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque Grande Sertão Veredas",
+        "zipcode": "07429-325"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida Sequoia",
+        "zipcode": "07434-450"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Francisco Muraca",
+        "zipcode": "07401-745"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra de Bragança",
+        "zipcode": "07404-085"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Jari",
+        "zipcode": "07404-095"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Sada João Fernandes",
+        "zipcode": "07417-445"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Joaquim Ferreira Rodrigues",
+        "zipcode": "07417-585"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Josely",
+        "street": "Rua Atalaia",
+        "zipcode": "07443-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Arujá",
+        "street": "Rua Comendador José Alcides da Silva",
+        "zipcode": "07407-345"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Raimundo Pedro da Silva",
+        "zipcode": "07417-355"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Prefeito Julio Barbosa de Souza",
+        "zipcode": "07405-430"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Avenida Nossa Senhora de Fátima",
+        "zipcode": "07411-210"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Estrada dos Fernandes",
+        "zipcode": "07404-165"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua Nossa Senhora da Pompéia",
+        "zipcode": "07411-205"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Nossa Senhora do Perpétuo Socorro",
+        "zipcode": "07428-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Milton Ferreira Franco",
+        "zipcode": "07417-160"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Arujá",
+        "street": "Rua Arujá",
+        "zipcode": "07406-390"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua Santo Antonio",
+        "zipcode": "07411-170"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Antonio Afonso de Lima",
+        "zipcode": "07400-560"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Avenida Railda Alves de Oliveira",
+        "zipcode": "07417-265"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Rua Coração de Jesus",
+        "zipcode": "07411-370"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Cobre",
+        "zipcode": "07439-125"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Estrada Adília Barbosa Neves",
+        "zipcode": "07411-195"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra dos Palmares",
+        "zipcode": "07404-140"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Fontes",
+        "street": "Estrada Municipal Espigonal",
+        "zipcode": "07414-790"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Área Rural de Arujá",
+        "street": "Área Rural",
+        "zipcode": "07499-899"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Avenida Argila",
+        "zipcode": "07439-030"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Luiz Abrahão",
+        "zipcode": "07400-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Rua Marina Lourenço",
+        "zipcode": "07400-240"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Paramaribo",
+        "zipcode": "07400-425"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Tietê",
+        "zipcode": "07429-225"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Jovens da Verdade",
+        "zipcode": "07404-160"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Convívio Residencial Santana",
+        "street": "Rua Levino Machado",
+        "zipcode": "07400-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Iguaçu",
+        "zipcode": "07429-235"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque da Luz",
+        "zipcode": "07429-215"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Canjicas",
+        "street": "Estrada dos Correas",
+        "zipcode": "07424-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra de Itaberaba",
+        "zipcode": "07404-155"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Ibirapuera",
+        "zipcode": "07429-205"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Arujá",
+        "street": "Rua dos Milagres",
+        "zipcode": "07406-385"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Estanho",
+        "zipcode": "07439-130"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Benjamin de Jesus Rodrigues",
+        "zipcode": "07400-795"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Major Benjamin Franco",
+        "zipcode": "07400-590"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Albino Rodrigues Neves",
+        "zipcode": "07400-600"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Rua Vida e Arte",
+        "zipcode": "07400-290"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Rua Perfeita Liberdade",
+        "zipcode": "07400-295"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua La Paz",
+        "zipcode": "07400-370"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Carácas",
+        "zipcode": "07400-380"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Buenos Aires",
+        "zipcode": "07400-385"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua São José",
+        "zipcode": "07400-405"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Espanha",
+        "zipcode": "07400-410"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Francelino Ribeiro Musa",
+        "zipcode": "07400-585"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Belmiro Barbosa",
+        "zipcode": "07400-660"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Convívio Residencial Santana",
+        "street": "Rua Antonio Gomes",
+        "zipcode": "07400-315"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-580"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Arthur Melchiades Batista",
+        "zipcode": "07400-595"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Luiz Talarico",
+        "zipcode": "07417-580"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra das Vertentes",
+        "zipcode": "07404-125"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Rua Washington Luiz Pereira de Souza",
+        "zipcode": "07400-515"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Rua Euclides da Cunha",
+        "zipcode": "07400-520"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "07400-525"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "07400-545"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Monteiro Lobato",
+        "zipcode": "07400-555"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Ladeira Francisco André Barbosa",
+        "zipcode": "07400-570"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Lima",
+        "zipcode": "07400-430"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Avenida Marechal Castelo Branco",
+        "zipcode": "07400-445"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Wenceslau Braz",
+        "zipcode": "07400-455"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Ladeira Sebastião Francisco",
+        "zipcode": "07400-465"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Rua Siqueira Campos",
+        "zipcode": "07400-470"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Alfredo Antonio Fernandes",
+        "zipcode": "07417-415"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Rua José Basílio Alvarenga",
+        "zipcode": "07400-505"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida João Manoel",
+        "zipcode": "07400-610"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Antonio Pedroso de Almeida",
+        "zipcode": "07417-145"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Adelino Pereira da Silva",
+        "zipcode": "07417-165"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua José Faustino da Silva",
+        "zipcode": "07400-825"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Ruvigo",
+        "zipcode": "07438-540"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Colinas Verdes",
+        "street": "Alameda Petúnia",
+        "zipcode": "07414-400"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Avenida dos Expedicionários",
+        "zipcode": "07401-790"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Renata",
+        "street": "Rua Diomar Fernandes Negretti",
+        "zipcode": "07402-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua São Paulo",
+        "zipcode": "07402-190"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Capitulino Augusto",
+        "zipcode": "07400-675"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Araguaia",
+        "zipcode": "07429-230"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua Santo Antonio do Catigeró",
+        "zipcode": "07411-220"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Isolina Lopes",
+        "zipcode": "07400-710"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Rua Antonio da Natividade Coutinho",
+        "zipcode": "07400-510"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Convívio Residencial Santana",
+        "street": "Rua Vereador Eli Diniz",
+        "zipcode": "07400-320"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Francisco Rodrigues da Silva",
+        "zipcode": "07401-740"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Renata",
+        "street": "Rua Necy Monteiro DAquila",
+        "zipcode": "07402-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Maria Aparecida Alegri",
+        "zipcode": "07400-665"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Tsugye Imanisse",
+        "zipcode": "07401-130"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Irany Lervolino",
+        "zipcode": "07400-705"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Granjas Urupes",
+        "street": "Rua Perobas",
+        "zipcode": "07439-240"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Nair Ribeiro Maiolino",
+        "zipcode": "07400-700"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua João Mariano",
+        "zipcode": "07400-875"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Armando Tenório de Araújo",
+        "zipcode": "07400-885"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Aires Monteiro",
+        "zipcode": "07401-085"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Meridiano Pérola",
+        "zipcode": "07401-100"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Sergio Saleh Riman",
+        "zipcode": "07401-105"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Nanci Araki",
+        "zipcode": "07401-110"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Modelo",
+        "street": "Rua Melvin Jones",
+        "zipcode": "07401-305"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Rua Fernando Costa",
+        "zipcode": "07401-340"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Rua Julio Prestes",
+        "zipcode": "07401-350"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Rua Pedro de Toledo",
+        "zipcode": "07401-355"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Firmina Maiolino Ribeiro",
+        "zipcode": "07401-695"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Durval Ferreira de Almeida",
+        "zipcode": "07401-725"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Judith",
+        "street": "Rua Juventina Maiolino Sanches",
+        "zipcode": "07401-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Fernando Costa Filho",
+        "zipcode": "07400-755"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Othelo Meleckcevisks",
+        "zipcode": "07401-080"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Luiza de Faria Martins Guimarães",
+        "zipcode": "07417-170"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Caputera",
+        "street": "Rodovia Pedro Eroles",
+        "zipcode": "07434-090"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Valdemar Sampaio",
+        "zipcode": "07400-780"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua João Feliciano de Melo",
+        "zipcode": "07417-480"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Judith",
+        "street": "Rua Benedito Miguel de Moura",
+        "zipcode": "07401-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua José Lino de Souza",
+        "zipcode": "07400-690"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Aristides Cerqueira",
+        "zipcode": "07400-785"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Carime Buissa",
+        "zipcode": "07401-730"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Pedro de Alcântara",
+        "zipcode": "07401-735"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Benedita Maria Barbosa Souza",
+        "zipcode": "07401-755"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Pedro Paschoal",
+        "zipcode": "07401-760"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Macedo Soares",
+        "zipcode": "07401-765"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Praça Narciso José Lopes",
+        "zipcode": "07401-795"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Rua Prestes Maia",
+        "zipcode": "07401-330"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Avenida Amazonas",
+        "zipcode": "07402-085"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Avenida Amazonas",
+        "zipcode": "07402-090"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Avenida Armando Colangelo",
+        "zipcode": "07401-075"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Galáxia",
+        "zipcode": "07436-040"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Benedito Lavor dos Santos",
+        "zipcode": "07400-725"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Ceará",
+        "zipcode": "07402-155"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Acre",
+        "zipcode": "07402-160"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Bahia",
+        "zipcode": "07402-170"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Pernambuco",
+        "zipcode": "07402-175"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Goiás",
+        "zipcode": "07402-195"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Guanabara",
+        "zipcode": "07402-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua Piauí",
+        "zipcode": "07402-240"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua Rondônia",
+        "zipcode": "07402-250"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua Amapá",
+        "zipcode": "07402-255"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua Santa Cecília",
+        "zipcode": "07411-190"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Sadajiro Kinoshita",
+        "zipcode": "07400-865"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Rua Lucas Nogueira Garcez",
+        "zipcode": "07401-335"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Adelaide Lourenço Surian",
+        "zipcode": "07400-775"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Luiz Crispim da Silva",
+        "zipcode": "07400-860"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Projetada",
+        "zipcode": "07401-690"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Reinaldo Santangelo",
+        "zipcode": "07401-715"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Osmar de Rossi",
+        "zipcode": "07400-735"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Iraci Pinto Ferreira Braz",
+        "zipcode": "07401-720"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua José Marques de Souza",
+        "zipcode": "07400-765"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Ana Maria Moreira Coronado",
+        "zipcode": "07400-855"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Habib Tanuri",
+        "zipcode": "07401-095"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Guilherme Marchini",
+        "zipcode": "07401-115"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua dos Gerânios",
+        "zipcode": "07436-710"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Francisco Ângelo",
+        "zipcode": "07400-745"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra dos Carajás",
+        "zipcode": "07404-170"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "07402-810"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Curitiba",
+        "zipcode": "07402-820"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Salvador",
+        "zipcode": "07402-830"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Manaus",
+        "zipcode": "07402-845"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Recife",
+        "zipcode": "07402-850"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Avenida Francisco Baltazar de Araújo",
+        "zipcode": "07403-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Higino Rodrigues de Ávila",
+        "zipcode": "07403-070"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Avenida Inocêncio José Rodrigues",
+        "zipcode": "07403-080"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua São Judas Tadeu",
+        "zipcode": "07411-165"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua São Miguel",
+        "zipcode": "07411-175"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Avenida Nossa Senhora da Penha",
+        "zipcode": "07411-140"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua São José",
+        "zipcode": "07411-145"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua Santa Luzia",
+        "zipcode": "07411-150"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Donato Antonio de Camargo",
+        "zipcode": "07403-100"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua José Marangon",
+        "zipcode": "07401-750"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Benedito Branco de Moraes",
+        "zipcode": "07403-055"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Justino de Jesus Gomes",
+        "zipcode": "07401-770"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Maria Gonçalves de Oliveira",
+        "zipcode": "07400-850"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Sítio dos Fernandes",
+        "street": "Rua Takeo Maeji",
+        "zipcode": "07432-740"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Eurípedes Antonio do Carmo",
+        "zipcode": "07403-110"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua José Ricardo",
+        "zipcode": "07400-840"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara São José",
+        "street": "Rua Urias Pithon Barreto",
+        "zipcode": "07402-290"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra da Canastra",
+        "zipcode": "07404-080"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Jaire",
+        "zipcode": "07404-090"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Botucatu",
+        "zipcode": "07404-105"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra da Lua",
+        "zipcode": "07404-110"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Estrada dos Fernandes",
+        "zipcode": "07404-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Estrada dos Fernandes",
+        "zipcode": "07404-100"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Avenida Leocádio Mendonça",
+        "zipcode": "07403-090"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua São Benedito",
+        "zipcode": "07411-180"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua São João",
+        "zipcode": "07411-185"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Avenida Amazonas",
+        "zipcode": "07403-040"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Sebastiana Barbosa",
+        "zipcode": "07417-250"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "07402-790"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Porto Alegre",
+        "zipcode": "07402-795"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Avenida Real",
+        "zipcode": "07402-805"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Aristides Ramos dos Santos",
+        "zipcode": "07400-810"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Augusto Batista dos Santos",
+        "zipcode": "07400-720"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benjamin de Jesus Rodrigues",
+        "zipcode": "07417-125"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Arujá",
+        "street": "Rua Juscelino Kubitschek",
+        "zipcode": "07406-360"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim das Cerejeiras",
+        "street": "Rua F",
+        "zipcode": "07432-585"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Araripe",
+        "zipcode": "07404-185"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Guaraú",
+        "zipcode": "07404-195"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Avenida Nossa Senhora Aparecida",
+        "zipcode": "07411-160"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Santo Antônio",
+        "street": "Rua Vereador Edgar Vanini",
+        "zipcode": "07407-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Arujá",
+        "street": "Rua Aureliano Henrique Brotto",
+        "zipcode": "07407-340"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Arujá",
+        "street": "Rua Braz Ferreira",
+        "zipcode": "07407-360"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua João Leite de Camargo",
+        "zipcode": "07403-105"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Gleba D Arujamérica",
+        "street": "Rua João Domingos Ribeiro",
+        "zipcode": "07404-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Rodonita",
+        "zipcode": "07428-300"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Sebastião Parreira",
+        "zipcode": "07403-065"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua José Menino Ribeiro",
+        "zipcode": "07403-115"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua João de Lima",
+        "zipcode": "07403-045"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Agenor Ferreira de Souza",
+        "zipcode": "07403-060"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Licínio Rodrigues Paiva",
+        "zipcode": "07403-075"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Glória Maria Nasser",
+        "zipcode": "07403-030"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Adomiro Rodrigues dos Passos",
+        "zipcode": "07417-225"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Pelicano",
+        "zipcode": "07405-470"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Sabiá",
+        "zipcode": "07405-475"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Avenida Nossa Senhora de Fátima",
+        "zipcode": "07411-410"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida Toronto",
+        "zipcode": "07411-630"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida Londres",
+        "zipcode": "07411-650"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida Paris",
+        "zipcode": "07411-690"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida Tóquio",
+        "zipcode": "07411-730"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida Osaka",
+        "zipcode": "07411-750"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Portão",
+        "street": "Avenida Governador Mario Covas Junior",
+        "zipcode": "07412-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Yamamoto",
+        "street": "Rua Soishiro Motoie",
+        "zipcode": "07414-165"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Alice Sanches Ribeiro",
+        "zipcode": "07417-100"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Alexandre Ribeiro",
+        "zipcode": "07417-105"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Roberto Tariffe de Oliveira",
+        "zipcode": "07417-110"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Belmira de Lima Simões",
+        "zipcode": "07417-115"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Yamamoto",
+        "street": "Rua Massao Takahashi",
+        "zipcode": "07414-190"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Cipó",
+        "zipcode": "07404-190"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Yamamoto",
+        "street": "Rua Francisco Beirão",
+        "zipcode": "07414-170"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Yamamoto",
+        "street": "Rua Seiya Hanashiro",
+        "zipcode": "07414-175"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Cadeado",
+        "zipcode": "07404-205"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Yamamoto",
+        "street": "Rua Yoshikazu Tanaka",
+        "zipcode": "07414-185"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Arujá",
+        "street": "Rua Agá",
+        "zipcode": "07406-365"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Arujá",
+        "street": "Rua Pitta",
+        "zipcode": "07406-370"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Arujá",
+        "street": "Rua Tangará",
+        "zipcode": "07406-380"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pedreira",
+        "street": "Estrada Santa Isabel",
+        "zipcode": "07406-275"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua São Vicente",
+        "zipcode": "07411-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Rua São Luiz",
+        "zipcode": "07411-215"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Rua Santo Antonio",
+        "zipcode": "07411-405"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Avenida Armando Colangelo",
+        "zipcode": "07417-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Avenida Armando Colangelo",
+        "zipcode": "07417-370"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Estrada Adília Barbosa Neves",
+        "zipcode": "07411-350"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra Geral",
+        "zipcode": "07404-145"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Fontes",
+        "street": "Estrada dos Vados",
+        "zipcode": "07414-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Fontes",
+        "street": "Estrada dos Vados",
+        "zipcode": "07414-270"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Colinas Verdes",
+        "street": "Alameda Jasmin",
+        "zipcode": "07414-395"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda das Gardênias",
+        "zipcode": "07411-360"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda das Violetas",
+        "zipcode": "07411-375"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda dos Lilazes",
+        "zipcode": "07411-400"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Nossa Senhora do Carmo",
+        "zipcode": "07428-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Quitéria Alves Ferreira",
+        "zipcode": "07417-385"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Alice Ramos Barbosa",
+        "zipcode": "07417-395"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Zulmira Isabel de Moura",
+        "zipcode": "07417-410"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Tailor do Nascimento",
+        "zipcode": "07417-420"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Abdon Ferreira Silva",
+        "zipcode": "07417-435"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Rodrigo Mendes Barreto",
+        "zipcode": "07417-450"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Manoel João de Souza",
+        "zipcode": "07417-475"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benedito Rodrigues do Prado",
+        "zipcode": "07417-490"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Antonio Pinheiro",
+        "zipcode": "07417-495"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Antão Bernardo da Silva",
+        "zipcode": "07417-500"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Arujá",
+        "street": "Rua Paulo Antonio Barbosa",
+        "zipcode": "07407-375"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pedreira",
+        "street": "Estrada da Peinha",
+        "zipcode": "07407-270"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pedreira",
+        "street": "Estrada do Kondo (Jd Pinheiro)",
+        "zipcode": "07405-650"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque Lagoa do Peixe",
+        "zipcode": "07429-260"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Yamamoto",
+        "street": "Rua Jujiro Nakayama",
+        "zipcode": "07414-195"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Giuseppe Antonio Maiolino",
+        "zipcode": "07417-505"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benedito Rodrigues Munhoz",
+        "zipcode": "07417-535"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Luiz Gonzaga Colangelo Nóbrega",
+        "zipcode": "07417-540"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benedito Barbosa de Souza",
+        "zipcode": "07417-555"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Barbosa de Souza",
+        "zipcode": "07417-565"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Anadir Coutinho de Ávila",
+        "zipcode": "07417-575"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Severino Filho",
+        "zipcode": "07417-380"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Corpus Christi",
+        "zipcode": "07417-210"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Doutor Mário Napolitano",
+        "zipcode": "07417-120"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benedito Martins Guimarães",
+        "zipcode": "07417-130"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Umbelina Ferreira Barbosa",
+        "zipcode": "07417-140"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Almandina",
+        "zipcode": "07428-070"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Cícero Soares",
+        "zipcode": "07417-180"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Pedro Nolasco Coutinho",
+        "zipcode": "07417-155"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Marcos Aurélio de Castro",
+        "zipcode": "07417-405"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benjamin Barbosa",
+        "zipcode": "07417-570"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pedreira",
+        "street": "Estrada Santa Isabel",
+        "zipcode": "07405-500"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Leonardo Switzar",
+        "zipcode": "07417-515"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Eleazar Machado",
+        "zipcode": "07417-600"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Dalila Maria Joaquina Barbosa",
+        "zipcode": "07417-350"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua David Rodrigues de Ávila",
+        "zipcode": "07417-360"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benedito Norte",
+        "zipcode": "07417-240"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Serafim Antonio Domingos",
+        "zipcode": "07417-260"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benedito Palmiro Rodrigues",
+        "zipcode": "07417-285"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Sebastião Martins Guimarães",
+        "zipcode": "07417-290"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Colinas Verdes",
+        "street": "Alameda Melissa",
+        "zipcode": "07414-385"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda das Orquídeas",
+        "zipcode": "07411-425"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Colinas Verdes",
+        "street": "Alameda Alfazema",
+        "zipcode": "07414-405"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda dos Cravos",
+        "zipcode": "07411-420"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda das Hortências",
+        "zipcode": "07411-435"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda Azaléias",
+        "zipcode": "07411-440"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda das Camélias",
+        "zipcode": "07411-445"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Rua dos Jambeiros",
+        "zipcode": "07432-465"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Tupi",
+        "street": "Avenida Bartira",
+        "zipcode": "07431-220"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Tupi",
+        "street": "Avenida Caiubi",
+        "zipcode": "07431-225"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Rua das Carambolas",
+        "zipcode": "07432-440"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Rua das Pitangueiras",
+        "zipcode": "07432-445"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim das Cerejeiras",
+        "street": "Rua Takeji Shimmyo",
+        "zipcode": "07432-590"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Licatem",
+        "zipcode": "07428-280"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Fenacita",
+        "zipcode": "07428-305"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Três",
+        "zipcode": "07428-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Granada",
+        "zipcode": "07428-330"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Melanita",
+        "zipcode": "07428-105"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Marfim",
+        "zipcode": "07428-115"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Cipriana Maria do Rosário",
+        "zipcode": "07417-520"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Gilberto Mendes",
+        "zipcode": "07417-150"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Sanches Ricardo",
+        "zipcode": "07417-275"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Lino de Souza",
+        "zipcode": "07417-560"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Julio Felipe da Silva",
+        "zipcode": "07417-190"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Iolita",
+        "zipcode": "07428-080"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Moldavita",
+        "zipcode": "07428-120"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Avenida Coral",
+        "zipcode": "07428-075"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Piropo",
+        "zipcode": "07428-155"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Andulária",
+        "zipcode": "07428-210"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Pedra da Lua",
+        "zipcode": "07428-235"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Citrino",
+        "zipcode": "07428-250"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Leika",
+        "street": "Avenida Dutra",
+        "zipcode": "07432-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Emília",
+        "street": "Avenida Dutra",
+        "zipcode": "07432-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Maringá",
+        "street": "Rua dos Ipês",
+        "zipcode": "07429-815"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Maringá",
+        "street": "Rua Dracena",
+        "zipcode": "07429-820"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Emília",
+        "street": "Rua Nicolau",
+        "zipcode": "07432-060"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Leika",
+        "street": "Rua Pedro Pereira da Silva",
+        "zipcode": "07432-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Leika",
+        "street": "Rua Gabriel Paschoal",
+        "zipcode": "07432-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Claudio dos Santos Filho",
+        "zipcode": "07417-345"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Aragonita",
+        "zipcode": "07428-185"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Apatita",
+        "zipcode": "07428-160"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Nefrita",
+        "zipcode": "07428-090"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Avenida Cianita",
+        "zipcode": "07428-135"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Berilo",
+        "zipcode": "07428-245"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Gertrudes de Araújo Franco",
+        "zipcode": "07431-430"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Alexandrita",
+        "zipcode": "07428-215"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Benedito Almeida de Nóbrega",
+        "zipcode": "07431-435"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Maria Mãe dos Homens",
+        "zipcode": "07428-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Isabel Alves do Prado",
+        "zipcode": "07431-405"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Rolando Tinucci",
+        "zipcode": "07431-410"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Brasilianita",
+        "zipcode": "07428-220"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Angelo de Araújo Franco",
+        "zipcode": "07417-280"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Jaspe",
+        "zipcode": "07428-085"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Hussain Saleh Rimanw",
+        "zipcode": "07431-445"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida Platano",
+        "zipcode": "07434-520"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Sítio dos Fernandes",
+        "street": "Rua Tomi Miura",
+        "zipcode": "07432-670"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim das Cerejeiras",
+        "street": "Rua Keitome Hosoe",
+        "zipcode": "07432-595"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-530"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida das Seringueiras",
+        "zipcode": "07434-455"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua dos Coqueiros",
+        "zipcode": "07434-460"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua Primavera",
+        "zipcode": "07434-465"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida das Cerejeiras",
+        "zipcode": "07434-475"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua Angico",
+        "zipcode": "07434-480"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua Ipê",
+        "zipcode": "07434-485"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida Cizalpina",
+        "zipcode": "07434-490"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-500"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Opala",
+        "zipcode": "07428-145"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Viruá",
+        "zipcode": "07429-290"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque Marinho dos Abrólios",
+        "zipcode": "07429-305"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque de Ilha Grande",
+        "zipcode": "07429-285"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque dos Lençóis Maranhenses",
+        "zipcode": "07429-300"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque da Chapada dos Guimarães",
+        "zipcode": "07429-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Professor Farid Fahad",
+        "zipcode": "07431-450"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Peridoto",
+        "zipcode": "07428-150"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Âmbar",
+        "zipcode": "07428-265"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Laranja Azeda",
+        "street": "Avenida Tower Automotive",
+        "zipcode": "07430-350"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque da Tijuca",
+        "zipcode": "07429-280"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque de Itatiaia",
+        "zipcode": "07429-275"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Maria Justina Gonçalves",
+        "zipcode": "07431-395"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Limoeiro",
+        "street": "Rua Benedito Antonio Ribeiro",
+        "zipcode": "07434-120"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara Bananal",
+        "street": "Estrada da Peinha",
+        "zipcode": "07418-085"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Avenida Amazonita",
+        "zipcode": "07428-165"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque da Chapada das Mesas",
+        "zipcode": "07429-320"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Hematita",
+        "zipcode": "07428-260"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Sítio dos Fernandes",
+        "street": "Rua Tiaki Ogaçawara",
+        "zipcode": "07432-675"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Ametista",
+        "zipcode": "07428-240"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Morganita",
+        "zipcode": "07428-140"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Azurita",
+        "zipcode": "07428-125"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Maria Aparecida de Ávila",
+        "zipcode": "07431-425"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida Azaléia",
+        "zipcode": "07434-525"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida Silvestre",
+        "zipcode": "07434-530"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-440"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-550"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-590"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pedroso",
+        "street": "Rua Mauro Lopes",
+        "zipcode": "07434-300"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pedroso",
+        "street": "Rua José Nasser Filho",
+        "zipcode": "07434-305"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pedroso",
+        "street": "Rua Plínio Salgado Santangelo",
+        "zipcode": "07434-315"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua Paineiras",
+        "zipcode": "07434-430"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua Jacarandá",
+        "zipcode": "07434-435"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua Tuia",
+        "zipcode": "07434-440"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua dos Pinheiros",
+        "zipcode": "07434-445"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida das Palmeiras",
+        "zipcode": "07434-535"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida dos Pinheiros",
+        "zipcode": "07434-540"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Perobal",
+        "street": "Rua Beira Rio (Lot Fontes)",
+        "zipcode": "07432-410"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Manacás",
+        "zipcode": "07435-195"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Paineiras",
+        "zipcode": "07435-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Padre Benedito Rodrigues de Ávila",
+        "zipcode": "07431-415"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-585"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pedroso",
+        "street": "Rua Jurandir Sanches Maiolino",
+        "zipcode": "07434-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-560"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Limoeiro",
+        "street": "Rua José Araújo de Lima",
+        "zipcode": "07434-125"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-460"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-555"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Fontes",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07415-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Fontes",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07416-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pirituba",
+        "street": "Rua Botucatu",
+        "zipcode": "07420-350"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pirituba",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07420-850"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jaguari",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07421-100"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jaguari",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07422-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque dos Jacarandás",
+        "street": "Rua dos Jacarandás",
+        "zipcode": "07437-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque dos Jacarandás",
+        "street": "Rua dos Pinheiros",
+        "zipcode": "07437-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque dos Jacarandás",
+        "street": "Rua dos Cedros",
+        "zipcode": "07437-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque dos Arantes",
+        "street": "Rua das Palmeiras",
+        "zipcode": "07437-080"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Mármore",
+        "zipcode": "07439-070"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-600"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-685"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-535"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-620"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Perobal",
+        "street": "Avenida Manoel Albuquerque Ribeiro (Lot Fontes)",
+        "zipcode": "07432-135"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-655"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-700"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-565"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-450"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pedroso",
+        "street": "Rua Angelo Anunciato Neto",
+        "zipcode": "07434-330"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-695"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-650"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-445"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Limoeiro",
+        "street": "Rua Limoeiro",
+        "zipcode": "07434-130"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-615"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-670"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-545"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Calógero Rapé",
+        "zipcode": "07436-700"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua das Acácias",
+        "zipcode": "07436-715"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Flor do Campo",
+        "zipcode": "07436-720"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua São Paulo",
+        "zipcode": "07402-800"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida João Manoel",
+        "zipcode": "07400-971"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Avenida dos Expedicionários",
+        "zipcode": "07400-972"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Alameda dos Flamingos",
+        "zipcode": "07435-035"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Alameda dos Irerês",
+        "zipcode": "07435-040"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Laranjeiras",
+        "zipcode": "07435-205"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Castanheiras",
+        "zipcode": "07435-270"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Coqueiros",
+        "zipcode": "07435-290"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Perobinhas",
+        "zipcode": "07435-305"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Pessegueiros",
+        "zipcode": "07435-265"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Alameda dos Atobás",
+        "zipcode": "07435-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Alameda dos Araçaris",
+        "zipcode": "07435-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Alameda dos Uirapurus",
+        "zipcode": "07435-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Alameda dos Tucanos",
+        "zipcode": "07435-030"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Bauxita",
+        "zipcode": "07439-100"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Granito",
+        "zipcode": "07439-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-470"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-720"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-725"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Magnesita",
+        "zipcode": "07439-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-610"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-680"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Jasmins",
+        "zipcode": "07436-750"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Ana Zirpoli DAmore",
+        "zipcode": "07436-760"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Ferro",
+        "zipcode": "07439-035"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-675"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-635"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Avenida Antimônio",
+        "zipcode": "07439-040"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Mica",
+        "zipcode": "07439-065"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua Jatobá",
+        "zipcode": "07440-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua do Cedro",
+        "zipcode": "07440-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Travessa Liberdade",
+        "zipcode": "07440-035"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque dos Jacarandás",
+        "street": "Rua dos Figueiras",
+        "zipcode": "07437-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra Pelada",
+        "zipcode": "07404-215"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Via Dutra",
+        "street": "Rua Presidente Bernardes",
+        "zipcode": "07438-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Via Dutra",
+        "street": "Rua Presidente Wenceslau",
+        "zipcode": "07438-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Via Dutra",
+        "street": "Rua Ribeirão dos Índios",
+        "zipcode": "07438-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Via Dutra",
+        "street": "Rua Santo Anastácio",
+        "zipcode": "07438-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra da Bocaina",
+        "zipcode": "07404-115"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra de Paranapiacaba",
+        "zipcode": "07404-120"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Josely",
+        "street": "Rua Três Fronteiras",
+        "zipcode": "07443-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Josely",
+        "street": "Rua União Paulista",
+        "zipcode": "07443-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Josely",
+        "street": "Rua Tupã",
+        "zipcode": "07443-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Josely",
+        "street": "Rua Boa Esperança",
+        "zipcode": "07443-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua Jataí",
+        "zipcode": "07440-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua das Cerejeiras",
+        "zipcode": "07440-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Arapongas",
+        "zipcode": "07405-460"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua Rouxinol",
+        "zipcode": "07405-425"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Avenida São Lucas",
+        "zipcode": "07411-430"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Arujá",
+        "street": "Rua Paulistinha",
+        "zipcode": "07406-375"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua das Hortências",
+        "zipcode": "07436-705"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Josely",
+        "street": "Rua Califórnia",
+        "zipcode": "07443-030"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Rosa Brunatti",
+        "zipcode": "07436-775"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Granjas Urupes",
+        "street": "Rua das Camélias",
+        "zipcode": "07439-245"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-705"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Molibidênio",
+        "zipcode": "07439-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Josely",
+        "street": "Rua Abatiá",
+        "zipcode": "07443-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Francisco Cesário da Silva",
+        "zipcode": "07436-780"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Veneza",
+        "zipcode": "07438-475"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Palermo",
+        "zipcode": "07438-480"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Bari",
+        "zipcode": "07438-495"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Modena",
+        "zipcode": "07438-500"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Roma",
+        "zipcode": "07438-515"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Avenida Presidente Dutra",
+        "zipcode": "07411-385"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cachoeira",
+        "street": "Rua Benedito do Prado",
+        "zipcode": "07438-620"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque dos Arantes",
+        "street": "Rua das Figueiras",
+        "zipcode": "07437-090"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Mercúrio",
+        "zipcode": "07439-080"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Grafite",
+        "zipcode": "07439-090"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Xisto",
+        "zipcode": "07439-110"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Caolim",
+        "zipcode": "07439-120"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra dos Canudos",
+        "zipcode": "07404-135"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Plutão",
+        "zipcode": "07436-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Lua",
+        "zipcode": "07436-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Estrela",
+        "zipcode": "07436-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Via Láctea",
+        "zipcode": "07436-045"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Netuno",
+        "zipcode": "07436-075"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Vênus",
+        "zipcode": "07436-085"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Novo Horizonte Hills I e II",
+        "street": "Alameda Urano",
+        "zipcode": "07436-065"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pirituba",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07420-400"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Gelna",
+        "zipcode": "07439-025"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Rua Antonio Rodrigues Barbosa",
+        "zipcode": "07400-285"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Granjas Urupes",
+        "street": "Via dos Guarantãs",
+        "zipcode": "07439-250"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Coque",
+        "zipcode": "07439-135"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Rua Juiz Antonio Meira Neto",
+        "zipcode": "07400-260"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Kanehira Saiki",
+        "zipcode": "07436-790"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Avenida Perimetral",
+        "zipcode": "07432-435"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Rua dos Coqueiros",
+        "zipcode": "07432-450"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Vitória",
+        "street": "Rua Major Benjamin Franco",
+        "zipcode": "07400-165"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Nossa Senhora da Conceição",
+        "zipcode": "07428-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Avenida das Magnólias",
+        "zipcode": "07434-515"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua das Paineiras",
+        "zipcode": "07440-055"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Sítio dos Fernandes",
+        "street": "Rua Hirayoshi Amano",
+        "zipcode": "07432-685"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Avenida Anacleto de Jesus Ferreira",
+        "zipcode": "07403-085"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Serpentina",
+        "zipcode": "07428-320"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Pacatuba",
+        "zipcode": "07404-070"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho IV",
+        "street": "Rua das Quaresmeiras",
+        "zipcode": "07434-470"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Iraci Souza da Rocha",
+        "zipcode": "07417-485"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Avenida Cícera Maria Rodrigues",
+        "zipcode": "07417-530"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Pedro José de Morais",
+        "zipcode": "07417-590"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua dos Lagos",
+        "zipcode": "07440-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Pereira de Aquino",
+        "zipcode": "07417-215"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida New Jersey",
+        "zipcode": "07411-670"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida Frankfurt",
+        "zipcode": "07411-770"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Antonio DAquila",
+        "zipcode": "07400-715"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Avenida Francisco Antonio Pedro Paulo",
+        "zipcode": "07403-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro Industrial de Arujá",
+        "street": "Avenida Saint Louis",
+        "zipcode": "07411-610"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Theófilo Ramos de Andrade",
+        "zipcode": "07403-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Yamamoto",
+        "street": "Rua Michio Hatakeyama",
+        "zipcode": "07414-180"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Gil",
+        "zipcode": "07404-130"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Rua Doutor Astélio de Toledo Fernandes",
+        "zipcode": "07400-245"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Caiapó",
+        "zipcode": "07404-180"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Convívio Residencial Santana",
+        "street": "Rua Aracy de Souza Machado",
+        "zipcode": "07400-325"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Olivina",
+        "zipcode": "07428-190"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Renova",
+        "zipcode": "07428-270"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Estrada Santa Isabel",
+        "zipcode": "07435-180"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Ravena",
+        "zipcode": "07438-520"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Capri",
+        "zipcode": "07438-560"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Avenida Antonio Afonso de Lima",
+        "zipcode": "07400-530"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Avenida Armando Colangelo",
+        "zipcode": "07401-070"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Avenida Armando Colangelo",
+        "zipcode": "07417-305"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Paulina Maria da Conceição Maiolino",
+        "zipcode": "07417-270"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Avenida dos Expedicionários",
+        "zipcode": "07400-970"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Alameda dos Manacás",
+        "zipcode": "07411-380"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda das Tangerinas",
+        "zipcode": "07435-235"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Country Club",
+        "street": "Alameda dos Pereiras",
+        "zipcode": "07435-260"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Alameda Nassima Jorge Miguel",
+        "zipcode": "07401-140"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Santo Antônio",
+        "street": "Rua Sebastião Cubas dos Santos",
+        "zipcode": "07407-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Portão",
+        "street": "Rua Sigeru Araki",
+        "zipcode": "07412-800"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim das Cerejeiras",
+        "street": "Rua Tomi Saburo Yamamoto",
+        "zipcode": "07432-575"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Silmar Montoni",
+        "zipcode": "07401-135"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Fontes",
+        "street": "Avenida Fatec",
+        "zipcode": "07414-430"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Mamede Barbosa",
+        "zipcode": "07400-820"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Rua Prudente de Moraes",
+        "zipcode": "07400-500"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Planalto",
+        "street": "Rua Mato Grosso",
+        "zipcode": "07402-180"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pilar",
+        "street": "Rua Guido Reginato",
+        "zipcode": "07401-705"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Jorge Cruz",
+        "zipcode": "07417-460"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Rodrigues de Ávila",
+        "zipcode": "07417-230"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Jamila Zaidan Riman",
+        "zipcode": "07431-385"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Antonio Francisco de Lima",
+        "zipcode": "07403-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Anita Momili Machado",
+        "zipcode": "07400-835"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Modelo",
+        "street": "Rua General Porfírio da Paz",
+        "zipcode": "07401-300"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Via de Circulação",
+        "zipcode": "07400-050"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07400-630"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "São Bento",
+        "street": "Estrada São Bento",
+        "zipcode": "07440-400"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Avenida Behr Brasil",
+        "zipcode": "07404-290"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Portão",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07412-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Pedroso",
+        "street": "Praça Pedro Pedroso de Almeida",
+        "zipcode": "07434-313"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Pirituba",
+        "street": "Estrada Velha do Pirituba",
+        "zipcode": "07420-880"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Real",
+        "street": "Rua Cuiabá",
+        "zipcode": "07402-870"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Portão",
+        "street": "Avenida P.L. do Brasil",
+        "zipcode": "07412-240"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Colinas Verdes",
+        "street": "Estrada Benvinda Oliveira Magalhães",
+        "zipcode": "07414-425"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Fontes",
+        "street": "Avenida Comendador Masatoshi Shinmyo",
+        "zipcode": "07414-780"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua 1",
+        "zipcode": "07403-113"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Rincão",
+        "street": "Avenida dos Expedicionários",
+        "zipcode": "07400-460"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Flora Regina",
+        "street": "Avenida dos Expedicionários",
+        "zipcode": "07400-490"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Riman",
+        "street": "Avenida dos Expedicionários",
+        "zipcode": "07401-370"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Renata",
+        "street": "Rua Judite Rodrigues Norte",
+        "zipcode": "07402-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Lima",
+        "street": "Rua Raposo Tavares",
+        "zipcode": "07402-120"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua Braz Maiolino",
+        "zipcode": "07402-055"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua Ipê",
+        "zipcode": "07440-030"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Modelo",
+        "street": "Rua Jonas Poli",
+        "zipcode": "07401-310"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque das Agulhas Negras",
+        "zipcode": "07429-270"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Ágata",
+        "zipcode": "07428-225"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Níquel",
+        "zipcode": "07439-055"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Pirita",
+        "zipcode": "07428-110"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Avenida Verdes Lagos",
+        "zipcode": "07435-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Avenida Esmeralda",
+        "zipcode": "07428-195"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-455"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São José",
+        "street": "Rua Guaporé",
+        "zipcode": "07402-265"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Rua dos Abacateiros",
+        "zipcode": "07432-455"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Rua das Jaqueiras",
+        "zipcode": "07432-460"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Recanto Primavera",
+        "street": "Rua das Mangueiras",
+        "zipcode": "07432-470"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Linhita",
+        "zipcode": "07439-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Avenida Amianto",
+        "zipcode": "07439-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Pinheiro",
+        "street": "Rua João de Barro",
+        "zipcode": "07405-435"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra da Cantareira",
+        "zipcode": "07404-035"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Nossa Senhora do Carmo",
+        "street": "Rua Nossa Senhora de Lourdes",
+        "zipcode": "07428-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Vista Alegre",
+        "street": "Rua do Futuro",
+        "zipcode": "07440-045"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque dos Jacarandás",
+        "street": "Rua dos Quarantãs",
+        "zipcode": "07437-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Center Ville",
+        "street": "Rua Albino Rodrigues Neves",
+        "zipcode": "07401-125"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jordanópolis",
+        "street": "Avenida Santa Terezinha",
+        "zipcode": "07411-155"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Pedro Severino Martins",
+        "zipcode": "07400-770"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José de Lima",
+        "zipcode": "07417-430"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua José Maria Leandro da Silva",
+        "zipcode": "07417-510"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benedita Leopoldina de Almeida",
+        "zipcode": "07417-525"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Santo Antônio",
+        "street": "Rua Galdino Antonio de Almeida",
+        "zipcode": "07407-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Cidade Nova Arujá",
+        "street": "Rua Nossa Senhora da Pompéia",
+        "zipcode": "07411-395"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Maria Luiza Guimarães de Lima",
+        "zipcode": "07417-135"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Axinita",
+        "zipcode": "07428-130"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Espinélio",
+        "zipcode": "07428-255"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Luiz Paulo Colangelo Nóbrega",
+        "zipcode": "07417-185"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Turquesa",
+        "zipcode": "07428-325"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Monte Pascoal",
+        "zipcode": "07429-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Fausto Morais R. Fonseca",
+        "zipcode": "07400-655"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Yamamoto",
+        "street": "Rua Katsuzo Yamamoto",
+        "zipcode": "07414-160"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua João Cirilo da Silva",
+        "zipcode": "07400-830"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Milão",
+        "zipcode": "07438-470"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Claudino Gomes",
+        "zipcode": "07417-340"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Augustinho Palmezan",
+        "zipcode": "07436-770"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara São José",
+        "street": "Rua Sebastião Demétrio Rodrigues",
+        "zipcode": "07402-315"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Rogério de Andrade Santos",
+        "zipcode": "07417-195"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "São Bento",
+        "street": "Rodovia Pedro Eroles",
+        "zipcode": "07440-550"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Ângelo",
+        "street": "Rua São Bento",
+        "zipcode": "07400-280"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Vila Lima",
+        "street": "Rua Silvina de Camargo",
+        "zipcode": "07402-135"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Descobrimento",
+        "zipcode": "07429-295"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Espinhaço",
+        "zipcode": "07404-150"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Benedita Maria Augusta",
+        "zipcode": "07403-020"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Benedito de Maggio",
+        "zipcode": "07417-440"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-645"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Fazenda Rincão",
+        "street": "Rua Marcassita",
+        "zipcode": "07428-095"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque das Emas",
+        "zipcode": "07429-265"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Imperial Hills III",
+        "street": "Rua Viterbo",
+        "zipcode": "07438-525"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Nelson Mastropasqua",
+        "zipcode": "07417-425"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Travessa Décio Marcelo Manoel",
+        "zipcode": "07400-565"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Istilita Antonio Morais",
+        "zipcode": "07400-790"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácaras Copaco",
+        "street": "Rua Manganês",
+        "zipcode": "07439-005"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-605"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Maria de Lourdes Victorino",
+        "zipcode": "07417-545"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Esmera Maria Rodrigues",
+        "zipcode": "07400-990"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-595"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Lagos Residencial",
+        "street": "Alameda dos Anambés",
+        "zipcode": "07435-015"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Chácara Bananal",
+        "street": "Ladeira Coronel José Lourenço de Souza",
+        "zipcode": "07418-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Terezinha de Jesus Monteiro de Castro",
+        "zipcode": "07417-550"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Limoeiro",
+        "street": "Rua Didier Geraldo de Camargo Neto",
+        "zipcode": "07434-105"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Vicente Antonio Nogueira",
+        "zipcode": "07417-390"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Modelo",
+        "street": "Praça Dalila Ferreira Barbosa",
+        "zipcode": "07401-295"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Mirante do Arujá",
+        "street": "Rua Serra do Taquari",
+        "zipcode": "07404-200"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Limoeiro",
+        "street": "Estrada Limoeiro",
+        "zipcode": "07434-110"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujamérica",
+        "street": "Rua Orlando Muraca",
+        "zipcode": "07403-035"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Cury",
+        "street": "Rua Ali Ali Hamoud",
+        "zipcode": "07431-440"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Isaura Maria Batista Garcia",
+        "zipcode": "07417-235"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Convívio Residencial Santana",
+        "street": "Rua Vereador Antonio Frau",
+        "zipcode": "07400-330"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Margarida Maiolino",
+        "zipcode": "07417-595"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Santo Antônio",
+        "street": "Rua João Antonio de Oliveira",
+        "zipcode": "07407-000"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-485"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Maria Helena do Carmo Milanda",
+        "zipcode": "07417-255"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque do Pantanal Matogrossense",
+        "zipcode": "07429-245"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Barbosas",
+        "street": "Rua Professor João Feliciano",
+        "zipcode": "07402-045"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujázinho I",
+        "street": null,
+        "zipcode": "07435-570"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim Limoeiro",
+        "street": "Estrada Santa Isabel",
+        "zipcode": "07434-100"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Jardim São Jorge",
+        "street": "Rua Amélia Fratucci Terenciano",
+        "zipcode": "07436-785"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Parque Rodrigo Barreto",
+        "street": "Rua Claudino Antonio Barbosa",
+        "zipcode": "07417-320"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Arujá Centro Residencial",
+        "street": "Rua Dulce Ferreira S Quatrochi",
+        "zipcode": "07400-870"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Gleba D Arujamérica",
+        "street": "Rua Benedito Barbosa Coutinho",
+        "zipcode": "07404-010"
+    },
+    {
+        "city": "Arujá",
+        "state": "SP",
+        "district": "Residencial Real Park",
+        "street": "Rua Parque das Araucárias",
+        "zipcode": "07429-240"
+    }
+]

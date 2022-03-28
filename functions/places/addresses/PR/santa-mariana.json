@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Santa Mariana",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Pedro Salomão",
+        "zipcode": "86350-970"
+    },
+    {
+        "city": "Santa Mariana",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "86355-990"
+    },
+    {
+        "city": "Santa Mariana",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86350-000"
+    }
+]

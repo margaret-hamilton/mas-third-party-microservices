@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Vila Vargas (Dourados)",
+        "state": "MS",
+        "district": "",
+        "street": "",
+        "zipcode": "79878-000"
+    },
+    {
+        "city": "Vila Vargas (Dourados)",
+        "state": "MS",
+        "district": null,
+        "street": "Rua João Gulart",
+        "zipcode": "79878-990"
+    },
+    {
+        "city": "Vila Vargas (Dourados)",
+        "state": "MS",
+        "district": "Centro",
+        "street": "Rua João Goulart",
+        "zipcode": "79878-970"
+    }
+]

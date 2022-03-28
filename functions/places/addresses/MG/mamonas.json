@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Mamonas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39516-000"
+    },
+    {
+        "city": "Mamonas",
+        "state": "MG",
+        "district": "Barrinha",
+        "street": "Praça Central s/n  AGC Mamonas",
+        "zipcode": "39516-971"
+    },
+    {
+        "city": "Mamonas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Vinte e Sete de Abril 26",
+        "zipcode": "39516-973"
+    }
+]

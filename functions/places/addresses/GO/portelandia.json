@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Portelândia",
+        "state": "GO",
+        "district": null,
+        "street": null,
+        "zipcode": "75835-000"
+    },
+    {
+        "city": "Portelândia",
+        "state": "GO",
+        "district": "",
+        "street": "",
+        "zipcode": "75843-000"
+    },
+    {
+        "city": "Portelândia",
+        "state": "GO",
+        "district": "Setor Central",
+        "street": "Avenida Goiás s/n Quadra 32 Lote 13  AC Portelândia",
+        "zipcode": "75843-970"
+    },
+    {
+        "city": "Portelândia",
+        "state": "GO",
+        "district": "Setor Central",
+        "street": "Avenida Goiás s/n Quadra 32 Lote 13",
+        "zipcode": "75839-970"
+    }
+]

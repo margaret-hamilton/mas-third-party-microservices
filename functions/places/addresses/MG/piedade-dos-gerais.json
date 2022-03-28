@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Piedade dos Gerais",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Coronel Lazarino Pereira 26",
+        "zipcode": "35526-970"
+    },
+    {
+        "city": "Piedade dos Gerais",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35526-000"
+    },
+    {
+        "city": "Piedade dos Gerais",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35476-000"
+    },
+    {
+        "city": "Piedade dos Gerais",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Coronel Lazarino Pereira 26  AC Piedade dos Gerais",
+        "zipcode": "35476-970"
+    }
+]

@@ -1,0 +1,443 @@
+[
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Balneario",
+        "street": "Rua Jose De Anchieta",
+        "zipcode": "88095-110"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jurere",
+        "street": "Rua Dos Botos",
+        "zipcode": "88053-353"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Cachoeira Do Bom Jesus",
+        "street": "Rua Da Serte",
+        "zipcode": "88056-370"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Ratones",
+        "street": "Servidão Acacio Vieira Da Rosa",
+        "zipcode": "88052-350"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Itacorubi",
+        "street": "Rodovia Admar Gonzaga",
+        "zipcode": "88034-002"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Servidão Walter Richter",
+        "zipcode": "88045-040"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Servidão Manoel Sibirino Coelho",
+        "zipcode": "88045-036"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Santa Monica",
+        "street": "Rua Vereador Ramon Filomeno",
+        "zipcode": "88035-495"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Carvoeira",
+        "street": "Rua Dos Geraneos Floridos",
+        "zipcode": "88040-525"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Ingleses",
+        "street": "Servidão Aurora",
+        "zipcode": "88056-491"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Barra Da Lagoa",
+        "street": "Servidão Maria Alexandra Severina",
+        "zipcode": "88060-840"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Campeche",
+        "street": "Rua Huberto Rohden",
+        "zipcode": "88063-730"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Campeche",
+        "street": "Rua Laureano",
+        "zipcode": "88063-740"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Campeche",
+        "street": "Rua Ilha Sul",
+        "zipcode": "88063-790"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Estreito",
+        "street": "Praça Alziro Zarur",
+        "zipcode": "88085-003"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Balneario",
+        "street": "Rua Abelardo Luz",
+        "zipcode": "88095-090"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Rua Prof. Anibal Nunes Pires",
+        "zipcode": "88045-030"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Santa Monica",
+        "street": "Rua Eduardo Goncalves D Avila",
+        "zipcode": "88035-490"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Cacupe",
+        "street": "Condomínio Aldeia De Cacupe",
+        "zipcode": "88050-100"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Costeira Do Pirajubae",
+        "street": "Beco Verondino",
+        "zipcode": "88047-120"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Cacupe",
+        "street": "Condomínio Arraial Do Mar",
+        "zipcode": "88050-180"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Barra Da Lagoa",
+        "street": "Travessa Bernardo Luiz Vieira",
+        "zipcode": "88061-070"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Estreito",
+        "street": "Praça Marcelino Vieira Filho",
+        "zipcode": "88075-625"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Itaguacu",
+        "street": "Praça Calistrato Salles",
+        "zipcode": "88085-443"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Estreito",
+        "street": "Praça Osvaldo De Oliveira",
+        "zipcode": "88070-182"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Coqueiros",
+        "street": "Praça Praia Do Meio",
+        "zipcode": "88080-782"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jardim Atlantico",
+        "street": "Rua Antero De Assis",
+        "zipcode": "88095-830"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Rua Da Queimada",
+        "zipcode": "88045-080"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Campeche",
+        "street": "Rua Das Dunas",
+        "zipcode": "88063-188"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Campeche",
+        "street": "Rua Maria Madalena Bilk",
+        "zipcode": "88063-780"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Itacorubi",
+        "street": "Estrada Sertao Do Assopro",
+        "zipcode": "88034-005"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Fatima",
+        "street": "Praça Marinheiro Anizio Da Silveira Machado",
+        "zipcode": "88075-565"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Cacupe",
+        "street": "Servidão Hipolito Igino Cordeiro",
+        "zipcode": "88050-315"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Rua Jose Maria Da Luz",
+        "zipcode": "88045-000"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Servidão Leon Emilio Portela",
+        "zipcode": "88045-050"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jardim Atlantico",
+        "street": "Praça Aquiles Paulo De Souza",
+        "zipcode": "88095-675"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Rua Sao Judas Tadeu",
+        "zipcode": "88045-010"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Balneario",
+        "street": "Vila Da Caixa Economica",
+        "zipcode": "88075-650"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Ingleses",
+        "street": "Estrada Do Capivari",
+        "zipcode": "88058-070"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Estreito",
+        "street": "Praça Duque De Caxias",
+        "zipcode": "88085-006"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Estreito",
+        "street": "Praça Roberto Oliveira",
+        "zipcode": "88070-275"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Balneario",
+        "street": "Praça Guilherme Fortkamp",
+        "zipcode": "88075-640"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Coloninha",
+        "street": "Praça Joao Batista Vieira",
+        "zipcode": "88090-465"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Coqueiros",
+        "street": "Praça Cientista Albert Sabin",
+        "zipcode": "88080-025"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Estreito",
+        "street": "Praça Joao Demaria Cavallazzi",
+        "zipcode": "88070-345"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Campeche",
+        "street": "Servidão Palmeiras",
+        "zipcode": "88063-295"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Balneario",
+        "street": "Rua Da Concordia",
+        "zipcode": "88095-100"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Barra Da Lagoa",
+        "street": "Servidão Cotovia",
+        "zipcode": "88060-810"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Campeche",
+        "street": "Servidão Romeu Joaquim Antunes",
+        "zipcode": "88063-760"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Coqueiros",
+        "street": "Praça Manoel David Chaves",
+        "zipcode": "88080-785"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Capoeiras",
+        "street": "Praça Vereador Nagib Jabor",
+        "zipcode": "88090-140"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Itacorubi",
+        "street": "Rua Hamilton Ferrari",
+        "zipcode": "88034-590"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Lagoa Da Conceicao",
+        "street": "Rua Das Flores",
+        "zipcode": "88062-590"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Ribeirao Da Ilha",
+        "street": "Estrada Da Costeira Do Ribeirao",
+        "zipcode": "88064-700"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Cacupe",
+        "street": "Condomínio Cambirela",
+        "zipcode": "88050-110"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Servidão Manoel Laurindo",
+        "zipcode": "88045-060"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Canasvieiras",
+        "street": "Rua Do Rio Do Braz",
+        "zipcode": "88054-180"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Servidão Joao Honorato Soares",
+        "zipcode": "88045-020"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Balneario",
+        "street": "Rua Prof. Joao Jose Cabral",
+        "zipcode": "88075-630"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Servidão Santa Clara",
+        "zipcode": "88045-055"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Servidão Aladio Pacheco De Souza",
+        "zipcode": "88045-035"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Estreito",
+        "street": "Praça Navegantes              O",
+        "zipcode": "88075-171"
+    },
+    {
+        "city": "Florianopolis",
+        "state": "SC",
+        "district": "Jose Mendes",
+        "street": "Rua Oadi Marcelino",
+        "zipcode": "88045-070"
+    }
+]

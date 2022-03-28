@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Peçanha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Senador Simão da Cunha 67",
+        "zipcode": "39700-970"
+    },
+    {
+        "city": "Peçanha",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39700-000"
+    },
+    {
+        "city": "Peçanha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Florianópolis s/n",
+        "zipcode": "39702-973"
+    },
+    {
+        "city": "Peçanha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Principal s/n",
+        "zipcode": "39700-972"
+    }
+]

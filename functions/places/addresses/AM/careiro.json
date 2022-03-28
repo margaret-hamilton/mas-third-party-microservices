@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Careiro",
+        "state": "AM",
+        "district": "",
+        "street": "",
+        "zipcode": "69250-000"
+    },
+    {
+        "city": "Careiro",
+        "state": "AM",
+        "district": null,
+        "street": "Rua Nunes de Melo",
+        "zipcode": "69250-990"
+    },
+    {
+        "city": "Careiro",
+        "state": "AM",
+        "district": "Janauacá",
+        "street": "Avenida Mário Guedes s/n",
+        "zipcode": "69253-970"
+    },
+    {
+        "city": "Careiro",
+        "state": "AM",
+        "district": "Vista Alegre",
+        "street": "Avenida Airton Sena 287",
+        "zipcode": "69250-970"
+    }
+]

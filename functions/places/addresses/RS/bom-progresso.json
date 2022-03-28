@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bom Progresso",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Castelo Branco",
+        "zipcode": "98575-971"
+    },
+    {
+        "city": "Bom Progresso",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "98575-000"
+    },
+    {
+        "city": "Bom Progresso",
+        "state": "RS",
+        "district": "",
+        "street": "Rua Castelo Branco",
+        "zipcode": "98575-990"
+    },
+    {
+        "city": "Bom Progresso",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Castelo Branco",
+        "zipcode": "98575-970"
+    }
+]

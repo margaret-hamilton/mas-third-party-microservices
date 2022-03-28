@@ -1,0 +1,338 @@
+[
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Moscom",
+        "street": "Rua Piratini",
+        "zipcode": "98807-190"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "98801-680"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98801-750"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Pippi",
+        "street": "Rua Borges Do Canto",
+        "zipcode": "98805-360"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Pippi",
+        "street": "Rua Sao Nicolau",
+        "zipcode": "98805-460"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Pippi",
+        "street": "Travessa Do Arroio",
+        "zipcode": "98805-470"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano",
+        "zipcode": "98802-650"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Pippi",
+        "street": "Rua Coronel Prospero Pippi",
+        "zipcode": "98805-450"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Hortencia",
+        "street": "Avenida Sagrada Familia",
+        "zipcode": "98805-000"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Rosa",
+        "street": "Avenida Edelaide Rocco Pillau",
+        "zipcode": "98805-020"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Expedicionario",
+        "zipcode": "98804-570"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Emilia",
+        "street": "Praça Oswaldo Aranha",
+        "zipcode": "98801-530"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Esperanca",
+        "street": "Travessa Peru",
+        "zipcode": "98805-030"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Missoes",
+        "street": "Rua Vinte E Quatro De Maio",
+        "zipcode": "98807-035"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Sossego",
+        "street": "Avenida Getulio Vargas",
+        "zipcode": "98801-570"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Sossego",
+        "street": "Rua Quinze De Novembro",
+        "zipcode": "98801-620"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Oliveira",
+        "street": "Travessa Carmelo",
+        "zipcode": "98801-270"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Quinze De Novembro",
+        "zipcode": "98803-240"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Dido",
+        "street": "Rua Marques De Tamandare",
+        "zipcode": "98802-540"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Oliveira",
+        "street": "Rua Braulio De Oliveira",
+        "zipcode": "98801-250"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Missoes",
+        "street": "Rua Sao Cristovao",
+        "zipcode": "98805-250"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Dornelles",
+        "street": "Rua Guilherme Sei",
+        "zipcode": "98802-440"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Neri Dos Santos Cavalheiro",
+        "street": "Beco B",
+        "zipcode": "98802-285"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Alianca",
+        "street": "Rua Vinte De Setembro",
+        "zipcode": "98803-050"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Schirner",
+        "street": "Praça Castelo Branco",
+        "zipcode": "98803-340"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Getulio Vargas",
+        "zipcode": "98802-000"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Kurtz",
+        "street": "Praça Monte Castelo",
+        "zipcode": "98804-090"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Missoes",
+        "street": "Avenida Rio Grande Do Sul",
+        "zipcode": "98807-130"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Emilia",
+        "street": "Travessa A S Rodrigues",
+        "zipcode": "98801-580"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Rogowski",
+        "street": "Rua Itamarati",
+        "zipcode": "98802-805"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Rosa",
+        "street": "Rua Cristiano Batista Kruel",
+        "zipcode": "98807-260"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barao De Santo Angelo",
+        "zipcode": "98801-740"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Missoes",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98807-140"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Avanco",
+        "street": "Avenida Rio Grande Do Sul",
+        "zipcode": "98801-000"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Rosental",
+        "street": "Travessa Luiz Mousquer Neto",
+        "zipcode": "98801-455"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Loteamento Menezes",
+        "street": "Travessa Das Carmelitas",
+        "zipcode": "98802-750"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Dornelles",
+        "street": "Rua J Machado",
+        "zipcode": "98802-450"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Rosa",
+        "street": "Rua Via Salete",
+        "zipcode": "98807-225"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Rogowski",
+        "street": "Rua Prof. Alzira Santos De Souza",
+        "zipcode": "98807-060"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Jardim Residencial Sabo",
+        "street": "Praça Oscar Sabo",
+        "zipcode": "98804-190"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Avanco",
+        "street": "Rua F G Mello",
+        "zipcode": "98801-190"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Dido",
+        "street": "Rua Duque De Caxias",
+        "zipcode": "98802-610"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Hortencia",
+        "street": "Rua Sao Paulo",
+        "zipcode": "98807-180"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Pippi",
+        "street": "Rua Sao Luiz",
+        "zipcode": "98805-440"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Pippi",
+        "street": "Rua Joao Henrique Licht",
+        "zipcode": "98805-400"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Missoes",
+        "street": "Rua Do Arvoredo",
+        "zipcode": "98807-200"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Hortencia",
+        "street": "Rua Barao De Santo Angelo",
+        "zipcode": "98807-150"
+    },
+    {
+        "city": "Santo Angelo",
+        "state": "RS",
+        "district": "Pippi",
+        "street": "Praça Martires",
+        "zipcode": "98805-490"
+    }
+]

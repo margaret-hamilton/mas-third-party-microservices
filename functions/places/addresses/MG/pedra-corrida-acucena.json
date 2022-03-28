@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pedra Corrida (Açucena)",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35147-500"
+    },
+    {
+        "city": "Pedra Corrida (Açucena)",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35155-000"
+    },
+    {
+        "city": "Pedra Corrida (Açucena)",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Rodrigues s/n  AGC Pedra Corrida",
+        "zipcode": "35147-976"
+    },
+    {
+        "city": "Pedra Corrida (Açucena)",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Rodrigues s/n",
+        "zipcode": "35155-970"
+    }
+]

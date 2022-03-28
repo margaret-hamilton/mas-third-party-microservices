@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Acaraú",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62580-000"
+    },
+    {
+        "city": "Acaraú",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Expedito José Sousa Farias 117  AC Acaraú",
+        "zipcode": "62580-970"
+    },
+    {
+        "city": "Acaraú",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "62580-990"
+    },
+    {
+        "city": "Acaraú",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Dom Aluísio",
+        "zipcode": "62585-990"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Jequitaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua da Conceicão 74",
+        "zipcode": "39370-970"
+    },
+    {
+        "city": "Jequitaí",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39370-000"
+    }
+]

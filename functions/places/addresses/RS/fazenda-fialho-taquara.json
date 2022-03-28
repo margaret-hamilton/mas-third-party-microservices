@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Fazenda Fialho (Taquara)",
+        "state": "RS",
+        "district": "Fazenda Fialho",
+        "street": "Rodovia RS",
+        "zipcode": "95608-970"
+    },
+    {
+        "city": "Fazenda Fialho (Taquara)",
+        "state": "RS",
+        "district": null,
+        "street": null,
+        "zipcode": "95608-000"
+    },
+    {
+        "city": "Fazenda Fialho (Taquara)",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95622-000"
+    }
+]

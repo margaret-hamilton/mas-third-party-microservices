@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Estância",
+        "state": "SE",
+        "district": "Centro",
+        "street": "Rua Capitão Salomão",
+        "zipcode": "49200-970"
+    },
+    {
+        "city": "Estância",
+        "state": "SE",
+        "district": "Alagoas",
+        "street": "Avenida João Lima da Silveira 3254",
+        "zipcode": "49200-972"
+    },
+    {
+        "city": "Estância",
+        "state": "SE",
+        "district": "",
+        "street": "",
+        "zipcode": "49200-000"
+    },
+    {
+        "city": "Estância",
+        "state": "SE",
+        "district": "Cidade Nova",
+        "street": "Avenida Jornalista Augusto Gomes",
+        "zipcode": "49200-971"
+    }
+]

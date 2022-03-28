@@ -1,0 +1,58 @@
+[
+    {
+        "city": "Castelo",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Avenida Nossa Senhora da Penha 23",
+        "zipcode": "29360-970"
+    },
+    {
+        "city": "Castelo",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Vieira da Cunha 31",
+        "zipcode": "29360-971"
+    },
+    {
+        "city": "Castelo",
+        "state": "ES",
+        "district": null,
+        "street": "Rodovia Feud Nemer",
+        "zipcode": "29365-990"
+    },
+    {
+        "city": "Castelo",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29360-000"
+    },
+    {
+        "city": "Castelo",
+        "state": "ES",
+        "district": "Limoeiro",
+        "street": "Rodovia Pedro Cola km 15",
+        "zipcode": "29360-983"
+    },
+    {
+        "city": "Castelo",
+        "state": "ES",
+        "district": null,
+        "street": "Praça Osório Breseskin",
+        "zipcode": "29367-990"
+    },
+    {
+        "city": "Castelo",
+        "state": "ES",
+        "district": "Patrimônio do Ouro",
+        "street": "Estrada Principal s/n",
+        "zipcode": "29360-981"
+    },
+    {
+        "city": "Castelo",
+        "state": "ES",
+        "district": "Monte Pio",
+        "street": "Estrada Principal s/n",
+        "zipcode": "29360-982"
+    }
+]

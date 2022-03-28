@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Piên",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Amazonas 336",
+        "zipcode": "83860-970"
+    },
+    {
+        "city": "Piên",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83860-000"
+    },
+    {
+        "city": "Piên",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83860-991"
+    },
+    {
+        "city": "Piên",
+        "state": "PR",
+        "district": "Lajeado",
+        "street": "Estrada Principal de Lageado",
+        "zipcode": "83860-972"
+    },
+    {
+        "city": "Piên",
+        "state": "PR",
+        "district": "Campina dos Maias",
+        "street": "Estrada Principal",
+        "zipcode": "83860-973"
+    },
+    {
+        "city": "Piên",
+        "state": "PR",
+        "district": "Trigolândia",
+        "street": "Avenida Principal",
+        "zipcode": "83860-971"
+    }
+]

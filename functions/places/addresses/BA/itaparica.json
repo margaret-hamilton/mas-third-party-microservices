@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Itaparica",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Tenente Botas s/n",
+        "zipcode": "44460-970"
+    },
+    {
+        "city": "Itaparica",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44460-000"
+    },
+    {
+        "city": "Itaparica",
+        "state": "BA",
+        "district": "Amoreira",
+        "street": "Rua Salvino s/n  AGC Amoreiras",
+        "zipcode": "44460-971"
+    },
+    {
+        "city": "Itaparica",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Areia Preta",
+        "zipcode": "44460-991"
+    },
+    {
+        "city": "Itaparica",
+        "state": "BA",
+        "district": null,
+        "street": "Rua 4",
+        "zipcode": "44460-990"
+    }
+]

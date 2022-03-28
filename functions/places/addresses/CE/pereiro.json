@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pereiro",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Capitão Xavier 13",
+        "zipcode": "63460-970"
+    },
+    {
+        "city": "Pereiro",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "63460-991"
+    },
+    {
+        "city": "Pereiro",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Contorno Nordeste",
+        "zipcode": "63460-990"
+    },
+    {
+        "city": "Pereiro",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "63460-000"
+    }
+]

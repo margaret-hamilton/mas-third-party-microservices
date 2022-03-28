@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Prado",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Olinto Marcial da Cunha 22",
+        "zipcode": "45980-970"
+    },
+    {
+        "city": "Prado",
+        "state": "BA",
+        "district": "Guarani",
+        "street": "Praça da Matriz s/n",
+        "zipcode": "45980-971"
+    },
+    {
+        "city": "Prado",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45980-000"
+    }
+]

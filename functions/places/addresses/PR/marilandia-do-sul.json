@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Marilândia do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Quinze de Novembro",
+        "zipcode": "86825-970"
+    },
+    {
+        "city": "Marilândia do Sul",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86825-000"
+    }
+]

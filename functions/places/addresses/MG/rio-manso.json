@@ -1,0 +1,58 @@
+[
+    {
+        "city": "Rio Manso",
+        "state": "MG",
+        "district": "Bernardas",
+        "street": "Praça Joaquim Gomes Maciel s/n",
+        "zipcode": "35525-972"
+    },
+    {
+        "city": "Rio Manso",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35485-000"
+    },
+    {
+        "city": "Rio Manso",
+        "state": "MG",
+        "district": "Bernardas",
+        "street": "Praça Joaquim Gomes Maciel s/n  AGC Bernardas",
+        "zipcode": "35485-972"
+    },
+    {
+        "city": "Rio Manso",
+        "state": "MG",
+        "district": "Souza",
+        "street": "Rua Bernardo Pimenta 45  AGC Souza",
+        "zipcode": "35485-973"
+    },
+    {
+        "city": "Rio Manso",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35525-000"
+    },
+    {
+        "city": "Rio Manso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Fortunato Campos 68  AC Rio Manso",
+        "zipcode": "35485-970"
+    },
+    {
+        "city": "Rio Manso",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Fortunato Campos 68",
+        "zipcode": "35525-970"
+    },
+    {
+        "city": "Rio Manso",
+        "state": "MG",
+        "district": "Souza",
+        "street": "Rua Bernardo Pimenta 45",
+        "zipcode": "35525-973"
+    }
+]

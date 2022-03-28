@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Cambará",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Brasil 1261",
+        "zipcode": "86390-970"
+    },
+    {
+        "city": "Cambará",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86390-000"
+    }
+]

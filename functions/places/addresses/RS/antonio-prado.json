@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Antônio Prado",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95250-000"
+    },
+    {
+        "city": "Antônio Prado",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Principal",
+        "zipcode": "95250-971"
+    },
+    {
+        "city": "Antônio Prado",
+        "state": "RS",
+        "district": "Vinte e Um de Abril",
+        "street": "Estrada Principal",
+        "zipcode": "95250-972"
+    },
+    {
+        "city": "Antônio Prado",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa José Rigon",
+        "zipcode": "95250-970"
+    }
+]

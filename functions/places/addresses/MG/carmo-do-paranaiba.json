@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Carmo do Paranaíba",
+        "state": "MG",
+        "district": "Juscelino Kubitschek",
+        "street": "Rua Sete de Setembro 18",
+        "zipcode": "38840-971"
+    },
+    {
+        "city": "Carmo do Paranaíba",
+        "state": "MG",
+        "district": "Juscelino Kubitschek",
+        "street": "Avenida João Batista da Silva 28",
+        "zipcode": "38840-972"
+    },
+    {
+        "city": "Carmo do Paranaíba",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38840-000"
+    },
+    {
+        "city": "Carmo do Paranaíba",
+        "state": "MG",
+        "district": "Juscelino Kubitschek",
+        "street": "Avenida João Batista da Silva 28",
+        "zipcode": "38840-970"
+    }
+]

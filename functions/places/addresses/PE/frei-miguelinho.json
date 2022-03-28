@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Frei Miguelinho",
+        "state": "PE",
+        "district": "Povoado Lagoa de João Carlos",
+        "street": "Rua do Comercio s/n",
+        "zipcode": "55780-971"
+    },
+    {
+        "city": "Frei Miguelinho",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Avenida Presidente Kennedy s/n",
+        "zipcode": "55780-970"
+    },
+    {
+        "city": "Frei Miguelinho",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55780-000"
+    },
+    {
+        "city": "Frei Miguelinho",
+        "state": "PE",
+        "district": null,
+        "street": "Rua do Comércio",
+        "zipcode": "55780-990"
+    }
+]

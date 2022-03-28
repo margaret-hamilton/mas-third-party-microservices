@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Catende",
+        "state": "PE",
+        "district": null,
+        "street": "Rua da Rodagem",
+        "zipcode": "55400-990"
+    },
+    {
+        "city": "Catende",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Ismael Silva s/n",
+        "zipcode": "55400-970"
+    },
+    {
+        "city": "Catende",
+        "state": "PE",
+        "district": "Laje Grande",
+        "street": "Rua João Clementino s/n",
+        "zipcode": "55402-970"
+    },
+    {
+        "city": "Catende",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Professora Irene de Morais",
+        "zipcode": "55400-991"
+    },
+    {
+        "city": "Catende",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55400-000"
+    },
+    {
+        "city": "Catende",
+        "state": "PE",
+        "district": "Povoado Roçadinho",
+        "street": "Rua da Rodagem s/n",
+        "zipcode": "55400-971"
+    }
+]

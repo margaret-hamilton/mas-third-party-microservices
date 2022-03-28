@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Segredo",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "96910-000"
+    },
+    {
+        "city": "Segredo",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua dos Imigrantes 1010",
+        "zipcode": "96910-970"
+    },
+    {
+        "city": "Segredo",
+        "state": "RS",
+        "district": "Serrinha Velha",
+        "street": "Largo da Matriz",
+        "zipcode": "96910-975"
+    }
+]

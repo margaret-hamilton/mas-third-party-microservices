@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Abadia dos Dourados",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Mizael Nogueira 195",
+        "zipcode": "38540-970"
+    },
+    {
+        "city": "Abadia dos Dourados",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38540-000"
+    }
+]

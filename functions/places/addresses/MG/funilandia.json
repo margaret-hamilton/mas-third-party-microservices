@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Funilândia",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35709-000"
+    },
+    {
+        "city": "Funilândia",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35736-000"
+    },
+    {
+        "city": "Funilândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Alves da Silva Campolina 101  AGC Núcleo João Pinheiro",
+        "zipcode": "35736-971"
+    },
+    {
+        "city": "Funilândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Tristão Vieira de Azevedo 190  AC Funilândia",
+        "zipcode": "35736-970"
+    },
+    {
+        "city": "Funilândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Tristão Vieira de Azevedo 190",
+        "zipcode": "35709-970"
+    },
+    {
+        "city": "Funilândia",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Alves da Silva Campolina 101",
+        "zipcode": "35709-971"
+    }
+]

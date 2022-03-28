@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Tunas do Paraná",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83485-990"
+    },
+    {
+        "city": "Tunas do Paraná",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83480-000"
+    },
+    {
+        "city": "Tunas do Paraná",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Lucídio Florêncio Ribeiro",
+        "zipcode": "83480-970"
+    },
+    {
+        "city": "Tunas do Paraná",
+        "state": "PR",
+        "district": "Ouro Fino",
+        "street": "Estrada Principal de Ouro Fino",
+        "zipcode": "83480-971"
+    },
+    {
+        "city": "Tunas do Paraná",
+        "state": "PR",
+        "district": "João XXIII",
+        "street": "Estrada Principal",
+        "zipcode": "83485-971"
+    }
+]

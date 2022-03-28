@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Jatobá",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Tacaratu 2",
+        "zipcode": "56470-970"
+    },
+    {
+        "city": "Jatobá",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Tacaratu s/n",
+        "zipcode": "56470-971"
+    },
+    {
+        "city": "Jatobá",
+        "state": "PE",
+        "district": "Acampamento de Itaparica",
+        "street": "Avenida Eletrobras Norte Q",
+        "zipcode": "56470-972"
+    },
+    {
+        "city": "Jatobá",
+        "state": "PE",
+        "district": null,
+        "street": "Avenida Eletrobrás Sul",
+        "zipcode": "56470-990"
+    },
+    {
+        "city": "Jatobá",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56470-000"
+    }
+]

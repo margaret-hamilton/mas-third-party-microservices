@@ -1,0 +1,366 @@
+[
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Santa Monica Ii",
+        "street": "Avenida E",
+        "zipcode": "38407-399"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jockey Camping",
+        "street": "Rua Itutinha",
+        "zipcode": "38410-619"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Ipanema Ii",
+        "street": "Rua Augusta Candida Pinto",
+        "zipcode": "38406-163"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Tibery",
+        "street": "Rua Canada",
+        "zipcode": "38405-013"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Marta Helena",
+        "street": "Praça Jose Operario",
+        "zipcode": "38402-258"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Aruanan",
+        "street": "Avenida A",
+        "zipcode": "38415-093"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Buritis",
+        "street": "Alameda G",
+        "zipcode": "38410-098"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Chacaras Bonanza",
+        "street": "Alameda Das Cinamonas",
+        "zipcode": "38413-411"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Bom Jesus",
+        "street": "Rua Niteroi",
+        "zipcode": "38400-634"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Lagoinha",
+        "street": "Avenida Emidia Saraiva",
+        "zipcode": "38408-580"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Custodio Pereira",
+        "street": "Rua Firmino Grama",
+        "zipcode": "38406-001"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua 0008",
+        "zipcode": "38410-436"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Santa Monica",
+        "street": "Rua Do Corrego Liso",
+        "zipcode": "38408-362"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Conj Segismundo Pereira",
+        "street": "Rua B",
+        "zipcode": "38408-340"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua 0003",
+        "zipcode": "38410-426"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Martins",
+        "street": "Rua Carneiro",
+        "zipcode": "38400-334"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua 0004",
+        "zipcode": "38410-428"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Santa Monica Ii",
+        "street": "Avenida B",
+        "zipcode": "38407-363"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua Sj",
+        "zipcode": "38410-174"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Santa Monica",
+        "street": "Avenida Universitaria",
+        "zipcode": "38408-364"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Dona Zulmira",
+        "street": "Avenida Rio Acima",
+        "zipcode": "38415-066"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua 0010",
+        "zipcode": "38410-440"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Chacara Panorama",
+        "street": "Rua Das Paineiras",
+        "zipcode": "38412-600"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua 0006",
+        "zipcode": "38410-432"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Martins",
+        "street": "Rua Costa Pereira",
+        "zipcode": "38400-332"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Pacaembu",
+        "street": "Rua Dezoito",
+        "zipcode": "38401-484"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Umuarama",
+        "street": "Rua Santa Terezinha",
+        "zipcode": "38405-332"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua 0009",
+        "zipcode": "38410-438"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim America I",
+        "street": "Rua Valtair Pereira Pinto",
+        "zipcode": "38401-698"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Panorama",
+        "street": "Rodovia Br",
+        "zipcode": "38405-232"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Santa Monica Ii",
+        "street": "Avenida A",
+        "zipcode": "38407-213"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Patricia",
+        "street": "Rua Ercilia Maria De Oliveira",
+        "zipcode": "38414-090"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Umuarama",
+        "street": "Avenida Brasil",
+        "zipcode": "38405-312"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Santa Monica Ii",
+        "street": "Avenida D",
+        "zipcode": "38407-159"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Buritis",
+        "street": "Alameda G",
+        "zipcode": "38410-096"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Presidente Roosevelt",
+        "street": "Rua Quarenta",
+        "zipcode": "38405-099"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Quintas Do Bosque",
+        "street": "Rua Qb",
+        "zipcode": "38406-295"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Finotti",
+        "street": "Rua Virgilio M. Leite",
+        "zipcode": "38408-148"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Altamira",
+        "street": "Rua Laranjeiras",
+        "zipcode": "38408-602"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Brasilia",
+        "street": "Passagem Simonides Netto",
+        "zipcode": "38401-644"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Ozanan",
+        "street": "Rua Tres",
+        "zipcode": "38408-710"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Panorama",
+        "street": "Rodovia Br",
+        "zipcode": "38405-228"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Esperanca",
+        "street": "Avenida Antonio Thomas Ferreira Rezende",
+        "zipcode": "38402-270"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Nossa Senhora Das Gracas",
+        "street": "Rua Pedro Quirino Da Silva",
+        "zipcode": "38402-026"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Progresso",
+        "street": "Avenida Progresso",
+        "zipcode": "38408-062"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua 0007",
+        "zipcode": "38410-434"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge I",
+        "street": "Rua 0001",
+        "zipcode": "38410-422"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Santa Monica",
+        "street": "Avenida Contorno",
+        "zipcode": "38408-368"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Parque Sao Jorge Iii",
+        "street": "Rua 0016",
+        "zipcode": "38410-450"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Presidente Roosevelt",
+        "street": "Rua Prof. Nelson Cupertino",
+        "zipcode": "38401-024"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Esperanca",
+        "street": "Rua Giomar Lino Moreira",
+        "zipcode": "38401-304"
+    },
+    {
+        "city": "Uberlandia",
+        "state": "MG",
+        "district": "Jardim Umuarama",
+        "street": "Avenida Joao Pinheiro",
+        "zipcode": "38405-310"
+    }
+]

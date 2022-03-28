@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Bertópolis",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Luiz Teixeira 164",
+        "zipcode": "39875-970"
+    },
+    {
+        "city": "Bertópolis",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Belo Horizonte s/n",
+        "zipcode": "39875-973"
+    },
+    {
+        "city": "Bertópolis",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39875-000"
+    }
+]

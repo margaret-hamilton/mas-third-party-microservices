@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Tutóia",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua de Nazaré s/n",
+        "zipcode": "65580-970"
+    },
+    {
+        "city": "Tutóia",
+        "state": "MA",
+        "district": "",
+        "street": "",
+        "zipcode": "65580-000"
+    },
+    {
+        "city": "Tutóia",
+        "state": "MA",
+        "district": null,
+        "street": "Comum",
+        "zipcode": "65580-990"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Francisco Sá",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Getúlio Vargas 1015",
+        "zipcode": "39580-970"
+    },
+    {
+        "city": "Francisco Sá",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39580-000"
+    },
+    {
+        "city": "Francisco Sá",
+        "state": "MG",
+        "district": "São Geraldo",
+        "street": "Praça Saturnino Cardoso de Moura s/n",
+        "zipcode": "39580-971"
+    }
+]

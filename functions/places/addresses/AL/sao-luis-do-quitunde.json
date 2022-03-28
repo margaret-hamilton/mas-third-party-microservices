@@ -1,0 +1,30 @@
+[
+    {
+        "city": "São Luís do Quitunde",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Rua Doutor Fernando Sarmento 275",
+        "zipcode": "57920-970"
+    },
+    {
+        "city": "São Luís do Quitunde",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57920-000"
+    },
+    {
+        "city": "São Luís do Quitunde",
+        "state": "AL",
+        "district": null,
+        "street": "Escola Monteiro Lobato",
+        "zipcode": "57920-990"
+    },
+    {
+        "city": "São Luís do Quitunde",
+        "state": "AL",
+        "district": null,
+        "street": "Rua George José da Silva s/n",
+        "zipcode": "57920-991"
+    }
+]

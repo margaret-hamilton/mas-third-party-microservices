@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Guaramiranga",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Joaquim Alves Nogueira 400",
+        "zipcode": "62766-970"
+    },
+    {
+        "city": "Guaramiranga",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62766-000"
+    },
+    {
+        "city": "Guaramiranga",
+        "state": "CE",
+        "district": null,
+        "street": "Rua Central",
+        "zipcode": "62768-990"
+    }
+]

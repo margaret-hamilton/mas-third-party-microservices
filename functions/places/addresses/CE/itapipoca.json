@@ -1,0 +1,4307 @@
+[
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Pontes Neto",
+        "zipcode": "62502-676"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Tenente José Vicente",
+        "zipcode": "62508-024"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 210 (Res Bairro de Fátima)",
+        "zipcode": "62501-510"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua SDO 138",
+        "zipcode": "62502-372"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua Major Antônio Rodrigues Teixeira",
+        "zipcode": "62503-420"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua José de Arimatéia",
+        "zipcode": "62502-508"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Eubia Barroso",
+        "zipcode": "62508-495"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Visconde de Mauá",
+        "zipcode": "62504-565"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Cristo Redentor",
+        "zipcode": "62503-262"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Frei Cassiano",
+        "zipcode": "62508-205"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "62500-058"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Antônio Barroso Neto",
+        "zipcode": "62504-035"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua José Airton Teixeira",
+        "zipcode": "62508-096"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Francisco Domingos Braga Filho",
+        "zipcode": "62503-222"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 111 (Brisa do Norte Residencial)",
+        "zipcode": "62504-770"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Vicente Siebra",
+        "zipcode": "62504-640"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 118 (Brisa do Norte Residencial)",
+        "zipcode": "62504-805"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62502-484"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Avenida Esaú Alves de Aguiar",
+        "zipcode": "62503-490"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua Urbano Barbosa",
+        "zipcode": "62502-072"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Abdon Alves de Agrela",
+        "zipcode": "62507-415"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Hidelberto Barroso",
+        "zipcode": "62508-550"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Raimundo Teófilo de Castro",
+        "zipcode": "62503-078"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 107 (Res Bairro de Fátima)",
+        "zipcode": "62501-440"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua José Edilson Madeira",
+        "zipcode": "62503-480"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Tereza de Jesus Farias Pinto",
+        "zipcode": "62507-100"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Manoel Carneiro de Castro",
+        "zipcode": "62504-302"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Travessa Raimundo Simplício 1",
+        "zipcode": "62500-850"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Francisca Feitosa",
+        "zipcode": "62508-745"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Julho",
+        "street": "Avenida Monsenhor Tabosa",
+        "zipcode": "62505-650"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Avenida da Universidade",
+        "zipcode": "62505-090"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Osvaldo Primo Caxilé",
+        "zipcode": "62504-025"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 105 (Res Bairro de Fátima)",
+        "zipcode": "62501-435"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Francisca Matias Martins",
+        "zipcode": "62507-680"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua José Maria das Neves",
+        "zipcode": "62508-630"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Eubia Barroso",
+        "zipcode": "62500-001"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Frei Cassiano",
+        "zipcode": "62508-370"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua do Mercado",
+        "zipcode": "62500-049"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "",
+        "street": "",
+        "zipcode": "62500-000"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62502-356"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62500-320"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "62500-055"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Marinheiros",
+        "street": "",
+        "zipcode": "62520-000"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62501-040"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Coronel Migueira",
+        "zipcode": "62504-070"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Airton Teixeira",
+        "zipcode": "62500-025"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Coronel Bento Alves",
+        "zipcode": "62502-268"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62508-175"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José de Alencar",
+        "zipcode": "62500-016"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua SDO 139",
+        "zipcode": "62504-246"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua José Romero",
+        "zipcode": "62500-034"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 116",
+        "zipcode": "62505-380"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62500-043"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62502-120"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua do Barracão",
+        "zipcode": "62500-052"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua do Clube",
+        "zipcode": "62500-046"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Alameda Ducoco",
+        "zipcode": "62502-580"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 128",
+        "zipcode": "62505-390"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "",
+        "street": "Rua Central",
+        "zipcode": "62500-990"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua SDO 137",
+        "zipcode": "62500-375"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Coronel Migueira",
+        "zipcode": "62504-555"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "62500-031"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Presmilau Camerino",
+        "zipcode": "62500-013"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua João Cordeiro",
+        "zipcode": "62500-019"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Inocêncio Braga",
+        "zipcode": "62500-007"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua SDO 75",
+        "zipcode": "62502-524"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Urbano Barbosa",
+        "zipcode": "62500-028"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua SDO 125",
+        "zipcode": "62508-275"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Dom Aureliano Matos",
+        "zipcode": "62500-004"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "",
+        "street": "Rua Francisco Braga Vera",
+        "zipcode": "62505-990"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62500-075"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua SDO 119",
+        "zipcode": "62504-190"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Raimundo Teófilo de Castro",
+        "zipcode": "62500-010"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua SDO 120",
+        "zipcode": "62507-010"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62502-364"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Célio Rubens",
+        "zipcode": "62501-365"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua SDO 128",
+        "zipcode": "62507-065"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Coronel Migueira",
+        "zipcode": "62504-126"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62500-040"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Pergentina Araújo",
+        "zipcode": "62500-061"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Julho",
+        "street": "Rua SDO 111",
+        "zipcode": "62505-690"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Augusto Moura Rolim",
+        "zipcode": "62508-705"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Agobar Teixeira Gomes",
+        "zipcode": "62507-080"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Alto Alegre",
+        "zipcode": "62500-215"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "62500-310"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Avenida Francisco dos Santos Braga",
+        "zipcode": "62508-260"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Astolfo Ribeiro da Silva",
+        "zipcode": "62503-286"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Antônio Assunção",
+        "zipcode": "62504-585"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Aurilene Pinto Azevedo",
+        "zipcode": "62501-160"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Julho",
+        "street": "Rua Bey de Souza",
+        "zipcode": "62505-670"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua Antônio Anastácio Barroso",
+        "zipcode": "62503-390"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Chico de Sousa",
+        "zipcode": "62508-620"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Astolfo Ribeiro da Silva",
+        "zipcode": "62504-182"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Antônio Anastácio Barroso",
+        "zipcode": "62504-342"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Avenida Esaú Alves de Aguiar",
+        "zipcode": "62502-300"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Avenida Monsenhor Tabosa",
+        "zipcode": "62505-040"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Estrada Serrinha",
+        "zipcode": "62507-690"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Antônio de Castro Leite",
+        "zipcode": "62507-040"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Capitão Manoel Alves de Oliveira",
+        "zipcode": "62502-284"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Carlos Bonifácio",
+        "zipcode": "62508-690"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Alto Alegre 1",
+        "zipcode": "62500-230"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua Ana Luiza Braga",
+        "zipcode": "62505-360"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Capitão Francisco Pinheiro Alves",
+        "zipcode": "62504-695"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Carlos Camerino",
+        "zipcode": "62500-240"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Ana Ione Braga Gomes",
+        "zipcode": "62507-025"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Capitão Manoel Alves de Oliveira",
+        "zipcode": "62503-166"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Benedito Teixeira",
+        "zipcode": "62502-324"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Antônio Carvalho",
+        "zipcode": "62500-835"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Capitão Domingos Francisco Braga",
+        "zipcode": "62507-015"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "62500-085"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Antero Rodrigues Teixeira",
+        "zipcode": "62508-525"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Caio Prado",
+        "zipcode": "62504-630"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Avenida Monsenhor Tabosa",
+        "zipcode": "62508-018"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Carolina Maria Monte Alves",
+        "zipcode": "62501-150"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Barroso Junior",
+        "zipcode": "62502-340"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Antônio Mentros dos Santos",
+        "zipcode": "62503-270"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Capitão Francisco Pinheiro Alves",
+        "zipcode": "62504-166"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Cafita",
+        "zipcode": "62501-155"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Antônio de Oliveira Guimarães",
+        "zipcode": "62502-348"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Caio Prado",
+        "zipcode": "62508-200"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Avenida Francisco dos Santos Braga",
+        "zipcode": "62508-405"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Aldiro Fontoura",
+        "zipcode": "62501-370"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Alipio Tavares",
+        "zipcode": "62504-545"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "62508-180"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Anastácio Barroso Valente",
+        "zipcode": "62503-190"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Anastácio Barroso Valente",
+        "zipcode": "62504-005"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Antônio Estevão",
+        "zipcode": "62504-358"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Estrada do Olho Dágua",
+        "zipcode": "62507-660"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Caio Prado",
+        "zipcode": "62508-365"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Barroso Braga",
+        "zipcode": "62501-355"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Boa Esperança",
+        "zipcode": "62500-455"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Anastácio Barroso Valente",
+        "zipcode": "62508-012"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Caio Prado",
+        "zipcode": "62508-600"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Chico do Bey",
+        "zipcode": "62508-425"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Antônio Gaspar",
+        "zipcode": "62508-490"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Avenida Esaú Alves de Aguiar",
+        "zipcode": "62502-420"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua do Prourb",
+        "zipcode": "62508-680"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Francisco Ribeiro de Sousa",
+        "zipcode": "62500-525"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Chico Viriato",
+        "zipcode": "62507-055"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Dom Aureliano Matos",
+        "zipcode": "62503-094"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Félix Matos",
+        "zipcode": "62504-230"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Chico Viriato 4",
+        "zipcode": "62507-115"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Chico Viriato 1",
+        "zipcode": "62507-070"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Francisco Alves de Oliveira",
+        "zipcode": "62508-120"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Gastão de Castro Alves Oliveira",
+        "zipcode": "62502-540"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Davi Bleasby",
+        "zipcode": "62502-652"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Durval Barroso",
+        "zipcode": "62500-805"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Ferreira Lima",
+        "zipcode": "62504-270"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Gustavo Hermenegildo",
+        "zipcode": "62502-532"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Doutor Bezerra de Menezes",
+        "zipcode": "62503-310"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Demóstenes Teixeira",
+        "zipcode": "62502-850"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Genézio Freire",
+        "zipcode": "62502-708"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua das Almas",
+        "zipcode": "62502-308"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Dalva Pacheco",
+        "zipcode": "62504-600"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua do Avante",
+        "zipcode": "62502-196"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Cosma Tomé de Menezes",
+        "zipcode": "62500-505"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Durval Barroso",
+        "zipcode": "62500-385"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Chico Viriato 2",
+        "zipcode": "62507-095"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Ciro Aguiar Barbosa",
+        "zipcode": "62501-185"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Dom Aureliano Matos",
+        "zipcode": "62504-060"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Firmino Martins",
+        "zipcode": "62508-042"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua do Campo do Palmeira",
+        "zipcode": "62503-142"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Chico Viriato 3",
+        "zipcode": "62507-105"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Cícero Luiz Pereira",
+        "zipcode": "62503-134"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua dos Carvalhos",
+        "zipcode": "62500-475"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Frei Cassiano",
+        "zipcode": "62504-015"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Eubia Barroso",
+        "zipcode": "62508-355"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Gerardo Távora",
+        "zipcode": "62508-078"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Dom Aureliano Matos",
+        "zipcode": "62504-118"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Eubia Barroso",
+        "zipcode": "62508-615"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Eubia Barroso",
+        "zipcode": "62503-102"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua Frei Cassiano",
+        "zipcode": "62505-370"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Cristo Redentor",
+        "zipcode": "62504-110"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Frei Cassiano",
+        "zipcode": "62508-060"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Gino Alves",
+        "zipcode": "62502-316"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua da Farmácia Viva",
+        "zipcode": "62503-460"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua do Açude",
+        "zipcode": "62508-665"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Doutor João Bosco",
+        "zipcode": "62503-238"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Francisco Tabosa Braga",
+        "zipcode": "62507-005"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Dom Orione",
+        "zipcode": "62500-305"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Deusdete Oliveira",
+        "zipcode": "62508-635"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Demóstenes Teixeira",
+        "zipcode": "62501-075"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Francisco dos Sousa Braga",
+        "zipcode": "62507-030"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua Cícero Luiz Pereira",
+        "zipcode": "62502-016"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua Cícero Luiz Pereira",
+        "zipcode": "62503-430"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Doutor Bezerra de Menezes",
+        "zipcode": "62504-198"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Frei Cassiano",
+        "zipcode": "62504-615"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Dona Zilda",
+        "zipcode": "62502-516"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Eubia Barroso",
+        "zipcode": "62504-000"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Frei Cassiano",
+        "zipcode": "62508-595"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Francisco",
+        "zipcode": "62504-595"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Cristo Redentor",
+        "zipcode": "62504-040"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Joaquim Barroso Braga",
+        "zipcode": "62504-045"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "62508-605"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua José de Alencar",
+        "zipcode": "62507-045"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Inocêncio Braga",
+        "zipcode": "62508-505"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Heitor Pedro Barroso",
+        "zipcode": "62503-278"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Joaquim Rodrigues Teixeira de Menezes",
+        "zipcode": "62500-785"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua José Mario Barroso",
+        "zipcode": "62508-215"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua José Miranda Barroso",
+        "zipcode": "62508-255"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Israel Teixeira Vasconcelos",
+        "zipcode": "62500-820"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua João Cordeiro",
+        "zipcode": "62502-056"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua José Mesquita Melo",
+        "zipcode": "62504-318"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua José Corpes",
+        "zipcode": "62503-360"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua José de Alencar",
+        "zipcode": "62503-030"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "62508-048"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua José Abilio Bruno",
+        "zipcode": "62508-225"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua José Alves Aguiar",
+        "zipcode": "62502-220"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua João Araújo Teixeira",
+        "zipcode": "62502-260"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua João Pereira de Araújo",
+        "zipcode": "62508-415"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua José Brioso de Lima",
+        "zipcode": "62508-710"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Joaquim Tabosa Braga",
+        "zipcode": "62504-550"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Jorge Gama",
+        "zipcode": "62508-655"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua João Cordeiro",
+        "zipcode": "62508-090"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua José Dário Gomes",
+        "zipcode": "62507-435"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Joaquim Tabosa Braga",
+        "zipcode": "62504-085"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Idelzuite Cacau Oliveira",
+        "zipcode": "62502-276"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua Hidelberto Barroso",
+        "zipcode": "62502-088"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "62508-360"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Horácio Bastos",
+        "zipcode": "62508-675"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua José Maria das Neves",
+        "zipcode": "62508-515"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua João Frota Braga",
+        "zipcode": "62504-350"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Ivo Paixão",
+        "zipcode": "62500-200"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua José de Anchieta",
+        "zipcode": "62502-556"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua José de Sousa Cavalcante",
+        "zipcode": "62503-334"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua José Ivan de Goes",
+        "zipcode": "62501-385"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Joana de Farias",
+        "zipcode": "62507-090"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Hidelberto Barroso",
+        "zipcode": "62500-070"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Jonas Soares",
+        "zipcode": "62508-625"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua José de Alencar",
+        "zipcode": "62508-072"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua José Epifânio",
+        "zipcode": "62501-205"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Joaquim Américo Teixeira",
+        "zipcode": "62508-330"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Joaquim Tabosa Braga 1",
+        "zipcode": "62504-065"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Inocêncio Braga",
+        "zipcode": "62503-086"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Inocêncio Braga",
+        "zipcode": "62508-640"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua José Braga",
+        "zipcode": "62500-265"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua José Corpes",
+        "zipcode": "62503-158"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Ivo Paixão 1",
+        "zipcode": "62500-205"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Joaquim Américo",
+        "zipcode": "62508-420"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua José Maria da Silveira",
+        "zipcode": "62503-318"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua José de Agrela Rodrigues",
+        "zipcode": "62502-212"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua João Chico",
+        "zipcode": "62504-254"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Irmã Ozana",
+        "zipcode": "62502-724"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "62508-190"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Joaquim Rodrigues Teixeira de Menezes",
+        "zipcode": "62500-300"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua SDO 59",
+        "zipcode": "62501-170"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua João Batista Barroso",
+        "zipcode": "62504-366"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Joana Campos",
+        "zipcode": "62507-440"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Lino Negrão",
+        "zipcode": "62502-292"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Luiza Maria da Conceição",
+        "zipcode": "62504-310"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Mestre Gabriel",
+        "zipcode": "62502-668"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Maria do Carmo",
+        "zipcode": "62507-430"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Manoel Gomes de Sousa",
+        "zipcode": "62507-450"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Nanosa Fernandes",
+        "zipcode": "62502-444"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Marcos Porfírio",
+        "zipcode": "62504-575"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Justiniano de Serpa",
+        "zipcode": "62500-790"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Major Antônio Rodrigues Teixeira",
+        "zipcode": "62503-126"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua Lourenço de Sousa Marinho 1",
+        "zipcode": "62505-430"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Monsenhor Abelardo",
+        "zipcode": "62500-335"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Julio de Farias",
+        "zipcode": "62507-085"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua José Sebastião de Sousa",
+        "zipcode": "62503-294"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua José Porfírio",
+        "zipcode": "62502-244"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Lidia Coelho Teixeira",
+        "zipcode": "62502-644"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "62503-054"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Licurgo Montenegro",
+        "zipcode": "62500-795"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Maria Fontoura",
+        "zipcode": "62501-360"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua José Viana Freire",
+        "zipcode": "62508-685"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua José Valdemir Cordeiro (Cj da COHAB)",
+        "zipcode": "62501-080"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Jota da Penha",
+        "zipcode": "62508-340"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Norberto Henrique",
+        "zipcode": "62508-265"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Manoel de Melo Montenegro",
+        "zipcode": "62502-732"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Osmundo Cordeiro Alves",
+        "zipcode": "62502-660"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Marechal Hermes",
+        "zipcode": "62508-510"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Osmundo Cordeiro Alves",
+        "zipcode": "62500-810"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Marechal Hermes",
+        "zipcode": "62500-110"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Justiniano de Serpa",
+        "zipcode": "62500-325"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Murilo de Sousa Braga",
+        "zipcode": "62508-030"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Maria Ângela Goes",
+        "zipcode": "62501-400"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Nova",
+        "zipcode": "62508-735"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Maria Eva Braga",
+        "zipcode": "62507-420"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Nanosa Fernandes",
+        "zipcode": "62502-228"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Maria Vidal dos Santos",
+        "zipcode": "62508-715"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Maria da Penha",
+        "zipcode": "62500-480"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Manoel Possidônio",
+        "zipcode": "62500-800"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Manoel Primo Filho",
+        "zipcode": "62504-174"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Marechal Hermes",
+        "zipcode": "62508-590"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Major Antônio Rodrigues Teixeira",
+        "zipcode": "62508-036"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Monsenhor José Solon",
+        "zipcode": "62503-150"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Major Luiz",
+        "zipcode": "62500-350"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Manoel de Melo Montenegro",
+        "zipcode": "62500-860"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Josefa Tabosa Braga",
+        "zipcode": "62507-020"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Moésio Loyola",
+        "zipcode": "62502-620"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Monsenhor José Solon",
+        "zipcode": "62504-278"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua José Pinto",
+        "zipcode": "62502-612"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Marcos Porfírio",
+        "zipcode": "62504-134"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Luciano Alves",
+        "zipcode": "62500-815"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Maria Nice Barroso",
+        "zipcode": "62501-350"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua José Romero",
+        "zipcode": "62503-046"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Mariano Marques",
+        "zipcode": "62504-214"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Leos de Abreu",
+        "zipcode": "62500-500"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Maximiliano Coelho",
+        "zipcode": "62500-355"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Murilo de Sousa Braga",
+        "zipcode": "62503-182"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Lourenço Marinho",
+        "zipcode": "62507-035"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua José Sebastião de Sousa",
+        "zipcode": "62504-286"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 107 (Vida Bela Residencial)",
+        "zipcode": "62504-855"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 108 (Vida Bela Residencial)",
+        "zipcode": "62504-820"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 109 (Res Bairro de Fátima)",
+        "zipcode": "62501-445"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Pedro Pereira",
+        "zipcode": "62500-080"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Padre Luiz Xavier",
+        "zipcode": "62500-345"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 207 (Vida Bela Residencial)",
+        "zipcode": "62504-840"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Pirineus Montenegro",
+        "zipcode": "62504-610"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 108 (Brisa do Norte Residencial)",
+        "zipcode": "62504-755"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 103 (Vida Bela Residencial)",
+        "zipcode": "62504-865"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Professora Rita Aguiar",
+        "zipcode": "62502-684"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Perilo Teixeira",
+        "zipcode": "62502-500"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Pedro Teixeira Barroso",
+        "zipcode": "62503-326"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 105 (Vida Bela Residencial)",
+        "zipcode": "62504-860"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Professor Pedro Eymard",
+        "zipcode": "62508-114"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Osvaldo Primo Caxilé",
+        "zipcode": "62504-294"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 106 (Brisa do Norte Residencial)",
+        "zipcode": "62504-750"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Presmilau Camerino",
+        "zipcode": "62503-038"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Professora Naná Barroso",
+        "zipcode": "62503-214"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Paralela 7",
+        "zipcode": "62508-695"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 106 (Res Bairro de Fátima)",
+        "zipcode": "62501-415"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Primo Tião",
+        "zipcode": "62500-330"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 102 (Vida Bela Residencial)",
+        "zipcode": "62504-810"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Pedro Moreira Braga (Cj da COHAB)",
+        "zipcode": "62502-858"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 103 (Res Bairro de Fátima)",
+        "zipcode": "62501-430"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 205 (Vida Bela Residencial)",
+        "zipcode": "62504-850"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Pedro I",
+        "zipcode": "62508-485"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Paulo Alves Teixeira",
+        "zipcode": "62502-588"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Padre Bezerra",
+        "zipcode": "62500-095"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Pedro Biluca",
+        "zipcode": "62500-220"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 116 (Brisa do Norte Residencial)",
+        "zipcode": "62504-800"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 110 (Brisa do Norte Residencial)",
+        "zipcode": "62504-760"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada Julio II",
+        "zipcode": "62504-690"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Pergentina Araújo",
+        "zipcode": "62508-185"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Professora Graça Rodrigues",
+        "zipcode": "62504-660"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 115 (Vida Bela Residencial)",
+        "zipcode": "62504-825"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 103 (Brisa do Norte Residencial)",
+        "zipcode": "62504-785"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Presidente Roosevelt",
+        "zipcode": "62508-335"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 112 (Brisa do Norte Residencial)",
+        "zipcode": "62504-790"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 104 (Res Bairro de Fátima)",
+        "zipcode": "62501-410"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 113 (Brisa do Norte Residencial)",
+        "zipcode": "62504-765"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 108 (Res Bairro de Fátima)",
+        "zipcode": "62501-420"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Pedro I",
+        "zipcode": "62508-325"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 113 (Vida Bela Residencial)",
+        "zipcode": "62504-830"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Paulo Alves Teixeira",
+        "zipcode": "62500-340"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 113 (Res Bairro de Fátima)",
+        "zipcode": "62501-455"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 115 (Res Bairro de Fátima)",
+        "zipcode": "62501-460"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 109 (Vida Bela Residencial)",
+        "zipcode": "62504-845"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Professor Robério Barroso",
+        "zipcode": "62501-180"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 121 (Res Bairro de Fátima)",
+        "zipcode": "62501-475"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 111 (Vida Bela Residencial)",
+        "zipcode": "62504-835"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 117 (Res Bairro de Fátima)",
+        "zipcode": "62501-465"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Pergentina Araújo",
+        "zipcode": "62508-480"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 242",
+        "zipcode": "62505-050"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua SDO 17",
+        "zipcode": "62504-665"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Sebastião Coelho",
+        "zipcode": "62500-225"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 333",
+        "zipcode": "62505-070"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua Raimunda Carneiro Viana",
+        "zipcode": "62503-410"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua SDO 340",
+        "zipcode": "62507-120"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua SDO 94",
+        "zipcode": "62507-060"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Rawilson da Silva Pontes",
+        "zipcode": "62501-175"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Severino Moreira",
+        "zipcode": "62504-055"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 211 (Res Bairro de Fátima)",
+        "zipcode": "62501-490"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 331",
+        "zipcode": "62505-060"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua SDO 223",
+        "zipcode": "62508-240"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Salão Comunitário",
+        "zipcode": "62507-685"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua SDO 36",
+        "zipcode": "62502-460"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Raimundo Lopes de Souza",
+        "zipcode": "62504-100"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua SDO 55",
+        "zipcode": "62504-650"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua SDO 13",
+        "zipcode": "62508-740"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Raimundo Rodrigues Sobrinho",
+        "zipcode": "62500-520"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 332",
+        "zipcode": "62505-100"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua SDO 206",
+        "zipcode": "62508-410"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 215 (Res Bairro de Fátima)",
+        "zipcode": "62501-500"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 208 (Res Bairro de Fátima)",
+        "zipcode": "62501-480"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Tenente José Vicente",
+        "zipcode": "62508-375"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua SDO 80",
+        "zipcode": "62502-572"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Sandro Hélio de Paiva Barroso",
+        "zipcode": "62508-245"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Julho",
+        "street": "Rua SDO",
+        "zipcode": "62505-680"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua SDO 23",
+        "zipcode": "62504-655"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Ricardo de Paiva Barroso",
+        "zipcode": "62501-375"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Sebastião Matias",
+        "zipcode": "62507-665"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Sebastião Farias",
+        "zipcode": "62500-485"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Raimundo Lopes de Souza",
+        "zipcode": "62503-198"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua SDO 12",
+        "zipcode": "62508-670"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua SDO",
+        "zipcode": "62500-260"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua SDO",
+        "zipcode": "62502-252"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua SDO 245",
+        "zipcode": "62508-395"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 213 (Res Bairro de Fátima)",
+        "zipcode": "62501-495"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Julho",
+        "street": "Rua SDO 245",
+        "zipcode": "62505-660"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Silvio Primo Caxilé",
+        "zipcode": "62507-110"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua SDO 15",
+        "zipcode": "62504-560"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Tenente José Vicente",
+        "zipcode": "62504-095"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Sebastião Gonçalves",
+        "zipcode": "62504-326"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua SDO 247",
+        "zipcode": "62508-235"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 209 (Res Bairro de Fátima)",
+        "zipcode": "62501-485"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Querginaldo Rodrigues Alves",
+        "zipcode": "62501-195"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua SDO 78 (Cj da COHAB)",
+        "zipcode": "62501-055"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua São José",
+        "zipcode": "62504-238"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua SDO 97",
+        "zipcode": "62504-222"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Sebastião Coelho",
+        "zipcode": "62500-390"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 471",
+        "zipcode": "62505-120"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 335",
+        "zipcode": "62505-140"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua SDO 82",
+        "zipcode": "62500-195"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua São Camilo",
+        "zipcode": "62500-510"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 217 (Res Bairro de Fátima)",
+        "zipcode": "62501-505"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Rita de Sousa Gomes",
+        "zipcode": "62507-445"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 472",
+        "zipcode": "62505-130"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Raimundo Simplício",
+        "zipcode": "62500-840"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Tenente José Vicente",
+        "zipcode": "62504-530"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua SDO 81",
+        "zipcode": "62502-548"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Julho",
+        "street": "Rua Tenente José Vicente",
+        "zipcode": "62505-640"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua SDO 35",
+        "zipcode": "62502-468"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Urbano Teixeira de Menezes",
+        "zipcode": "62502-380"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Travessa Irene Agrela dos Santos 2",
+        "zipcode": "62508-725"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Valter Cordeiro",
+        "zipcode": "62504-150"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Travessa Irene Agrela dos Santos 1",
+        "zipcode": "62508-720"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Travessa dos Carvalhos",
+        "zipcode": "62500-470"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa Hidelberto Barroso 2",
+        "zipcode": "62500-105"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa José Braga 3",
+        "zipcode": "62500-270"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Travessa José Edilson Madeira",
+        "zipcode": "62503-470"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Travessa Carlos Bonifácio",
+        "zipcode": "62508-700"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua 105 (Cj da COHAB)",
+        "zipcode": "62501-085"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Yana Livia Mendes Dias",
+        "zipcode": "62508-390"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Travessa Jaime Henrique",
+        "zipcode": "62504-580"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua 102 (Cj da COHAB)",
+        "zipcode": "62502-866"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Vale do Amanhecer",
+        "zipcode": "62500-360"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Urbano Teixeira de Menezes",
+        "zipcode": "62500-780"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Travessa José Romero 4",
+        "zipcode": "62508-545"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Tereza Vicente dos Santos",
+        "zipcode": "62502-188"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua 106 (Cj da COHAB)",
+        "zipcode": "62502-898"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Travessa Cosma Tomé de Menezes",
+        "zipcode": "62500-515"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Travessa do Campo do Palmeira",
+        "zipcode": "62502-008"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Travessa Antônio Carvalho",
+        "zipcode": "62500-845"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua 107 (Cj da COHAB)",
+        "zipcode": "62501-090"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Travessa Dom Aureliano Matos",
+        "zipcode": "62503-110"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Travessa José Airton Teixeira",
+        "zipcode": "62502-236"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Travessa José de Agrela Rodrigues",
+        "zipcode": "62503-450"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Vicente Siebra",
+        "zipcode": "62508-006"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Travessa Caio Prado",
+        "zipcode": "62508-195"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Vicente Xavier Lima",
+        "zipcode": "62504-020"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Urbano Barbosa",
+        "zipcode": "62508-102"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua 106 (Cj da COHAB)",
+        "zipcode": "62501-070"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Tereza de Abreu",
+        "zipcode": "62502-700"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Travessa Joaquim Tabosa Braga 02",
+        "zipcode": "62505-030"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Urbano Teixeira de Menezes",
+        "zipcode": "62500-290"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Vicente Moura Viana",
+        "zipcode": "62502-692"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Travessa Capitão Manoel Alves de Oliveira",
+        "zipcode": "62503-174"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Tranquilo Costa Neto",
+        "zipcode": "62500-315"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Travessa Esaú Alves de Aguiar",
+        "zipcode": "62502-436"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Travessa Jonas Soares",
+        "zipcode": "62504-680"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Valdemiro Santiago",
+        "zipcode": "62504-382"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Travessa Duzinho Montenegro",
+        "zipcode": "62500-830"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Travessa Antônio Sales",
+        "zipcode": "62508-084"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua 102 (Cj da COHAB)",
+        "zipcode": "62501-050"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua 104 (Cj da COHAB)",
+        "zipcode": "62502-890"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Travessa Joaquim Barroso Braga",
+        "zipcode": "62504-050"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Travessa Antônio Anastácio Barroso",
+        "zipcode": "62503-370"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua Urbano Teixeira de Menezes",
+        "zipcode": "62500-090"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua Tereza Vicente dos Santos",
+        "zipcode": "62502-024"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa Carlos Porfírio",
+        "zipcode": "62500-255"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Urbano Barbosa",
+        "zipcode": "62508-165"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Vereador Raul Tomé",
+        "zipcode": "62502-628"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua Tenente José Vicente",
+        "zipcode": "62505-020"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Travessa Durval Barroso",
+        "zipcode": "62502-604"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Tereza Vidal Sobrinho",
+        "zipcode": "62504-605"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa José Braga 1",
+        "zipcode": "62500-280"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Travessa Deusdete Oliveira",
+        "zipcode": "62508-650"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Travessa Moésio Loyola",
+        "zipcode": "62502-716"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Travessa Marcos Porfírio 2",
+        "zipcode": "62504-620"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Travessa Tereza Vicente dos Santos",
+        "zipcode": "62502-204"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Travessa Sebastião Matias",
+        "zipcode": "62507-670"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Carlos Bonifácio",
+        "zipcode": "62504-374"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua Barroso Junior",
+        "zipcode": "62502-104"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Caio Prado",
+        "zipcode": "62508-054"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62500-970"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Travessa Marechal Hermes",
+        "zipcode": "62508-610"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Hidelberto Barroso",
+        "zipcode": "62500-037"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Travessa Pedro Moreira Braga 1 (Cj da COHAB)",
+        "zipcode": "62502-874"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Dom Aureliano Matos",
+        "zipcode": "62508-500"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Travessa Pedro Moreira Braga 3 (Cj da COHAB)",
+        "zipcode": "62503-000"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Caio Prado",
+        "zipcode": "62504-010"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Travessa Marcos Porfírio 1",
+        "zipcode": "62504-625"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "",
+        "street": "Rua Élbia Barroso",
+        "zipcode": "62502-990"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Travessa Raimundo Simplício",
+        "zipcode": "62500-855"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Travessa Julia Braga de Castro",
+        "zipcode": "62507-075"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa José Tomé 1",
+        "zipcode": "62500-245"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua SDO 144",
+        "zipcode": "62504-635"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 117",
+        "zipcode": "62505-400"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62508-170"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Antônio Urbano",
+        "zipcode": "62501-190"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Travessa Rosa Barroso Braga",
+        "zipcode": "62503-070"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Avenida Anastácio Braga",
+        "zipcode": "62502-492"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua SDO 113",
+        "zipcode": "62504-685"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Ana Luiza Braga",
+        "zipcode": "62507-000"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa São Camilo",
+        "zipcode": "62500-190"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Dom Orione",
+        "zipcode": "62502-636"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Alipio Tavares",
+        "zipcode": "62504-080"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Chico do Bey",
+        "zipcode": "62508-280"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua Deusdete Oliveira",
+        "zipcode": "62508-520"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Travessa Marechal Hermes 1",
+        "zipcode": "62508-530"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Travessa Sebastião Farias",
+        "zipcode": "62500-490"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Avenida Francisco dos Santos Braga",
+        "zipcode": "62507-410"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Travessa Projetada 104 (Res Bairro de Fátima)",
+        "zipcode": "62501-470"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua SDO 136",
+        "zipcode": "62500-370"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Travessa Querginaldo Rodrigues Alves",
+        "zipcode": "62501-200"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Augusto Pontes",
+        "zipcode": "62504-540"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Travessa Pedro Moreira Braga 2 (Cj da COHAB)",
+        "zipcode": "62502-882"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Antônio Barroso Neto",
+        "zipcode": "62503-254"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Centro",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "62500-022"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Travessa Raimunda Carneiro Viana",
+        "zipcode": "62503-400"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Avenida Duque de Caxias",
+        "zipcode": "62502-388"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Travessa Osvaldo Cruz",
+        "zipcode": "62503-062"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua das Almas",
+        "zipcode": "62502-428"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Vila Teixeira",
+        "zipcode": "62502-564"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Antônio Gomes Braga",
+        "zipcode": "62504-645"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Antero Rodrigues Teixeira",
+        "zipcode": "62508-645"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Travessa Pedro Moreira Braga 2 (Cj da COHAB)",
+        "zipcode": "62501-060"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Cícero Luiz Pereira",
+        "zipcode": "62502-180"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Bela Vista",
+        "street": "",
+        "zipcode": "62510-000"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa José Tomé 2",
+        "zipcode": "62500-235"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua SDO 119",
+        "zipcode": "62503-302"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Travessa Maria Ângela Goes",
+        "zipcode": "62501-390"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Manoel Moura Negrão",
+        "zipcode": "62502-404"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 107 (Brisa do Norte Residencial)",
+        "zipcode": "62504-780"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Francisco Domingos Braga Filho",
+        "zipcode": "62504-105"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Maria José Teixeira",
+        "zipcode": "62508-270"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Duzinho Montenegro",
+        "zipcode": "62500-825"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 114 (Brisa do Norte Residencial)",
+        "zipcode": "62504-795"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 109 (Brisa do Norte Residencial)",
+        "zipcode": "62504-775"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua José Airton Teixeira",
+        "zipcode": "62502-064"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua Manoel Moura Negrão",
+        "zipcode": "62500-295"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Eubia Barroso",
+        "zipcode": "62508-160"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua João Candido",
+        "zipcode": "62500-460"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua Monsenhor José Solon",
+        "zipcode": "62503-350"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Firmino Martins",
+        "zipcode": "62503-118"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 101 (Res Bairro de Fátima)",
+        "zipcode": "62501-425"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Pergentina Araújo",
+        "zipcode": "62508-320"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 102 (Res Bairro de Fátima)",
+        "zipcode": "62501-405"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Gonçalo de Moura Rolim",
+        "zipcode": "62504-590"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Projetada 104 (Vida Bela Residencial)",
+        "zipcode": "62504-815"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Presmilau Camerino",
+        "zipcode": "62508-066"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Maestro Marquinhos",
+        "zipcode": "62504-535"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua Pedro Pereira",
+        "zipcode": "62502-096"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua José Abilio Bruno",
+        "zipcode": "62508-385"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Joaquim Tabosa Braga 2",
+        "zipcode": "62504-075"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Irene Agrela dos Santos",
+        "zipcode": "62508-730"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua Lourenço de Sousa Marinho",
+        "zipcode": "62505-420"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Pedro Gadelha Goes",
+        "zipcode": "62501-395"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Mestre Sérgio Caxilé",
+        "zipcode": "62508-285"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua José do Patrocínio",
+        "zipcode": "62505-350"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Marechal Hermes",
+        "zipcode": "62508-350"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Raimundo Elias",
+        "zipcode": "62508-345"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua Osvaldo Cruz",
+        "zipcode": "62502-048"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua José Tomé",
+        "zipcode": "62500-250"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Nenzinho Pontes",
+        "zipcode": "62501-165"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua José Romero",
+        "zipcode": "62502-000"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua Durval Barroso",
+        "zipcode": "62502-596"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua José de Alencar",
+        "zipcode": "62502-040"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Osvaldo Primo Caxilé",
+        "zipcode": "62503-246"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua José Mario Barroso",
+        "zipcode": "62508-108"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua João Farias Araújo (Cj da COHAB)",
+        "zipcode": "62501-045"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Área Nobre",
+        "street": "Rua Julia Braga",
+        "zipcode": "62507-050"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Rua Elvira Tabosa Braga",
+        "zipcode": "62507-425"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Coqueiro",
+        "street": "Rua Eubia Barroso",
+        "zipcode": "62508-000"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Kátia Barroso",
+        "zipcode": "62501-380"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Maria de Farias",
+        "zipcode": "62500-495"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Rua Joaquim Rodrigues Teixeira de Menezes",
+        "zipcode": "62502-396"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua SDO 11",
+        "zipcode": "62504-670"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua José Maria da Silveira",
+        "zipcode": "62504-206"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua Manoel Carneiro de Castro",
+        "zipcode": "62503-380"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Professora Graça Rodrigues",
+        "zipcode": "62504-158"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua Jaime Barroso Junior",
+        "zipcode": "62505-080"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua Projetada 111 (Res Bairro de Fátima)",
+        "zipcode": "62501-450"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Rua Jonas Soares",
+        "zipcode": "62504-675"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Rua José Romero",
+        "zipcode": "62508-540"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Maranhão",
+        "street": "Rua José de Agrela Rodrigues",
+        "zipcode": "62503-440"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Rua Sete de Setembro",
+        "zipcode": "62502-080"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Robério Barroso Braga",
+        "zipcode": "62508-250"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua SDO 205",
+        "zipcode": "62508-400"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua SDO",
+        "zipcode": "62504-390"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Vicente Siebra",
+        "zipcode": "62504-142"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Tenente Nilo Barroso",
+        "zipcode": "62508-230"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua SDO 241",
+        "zipcode": "62508-220"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Rua SDO 470",
+        "zipcode": "62505-110"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua SDO 34",
+        "zipcode": "62502-476"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Rua Vicente Siebra",
+        "zipcode": "62504-090"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua SDO",
+        "zipcode": "62500-365"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Violete",
+        "street": "Travessa Osvaldo Primo Caxilé",
+        "zipcode": "62504-030"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Rua Vicente Xavier Lima",
+        "zipcode": "62503-230"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Fazendinha",
+        "street": "Travessa João Araújo Teixeira",
+        "zipcode": "62502-332"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Urbano Teixeira",
+        "street": "Rua 104 (Cj da COHAB)",
+        "zipcode": "62501-065"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Travessa dos Carvalhos 1",
+        "zipcode": "62500-465"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua SDO 78 (Cj da COHAB)",
+        "zipcode": "62503-008"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Boa Vista",
+        "street": "Rua Sebastião Barroso Valente",
+        "zipcode": "62508-380"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Ladeira",
+        "street": "Rua Terezinha Rodrigues de Lavor",
+        "zipcode": "62508-660"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cacimbas",
+        "street": "Rua SDO 70",
+        "zipcode": "62502-452"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Francisco",
+        "street": "Rua SDO 250",
+        "zipcode": "62500-380"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Picos",
+        "street": "Travessa Sebastião Matias 1",
+        "zipcode": "62507-675"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa José Braga 2",
+        "zipcode": "62500-275"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Cruzeiro",
+        "street": "Travessa Astolfo Ribeiro da Silva Cunha",
+        "zipcode": "62503-206"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Travessa Cristo Redentor",
+        "zipcode": "62504-262"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "das Flores",
+        "street": "Rua Raimundo Santos Domingos",
+        "zipcode": "62504-334"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Travessa Pedro Pereira",
+        "zipcode": "62502-112"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Madalenas",
+        "street": "Travessa Ana Luzia Braga",
+        "zipcode": "62505-410"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Nova Aldeota",
+        "street": "Travessa Marcos Porfírio",
+        "zipcode": "62504-570"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Travessa Hidelberto Barroso 1",
+        "zipcode": "62500-100"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Alto Alegre",
+        "street": "Rua SDO 84",
+        "zipcode": "62500-210"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Senharão",
+        "street": "Travessa Marechal Hermes 2",
+        "zipcode": "62508-535"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "Mourão",
+        "street": "Rua Urbano Teixeira de Menezes",
+        "zipcode": "62500-450"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "São Sebastião",
+        "street": "Rua Tenente José Vicente",
+        "zipcode": "62508-210"
+    },
+    {
+        "city": "Itapipoca",
+        "state": "CE",
+        "district": "da Estação",
+        "street": "Travessa José Romero",
+        "zipcode": "62502-032"
+    }
+]

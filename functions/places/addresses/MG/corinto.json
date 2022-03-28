@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Corinto",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Doutor Antônio Alvarenga 565",
+        "zipcode": "39200-970"
+    },
+    {
+        "city": "Corinto",
+        "state": "MG",
+        "district": "Beltrão",
+        "street": "Rua Brasilina 76",
+        "zipcode": "39200-971"
+    },
+    {
+        "city": "Corinto",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Doutor Antônio Alvarenga 565",
+        "zipcode": "39200-972"
+    },
+    {
+        "city": "Corinto",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39200-000"
+    },
+    {
+        "city": "Corinto",
+        "state": "MG",
+        "district": "Contria",
+        "street": "Rua José Amâncio Ferro 114",
+        "zipcode": "39202-970"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Pedro Velho",
+        "state": "RN",
+        "district": "Cuité",
+        "street": "Rua São Sebastião s/n",
+        "zipcode": "59196-972"
+    },
+    {
+        "city": "Pedro Velho",
+        "state": "RN",
+        "district": null,
+        "street": "Rua São Sebastião",
+        "zipcode": "59196-990"
+    },
+    {
+        "city": "Pedro Velho",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Praça Claudino Martins 22",
+        "zipcode": "59196-970"
+    },
+    {
+        "city": "Pedro Velho",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59196-000"
+    },
+    {
+        "city": "Pedro Velho",
+        "state": "RN",
+        "district": "Carnaúba",
+        "street": "Rua Sete de Setembro s/n",
+        "zipcode": "59196-971"
+    }
+]

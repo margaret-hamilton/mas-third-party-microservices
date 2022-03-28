@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Campina do Monte Alegre",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18245-000"
+    },
+    {
+        "city": "Campina do Monte Alegre",
+        "state": "SP",
+        "district": null,
+        "street": "Rua dos Dourados",
+        "zipcode": "18245-990"
+    },
+    {
+        "city": "Campina do Monte Alegre",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Serafim Libâneo 4",
+        "zipcode": "18245-970"
+    }
+]

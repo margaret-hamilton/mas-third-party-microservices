@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Jaguaquara",
+        "state": "BA",
+        "district": "Entroncamento de Jaguaquara",
+        "street": "Praça da Bandeira 08",
+        "zipcode": "45345-971"
+    },
+    {
+        "city": "Jaguaquara",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça da Bandeira 8",
+        "zipcode": "45345-970"
+    },
+    {
+        "city": "Jaguaquara",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45345-000"
+    }
+]

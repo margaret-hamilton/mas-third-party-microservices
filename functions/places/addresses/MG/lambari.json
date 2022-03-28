@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Lambari",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Doutor Wadih Bacha 35",
+        "zipcode": "37480-971"
+    },
+    {
+        "city": "Lambari",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "37480-000"
+    },
+    {
+        "city": "Lambari",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça Nossa Senhora da Saúde 32",
+        "zipcode": "37480-970"
+    },
+    {
+        "city": "Lambari",
+        "state": "MG",
+        "district": null,
+        "street": "Posto de Saúde do bairro São João s/n",
+        "zipcode": "37480-990"
+    }
+]

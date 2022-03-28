@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Tapera",
+        "state": "RS",
+        "district": "São Pedro",
+        "street": "Rua Principal",
+        "zipcode": "99490-971"
+    },
+    {
+        "city": "Tapera",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida José Baggio",
+        "zipcode": "99490-970"
+    },
+    {
+        "city": "Tapera",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "99490-000"
+    }
+]

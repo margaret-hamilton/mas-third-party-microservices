@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Pereiras",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Doutor Luiz Vergueiro 551",
+        "zipcode": "18580-970"
+    },
+    {
+        "city": "Pereiras",
+        "state": "SP",
+        "district": "Estação de Pereiras",
+        "street": "Rua Benedito Lemem Vieira 63",
+        "zipcode": "18580-971"
+    },
+    {
+        "city": "Pereiras",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18580-000"
+    },
+    {
+        "city": "Pereiras",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Benedito Bento Rocha",
+        "zipcode": "18580-990"
+    }
+]

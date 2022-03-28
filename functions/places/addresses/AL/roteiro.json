@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Roteiro",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Rua João Pedro s/n  AC Roteiro",
+        "zipcode": "57257-970"
+    },
+    {
+        "city": "Roteiro",
+        "state": "AL",
+        "district": "Centro",
+        "street": "Rua João Pedro s/n",
+        "zipcode": "57246-970"
+    },
+    {
+        "city": "Roteiro",
+        "state": "AL",
+        "district": null,
+        "street": null,
+        "zipcode": "57246-000"
+    },
+    {
+        "city": "Roteiro",
+        "state": "AL",
+        "district": "",
+        "street": "",
+        "zipcode": "57257-000"
+    }
+]

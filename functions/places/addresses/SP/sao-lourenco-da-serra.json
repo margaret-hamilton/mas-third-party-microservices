@@ -1,0 +1,51 @@
+[
+    {
+        "city": "São Lourenço da Serra",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Evaristo Delfino Pinto 701",
+        "zipcode": "06890-970"
+    },
+    {
+        "city": "São Lourenço da Serra",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Antônio Despézio",
+        "zipcode": "06890-990"
+    },
+    {
+        "city": "São Lourenço da Serra",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Embratel",
+        "zipcode": "06890-991"
+    },
+    {
+        "city": "São Lourenço da Serra",
+        "state": "SP",
+        "district": null,
+        "street": "Estrada Maria Soares Pereira",
+        "zipcode": "06890-995"
+    },
+    {
+        "city": "São Lourenço da Serra",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "06890-000"
+    },
+    {
+        "city": "São Lourenço da Serra",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Bananeiras",
+        "zipcode": "06890-993"
+    },
+    {
+        "city": "São Lourenço da Serra",
+        "state": "SP",
+        "district": null,
+        "street": "Rua Bananeira",
+        "zipcode": "06890-994"
+    }
+]

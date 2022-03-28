@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Itajuípe",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Coração de Jesus 40",
+        "zipcode": "45630-970"
+    },
+    {
+        "city": "Itajuípe",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45630-000"
+    },
+    {
+        "city": "Itajuípe",
+        "state": "BA",
+        "district": null,
+        "street": "Praça da Bandeira",
+        "zipcode": "45630-991"
+    },
+    {
+        "city": "Itajuípe",
+        "state": "BA",
+        "district": "Pimenteira",
+        "street": "Rua Joaquim Nabuco s/n",
+        "zipcode": "45630-971"
+    },
+    {
+        "city": "Itajuípe",
+        "state": "BA",
+        "district": null,
+        "street": "Distrito de Pimenteira",
+        "zipcode": "45630-990"
+    }
+]

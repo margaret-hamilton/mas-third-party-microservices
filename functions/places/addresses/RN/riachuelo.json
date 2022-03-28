@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Riachuelo",
+        "state": "RN",
+        "district": null,
+        "street": "Rua Francisco Ferreira",
+        "zipcode": "59470-990"
+    },
+    {
+        "city": "Riachuelo",
+        "state": "RN",
+        "district": "",
+        "street": "",
+        "zipcode": "59470-000"
+    },
+    {
+        "city": "Riachuelo",
+        "state": "RN",
+        "district": "Centro",
+        "street": "Rua Vereador Francisco Bezerra 121",
+        "zipcode": "59470-970"
+    },
+    {
+        "city": "Riachuelo",
+        "state": "RN",
+        "district": "São José do Potengi",
+        "street": "Rua Principal s/n",
+        "zipcode": "59470-971"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Mandirituba",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua João Barbosa Mendes 185",
+        "zipcode": "83800-970"
+    },
+    {
+        "city": "Mandirituba",
+        "state": "PR",
+        "district": "Espigão das Antas",
+        "street": "Rua Principal",
+        "zipcode": "83800-971"
+    },
+    {
+        "city": "Mandirituba",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83800-000"
+    },
+    {
+        "city": "Mandirituba",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83810-990"
+    },
+    {
+        "city": "Mandirituba",
+        "state": "PR",
+        "district": "Campestre dos Paulas",
+        "street": "Rua Principal",
+        "zipcode": "83800-972"
+    },
+    {
+        "city": "Mandirituba",
+        "state": "PR",
+        "district": "Quatro Pinheiros",
+        "street": "Rua Principal",
+        "zipcode": "83800-973"
+    }
+]

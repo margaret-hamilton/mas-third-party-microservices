@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santa Tereza do Oeste",
+        "state": "PR",
+        "district": "Santa Maria",
+        "street": "Avenida Manoel José de Carvalho",
+        "zipcode": "85825-971"
+    },
+    {
+        "city": "Santa Tereza do Oeste",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua das Orquídeas",
+        "zipcode": "85825-970"
+    },
+    {
+        "city": "Santa Tereza do Oeste",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85825-000"
+    },
+    {
+        "city": "Santa Tereza do Oeste",
+        "state": "PR",
+        "district": "Parque Industrial II",
+        "street": "Rua Antonio Victor Maximiano 107",
+        "zipcode": "85825-900"
+    }
+]

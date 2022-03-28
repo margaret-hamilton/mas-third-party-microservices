@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Crisólita",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida João Hilário de Souza 18",
+        "zipcode": "39885-971"
+    },
+    {
+        "city": "Crisólita",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Signário de Almeida 103",
+        "zipcode": "39885-973"
+    },
+    {
+        "city": "Crisólita",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39885-000"
+    }
+]

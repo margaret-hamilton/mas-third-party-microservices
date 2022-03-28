@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Rio Paranaíba",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Capitão Franklin de Castro",
+        "zipcode": "38810-970"
+    },
+    {
+        "city": "Rio Paranaíba",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38810-000"
+    }
+]

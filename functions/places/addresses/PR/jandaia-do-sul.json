@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Jandaia do Sul",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua José Maria de Paula Rodrigues",
+        "zipcode": "86900-970"
+    },
+    {
+        "city": "Jandaia do Sul",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Benedito José da Silva",
+        "zipcode": "86905-990"
+    },
+    {
+        "city": "Jandaia do Sul",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86900-000"
+    }
+]

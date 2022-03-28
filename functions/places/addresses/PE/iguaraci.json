@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Iguaraci",
+        "state": "PE",
+        "district": "Irajai",
+        "street": "Rua Doutor Jose de Almeida s/n",
+        "zipcode": "56845-970"
+    },
+    {
+        "city": "Iguaraci",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Praça Antônio Rabelo 57",
+        "zipcode": "56840-970"
+    },
+    {
+        "city": "Iguaraci",
+        "state": "PE",
+        "district": "Jabitacá",
+        "street": "Rua Joaquim Alves de Freitas s/n",
+        "zipcode": "56848-970"
+    },
+    {
+        "city": "Iguaraci",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Doutor José Lopes de Almeida",
+        "zipcode": "56845-990"
+    },
+    {
+        "city": "Iguaraci",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56840-000"
+    }
+]

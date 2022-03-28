@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Capelinha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Jacinto José Ribeiro 594 1º Andar",
+        "zipcode": "39680-971"
+    },
+    {
+        "city": "Capelinha",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39680-000"
+    },
+    {
+        "city": "Capelinha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Jacinto José Ribeiro 594",
+        "zipcode": "39680-970"
+    }
+]

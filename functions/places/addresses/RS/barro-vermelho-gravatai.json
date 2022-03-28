@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Barro Vermelho (Gravataí)",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Artur Dávila",
+        "zipcode": "94340-974"
+    },
+    {
+        "city": "Barro Vermelho (Gravataí)",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "94340-000"
+    },
+    {
+        "city": "Barro Vermelho (Gravataí)",
+        "state": "RS",
+        "district": null,
+        "street": "Estrada do Vadeco",
+        "zipcode": "94340-990"
+    }
+]

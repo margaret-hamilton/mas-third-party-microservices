@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Vila Valério",
+        "state": "ES",
+        "district": "Centro",
+        "street": "Rua Maria Dolores Bonela 41",
+        "zipcode": "29785-970"
+    },
+    {
+        "city": "Vila Valério",
+        "state": "ES",
+        "district": null,
+        "street": "Estrada Principal",
+        "zipcode": "29793-990"
+    },
+    {
+        "city": "Vila Valério",
+        "state": "ES",
+        "district": null,
+        "street": "Estrada Principal",
+        "zipcode": "29790-990"
+    },
+    {
+        "city": "Vila Valério",
+        "state": "ES",
+        "district": "",
+        "street": "",
+        "zipcode": "29785-000"
+    }
+]

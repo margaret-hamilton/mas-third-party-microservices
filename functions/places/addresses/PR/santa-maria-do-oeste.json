@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Santa Maria do Oeste",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Generoso Karpinski",
+        "zipcode": "85230-970"
+    },
+    {
+        "city": "Santa Maria do Oeste",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85230-000"
+    },
+    {
+        "city": "Santa Maria do Oeste",
+        "state": "PR",
+        "district": "Rio do Tigre",
+        "street": "Rua Principal",
+        "zipcode": "85230-972"
+    },
+    {
+        "city": "Santa Maria do Oeste",
+        "state": "PR",
+        "district": "São Manoel",
+        "street": "Rua Principal",
+        "zipcode": "85230-971"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Leme do Prado",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Santos Dumont 190",
+        "zipcode": "39655-975"
+    },
+    {
+        "city": "Leme do Prado",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Turmalina s/n",
+        "zipcode": "39655-973"
+    },
+    {
+        "city": "Leme do Prado",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Santos Dumont s/n",
+        "zipcode": "39655-974"
+    },
+    {
+        "city": "Leme do Prado",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39655-000"
+    }
+]

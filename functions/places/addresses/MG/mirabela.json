@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Mirabela",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua João Antônio 260",
+        "zipcode": "39420-970"
+    },
+    {
+        "city": "Mirabela",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39420-000"
+    },
+    {
+        "city": "Mirabela",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39373-000"
+    },
+    {
+        "city": "Mirabela",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua João Antônio 260",
+        "zipcode": "39373-970"
+    }
+]

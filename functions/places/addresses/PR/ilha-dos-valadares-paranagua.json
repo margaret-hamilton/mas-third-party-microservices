@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ilha dos Valadares (Paranaguá)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "83252-000"
+    },
+    {
+        "city": "Ilha dos Valadares (Paranaguá)",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "83252-990"
+    },
+    {
+        "city": "Ilha dos Valadares (Paranaguá)",
+        "state": "PR",
+        "district": "Valadares",
+        "street": "Rua Principal",
+        "zipcode": "83252-970"
+    }
+]

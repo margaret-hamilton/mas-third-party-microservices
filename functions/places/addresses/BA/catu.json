@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Catu",
+        "state": "BA",
+        "district": null,
+        "street": "Rua José Visco",
+        "zipcode": "48110-990"
+    },
+    {
+        "city": "Catu",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Carlos Gomes",
+        "zipcode": "48110-991"
+    },
+    {
+        "city": "Catu",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48110-000"
+    },
+    {
+        "city": "Catu",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Capitão Manoel Augusto s/n",
+        "zipcode": "48110-970"
+    },
+    {
+        "city": "Catu",
+        "state": "BA",
+        "district": null,
+        "street": "Caminho 5",
+        "zipcode": "48110-992"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Rubelita",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Praça da Matriz 25",
+        "zipcode": "39565-973"
+    },
+    {
+        "city": "Rubelita",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Honório da Bandeira s/n",
+        "zipcode": "39565-972"
+    },
+    {
+        "city": "Rubelita",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39565-000"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Pavão",
+        "state": "MG",
+        "district": "Limeira",
+        "street": "Avenida Jescelina Pinheiro s/n",
+        "zipcode": "39814-971"
+    },
+    {
+        "city": "Pavão",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39814-000"
+    },
+    {
+        "city": "Pavão",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Olegário Maciel 35",
+        "zipcode": "39814-970"
+    }
+]

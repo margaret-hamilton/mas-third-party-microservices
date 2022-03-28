@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Jacutinga (Ivaiporã)",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "86878-000"
+    },
+    {
+        "city": "Jacutinga (Ivaiporã)",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Cambé",
+        "zipcode": "86878-970"
+    },
+    {
+        "city": "Jacutinga (Ivaiporã)",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Cambé",
+        "zipcode": "86878-990"
+    }
+]

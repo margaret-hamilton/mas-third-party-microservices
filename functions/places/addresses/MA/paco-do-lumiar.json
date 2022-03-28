@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Paço do Lumiar",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Praça Nossa Senhora da Luz 81",
+        "zipcode": "65130-970"
+    },
+    {
+        "city": "Paço do Lumiar",
+        "state": "MA",
+        "district": "Conjunto Maiobão",
+        "street": "Avenida 13 37 Quadra A",
+        "zipcode": "65137-970"
+    },
+    {
+        "city": "Paço do Lumiar",
+        "state": "MA",
+        "district": "Conjunto Maiobão",
+        "street": "Avenida Três 19 Quadra 90",
+        "zipcode": "65137-971"
+    },
+    {
+        "city": "Paço do Lumiar",
+        "state": "MA",
+        "district": "",
+        "street": "",
+        "zipcode": "65130-000"
+    },
+    {
+        "city": "Paço do Lumiar",
+        "state": "MA",
+        "district": null,
+        "street": "Avenida Zinolle Barbosa Bello",
+        "zipcode": "65130-990"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Piquerobi",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua José Bonifácio 128",
+        "zipcode": "19410-970"
+    },
+    {
+        "city": "Piquerobi",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "19410-000"
+    },
+    {
+        "city": "Piquerobi",
+        "state": "SP",
+        "district": null,
+        "street": "Sede da Fazenda Santa Rita",
+        "zipcode": "19410-992"
+    },
+    {
+        "city": "Piquerobi",
+        "state": "SP",
+        "district": null,
+        "street": "Sede da Fazenda Santo Antonio da Lagoa",
+        "zipcode": "19410-991"
+    },
+    {
+        "city": "Piquerobi",
+        "state": "SP",
+        "district": null,
+        "street": "Sede da Fazenda São José da Lagoa",
+        "zipcode": "19410-990"
+    }
+]

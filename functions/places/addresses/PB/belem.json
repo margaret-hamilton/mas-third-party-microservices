@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Belém",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Praça Seis de Setembro 61",
+        "zipcode": "58255-970"
+    },
+    {
+        "city": "Belém",
+        "state": "PB",
+        "district": "",
+        "street": "",
+        "zipcode": "58255-000"
+    },
+    {
+        "city": "Belém",
+        "state": "PB",
+        "district": "Povoado",
+        "street": "Rua Nova s/n",
+        "zipcode": "58255-973"
+    },
+    {
+        "city": "Belém",
+        "state": "PB",
+        "district": "Centro",
+        "street": "Sítio Serrote s/n",
+        "zipcode": "58255-974"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Iretama",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Paraná 535",
+        "zipcode": "87280-970"
+    },
+    {
+        "city": "Iretama",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "87280-000"
+    },
+    {
+        "city": "Iretama",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Carangola",
+        "zipcode": "87280-972"
+    },
+    {
+        "city": "Iretama",
+        "state": "PR",
+        "district": null,
+        "street": "Avenida Carangola",
+        "zipcode": "87280-990"
+    }
+]

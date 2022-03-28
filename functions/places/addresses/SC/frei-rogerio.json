@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Frei Rogério",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua João Batista Pilon",
+        "zipcode": "89530-971"
+    },
+    {
+        "city": "Frei Rogério",
+        "state": "SC",
+        "district": null,
+        "street": "Rua São Francisco",
+        "zipcode": "89530-990"
+    },
+    {
+        "city": "Frei Rogério",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89530-000"
+    },
+    {
+        "city": "Frei Rogério",
+        "state": "SC",
+        "district": "Núcleo Triticula",
+        "street": "Rua São Francisco",
+        "zipcode": "89530-972"
+    }
+]

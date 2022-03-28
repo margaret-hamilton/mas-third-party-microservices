@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Itanagra",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Nestor Duarte 46",
+        "zipcode": "48290-970"
+    },
+    {
+        "city": "Itanagra",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "48290-000"
+    },
+    {
+        "city": "Itanagra",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Nestor Duarte",
+        "zipcode": "48290-990"
+    }
+]

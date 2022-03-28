@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Pinheiro",
+        "state": "MA",
+        "district": "Povoado Bom Viver",
+        "street": "Rodovia MA",
+        "zipcode": "65200-972"
+    },
+    {
+        "city": "Pinheiro",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Avenida Tarquínio Lopes s/n",
+        "zipcode": "65200-971"
+    },
+    {
+        "city": "Pinheiro",
+        "state": "MA",
+        "district": "Centro",
+        "street": "Rua Albino Paiva 489",
+        "zipcode": "65200-970"
+    },
+    {
+        "city": "Pinheiro",
+        "state": "MA",
+        "district": "",
+        "street": "",
+        "zipcode": "65200-000"
+    },
+    {
+        "city": "Pinheiro",
+        "state": "MA",
+        "district": "Povoado Paraíso",
+        "street": "Rodovia MA",
+        "zipcode": "65200-973"
+    }
+]

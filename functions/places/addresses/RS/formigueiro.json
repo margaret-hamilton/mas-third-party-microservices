@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Formigueiro",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Sete de Setembro 609",
+        "zipcode": "97210-970"
+    },
+    {
+        "city": "Formigueiro",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "97210-000"
+    },
+    {
+        "city": "Formigueiro",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Um",
+        "zipcode": "97210-990"
+    }
+]

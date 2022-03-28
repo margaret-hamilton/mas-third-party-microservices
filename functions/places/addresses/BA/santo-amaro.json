@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Santo Amaro",
+        "state": "BA",
+        "district": "Pedras",
+        "street": "Praça Nossa Senhora da Conceição s/n",
+        "zipcode": "44200-971"
+    },
+    {
+        "city": "Santo Amaro",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Avenida Viana Bandeira 94",
+        "zipcode": "44200-970"
+    },
+    {
+        "city": "Santo Amaro",
+        "state": "BA",
+        "district": null,
+        "street": "Praça da Purificação",
+        "zipcode": "44200-991"
+    },
+    {
+        "city": "Santo Amaro",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44200-000"
+    },
+    {
+        "city": "Santo Amaro",
+        "state": "BA",
+        "district": null,
+        "street": "Rua Rui Barbosa",
+        "zipcode": "44218-990"
+    },
+    {
+        "city": "Santo Amaro",
+        "state": "BA",
+        "district": null,
+        "street": "Rua do Porto",
+        "zipcode": "44200-990"
+    }
+]

@@ -1,0 +1,5490 @@
+[
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Minuano",
+        "zipcode": "98010-670"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Cariri",
+        "zipcode": "98010-660"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Carijó",
+        "zipcode": "98010-610"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Aimoré",
+        "zipcode": "98010-580"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Santo Angelo",
+        "zipcode": "98040-112"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Antônio Augusto Sampaio da Silva",
+        "zipcode": "98010-635"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Nicolau Schurr",
+        "zipcode": "98035-290"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Arthur Welsch",
+        "zipcode": "98035-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Arthur Brum",
+        "zipcode": "98035-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Ramão R. Pacheco",
+        "zipcode": "98030-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Luiza Franciscutti",
+        "zipcode": "98030-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Beco do Boeiro",
+        "zipcode": "98020-047"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Professor Dourado",
+        "zipcode": "98015-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Cinco",
+        "zipcode": "98045-031"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Amizade",
+        "street": "Rua Pedro Rodrigues",
+        "zipcode": "98010-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antão",
+        "street": "Rua Luiz Pereira de Borba",
+        "zipcode": "98010-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Chácaras do Sul",
+        "street": "Rodovia BR",
+        "zipcode": "98045-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Otto Beschoren",
+        "zipcode": "98030-564"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Venâncio Aires",
+        "zipcode": "98010-760"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Celso Fagundes dos Reis",
+        "zipcode": "98005-233"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Isaltina V. de Pillar Rosa",
+        "zipcode": "98030-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Rodolpho E. Reicherlt",
+        "zipcode": "98030-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Jornalista Prado Júnior",
+        "zipcode": "98030-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Antônio Dornelles",
+        "zipcode": "98030-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dirceu",
+        "street": "Rua Itaparica",
+        "zipcode": "98050-290"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Caiaté",
+        "zipcode": "98010-600"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Irmãos Pithan",
+        "zipcode": "98010-700"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Bugre",
+        "zipcode": "98045-113"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Beco Soares",
+        "zipcode": "98045-046"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Nunes Cordeiro",
+        "zipcode": "98045-043"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Neves",
+        "zipcode": "98045-115"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Ipiranga",
+        "zipcode": "98040-540"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Erechim",
+        "zipcode": "98040-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Travessa Júlio Tim",
+        "zipcode": "98035-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Nicanor dos Santos Nunes",
+        "zipcode": "98035-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dos Funcionários",
+        "street": "Rua João Neponucemo Cunha Filho",
+        "zipcode": "98030-395"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Voluntários da Pátria",
+        "zipcode": "98005-104"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua General Felipe Portinho",
+        "zipcode": "98025-497"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Ludke",
+        "street": "Rua Sargento Antonio Luis Silveira da Rosa",
+        "zipcode": "98025-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Rua Dona Sinhá",
+        "zipcode": "98025-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98025-495"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Brasília Adamy",
+        "zipcode": "98020-395"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Ibanez Prates",
+        "zipcode": "98020-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Ângelo Aita",
+        "zipcode": "98020-335"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Gabriela Beschoren",
+        "zipcode": "98020-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Ludke",
+        "street": "Rua Sargento Heitor S. Pires",
+        "zipcode": "98025-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Atanásio Gomes",
+        "zipcode": "98020-345"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Ernesto Muller",
+        "zipcode": "98020-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Vasconcelos Garcia",
+        "zipcode": "98020-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua General Daltro Filho",
+        "zipcode": "98020-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Zago",
+        "zipcode": "98005-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Benjamim Nott",
+        "street": "Rua Bolívar Alves dos Santos",
+        "zipcode": "98045-131"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Fidêncio Dill",
+        "zipcode": "98035-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Ganeval Pereira de Oliveira",
+        "zipcode": "98025-640"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Olmiro Gonçalves Dias",
+        "zipcode": "98025-620"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Alfredo Brenner",
+        "zipcode": "98025-550"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "98025-540"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Bento Gonçalves",
+        "zipcode": "98025-500"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Barão de São Jacob",
+        "zipcode": "98025-492"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Lourenço Marchionatti",
+        "zipcode": "98025-470"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Murilo Sampaio",
+        "zipcode": "98020-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Ângelo Bonamigo",
+        "zipcode": "98020-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Antônio Walter Antonello",
+        "zipcode": "98020-215"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Antônio Bertei",
+        "zipcode": "98020-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua João Carlos Spanenberg",
+        "zipcode": "98020-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Domingos Stefanelo",
+        "zipcode": "98020-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Adalberto Félix Roberto",
+        "zipcode": "98020-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Lothar B. Wolf",
+        "zipcode": "98020-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Eurico Falcão",
+        "zipcode": "98020-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Melvin Jones",
+        "street": "Rua Antônio Meirelles Azambuja",
+        "zipcode": "98015-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Prefeito Vila Nova",
+        "street": "Rua Doutor Hemetério Veloso",
+        "zipcode": "98015-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Prefeito Vila Nova",
+        "street": "Rua Atanagildo P. Martins",
+        "zipcode": "98015-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Prefeito Vila Nova",
+        "street": "Rua Nicacia Morais",
+        "zipcode": "98015-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Avenida Benjamin Constant",
+        "zipcode": "98015-262"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Olinto Lorenzon",
+        "zipcode": "98015-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Prefeito Vila Nova",
+        "street": "Rua Militão de Moura",
+        "zipcode": "98015-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua João David Ramos",
+        "zipcode": "98015-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Coronel Sesefredo",
+        "zipcode": "98015-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Beco Pereira",
+        "zipcode": "98015-184"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Gaspar Fagundes",
+        "zipcode": "98015-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Travessa Veríssimo",
+        "zipcode": "98015-187"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Avenida General Osório",
+        "zipcode": "98015-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Guarani",
+        "zipcode": "98015-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Charruas",
+        "zipcode": "98015-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Tapajara",
+        "zipcode": "98010-640"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Orquídeas",
+        "zipcode": "98010-582"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Rua Primeiro de Janeiro",
+        "zipcode": "98010-380"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Praça Tenente Laerte Laidner",
+        "zipcode": "98010-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Francelino Ribeiro",
+        "zipcode": "98010-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua José Laureano da Rosa",
+        "zipcode": "98010-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Rua Doutor Cândido Machado",
+        "zipcode": "98010-286"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Travessa Alcides Roesler",
+        "zipcode": "98010-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Travessa Ricardo R. Fanfa",
+        "zipcode": "98010-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Rua Antônio Moreira da Silva",
+        "zipcode": "98010-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua Antônio Gomes Teixeira",
+        "zipcode": "98010-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Travessa Americano Lopes",
+        "zipcode": "98010-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Joaquim da Costa Correa",
+        "zipcode": "98010-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Coronel Victor Dumoncel Filho",
+        "zipcode": "98040-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Doutor Renê Guedes da Luz",
+        "zipcode": "98040-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua João Armando Frantz",
+        "zipcode": "98040-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Diocles Gelatti",
+        "zipcode": "98040-290"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Encantado",
+        "zipcode": "98040-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Gastão Vidigal",
+        "zipcode": "98040-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Marcelo",
+        "street": "Rua Ibiruba",
+        "zipcode": "98040-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Marcelo",
+        "street": "Rua Tapera",
+        "zipcode": "98040-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Maria Léia Haag dos Santos",
+        "zipcode": "98030-550"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Travessa João Mostardeiro",
+        "zipcode": "98030-525"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Avenida São Geraldo",
+        "zipcode": "98030-510"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Travessa João Gonçalves Mostardeiro",
+        "zipcode": "98030-480"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Travessa Renato José Prestes",
+        "zipcode": "98030-470"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Jorge Molz Westphalen",
+        "zipcode": "98030-544"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dos Funcionários",
+        "street": "Travessa Fritoldo Dobrachinski",
+        "zipcode": "98030-430"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dos Funcionários",
+        "street": "Travessa Capitão Renato Luz Martins",
+        "zipcode": "98030-426"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Do Sol",
+        "street": "Rua Érico Veríssimo",
+        "zipcode": "98030-422"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Osvil Osmar Colombelli",
+        "zipcode": "98030-548"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua João Pessoa",
+        "zipcode": "98030-500"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Octávio Moser",
+        "zipcode": "98025-600"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Alfredo Fernandes da Rosa",
+        "zipcode": "98025-430"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Goitacaz",
+        "zipcode": "98015-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Sepé Tiaraju",
+        "zipcode": "98015-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Avenida Dokorn",
+        "zipcode": "98015-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua Doutor Winter",
+        "zipcode": "98010-740"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Rua Dom Pedro I",
+        "zipcode": "98010-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Amizade",
+        "street": "Travessa Pedro Rodrigues",
+        "zipcode": "98010-195"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Aguinaldo Leal",
+        "zipcode": "98010-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Miguel de Pauli",
+        "zipcode": "98010-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Plínio Cortes Machado",
+        "zipcode": "98010-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Prudêncio Silveira",
+        "zipcode": "98010-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Travessa Ataliba A. Silva",
+        "zipcode": "98010-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Antônio Moraes Carvalho",
+        "zipcode": "98010-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Travessa Claúdio Borges",
+        "zipcode": "98005-237"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Tenente Paulo Prunes",
+        "zipcode": "98005-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "98005-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Pillar",
+        "zipcode": "98005-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Paulista",
+        "zipcode": "98005-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Antonio Ebling",
+        "zipcode": "98010-042"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Doutor Borges de Medeiros",
+        "zipcode": "98005-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Aníbal S. de Lima",
+        "zipcode": "98045-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Balduino Golle",
+        "zipcode": "98045-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Joaquim Rodrigues dos Santos",
+        "zipcode": "98045-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Hermínio Meira",
+        "zipcode": "98045-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Travessa Rui Korsack",
+        "zipcode": "98045-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua José Aguiar",
+        "zipcode": "98045-272"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Guilherme Nascimento",
+        "zipcode": "98045-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Avenida Felipe Soares de Lima",
+        "zipcode": "98045-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Ernesto Brondani",
+        "zipcode": "98045-111"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Tupanciretã",
+        "zipcode": "98040-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Palmeira",
+        "zipcode": "98040-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Taquari",
+        "zipcode": "98040-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Ijuí",
+        "zipcode": "98040-071"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Iraí",
+        "zipcode": "98040-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Carazinho",
+        "zipcode": "98040-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Avenida Pejucara",
+        "zipcode": "98030-420"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Doutor York Ferreira Jorge",
+        "zipcode": "98030-406"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Travessa Antônio Gigoski",
+        "zipcode": "98030-404"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dos Funcionários",
+        "street": "Rua Neco Paula",
+        "zipcode": "98030-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Independência",
+        "street": "Rua Alegrete",
+        "zipcode": "98040-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Camilo de Moura Cortes",
+        "zipcode": "98030-413"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Professor Roessler",
+        "zipcode": "98025-520"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Gaspar Martins Dornellas",
+        "zipcode": "98025-410"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Travessa Ceretta",
+        "zipcode": "98025-450"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Athanásio Semer",
+        "zipcode": "98020-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Francisco do Carmo Borba",
+        "zipcode": "98020-145"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Militar",
+        "street": "Rua Trinta e Um de Março",
+        "zipcode": "98020-125"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Beco Oliveira",
+        "zipcode": "98020-048"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Beco Câmara",
+        "zipcode": "98020-045"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Beco Ritter",
+        "zipcode": "98020-044"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Rua Olavo Bilibio",
+        "zipcode": "98020-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Travessa Bruno Pimentel",
+        "zipcode": "98020-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Violeta",
+        "zipcode": "98015-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Lírio",
+        "zipcode": "98015-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Guaianaz",
+        "zipcode": "98010-720"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Bulcão",
+        "zipcode": "98010-690"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Coroado",
+        "zipcode": "98010-630"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Tupi",
+        "zipcode": "98010-620"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Magnólia",
+        "zipcode": "98010-605"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Aracan",
+        "zipcode": "98010-570"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Bororó",
+        "zipcode": "98010-590"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Tapajós",
+        "zipcode": "98010-550"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Rua Rosalina Jung",
+        "zipcode": "98010-500"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Rua Valentin de Vit",
+        "zipcode": "98010-490"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Rua Oscar Espellet",
+        "zipcode": "98010-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Travessa Ranulfo de Souza",
+        "zipcode": "98010-285"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antão",
+        "street": "Travessa Venâncio Paula",
+        "zipcode": "98010-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Begônia",
+        "zipcode": "98010-585"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Travessa Hockmuller",
+        "zipcode": "98005-235"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Travessa Setembrino de Carvalho",
+        "zipcode": "98050-322"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dirceu",
+        "street": "Rua Pedro Sessegolo",
+        "zipcode": "98050-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Rua Doutor Noronha",
+        "zipcode": "98050-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Chile",
+        "zipcode": "98050-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Paraguai",
+        "zipcode": "98050-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Santiago J. Pereira",
+        "zipcode": "98050-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Alvorada",
+        "street": "Rua Aníbal Lopes da Silva",
+        "zipcode": "98050-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Rita",
+        "street": "Rua Abílio Rocha",
+        "zipcode": "98050-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Rua Doutor Franklin Veríssimo",
+        "zipcode": "98050-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Lucidio Arnoldo Beskow",
+        "zipcode": "98050-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Rita",
+        "street": "Rua Capitão Simoes Pires",
+        "zipcode": "98050-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Venezuela",
+        "zipcode": "98050-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Rua Vinte de Setembro",
+        "zipcode": "98050-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Alvorada",
+        "street": "Rua Lucidio Ramos",
+        "zipcode": "98050-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Jorge Ivan Silva da Cruz",
+        "zipcode": "98045-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Rua Siqueira Borges",
+        "zipcode": "98050-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Benjamim Nott",
+        "street": "Rua Capitão Aviador Carlos Franco de Souza",
+        "zipcode": "98045-134"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Valdir Albrecht",
+        "zipcode": "98045-119"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Manoel Oliveira Sathes",
+        "zipcode": "98045-105"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Alberto Amado Silva",
+        "zipcode": "98045-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Alaídes de Lima Padilha",
+        "zipcode": "98045-117"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Alois Olders",
+        "zipcode": "98045-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Romano H. Zanoni",
+        "zipcode": "98040-380"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Aliança",
+        "street": "Rua Marion Silveira Portinho",
+        "zipcode": "98025-690"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Júlio de Castilhos",
+        "zipcode": "98025-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Gaspar Martins",
+        "zipcode": "98025-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Josino Lima",
+        "zipcode": "98025-380"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Pedro Nolasco",
+        "zipcode": "98025-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Emílio Droppa",
+        "street": "Rua Major Victor Hugo P. de Azevedo",
+        "zipcode": "98025-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Emílio Droppa",
+        "street": "Rua Guilherme Bilibio",
+        "zipcode": "98025-290"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Emílio Droppa",
+        "street": "Rua João Lopes Filho",
+        "zipcode": "98025-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua David Canabarro",
+        "zipcode": "98020-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Edvino Gruhn",
+        "zipcode": "98015-620"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Valentin de Castro",
+        "zipcode": "98015-590"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Maranhão",
+        "zipcode": "98015-530"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Ceará",
+        "zipcode": "98015-500"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "98015-490"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Antônio Scarpelini",
+        "zipcode": "98015-580"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Amado Lacroix",
+        "zipcode": "98015-550"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Paraná",
+        "zipcode": "98015-612"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Reverendo Terrel",
+        "zipcode": "98015-570"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua Egelago Pereira",
+        "zipcode": "98015-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Cristiano Uflaker",
+        "zipcode": "98015-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Cravo",
+        "zipcode": "98015-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Ernesto P. da Luz",
+        "zipcode": "98010-710"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Travessa Olmiro Silveira",
+        "zipcode": "98015-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Honório Alonso Santos",
+        "zipcode": "98005-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Coronel Aristides de Moraes Gomes",
+        "zipcode": "98050-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Argentina",
+        "zipcode": "98050-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Uruguai",
+        "zipcode": "98050-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dirceu",
+        "street": "Rua Germano Zenkner",
+        "zipcode": "98050-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Travessa Aristides Guilhermano",
+        "zipcode": "98045-380"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Travessa Pedro Cigana",
+        "zipcode": "98045-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Travessa Edwiges Maia da Rosa",
+        "zipcode": "98045-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Jorge Silva da Cruz",
+        "zipcode": "98045-292"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Guilherme de Bortoli",
+        "zipcode": "98045-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Major Leoveral Ramos",
+        "zipcode": "98045-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Rudy Willy Matschulatt",
+        "zipcode": "98045-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua dos Platanos",
+        "zipcode": "98045-212"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua José Roberto",
+        "zipcode": "98045-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Adão Silveira Portinho",
+        "zipcode": "98045-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Doutor Antônio Vila Nova",
+        "zipcode": "98040-600"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Walter Fagundes Monteiro",
+        "zipcode": "98045-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Travessa Romano Zanchi",
+        "zipcode": "98040-610"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Independência",
+        "street": "Rua São Borja",
+        "zipcode": "98040-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Theodoro Pessoa",
+        "zipcode": "98035-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Luiz Cândido Scherer",
+        "zipcode": "98035-380"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Alípio A. Silveira",
+        "zipcode": "98035-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Cezar D. Bastolla",
+        "zipcode": "98035-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Travessa Carlos Candal dos Santos",
+        "zipcode": "98035-215"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Independência",
+        "street": "Rua Pelotas",
+        "zipcode": "98040-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua José Dellaglio",
+        "zipcode": "98035-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Antônio Dias da Costa",
+        "zipcode": "98035-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Independência",
+        "street": "Rua Uruguaiana",
+        "zipcode": "98040-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Alberto Plentz",
+        "zipcode": "98030-542"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Capitão Fidêncio Dill",
+        "zipcode": "98030-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Gabriel Carvalho",
+        "zipcode": "98030-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Cotinha Alves de Souza",
+        "zipcode": "98030-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Rua Capitão João Bessa",
+        "zipcode": "98025-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Central",
+        "street": "Rua Walter Werner",
+        "zipcode": "98025-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Central",
+        "street": "Rua Euclides Cunha Lopes",
+        "zipcode": "98025-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "98025-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Travessa Pacífico Dias",
+        "zipcode": "98025-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Coronel Mello",
+        "zipcode": "98025-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Doutor Bozzano",
+        "zipcode": "98025-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Sossego",
+        "zipcode": "98020-480"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Rua Graciano de Andrade",
+        "zipcode": "98025-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Emanuel",
+        "zipcode": "98020-475"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua da Felicidade",
+        "zipcode": "98020-460"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Praça César Augusto V. Lazzarini",
+        "zipcode": "98020-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Beco Siqueira Rosa",
+        "zipcode": "98020-049"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Travessa Espírito Santo",
+        "zipcode": "98025-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Boa Sorte",
+        "zipcode": "98020-450"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Ludke",
+        "street": "Travessa Valeriano Costa",
+        "zipcode": "98025-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Jasmim",
+        "zipcode": "98010-552"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Azaléia",
+        "zipcode": "98010-555"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Fortunato Danni Filho",
+        "zipcode": "98045-042"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Nossa Senhora de Fátima",
+        "zipcode": "98040-580"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua São Jorge",
+        "zipcode": "98040-570"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua São Pedro",
+        "zipcode": "98040-560"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Xangrilá",
+        "zipcode": "98040-550"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Maurity",
+        "zipcode": "98040-520"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "98040-470"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Silveira Martins",
+        "zipcode": "98040-460"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Rua Dom Pedro II",
+        "zipcode": "98040-450"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Pedro Turi",
+        "zipcode": "98040-440"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Goiânia",
+        "zipcode": "98040-430"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Travessa Luis Cortes Vescia",
+        "zipcode": "98040-395"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua José Marques de Oliveira",
+        "zipcode": "98045-052"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Copacabana",
+        "zipcode": "98040-530"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Geremias B. Nogueira",
+        "zipcode": "98040-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Avenida Pedro Fumagali",
+        "zipcode": "98040-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Coronel José Basílio de Campos",
+        "zipcode": "98040-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Passo Fundo",
+        "zipcode": "98040-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Soledade",
+        "zipcode": "98040-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Londrina",
+        "zipcode": "98040-500"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Tito Platao de Campos S. Andrade",
+        "zipcode": "98040-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Santo Antônio",
+        "zipcode": "98040-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Independência",
+        "street": "Rua João dos Santos",
+        "zipcode": "98040-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Marciano Antônio de Souza",
+        "zipcode": "98035-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Roberto Sebastião",
+        "zipcode": "98035-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Astrogildo Silva",
+        "zipcode": "98035-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Doutor Humberto Monschau",
+        "zipcode": "98035-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Oscar Brener",
+        "zipcode": "98035-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Marcelo",
+        "street": "Travessa Ana Terra",
+        "zipcode": "98040-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua José Sampaio Neto",
+        "zipcode": "98035-143"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Crilon Muller",
+        "zipcode": "98035-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Henrique Carlan",
+        "zipcode": "98035-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Pedro Bonini",
+        "zipcode": "98035-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua General Ormus J. Santos",
+        "zipcode": "98035-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Benjamin Macuglia",
+        "zipcode": "98035-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Tancredo Vidal",
+        "zipcode": "98035-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Manoel Rodrigues Teixeira",
+        "zipcode": "98035-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Margarida Pardelhas",
+        "zipcode": "98030-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua João Neponucemo Cunha Filho",
+        "zipcode": "98030-290"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Virgílio F. da Silva",
+        "zipcode": "98030-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua José Bonifácio D. da Costa",
+        "zipcode": "98030-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre Leite Ribeiro",
+        "zipcode": "98030-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre Almeida",
+        "zipcode": "98030-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre José",
+        "zipcode": "98030-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Frei Avertano",
+        "zipcode": "98030-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre Teodoro",
+        "zipcode": "98030-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Rua Joaquim Prado",
+        "zipcode": "98025-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Praça Henrique Muller",
+        "zipcode": "98015-630"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Pernambuco",
+        "zipcode": "98015-460"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua João Franca",
+        "zipcode": "98015-560"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Eurides Castro",
+        "zipcode": "98015-450"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Avenida General Câmara",
+        "zipcode": "98050-317"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Alvorada",
+        "street": "Rua Borges do Canto",
+        "zipcode": "98050-244"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Mingote Veríssimo",
+        "zipcode": "98035-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Travessa Maria Aldina Zago",
+        "zipcode": "98035-265"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Travessa Jorge de Vitt",
+        "zipcode": "98030-535"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Travessa Jerônimo Vidal de Oliveira",
+        "zipcode": "98030-490"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Laudares Gomes Moreira",
+        "zipcode": "98030-556"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dos Funcionários",
+        "street": "Travessa Aparício Fagundes Monteiro",
+        "zipcode": "98030-424"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Rua Ritter",
+        "zipcode": "98020-043"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua João Nicolodi",
+        "zipcode": "98030-380"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Ricardo Kunde",
+        "zipcode": "98030-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Marciano T. da Silva",
+        "zipcode": "98030-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua José Olímpio Rousselet",
+        "zipcode": "98030-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Nice de Oliveira",
+        "zipcode": "98030-530"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre Pompeu",
+        "zipcode": "98030-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre Antônio Costa",
+        "zipcode": "98030-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Avenida Dona Edwina Rosa",
+        "zipcode": "98025-820"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General Andrade Neves",
+        "zipcode": "98005-145"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Avenida Venâncio Aires",
+        "zipcode": "98025-375"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Aliança",
+        "street": "Rua Toribio Veríssimo",
+        "zipcode": "98025-742"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Aliança",
+        "street": "Rua Eponina Borges Vogel",
+        "zipcode": "98025-720"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua General Daltro Filho",
+        "zipcode": "98025-630"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Doutor Catarino Azambuja",
+        "zipcode": "98025-480"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Emílio Droppa",
+        "street": "Rua Cido Telle",
+        "zipcode": "98025-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Coronel Pillar",
+        "zipcode": "98025-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Rua Guilherme Costa",
+        "zipcode": "98025-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98025-015"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Treze de Maio",
+        "zipcode": "98025-420"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Ludke",
+        "street": "Avenida General Câmara",
+        "zipcode": "98025-323"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Rua Democratino Silveira",
+        "zipcode": "98025-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Alegria",
+        "zipcode": "98020-430"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Bom Fim",
+        "zipcode": "98020-420"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua General Antônio Netto",
+        "zipcode": "98020-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Setembrino de Carvalho",
+        "zipcode": "98005-098"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Bezerra de Menezes",
+        "zipcode": "98020-472"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Avenida Jacui",
+        "zipcode": "98020-470"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Acre",
+        "zipcode": "98015-430"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Coronel Martins",
+        "zipcode": "98015-253"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua General João Manoel",
+        "zipcode": "98015-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Melvin Jones",
+        "street": "Rua Isaac Perelman",
+        "zipcode": "98015-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Venâncio Aires",
+        "zipcode": "98005-096"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Coronel Lúcio Annes Dias",
+        "zipcode": "98005-254"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Rua Osvaldino B. dos Santos",
+        "zipcode": "98010-410"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Salatiel Soares de Barros",
+        "zipcode": "98010-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Antônio Machado Soares",
+        "zipcode": "98010-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Martins",
+        "zipcode": "98005-147"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98005-113"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98005-107"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "98005-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Avenida Venâncio Aires",
+        "zipcode": "98025-465"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Procópio Gomes",
+        "zipcode": "98005-109"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98045-296"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rodovia Municipal Luciano Furan",
+        "zipcode": "98045-138"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rodovia BR",
+        "zipcode": "98045-075"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98045-375"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Petrópolis",
+        "street": "Avenida Plácido de Castro",
+        "zipcode": "98040-467"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Zero Hora",
+        "zipcode": "98040-420"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Avenida Saturnino de Brito",
+        "zipcode": "98040-237"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Avenida Saturnino de Brito",
+        "zipcode": "98040-139"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Avenida Saturnino de Brito",
+        "zipcode": "98040-528"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rodovia BR",
+        "zipcode": "98040-067"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rodovia BR",
+        "zipcode": "98035-500"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Avenida Plácido de Castro",
+        "zipcode": "98035-262"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98035-078"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Avenida Plácido de Castro",
+        "zipcode": "98035-128"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Avenida Saturnino de Brito",
+        "zipcode": "98035-064"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98030-523"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Carlos Frederico Brumm",
+        "zipcode": "98030-581"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Carlos Frederico Brumm",
+        "zipcode": "98030-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98030-008"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Heitor Canto",
+        "zipcode": "98025-580"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Fausto Bilbio",
+        "zipcode": "98025-510"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Ludke",
+        "street": "Rua Marechal Setembrino de Carvalho",
+        "zipcode": "98025-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Toribio Veríssimo",
+        "zipcode": "98025-658"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Procópio Gomes",
+        "zipcode": "98025-055"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Central",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98025-124"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Margarida Beschoren",
+        "zipcode": "98020-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rodovia Municipal Della Campus Mea",
+        "zipcode": "98020-290"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Alexandre Patrício Voltolini",
+        "zipcode": "98020-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Paulo de Araújo Pauli",
+        "zipcode": "98020-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Salvador Zalaglia",
+        "zipcode": "98020-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Doutor Moraes Júnior",
+        "zipcode": "98020-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "98020-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rodovia RS",
+        "zipcode": "98015-562"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Piauí",
+        "zipcode": "98015-520"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Beco Toronto",
+        "zipcode": "98020-046"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Rua Marechal Setembrino de Carvalho",
+        "zipcode": "98020-037"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Mato Grosso",
+        "zipcode": "98015-480"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua dos Estados",
+        "zipcode": "98015-440"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Travessa Mauá",
+        "zipcode": "98015-412"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98015-271"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Coronel Tarso Silveira",
+        "zipcode": "98015-610"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "98015-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Emílio Carlomagno",
+        "zipcode": "98015-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Travessa Abílio Pereira Soares",
+        "zipcode": "98005-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Alvorada",
+        "street": "Travessa Moacir Bessa",
+        "zipcode": "98050-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Alvorada",
+        "street": "Rua Girua",
+        "zipcode": "98050-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Bolívia",
+        "zipcode": "98050-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Travessa Ruy Thomaz da Silva",
+        "zipcode": "98050-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Rita",
+        "street": "Rua Abel Espellet",
+        "zipcode": "98050-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Gobbo",
+        "street": "Rua Cai",
+        "zipcode": "98050-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Rua Doutor Couto",
+        "zipcode": "98050-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Theodolino Martins Jacques",
+        "zipcode": "98045-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Beco da Facada",
+        "zipcode": "98020-042"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98015-075"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Militar",
+        "street": "Rua Ruben Vaz",
+        "zipcode": "98015-420"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua José Garibaldi",
+        "zipcode": "98015-265"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Doutor Cândido Machado",
+        "zipcode": "98015-277"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Toribio Veríssimo",
+        "zipcode": "98015-186"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Evaristo de Castro",
+        "zipcode": "98015-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua José Garibaldi",
+        "zipcode": "98015-077"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Rosa",
+        "zipcode": "98015-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Celso dos Santos",
+        "zipcode": "98015-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Avenida Xavantes",
+        "zipcode": "98010-732"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98010-725"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Rua Retermundo Júnior",
+        "zipcode": "98010-680"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Travessa Luis Barassuol",
+        "zipcode": "98010-637"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "98010-750"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98010-744"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Camélia",
+        "zipcode": "98010-615"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Girassol",
+        "zipcode": "98010-565"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98010-702"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Avenida Xavantes",
+        "zipcode": "98010-578"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua João Durigon",
+        "zipcode": "98010-542"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Saturnino Pereira de Campos",
+        "zipcode": "98010-540"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Avenida Venâncio Aires",
+        "zipcode": "98010-377"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Rua Paul Harris",
+        "zipcode": "98010-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Coronel Lúcio Annes Dias",
+        "zipcode": "98010-322"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua João Osório Prestes",
+        "zipcode": "98010-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Rua Ricardo R Fanfa",
+        "zipcode": "98010-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua Antônio Fernandes Pires",
+        "zipcode": "98010-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Amizade",
+        "street": "Travessa Carlos V. Becker",
+        "zipcode": "98010-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Avenida Venâncio Aires",
+        "zipcode": "98010-358"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98010-352"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98010-343"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98010-326"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Travessa Emílio Rodrigues Aranha",
+        "zipcode": "98010-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Travessa Arthur Di Bernard",
+        "zipcode": "98010-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Travessa Francisco B. Reis",
+        "zipcode": "98010-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98005-246"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General João Manoel",
+        "zipcode": "98005-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua General Andrade Neves",
+        "zipcode": "98005-239"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98005-143"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "98005-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Setembrino Faria da Rosa",
+        "zipcode": "98045-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Porfírio Telles Hachmüller",
+        "zipcode": "98045-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Gomercindo Davila Maciel",
+        "zipcode": "98045-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Capitão Boaventura S. do Amaral",
+        "zipcode": "98045-044"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Capitão Boaventura S. do Amaral",
+        "zipcode": "98045-116"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Agostinho Lenuzza",
+        "zipcode": "98045-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Plaucidia Reis Pinto",
+        "zipcode": "98045-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rodovia BR",
+        "zipcode": "98040-605"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Nossa Senhora Auxiliadora",
+        "zipcode": "98040-590"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Tarcílio do Nascimento e Silva",
+        "zipcode": "98045-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Benjamim Nott",
+        "street": "Rua Capitão Aviador Bento Azambuja Ribas",
+        "zipcode": "98045-132"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Brasília",
+        "zipcode": "98040-490"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Carlos P. Mello",
+        "zipcode": "98040-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Arroio do Meio",
+        "zipcode": "98040-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Lajeado",
+        "zipcode": "98040-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua General Hélio C. Gonzales",
+        "zipcode": "98040-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Norberto B. Oliveira",
+        "zipcode": "98040-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Saul Westphalen",
+        "zipcode": "98035-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua João Diamanto Pouzos",
+        "zipcode": "98035-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Fernando Ferrari",
+        "zipcode": "98035-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Leão Ricachenevsky",
+        "zipcode": "98035-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua João V. Weis",
+        "zipcode": "98035-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Doutor Álvaro F. Leite",
+        "zipcode": "98035-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Independência",
+        "street": "Estrada Velha para Salto do Jacui",
+        "zipcode": "98040-004"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Maria de Lourdes Rousselet",
+        "zipcode": "98030-540"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Travessa João Panda",
+        "zipcode": "98030-460"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Milton Lopes Machado",
+        "zipcode": "98030-562"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Hélio Di Primo Beck",
+        "zipcode": "98030-558"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua David Alfredo Ricachenevevsky",
+        "zipcode": "98030-554"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Do Sol",
+        "street": "Rua da Ladeira",
+        "zipcode": "98030-415"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre Ambrósio",
+        "zipcode": "98030-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua Toribio Veríssimo",
+        "zipcode": "98010-317"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua José Garibaldi",
+        "zipcode": "98010-215"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua São Fernando",
+        "zipcode": "98010-104"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Avenida Xavantes",
+        "zipcode": "98010-102"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antão",
+        "street": "Rua José Garibaldi",
+        "zipcode": "98010-263"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Duque de Caxias",
+        "zipcode": "98005-972"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua José Garibaldi",
+        "zipcode": "98005-264"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Toribio Veríssimo",
+        "zipcode": "98005-262"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98005-253"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98005-117"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida General Osório",
+        "zipcode": "98005-970"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Doutor Cândido Machado",
+        "zipcode": "98005-258"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98005-251"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98005-128"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98005-082"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98005-129"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98005-118"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua Borges do Canto",
+        "zipcode": "98050-095"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Portela",
+        "zipcode": "98045-047"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Travessa Francisco Caporal",
+        "zipcode": "98040-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Flodoardo da Cruz Netto",
+        "zipcode": "98030-408"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Antônio Walter Antonello",
+        "zipcode": "98030-403"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dos Funcionários",
+        "street": "Travessa Robinson Barraldo",
+        "zipcode": "98030-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Alberto Rosa",
+        "zipcode": "98030-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre Custódio",
+        "zipcode": "98030-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Aliança",
+        "street": "Travessa Tenente Humberto Zazzeron",
+        "zipcode": "98025-740"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Aliança",
+        "street": "Rua Joaquim Amorim dos Santos",
+        "zipcode": "98025-730"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Aliança",
+        "street": "Rua João Antunes de Camargo",
+        "zipcode": "98025-710"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Inocêncio Dutra",
+        "zipcode": "98025-610"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Fermino de Paula Filho",
+        "zipcode": "98025-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Marechal Setembrino de Carvalho",
+        "zipcode": "98025-354"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Balastreri",
+        "zipcode": "98025-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Olmiro Mercaus",
+        "zipcode": "98025-590"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua João J. Barros",
+        "zipcode": "98025-490"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Emílio Droppa",
+        "street": "Rua Elpídio Goularec H. Muller",
+        "zipcode": "98025-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Central",
+        "street": "Rua Gabriel R. Almeida",
+        "zipcode": "98025-130"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Avenida Benjamin Constant",
+        "zipcode": "98025-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Coronel Martins",
+        "zipcode": "98025-057"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Travessa Padre José Spoenlei",
+        "zipcode": "98025-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Esperança",
+        "zipcode": "98020-440"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Bela Vista",
+        "zipcode": "98020-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Ângelo Danni",
+        "zipcode": "98020-380"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Ernesto Mendes",
+        "zipcode": "98020-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Fioravante Vicensi",
+        "zipcode": "98020-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Camilo Moura Cortes",
+        "zipcode": "98020-155"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua Humberto Bernardinis",
+        "zipcode": "98020-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Dezoito de Agosto",
+        "zipcode": "98020-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Pará",
+        "zipcode": "98015-540"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua Allan Kardec",
+        "zipcode": "98020-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Lourenço Antonello",
+        "zipcode": "98020-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Coronel Serafim Fagundes",
+        "zipcode": "98020-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Rio Grande do Norte",
+        "zipcode": "98015-470"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Prefeito Vila Nova",
+        "street": "Rua Toribio Veríssimo",
+        "zipcode": "98015-344"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Lotário Muller",
+        "zipcode": "98015-600"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Visconde de Mauá",
+        "zipcode": "98015-410"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Melvin Jones",
+        "street": "Rua João Gonçalves",
+        "zipcode": "98015-392"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Prefeito Vila Nova",
+        "street": "Rua Santos Rosa",
+        "zipcode": "98015-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Padre Aquiles",
+        "zipcode": "98015-232"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rodovia RS",
+        "zipcode": "98015-574"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Roque Gonzales",
+        "zipcode": "98015-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Padre Aquiles",
+        "zipcode": "98015-052"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua Guaicuru",
+        "zipcode": "98010-730"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98005-245"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Ludke",
+        "street": "Rua Voluntários da Pátria",
+        "zipcode": "98025-325"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rodovia Municipal Luciano Furan",
+        "zipcode": "98050-500"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Travessa Oscar Pinto",
+        "zipcode": "98050-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Machado",
+        "street": "Rua Clóvis Paula",
+        "zipcode": "98050-420"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Travessa Argentina",
+        "zipcode": "98050-412"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Travessa Eri Barcellos",
+        "zipcode": "98045-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Alvorada",
+        "street": "Travessa José Dedier Veriato dos Santos",
+        "zipcode": "98050-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Cândido Nascimento e Silva",
+        "zipcode": "98045-112"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Antônio Alves Ramos",
+        "zipcode": "98045-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Fortunato Danni Filho",
+        "zipcode": "98045-118"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Capitão Olavo P. Soares",
+        "zipcode": "98040-410"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Avenida Saturnino de Brito",
+        "zipcode": "98040-336"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua José Leandro Machado",
+        "zipcode": "98035-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Juscelino K. de Oliveira",
+        "zipcode": "98035-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Rua Cléber César de Oliveira Passos",
+        "zipcode": "98035-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Célio Paim",
+        "zipcode": "98030-560"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Rua Alfredo Pozzer",
+        "zipcode": "98030-520"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Setembrino de Carvalho",
+        "zipcode": "98005-105"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Corredor Granja Manjabosco",
+        "zipcode": "98020-424"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98015-803"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98010-354"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Jorge",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98010-783"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Gerânio",
+        "zipcode": "98010-575"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Avenida Xavantes",
+        "zipcode": "98010-572"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Rua Professor Annes Dias",
+        "zipcode": "98010-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua Doutor Cândido Machado",
+        "zipcode": "98010-315"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Rua José Garibaldi",
+        "zipcode": "98010-295"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Rua Major Hellios Appel Kern",
+        "zipcode": "98010-290"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Antônio Moreira Paes",
+        "zipcode": "98010-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98010-324"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98010-106"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Bernardino José Lopes",
+        "zipcode": "98010-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98005-260"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Travessa Capitão Valdemar Sohrer",
+        "zipcode": "98005-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98005-154"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Sebatião Veríssimo",
+        "zipcode": "98010-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida General Osório",
+        "zipcode": "98005-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98005-135"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98051-205"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Machado",
+        "street": "Rua Antônio Heck",
+        "zipcode": "98050-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Braz Caino",
+        "street": "Rua Procópio Gomes",
+        "zipcode": "98050-345"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Braz Caino",
+        "street": "Rua Alberto Santos Dumont",
+        "zipcode": "98050-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dirceu",
+        "street": "Rua Borges do Canto",
+        "zipcode": "98050-395"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Rua Francisco Alves",
+        "zipcode": "98050-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Gobbo",
+        "street": "Avenida Saturnino de Brito",
+        "zipcode": "98050-365"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dirceu",
+        "street": "Rua Gilberto Prates",
+        "zipcode": "98050-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Domingos Laureano de Brum",
+        "zipcode": "98045-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Tenente Valdemar Emanuelli",
+        "zipcode": "98045-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Saturnino C. Campos",
+        "zipcode": "98040-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua dos Andradas",
+        "zipcode": "98040-510"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brum",
+        "street": "Rua Carlos Frederico Brumm",
+        "zipcode": "98035-267"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Fabrício Veríssimo da Fonseca",
+        "zipcode": "98035-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim América",
+        "street": "Avenida Plácido de Castro",
+        "zipcode": "98035-038"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Carlos Frederico Brumm",
+        "zipcode": "98035-006"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Ercília Marcos de Oliveira Rosa",
+        "zipcode": "98030-552"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Marcelo Macagnan",
+        "zipcode": "98030-417"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Rodrigo Cambara",
+        "zipcode": "98030-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "De Fátima",
+        "street": "Rua Padre Cônego Massa",
+        "zipcode": "98030-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Aliança",
+        "street": "Rua José Luiz Segala",
+        "zipcode": "98025-700"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "98025-680"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua João Moreira Alberto",
+        "zipcode": "98025-670"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Sebastião de Oliveira Pimentel",
+        "zipcode": "98025-660"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Coronel José Gabriel",
+        "zipcode": "98025-460"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Arnaldo Sebastião",
+        "zipcode": "98020-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Três de Outubro",
+        "zipcode": "98020-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98010-374"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Amizade",
+        "street": "Travessa Capitão Manoel Neves dos Santos",
+        "zipcode": "98010-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua General Felipe Portinho",
+        "zipcode": "98010-345"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rodovia BR",
+        "zipcode": "98045-400"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Travessa Emílio Azambujo de Mello",
+        "zipcode": "98045-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Pastor Bruno Gonçalves Terra",
+        "zipcode": "98045-290"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Gobbo",
+        "street": "Rua Borges do Canto",
+        "zipcode": "98050-374"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Alessandro dos Santos Rodrigues",
+        "zipcode": "98045-056"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Independência",
+        "street": "Rua Bagé",
+        "zipcode": "98040-012"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Engenheiro Ildo Meneghetti",
+        "zipcode": "98035-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dos Funcionários",
+        "street": "Travessa Victório Della Mea",
+        "zipcode": "98030-428"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Do Sol",
+        "street": "Rua Diário Serrano",
+        "zipcode": "98030-410"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Travessa A",
+        "zipcode": "98030-402"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Artur Di Bernardi",
+        "zipcode": "98030-214"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Desmostenes Annes da Silva",
+        "zipcode": "98030-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Ludke",
+        "street": "Rua Procópio Gomes",
+        "zipcode": "98025-327"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Cláudio Reck Monchau",
+        "zipcode": "98030-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Nossa Senhora da Penha",
+        "street": "Rua Olmerindo Teles de Freitas",
+        "zipcode": "98025-650"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua São Marcos",
+        "zipcode": "98025-530"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Schettert",
+        "street": "Rua Jango Vidal",
+        "zipcode": "98025-330"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Genaro",
+        "street": "Travessa Henrique Vargas",
+        "zipcode": "98025-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Progresso",
+        "street": "Rua do Senhor",
+        "zipcode": "98020-410"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Brasília Meira Adami",
+        "zipcode": "98020-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Planalto",
+        "street": "Rua Antônio Rogia",
+        "zipcode": "98020-075"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Vinte e Seis de Agosto",
+        "zipcode": "98020-025"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São João",
+        "street": "Rua Félix Porciuncula",
+        "zipcode": "98020-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98015-800"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Rua Paraíba",
+        "zipcode": "98015-510"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Assis Brasil",
+        "zipcode": "98015-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Travessa Padre Reus",
+        "zipcode": "98015-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Lizabel",
+        "street": "Rua Coronel Lúcio Annes Dias",
+        "zipcode": "98015-276"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98010-638"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "98010-470"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Rua Coronel Lúcio Annes Dias",
+        "zipcode": "98010-294"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Rua Domingos Veríssimo",
+        "zipcode": "98010-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General Felipe Portinho",
+        "zipcode": "98005-223"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Reynaldo L. de Mello",
+        "zipcode": "98030-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Farroupilha",
+        "zipcode": "98025-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Moacir Meister Sebastião",
+        "zipcode": "98030-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Independência",
+        "street": "Rua Guaporé",
+        "zipcode": "98040-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Travessa Léo V. Jung",
+        "zipcode": "98010-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Aristides Basílio de Campos",
+        "zipcode": "98035-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida General Câmara",
+        "zipcode": "98005-112"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santo Antônio",
+        "street": "Rua João Paulo I",
+        "zipcode": "98050-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Área Rural de Cruz Alta",
+        "street": "Área Rural",
+        "zipcode": "98055-899"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Acelino Flores",
+        "street": "Rua Petúnia",
+        "zipcode": "98010-595"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98030-184"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Avenida Santa Bárbara do Sul",
+        "zipcode": "98030-440"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Antônio Espelet Brenner",
+        "zipcode": "98030-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Arco Íris",
+        "street": "Rua João Antunes de Lima",
+        "zipcode": "98020-135"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Travessa Claudio Mello Silva",
+        "zipcode": "98010-633"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rodovia Municipal Luciano Furan",
+        "zipcode": "98051-415"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98051-200"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jung",
+        "street": "Rodovia Municipal Luciano Furan",
+        "zipcode": "98051-015"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dirceu",
+        "street": "Rua Thiago Francisco de Souza",
+        "zipcode": "98050-430"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Machado",
+        "street": "Rua Jeferson Rodrigo Fogaça da Silva",
+        "zipcode": "98050-410"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Gobbo",
+        "street": "Rua Panambi",
+        "zipcode": "98050-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Braz Caino",
+        "street": "Rua Borges do Canto",
+        "zipcode": "98050-353"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Braz Caino",
+        "street": "Travessa Canaã",
+        "zipcode": "98050-350"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Braz Caino",
+        "street": "Travessa João Wesley",
+        "zipcode": "98050-300"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Travessa Setembrino de Carvalho Hochmuller",
+        "zipcode": "98050-320"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Perpétuo Socorro",
+        "street": "Rua Doutor Wauthier",
+        "zipcode": "98050-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Alvorada",
+        "street": "Travessa Humberto Teixeira",
+        "zipcode": "98050-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Rita",
+        "street": "Rua Borges do Canto",
+        "zipcode": "98050-064"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rodovia BR",
+        "zipcode": "98045-410"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Martino Teixeira",
+        "zipcode": "98045-390"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Travessa José Sampaio Netto",
+        "zipcode": "98045-310"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rua Sadi Lourenço Soares Santana",
+        "zipcode": "98045-365"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Tamoio",
+        "street": "Rodovia BR",
+        "zipcode": "98045-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Ari Câmara",
+        "zipcode": "98045-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Benjamim Nott",
+        "street": "Rua Tenente",
+        "zipcode": "98045-137"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Abegay",
+        "street": "Rua Antenor da Silva Goulart",
+        "zipcode": "98045-114"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Flávio Roque Rossato",
+        "zipcode": "98045-054"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Tereza Marques Otharan",
+        "zipcode": "98045-049"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Helena",
+        "street": "Rua Rainére Lenuza",
+        "zipcode": "98045-060"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua Vereador Antônio R. Vila Nova",
+        "zipcode": "98040-480"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Travessa Nossa Senhora Fátima",
+        "zipcode": "98040-620"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Avenida Plácido de Castro",
+        "zipcode": "98040-545"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Conceição",
+        "street": "Rua São Paulo",
+        "zipcode": "98040-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Hilda",
+        "street": "Rua Itaqui",
+        "zipcode": "98040-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Rua Espumoso",
+        "zipcode": "98040-230"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Rua Luiz Dias da Costa",
+        "zipcode": "98035-150"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Osedir Santos de Brito",
+        "zipcode": "98030-546"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98030-505"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Engenheiro Pedro P. Schoenemann",
+        "zipcode": "98030-360"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Adauto Mastela Basso",
+        "zipcode": "98030-212"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98030-187"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Osvaldo Amaral Silveira",
+        "zipcode": "98030-140"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Farroupilha",
+        "street": "Rua Gomercindo S. Meirelles",
+        "zipcode": "98030-110"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Aliança",
+        "street": "Rua Horizonte Lenuza",
+        "zipcode": "98025-750"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Petrópolis",
+        "street": "Rua Ricardo Vidal",
+        "zipcode": "98030-280"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rocha",
+        "street": "Rua Cezar Martins",
+        "zipcode": "98025-382"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua General Andrade Neves",
+        "zipcode": "98025-045"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Educacional",
+        "street": "Rua Capitão João Domingos Aruda",
+        "zipcode": "98020-240"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Melvin Jones",
+        "street": "Rua Coronel João de Deus",
+        "zipcode": "98015-370"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Melvin Jones",
+        "street": "Rua Toribio Veríssimo",
+        "zipcode": "98015-408"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Prefeito Vila Nova",
+        "street": "Rua José Amaral",
+        "zipcode": "98015-340"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Malheiros",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98015-115"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Beco Caiapo",
+        "zipcode": "98010-612"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Avenida Perimetral Doutor João Belchior Marques Goulart",
+        "zipcode": "98010-603"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida General Câmara",
+        "zipcode": "98005-973"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98005-248"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General Andrade Neves",
+        "zipcode": "98025-810"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua Toribio Veríssimo",
+        "zipcode": "98015-190"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São José",
+        "street": "Rua José Garibaldi",
+        "zipcode": "98015-170"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98010-460"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua Coronel Lúcio Annes Dias",
+        "zipcode": "98010-450"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Boa Parada",
+        "street": "Rua José Garibaldi (Vl Azambuja)",
+        "zipcode": "98010-420"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Santa Terezinha",
+        "street": "Avenida Perimetral",
+        "zipcode": "98010-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Martins",
+        "zipcode": "98005-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General Andrade Neves",
+        "zipcode": "98005-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98005-120"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Doutor Cândido Machado",
+        "zipcode": "98005-090"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "98005-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida General Câmara",
+        "zipcode": "98005-010"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Procópio Gomes",
+        "zipcode": "98005-250"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Esperança",
+        "street": "Rua Marechal Setembrino de Carvalho",
+        "zipcode": "98020-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Vila Rica",
+        "street": "Rua Carlos Frederico Brumm",
+        "zipcode": "98035-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Martins",
+        "zipcode": "98015-670"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Marechal Setembrino de Carvalho",
+        "zipcode": "98025-000"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Francisco",
+        "street": "Avenida Saturnino de Brito",
+        "zipcode": "98040-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Avenida Venâncio Aires",
+        "zipcode": "98025-790"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida General Câmara",
+        "zipcode": "98025-780"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Voluntários da Pátria",
+        "zipcode": "98025-770"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Rua Procópio Gomes",
+        "zipcode": "98025-760"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98025-070"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Chácaras do Sul",
+        "street": "Avenida Perimetral",
+        "zipcode": "98045-220"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Pedro Bonini",
+        "street": "Avenida Plácido de Castro",
+        "zipcode": "98035-210"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98015-640"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98010-770"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Brenner",
+        "street": "Rodovia Municipal Luciano Furan",
+        "zipcode": "98045-180"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Avenida Padre Francisco Pacheco",
+        "zipcode": "98030-450"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Rancho",
+        "street": "Avenida Xavantes",
+        "zipcode": "98010-560"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Presidente Vargas",
+        "zipcode": "98005-160"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Coronel Lúcio Annes Dias",
+        "zipcode": "98005-080"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua General Felipe Portinho",
+        "zipcode": "98005-050"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Voluntários da Pátria",
+        "zipcode": "98005-040"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Barão do Rio Branco",
+        "zipcode": "98005-030"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Avenida Venâncio Aires",
+        "zipcode": "98005-020"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Azambuja",
+        "street": "Rua Doutor Cândido Machado",
+        "zipcode": "98010-440"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Dirceu",
+        "street": "Rua Borges do Canto",
+        "zipcode": "98050-270"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Garibaldi",
+        "street": "Rua General Felipe Portinho",
+        "zipcode": "98025-800"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Mariz e Barros",
+        "zipcode": "98010-650"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Procópio Gomes",
+        "zipcode": "98050-380"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "São Miguel",
+        "street": "Rua Coronel Martins",
+        "zipcode": "98025-100"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Benjamim Nott",
+        "street": "Rua João Silveira Portinho",
+        "zipcode": "98045-136"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Jardim Primavera",
+        "street": "Rua Otávio Mendes",
+        "zipcode": "98030-566"
+    },
+    {
+        "city": "Cruz Alta",
+        "state": "RS",
+        "district": "Toríbio Veríssimo",
+        "street": "Avenida João Belchior Marques Goulart",
+        "zipcode": "98010-000"
+    }
+]

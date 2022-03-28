@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Apiúna",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89135-000"
+    },
+    {
+        "city": "Apiúna",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral",
+        "zipcode": "89135-992"
+    },
+    {
+        "city": "Apiúna",
+        "state": "SC",
+        "district": null,
+        "street": "Estrada Geral Vargem Grande",
+        "zipcode": "89135-991"
+    },
+    {
+        "city": "Apiúna",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Quintino Bocaiuva",
+        "zipcode": "89135-970"
+    }
+]

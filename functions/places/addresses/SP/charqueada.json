@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Charqueada",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Rua Primeiro de Maio 80",
+        "zipcode": "13515-970"
+    },
+    {
+        "city": "Charqueada",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "13515-000"
+    },
+    {
+        "city": "Charqueada",
+        "state": "SP",
+        "district": "Santa Luzia",
+        "street": "Rua Regina Vicentina Dihel 1",
+        "zipcode": "13515-971"
+    },
+    {
+        "city": "Charqueada",
+        "state": "SP",
+        "district": "Recreio",
+        "street": "Rua Paulo Meneghel 260",
+        "zipcode": "13515-972"
+    }
+]

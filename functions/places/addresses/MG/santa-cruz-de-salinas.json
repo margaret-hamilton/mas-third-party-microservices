@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Santa Cruz de Salinas",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Salinas 552",
+        "zipcode": "39563-972"
+    },
+    {
+        "city": "Santa Cruz de Salinas",
+        "state": "MG",
+        "district": "Água Boa",
+        "street": "Avenida Pedra Azul 10",
+        "zipcode": "39563-971"
+    },
+    {
+        "city": "Santa Cruz de Salinas",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39563-000"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Iperó",
+        "state": "SP",
+        "district": "Centro",
+        "street": "Avenida Paulo Antunes Moreira 350",
+        "zipcode": "18560-970"
+    },
+    {
+        "city": "Iperó",
+        "state": "SP",
+        "district": "George Oettrer",
+        "street": "Avenida José Rocha 20",
+        "zipcode": "18560-971"
+    },
+    {
+        "city": "Iperó",
+        "state": "SP",
+        "district": null,
+        "street": "Avenida José Rocha",
+        "zipcode": "18560-990"
+    },
+    {
+        "city": "Iperó",
+        "state": "SP",
+        "district": "",
+        "street": "",
+        "zipcode": "18560-000"
+    }
+]

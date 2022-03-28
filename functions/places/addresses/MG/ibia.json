@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Ibiá",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Oito 170",
+        "zipcode": "38950-970"
+    },
+    {
+        "city": "Ibiá",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Oito 170",
+        "zipcode": "38950-972"
+    },
+    {
+        "city": "Ibiá",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "38950-000"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Rio Casca",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Senador Cupertino 204",
+        "zipcode": "35370-970"
+    },
+    {
+        "city": "Rio Casca",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35370-000"
+    }
+]

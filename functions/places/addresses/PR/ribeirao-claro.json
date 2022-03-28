@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Ribeirão Claro",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Coronel Emílio Gomes 1280",
+        "zipcode": "86410-970"
+    },
+    {
+        "city": "Ribeirão Claro",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86410-000"
+    }
+]

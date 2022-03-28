@@ -1,0 +1,856 @@
+[
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Nilo Pecanha",
+        "zipcode": "87013-420"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Diamante",
+        "zipcode": "87080-735"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Lopes Trovao",
+        "zipcode": "87013-360"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Continental",
+        "street": "Rua Pioneiro Alfredo Soares De Freitas",
+        "zipcode": "87070-556"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Parque Florestal Dos Pioneiros",
+        "zipcode": "87013-730"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Alziro Segantin Filho",
+        "zipcode": "87013-680"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Residencial Ney Braga",
+        "street": "Rua Bem",
+        "zipcode": "87083-236"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Praça Lions",
+        "zipcode": "87015-430"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Residencial Ney Braga",
+        "street": "Rua Arara",
+        "zipcode": "87083-235"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Avenida Vinte E Dois De Maio",
+        "zipcode": "87013-620"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Continental",
+        "street": "Rua Pioneira Dulcelina Rosa",
+        "zipcode": "87070-555"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Um",
+        "zipcode": "87013-690"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 02",
+        "street": "Parque Do Inga",
+        "zipcode": "87013-710"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Darcy Vargas",
+        "zipcode": "87013-720"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 05",
+        "street": "Avenida Brasil",
+        "zipcode": "87015-281"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Princesa Isabel",
+        "zipcode": "87013-350"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Avenida Curitiba",
+        "zipcode": "87013-380"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Guarani",
+        "zipcode": "87013-400"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Jose De Alencar",
+        "zipcode": "87013-390"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Rouxinol",
+        "zipcode": "87070-756"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Habit Karina",
+        "street": "Praça Juiz Fernando Antonio Vieira",
+        "zipcode": "87047-430"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Paturi",
+        "zipcode": "87070-219"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Ema",
+        "zipcode": "87070-495"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Continental",
+        "street": "Rua 19131",
+        "zipcode": "87070-557"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Passaros",
+        "street": "Rua Acaua",
+        "zipcode": "87070-485"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Azulao",
+        "zipcode": "87070-228"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Garca",
+        "zipcode": "87070-216"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 42",
+        "street": "Rua Jose Marasca Filho",
+        "zipcode": "87070-085"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Indaia",
+        "street": "Rua California",
+        "zipcode": "87070-315"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Joao De Barro Porto Seguro Ii",
+        "street": "Rua Vitoria",
+        "zipcode": "87055-635"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Parque Industrial Bandeirantes",
+        "street": "Rua Joao Batista De Campos",
+        "zipcode": "87070-065"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Novo Centro",
+        "street": "Alameda Adriano Jose Valente",
+        "zipcode": "87020-037"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 09",
+        "street": "Rua Fernao Dias",
+        "zipcode": "87013-090"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Albatroz",
+        "zipcode": "87070-229"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Veronica",
+        "street": "Rua Pioneira Palmyra Tel",
+        "zipcode": "87060-580"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Pelicano",
+        "zipcode": "87070-755"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Faisao",
+        "zipcode": "87070-218"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Pedro Sanches",
+        "zipcode": "87013-410"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Novo Centro",
+        "street": "Largo Inocente Vila Nova Junior",
+        "zipcode": "87020-036"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Loteamento Batel",
+        "street": "Rua A",
+        "zipcode": "87060-045"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Cisne",
+        "zipcode": "87070-226"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Habit Sol Nascente",
+        "street": "Avenida Antonio Jose Beraldo",
+        "zipcode": "87055-455"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Indaia",
+        "street": "Rua Henrique Bim",
+        "zipcode": "87070-318"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Parque Residencial Aeroporto",
+        "street": "Rua Pioneiro Mario Lopes",
+        "zipcode": "87055-185"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 42",
+        "street": "Rua Paulo Sergio De Lima Marasca",
+        "zipcode": "87070-055"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Habit Lea Leal",
+        "street": "Rua Jinroku Kubota",
+        "zipcode": "87040-455"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Kosmos",
+        "street": "Rua Olimpico",
+        "zipcode": "87070-215"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Copacabana",
+        "street": "Rua 30006",
+        "zipcode": "87023-326"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 03",
+        "street": "Praça Pioneiro Fiori Progiante",
+        "zipcode": "87050-790"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Joaquim Murtinho",
+        "zipcode": "87013-450"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Visconde De Nacar",
+        "zipcode": "87013-500"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Conselheiro Tobias",
+        "zipcode": "87013-520"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Travessa Iroi",
+        "zipcode": "87013-550"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Vinte E Nove De Dezembro",
+        "zipcode": "87013-580"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Avenida Dr Alexandre Rasgulaeff",
+        "zipcode": "87080-766"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Oito De Setembro",
+        "zipcode": "87013-630"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Quero",
+        "zipcode": "87070-779"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Residencial Ney Braga",
+        "street": "Avenida Sabia",
+        "zipcode": "87083-225"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Ametista",
+        "zipcode": "87080-745"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Praça Dos Sertoes",
+        "zipcode": "87013-470"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Avenida Humaita",
+        "zipcode": "87013-430"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Falcao",
+        "zipcode": "87070-785"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Sao Silvestre",
+        "street": "Estrada Do Padre",
+        "zipcode": "87055-020"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Seis De Janeiro",
+        "zipcode": "87013-560"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Laodiceia",
+        "street": "Rua Valenca",
+        "zipcode": "87013-650"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Tupa",
+        "zipcode": "87013-530"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Dezesseis De Abril",
+        "zipcode": "87013-590"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Turquesa",
+        "zipcode": "87080-749"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Turmalina",
+        "zipcode": "87080-739"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Marcassita",
+        "zipcode": "87080-747"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Laodiceia",
+        "street": "Rua Sao Jose",
+        "zipcode": "87013-670"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Suindara",
+        "zipcode": "87070-758"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Beija",
+        "zipcode": "87070-757"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Cristal",
+        "zipcode": "87080-765"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Onix",
+        "zipcode": "87080-757"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Perola",
+        "zipcode": "87080-736"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Onze De Marco",
+        "zipcode": "87013-600"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Praça Amabile Giroldo",
+        "zipcode": "87013-440"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Clovis Bevilaqua",
+        "zipcode": "87013-510"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Rubi",
+        "zipcode": "87080-738"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Pavao",
+        "zipcode": "87070-759"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Recanto Dos Magnatas",
+        "street": "Rua Affonso Hernandes Bitencourt",
+        "zipcode": "87060-395"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Grauna",
+        "zipcode": "87070-796"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Quartzo",
+        "zipcode": "87080-746"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Pandia Calogeras",
+        "zipcode": "87013-480"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Indaia",
+        "street": "Rua Myroslau Antonechen",
+        "zipcode": "87070-316"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Safira",
+        "zipcode": "87080-759"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Topazio",
+        "zipcode": "87080-755"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Uirapuru",
+        "zipcode": "87070-777"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Residencial Ney Braga",
+        "street": "Rua Ema",
+        "zipcode": "87083-245"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Zirconia",
+        "zipcode": "87080-737"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Canada",
+        "street": "Rua Montreal",
+        "zipcode": "87080-100"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Laodiceia",
+        "street": "Rua Sao Mateus",
+        "zipcode": "87013-640"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Parque Das Laranjeiras",
+        "street": "Avenida Das Torres",
+        "zipcode": "87080-080"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Rodrigo Silva",
+        "zipcode": "87013-370"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 01",
+        "street": "Avenida Anchieta",
+        "zipcode": "87010-350"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 09",
+        "street": "Travessa Tupa",
+        "zipcode": "87013-395"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Joao Alfredo",
+        "zipcode": "87013-460"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Flamingo",
+        "zipcode": "87070-775"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Distrito Industrial 2",
+        "street": "Rua Joao Deusada Pelegrina",
+        "zipcode": "87065-030"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Hematita",
+        "zipcode": "87080-758"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alvorada",
+        "street": "Rodovia Pr",
+        "zipcode": "87035-065"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Parque Das Grevileas",
+        "street": "Travessa Araguaia",
+        "zipcode": "87025-080"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Cerqueira Cezar",
+        "zipcode": "87013-490"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 04",
+        "street": "Rua Ipiranga",
+        "zipcode": "87013-540"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Ouro Cola",
+        "street": "Avenida Virgilio Manilia",
+        "zipcode": "87070-145"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Quinze De Agosto",
+        "zipcode": "87013-570"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Joao De Barro I",
+        "street": "Rua Agostinho Franco Rocha",
+        "zipcode": "87055-050"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Praça Raphaella Name Lucchesi",
+        "zipcode": "87070-795"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 01",
+        "street": "Avenida Carneiro Leao",
+        "zipcode": "87013-080"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Tuiuiu",
+        "zipcode": "87070-217"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Conj Residencial Ney Braga",
+        "street": "Praça Arnoldo Armstrong De Oliveira",
+        "zipcode": "87080-295"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 01",
+        "street": "Travessa Amadeu Progiante",
+        "zipcode": "87013-700"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Zona 01",
+        "street": "Praça Napoleao Moreira Da Silva",
+        "zipcode": "87013-740"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Esmeralda",
+        "zipcode": "87080-748"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Alamar",
+        "street": "Rua Treze De Junho",
+        "zipcode": "87013-610"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Indaia",
+        "street": "Rua Dibo Amid Dib",
+        "zipcode": "87070-317"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Olimpico",
+        "street": "Rua Patativa",
+        "zipcode": "87070-227"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Parque Das Laranjeiras",
+        "street": "Rua Darville Antonio Huergo",
+        "zipcode": "87083-145"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Real",
+        "street": "Rua Agua",
+        "zipcode": "87080-756"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Parque Hortencia",
+        "street": "Rua Pioneiro Geraldo Jose Jorge",
+        "zipcode": "87070-530"
+    },
+    {
+        "city": "Maringa",
+        "state": "PR",
+        "district": "Jardim Laodiceia",
+        "street": "Rua Tupy",
+        "zipcode": "87013-660"
+    }
+]

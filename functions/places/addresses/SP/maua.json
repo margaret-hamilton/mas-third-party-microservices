@@ -1,0 +1,632 @@
+[
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Ana Maria",
+        "street": "Rua Dom Pedro Ii",
+        "zipcode": "09310-440"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Augusto",
+        "street": "Viaduto Da Saudade",
+        "zipcode": "09310-055"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Santa Lidia",
+        "street": "Rua Suriname",
+        "zipcode": "09311-090"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Santa Lidia",
+        "street": "Rua Guiana",
+        "zipcode": "09311-095"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Santa Lidia",
+        "street": "Rua Chile",
+        "zipcode": "09311-110"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Santa Lidia",
+        "street": "Rua Equador",
+        "zipcode": "09311-130"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Bocaina",
+        "street": "Rua Humberto Primo Leardini",
+        "zipcode": "09310-590"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Independencia",
+        "street": "Largo Do Fico",
+        "zipcode": "09350-195"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Itapeva",
+        "street": "Rua Joaquim Fiorellini",
+        "zipcode": "09330-000"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Alvorada",
+        "street": "Rua Mauro Venturini",
+        "zipcode": "09330-061"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Das Americas",
+        "street": "Praça Romualdo Paulino David",
+        "zipcode": "09311-115"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Campo Verde",
+        "street": "Rua Rui Marcio Balde",
+        "zipcode": "09350-080"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Itapeva",
+        "street": "Rua Jose Dos Santos",
+        "zipcode": "09340-765"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Adelina",
+        "street": "Rua Dois",
+        "zipcode": "09330-155"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Cruzeiro",
+        "street": "Rua Caminho Tres",
+        "zipcode": "09330-635"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Maria Eneida",
+        "street": "Estrada Do Carneiro",
+        "zipcode": "09330-550"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Maria Eneida",
+        "street": "Rua Tres",
+        "zipcode": "09341-425"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Bocaina",
+        "street": "Praça Guerino Chiarotti",
+        "zipcode": "09310-361"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Zaira",
+        "street": "Rua Rodolfo Passim",
+        "zipcode": "09321-490"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Itapeva",
+        "street": "Rua Ana Delfino",
+        "zipcode": "09331-215"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Esperanca",
+        "street": "Rua Onze",
+        "zipcode": "09341-200"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Santa Lidia",
+        "street": "Rua Bolivia",
+        "zipcode": "09311-120"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Sao Gabriel",
+        "street": "Rua Caminho Tres",
+        "zipcode": "09330-660"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Alto Da Boa Vista",
+        "street": "Praça Dom Pedro I",
+        "zipcode": "09350-105"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Luzitano",
+        "street": "Rua Oito",
+        "zipcode": "09330-355"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Independencia",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "09350-110"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Sao Francisco",
+        "street": "Rua Januario Godoy",
+        "zipcode": "09320-230"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Luzitano",
+        "street": "Estrada Da Pedreira",
+        "zipcode": "09330-330"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Miranda Daviz",
+        "street": "Praça Fernando De Luna E Silva",
+        "zipcode": "09320-365"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Adelina",
+        "street": "Rua Salvador Rico",
+        "zipcode": "09330-309"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Emilio",
+        "street": "Rua Jose De Moraes",
+        "zipcode": "09320-060"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Zaira",
+        "street": "Praça Marisa Mota Guedes",
+        "zipcode": "09321-386"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Maria Eneida",
+        "street": "Rua Sete",
+        "zipcode": "09341-160"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Maua",
+        "street": "Praça Pastor Cecilio J De Oliveira",
+        "zipcode": "09340-181"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Zaira",
+        "street": "Praça Jose Joaquim Oliveira",
+        "zipcode": "09321-377"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Sao Jose",
+        "street": "Rua Principal",
+        "zipcode": "09340-750"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Bandeirantes",
+        "street": "Rua Martins Proask",
+        "zipcode": "09340-260"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Bocaina",
+        "street": "Praça Celso Pinto Da Silva",
+        "zipcode": "09310-595"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Zaira",
+        "street": "Rua Antonio Alves",
+        "zipcode": "09321-370"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Anchieta",
+        "street": "Rua Jose Scudeiro",
+        "zipcode": "09360-570"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Das Americas",
+        "street": "Praça Dona Mangueira",
+        "zipcode": "09351-071"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Matriz",
+        "street": "Praça Lions",
+        "zipcode": "09360-125"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Sao Vicente",
+        "street": "Rua Vice",
+        "zipcode": "09371-530"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Anchieta",
+        "street": "Praça Vereador Francisco Alfredo De Souza",
+        "zipcode": "09360-695"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Sonia Maria",
+        "street": "Praça Orlando Silva",
+        "zipcode": "09380-500"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Assis Brasil",
+        "street": "Rua Lotus",
+        "zipcode": "09370-847"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Pilar",
+        "street": "Rua Afonsino Aflisio",
+        "zipcode": "09370-690"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Matriz",
+        "street": "Praça Monsenhor Alexandre Alminas",
+        "zipcode": "09370-105"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Assis Brasil",
+        "street": "Rua Dos Anturios",
+        "zipcode": "09370-842"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Capuava",
+        "street": "Praça Jose Alcantara M. Oliveira",
+        "zipcode": "09380-165"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Carlina",
+        "street": "Rua Francisco Jose De Andrade",
+        "zipcode": "09370-812"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Sao Vicente",
+        "street": "Praça Eduardo Gianoni",
+        "zipcode": "09371-455"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Noemia",
+        "street": "Praça Sesquicentenario",
+        "zipcode": "09370-365"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Alto Da Boa Vista",
+        "street": "Rua Reinaldo Denis",
+        "zipcode": "09390-796"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Assis Brasil",
+        "street": "Rua Das Acacias",
+        "zipcode": "09370-445"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Guapituba",
+        "street": "Praça Ana De Jesus Andreozzi",
+        "zipcode": "09360-301"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Sao Vicente",
+        "street": "Rua General Francisco Jose Silva Junior",
+        "zipcode": "09371-040"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Capuava",
+        "street": "Praça Edwaldo Houch",
+        "zipcode": "09380-125"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Assis Brasil",
+        "street": "Rua Das Camelias",
+        "zipcode": "09370-843"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Magini",
+        "street": "Rua Ladeira Formosa",
+        "zipcode": "09390-230"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Das Americas",
+        "street": "Praça Leonor Vieira Dos Santos",
+        "zipcode": "09351-016"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Alto Da Boa Vista",
+        "street": "Rua Municipal",
+        "zipcode": "09390-005"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Alto Da Boa Vista",
+        "street": "Rua Nove",
+        "zipcode": "09390-795"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Sao Vicente",
+        "street": "Praça Mdb",
+        "zipcode": "09371-340"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Bandeirantes",
+        "street": "Rua Alfredo Galo Fotoreto",
+        "zipcode": "09390-406"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Feital",
+        "street": "Rua Tomas Antonio Gonzaga",
+        "zipcode": "09350-625"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Nova Maua",
+        "street": "Rua Treze",
+        "zipcode": "09390-750"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Assis Brasil",
+        "street": "Rua Dr Ulisses Guimaraes",
+        "zipcode": "09370-825"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Primavera",
+        "street": "Rua Girassol",
+        "zipcode": "09370-844"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Santa Lidia",
+        "street": "Rua Uruguai",
+        "zipcode": "09311-100"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Das Americas",
+        "street": "Rua Iracema Milanezi",
+        "zipcode": "09311-121"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Noemia",
+        "street": "Rua Antonio Dino Costa Bueno",
+        "zipcode": "09371-010"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Itapark",
+        "street": "Praça Dom Pedro I",
+        "zipcode": "09350-142"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Nossa Senhora Das Vitorias",
+        "street": "Rua Altino Arantes",
+        "zipcode": "09360-240"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Augusto",
+        "street": "Praça Conde Francisco Matarazzo",
+        "zipcode": "09390-031"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Sao Vicente",
+        "street": "Praça Vereador Benedito Loyola De Lima",
+        "zipcode": "09371-521"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Alto Da Boa Vista",
+        "street": "Rua Cinco",
+        "zipcode": "09390-780"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Ana Maria",
+        "street": "Praça Das Paineiras",
+        "zipcode": "09310-005"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Itapeva",
+        "street": "Rua Ignacio Camioli",
+        "zipcode": "09340-760"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Anchieta",
+        "street": "Praça Joao Antonio Lopes Ortiz",
+        "zipcode": "09360-585"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Bocaina",
+        "street": "Rua Inocencio Nazzuto",
+        "zipcode": "09310-600"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Maringa",
+        "street": "Praça Fatima Canali V Argasaku",
+        "zipcode": "09341-311"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Sao Francisco",
+        "street": "Rua Antonio Neves",
+        "zipcode": "09320-250"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Adelina",
+        "street": "Rua Anorelina Rodrigues Goncalves",
+        "zipcode": "09330-315"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Carlina",
+        "street": "Rua Cesar Avancini",
+        "zipcode": "09370-815"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Itapeva",
+        "street": "Rua Diogo Cirilo",
+        "zipcode": "09330-030"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Jardim Sao Gabriel",
+        "street": "Rua Alice De Oliveira Santos",
+        "zipcode": "09330-861"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Alto Da Boa Vista",
+        "street": "Rua Quinze",
+        "zipcode": "09390-760"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Vila Bocaina",
+        "street": "Praça Vitorio Ferrari",
+        "zipcode": "09311-041"
+    },
+    {
+        "city": "Maua",
+        "state": "SP",
+        "district": "Parque Sao Vicente",
+        "street": "Praça Josefina Candida De Souza",
+        "zipcode": "09371-451"
+    }
+]

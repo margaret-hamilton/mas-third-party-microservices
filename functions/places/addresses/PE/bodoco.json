@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Bodocó",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Doutor João Pessoa 34",
+        "zipcode": "56220-970"
+    },
+    {
+        "city": "Bodocó",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56220-000"
+    },
+    {
+        "city": "Bodocó",
+        "state": "PE",
+        "district": "Distrito Clarana",
+        "street": "Rua Raimundo Alexandre s/n",
+        "zipcode": "56220-972"
+    },
+    {
+        "city": "Bodocó",
+        "state": "PE",
+        "district": "Distrito Feitoria",
+        "street": "Rua Deputado Juvenal Pinto s/n",
+        "zipcode": "56220-973"
+    }
+]

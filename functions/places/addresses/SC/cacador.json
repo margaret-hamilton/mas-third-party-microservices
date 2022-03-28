@@ -1,0 +1,6330 @@
+[
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Jorge Thomé",
+        "zipcode": "89506-021"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Manaus",
+        "zipcode": "89509-486"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua João Benetti Sobrinho",
+        "zipcode": "89507-576"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Bororos",
+        "zipcode": "89501-270"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Blumenau",
+        "zipcode": "89504-702"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Industrial",
+        "street": "Rua Irmã Maria Machiavelli de Nardi",
+        "zipcode": "89511-350"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Industrial",
+        "street": "Rua Clóvis Luiz de Nardi",
+        "zipcode": "89511-345"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Industrial",
+        "street": "Avenida Engenheiro Lourenço Faoro",
+        "zipcode": "89511-340"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Industrial",
+        "street": "Rodovia Municipal José Rossi Adami",
+        "zipcode": "89511-280"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rodovia Municipal José Rossi Adami",
+        "zipcode": "89511-270"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Aldemira Thives Cruz",
+        "zipcode": "89511-265"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Vitório Recalcatti",
+        "zipcode": "89511-255"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Francisco Geremia",
+        "zipcode": "89511-250"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Ernesto Antonio Zardo",
+        "zipcode": "89511-245"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua José Lewinski",
+        "zipcode": "89511-240"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Vicente Berardi",
+        "zipcode": "89511-235"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Maria C de Oliveira Carneiro",
+        "zipcode": "89511-230"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Ary de Oliveira Carneiro",
+        "zipcode": "89511-225"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Oscar Paupitz",
+        "zipcode": "89509-006"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Ari Pontes",
+        "zipcode": "89507-064"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco 795",
+        "zipcode": "89500-970"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco 765",
+        "zipcode": "89500-972"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Carlos Sperança 267",
+        "zipcode": "89500-973"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Rio do Sul",
+        "zipcode": "89504-705"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": null,
+        "street": null,
+        "zipcode": "89500-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Maria Eva Cardoso",
+        "zipcode": "89511-169"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Ary Harres",
+        "zipcode": "89511-166"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua João Maria de Castilho Sobrinho",
+        "zipcode": "89511-163"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Ida Dal Forno Harres",
+        "zipcode": "89511-160"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua João Angeli",
+        "zipcode": "89511-157"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Seny Hartkoff dos Santos",
+        "zipcode": "89511-154"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Romildo Koppe",
+        "zipcode": "89509-245"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Visconde do Rio Branco",
+        "zipcode": "89506-430"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Champagnat",
+        "street": "Rua Alfredo Gioppo",
+        "zipcode": "89503-570"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Getúlio Vargas",
+        "zipcode": "89500-097"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Laudelino Fogaça de Almeida",
+        "zipcode": "89511-148"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua João Natal",
+        "zipcode": "89511-145"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Telmo Tadeu Siqueira",
+        "zipcode": "89511-142"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Altair Ferreia de Souza",
+        "zipcode": "89511-136"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Francisco Lopes de Souza",
+        "zipcode": "89511-133"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Canário",
+        "zipcode": "89511-066"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Pica",
+        "zipcode": "89511-063"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua João de Barro",
+        "zipcode": "89511-060"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Sabiá",
+        "zipcode": "89511-057"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Luiz Souza Corrêa",
+        "zipcode": "89511-130"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Periquito",
+        "zipcode": "89511-054"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Beija",
+        "zipcode": "89511-051"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Tico",
+        "zipcode": "89511-039"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Florindo DAgostini",
+        "zipcode": "89511-036"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Eutimio Miozzo",
+        "zipcode": "89511-033"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Cristóvão Colombo",
+        "zipcode": "89511-024"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Joaquim Balsanelli",
+        "zipcode": "89511-021"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Pedro Campanha",
+        "zipcode": "89511-015"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua José Corrêa Gonçalves",
+        "zipcode": "89511-006"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua José Ioos Júnior",
+        "zipcode": "89511-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Guilherme Lauro Rupp",
+        "zipcode": "89510-860"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Avenida Albino Phelippe Potrich",
+        "zipcode": "89510-857"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Eugênio Francisco Paris",
+        "zipcode": "89510-854"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Francisco Santi",
+        "zipcode": "89510-851"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Lucídio Alves Pacheco",
+        "zipcode": "89510-842"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Jesus Alves Padilha",
+        "zipcode": "89510-839"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Anastácio Amaro de Souza",
+        "zipcode": "89510-833"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Tereza de Freitas Muller",
+        "zipcode": "89510-830"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Antonio Rosa de Oliveira",
+        "zipcode": "89510-827"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Alzerino Alves Pereira",
+        "zipcode": "89510-824"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua José Prezalino de Oliveira",
+        "zipcode": "89510-821"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Ricardo Angelli",
+        "zipcode": "89510-818"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Gralha Azul",
+        "zipcode": "89511-048"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Papagaio",
+        "zipcode": "89511-045"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Andorinha",
+        "zipcode": "89511-042"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Pedro Alvares Cabral",
+        "zipcode": "89511-030"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Osny Teodoro Cunha",
+        "zipcode": "89511-018"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Jorge Meirelles",
+        "zipcode": "89511-003"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Adelia Julieta Pacheco",
+        "zipcode": "89510-836"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Silvério Sinkere",
+        "zipcode": "89510-845"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Vitoldo Gurski",
+        "zipcode": "89511-012"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Silvio Gioppo",
+        "zipcode": "89510-812"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Ercílio de Lima",
+        "zipcode": "89510-809"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Dinarte José Rodrigues",
+        "zipcode": "89510-806"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Paulo Luderinghausen",
+        "zipcode": "89510-797"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Joaquim Raizel da Cruz",
+        "zipcode": "89510-794"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Antônio Ozório",
+        "zipcode": "89510-791"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Arlindo Aloys Jung",
+        "zipcode": "89510-788"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Fiorindo Constantini",
+        "zipcode": "89510-785"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Adolfo Kletke",
+        "zipcode": "89510-779"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Fausto Machado de Quadros",
+        "zipcode": "89510-776"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Antônio Bombassaro",
+        "zipcode": "89510-773"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Gomercindo Schaitel Medeiro",
+        "zipcode": "89510-742"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Domingos Menin",
+        "zipcode": "89510-739"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Benjamin Gioppo",
+        "zipcode": "89510-736"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Octacilio Trindade Cordeiro",
+        "zipcode": "89510-692"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Olindomar Tonet",
+        "zipcode": "89510-689"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Fermino Borges de Carvalho",
+        "zipcode": "89510-686"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua João Pereira da Silva",
+        "zipcode": "89510-803"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Mário DAgostini",
+        "zipcode": "89510-782"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua José Souza",
+        "zipcode": "89510-733"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Guilherme Attilio Zardo",
+        "zipcode": "89510-730"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Sebastião Velasques",
+        "zipcode": "89510-695"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Lucilla Brandt Balena",
+        "zipcode": "89510-683"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua José Oleinik",
+        "zipcode": "89510-680"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Alcides Sabino",
+        "zipcode": "89510-641"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Dilma Deboni Petry",
+        "zipcode": "89510-632"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Osvaldo Manoel Gomes",
+        "zipcode": "89510-626"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Elvira Popia Pavelski",
+        "zipcode": "89510-623"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89510-620"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89510-610"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Maria Antônia Busato Zandavali",
+        "zipcode": "89510-607"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Nilo Henrique Thomé",
+        "zipcode": "89510-604"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Ayrton Araújo Menzel",
+        "zipcode": "89510-601"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Belém",
+        "zipcode": "89510-589"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Aldo Eloy Gatermann",
+        "zipcode": "89510-583"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Salvador",
+        "zipcode": "89510-580"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Raimundo José Pierdoná",
+        "zipcode": "89510-552"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Eugênio Busato",
+        "zipcode": "89510-549"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Luciano Victório Biasi",
+        "zipcode": "89510-546"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Florêncio Busato",
+        "zipcode": "89510-543"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Fortaleza",
+        "zipcode": "89510-540"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Leonardo Granemann",
+        "zipcode": "89510-537"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Venceslau Gonçalves Vieira",
+        "zipcode": "89510-650"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Professor João Roberto Moreira",
+        "zipcode": "89510-592"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Vitória",
+        "zipcode": "89510-586"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Ignes Bortolon Pivatto",
+        "zipcode": "89510-647"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Egídio Cordeiro",
+        "zipcode": "89510-644"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Onofre Pereira",
+        "zipcode": "89510-638"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Alfredo Ribeiro dos Santos",
+        "zipcode": "89510-595"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Zaki Thomé",
+        "zipcode": "89510-629"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua João Amâncio Costa",
+        "zipcode": "89510-598"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Olivio Abatti",
+        "zipcode": "89510-525"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Antônio Appi",
+        "zipcode": "89510-519"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Elias Biasi",
+        "zipcode": "89510-507"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Estefano Kimak",
+        "zipcode": "89510-504"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Avenida Comendador Selvino Caramori",
+        "zipcode": "89510-531"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Luiz Favarin",
+        "zipcode": "89510-522"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Henriqueta Tedesco",
+        "zipcode": "89510-516"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Elias Biasi",
+        "zipcode": "89510-513"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Natal",
+        "zipcode": "89510-495"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua José de Lemos Braga",
+        "zipcode": "89510-492"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Professora Luiza Raisel",
+        "zipcode": "89510-483"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Aeroporto",
+        "street": "Rua Cedro",
+        "zipcode": "89510-025"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Aeroporto",
+        "street": "Rodovia Municipal Avelino Mandelli",
+        "zipcode": "89510-020"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Aeroporto",
+        "street": "Rua Guamirim",
+        "zipcode": "89510-015"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Aeroporto",
+        "street": "Rua Araçá",
+        "zipcode": "89510-010"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Aeroporto",
+        "street": "Rua Imbuia",
+        "zipcode": "89510-005"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Aeroporto",
+        "street": "Rua Araucária",
+        "zipcode": "89510-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Aeroporto",
+        "street": "Avenida Engenheiro Lourenço Faoro",
+        "zipcode": "89509-830"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rodovia Municipal Victório Poletto",
+        "zipcode": "89509-720"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Milton Cesar Pegoraro",
+        "zipcode": "89509-675"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Domingos Giovani Pegoraro",
+        "zipcode": "89509-670"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Vitor Krüger",
+        "zipcode": "89509-665"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Plínio Morgenstern",
+        "zipcode": "89509-660"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Antônio Zarur",
+        "zipcode": "89509-655"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Otávio Gonçalves Cordeiro",
+        "zipcode": "89509-650"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Abdalla José Thomé",
+        "zipcode": "89509-640"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Antonio Vivan",
+        "zipcode": "89509-635"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Mario da Luz",
+        "zipcode": "89509-630"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Doutor Cesar Pereira",
+        "zipcode": "89509-625"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua José Luiz Cordeiro",
+        "zipcode": "89509-620"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Marlene Cordeiro Morais",
+        "zipcode": "89509-610"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Ivan Antônio Barichello",
+        "zipcode": "89509-605"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Sebastião Gonçalves Cordeiro",
+        "zipcode": "89509-492"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Pedro Fernandes de Oliveira",
+        "zipcode": "89509-489"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Ângelo Caovilla",
+        "zipcode": "89510-489"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Terezina",
+        "zipcode": "89510-486"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Brasília",
+        "zipcode": "89510-480"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Valdir Morais",
+        "zipcode": "89509-615"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Avenida Engenheiro Lourenço Faoro",
+        "zipcode": "89509-600"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Otávio Moraes de Souza",
+        "zipcode": "89509-495"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Santiago Rodrigues",
+        "zipcode": "89509-483"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Brasília",
+        "zipcode": "89509-480"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Antonio Vivan",
+        "zipcode": "89509-401"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Plínio Morgenstern",
+        "zipcode": "89509-392"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Aracaju",
+        "zipcode": "89510-498"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Generoso Padilha Moraes",
+        "zipcode": "89509-404"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Antônio Zarur",
+        "zipcode": "89509-398"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Silvio Matiello",
+        "zipcode": "89509-386"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Euclides José Padillha",
+        "zipcode": "89509-383"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Vitório Bianchi",
+        "zipcode": "89509-380"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Fernando Mayer",
+        "zipcode": "89509-377"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Teófilo Zarur",
+        "zipcode": "89509-374"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Pedro Drissen Sobrinho",
+        "zipcode": "89509-371"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua João Pirolli",
+        "zipcode": "89509-365"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Bernardino Deboni",
+        "zipcode": "89509-353"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Ireno Luiz Cordeiro",
+        "zipcode": "89509-266"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Diney Werner",
+        "zipcode": "89509-260"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Henrique Vebber da Silva",
+        "zipcode": "89509-257"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Teófilo Gomes de Mattos",
+        "zipcode": "89509-254"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Antonio Pereira",
+        "zipcode": "89509-251"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Curitiba",
+        "zipcode": "89509-248"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Augusto Gonçalves de Moraes",
+        "zipcode": "89509-242"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Anair França Peretti",
+        "zipcode": "89509-239"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Milton Antonio Marini",
+        "zipcode": "89509-233"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Cicero Buscarons",
+        "zipcode": "89509-230"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Pedro Fernandes de Oliveira",
+        "zipcode": "89509-189"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rodovia Municipal Victório Poletto",
+        "zipcode": "89509-368"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua João Schaphauser",
+        "zipcode": "89509-359"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua João Simão de Almeida",
+        "zipcode": "89509-356"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Osvaldo Alves",
+        "zipcode": "89509-236"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Otávio Moraes de Souza",
+        "zipcode": "89509-192"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Curitiba",
+        "zipcode": "89509-180"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Adriano José Chiot",
+        "zipcode": "89509-174"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Sebastião Gonçalves Cordeiro",
+        "zipcode": "89509-171"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Joaquim Gonçalves Cordeiro",
+        "zipcode": "89509-168"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Genésio Cruz",
+        "zipcode": "89509-165"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Odelir Godinho",
+        "zipcode": "89509-162"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Marina Wagner Burg",
+        "zipcode": "89509-156"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua José Nacle Davi",
+        "zipcode": "89509-153"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Raulino Ribeiro dos Santos",
+        "zipcode": "89509-150"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Monge João Maria",
+        "zipcode": "89509-084"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Edmundo Coelho de Matos",
+        "zipcode": "89509-081"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Caraguatá",
+        "zipcode": "89509-078"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua José Honório Luiz",
+        "zipcode": "89509-075"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Kaigang",
+        "zipcode": "89509-072"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Pequena Maria Fernanda",
+        "zipcode": "89509-066"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Guarani",
+        "zipcode": "89509-063"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Tupi",
+        "zipcode": "89509-060"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Aimoré",
+        "zipcode": "89509-057"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Tupinambá",
+        "zipcode": "89509-051"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua José Nacle Davi",
+        "zipcode": "89509-186"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Sebastião Gonçalves Cordeiro",
+        "zipcode": "89509-183"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Domingos Gabardi",
+        "zipcode": "89509-159"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua João Corrêa de Mello",
+        "zipcode": "89509-069"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Aristiliano de Almeida",
+        "zipcode": "89509-054"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Francisco Corrêa de Mello",
+        "zipcode": "89509-048"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Heinz Rodolfo Muller",
+        "zipcode": "89509-362"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Armindo Dalastra Bonfanti",
+        "zipcode": "89509-350"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Pedro Fernandes de Oliveira",
+        "zipcode": "89509-036"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Manaus",
+        "zipcode": "89509-033"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Santiago Rodrigues",
+        "zipcode": "89509-030"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Brasília",
+        "zipcode": "89509-027"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Augusto Corrêa de Mello",
+        "zipcode": "89509-024"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Francisco Chaves dos Santos",
+        "zipcode": "89509-018"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua João Balzan",
+        "zipcode": "89509-015"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Ilmar José Pierdoná",
+        "zipcode": "89509-012"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Santa Bernadete",
+        "zipcode": "89507-876"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua João Woloch",
+        "zipcode": "89507-872"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Antonio Woloch",
+        "zipcode": "89507-868"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Venezuela",
+        "zipcode": "89506-018"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Santa Bárbara",
+        "zipcode": "89507-864"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Santa Luzia",
+        "zipcode": "89507-860"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Santa Rita de Cássia",
+        "zipcode": "89507-816"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Antonio Belenki",
+        "zipcode": "89507-812"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Santa Edwiges",
+        "zipcode": "89507-808"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Osmar Ritter",
+        "zipcode": "89507-804"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Santa Rosa de Lima",
+        "zipcode": "89507-800"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua João Ferreira dos Santos",
+        "zipcode": "89507-792"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Evaldo Luiz Fontana",
+        "zipcode": "89507-784"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Arnaldo de Paula Timermann",
+        "zipcode": "89507-780"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Eloe Henrique Formighieri",
+        "zipcode": "89507-752"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua João Thimóteo Pacheco",
+        "zipcode": "89507-748"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Valmor Francisco Schmitt",
+        "zipcode": "89507-732"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Professora Vera Lúcia de Oliveira Pinto",
+        "zipcode": "89507-728"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Irineu Marcos Pierdoná",
+        "zipcode": "89507-724"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Antonio Ranzani",
+        "zipcode": "89507-720"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Jurandir Oliveira Euriques",
+        "zipcode": "89507-716"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rodovia Municipal Osvaldo Olsen",
+        "zipcode": "89507-700"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rodovia Municipal Victório Poletto",
+        "zipcode": "89507-640"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rodovia Municipal Osvaldo Olsen",
+        "zipcode": "89507-597"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Antonio Ranzani",
+        "zipcode": "89507-594"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Francisco Pino Garcia",
+        "zipcode": "89507-591"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Professor Ladislau Liszkievich",
+        "zipcode": "89507-588"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Irmão Léo Guilherme Rech",
+        "zipcode": "89507-585"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Marcos Afonso Vitto",
+        "zipcode": "89507-582"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Padre José Chamot",
+        "zipcode": "89507-579"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua 1º de Maio",
+        "zipcode": "89509-003"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Juvenal Alves Fagundes",
+        "zipcode": "89507-796"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Luiz Tortatto",
+        "zipcode": "89507-788"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Francisco Pino Garcia",
+        "zipcode": "89507-736"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Haide Benetti Busato",
+        "zipcode": "89507-708"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Juruá Coelho de Souza",
+        "zipcode": "89507-704"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Arno Willi Fauth",
+        "zipcode": "89507-573"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Arnaldo de Paula Timermann",
+        "zipcode": "89507-570"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Amantino Burg",
+        "zipcode": "89509-009"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Edgar da Silva Pacheco",
+        "zipcode": "89507-744"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Aurélio Costa",
+        "zipcode": "89507-564"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Júlia Gioppo Carneiro",
+        "zipcode": "89507-561"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Antonio Vicente de Lima",
+        "zipcode": "89507-558"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Zélio Rodrigues",
+        "zipcode": "89507-555"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rodovia Municipal Osvaldo Olsen",
+        "zipcode": "89507-552"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Arlindo Martins da Silva",
+        "zipcode": "89507-549"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Olivio Antonio Matos",
+        "zipcode": "89507-546"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Anna Viero dos Reis",
+        "zipcode": "89507-543"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Salomão Gioppo Carneiro",
+        "zipcode": "89507-540"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Moema",
+        "zipcode": "89507-534"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Guaraci",
+        "zipcode": "89507-531"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Maria Deomar da Costa Neves",
+        "zipcode": "89507-525"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Fermiano Paes Carneiro",
+        "zipcode": "89507-522"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Bartira",
+        "zipcode": "89507-519"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Luiz Tortatto",
+        "zipcode": "89507-513"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua João Ferreira dos Santos",
+        "zipcode": "89507-510"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Pedro Busatto",
+        "zipcode": "89507-100"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Princesa Izabel",
+        "zipcode": "89507-097"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Fernando Badotti",
+        "zipcode": "89507-094"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Luiz Simas",
+        "zipcode": "89507-088"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Francisco Schneider",
+        "zipcode": "89507-085"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Josefina Conti",
+        "zipcode": "89507-082"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Maria dos Prazeres Santos",
+        "zipcode": "89507-079"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Sebastião dos Santos",
+        "zipcode": "89507-076"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua João Nei Pontes",
+        "zipcode": "89507-070"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Etelvino Pedrassani",
+        "zipcode": "89507-058"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Odair Roque Tombini Pompermayer",
+        "zipcode": "89507-055"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Honorino Alfredo Filippon",
+        "zipcode": "89507-052"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Jandira",
+        "zipcode": "89507-537"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Gualberto Ramalho",
+        "zipcode": "89507-091"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Desbravador Joair dos Santos Lima",
+        "zipcode": "89507-073"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Leonel Emílio Aimi",
+        "zipcode": "89507-067"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Pasqual Cassol",
+        "zipcode": "89507-049"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Servidão Palmito",
+        "zipcode": "89507-046"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Eucalipto",
+        "zipcode": "89507-040"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Olavo Bilac",
+        "zipcode": "89503-064"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Humberto Busatto",
+        "zipcode": "89507-010"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Aparício Mantovani",
+        "zipcode": "89506-800"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Candida Antônia do Canto",
+        "zipcode": "89506-795"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Waldemar Fauth",
+        "zipcode": "89506-744"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Danilo Manfroi",
+        "zipcode": "89506-740"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua José Ferreira",
+        "zipcode": "89506-736"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Fermina da Conceição Carneiro Ribas",
+        "zipcode": "89506-732"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Paschoal de Jesus Lopes",
+        "zipcode": "89506-728"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Amazonas",
+        "zipcode": "89506-720"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Renato Baseggio",
+        "zipcode": "89506-672"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Sylvano Proêncio",
+        "zipcode": "89506-668"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Bela Vista",
+        "zipcode": "89506-664"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Chico Mendes",
+        "zipcode": "89506-676"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Rua Pedro Deboni",
+        "zipcode": "89507-043"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Ursula Scapinelli Montovani",
+        "zipcode": "89506-790"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Antonio de Paula Ribas",
+        "zipcode": "89506-724"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Francisco Menegazzo",
+        "zipcode": "89506-660"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Benjamin Brasil",
+        "zipcode": "89506-652"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Emílio Prevedo",
+        "zipcode": "89506-648"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Leonardo Olindo Visniewski",
+        "zipcode": "89506-640"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Leocádia Kerber Pivato",
+        "zipcode": "89506-606"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Maria de Paula Carneiro",
+        "zipcode": "89506-602"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Dante Sabedot",
+        "zipcode": "89506-594"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Amazonas",
+        "zipcode": "89506-586"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Abilio Paes Carneiro",
+        "zipcode": "89506-582"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua João Castelani",
+        "zipcode": "89506-578"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Aloys Honório Wagner",
+        "zipcode": "89506-570"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua José de Souza Trindade",
+        "zipcode": "89506-566"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Domingos Pedro Machado",
+        "zipcode": "89506-562"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Domingos Pivato",
+        "zipcode": "89506-558"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Júlio Wisniewski",
+        "zipcode": "89506-598"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua José Gluszczak",
+        "zipcode": "89506-590"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua João Rosa dos Santos",
+        "zipcode": "89506-574"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Angelo Bogio",
+        "zipcode": "89506-554"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Gerhard Fezer",
+        "zipcode": "89506-550"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Jacob Santi",
+        "zipcode": "89506-538"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Jairo Jeronimo Coelho de Souza",
+        "zipcode": "89506-532"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Maria Schumann Rotta",
+        "zipcode": "89506-529"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Bazbina Akkar",
+        "zipcode": "89506-526"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Carlos Augusto Coelho de Souza",
+        "zipcode": "89506-520"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Waldomiro Witiuk",
+        "zipcode": "89506-517"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua São Paulo",
+        "zipcode": "89506-511"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua São Paulo",
+        "zipcode": "89506-508"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Rio de Janeiro",
+        "zipcode": "89506-505"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Espírito Santo",
+        "zipcode": "89506-499"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Minas Gerais",
+        "zipcode": "89506-496"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Bahia",
+        "zipcode": "89506-484"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Amazonas",
+        "zipcode": "89506-481"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Amazonas",
+        "zipcode": "89506-478"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Sergipe",
+        "zipcode": "89506-475"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Acre",
+        "zipcode": "89506-472"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Pará",
+        "zipcode": "89506-469"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Ivo Raisel",
+        "zipcode": "89506-466"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Roraima",
+        "zipcode": "89506-463"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Ivo Gilberto Bueno",
+        "zipcode": "89506-460"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua José Antônio Pivato",
+        "zipcode": "89506-454"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Guerino Andréa Zanatta",
+        "zipcode": "89506-451"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Rondônia",
+        "zipcode": "89506-448"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Clóvis João Dallazem",
+        "zipcode": "89506-442"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Artur Trevisani",
+        "zipcode": "89506-436"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Vidal Chaves",
+        "zipcode": "89506-433"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Silvio Santi",
+        "zipcode": "89506-535"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Maria Herondina Tristão",
+        "zipcode": "89506-523"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Guanabara",
+        "zipcode": "89506-487"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Osmar Baptista Stieven",
+        "zipcode": "89506-445"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Atilio Ceccatto",
+        "zipcode": "89506-439"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Hamilcas Carneiro",
+        "zipcode": "89506-490"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua da Paz",
+        "zipcode": "89506-424"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Campos Sales",
+        "zipcode": "89506-418"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Coronel Vidal Ramos",
+        "zipcode": "89506-415"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Absalão Carneiro",
+        "zipcode": "89506-412"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Benjamin Zandavalli",
+        "zipcode": "89506-409"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Avenida Coronel Aristiliano Ramos",
+        "zipcode": "89506-400"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rodovia Municipal Angelo Nillo Gatti",
+        "zipcode": "89506-135"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Olympio Vergett",
+        "zipcode": "89506-125"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Marcelino Anjos",
+        "zipcode": "89506-114"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Daniel Langaro",
+        "zipcode": "89506-108"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Manoel Francio",
+        "zipcode": "89506-105"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Clineu Domingos Berardi",
+        "zipcode": "89506-102"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Pedro João Balena",
+        "zipcode": "89506-099"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Goiás",
+        "zipcode": "89506-093"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Gerhard Fezer",
+        "zipcode": "89506-090"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua São Paulo",
+        "zipcode": "89506-054"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Minas Gerais",
+        "zipcode": "89506-048"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua XV de Novembro",
+        "zipcode": "89506-045"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua José Reichmann",
+        "zipcode": "89506-042"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Coronel Vidal Ramos",
+        "zipcode": "89506-039"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Absalão Carneiro",
+        "zipcode": "89506-036"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Ivo A Roveda",
+        "zipcode": "89506-033"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Carlos Augusto Coelho de Souza",
+        "zipcode": "89506-030"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Badem Powel",
+        "zipcode": "89506-027"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Reinoldo Lebelein",
+        "zipcode": "89506-024"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Ermindo Albino Fontana",
+        "zipcode": "89506-015"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Frei Rogério",
+        "zipcode": "89506-406"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Mato Grosso",
+        "zipcode": "89506-096"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Bertha Groth",
+        "zipcode": "89506-130"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Castro Alves",
+        "zipcode": "89506-403"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Avenida Coronel Aristiliano Ramos",
+        "zipcode": "89506-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Poeta J Amazonas",
+        "zipcode": "89506-009"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Doutor Altamiro Guimarães",
+        "zipcode": "89506-003"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Julio Lessing",
+        "zipcode": "89505-086"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rodovia Municipal Angelo Nillo Gatti",
+        "zipcode": "89505-083"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Arnilda Lessing",
+        "zipcode": "89505-080"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Paulo Lessing",
+        "zipcode": "89505-074"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Frieda Lessing Kramer",
+        "zipcode": "89505-071"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Eduardo Hartmann",
+        "zipcode": "89505-068"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Eugênio Santin",
+        "zipcode": "89505-065"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Jorge João",
+        "zipcode": "89505-062"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Guilherme Maleske",
+        "zipcode": "89505-056"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Felipe José de Paula",
+        "zipcode": "89505-053"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Dinês de Jesus Cordeiro Farias Rigo",
+        "zipcode": "89505-050"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Jorge Gonçalves Cordeiro",
+        "zipcode": "89505-041"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua José Rodrigues",
+        "zipcode": "89505-035"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Luiz Menin",
+        "zipcode": "89505-029"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Antônio da Silva Ribeiro",
+        "zipcode": "89505-026"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua José Marques dos Santos",
+        "zipcode": "89505-023"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Estefano João Fabiano",
+        "zipcode": "89505-020"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua João Kuczer",
+        "zipcode": "89505-006"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Olga Turati Agusti",
+        "zipcode": "89504-874"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua José Agusti",
+        "zipcode": "89504-871"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Luiz Pereira dos Santos",
+        "zipcode": "89504-865"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Dilermando Biavatti",
+        "zipcode": "89504-862"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Anna Mascarello Fioreze",
+        "zipcode": "89504-856"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Ermindo Luiz Setti",
+        "zipcode": "89504-853"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Angelina Bernardi Kuczer",
+        "zipcode": "89504-850"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Ituporanga",
+        "zipcode": "89504-847"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Joaquim Fernandes de Lara",
+        "zipcode": "89504-844"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rodovia Presidente Costa e Silva",
+        "zipcode": "89504-841"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Jordão Granemann",
+        "zipcode": "89504-838"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Santa Cecília",
+        "zipcode": "89504-835"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Tangará",
+        "zipcode": "89504-832"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Taió",
+        "zipcode": "89504-829"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Sulemar Silveira",
+        "zipcode": "89505-044"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Vereador Eri Dupont",
+        "zipcode": "89505-038"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Adonis Homero Gonçalves Cordeiro",
+        "zipcode": "89505-032"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Laurindo Veronese",
+        "zipcode": "89504-826"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Florianópolis",
+        "zipcode": "89504-823"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Criciúma",
+        "zipcode": "89504-796"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Bruno Cachoeira",
+        "zipcode": "89504-793"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Manoel Pedro Driessen",
+        "zipcode": "89504-790"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Solon Coelho de Souza",
+        "zipcode": "89504-787"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Alcir Francisco Zandavalli",
+        "zipcode": "89504-784"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Araranguá",
+        "zipcode": "89504-778"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Imaruí",
+        "zipcode": "89504-772"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rodovia Daniel Lessing",
+        "zipcode": "89505-003"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Ricieri Crivilatti",
+        "zipcode": "89504-868"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Pasqual Rotta",
+        "zipcode": "89504-820"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Ibirama",
+        "zipcode": "89504-775"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Augusto Santo Perret",
+        "zipcode": "89504-766"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Afif João El Messane",
+        "zipcode": "89504-763"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Padre Thomas Pieters",
+        "zipcode": "89504-757"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Narciso Basso",
+        "zipcode": "89504-748"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Itaiópolis",
+        "zipcode": "89504-742"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Itajaí",
+        "zipcode": "89504-739"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Itapiranga",
+        "zipcode": "89504-736"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Joinville",
+        "zipcode": "89504-733"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Laguna",
+        "zipcode": "89504-730"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Tubarão",
+        "zipcode": "89504-699"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Palhoça",
+        "zipcode": "89504-696"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua José Antonio Salamoni",
+        "zipcode": "89504-693"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Criciúma",
+        "zipcode": "89504-679"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Florianópolis",
+        "zipcode": "89504-673"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Irmão Tomaz",
+        "zipcode": "89504-670"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Biguaçu",
+        "zipcode": "89504-667"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Bom Pastor",
+        "zipcode": "89504-664"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Joinville",
+        "zipcode": "89504-661"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Otto Lessing",
+        "zipcode": "89504-760"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Sadi Antonio Cofferri",
+        "zipcode": "89504-754"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Claudino Picoloto",
+        "zipcode": "89504-751"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Itá",
+        "zipcode": "89504-745"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Avenida Fahdo Thomé",
+        "zipcode": "89504-690"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Avenida Fahdo Thomé",
+        "zipcode": "89504-685"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Concórdia",
+        "zipcode": "89504-682"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Brusque",
+        "zipcode": "89504-676"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Américo Ballatka",
+        "zipcode": "89504-652"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Pedro Francisco Foresti",
+        "zipcode": "89504-649"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Tubarão",
+        "zipcode": "89504-634"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Orleans",
+        "zipcode": "89504-631"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Sebastião Carneiro",
+        "zipcode": "89504-625"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Tomaz Padilha",
+        "zipcode": "89504-619"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Urussanga",
+        "zipcode": "89504-616"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Avenida Fahdo Thomé",
+        "zipcode": "89504-602"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Equador",
+        "zipcode": "89504-596"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Presciliana Aires de Arruda Maia",
+        "zipcode": "89504-593"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Herculano Coelho de Souza",
+        "zipcode": "89504-590"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Ernesto Barboza Roesch",
+        "zipcode": "89504-575"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Bertha Groth",
+        "zipcode": "89504-572"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rodovia Daniel Lessing",
+        "zipcode": "89504-569"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Cecilia Maleske",
+        "zipcode": "89504-566"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Afif João El Messane",
+        "zipcode": "89504-563"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Alexandre Piccoli",
+        "zipcode": "89504-646"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua João Foresti",
+        "zipcode": "89504-643"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Laguna",
+        "zipcode": "89504-640"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Camboriú",
+        "zipcode": "89504-637"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Tijucas",
+        "zipcode": "89504-628"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Alexandre Pegoraro",
+        "zipcode": "89504-655"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Herculano Coelho de Souza",
+        "zipcode": "89504-610"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Herculano Coelho de Souza",
+        "zipcode": "89504-599"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Áustria",
+        "zipcode": "89504-554"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Panamá",
+        "zipcode": "89504-551"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Colômbia",
+        "zipcode": "89504-545"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Uruguai",
+        "zipcode": "89504-542"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Peru",
+        "zipcode": "89504-539"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Bolívia",
+        "zipcode": "89504-533"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Chile",
+        "zipcode": "89504-530"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Argentina",
+        "zipcode": "89504-548"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Paraguai",
+        "zipcode": "89504-527"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Adolfo Franz Groth",
+        "zipcode": "89504-524"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua João Augustinho da Luz Netto",
+        "zipcode": "89504-521"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Doutor Altamiro Guimarães",
+        "zipcode": "89504-518"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Poeta J Amazonas",
+        "zipcode": "89504-515"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Jacob Miguel Zanchettin",
+        "zipcode": "89504-512"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Miguel Matos de Figueiredo",
+        "zipcode": "89504-509"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Tio Balduíno",
+        "zipcode": "89504-503"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Miguel Couto",
+        "zipcode": "89504-500"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Champagnat",
+        "street": "Rua Alfredo Cachoeira",
+        "zipcode": "89503-530"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Domingos Furtado",
+        "zipcode": "89503-480"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Cestélio Solimann",
+        "zipcode": "89503-430"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Joinville",
+        "zipcode": "89503-426"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Américo Ballatka",
+        "zipcode": "89503-418"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Alfredo Cachoeira",
+        "zipcode": "89503-414"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Dinamarca",
+        "zipcode": "89503-410"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua São Bento do Sul",
+        "zipcode": "89504-711"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Israel",
+        "zipcode": "89503-398"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Canadá",
+        "zipcode": "89503-386"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Justina Bassegio Sorgatto",
+        "zipcode": "89503-378"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Domingos Sorgatto",
+        "zipcode": "89503-374"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Joanna Annhice Santin Dalmas",
+        "zipcode": "89503-370"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Holanda",
+        "zipcode": "89503-366"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Augusto Driessen",
+        "zipcode": "89503-358"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Palmira de Paula Carneiro",
+        "zipcode": "89503-354"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Itália",
+        "zipcode": "89503-350"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Itália",
+        "zipcode": "89503-342"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Antonina Gluszczak",
+        "zipcode": "89503-338"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Geny de Jesus Afonso Carneiro",
+        "zipcode": "89503-334"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89503-330"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Santos Mario Scapineli",
+        "zipcode": "89503-272"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Tomaz Padilha",
+        "zipcode": "89503-382"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Tomaz Wisniewski",
+        "zipcode": "89503-275"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Alemanha",
+        "zipcode": "89503-346"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Champagnat",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89503-640"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Champagnat",
+        "street": "Rodovia Daniel Lessing",
+        "zipcode": "89503-575"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Champagnat",
+        "street": "Rua Lino Sperotto",
+        "zipcode": "89503-555"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Champagnat",
+        "street": "Avenida Fahdo Thomé",
+        "zipcode": "89503-550"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Albina Maria Biscaro Zardo",
+        "zipcode": "89503-460"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Macieira",
+        "zipcode": "89503-422"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Bélgica",
+        "zipcode": "89503-406"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Estados Unidos",
+        "zipcode": "89503-402"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Líbano",
+        "zipcode": "89503-394"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Helena Wisniewski",
+        "zipcode": "89503-263"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Silvestre Petrykowski",
+        "zipcode": "89503-244"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua José Cezario Guzzi",
+        "zipcode": "89503-235"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Savoia Assef",
+        "zipcode": "89503-232"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Augusto Xavier Paes",
+        "zipcode": "89503-226"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Izidoro Belotto",
+        "zipcode": "89503-223"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Luiz Caetano Francio",
+        "zipcode": "89503-220"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Avenida Antonio Comazzetto",
+        "zipcode": "89503-182"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Joaquim Ribeiro dos Santos",
+        "zipcode": "89503-176"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Arestides Moriggi",
+        "zipcode": "89503-241"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Iracema Maria Gomes dos Santos",
+        "zipcode": "89503-179"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Hermínio Alves de Morais",
+        "zipcode": "89503-173"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Vergínia Scapineli",
+        "zipcode": "89503-266"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Romulo Pereira de Souza",
+        "zipcode": "89503-260"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Estefano Boiko",
+        "zipcode": "89503-229"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Vital Antonio Almeida",
+        "zipcode": "89503-149"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Vitório Chiarello",
+        "zipcode": "89503-135"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Gentil Piccoli",
+        "zipcode": "89503-132"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Luiza DAmbroz Faoro",
+        "zipcode": "89503-129"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Martinho Inácio da Trindade",
+        "zipcode": "89503-126"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Paulo Veiga",
+        "zipcode": "89503-123"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Adão Kostantiuk",
+        "zipcode": "89503-120"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Tiradentes",
+        "zipcode": "89503-094"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Paulino Leão",
+        "zipcode": "89503-091"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Cruz e Souza",
+        "zipcode": "89503-085"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Paulo Castelli",
+        "zipcode": "89503-082"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Hugo Honaiser",
+        "zipcode": "89503-070"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Marechal Hermes",
+        "zipcode": "89503-061"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Domingos Figuerôa",
+        "zipcode": "89503-055"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Ivan José Bolson",
+        "zipcode": "89503-052"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Marcio Adriano Leite",
+        "zipcode": "89503-046"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Jonathas Isac Olienik",
+        "zipcode": "89503-043"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Avenida Caetano Balvedi",
+        "zipcode": "89503-024"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Padre Feijó",
+        "zipcode": "89503-021"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Presidente Kennedy",
+        "zipcode": "89503-018"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Presidente Castelo Branco",
+        "zipcode": "89503-015"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Irmão Guido Gabriel",
+        "zipcode": "89503-012"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Hercílio Luz",
+        "zipcode": "89503-009"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Alcides Tombini",
+        "zipcode": "89503-006"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Orestes Pereira Gomes",
+        "zipcode": "89503-003"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua São Francisco de Assis",
+        "zipcode": "89503-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Ricardo Fendt",
+        "zipcode": "89503-170"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89503-155"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89503-152"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Vitório Chiarello",
+        "zipcode": "89503-143"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Francisco Assis Bejamini",
+        "zipcode": "89503-088"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Pinheiro Machado",
+        "zipcode": "89503-079"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Lourival Elyas",
+        "zipcode": "89503-049"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Hilário Baú",
+        "zipcode": "89503-040"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua José Bonifácio",
+        "zipcode": "89503-073"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Serra do Irani",
+        "zipcode": "89501-441"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Serra do Rio do Rastro",
+        "zipcode": "89501-438"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua João Carlim do Prado",
+        "zipcode": "89501-417"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua João Maria Visloski",
+        "zipcode": "89501-414"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Fernando Turatti",
+        "zipcode": "89501-411"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Jucely Carlos França",
+        "zipcode": "89501-408"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua José Vilmar Monteiro",
+        "zipcode": "89501-405"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Felisberto Custódio de Oliveira",
+        "zipcode": "89501-402"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Vitor Lezan",
+        "zipcode": "89501-399"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Tereza Diva Garcia",
+        "zipcode": "89501-396"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Carlindo de Paula",
+        "zipcode": "89501-393"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Guilherme Lauro Rupp",
+        "zipcode": "89501-390"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Pedro Mello",
+        "zipcode": "89501-340"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Avenida Albino Phelippe Potrich",
+        "zipcode": "89501-335"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Tamoio",
+        "zipcode": "89501-330"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Goitacá",
+        "zipcode": "89501-325"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Tupiniquim",
+        "zipcode": "89501-320"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Xavantes",
+        "zipcode": "89501-315"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Ianomâni",
+        "zipcode": "89501-310"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Tremembé",
+        "zipcode": "89501-305"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Potiguar",
+        "zipcode": "89501-300"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Pataxó",
+        "zipcode": "89501-295"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Juruna",
+        "zipcode": "89501-290"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Carijó",
+        "zipcode": "89501-285"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Risoleta Lemos Maia",
+        "zipcode": "89501-205"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Dilma Deboni Petry",
+        "zipcode": "89501-202"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Floriano Wozny",
+        "zipcode": "89501-199"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Bernardina Gonçalves de Oliveira Lopes",
+        "zipcode": "89501-196"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua João Thives Sobrinho",
+        "zipcode": "89501-193"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Sebastião Antônio de Souza",
+        "zipcode": "89501-190"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Abílio Franco",
+        "zipcode": "89501-032"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Serra Geral",
+        "zipcode": "89501-432"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Hercélio Tibias",
+        "zipcode": "89501-420"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Caiapós",
+        "zipcode": "89501-280"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Avá",
+        "zipcode": "89501-265"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Nelson Eugênio Busato",
+        "zipcode": "89501-260"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Nelson Eugênio Busato",
+        "zipcode": "89501-208"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua das Azaléias",
+        "zipcode": "89501-024"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua das Violetas",
+        "zipcode": "89501-020"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua das Vitórias",
+        "zipcode": "89501-016"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua das Primaveras",
+        "zipcode": "89501-012"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua das Orquídeas",
+        "zipcode": "89501-008"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua João Maria de Agostini",
+        "zipcode": "89500-791"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Olegário Ramos",
+        "zipcode": "89500-788"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Agostinho Saraiva",
+        "zipcode": "89500-785"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Antônio Tavares Júnior",
+        "zipcode": "89500-782"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua José Maria",
+        "zipcode": "89500-779"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Serra do Espigão",
+        "zipcode": "89501-429"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Gilberto Piolla da Silva",
+        "zipcode": "89501-426"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua das Tulipas",
+        "zipcode": "89501-004"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Maria Rosa",
+        "zipcode": "89500-773"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Bonifácio José dos Santos",
+        "zipcode": "89500-770"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Elias de Moraes",
+        "zipcode": "89500-767"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Xapecó",
+        "zipcode": "89500-338"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Adeodato Manoel Ramos",
+        "zipcode": "89500-764"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Eusébia Ferreira dos Santos",
+        "zipcode": "89500-761"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Ivete Zini",
+        "zipcode": "89500-749"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Victoria Ançay Portela",
+        "zipcode": "89500-746"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Otávio José Leite",
+        "zipcode": "89500-740"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Julia Dalita Stacke DAgostini",
+        "zipcode": "89500-585"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89500-580"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89500-570"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Abdalla Elias Farfud",
+        "zipcode": "89500-536"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Maria Benta de Lima",
+        "zipcode": "89500-533"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Rachide Abdalla",
+        "zipcode": "89500-530"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Amadeu Lizott",
+        "zipcode": "89500-497"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua João Manoel Luiz Osório",
+        "zipcode": "89500-494"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Márcio Soares",
+        "zipcode": "89500-485"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Luiz Carlos Andriola",
+        "zipcode": "89500-482"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Nicanor Gonçalves Cordeiro",
+        "zipcode": "89500-479"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Francisco Driessen",
+        "zipcode": "89500-476"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Teodora",
+        "zipcode": "89500-758"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Pedro Driessen Filho",
+        "zipcode": "89500-470"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Ernesto Borchate",
+        "zipcode": "89500-443"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Adelia Thomé João",
+        "zipcode": "89500-440"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua José Edgar Thomé",
+        "zipcode": "89500-437"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Francisco Novaski",
+        "zipcode": "89500-434"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Abdalla João",
+        "zipcode": "89500-431"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Marcos Gonçalves Cordeiro",
+        "zipcode": "89500-428"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Hermínio Maffessoni",
+        "zipcode": "89500-425"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Simpliciano Corrêa de Miranda",
+        "zipcode": "89500-422"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Fraiburgo",
+        "zipcode": "89500-416"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Rio das Antas",
+        "zipcode": "89500-413"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Sebastião G do Nascimento",
+        "zipcode": "89500-410"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Timbó",
+        "zipcode": "89500-404"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Aristides Malfati",
+        "zipcode": "89500-401"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Paulino Leão",
+        "zipcode": "89500-398"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Basílio Ciffro",
+        "zipcode": "89500-395"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Hugo Torres Cruz",
+        "zipcode": "89500-392"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Miguel Cury",
+        "zipcode": "89500-302"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Henrique Júlio Berger",
+        "zipcode": "89500-386"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Avenida Comendador Selvino Caramori",
+        "zipcode": "89500-383"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Contestado",
+        "zipcode": "89500-380"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Heraldo José Maffessoni",
+        "zipcode": "89500-377"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Jair Carlos Rigo",
+        "zipcode": "89500-374"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Ernesto Bolson",
+        "zipcode": "89500-371"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Francisco Alonso de Souza",
+        "zipcode": "89500-755"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Felipe João",
+        "zipcode": "89500-752"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Atílio Basquera",
+        "zipcode": "89500-491"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Sebastiana de Paula Carneiro Driessen",
+        "zipcode": "89500-473"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua João Bordignon",
+        "zipcode": "89500-407"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Azir de Souza Santos",
+        "zipcode": "89500-368"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Manoel de Souza Santos",
+        "zipcode": "89500-365"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Francisco de Almeida",
+        "zipcode": "89500-500"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Eduardo Bento",
+        "zipcode": "89500-359"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Deoclides Pedro Bom",
+        "zipcode": "89500-356"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Henriqueta Tedesco",
+        "zipcode": "89500-353"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Doutor Moacir Sampaio",
+        "zipcode": "89500-350"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Elias Biasi",
+        "zipcode": "89500-347"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Estefano Kimak",
+        "zipcode": "89500-344"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Ângelo Caovilla",
+        "zipcode": "89500-341"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Joaçaba",
+        "zipcode": "89500-335"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Ângelo Caovilla",
+        "zipcode": "89500-329"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Lajes",
+        "zipcode": "89500-326"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Terezina",
+        "zipcode": "89500-317"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Professora Luiza Raisel",
+        "zipcode": "89500-311"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Manoel Luiz Cordeiro",
+        "zipcode": "89500-305"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Brasília",
+        "zipcode": "89500-299"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "89500-296"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Capitulino de Moraes",
+        "zipcode": "89500-293"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Visconde de Mauá",
+        "zipcode": "89500-259"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Doutor Moacir Sampaio",
+        "zipcode": "89500-253"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Aquiles de Paula Linhares",
+        "zipcode": "89500-250"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Travessa Francisco Pizzaro",
+        "zipcode": "89500-238"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Egídio Carpes",
+        "zipcode": "89500-235"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Doutor Moacir Sampaio",
+        "zipcode": "89500-232"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua João Antônio Zanchi",
+        "zipcode": "89500-229"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Capitulino de Moraes",
+        "zipcode": "89500-226"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "89500-220"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Ernesto Martello",
+        "zipcode": "89500-217"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Adelmyr Pressanto",
+        "zipcode": "89500-214"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Maturino Borges da Luz",
+        "zipcode": "89500-211"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua 13 de Maio",
+        "zipcode": "89500-208"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "89500-205"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua 1º de Maio",
+        "zipcode": "89500-202"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Victor Baptista Adami",
+        "zipcode": "89500-199"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Victor Baptista Adami",
+        "zipcode": "89500-196"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua João Pedro Rodrigues",
+        "zipcode": "89500-193"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Américo Wordell",
+        "zipcode": "89500-184"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Ernesto Kirschner",
+        "zipcode": "89500-181"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Elias Abdalla",
+        "zipcode": "89500-172"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Henrique Cruz Garcia",
+        "zipcode": "89500-169"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Natal",
+        "zipcode": "89500-314"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Xaxim",
+        "zipcode": "89500-308"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Coronel Cid Gonzaga",
+        "zipcode": "89500-190"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua General Sampaio",
+        "zipcode": "89500-166"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Atílio Faoro",
+        "zipcode": "89500-163"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua João Remilio Rigo",
+        "zipcode": "89500-187"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Canoinhas",
+        "zipcode": "89500-320"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Maria Deomar Costa Neves",
+        "zipcode": "89500-178"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Rosa Dalla Chiesa Baú",
+        "zipcode": "89500-175"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Henrique Júlio Berger",
+        "zipcode": "89500-223"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Fernando Machado",
+        "zipcode": "89500-157"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Fernando Machado",
+        "zipcode": "89500-154"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "89500-145"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Victor Baptista Adami",
+        "zipcode": "89500-142"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Victor Baptista Adami",
+        "zipcode": "89500-139"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Travessa General Osório",
+        "zipcode": "89500-136"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Sete de Setembro",
+        "zipcode": "89500-133"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Santa Catarina",
+        "zipcode": "89500-121"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Emilio Joaquim",
+        "zipcode": "89500-115"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Ozório Timmermann",
+        "zipcode": "89500-112"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Benedito Ponciano",
+        "zipcode": "89500-109"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Luiz Caramori",
+        "zipcode": "89500-106"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Aristeu Pôrto Lopes",
+        "zipcode": "89500-103"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua General Rondon",
+        "zipcode": "89500-100"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "89500-091"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Carlos Sperança",
+        "zipcode": "89500-088"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Carlos Sperança",
+        "zipcode": "89500-085"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Benjamin Constant",
+        "zipcode": "89500-082"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Curitibanos",
+        "zipcode": "89500-079"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Nereu Ramos",
+        "zipcode": "89500-076"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Campos Novos",
+        "zipcode": "89500-073"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua 25 de Março",
+        "zipcode": "89500-061"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Anita Garibaldi",
+        "zipcode": "89500-058"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Luiz Andreolla",
+        "zipcode": "89500-055"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Onio Pedrassani",
+        "zipcode": "89500-049"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Riachuelo",
+        "zipcode": "89500-046"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Lauro Marins",
+        "zipcode": "89500-043"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua José Boiteux",
+        "zipcode": "89500-040"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "89500-037"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Santa Catarina",
+        "zipcode": "89500-124"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Doutor Moacir Sampaio",
+        "zipcode": "89500-070"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Prudente de Morais",
+        "zipcode": "89500-067"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Vitor Meireles",
+        "zipcode": "89500-034"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Irmão Guido Gabriel",
+        "zipcode": "89500-031"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Doutor Altamiro Guimarães",
+        "zipcode": "89500-025"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "89500-019"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "89500-016"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Miguel Couto",
+        "zipcode": "89500-013"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "89500-007"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua São Francisco de Assis",
+        "zipcode": "89500-004"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Herculano Coelho de Souza",
+        "zipcode": "89500-001"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Raul Ruppel",
+        "zipcode": "89511-151"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua José Gioppo",
+        "zipcode": "89507-516"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Adolfo Franz Groth",
+        "zipcode": "89506-111"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Wilamir Antônio Giaretta",
+        "zipcode": "89503-146"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Siegfried Helmuth Lührs",
+        "zipcode": "89500-052"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Quintino Bocaiuva",
+        "zipcode": "89500-022"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Marechal Deodoro",
+        "zipcode": "89500-010"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "89506-502"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "89506-051"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Conselheiro Mafra",
+        "zipcode": "89500-130"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Rio Grande do Sul",
+        "zipcode": "89506-493"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Porto União",
+        "zipcode": "89500-151"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua José Lindacir Taborda",
+        "zipcode": "89501-423"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Augusto de Paula Carneiro",
+        "zipcode": "89511-220"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Área Rural de Caçador",
+        "street": "Área Rural",
+        "zipcode": "89514-899"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Antônio Miguel Sulsbach",
+        "zipcode": "89511-260"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua João DAgostini",
+        "zipcode": "89511-139"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Alexandre Alves Guerin",
+        "zipcode": "89511-027"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Lucia Donida Santi",
+        "zipcode": "89510-848"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Alberto Zanatta",
+        "zipcode": "89510-815"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Osni Amaro Romão",
+        "zipcode": "89511-009"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Vergilio Antonio da Silva",
+        "zipcode": "89510-800"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Avenida Engenheiro Lourenço Faoro",
+        "zipcode": "89510-770"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Martello",
+        "street": "Rua Nelson Eugênio Busato",
+        "zipcode": "89510-635"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Victor Hugo Petry",
+        "zipcode": "89510-534"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Avenida Comendador Selvino Caramori",
+        "zipcode": "89510-528"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua José Manoel da Silva",
+        "zipcode": "89510-510"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Alto Bonito",
+        "street": "Rua Ângelo Caovilla",
+        "zipcode": "89510-501"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "São Cristóvão",
+        "street": "Rua Silvério Corrêa dos Santos",
+        "zipcode": "89509-645"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Plínio Morgenstern",
+        "zipcode": "89509-395"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Antônio Rotta",
+        "zipcode": "89509-389"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Rancho Fundo",
+        "street": "Rua Curitiba",
+        "zipcode": "89509-263"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Curitiba",
+        "zipcode": "89509-177"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua José Gioppo",
+        "zipcode": "89509-045"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Curitiba",
+        "zipcode": "89509-039"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "89509-021"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Olindo Mocinelli",
+        "zipcode": "89507-740"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Nossa Senhora Salete",
+        "street": "Rua Romeu Sorgatto",
+        "zipcode": "89507-712"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Coronel Cid Gonzaga",
+        "zipcode": "89509-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Evaldo Luiz Fontana",
+        "zipcode": "89507-567"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Gioppo",
+        "street": "Rua Emília Gioppo Brasil",
+        "zipcode": "89507-528"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Kurtz",
+        "street": "Avenida Coronel Aristiliano Ramos",
+        "zipcode": "89507-061"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Humberto Busatto",
+        "zipcode": "89507-004"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Abílio Viero",
+        "zipcode": "89506-656"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bello",
+        "street": "Rua Senador Salgado Filho",
+        "zipcode": "89509-042"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Humberto Busatto",
+        "zipcode": "89507-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Inácio Alves da Silva",
+        "zipcode": "89506-644"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua José Bento Tristão",
+        "zipcode": "89506-514"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Antonio Rossetto",
+        "zipcode": "89506-457"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua Marquês de Olinda",
+        "zipcode": "89506-427"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Santa Catarina",
+        "street": "Rua José Ribeiro dos Santos",
+        "zipcode": "89506-421"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua João Augustinho da Luz Netto",
+        "zipcode": "89506-120"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Reinaldo Maffessoni",
+        "zipcode": "89506-006"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Cecilia Maleske",
+        "zipcode": "89505-059"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Alfredo Gioppo",
+        "zipcode": "89505-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Salvador Antunes Abrão",
+        "zipcode": "89504-859"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Der",
+        "street": "Rua Santo Rossetti",
+        "zipcode": "89506-012"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Santina Dagani Menin",
+        "zipcode": "89505-047"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Carlos Dalmas",
+        "zipcode": "89504-781"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Áustria",
+        "zipcode": "89504-769"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Inglaterra",
+        "zipcode": "89503-390"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Macieira",
+        "zipcode": "89504-658"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua São Francisco de Assis",
+        "zipcode": "89504-613"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Erna Inge Keller",
+        "zipcode": "89504-560"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Augusto Santo Perret",
+        "zipcode": "89504-557"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Venezuela",
+        "zipcode": "89504-536"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Reunidas",
+        "street": "Rua Reinaldo Maffessoni",
+        "zipcode": "89504-506"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Sorgatto",
+        "street": "Rua Portugal",
+        "zipcode": "89503-362"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Agostinho Diedrich",
+        "zipcode": "89503-269"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Napoleão Ribeiro dos Santos",
+        "zipcode": "89503-238"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Figueroa",
+        "street": "Rua Martinho Inácio da Trindade",
+        "zipcode": "89503-140"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua João Pedro da Silva Brasil",
+        "zipcode": "89503-058"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Domingos Sorgatto",
+        "zipcode": "89503-027"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Serra da Pedra Branca",
+        "zipcode": "89501-444"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Serra da Taquara Verde",
+        "zipcode": "89501-435"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Milthon Antonio Zampronio",
+        "zipcode": "89503-076"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Caeté",
+        "zipcode": "89501-275"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rodovia Comendador Primo Tedesco",
+        "zipcode": "89501-028"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Aleixo Gonçalves de Lima",
+        "zipcode": "89500-776"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rua Adalberto Manoel Petry",
+        "zipcode": "89500-743"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Dom Luiz Colussi",
+        "zipcode": "89500-488"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Sucesso",
+        "street": "Rodovia Comendador Primo Tedesco",
+        "zipcode": "89501-000"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Avenida Comendador Selvino Caramori",
+        "zipcode": "89500-446"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Henrique Júlio Berger",
+        "zipcode": "89500-389"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Olivio Abatti",
+        "zipcode": "89500-362"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Ângelo Paganelli",
+        "zipcode": "89500-332"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Henrique Júlio Berger",
+        "zipcode": "89500-290"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Prudente de Morais",
+        "zipcode": "89500-256"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Atílio Faoro",
+        "zipcode": "89500-160"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "89500-148"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Avenida Barão do Rio Branco",
+        "zipcode": "89500-094"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua São Francisco de Assis",
+        "zipcode": "89500-028"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Albino Putti",
+        "zipcode": "89500-419"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Visconde de Mauá",
+        "zipcode": "89500-064"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Henriette Lessing",
+        "zipcode": "89505-077"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Champagnat",
+        "street": "Rodovia Municipal Honorino Moro",
+        "zipcode": "89503-645"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Municípios",
+        "street": "Rua Jaraguá do Sul",
+        "zipcode": "89504-708"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Bom Jesus",
+        "street": "Rua Mafra",
+        "zipcode": "89504-622"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Berger",
+        "street": "Rua Videira",
+        "zipcode": "89500-323"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Paraíso",
+        "street": "Rua Vitor Konder",
+        "zipcode": "89503-067"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": null,
+        "street": "Rodovia SC",
+        "zipcode": "89500-993"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Lauro Müller",
+        "zipcode": "89500-118"
+    },
+    {
+        "city": "Caçador",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Conselheiro Mafra",
+        "zipcode": "89500-127"
+    }
+]

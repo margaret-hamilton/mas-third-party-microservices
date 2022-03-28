@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Dionísio Cerqueira",
+        "state": "SC",
+        "district": "Centro",
+        "street": "Rua Presidente Vargas 619",
+        "zipcode": "89950-970"
+    },
+    {
+        "city": "Dionísio Cerqueira",
+        "state": "SC",
+        "district": "",
+        "street": "",
+        "zipcode": "89950-000"
+    },
+    {
+        "city": "Dionísio Cerqueira",
+        "state": "SC",
+        "district": null,
+        "street": "Rua Osvaldo Kunsler",
+        "zipcode": "89950-990"
+    }
+]

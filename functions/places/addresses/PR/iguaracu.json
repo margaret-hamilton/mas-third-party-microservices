@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Iguaraçu",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Avenida Brasil 317",
+        "zipcode": "86750-970"
+    },
+    {
+        "city": "Iguaraçu",
+        "state": "PR",
+        "district": null,
+        "street": null,
+        "zipcode": "86750-000"
+    },
+    {
+        "city": "Iguaraçu",
+        "state": "PR",
+        "district": null,
+        "street": "Rua Principal",
+        "zipcode": "86750-990"
+    }
+]

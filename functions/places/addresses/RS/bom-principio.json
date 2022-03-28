@@ -1,0 +1,51 @@
+[
+    {
+        "city": "Bom Princípio",
+        "state": "RS",
+        "district": "Centro",
+        "street": "Rua Vinte e Cinco de Julho",
+        "zipcode": "95765-970"
+    },
+    {
+        "city": "Bom Princípio",
+        "state": "RS",
+        "district": "",
+        "street": "",
+        "zipcode": "95765-000"
+    },
+    {
+        "city": "Bom Princípio",
+        "state": "RS",
+        "district": null,
+        "street": "Rua São Luís",
+        "zipcode": "95765-993"
+    },
+    {
+        "city": "Bom Princípio",
+        "state": "RS",
+        "district": null,
+        "street": "Rua José Rech",
+        "zipcode": "95765-991"
+    },
+    {
+        "city": "Bom Princípio",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Paraíso",
+        "zipcode": "95765-992"
+    },
+    {
+        "city": "Bom Princípio",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Hugo Afonso Engeroff",
+        "zipcode": "95765-994"
+    },
+    {
+        "city": "Bom Princípio",
+        "state": "RS",
+        "district": null,
+        "street": "Rua Pedro Neis",
+        "zipcode": "95765-990"
+    }
+]

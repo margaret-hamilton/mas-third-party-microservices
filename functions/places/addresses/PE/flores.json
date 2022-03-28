@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Flores",
+        "state": "PE",
+        "district": "Vila Sitio dos Nunes",
+        "street": "Rua Padre Dario 44",
+        "zipcode": "56860-970"
+    },
+    {
+        "city": "Flores",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Benjamin Constant 8",
+        "zipcode": "56850-970"
+    },
+    {
+        "city": "Flores",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56850-000"
+    },
+    {
+        "city": "Flores",
+        "state": "PE",
+        "district": "Povoado de Fátima",
+        "street": "Rua Honorio Batista 40",
+        "zipcode": "56850-971"
+    }
+]

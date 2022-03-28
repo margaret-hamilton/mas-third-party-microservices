@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Primavera",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Praça Marechal Castelo Branco 142",
+        "zipcode": "55510-970"
+    },
+    {
+        "city": "Primavera",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "55510-000"
+    },
+    {
+        "city": "Primavera",
+        "state": "PE",
+        "district": null,
+        "street": "Rua Dulce de Oliveira nº 149",
+        "zipcode": "55510-990"
+    }
+]

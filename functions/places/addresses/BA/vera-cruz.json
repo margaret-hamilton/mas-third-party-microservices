@@ -1,0 +1,58 @@
+[
+    {
+        "city": "Vera Cruz",
+        "state": "BA",
+        "district": "Baiacu",
+        "street": "Rua Lucila Borges da Silva 93",
+        "zipcode": "44470-973"
+    },
+    {
+        "city": "Vera Cruz",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua da Rodagem 57",
+        "zipcode": "44470-970"
+    },
+    {
+        "city": "Vera Cruz",
+        "state": "BA",
+        "district": "Gameleira",
+        "street": "Avenida Central 336",
+        "zipcode": "44470-974"
+    },
+    {
+        "city": "Vera Cruz",
+        "state": "BA",
+        "district": "Gamboa",
+        "street": "Rua Vinte e Oito de Maio s/n",
+        "zipcode": "44470-971"
+    },
+    {
+        "city": "Vera Cruz",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "44470-000"
+    },
+    {
+        "city": "Vera Cruz",
+        "state": "BA",
+        "district": null,
+        "street": "Travessa Recuada",
+        "zipcode": "44478-990"
+    },
+    {
+        "city": "Vera Cruz",
+        "state": "BA",
+        "district": null,
+        "street": "Rua São Bento",
+        "zipcode": "44470-990"
+    },
+    {
+        "city": "Vera Cruz",
+        "state": "BA",
+        "district": "Barra do Gil",
+        "street": "Rua das Flores s/n",
+        "zipcode": "44470-972"
+    }
+]

@@ -1,0 +1,6659 @@
+[
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Sao Rafael",
+        "zipcode": "78130-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Celestina Ferreira (Santa Maria I)",
+        "zipcode": "78128-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua I (Planalto Beira Rio)",
+        "zipcode": "78128-716"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Pedro Lima (Lot Colinas Verdejantes)",
+        "zipcode": "78145-408"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Nepal (Lot Nova Era)",
+        "zipcode": "78130-458"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Dr Antonio Lins",
+        "zipcode": "78138-420"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua T J De Almeida",
+        "zipcode": "78155-258"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Macau",
+        "zipcode": "78160-225"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Samambaia",
+        "zipcode": "78155-450"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Travessa Quatro (Lot Colinas Verdejantes)",
+        "zipcode": "78145-436"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Quatro (Jd Vitoria Regia)",
+        "zipcode": "78132-165"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Avenida Cerrados (Jd Cerrados)",
+        "zipcode": "78115-010"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Travessa Vinte E Cinco De Dezembro",
+        "zipcode": "78110-175"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Izidoro F Da Silva (Lot Colinas Verdejantes)",
+        "zipcode": "78145-794"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Sessenta E Cinco (Costa Verde)",
+        "zipcode": "78128-435"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Trinta E Cinco (Jd Costa Verde)",
+        "zipcode": "78128-580"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Deputado Oscar Soares (Lot Sao Simao)",
+        "zipcode": "78148-410"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Maria Metelo (Alameda)",
+        "zipcode": "78115-002"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Avenida T (Jd Novo Horizonte)",
+        "zipcode": "78130-200"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presid. Manoel De Carvalho (Cohab Cristo Rei)",
+        "zipcode": "78120-100"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Avenida Manoel Henrique Pereira (Lot Maria Izabel)",
+        "zipcode": "78150-520"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua B (Planalto Beira Rio)",
+        "zipcode": "78128-702"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Pocone (Jd Bela Vista)",
+        "zipcode": "78155-255"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Nossa Senhora Auxiliadora (Jd Novo Horizonte)",
+        "zipcode": "78130-580"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Quarenta E Cinco",
+        "zipcode": "78160-262"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Rua Marechal Floriano Peixoto",
+        "zipcode": "78125-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Lisboa (Lot Maria Izabel)",
+        "zipcode": "78150-580"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Napoleao Jose Da Silva (Lot Colinas Verd.)",
+        "zipcode": "78145-406"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua H (Prq Das Mangabeiras)",
+        "zipcode": "78158-460"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Quatro (Cohab Primavera)",
+        "zipcode": "78145-045"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Antonio Da Crus Simoes (Lot Maria Izabel)",
+        "zipcode": "78150-380"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Sete (Jd Vitoria Regia)",
+        "zipcode": "78132-130"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Avenida Luiz Jose Da Silva",
+        "zipcode": "78150-100"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Nove (Cohab Dom Orlando Chaves)",
+        "zipcode": "78118-218"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Muritiba",
+        "zipcode": "78160-090"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Coronel Iporan Nunes",
+        "zipcode": "78135-180"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Recife (Tremendao)",
+        "zipcode": "78110-790"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Setenta",
+        "zipcode": "78148-666"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Avenida Elvira Monteiro (Costa Verde)",
+        "zipcode": "78128-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua E (Jd Ipanema)",
+        "zipcode": "78128-734"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Ipe",
+        "zipcode": "78155-295"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Joao Nepomuceno",
+        "zipcode": "78145-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Cinquenta E Tres",
+        "zipcode": "78160-490"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Joao Santana Da Costa Campos (Lot Sao Simao)",
+        "zipcode": "78148-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Manoel Santana",
+        "zipcode": "78145-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Curumim",
+        "zipcode": "78155-410"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua D",
+        "zipcode": "78138-550"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sete",
+        "zipcode": "78160-466"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 91 (Jd De Ala)",
+        "zipcode": "78155-128"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Batista Das Neves",
+        "zipcode": "78130-700"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Dez (Jd Vitoria Regia)",
+        "zipcode": "78132-022"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua General Klinger (Jd Ikarai)",
+        "zipcode": "78130-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Izidoro Mendes De Morais (Lot Colinas Verd.)",
+        "zipcode": "78145-796"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Onze (Cohab Dom Orlando Chaves)",
+        "zipcode": "78118-175"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Dois (Lot Adriana)",
+        "zipcode": "78142-080"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Helio Rego (Cohab Cristo Rei)",
+        "zipcode": "78120-140"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Sessenta E Dois (Cohab Primavera)",
+        "zipcode": "78145-125"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua D (Prq Cabo Michel)",
+        "zipcode": "78158-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presid. Luis De Albuquerque (Cohab Cristo Rei",
+        "zipcode": "78120-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dezenove (Santa Maria Ii)",
+        "zipcode": "78128-265"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Figueira Do Foz (Lot Maria Izabel)",
+        "zipcode": "78150-430"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Oceano Atlantico (Prq Industrial Atlantico)",
+        "zipcode": "78150-020"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Porto Alegre (Lot Maria Izabel)",
+        "zipcode": "78150-620"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Oito (Res Cabo Michel)",
+        "zipcode": "78158-255"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua D",
+        "zipcode": "78145-335"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Jacana",
+        "zipcode": "78155-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Vertical",
+        "zipcode": "78110-210"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Urupas",
+        "zipcode": "78138-580"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Sao Jose",
+        "zipcode": "78110-788"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Travessa A",
+        "zipcode": "78140-040"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Beco Projetado 35",
+        "zipcode": "78150-016"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Avenida H",
+        "zipcode": "78155-640"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Bauru",
+        "zipcode": "78160-410"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Inocencia",
+        "zipcode": "78155-355"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Manaus",
+        "zipcode": "78135-745"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 136",
+        "zipcode": "78140-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Travessa Santa Rosa",
+        "zipcode": "78110-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa C (Manga)",
+        "zipcode": "78115-356"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Projetada 2 (Jd Cerrados)",
+        "zipcode": "78115-825"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua K (Jd Ipanema)",
+        "zipcode": "78128-744"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua M (Jd Ipanema)",
+        "zipcode": "78128-748"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Luisinho",
+        "zipcode": "78145-380"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Quatro (Lot Margaridas)",
+        "zipcode": "78142-087"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Oito",
+        "zipcode": "78148-633"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quarenta E Tres",
+        "zipcode": "78148-634"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Parecis",
+        "zipcode": "78138-570"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Luzilandia",
+        "zipcode": "78160-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Miracema",
+        "zipcode": "78160-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Nova Friburgo",
+        "zipcode": "78160-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Travessa Do Pequi",
+        "zipcode": "78110-410"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Miguel Leite",
+        "zipcode": "78110-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Santo Antonio",
+        "zipcode": "78110-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Da Independencia",
+        "zipcode": "78110-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Joao Libano",
+        "zipcode": "78110-140"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Pocone",
+        "zipcode": "78110-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Governador Fernando Correa",
+        "zipcode": "78110-340"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Travessa Benedito Monteiro",
+        "zipcode": "78110-395"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Aeroporto",
+        "street": "Travessa Joao De Arruda Pinto",
+        "zipcode": "78110-010"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Sao Francisco De Assis",
+        "zipcode": "78110-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Tenente Bernado Markoski",
+        "zipcode": "78110-235"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Travessa Humaita",
+        "zipcode": "78110-150"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Travessa Mario Motta",
+        "zipcode": "78110-630"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Doze (Cohab Dom Orlando Chaves)",
+        "zipcode": "78118-235"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Almirante Barroso",
+        "zipcode": "78110-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Aeroporto",
+        "street": "Travessa Da Liberdade",
+        "zipcode": "78110-020"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Toquio",
+        "zipcode": "78110-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Napoleao Jose Da Costa",
+        "zipcode": "78110-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Onze De Junho",
+        "zipcode": "78110-130"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Manuel Francisco De Paula",
+        "zipcode": "78110-220"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Travessa Prof. Joaquim Viana",
+        "zipcode": "78110-245"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Capitao Costa",
+        "zipcode": "78110-180"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Albano Osorio (Cohab Cristo Rei)",
+        "zipcode": "78120-040"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Alencastro (Cohab Cristo Rei)",
+        "zipcode": "78120-050"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Ricardo Jardim",
+        "zipcode": "78120-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Sete (Cohab Dom Orlando Chaves)",
+        "zipcode": "78118-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Joao Povaino",
+        "zipcode": "78120-150"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Manoel Vargas",
+        "zipcode": "78118-120"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Santos Dumont",
+        "zipcode": "78110-040"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Coronel Goncalo De Figueiredo",
+        "zipcode": "78110-030"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Dionisia De Miranda",
+        "zipcode": "78110-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa Dom Orlando Chaves (Manga)",
+        "zipcode": "78115-530"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Luis Guisoni",
+        "zipcode": "78110-265"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Clovis Hugueney",
+        "zipcode": "78110-120"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Travessa Salim Nadaf",
+        "zipcode": "78110-510"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa Nha Sales (Cohab Cristo Rei)",
+        "zipcode": "78120-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua A (Unipark)",
+        "zipcode": "78120-001"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua D (Unipark)",
+        "zipcode": "78120-002"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua F (Unipark)",
+        "zipcode": "78120-004"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Pimenta Bueno (Cohab Cristo Rei)",
+        "zipcode": "78120-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Governador Sampaio Rios (Cohab Cristo Rei)",
+        "zipcode": "78120-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Mariano De Campos Maia (Alameda)",
+        "zipcode": "78115-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Quatro (Cohab Dom Orlando Chaves)",
+        "zipcode": "78118-135"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Gabriel Felfilli",
+        "zipcode": "78118-440"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Gov. Castro De Barros (Cohab Cristo Rei)",
+        "zipcode": "78120-200"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa C (Cohab Dom Orlando Chaves)",
+        "zipcode": "78118-210"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Projetada 3 (Jd Cerrados)",
+        "zipcode": "78115-011"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presid. Cerqueira Caldas (Cohab Cristo Rei)",
+        "zipcode": "78120-015"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Jose Antonio Montes (Santa Maria I)",
+        "zipcode": "78128-238"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presid. Joao Carlos Pimentel",
+        "zipcode": "78120-110"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Ana Francisca De Barros",
+        "zipcode": "78118-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa Da Fe",
+        "zipcode": "78118-450"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Santo Inacio (Jd America)",
+        "zipcode": "78110-784"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Projetada 6 (Jd Cerrados)",
+        "zipcode": "78115-014"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Rua Limoeiro",
+        "zipcode": "78125-740"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Oito (Cohab Dom Orlando Chaves)",
+        "zipcode": "78118-226"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua Comandante Costa",
+        "zipcode": "78125-470"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa Dos (Cohab Cristo Rei) Governadores",
+        "zipcode": "78120-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Projetada 172 (Boa Vista)",
+        "zipcode": "78118-710"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa A (Manga)",
+        "zipcode": "78115-352"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Dois",
+        "zipcode": "78110-810"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Parana (Tremendao)",
+        "zipcode": "78110-782"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Alameda A (Cohab Dom Bosco)",
+        "zipcode": "78118-430"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Trinta E Um De Marco",
+        "zipcode": "78118-760"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Onze De Dezembro",
+        "zipcode": "78118-460"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa B (Manga)",
+        "zipcode": "78115-354"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa Cinco",
+        "zipcode": "78118-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Mato Grosso",
+        "zipcode": "78110-812"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Paulo Magessi (Cohab Cristo Rei)",
+        "zipcode": "78120-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Seis (Cohab Cristo Rei)",
+        "zipcode": "78120-354"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Um",
+        "zipcode": "78110-818"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua E",
+        "zipcode": "78110-794"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua D",
+        "zipcode": "78110-792"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa Onze (Cohab Cristo Rei)",
+        "zipcode": "78120-305"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Sao Goncalo (Jd America)",
+        "zipcode": "78110-778"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Rua Assuncao",
+        "zipcode": "78125-750"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Travessa Do (Lot Alto Da Boa Vista) Nene",
+        "zipcode": "78120-704"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Projetada 4 (Jd Cerrados)",
+        "zipcode": "78115-012"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa Coronel Jose Augusto Gomes",
+        "zipcode": "78115-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Avenida X",
+        "zipcode": "78120-842"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Rua Carlos Castilho",
+        "zipcode": "78125-760"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua Veiga Bastos",
+        "zipcode": "78125-500"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua Cruzmaltina (Jd Beira Rio)",
+        "zipcode": "78120-797"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Travessa Tres (Vila Rica)",
+        "zipcode": "78120-662"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Avenida Eduardo Gomes",
+        "zipcode": "78125-000"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Projetada 5 (Jd Cerrados)",
+        "zipcode": "78115-013"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Dos (Cohab Cristo Rei) Anjos",
+        "zipcode": "78120-285"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Rio Grande Sul",
+        "zipcode": "78110-814"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Anibal Ribeiro (Alameda)",
+        "zipcode": "78115-008"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Rua Um (Jd Uniao)",
+        "zipcode": "78120-357"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Travessa Da Boa Vontade",
+        "zipcode": "78120-755"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Travessa Do (Lot Alto Da Boa Vista) Guedes",
+        "zipcode": "78120-702"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Ezequiel Atanasio (Santa Maria I)",
+        "zipcode": "78128-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Viracopos",
+        "zipcode": "78125-030"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Rua Um (Vila Rica)",
+        "zipcode": "78120-663"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Oito (Santa Maria Ii)",
+        "zipcode": "78128-385"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Rua Guimaraes Rosa",
+        "zipcode": "78125-560"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Quatorze (Jd Santa Maria Ii)",
+        "zipcode": "78128-208"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Rua Nossa Senhora Santana (Jd Uniao)",
+        "zipcode": "78120-351"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dezesseis (Jd Santa Maria Ii)",
+        "zipcode": "78128-175"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Avenida Z",
+        "zipcode": "78120-844"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Noel Rosa (Costa Verde)",
+        "zipcode": "78128-380"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua Guadalajara (Jd Beira Rio)",
+        "zipcode": "78120-798"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Travessa Do (Lot Alto Da Boa Vista) Damiao",
+        "zipcode": "78120-765"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua Montreal (Jd Beira Rio)",
+        "zipcode": "78120-803"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Avenida Sao Goncalo",
+        "zipcode": "78120-658"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Rua Antonio Soares",
+        "zipcode": "78125-580"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Sete (Santa Maria Ii)",
+        "zipcode": "78128-395"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Ferreira Gomes (S Maria I)",
+        "zipcode": "78128-285"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Rua Projetada 48 (Jd Uniao)",
+        "zipcode": "78120-352"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Do Ipase",
+        "street": "Rua Presidente Janio Quadros",
+        "zipcode": "78125-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Antonio Ferreira Gomes (Santa Maria I)",
+        "zipcode": "78128-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Travessa Cinco (Cohab Cristo Rei)",
+        "zipcode": "78120-355"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Antonio Roque (Jd Santa Maria I)",
+        "zipcode": "78128-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua Martins",
+        "zipcode": "78125-490"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Justino Claro (Santa Maria I)",
+        "zipcode": "78128-210"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Do Ipase",
+        "street": "Rua Marechal Rondon",
+        "zipcode": "78125-780"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Amilton Valim (Costa Verde)",
+        "zipcode": "78128-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Rua Quatro (Jd Uniao)",
+        "zipcode": "78120-353"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Do Ipase",
+        "street": "Rua Rui Barbosa",
+        "zipcode": "78125-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Cincoenta E Tres (Jd Costa Verde)",
+        "zipcode": "78128-570"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Mourse (Jd Costa Verde)",
+        "zipcode": "78128-690"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dezessete (Santa Maria Ii)",
+        "zipcode": "78128-235"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Manezinho Araujo (Jd Costa Verde)",
+        "zipcode": "78128-540"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua D (Planalto Beira Rio)",
+        "zipcode": "78128-706"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua F (Planalto Beira Rio)",
+        "zipcode": "78128-710"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua L (Planalto Beira Rio)",
+        "zipcode": "78128-720"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dez (Santa Maria Ii)",
+        "zipcode": "78128-365"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua A (Planalto Beira Rio)",
+        "zipcode": "78128-700"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Doze",
+        "zipcode": "78128-340"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Rua F",
+        "zipcode": "78125-570"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Avenida Escolastico Pinto (Costa Verde)",
+        "zipcode": "78128-400"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Vinte E Um (Santa Maria Ii)",
+        "zipcode": "78128-278"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Jorge Veiga (Jd Costa Verde)",
+        "zipcode": "78128-670"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Valdecaes",
+        "zipcode": "78125-035"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Maria Das Dores (Santa Maria I)",
+        "zipcode": "78128-220"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dorival Caymmi (Jd Costa Verde)",
+        "zipcode": "78128-550"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Joao Simao (Costa Verde)",
+        "zipcode": "78128-305"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Travessa E",
+        "zipcode": "78128-732"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Cinco (Jd Costa Verde)",
+        "zipcode": "78128-015"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Vinte E Seis (Santa Maria Ii)",
+        "zipcode": "78128-345"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Um (Santa Maria Ii)",
+        "zipcode": "78128-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Pixinguinha (Jd Costa Verde)",
+        "zipcode": "78128-498"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dezoito (Santa Maria Ii)",
+        "zipcode": "78128-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Avenida Quinze (Santa Maria I)",
+        "zipcode": "78128-308"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dois (Santa Maria Ii)",
+        "zipcode": "78128-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Teixeirinha (Costa Verde)",
+        "zipcode": "78128-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Sessenta E Tres (Jd Costa Verde)",
+        "zipcode": "78128-640"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua F (Jd Ipanema)",
+        "zipcode": "78128-736"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Livino Albano (Costa Verde)",
+        "zipcode": "78128-420"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dilermando Reis (Jd Costa Verde)",
+        "zipcode": "78128-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua G (Planalto Beira Rio)",
+        "zipcode": "78128-712"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Zequinha De Abreu (Costa Verde)",
+        "zipcode": "78128-410"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua A (Jd Ipanema)",
+        "zipcode": "78128-724"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua J (Jd Ipanema)",
+        "zipcode": "78128-742"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Avenida Leoncio Lopes De Miranda (Capela Do Picarrao)",
+        "zipcode": "78132-000"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Renato Merussa (Jd Costa Verde)",
+        "zipcode": "78128-695"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Avenida B (Jd Vitoria Regia)",
+        "zipcode": "78132-010"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua C (Planalto Beira Rio)",
+        "zipcode": "78128-704"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Julio Louzada (Costa Verde)",
+        "zipcode": "78128-440"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua H (Planalto Beira Rio)",
+        "zipcode": "78128-714"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Cesar Ladeira (Jd Costa Verde)",
+        "zipcode": "78128-680"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Lupicinio Rodrigues (Jd Costa Verde)",
+        "zipcode": "78128-495"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua D (Jd Ipanema)",
+        "zipcode": "78128-730"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua B (Jd Ipanema)",
+        "zipcode": "78128-726"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Sao Goncalo",
+        "street": "Rua Eugenio Pinto (Lot Sao Jorge)",
+        "zipcode": "78130-775"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua E (Planalto Beira Rio)",
+        "zipcode": "78128-708"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Cincoenta E Cinco (Costa Verde)",
+        "zipcode": "78128-445"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Ciro Monteiro (Jd Costa Verde)",
+        "zipcode": "78128-490"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Franca (Lot Nova Era)",
+        "zipcode": "78130-455"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Dois (Jd Vitoria Regia)",
+        "zipcode": "78132-034"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Sessenta E Quatro (Jd Costa Verde)",
+        "zipcode": "78128-650"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua H (Jd Ipanema)",
+        "zipcode": "78128-738"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Maysa Matarazzo (Jd Costa Verde)",
+        "zipcode": "78128-480"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Francisco Alves (Jd Costa Verde)",
+        "zipcode": "78128-460"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Benedito Curvo (Costa Verde)",
+        "zipcode": "78128-430"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Valentim (Jd Costa Verde)",
+        "zipcode": "78128-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Sessenta E Dois (Jd Costa Verde)",
+        "zipcode": "78128-630"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua R (Planalto Beira Rio)",
+        "zipcode": "78128-722"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua I (Jd Ipanema)",
+        "zipcode": "78128-740"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Sessenta E Um",
+        "zipcode": "78128-620"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Linda Batista (Jd Costa Verde)",
+        "zipcode": "78128-560"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Nossa Senhora Das Gracas (Jd Novo Horizonte)",
+        "zipcode": "78130-570"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Sao Goncalo",
+        "street": "Estrada Da (Lot Sao Jorge) Praia Grande",
+        "zipcode": "78130-800"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Avenida A (Jd Vitoria Regia)",
+        "zipcode": "78132-040"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Oston Onofre (Jd Novo Horizonte)",
+        "zipcode": "78130-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Sao Bento (Jd Novo Horizonte)",
+        "zipcode": "78130-590"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Calogeras",
+        "zipcode": "78130-620"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Sao Goncalo",
+        "street": "Rua Felipe Santiago Claro (Lot Sao Jorge)",
+        "zipcode": "78130-820"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua General Flores Da Cunha (Jd Ikarai)",
+        "zipcode": "78130-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Nove (Jd Vitoria Regia)",
+        "zipcode": "78132-038"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cinco (Jd Vitoria Regia)",
+        "zipcode": "78132-140"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Cinquenta E Dois (Jd Vitoria Regia)",
+        "zipcode": "78132-042"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Seis (Jd Vitoria Regia)",
+        "zipcode": "78132-120"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Sao Francisco D Sales (Jd Novo Horizonte)",
+        "zipcode": "78130-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Projetada 84",
+        "zipcode": "78130-685"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Avenida C (Jd Vitoria Regia)",
+        "zipcode": "78132-020"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Nove (Jd Vitoria Regia)",
+        "zipcode": "78132-024"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Cinco (Jd Vitoria Regia)",
+        "zipcode": "78132-100"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Noronha Dos Santos",
+        "zipcode": "78130-650"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua L (Jd Novo Horizonte)",
+        "zipcode": "78130-550"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua General Teixeira Lott (Jd Ikarai)",
+        "zipcode": "78130-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Sao Joao Batista (Jd Novo Horizonte)",
+        "zipcode": "78130-180"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Beco Projetada 33",
+        "zipcode": "78135-058"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Sao Raimundo (Jd Novo Horizonte)",
+        "zipcode": "78130-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Sete (Jd Vitoria Regia)",
+        "zipcode": "78132-028"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Cinquenta E Nove (Jd Vitoria Regia)",
+        "zipcode": "78132-080"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Trinta E Quatro (Jd Vitoria Regia)",
+        "zipcode": "78132-018"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Rio Amazonas",
+        "zipcode": "78130-680"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua Sao Goncalo (Jd Ipanema)",
+        "zipcode": "78128-752"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Governador Armando Sales (Jd Ikarai)",
+        "zipcode": "78130-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Siqueira Campos (Jd Ikarai)",
+        "zipcode": "78130-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua General Camisao",
+        "zipcode": "78135-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Santa Terezinha (Jd Novo Horizonte)",
+        "zipcode": "78130-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua General Jose C. Neves",
+        "zipcode": "78135-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Trinta E Cinco (Jd Vitoria Regia)",
+        "zipcode": "78132-015"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Dom Bosco (Jd Novo Horizonte)",
+        "zipcode": "78130-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Goias",
+        "zipcode": "78135-650"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Avenida Cristo Redentor (Jd Novo Horizonte)",
+        "zipcode": "78130-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Uruguai (Lot Nova Era)",
+        "zipcode": "78130-452"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Sessenta (Jd Vitoria Regia)",
+        "zipcode": "78132-070"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Das (Lot Frutal De Minas) Alterosas",
+        "zipcode": "78135-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Rio Negro",
+        "zipcode": "78130-665"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Luis Carlos Prestes (Jd Ikarai)",
+        "zipcode": "78130-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Sao Gabriel (Jd Novo Horizonte)",
+        "zipcode": "78130-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua N (Jd Ipanema)",
+        "zipcode": "78128-750"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Santa Rosa (Jd Novo Horizonte)",
+        "zipcode": "78130-530"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Sao Goncalo",
+        "street": "Rua Moreninha",
+        "zipcode": "78130-635"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Almirante Izaias D. Noronha (Jd Ikarai)",
+        "zipcode": "78130-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Um (Jd Vitoria Regia)",
+        "zipcode": "78132-115"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Dois (Jd Vitoria Regia)",
+        "zipcode": "78132-046"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Coronel Joao Bueno",
+        "zipcode": "78135-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Projetada 81",
+        "zipcode": "78130-675"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Rio Tocantins",
+        "zipcode": "78130-690"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Avenida Senhor Divino (Jd Novo Horizonte)",
+        "zipcode": "78130-605"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Felipe Dos Santos (Jd Ikarai)",
+        "zipcode": "78130-210"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Cinquenta E Um (Jd Vitora Regia)",
+        "zipcode": "78132-044"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Tres (Jd Vitoria Regia)",
+        "zipcode": "78132-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Guaicurus",
+        "zipcode": "78138-590"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Canoeiros",
+        "zipcode": "78138-690"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Da (Vila Operaria) Capelinha",
+        "zipcode": "78132-210"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Quatro (Vila Operaria)",
+        "zipcode": "78132-252"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Guaianases",
+        "zipcode": "78138-730"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Tres (Lot Margaridas)",
+        "zipcode": "78142-088"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Barao De Cotegipe",
+        "zipcode": "78135-220"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Cinta Larga",
+        "zipcode": "78138-680"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Visconde De Maua",
+        "zipcode": "78135-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Trinta E Dois (Jd Vitoria Regia)",
+        "zipcode": "78132-065"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Projetada 136",
+        "zipcode": "78135-052"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Xavantes",
+        "zipcode": "78138-710"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Nortelandia",
+        "zipcode": "78140-065"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Trinta (Jd Vitoria Regia)",
+        "zipcode": "78132-075"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Projetada 135",
+        "zipcode": "78135-695"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Oito (Jd Vitoria Regia)",
+        "zipcode": "78132-154"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Sete (Lot Adriana)",
+        "zipcode": "78142-086"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Dez (Jd Vitoria Regia)",
+        "zipcode": "78132-150"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Oito (Lot Adriana)",
+        "zipcode": "78142-084"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Sao Goncalo",
+        "street": "Travessa C (Jd Dos Girassois)",
+        "zipcode": "78135-038"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Rio Grande Do Sul",
+        "zipcode": "78135-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Bororos",
+        "zipcode": "78138-720"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Um (Lot Adriana)",
+        "zipcode": "78142-082"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Travessa Do Ponce",
+        "zipcode": "78135-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Sao Paulo",
+        "zipcode": "78135-730"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Projetada 134",
+        "zipcode": "78135-025"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Rio De Janeiro",
+        "zipcode": "78135-710"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Oito (Jd Vitoria Regia)",
+        "zipcode": "78132-088"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Cabixis",
+        "zipcode": "78138-675"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Jose Bonifacio",
+        "zipcode": "78140-306"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Sessenta E Dois (Jd Vitoria Regia)",
+        "zipcode": "78132-156"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Parana",
+        "zipcode": "78135-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Sao Goncalo",
+        "street": "Rua A (Jd Dos Girassois)",
+        "zipcode": "78135-030"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua X (Cohab Canelas)",
+        "zipcode": "78135-245"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Minas Gerais",
+        "zipcode": "78135-690"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Travessa G (Lot Jianni)",
+        "zipcode": "78132-640"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Projetada 164",
+        "zipcode": "78135-054"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Sao Jose (Lot Marechal Rondon)",
+        "zipcode": "78138-112"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 140",
+        "zipcode": "78140-314"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 141",
+        "zipcode": "78140-316"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Vermelha",
+        "street": "Rua Projetada 64",
+        "zipcode": "78138-118"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Travessa Tupinamba",
+        "zipcode": "78135-670"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Marechal Osorio",
+        "zipcode": "78135-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Projetada 205",
+        "zipcode": "78135-056"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Para",
+        "zipcode": "78135-660"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Marcilio Dias",
+        "zipcode": "78135-200"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Coxipones",
+        "zipcode": "78138-740"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Pernambuco",
+        "zipcode": "78135-620"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Sao Sebastiao (Lot Marechal Rondon)",
+        "zipcode": "78138-114"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Veu Da Noiva (Prq Ouro Branco)",
+        "zipcode": "78135-440"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Seis (Jd Vitoria Regia)",
+        "zipcode": "78132-090"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Ariquemes",
+        "zipcode": "78138-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte (Jd Vitoria Regia)",
+        "zipcode": "78132-095"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Dois (Jd Vitoria Regia)",
+        "zipcode": "78132-105"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Onze (Jd Vitoria Regia)",
+        "zipcode": "78132-085"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Panates",
+        "zipcode": "78138-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Travessa E (Vila Artur)",
+        "zipcode": "78140-345"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Sessenta E Um (Jd Vitoria Regia)",
+        "zipcode": "78132-060"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Barbados",
+        "zipcode": "78138-620"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Agua Fria (Jd Ouro Verde)",
+        "zipcode": "78140-750"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Vermelha",
+        "street": "Rua Vereador Estevam",
+        "zipcode": "78138-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Tenente Joao Lira",
+        "zipcode": "78138-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 155 (Vila Artur)",
+        "zipcode": "78140-582"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Travessa G",
+        "zipcode": "78140-304"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Vermelha",
+        "street": "Rua Traira",
+        "zipcode": "78138-150"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Tenente Manoel Rabelo",
+        "zipcode": "78138-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Quarenta E Oito (Cohab Primavera)",
+        "zipcode": "78145-095"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Tenente Horta Barbosa",
+        "zipcode": "78138-510"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Dois (Lot Margaridas)",
+        "zipcode": "78142-090"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Estrada Da Praia Grande",
+        "zipcode": "78145-000"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Tenente Souza Marques",
+        "zipcode": "78138-410"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Avenida A",
+        "zipcode": "78138-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Travessa F (Vila Artur)",
+        "zipcode": "78140-348"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Sete De Setembro",
+        "zipcode": "78140-840"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Cinco (Lot Adriana)",
+        "zipcode": "78142-040"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Ponce De Arruda",
+        "zipcode": "78138-506"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Nossa Senhora Da Guia (Lot Marechal Rondon)",
+        "zipcode": "78138-504"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Quarenta E Quatro (Cohab Primavera)",
+        "zipcode": "78145-085"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Avenida Presidente Vargas (Lot Marechal Rondon)",
+        "zipcode": "78138-507"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Avenida Pantaneira",
+        "zipcode": "78138-505"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Travessa A",
+        "zipcode": "78145-185"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 145 (Vila Artur)",
+        "zipcode": "78140-574"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 159 (Vila Artur)",
+        "zipcode": "78140-588"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 149 (Vila Artur)",
+        "zipcode": "78140-576"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Joaquim Da C. Coelho",
+        "zipcode": "78145-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cinquenta E Oito (Cohab Primavera)",
+        "zipcode": "78145-115"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 157 (Vila Artur)",
+        "zipcode": "78140-586"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Projetada 202",
+        "zipcode": "78145-220"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Quarenta E Seis (Cohab Primavera)",
+        "zipcode": "78145-088"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua A",
+        "zipcode": "78138-520"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Luirico Magalhaes",
+        "zipcode": "78145-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Dezoito (Cohab Primavera)",
+        "zipcode": "78145-025"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Seis (Cohab Primavera)",
+        "zipcode": "78145-035"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Rubens Dos Santos",
+        "zipcode": "78145-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Tenente J  Cunha Pires",
+        "zipcode": "78138-400"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua E",
+        "zipcode": "78138-560"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Vinte E Um (Jd Mundo Novo)",
+        "zipcode": "78145-147"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Iara",
+        "zipcode": "78140-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Darcy Lourenco",
+        "zipcode": "78145-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Dois (Cohab Primavera)",
+        "zipcode": "78145-014"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 146 (Vila Artur)",
+        "zipcode": "78140-578"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Seis (Cohab Primavera)",
+        "zipcode": "78145-048"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Travessa B",
+        "zipcode": "78140-045"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua C",
+        "zipcode": "78138-540"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Setenta (Cohab Primavera)",
+        "zipcode": "78145-145"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 144 (Vila Artur)",
+        "zipcode": "78140-573"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Natalino Garcia",
+        "zipcode": "78145-348"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Benedito J. Da Silva",
+        "zipcode": "78145-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Sete (Lot Marcia)",
+        "zipcode": "78142-110"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Afonso De Assuncao",
+        "zipcode": "78145-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua J (Prq Del Rei)",
+        "zipcode": "78145-560"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Chamma Mussa (Lot Sao Simao)",
+        "zipcode": "78148-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua N (Prq Del Rei)",
+        "zipcode": "78145-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Dois (Lot Sao Simao)",
+        "zipcode": "78148-470"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Catorze",
+        "zipcode": "78148-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Jose Benecio Da Silva (Lot Colinas Verd.)",
+        "zipcode": "78145-745"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Margarida Marques Fontes (Lot Sao Simao)",
+        "zipcode": "78148-430"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Sargento Tabajara (Lot Sao Simao)",
+        "zipcode": "78148-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Estrada Do Capao Grande",
+        "zipcode": "78145-402"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua F (Prq Del Rei)",
+        "zipcode": "78145-710"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Benedito Gomes",
+        "zipcode": "78145-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Trinta (Cohab Primavera)",
+        "zipcode": "78145-075"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Luis Marques De Oliveira (Lot Sao Simao)",
+        "zipcode": "78148-460"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua K (Prq Del Rei)",
+        "zipcode": "78145-585"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Jose Vicente Dias (Lot Sao Simao)",
+        "zipcode": "78148-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Travessa Treis (Lot Colinas Verdejantes)",
+        "zipcode": "78145-414"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua T (Prq Del Rei)",
+        "zipcode": "78145-595"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Cerino Jose Da Silva (Lot Sao Simao)",
+        "zipcode": "78148-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua O (Prq Del Rei)",
+        "zipcode": "78145-620"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Izabel Fortes (Lot Colinas Verdejantes)",
+        "zipcode": "78145-740"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Francelino Jose Da Silva (Lot S Simao)",
+        "zipcode": "78148-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Travessa B",
+        "zipcode": "78145-340"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Benedito S. Silva",
+        "zipcode": "78145-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Moacir De Magalhaes",
+        "zipcode": "78145-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Saturnino M. Oliveira",
+        "zipcode": "78145-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Elur Pulquerio De Franca (Lot Sao Simao)",
+        "zipcode": "78148-380"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua I (Prq Del Rei)",
+        "zipcode": "78145-580"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Antonio Joao (Lot Colinas Verdejantes)",
+        "zipcode": "78145-750"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Dois",
+        "zipcode": "78148-565"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Setenta E Sete",
+        "zipcode": "78148-605"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Candida Leite Da Silva (Lot S Simao)",
+        "zipcode": "78148-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua D (Prq Del Rei)",
+        "zipcode": "78145-630"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Sargento Domingos (Lot Sao Simao)",
+        "zipcode": "78148-420"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Dezenove",
+        "zipcode": "78148-590"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Avenida Luiz Coelho De Campos (Lot Sao Simao)",
+        "zipcode": "78148-400"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Cinquenta E Tres",
+        "zipcode": "78148-624"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Benedito Godoy Franca (Lot Sao Simao)",
+        "zipcode": "78148-440"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Quatro",
+        "zipcode": "78148-614"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quarenta",
+        "zipcode": "78148-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua C (Prq Del Rei)",
+        "zipcode": "78145-680"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Jonas De Souza",
+        "zipcode": "78145-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Avelino Barbosa Fortes (Lot Colinas Verd.)",
+        "zipcode": "78145-744"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Cinquenta E Nove",
+        "zipcode": "78148-622"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua S (Prq Del Rei)",
+        "zipcode": "78145-670"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Sebastiao Felfilli (Sao Simao)",
+        "zipcode": "78148-510"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quatro",
+        "zipcode": "78148-613"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Joel Nassarden (Lot Sao Simao)",
+        "zipcode": "78148-340"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Lidugerio Pinto Da Silva (Lot Colinas Verd.)",
+        "zipcode": "78145-757"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Helio Vitor Da Silva (Lot Sao Simao)",
+        "zipcode": "78148-520"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Y (Prq Del Rei)",
+        "zipcode": "78145-660"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Francisco Pinto Lopes (Lot Sao Simao)",
+        "zipcode": "78148-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua W (Prq Del Rei)",
+        "zipcode": "78145-650"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Joaquim Lemes De Morais (Lot Colinas Verd.)",
+        "zipcode": "78145-755"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua M (Prq Del Rei)",
+        "zipcode": "78145-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Ari Felfilli (Lot Sao Simao)",
+        "zipcode": "78148-500"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua R (Prq Del Rei)",
+        "zipcode": "78145-565"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Mar Vermelho (Prq Industrial Atlantico)",
+        "zipcode": "78150-030"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Mar Egeu (Prq I Atlantico)",
+        "zipcode": "78150-050"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Mar Do Caribe (Prq Industrial Atlantico)",
+        "zipcode": "78150-090"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua A",
+        "zipcode": "78150-120"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua K (Cohab Asa Branca)",
+        "zipcode": "78150-130"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Nove (Lot Sao Simao)",
+        "zipcode": "78148-108"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Beco Projetado 06",
+        "zipcode": "78150-012"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Onze (Lot Sao Simao)",
+        "zipcode": "78148-110"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Da (Lot Sao Simao) Penha",
+        "zipcode": "78148-540"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Setenta E Seis",
+        "zipcode": "78148-755"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Avenida Foncalo Marques De Arruda (Lot Sao Simao)",
+        "zipcode": "78148-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Sete",
+        "zipcode": "78148-684"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Vinte E Nove (Lot Nova Fronteira)",
+        "zipcode": "78148-563"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Dezesseis",
+        "zipcode": "78148-652"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Tres",
+        "zipcode": "78148-748"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Setenta E Quatro",
+        "zipcode": "78148-658"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Um",
+        "zipcode": "78148-656"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Beco Projetado 09",
+        "zipcode": "78150-015"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Euzebio F Da Silva (Lot Colinas Verdejantes)",
+        "zipcode": "78145-792"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Trinta E Dois",
+        "zipcode": "78148-602"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Trinta E Oito",
+        "zipcode": "78148-725"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Sao Vicente",
+        "zipcode": "78148-550"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Mar Das Caraibas (Prq Industrial Atlantico)",
+        "zipcode": "78150-070"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quarenta E Um",
+        "zipcode": "78148-626"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Tres (Lot Sao Simao)",
+        "zipcode": "78148-055"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Um",
+        "zipcode": "78148-616"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Vinte E Tres",
+        "zipcode": "78148-668"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Dez (Lot Sao Simao)",
+        "zipcode": "78148-100"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quarenta E Nove",
+        "zipcode": "78148-612"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Trinta E Tres",
+        "zipcode": "78148-688"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Vinte E Dois",
+        "zipcode": "78148-608"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Oito",
+        "zipcode": "78148-745"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Dois",
+        "zipcode": "78148-674"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Prof. Cleide L De Almeida",
+        "zipcode": "78150-110"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Travessa C (Cohab Asa Branca)",
+        "zipcode": "78150-126"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Setenta E Tres",
+        "zipcode": "78148-638"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Mar Caspio (Prq I Atlantico)",
+        "zipcode": "78150-040"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Engenho Velho",
+        "zipcode": "78148-530"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quarenta E Oito",
+        "zipcode": "78148-682"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Oriel Botelho (Lot Sao Simao)",
+        "zipcode": "78148-195"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quinze",
+        "zipcode": "78148-644"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quarenta E Sete",
+        "zipcode": "78148-662"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Oceano Indico (Prq Industrial Atlantico)",
+        "zipcode": "78150-010"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Trinta E Seis",
+        "zipcode": "78148-710"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Lourenco Pinto De Fodoy (Lot Sao Simao)",
+        "zipcode": "78148-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Esmeralda Carolina De Franca (Lot Sao Simao)",
+        "zipcode": "78148-475"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Vinte E Sete",
+        "zipcode": "78148-618"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Beco Projetado 07",
+        "zipcode": "78150-013"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Vinte E Oito",
+        "zipcode": "78148-598"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Cinco (Lot Sao Simao)",
+        "zipcode": "78148-075"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Trinta E Nove",
+        "zipcode": "78148-758"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quarenta E Seis",
+        "zipcode": "78148-642"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Beco Projetado 36",
+        "zipcode": "78150-017"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Setenta E Cinco",
+        "zipcode": "78148-676"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Nove",
+        "zipcode": "78148-648"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua J (Cohab Asa Branca)",
+        "zipcode": "78150-140"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua H (Cohab Asa Branca)",
+        "zipcode": "78150-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Abdala De Almeida",
+        "zipcode": "78150-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Q (Cohab Asa Branca)",
+        "zipcode": "78150-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua S (Cohab Asa Branca)",
+        "zipcode": "78150-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua R (Cohab Asa Branca)",
+        "zipcode": "78150-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua L (Cohab Asa Branca)",
+        "zipcode": "78150-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua D (Asa Bela)",
+        "zipcode": "78150-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua G (Asa Bela)",
+        "zipcode": "78150-315"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua E (Cohab Asa Branca)",
+        "zipcode": "78150-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Avenida A (Cohab Asa Bela)",
+        "zipcode": "78150-340"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua C",
+        "zipcode": "78150-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua B",
+        "zipcode": "78150-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Viana Do Castelo (Lot M Izabel)",
+        "zipcode": "78150-440"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Viseu (Lot Maria Izabel)",
+        "zipcode": "78150-450"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Avenida Z (Industrial)",
+        "zipcode": "78155-460"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua C (Mapim)",
+        "zipcode": "78155-335"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Da Alegria",
+        "zipcode": "78155-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 208",
+        "zipcode": "78155-235"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Aroeira (Jd Bela Vista)",
+        "zipcode": "78155-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Francisco Monteiro",
+        "zipcode": "78155-354"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Comendador Henrique",
+        "zipcode": "78155-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 20 (Lot Bela Vista)",
+        "zipcode": "78155-245"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Girassol",
+        "zipcode": "78155-415"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Belo Horizonte",
+        "zipcode": "78155-352"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua D (Mapim)",
+        "zipcode": "78155-338"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 112 (Lot Bela Vista)",
+        "zipcode": "78155-225"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua G",
+        "zipcode": "78150-700"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Beto",
+        "zipcode": "78150-710"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua C ( Asa Bela)",
+        "zipcode": "78150-720"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua N (Asa Bela)",
+        "zipcode": "78150-755"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Guimaraes (Lot Maria Izabel)",
+        "zipcode": "78150-680"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Castelo Branco (Lot Maria Izabel)",
+        "zipcode": "78150-530"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Governador Valadares",
+        "zipcode": "78155-285"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Fortaleza",
+        "zipcode": "78155-420"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Gavea",
+        "zipcode": "78155-380"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Recife",
+        "zipcode": "78155-357"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Antonio Marques Oliveira (Lot Maria Izabel)",
+        "zipcode": "78150-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Sao Luis",
+        "zipcode": "78155-358"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Margarida",
+        "zipcode": "78155-435"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada (Jd De Ala)",
+        "zipcode": "78155-125"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 81",
+        "zipcode": "78155-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Avenida Mato Grosso",
+        "zipcode": "78155-404"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Estoril (Lot Maria Izabel)",
+        "zipcode": "78150-670"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Belem (Lot Maria Izabel)",
+        "zipcode": "78150-510"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Almirante Tamandare",
+        "zipcode": "78155-340"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 210 (Jd De Ala)",
+        "zipcode": "78155-165"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Belga",
+        "zipcode": "78155-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Mutum",
+        "zipcode": "78155-438"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Setubal (Lot Maria Izabel)",
+        "zipcode": "78150-550"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua L (Asa Bela)",
+        "zipcode": "78150-745"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Alagoas",
+        "zipcode": "78158-120"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Amazonas",
+        "zipcode": "78158-130"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua B (Pq Das Mangabeiras)",
+        "zipcode": "78158-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Marajo",
+        "zipcode": "78158-070"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Boa Vista",
+        "zipcode": "78158-090"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Bahia",
+        "zipcode": "78158-140"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Tres (Lot Esmeralda)",
+        "zipcode": "78155-570"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Um (Lot Esmeralda)",
+        "zipcode": "78155-596"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Avenida H (Prq Das Mangabeiras)",
+        "zipcode": "78158-315"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua T (Industrial)",
+        "zipcode": "78155-540"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua V (Industrial)",
+        "zipcode": "78155-550"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua U (Industrial)",
+        "zipcode": "78155-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Espirito Santo",
+        "zipcode": "78158-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Minas Gerais",
+        "zipcode": "78158-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Parana",
+        "zipcode": "78158-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Maceio",
+        "zipcode": "78155-620"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Coimbra",
+        "zipcode": "78150-590"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua X (Industrial)",
+        "zipcode": "78155-605"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Braganca (Lot Maria Izabel)",
+        "zipcode": "78150-490"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Martin Afonso",
+        "zipcode": "78155-650"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Quatro (Lot Esmeralda)",
+        "zipcode": "78155-568"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Braga (Lot Maria Izabel)",
+        "zipcode": "78150-540"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua R (Industrial)",
+        "zipcode": "78155-520"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Seis (Lot Esmeralda)",
+        "zipcode": "78155-592"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Santana",
+        "zipcode": "78155-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Avenida Filinto Muller",
+        "zipcode": "78160-000"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Goiania",
+        "zipcode": "78155-635"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Orquidea",
+        "zipcode": "78155-440"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Aracaju",
+        "zipcode": "78155-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 82",
+        "zipcode": "78155-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Porto Alegre",
+        "zipcode": "78155-616"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Travessa Canaa",
+        "zipcode": "78155-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Sete (Lot Esmeralda)",
+        "zipcode": "78155-594"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Dois (Jd Bela Vista)",
+        "zipcode": "78155-265"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Pernambuco",
+        "zipcode": "78158-210"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Sao Paulo",
+        "zipcode": "78158-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Blumenau (Industrial)",
+        "zipcode": "78155-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua M (Industrial)",
+        "zipcode": "78155-614"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Vila Nova Do Gaia (Lot Maria Izabel)",
+        "zipcode": "78150-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Caldas Da Rainha (Lot Maria Izabel)",
+        "zipcode": "78150-570"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Nacoes Unidas",
+        "zipcode": "78158-100"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 113 (Industrial)",
+        "zipcode": "78155-485"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua D (Industrial)",
+        "zipcode": "78155-510"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua P (Industrial)",
+        "zipcode": "78155-490"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 108",
+        "zipcode": "78155-655"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Porto (Lot Maria Izabel)",
+        "zipcode": "78150-560"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Vista Alegre",
+        "zipcode": "78155-455"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Londrina",
+        "zipcode": "78155-612"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Da Rosa",
+        "zipcode": "78155-625"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Lamego (Lot Maria Izabel)",
+        "zipcode": "78150-650"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua N (Industrial)",
+        "zipcode": "78155-470"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 207 (Lot Esmeralda)",
+        "zipcode": "78155-565"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Alameda B (Res Cabo Michel)",
+        "zipcode": "78158-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Avenida A (Res Cabo Michel)",
+        "zipcode": "78158-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua L (Prq Das Mangabeiras)",
+        "zipcode": "78158-420"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua G (Prq Das Mangabeiras)",
+        "zipcode": "78158-470"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Nove",
+        "zipcode": "78160-054"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Triunfo",
+        "zipcode": "78160-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Seis",
+        "zipcode": "78160-246"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Petropolis",
+        "zipcode": "78160-276"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Mossoro",
+        "zipcode": "78160-195"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Itapemirim",
+        "zipcode": "78160-100"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Altamira",
+        "zipcode": "78160-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua O (Lot Cid De Deus)",
+        "zipcode": "78160-186"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Um",
+        "zipcode": "78160-055"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Travessa Da Tania",
+        "zipcode": "78160-062"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Dez",
+        "zipcode": "78160-253"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua N (Lot Cid De Deus)",
+        "zipcode": "78160-175"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua C (Lot Cid De Deus)",
+        "zipcode": "78160-182"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Dez (Res Cabo Michel)",
+        "zipcode": "78158-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua E (Prq Mangabeiras)",
+        "zipcode": "78158-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua F (Lot Cid De Deus)",
+        "zipcode": "78160-183"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Colatina",
+        "zipcode": "78160-130"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua O (Prq Mangabeiras)",
+        "zipcode": "78158-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Barcelos",
+        "zipcode": "78160-030"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Avenida Coronel Escolastico",
+        "zipcode": "78160-140"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Travessa Fancho",
+        "zipcode": "78160-038"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua H (Lot Cid De Deus)",
+        "zipcode": "78160-248"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Avenida Tenente",
+        "zipcode": "78160-064"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua P",
+        "zipcode": "78160-188"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Trinta E Sete",
+        "zipcode": "78160-155"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Dois (Res Cabo Michel)",
+        "zipcode": "78158-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Cinco (Res Cabo Michel)",
+        "zipcode": "78158-265"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Tres (Res Cabo Michel)",
+        "zipcode": "78158-272"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua I (Prq Das Mangabeiras)",
+        "zipcode": "78158-450"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Quatro (Res Cabo Michel)",
+        "zipcode": "78158-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua K (Prq Das Mangabeiras)",
+        "zipcode": "78158-430"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua M (Prq Das Mangabeiras)",
+        "zipcode": "78158-410"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Quatro",
+        "zipcode": "78160-268"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Oito",
+        "zipcode": "78160-257"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Floranea",
+        "zipcode": "78160-200"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua I (Lot Cid De Deus)",
+        "zipcode": "78160-220"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Nove (Res Cabo Michel)",
+        "zipcode": "78158-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Codo",
+        "zipcode": "78160-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Oitenta E Sete",
+        "zipcode": "78160-242"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Travessa Do Sape",
+        "zipcode": "78160-075"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Travessa Do Gigi",
+        "zipcode": "78160-056"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Noventa E Um",
+        "zipcode": "78160-255"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Trinta E Nove",
+        "zipcode": "78160-150"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Oito",
+        "zipcode": "78160-053"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Caruaru",
+        "zipcode": "78160-040"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Feira De Santana",
+        "zipcode": "78160-110"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua J (Lot Cid De Deus)",
+        "zipcode": "78160-218"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Teresopolis",
+        "zipcode": "78160-278"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua P (Prq Mangabeiras)",
+        "zipcode": "78158-380"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua L",
+        "zipcode": "78160-190"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Q (Prq Mangabeiras)",
+        "zipcode": "78158-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Avenida Anisio Haddad",
+        "zipcode": "78160-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Tres",
+        "zipcode": "78160-272"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Braganca",
+        "zipcode": "78160-180"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Um",
+        "zipcode": "78160-070"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Quarenta E Sete",
+        "zipcode": "78160-266"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua B",
+        "zipcode": "78160-215"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Cinco",
+        "zipcode": "78160-050"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Travessa Do Nico",
+        "zipcode": "78160-045"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Loreto",
+        "zipcode": "78160-340"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Birigui",
+        "zipcode": "78160-420"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Oitenta E Um",
+        "zipcode": "78160-495"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Sete",
+        "zipcode": "78160-690"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua K (Lot Cid De Deus)",
+        "zipcode": "78160-480"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Noventa E Sete",
+        "zipcode": "78160-740"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Campos",
+        "zipcode": "78160-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua S (Lot Cid De Deus)",
+        "zipcode": "78160-675"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Quarenta E Oito",
+        "zipcode": "78160-640"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Projetada (Lot Cid De Deus)",
+        "zipcode": "78160-670"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Jundiai",
+        "zipcode": "78160-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Seis",
+        "zipcode": "78160-720"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Itajai",
+        "zipcode": "78160-450"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Trinta E Quatro",
+        "zipcode": "78160-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Quarenta E Tres",
+        "zipcode": "78160-135"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Avenida Do Contorno Rodoviario",
+        "zipcode": "78160-500"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Vacaria",
+        "zipcode": "78160-368"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Marilia",
+        "zipcode": "78160-430"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Noventa E Cinco",
+        "zipcode": "78160-760"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Tres",
+        "zipcode": "78160-728"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Doze",
+        "zipcode": "78160-520"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Cinco",
+        "zipcode": "78160-560"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Jacarei",
+        "zipcode": "78160-400"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua D (Lot Cid De Deus)",
+        "zipcode": "78160-650"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cantagalo",
+        "zipcode": "78160-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Noventa E Quatro",
+        "zipcode": "78160-660"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Oitenta E Quatro",
+        "zipcode": "78160-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Noventa E Nove",
+        "zipcode": "78160-725"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Araripe",
+        "zipcode": "78160-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Vinte E Seis",
+        "zipcode": "78160-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Quatro",
+        "zipcode": "78160-060"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Nove",
+        "zipcode": "78160-462"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Noventa E Oito",
+        "zipcode": "78160-730"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Trinta E Oito",
+        "zipcode": "78160-620"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Andrade Murici",
+        "zipcode": "78160-710"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Vinte E Nove",
+        "zipcode": "78160-365"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Sete",
+        "zipcode": "78160-540"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Quatro",
+        "zipcode": "78160-570"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Dezesseis",
+        "zipcode": "78160-470"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Tres",
+        "zipcode": "78160-590"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Oitenta",
+        "zipcode": "78160-510"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cubatao",
+        "zipcode": "78160-380"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta",
+        "zipcode": "78160-700"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Cinquenta E Cinco",
+        "zipcode": "78160-035"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Seis",
+        "zipcode": "78160-550"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Avenida Do Canal",
+        "zipcode": "78160-460"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Trinta",
+        "zipcode": "78160-610"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Curitiba",
+        "zipcode": "78155-630"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Maranhao",
+        "zipcode": "78135-640"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Avenida Papa Joao Paulo (Cohab Cristo Rei)",
+        "zipcode": "78120-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Avenida Iris Siqueira (Cohab Cristo Rei)",
+        "zipcode": "78120-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Governador Antonio Leite (Cohab Cristo Rei)",
+        "zipcode": "78120-220"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua L (Industrial)",
+        "zipcode": "78155-500"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Macapa",
+        "zipcode": "78158-080"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Prado (Cohab Cristo Rei)",
+        "zipcode": "78120-020"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Abreu Menezes (Cohab Cristo Rei)",
+        "zipcode": "78120-210"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Nove (Jd Vitoria Regia)",
+        "zipcode": "78132-152"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Estrada De Bonsucesso (Bonsucesso)",
+        "zipcode": "78132-050"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Castanhola (Mapim)",
+        "zipcode": "78155-400"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Tres (Jd Vitoria Regia)",
+        "zipcode": "78132-030"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Jatoba (Lot Bela Vista)",
+        "zipcode": "78155-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Avenida D (Jd Vitoria Regia)",
+        "zipcode": "78132-032"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Avenida D (Jd Mundo Novo)",
+        "zipcode": "78149-075"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Juscelino Reinner (Manga)",
+        "zipcode": "78115-680"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Antonio Jose Da Silva (Lot Sao Simao)",
+        "zipcode": "78148-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Sao Cristovao (Jd Novo Horizonte)",
+        "zipcode": "78130-150"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Gracindo Rodrigues De Morais (Lot Sao Simao)",
+        "zipcode": "78148-490"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Cristalina (Jd Acacia)",
+        "zipcode": "78155-430"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cento E Cincoenta E Tres",
+        "zipcode": "78132-110"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Quatro (Jd Vitoria Regia)",
+        "zipcode": "78132-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Avenida Maurilho Felfilli (Lot Sao Simao)",
+        "zipcode": "78148-450"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Orestes Barbosa (Jd Costa Verde)",
+        "zipcode": "78128-070"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Nossa Senhora Do Carmo",
+        "zipcode": "78110-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Eurico Gaspar Dutra (Lot Marechal Rondon)",
+        "zipcode": "78138-502"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula Ii",
+        "street": "Rua Barao De Melgaco",
+        "zipcode": "78135-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Manoel Negro (Cohab Cristo Rei)",
+        "zipcode": "78120-130"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Alameda C (Res Cabo Michel)",
+        "zipcode": "78158-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Rua Dom Manoel",
+        "zipcode": "78125-600"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua A. G. Moreira",
+        "zipcode": "78155-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Doze",
+        "zipcode": "78148-632"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Laurito Nassarden (Lot Sao Simao)",
+        "zipcode": "78148-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Claudio Clisostomo Amorim (Lot Sao Simao)",
+        "zipcode": "78148-280"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Espirito Santo",
+        "zipcode": "78135-700"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Rua Seis (Jd Uniao)",
+        "zipcode": "78120-356"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Manoel Joao De Arruda",
+        "zipcode": "78110-490"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Do Dner",
+        "zipcode": "78155-300"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Antonio Jacob",
+        "zipcode": "78115-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Presidente Joao Carlos (Cohab Cristo Rei)",
+        "zipcode": "78120-320"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Acacia (Jd Acacia)",
+        "zipcode": "78155-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Sao Goncalo",
+        "street": "Rua Antonia Pereira (Lot Sao Jorge)",
+        "zipcode": "78130-790"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Cruzeiro Do Sul",
+        "zipcode": "78155-353"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Oito (Jd Vitoria Regia)",
+        "zipcode": "78132-026"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua E (Unipark)",
+        "zipcode": "78120-003"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Miguel Jose Da Silva (Santa Maria I)",
+        "zipcode": "78128-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Pinheiro (Jd Bela Vista)",
+        "zipcode": "78155-275"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta",
+        "zipcode": "78148-636"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Silvio Caldas (Jd Costa Verde)",
+        "zipcode": "78128-660"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Setenta E Um",
+        "zipcode": "78148-686"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Tres (Santa Maria Ii)",
+        "zipcode": "78128-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Sao Luiz (Lot Santa Luzia)",
+        "zipcode": "78135-760"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Quarenta E Quatro",
+        "zipcode": "78148-654"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Seis (Santa Maria Ii)",
+        "zipcode": "78128-425"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Um (Jd Vitoria Regia)",
+        "zipcode": "78132-098"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Maria Vitoria Oliveira De Assuncao",
+        "zipcode": "78148-480"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Abdala Jose De Almeida",
+        "zipcode": "78145-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Cinquenta E Seis (Cohab Primavera)",
+        "zipcode": "78145-118"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Avenida Consuelo Muller (Costa Verde)",
+        "zipcode": "78128-450"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Xi (Helio Ponce De Arruda)",
+        "zipcode": "78118-515"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Trinta E Um (Jd Vitoria Regia)",
+        "zipcode": "78132-036"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Cinco (Jd Vitoria Regia)",
+        "zipcode": "78132-175"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Panorama",
+        "zipcode": "78155-445"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Quatro (Cohab Primavera)",
+        "zipcode": "78145-016"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Seis (Lot Adriana)",
+        "zipcode": "78142-085"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Tres (Lot Adriana)",
+        "zipcode": "78142-030"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Dez (Cohab Primavera)",
+        "zipcode": "78145-012"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Jacob Do Bandolin (Costa Verde)",
+        "zipcode": "78128-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Nhambiquara",
+        "zipcode": "78138-750"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Vinte (Santa Maria Ii)",
+        "zipcode": "78128-275"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua O",
+        "zipcode": "78138-630"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Trinta E Seis (Cohab Primavera)",
+        "zipcode": "78145-065"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua D (Vila Artur)",
+        "zipcode": "78140-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sete",
+        "zipcode": "78148-628"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua Antonio Sotero (Santa Luzia)",
+        "zipcode": "78120-800"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 143 (Vila Artur)",
+        "zipcode": "78140-572"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Paiaguas",
+        "zipcode": "78138-700"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Quatro (Jd Santa Maria Ii)",
+        "zipcode": "78128-195"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Travessa C",
+        "zipcode": "78145-345"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Travessa Bento Do (Lot Alto Da Boa Vista)",
+        "zipcode": "78120-700"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Ranchinho (Costa Verde)",
+        "zipcode": "78128-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Do Ipase",
+        "street": "Rua Presidente Nilo Pecanha",
+        "zipcode": "78125-010"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Vinte E Quatro",
+        "zipcode": "78148-678"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Eleuterio Magalhaes (Santa Maria I)",
+        "zipcode": "78128-245"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Grande Otelo (Jd Costa Verde)",
+        "zipcode": "78128-510"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Travessa Maria Gomes De Azevedo (Lot Sao Simao)",
+        "zipcode": "78148-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Gloria",
+        "street": "Rua Projetada 156 (Vila Artur)",
+        "zipcode": "78140-584"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Marques De Herval",
+        "zipcode": "78155-425"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Maringa",
+        "street": "Rua Dois",
+        "zipcode": "78120-395"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Dilermando Dias (Jd Costa Verde)",
+        "zipcode": "78128-590"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua Sebastiao Tavares",
+        "zipcode": "78125-800"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Seis",
+        "zipcode": "78148-664"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Bahia (Lot Maria Izabel)",
+        "zipcode": "78150-690"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua I (Asa Bela)",
+        "zipcode": "78150-735"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Avenida Castelo Branco",
+        "zipcode": "78110-200"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Das (Jd Vista Alegre) Oliveiras",
+        "zipcode": "78115-390"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Do Lago",
+        "street": "Rua G (Unipark)",
+        "zipcode": "78120-005"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Governador Silva Rondon (Cohab Cristo Rei)",
+        "zipcode": "78120-260"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Chile (Jardim Imperial)",
+        "zipcode": "78158-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Q (Prq Del Rei)",
+        "zipcode": "78145-640"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Travessa Da Lapa",
+        "zipcode": "78160-057"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Itabaiana",
+        "zipcode": "78160-210"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua General Isidoro Dias (Jd Ikarai)",
+        "zipcode": "78130-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Nossa Senhora Apareecida (Jd Novo Horizonte)",
+        "zipcode": "78130-560"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Joao Alberto (Jd Ikarai)",
+        "zipcode": "78130-220"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua G (Lot Cid De Deus)",
+        "zipcode": "78160-184"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vereador Elisio M. Da Costa",
+        "zipcode": "78145-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua F",
+        "zipcode": "78110-796"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Vinte E Quatro De Maio",
+        "zipcode": "78110-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Aeroporto",
+        "street": "Avenida Filinto Muller",
+        "zipcode": "78110-005"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua C (Cohab Jaime Campos)",
+        "zipcode": "78118-410"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Cinco",
+        "zipcode": "78160-252"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Cecilia",
+        "street": "Rua Vinte E Treis (Jd Vitoria Regia)",
+        "zipcode": "78132-145"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Vila Pirineu",
+        "street": "Rua L (Jd Ipanema)",
+        "zipcode": "78128-746"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Projetada 114 (Lot Esmeralda)",
+        "zipcode": "78155-590"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Vinte E Cinco De Dezembro",
+        "zipcode": "78110-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Travessa Dez (Lot Colinas Verdejantes)",
+        "zipcode": "78145-753"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta",
+        "zipcode": "78160-080"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Imperador",
+        "street": "Avenida Gil Marques",
+        "zipcode": "78125-550"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua Cancioneira",
+        "zipcode": "78130-640"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Travessa Oito (Lot Colinas Verdejantes)",
+        "zipcode": "78145-785"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Guanabara (Tremendao)",
+        "zipcode": "78110-780"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua B (Prq Del Rei)",
+        "zipcode": "78145-590"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nova Varzea Grande",
+        "street": "Rua Bahia",
+        "zipcode": "78135-720"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Um",
+        "zipcode": "78160-274"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Travessa Cento E Cinquenta",
+        "zipcode": "78160-010"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Dois",
+        "zipcode": "78160-240"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Cristo Rei",
+        "street": "Rua Projetada 7 (Jd Cerrados)",
+        "zipcode": "78115-015"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Travessa Cento E Cinquenta E Dois",
+        "zipcode": "78160-020"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Macae",
+        "zipcode": "78160-310"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Limpa",
+        "street": "Rua Alvarenga (Costa Verde)",
+        "zipcode": "78128-360"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua G (Jd De Ala)",
+        "zipcode": "78155-170"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Nossa Senhora Da Guia",
+        "street": "Rua E (Prq Del Rei)",
+        "zipcode": "78145-700"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Maria Sebastiana De Campos",
+        "zipcode": "78110-290"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Senador Filinio Muller (Lot Marechal Rondon)",
+        "zipcode": "78138-116"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Potiguar",
+        "street": "Rua Tres",
+        "zipcode": "78110-816"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Vitoria Da Conquista",
+        "zipcode": "78160-120"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Sao Goncalo",
+        "street": "Travessa B (Jd Dos Girassois)",
+        "zipcode": "78135-035"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Uberaba",
+        "zipcode": "78160-440"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Avenida Getulio Vargas",
+        "zipcode": "78160-350"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Oitenta E Tres",
+        "zipcode": "78160-375"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Cinco (Lot Esmeralda)",
+        "zipcode": "78155-560"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Centro",
+        "street": "Rua Padre Dom Bosco",
+        "zipcode": "78110-250"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Aeroporto",
+        "street": "Rua Governador Pedro Pedrossian",
+        "zipcode": "78110-050"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Dois",
+        "zipcode": "78160-052"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Quarenta E Nove",
+        "zipcode": "78160-264"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua A (Lot Cid De Deus)",
+        "zipcode": "78160-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Mar Del Plata (Prq Industrial Atlantico)",
+        "zipcode": "78150-060"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Travessa B (Cohab Asa Branca)",
+        "zipcode": "78150-124"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua I (Cohab Asa Branca)",
+        "zipcode": "78150-150"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua T (Cohab Asa Branca)",
+        "zipcode": "78150-270"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua E (Asa Bela)",
+        "zipcode": "78150-305"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua D (Cohab Asa Branca)",
+        "zipcode": "78150-330"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Projetada 125",
+        "zipcode": "78158-110"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Mato Grosso",
+        "zipcode": "78158-180"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Rio Grande Do Sul",
+        "zipcode": "78158-220"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua C (Prq Das Mangabeiras)",
+        "zipcode": "78158-340"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Sessenta E Nove",
+        "zipcode": "78160-680"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua N (Prq Das Mangabeiras)",
+        "zipcode": "78158-400"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Quarenta E Quatro",
+        "zipcode": "78160-630"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua E (Prq Das Mangabeiras)",
+        "zipcode": "78158-480"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Tenente Pedro Dantas",
+        "zipcode": "78138-380"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Figueirinha",
+        "street": "Rua Quatro (Lot Adriana)",
+        "zipcode": "78142-081"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Travessa Lauro (Lot Bela Vista)",
+        "zipcode": "78155-230"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua E (Lot Cid De Deus)",
+        "zipcode": "78160-722"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua M (Lot Cid De Deus)",
+        "zipcode": "78160-185"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Dois (Lot Esmeralda)",
+        "zipcode": "78155-580"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Noventa E Seis",
+        "zipcode": "78160-750"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua O (Industrial)",
+        "zipcode": "78155-480"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua B",
+        "zipcode": "78138-530"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Agua Vermelha",
+        "street": "Rua Julio Domingos De Campos",
+        "zipcode": "78138-160"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Ernani P Lopes",
+        "zipcode": "78150-370"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua J (Prq Das Mangabeiras)",
+        "zipcode": "78158-440"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Farao (Lot Maria Izabel)",
+        "zipcode": "78150-605"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Presid. Juscelino Kubitscheck (Lot M. Izabel)",
+        "zipcode": "78150-400"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Dois",
+        "zipcode": "78160-580"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua Vitoria",
+        "zipcode": "78155-638"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Setenta E Oito",
+        "zipcode": "78160-530"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Beco Projetado 08",
+        "zipcode": "78150-014"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Paula I",
+        "street": "Rua Joaquim Murtinho (Lot Marechal Rondon)",
+        "zipcode": "78138-503"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Sao Jose Da Serra",
+        "zipcode": "78148-545"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Santa Isabel",
+        "street": "Rua Luiz Jose Da Silva Neto",
+        "zipcode": "78150-180"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Eldorado",
+        "street": "Rua Cento E Onze",
+        "zipcode": "78160-464"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Parque Paiaguas",
+        "street": "Rua Sessenta E Cinco",
+        "zipcode": "78148-646"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Dos Estados",
+        "street": "Rua Seis (Res Cabo Michel)",
+        "zipcode": "78158-268"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Mapim",
+        "street": "Rua S (Industrial)",
+        "zipcode": "78155-530"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Marajoara",
+        "street": "Rua Parintins",
+        "zipcode": "78138-665"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Avenida Verissimo Domingos De Campos (Lot Sao Simao)",
+        "zipcode": "78148-200"
+    },
+    {
+        "city": "Varzea Grande",
+        "state": "MT",
+        "district": "Jardim Ouro Verde",
+        "street": "Rua Seis (Lot Sao Simao)",
+        "zipcode": "78148-085"
+    }
+]

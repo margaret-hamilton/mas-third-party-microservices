@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Gongogi",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Jamil Rihan 1",
+        "zipcode": "45540-970"
+    },
+    {
+        "city": "Gongogi",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "45540-000"
+    },
+    {
+        "city": "Gongogi",
+        "state": "BA",
+        "district": null,
+        "street": "Praça Idelbrando Ribeiro",
+        "zipcode": "45540-991"
+    }
+]

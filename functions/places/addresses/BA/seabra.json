@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Seabra",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Praça Quintino Bocaiúva s/n",
+        "zipcode": "46900-970"
+    },
+    {
+        "city": "Seabra",
+        "state": "BA",
+        "district": "Olhos DÁgua Antonio Francisco",
+        "street": "Rua Principal",
+        "zipcode": "46900-973"
+    },
+    {
+        "city": "Seabra",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "46900-000"
+    },
+    {
+        "city": "Seabra",
+        "state": "BA",
+        "district": null,
+        "street": "Travessa do Colégio",
+        "zipcode": "46900-992"
+    },
+    {
+        "city": "Seabra",
+        "state": "BA",
+        "district": "Velame",
+        "street": "Praça do Comércio s/n",
+        "zipcode": "46900-972"
+    },
+    {
+        "city": "Seabra",
+        "state": "BA",
+        "district": "Lagoa da Boa Vista",
+        "street": "Avenida Indianápolis s/n",
+        "zipcode": "46900-971"
+    }
+]

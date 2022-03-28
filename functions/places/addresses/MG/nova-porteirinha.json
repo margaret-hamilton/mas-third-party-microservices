@@ -1,0 +1,16 @@
+[
+    {
+        "city": "Nova Porteirinha",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Avenida Castelo Branco 226",
+        "zipcode": "39525-972"
+    },
+    {
+        "city": "Nova Porteirinha",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39525-000"
+    }
+]

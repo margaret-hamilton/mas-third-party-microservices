@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Itaíba",
+        "state": "PE",
+        "district": "Centro",
+        "street": "Rua Santa Cruz 1",
+        "zipcode": "56550-970"
+    },
+    {
+        "city": "Itaíba",
+        "state": "PE",
+        "district": "Negra",
+        "street": "Praça Nossa Senhora da Conceição s/n",
+        "zipcode": "56555-970"
+    },
+    {
+        "city": "Itaíba",
+        "state": "PE",
+        "district": "",
+        "street": "",
+        "zipcode": "56550-000"
+    },
+    {
+        "city": "Itaíba",
+        "state": "PE",
+        "district": "Girau",
+        "street": "Rua Boa Vista s/n",
+        "zipcode": "56550-971"
+    }
+]

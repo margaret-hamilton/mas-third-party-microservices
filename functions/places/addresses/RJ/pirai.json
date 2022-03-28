@@ -1,0 +1,37 @@
+[
+    {
+        "city": "Piraí",
+        "state": "RJ",
+        "district": "Rosa Machado",
+        "street": "Rua Miguel Barbosa Leite 998",
+        "zipcode": "27175-971"
+    },
+    {
+        "city": "Piraí",
+        "state": "RJ",
+        "district": "",
+        "street": "",
+        "zipcode": "27175-000"
+    },
+    {
+        "city": "Piraí",
+        "state": "RJ",
+        "district": null,
+        "street": "Rua Castelo Branco",
+        "zipcode": "27190-990"
+    },
+    {
+        "city": "Piraí",
+        "state": "RJ",
+        "district": "Ribeirão das Lajes",
+        "street": "Vila Santa Rosa 119 Loja A Conjunto da Light",
+        "zipcode": "27175-972"
+    },
+    {
+        "city": "Piraí",
+        "state": "RJ",
+        "district": "Centro",
+        "street": "Rua Manoel Teixeira Campos Junior 36 Lojas A e B",
+        "zipcode": "27175-970"
+    }
+]

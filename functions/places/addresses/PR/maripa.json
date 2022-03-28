@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Maripá",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Ramiro Barcelos",
+        "zipcode": "85955-970"
+    },
+    {
+        "city": "Maripá",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Guarani",
+        "zipcode": "85958-970"
+    },
+    {
+        "city": "Maripá",
+        "state": "PR",
+        "district": "Centro",
+        "street": "Rua Corbélia",
+        "zipcode": "85955-971"
+    },
+    {
+        "city": "Maripá",
+        "state": "PR",
+        "district": "",
+        "street": "",
+        "zipcode": "85955-000"
+    }
+]

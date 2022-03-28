@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Divinopolis",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Goias",
+        "zipcode": "35500-000"
+    },
+    {
+        "city": "Divinopolis",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Mestre Rangel",
+        "zipcode": "35501-642"
+    },
+    {
+        "city": "Divinopolis",
+        "state": "MG",
+        "district": "Bela Vista",
+        "street": "Rua Tucuruca",
+        "zipcode": "35501-252"
+    }
+]

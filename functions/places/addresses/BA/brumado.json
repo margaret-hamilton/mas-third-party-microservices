@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Brumado",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Doutor Mário Meira 35",
+        "zipcode": "46100-970"
+    },
+    {
+        "city": "Brumado",
+        "state": "BA",
+        "district": "Novo Brumado",
+        "street": "Avenida Centenário 427",
+        "zipcode": "46100-972"
+    },
+    {
+        "city": "Brumado",
+        "state": "BA",
+        "district": "",
+        "street": "",
+        "zipcode": "46100-000"
+    },
+    {
+        "city": "Brumado",
+        "state": "BA",
+        "district": "Centro",
+        "street": "Rua Povoado do Presidente Vargas s/n",
+        "zipcode": "46109-970"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Naque",
+        "state": "MG",
+        "district": "",
+        "street": "",
+        "zipcode": "35117-000"
+    },
+    {
+        "city": "Naque",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "35157-000"
+    },
+    {
+        "city": "Naque",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Lídia Pinto Fernandes 120  AC Naque",
+        "zipcode": "35117-970"
+    },
+    {
+        "city": "Naque",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua Lídia Pinto Fernandes 120",
+        "zipcode": "35157-970"
+    }
+]

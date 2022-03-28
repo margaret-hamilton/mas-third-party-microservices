@@ -1,0 +1,30 @@
+[
+    {
+        "city": "Araçuaí",
+        "state": "MG",
+        "district": "Esplanada",
+        "street": "Rua Montes Claros 293",
+        "zipcode": "39600-972"
+    },
+    {
+        "city": "Araçuaí",
+        "state": "MG",
+        "district": null,
+        "street": null,
+        "zipcode": "39600-000"
+    },
+    {
+        "city": "Araçuaí",
+        "state": "MG",
+        "district": "Centro",
+        "street": "Rua José Antônio Araújo 166",
+        "zipcode": "39600-970"
+    },
+    {
+        "city": "Araçuaí",
+        "state": "MG",
+        "district": "Alfredo Graça",
+        "street": "Rua Principal s/n",
+        "zipcode": "39600-973"
+    }
+]
